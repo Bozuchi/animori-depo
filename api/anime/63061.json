@@ -1,0 +1,295 @@
+{
+  "turkanime": {
+    "isim": "Uchi no Otouto-domo ga Sumimasen",
+    "puan": "0.00",
+    "bolum_durumu": "7/24",
+    "ozet": "Lise birinci sınıfın sonundaki bahar tatilinde Ito, annesinin yeniden evlenmesi nedeniyle taşınmak zorunda kalacağını öğrenir. Ancak onu bekleyen asıl sürpriz, aynı çatı altında aniden dört üvey erkek kardeşe sahip olmaktır.\n\nYeni ailesiyle iyi geçinmeye kararlı olan Ito, bu duruma uyum sağlamak için elinden geleni yapar; fakat kardeşlerin en büyüğü olan Gen, mesafeli ve ne düşündüğü pek anlaşılmayan biridir. Yine de birlikte daha fazla vakit geçirdikçe Ito, Gen'in bu mesafeli dış görünüşünün ardındaki gizli nezaketi yavaş yavaş fark etmeye başlar.",
+    "slug": "uchi-no-otouto-domo-ga-sumimasen"
+  },
+  "jikan": {
+    "mal_id": 63061,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1902/156345.jpg",
+    "trailer_id": "d1as4Y7etI0",
+    "title": "Uchi no Otouto-domo ga Sumimasen",
+    "title_english": "Please Excuse My Younger Brothers",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "year": 2026,
+    "season": "summer",
+    "airing": true,
+    "aired": {
+      "from": "2026-07-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.06,
+    "popularity": 5538,
+    "synopsis": "During spring break at the end of her first year of high school, Ito learns she has to move because her mother is getting remarried. What she didn't expect is suddenly gaining four younger stepbrothers under the same roof.Determined to get along with her new family, Ito does her best to adjust, but the eldest brother, Gen, is distant and hard to read. Yet as they spend more time together, she starts to see glimpses of kindness behind his cool exterior.(Source: MAL News)",
+    "genres": [
+      4,
+      22
+    ],
+    "themes": [],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      1087
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          126871
+        ]
+      }
+    ],
+    "episodes": 24
+  },
+  "anilist": {
+    "id": 203490,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg"
+  },
+  "synopsis_tr": "Lisenin ilk yılının sonundaki bahar tatilinde Ito, annesi yeniden evlendiğinden dolayı taşınmak zorunda olduğunu öğrenir. Beklemediği şey birdenbire aynı çatı altında dört küçük üvey erkek kardeş kazanmaktır. Yeni ailesiyle iyi geçinmeye kararlı olan Ito, uyum sağlamak için elinden geleni yapar, ancak en büyük erkek kardeş Gen mesafelidir ve anlaşılması zordur. Ancak birlikte daha fazla zaman geçirdikçe, onun havalı dış görünüşünün arkasında nezaket izleri görmeye başlıyor.(Kaynak: MAL Haberleri)",
+  "episodes": [
+    {
+      "turkanime_title": "Uchi no Otouto-domo ga Sumimasen 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/zwtdksurn0qr"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-254tjhnwuvk2.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:59:30.341301",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false,
+      "title": "Welcome to the Narita Family",
+      "aired": "Jul 4, 2026"
+    },
+    {
+      "turkanime_title": "Uchi no Otouto-domo ga Sumimasen 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/wdzrc1mj1mbc"
+        },
+        {
+          "fansub_id": 1,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ksl5dhcky3n4.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-2hsq87mfpk3c.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:59:30.341301",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false,
+      "title": "Lies Make Families",
+      "aired": "Jul 11, 2026"
+    },
+    {
+      "turkanime_title": "Uchi no Otouto-domo ga Sumimasen 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/ktiaeqjsdvra"
+        },
+        {
+          "fansub_id": 1,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-ze4wt4svj0nr.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0l1rmkhld0e8.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:59:30.341301",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false,
+      "title": "The Narita Family's New Rule",
+      "aired": "Jul 18, 2026"
+    },
+    {
+      "turkanime_title": "Uchi no Otouto-domo ga Sumimasen 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/tpmzzpggaa4z"
+        },
+        {
+          "fansub_id": 1,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-kpm63wxqsc55.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-63dj2vlpi3nh.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T18:59:30.341301",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false,
+      "title": "Unable to Be Honest",
+      "aired": "Jul 25, 2026"
+    },
+    {
+      "turkanime_title": "Uchi no Otouto-domo ga Sumimasen 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/4fq0t4vfo97p"
+        },
+        {
+          "fansub_id": 1,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-5wez59fetd6s.html"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-dk09dsy5spvp.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-02T02:54:21.393194",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false,
+      "title": "Shut Away Angel",
+      "aired": "Aug 1, 2026"
+    },
+    {
+      "turkanime_title": "Uchi no Otouto-domo ga Sumimasen 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/kfrcjncbzwqd"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-21T01:25:27.823485",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false,
+      "title": "Siblings’ Feelings",
+      "aired": "Aug 8, 2026"
+    },
+    {
+      "turkanime_title": "Uchi no Otouto-domo ga Sumimasen 7. Bölüm",
+      "episode_number": 7,
+      "videos": [
+        {
+          "fansub_id": 1,
+          "player": "FILEMOON",
+          "url": "https://bysesukior.com/e/jgdde4fdjf25"
+        },
+        {
+          "fansub_id": 1,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-ey43lxwanyxo.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-08-21T01:25:27.823485",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false,
+      "title": "My Younger Brother Is a Prince?",
+      "aired": "Aug 15, 2026"
+    },
+    {
+      "turkanime_title": "8. Bölüm",
+      "title": "What’ll Happen to the Cultural Festival?!",
+      "episode_number": 8,
+      "aired": "Aug 22, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:06:44.148469"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "The Birthday Present Bonus",
+      "episode_number": 9,
+      "aired": "Aug 29, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:06:44.148469"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "A Sign of Connection",
+      "episode_number": 10,
+      "aired": "Sep 5, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:06:44.148469"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "The Hiroshima Onomichi Steam Incident",
+      "episode_number": 11,
+      "aired": "Sep 12, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:06:44.148469"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "Let the Memories Fall",
+      "episode_number": 12,
+      "aired": "Sep 19, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:06:44.148469"
+    },
+    {
+      "turkanime_title": "13. Bölüm",
+      "title": "Into the New Year! Valentines!",
+      "episode_number": 13,
+      "aired": "Oct 3, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:06:44.148469"
+    }
+  ]
+}

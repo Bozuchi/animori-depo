@@ -1,0 +1,73 @@
+{
+  "turkanime": {
+    "isim": "Shishunki no Obenkyou",
+    "slug": "shishunki-no-obenkyou"
+  },
+  "jikan": {
+    "mal_id": 49944,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1195/149968.jpg",
+    "trailer_id": null,
+    "title": "Shishunki no Obenkyou",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2021,
+    "season": null,
+    "airing": true,
+    "aired": {
+      "from": "2021-12-17T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "16 min.",
+    "rating": "Rx - Hentai",
+    "score": 7.63,
+    "popularity": 7003,
+    "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsishere.",
+    "genres": [
+      12
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1203
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          127121
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 134469,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/134469-6fn65hKn0SBn.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b134469-Ku4foJLXK4Sl.jpg"
+  },
+  "synopsis_tr": "Bu başlığa özet bilgisi eklenmemiştir. Buraya bir özet ekleyerek veritabanımızın geliştirilmesine yardımcı olun.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Around the Age of Immense Curiosity",
+      "episode_number": 1,
+      "aired": "Dec 17, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:00.443016"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "Around the Age of Choosing Experience over Studies",
+      "episode_number": 2,
+      "aired": "May 6, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:00.443016"
+    }
+  ]
+}

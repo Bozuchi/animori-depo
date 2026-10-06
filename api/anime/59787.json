@@ -1,0 +1,67 @@
+{
+  "turkanime": {
+    "isim": "Romelia Senki",
+    "slug": "romelia-senki"
+  },
+  "jikan": {
+    "mal_id": 59787,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1208/160008.jpg",
+    "trailer_id": "PxXPcoo8uGM",
+    "title": "Romelia Senki",
+    "title_english": "Romelia War Chronicle",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.24,
+    "popularity": 5867,
+    "synopsis": "Rising from the ashes, a fallen noblewoman stands to save humanity!After the Demon King's defeat, Countess Romelia's world is shattered when Prince Henri, her fiancé, publicly breaks off their engagement, dismissing her as \"useless\" alongside his new allies: Saint Elizabeth, the sage Ekaterina, and the swordswoman Lu Hime. What they don't realize is that Romelia possesses a secret power called \"Grace,\" which brings her extraordinary luck. Left abandoned and humiliated, Romelia refuses to give up. With her homeland still under siege by the remnants of the demon army and her people enslaved, she embarks on a desperate mission to save them.Facing overwhelming challenges—no army, no healers, no funds, and only inexperienced recruits—Romelia uses her wit and determination to turn the odds in her favor. She seizes fortresses from local lords to build her forces, negotiates with the church for healing, secures funds from merchants, and has her soldiers gain experience through monster hunting. Against all expectations, Romelia rises from the ashes, leading her loyal followers in a daring campaign to rescue her people and prove her worth.(Source: MAL News)",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      38
+    ],
+    "demographics": [],
+    "studios": [
+      3290
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          166739,
+          166740
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 180894,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png"
+  },
+  "synopsis_tr": "Küllerinden yeniden doğan, düşmüş soylu bir kadın insanlığı kurtarmak için ayağa kalkıyor! Şeytan Kral'ın yenilgisinden sonra, Kontes Romelia'nın dünyası, nişanlısı Prens Henri'nin herkesin önünde nişanlarını kesmesi ve onu yeni müttefikleri olan Aziz Elizabeth, bilge Ekaterina ve kılıç ustası Lu Hime ile birlikte \"işe yaramaz\" olarak görmesiyle paramparça olur. Farkında olmadıkları şey ise Romelia'nın \"Lütuf\" adı verilen ve ona olağanüstü şans getiren gizli bir güce sahip olduğudur. Terk edilmiş ve aşağılanmış halde bırakılan Romelia pes etmeyi reddeder. Anavatanı hala iblis ordusunun kalıntıları tarafından kuşatma altındayken ve halkı köleleştirilmişken, onları kurtarmak için umutsuz bir göreve başlar. Ezici zorluklarla (ordu yok, şifacı yok, para yok ve yalnızca deneyimsiz askerler) karşı karşıya kalan Romelia, durumu kendi lehine çevirmek için zekasını ve kararlılığını kullanır. Güçlerini oluşturmak için yerel lordların kalelerini ele geçirir, şifa için kiliseyle pazarlık yapar, tüccarlardan fon sağlar ve askerlerinin canavar avlayarak deneyim kazanmasını sağlar. Tüm beklentilere rağmen Romelia küllerinden yeniden doğuyor ve sadık takipçilerine, halkını kurtarmak ve değerini kanıtlamak için cesur bir kampanyaya liderlik ediyor.(Kaynak: MAL Haberleri)",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "The Girl Named Romelia",
+      "episode_number": 1,
+      "aired": "Oct 5, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:29.281649"
+    }
+  ]
+}

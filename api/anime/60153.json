@@ -1,0 +1,66 @@
+{
+  "turkanime": {
+    "isim": "Rilakkuma",
+    "slug": "rilakkuma"
+  },
+  "jikan": {
+    "mal_id": 60153,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1705/158571.jpg",
+    "trailer_id": "AJZhfgMN4W4",
+    "title": "Rilakkuma",
+    "title_english": "Rilakkuma",
+    "type": "TV",
+    "source": "Other",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "spring",
+    "airing": true,
+    "aired": {
+      "from": "2026-04-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 min.",
+    "rating": "PG - Children",
+    "score": 6.54,
+    "popularity": 10916,
+    "synopsis": "Experience the stress-free world of Rilakkuma, the relaxed bear who makes being lazy look effortless!(Source: Crunchyroll)",
+    "genres": [
+      36
+    ],
+    "themes": [
+      51,
+      63
+    ],
+    "demographics": [],
+    "studios": [
+      10
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          35777
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 183231,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
+  },
+  "synopsis_tr": "Tembel olmayı zahmetsiz gösteren rahat ayı Rilakkuma'nın stressiz dünyasını deneyimleyin!(Kaynak: Crunchyroll)",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Episode 1",
+      "episode_number": 1,
+      "aired": "Apr 4, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:10:31.999173"
+    }
+  ]
+}

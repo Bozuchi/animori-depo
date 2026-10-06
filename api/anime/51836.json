@@ -1,0 +1,126 @@
+{
+  "turkanime": {
+    "isim": "Douluo Dalu II: Jueshi Tangmen",
+    "slug": "douluo-dalu-ii-jueshi-tangmen"
+  },
+  "jikan": {
+    "mal_id": 51836,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1357/154563.jpg",
+    "trailer_id": "edH5hWsq9ck",
+    "title": "Douluo Dalu II: Jueshi Tangmen",
+    "title_english": "Soul Land 2: The Peerless Tang Clan",
+    "type": "ONA",
+    "source": "Web novel",
+    "status": "Currently Airing",
+    "episodes": 182,
+    "year": 2023,
+    "season": null,
+    "airing": true,
+    "aired": {
+      "from": "2023-06-24T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "20 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.03,
+    "popularity": 8268,
+    "synopsis": "This place has no magic, no battle aura, no martial arts, but there are Martial Souls. On the Douluo Continent, ten thousand years after the founding of the Tang Sect, the Tang Sect has declined. A new generation of geniuses emerges, can the new Shrek Seven Devils revive the Tang Sect and compose an epic song of the Tang Sect? Million-year-old soul beasts, the Necromancer Saint God who grasps the sun and moon and plucks stars from the sky, and a brand-new soul tool system that led to the Tang Sect's decline. All the wonders will be revealed. Can the Tang Sect's hidden weapons regain their former glory? Can the Tang Sect reappear in its former splendor?(Source: Tencent, translated)",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [
+      17
+    ],
+    "demographics": [],
+    "studios": [
+      1768
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          37822
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          103169
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entries": [
+          50581,
+          52684
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          63497
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 137683,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137683-IMuvIECdZNBh.png"
+  },
+  "synopsis_tr": "Bu yerde sihir yok, savaş aurası yok, dövüş sanatı yok ama Dövüş Ruhları var. Douluo Kıtasında, Tang Tarikatı'nın kuruluşundan on bin yıl sonra Tang Tarikatı geriledi. Yeni nesil dahiler ortaya çıkıyor, yeni Shrek Yedi Şeytan, Tang Tarikatını yeniden canlandırıp Tang Tarikatının destansı bir şarkısını besteleyebilecek mi? Milyon yıllık ruh canavarları, güneşi ve ayı kavrayan, gökten yıldızları toplayan Necromancer Aziz Tanrısı ve Tang Tarikatı'nın çöküşüne yol açan yepyeni bir ruh aracı sistemi. Tüm harikalar ortaya çıkacak. Tang Tarikatı'nın gizli silahları eski ihtişamına kavuşabilecek mi? Tang Tarikatı eski ihtişamıyla yeniden ortaya çıkabilecek mi?(Kaynak: Tencent, çevrildi)",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Huo Yuhao",
+      "episode_number": 1,
+      "aired": "Jun 24, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:18.892830"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "One Million Year Soul Ring",
+      "episode_number": 2,
+      "aired": "Jun 24, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:18.892830"
+    },
+    {
+      "turkanime_title": "139. Bölüm",
+      "title": "Episode 139",
+      "episode_number": 139,
+      "aired": "Feb 7, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:18.892830"
+    },
+    {
+      "turkanime_title": "157. Bölüm",
+      "title": "Episode 157",
+      "episode_number": 157,
+      "aired": "Jun 13, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:18.892830"
+    },
+    {
+      "turkanime_title": "170. Bölüm",
+      "title": "Episode 170",
+      "episode_number": 170,
+      "aired": "Sep 12, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:18.892830"
+    }
+  ]
+}

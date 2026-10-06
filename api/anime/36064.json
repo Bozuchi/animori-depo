@@ -1,0 +1,72 @@
+{
+  "turkanime": {
+    "isim": "Fate/Grand Order",
+    "slug": "fate-grand-order"
+  },
+  "jikan": {
+    "mal_id": 36064,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1554/110198.jpg",
+    "trailer_id": null,
+    "title": "Fate/Grand Order",
+    "title_english": "Fate/Grand Order",
+    "type": "CM",
+    "source": "Game",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2014,
+    "season": null,
+    "airing": true,
+    "aired": {
+      "from": "2014-12-27T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "15 sec.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.64,
+    "popularity": 4183,
+    "synopsis": "Assorted commercials and collaborations for theFate/Grand Ordermobile RPG. These short animations are posted to Type-Moon's official YouTube channel and advertise the game itself or promote a new game event (eg. Dead Heat Summer Race! for summer 2017). The animation is unique to these commercials and is not present in the mobile game nor in the TV special ofFate/Grand Order.",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      43,
+      44,
+      56,
+      300,
+      456,
+      858,
+      1087,
+      1835,
+      1967,
+      1995,
+      2175,
+      2570,
+      2881,
+      3196
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          34321,
+          38084,
+          38085,
+          38086,
+          41497,
+          60660,
+          64802
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 101184,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101184-DAX3YdU5vCeA.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101184-WXr7zfS6aqNY.jpg"
+  },
+  "synopsis_tr": "Fate/Grand Order mobil RPG'si için çeşitli reklamlar ve işbirlikleri. Bu kısa animasyonlar Type-Moon'un resmi YouTube kanalında yayınlanır ve oyunun kendisinin reklamını yapar veya yeni bir oyun etkinliğinin tanıtımını yapar (örn. 2017 yazında Dead Heat Yaz Yarışı!). Animasyon bu reklamlara özeldir ve mobil oyunda veya Fate/Grand Order'ın TV özel programında mevcut değildir.",
+  "episodes": []
+}

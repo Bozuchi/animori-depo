@@ -1,0 +1,65 @@
+{
+  "turkanime": {
+    "isim": "Ojisan wa Kawaii Mono ga Osuki.",
+    "slug": "ojisan-wa-kawaii-mono-ga-osuki"
+  },
+  "jikan": {
+    "mal_id": 62907,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1322/159256.jpg",
+    "trailer_id": "QW6tKrnQILA",
+    "title": "Ojisan wa Kawaii Mono ga Osuki.",
+    "title_english": "Uncle's Obsession with Cute Things",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "None",
+    "score": 6.54,
+    "popularity": 8173,
+    "synopsis": "Mitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!(Source: MU)",
+    "genres": [
+      4
+    ],
+    "themes": [
+      50
+    ],
+    "demographics": [],
+    "studios": [
+      839
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          114121
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 202079,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202079-oeULOdC1R1AR.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202079-nwBpDUms0Bab.png"
+  },
+  "synopsis_tr": "Mitsutaka Oji, meslektaşları tarafından hayranlık duyulan 40 yaşında, yakışıklı bir ofis çalışanıdır. Elbette herkesten saklamaya çalıştığı bir sırrı var: Sevimli şeyleri seviyor. Ancak yeğeninin evine gitmesiyle Mitsutaka'nın sırrı tehlikede!(Kaynak: MU)",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Chief Oji and Cute Things",
+      "episode_number": 1,
+      "aired": "Oct 4, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:08.903698"
+    }
+  ]
+}

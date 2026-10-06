@@ -1,0 +1,63 @@
+{
+  "turkanime": {
+    "isim": "Hajimete no Hitozuma",
+    "slug": "hajimete-no-hitozuma"
+  },
+  "jikan": {
+    "mal_id": 40855,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1210/105663.jpg",
+    "trailer_id": null,
+    "title": "Hajimete no Hitozuma",
+    "title_english": null,
+    "type": "OVA",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "episodes": 6,
+    "year": 2020,
+    "season": null,
+    "airing": false,
+    "aired": {
+      "from": "2020-05-22T00:00:00+00:00",
+      "to": "2024-02-02T00:00:00+00:00"
+    },
+    "duration": "15 min. per ep.",
+    "rating": "Rx - Hentai",
+    "score": 6.98,
+    "popularity": 7036,
+    "synopsis": "Yoshino Kanako is happily married to Tomoya and they are preparing to have a child together. Everything is going great until Kanako meets with her father-in-law, Makoto, whom Kanako is already familiar with unfortunately... Something she never disclosed to her husband is that seven years ago she prostituted herself to abusive Makoto. Fortunately for Kanako, Makoto agrees to keep the secret on the condition that they re-establish their intimacy.(Source: TMDB)",
+    "genres": [
+      12
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      2269
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          121019
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 113947,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113947-OAj0MnFKqsMl.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113947-POn7IuMfAJZp.png"
+  },
+  "synopsis_tr": "Yoshino Kanako, Tomoya ile mutlu bir evliliğe sahip ve birlikte çocuk sahibi olmaya hazırlanıyorlar. Kanako, ne yazık ki zaten tanıdığı kayınpederi Makoto ile tanışana kadar her şey harika gidiyor... Kocasına asla açıklamadığı şey, yedi yıl önce kendisini tacizci Makoto'ya fuhuş yaptığıydı. Neyse ki Kanako için Makoto, yakınlıklarını yeniden kurmaları şartıyla sırrı saklamayı kabul eder.(Kaynak: TMDB)",
+  "episodes": [
+    {
+      "turkanime_title": "6. Bölüm",
+      "title": "A Mother's Love",
+      "episode_number": 6,
+      "aired": "Feb 2, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:05.295143"
+    }
+  ]
+}

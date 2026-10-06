@@ -1,0 +1,66 @@
+{
+  "turkanime": {
+    "isim": "Mahou Shoujo Ikusei Keikaku: Restart",
+    "slug": "mahou-shoujo-ikusei-keikaku-restart"
+  },
+  "jikan": {
+    "mal_id": 54344,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1518/160127.jpg",
+    "trailer_id": "iD1hmEvGQmM",
+    "title": "Mahou Shoujo Ikusei Keikaku: Restart",
+    "title_english": null,
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "Unknown",
+    "rating": "None",
+    "score": 6.44,
+    "popularity": 6843,
+    "synopsis": "The deadly game is back!Once again, sixteen Magical Girls have been assembled for a high-stakes challenge. Every three days, their Magical Phone pulls them into an RPG-like simulation where they have to work together to fight enemies, solve puzzles, and earn Magical Candy to advance. A staggering ten billion yen reward awaits them at the end—but only for the players who land the finishing blow. With such a tantalizing prize on the line, it's only a matter of time before the girls turn on each other—and if their hit points drop to zero, a game over will be the least of their worries...(Source: Mahou Shoujo Ikusei Keikaku Wiki, edited)",
+    "genres": [
+      1,
+      41
+    ],
+    "themes": [
+      58,
+      59,
+      66,
+      76
+    ],
+    "demographics": [],
+    "studios": [
+      118
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          33003
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          80555,
+          102373,
+          72353
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 160803,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-Rcr3IvhE7q9c.png"
+  },
+  "synopsis_tr": "Ölümcül oyun geri döndü! Bir kez daha on altı Büyülü Kız, yüksek riskli bir mücadele için bir araya geldi. Her üç günde bir, Sihirli Telefonları onları, düşmanlarla savaşmak, bulmacaları çözmek ve ilerlemek için Sihirli Şeker kazanmak için birlikte çalışmak zorunda oldukları RPG benzeri bir simülasyonun içine çekiyor. Sonunda onları on milyar yenlik şaşırtıcı bir ödül bekliyor; ancak yalnızca son darbeyi indiren oyuncular için. Böylesine cezbedici bir ödül söz konusuyken, kızların birbirlerine düşman olmaları an meselesidir ve eğer can puanları sıfıra düşerse, oyunun bitmesi onların en son endişesi olacaktır...(Kaynak: Mahou Shoujo Ikusei Keikaku Wiki, düzenlendi)",
+  "episodes": []
+}

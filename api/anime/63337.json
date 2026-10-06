@@ -1,0 +1,66 @@
+{
+  "turkanime": {
+    "isim": "FX Senshi Kurumi-chan",
+    "slug": "fx-senshi-kurumi-chan"
+  },
+  "jikan": {
+    "mal_id": 63337,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1928/160253.jpg",
+    "trailer_id": "7rxIZ3z0S4s",
+    "title": "FX Senshi Kurumi-chan",
+    "title_english": "FX Fighter Kurumi-chan",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": 12,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.3,
+    "popularity": 5501,
+    "synopsis": "When middle school student, Fukuga Kurumi's mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost \"I'll easily get that much back!\"Now, when she is a university student she makes her long-awaited debut in FX trading, unaware that the world she just entered could turn from heaven to hell in the blink of an eye.This is a cute and slightly dangerous story as it explains technical terms by thrilling market fluctuations as the chart drives up and down, which becomes more heated with the entry of quirky FX warriors: Yasuko Takane, Mochiko Kogane, and Mebuki Yamashi. Can Kurumi and her friends survive this world with unstoppable heartbeat moments and unrealized losses!?(Source: MAL News)",
+    "genres": [],
+    "themes": [
+      50,
+      40
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      911
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          134679
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 206401,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-Nsf3QKwKxDra.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png"
+  },
+  "synopsis_tr": "Ortaokul öğrencisi Fukuga Kurumi'nin annesi, döviz ticaretinde (Döviz ticareti) 20 milyon yen kaybettikten sonra intihar ettiğinde, annesinin kaybettiği parayı telafi etmeye yemin eder \"Bu kadarını kolayca geri alacağım!\" Şimdi, üniversite öğrencisiyken, girdiği dünyanın göz açıp kapayıncaya kadar cennetten cehenneme dönebileceğinden habersiz, uzun süredir beklediği döviz ticaretine adım atıyor. Bu, teknik terimleri piyasayı heyecanlandırarak açıkladığı için sevimli ve biraz da tehlikeli bir hikaye. Grafik yukarı ve aşağı hareket ettikçe dalgalanmalar yaşanıyor ve bu durum ilginç FX savaşçılarının Yasuko Takane, Mochiko Kogane ve Mebuki Yamashi'nin katılımıyla daha da kızışıyor. Kurumi ve arkadaşları, kalp atışlarının durdurulamayan anları ve gerçekleşmemiş kayıplarla dolu bu dünyada hayatta kalmayı başarabilecek mi?(Kaynak: MAL Haberleri)",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "What's Forex?",
+      "episode_number": 1,
+      "aired": "Oct 1, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:15.556470"
+    }
+  ]
+}

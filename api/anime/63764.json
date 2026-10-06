@@ -1,0 +1,57 @@
+{
+  "turkanime": {
+    "isim": "Vertex Force",
+    "slug": "vertex-force"
+  },
+  "jikan": {
+    "mal_id": 63764,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1026/160012.jpg",
+    "trailer_id": "JqjXaJysS5w",
+    "title": "Vertex Force",
+    "title_english": "Vertex Force",
+    "type": "TV",
+    "source": "Original",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.91,
+    "popularity": 8997,
+    "synopsis": "Akira Toudou, a high schooler living in northern Okinawa, lives peacefully with his mother and his older sister, Haruka. However, behind their peaceful life lies a secret passed down through their family: Haruka has inherited a mysterious power from their father, known only as \"Engine,\" and she has lived her life hiding this power from others. Akira, however, inherited nothing. He harbors an inferiority complex due to his own weakness.Then, strange events began to occur all over the world. What is the purpose of the unknown enemy closing in on Akira and his friends? Now, with the fate of the universe at stake, a brother who has nothing and a sister who has everything must find out what they can really do together.(Source: MAL News)",
+    "genres": [
+      1,
+      24
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      474
+    ],
+    "relations": []
+  },
+  "anilist": {
+    "id": 209562,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209562-kQQbTKDuql9p.jpg"
+  },
+  "synopsis_tr": "Kuzey Okinawa'da yaşayan lise öğrencisi Akira Toudou, annesi ve ablası Haruka ile huzur içinde yaşıyor. Ancak huzurlu yaşamlarının arkasında aileden geçen bir sır vardır: Haruka, babalarından \"Motor\" olarak bilinen gizemli bir gücü miras almıştır ve hayatını bu gücü başkalarından saklayarak geçirmiştir. Ancak Akira hiçbir şeyi miras almadı. Kendi zayıflığından dolayı aşağılık kompleksine kapılır. Daha sonra tüm dünyada tuhaf olaylar yaşanmaya başlar. Bilinmeyen düşmanın Akira ve arkadaşlarına yaklaşmasının amacı nedir? Şimdi, evrenin kaderi tehlikedeyken, hiçbir şeyi olmayan bir erkek kardeş ile her şeye sahip bir kız kardeşin birlikte gerçekte ne yapabileceklerini bulmaları gerekmektedir.(Kaynak: MAL Haber)",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Engine, Ignition",
+      "episode_number": 1,
+      "aired": "Oct 3, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:11.377124"
+    }
+  ]
+}

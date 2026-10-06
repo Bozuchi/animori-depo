@@ -1,0 +1,84 @@
+{
+  "turkanime": {
+    "isim": "Yasei no Last Boss ga Arawareta! 2nd Season",
+    "slug": "yasei-no-last-boss-ga-arawareta-2nd-season"
+  },
+  "jikan": {
+    "mal_id": 63140,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1689/160128.jpg",
+    "trailer_id": "qF7rpSynOk0",
+    "title": "Yasei no Last Boss ga Arawareta! 2nd Season",
+    "title_english": "A Wild Last Boss Appeared! Season 2",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.55,
+    "popularity": 4591,
+    "synopsis": "Second season ofYasei no Last Boss ga Arawareta!.",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [
+      62
+    ],
+    "demographics": [],
+    "studios": [
+      318
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          59644
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          108598,
+          109032
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 204389,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg"
+  },
+  "synopsis_tr": "Yasei no Last Boss ga Arawareta!'nın ikinci sezonu.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Mobile Capital Blutgang Has Appeared!",
+      "episode_number": 1,
+      "aired": "Oct 3, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:07:50.322530"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "A Rampant Scorpius Appeared!",
+      "episode_number": 2,
+      "aired": "Oct 10, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:07:50.322530"
+    }
+  ]
+}

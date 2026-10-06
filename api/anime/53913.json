@@ -1,0 +1,75 @@
+{
+  "turkanime": {
+    "isim": "Tensei shitara Ken deshita II",
+    "slug": "tensei-shitara-ken-deshita-ii"
+  },
+  "jikan": {
+    "mal_id": 53913,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1539/159559.jpg",
+    "trailer_id": "Yt364dCCxIE",
+    "title": "Tensei shitara Ken deshita II",
+    "title_english": "Reincarnated as a Sword Season 2",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": 12,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-01T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.54,
+    "popularity": 2363,
+    "synopsis": "Second season ofTensei shitara Ken deshita.",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [
+      62,
+      72
+    ],
+    "demographics": [],
+    "studios": [
+      605
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          49891
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          103144,
+          99891
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 159042,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaUFBkms.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-GGFwlDskc5vR.png"
+  },
+  "synopsis_tr": "Tensei Shitara Ken Deshita'nın ikinci sezonu.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "The Floating Island",
+      "episode_number": 1,
+      "aired": "Oct 8, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:07:34.593673"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "turkanime": {
+    "isim": "Psyren",
+    "slug": "psyren"
+  },
+  "jikan": {
+    "mal_id": 63098,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1000/160405.jpg",
+    "trailer_id": "fmUpSXFbSK0",
+    "title": "Psyren",
+    "title_english": "Psyren",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-05T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "None",
+    "score": 6.82,
+    "popularity": 5397,
+    "synopsis": "Ageha Yoshina is a self-confident high school student who helps others for a fee. On his way back from a job, he finds a strange calling card with the word \"Psyren\" imprinted left behind in a phone booth and decides to keep it, unaware of its purpose. The very next day, Ageha discovers that his classmate Sakurako Amamiya has the exact same calling card in her possession. When he questions her, Sakurako asks him to save her, signaling the day his troubles begin.Confused by the circumstances of this encounter, Ageha realizes something is wrong when Sakurako goes missing. In an attempt to figure out what is happening, he decides to call the number provided on the calling card and is asked a series of questions by a mysterious voice, ending with a final, cryptic question: \"Would you like to go to Psyren?\" Thus begins two teenagers' participation in a game of life or death within a strange world inhabited by monsters called Taboo. Granted the ability to use psychic powers known as PSI, the duo fight to return to the place they call home.[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      22,
+      24,
+      37,
+      41
+    ],
+    "themes": [
+      59,
+      40,
+      11,
+      31
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      41
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          3438
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 204011,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204011-hBOwte9MzykA.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg"
+  },
+  "synopsis_tr": "Ageha Yoshina, başkalarına bir ücret karşılığında yardım eden, kendine güvenen bir lise öğrencisidir. İşten dönerken, bir telefon kulübesinde bırakılmış, üzerinde \"Psyren\" yazan garip bir kartvizit bulur ve amacından habersiz onu saklamaya karar verir. Hemen ertesi gün Ageha, sınıf arkadaşı Sakurako Amamiya'nın da aynı arama kartına sahip olduğunu keşfeder. Sakurako onu sorguladığında, onu kurtarmasını ister ve sorunlarının başlayacağı günün sinyalini verir. Bu karşılaşmanın koşulları karşısında kafası karışan Ageha, Sakurako kaybolunca bir şeylerin ters gittiğini fark eder. Neler olduğunu anlamak amacıyla, arama kartında belirtilen numarayı aramaya karar verir ve gizemli bir ses tarafından bir dizi soru sorulur ve son, şifreli bir soruyla biter: \"Psyren'e gitmek ister misiniz?\" Böylece iki gencin, Tabu adı verilen canavarların yaşadığı garip bir dünyada bir ölüm kalım oyununa katılımı başlar. PSI olarak bilinen psişik güçleri kullanma yeteneği verilen ikili, ev dedikleri yere dönmek için savaşır.[MAL Rewrite tarafından yazılmıştır]",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Urban Legend",
+      "episode_number": 1,
+      "aired": "Oct 5, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:10.419503"
+    }
+  ]
+}

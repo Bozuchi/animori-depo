@@ -1,0 +1,98 @@
+name: 🎌 Anime Database Update (AniList & MAL)
+
+on:
+  # Her gün saat 03:00 UTC'de otomatik çalışır
+  schedule:
+    - cron: '0 3 * * *'
+
+  # Manuel tek tıkla çalıştırma
+  workflow_dispatch:
+    inputs:
+      sync_season:
+        description: 'Mevcut sezon animelerini de tara (--sync-season)'
+        required: false
+        type: boolean
+        default: false
+      check_airing:
+        description: 'Yerel yayında (Airing) olan serileri denetle (--check-airing)'
+        required: false
+        type: boolean
+        default: false
+      full:
+        description: 'Genişletilmiş tarama yap (--full)'
+        required: false
+        type: boolean
+        default: false
+      limit:
+        description: 'İşlenecek maksimum anime limiti (Boş bırakılırsa hepsi)'
+        required: false
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    timeout-minutes: 180  # 3 saat
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 🐍 Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 📦 Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: 🔄 Run Anime Sync
+        id: run_update
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.check_airing }}" = "true" ]; then
+            ARGS="$ARGS --check-airing"
+          fi
+          if [ "${{ github.event.inputs.sync_season }}" = "true" ]; then
+            ARGS="$ARGS --sync-season"
+          fi
+          if [ "${{ github.event.inputs.full }}" = "true" ]; then
+            ARGS="$ARGS --full"
+          fi
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"
+          fi
+
+          echo "🚀 Çalıştırılıyor: python main.py $ARGS"
+          python main.py $ARGS
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: 📤 Commit & Push Changes
+        if: always() && steps.run_update.outcome != 'skipped'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Güncellenen verileri ekle
+          git add api/
+          [ -d data ] && git add data/
+          [ -f errors.log ] && git add errors.log
+
+          # Değişiklik varsa commit & push yap
+          if git diff --staged --quiet; then
+            echo "📭 Değişiklik yok, commit atlanıyor."
+          else
+            git commit -m "🔄 Anime database updated (AniList & MAL) [skip ci]"
+            git pull --rebase origin main || true
+            git push origin main
+            echo "✅ Değişiklikler başarıyla push edildi."
+          fi

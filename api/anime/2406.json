@@ -1,0 +1,572 @@
+{
+  "turkanime": {
+    "isim": "Sazae-san",
+    "slug": "sazae-san"
+  },
+  "jikan": {
+    "mal_id": 2406,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1008/98996.jpg",
+    "trailer_id": null,
+    "title": "Sazae-san",
+    "title_english": "Mrs. Sazae",
+    "type": "TV",
+    "source": "4-koma manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 1969,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "1969-10-05T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min.",
+    "rating": "G - All Ages",
+    "score": 6.16,
+    "popularity": 7265,
+    "synopsis": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kids and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults.(Source: AniDB)",
+    "genres": [
+      4
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      191
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          13192
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          28615,
+          47542
+        ]
+      },
+      {
+        "relation": "Character",
+        "entries": [
+          35770
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          62250
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 2406,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2406-ROqXxejQ5bH9.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2406-nP8NIct9Sci3.jpg"
+  },
+  "synopsis_tr": "Ana karakter Sazae-san adında bir annedir. Eşi, çocukları ve anne babasıyla birlikte bir evde yaşıyor. Gösteri nihai aile programıdır ve geleneksel temaları takip etme eğilimindedir. Bu şovu \"Partridge Ailesi\"nin Japonca eşdeğeri olarak düşünün, bu şovun atmosferi hakkında iyi bir fikir edineceksiniz. Şiddet, küfür, kung-fu aksiyonu veya büyülü kızlar gibi şeyler görmeyi beklemeyin. Olay örgüsü daha çok \"Bugün Sazae-san yeni alışveriş merkezine gidiyor ve kayboluyor\" gibi. Bu tür \"sıkıcı\" olay örgüsü ve basit sanat, Japon olmayan izleyiciler için genellikle itici geliyor, ancak Japonların çoğu diziyi inanılmaz derecede iyi buluyor. Sonuç olarak, TV'de en çok reyting alan animelerden biri olmaya devam ediyor ve yetişkinler tarafından \"kabul edilebilir\" olarak değerlendirilen birkaç animeden biri.(Kaynak: AniDB)",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "The 75% Genius! / Say Hello to the Hard Sell!! / My Father's Mental Breakdown",
+      "episode_number": 1,
+      "aired": "Oct 5, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "It Was a Little Too Much / Roll of Judo / Autumn Maple Story",
+      "episode_number": 2,
+      "aired": "Oct 12, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "3. Bölüm",
+      "title": "The Doctor's Story / I Saw It! I Saw It! / It's Sports Day, Ready, Go!",
+      "episode_number": 3,
+      "aired": "Oct 19, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "4. Bölüm",
+      "title": "Father and Son Don't Need Water / The Wandering Dog / The Great TV War",
+      "episode_number": 4,
+      "aired": "Oct 26, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "5. Bölüm",
+      "title": "Two Seaweeds / The Fat Lion in the Sky / The Bonito's Biggest Worry",
+      "episode_number": 5,
+      "aired": "Nov 2, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "6. Bölüm",
+      "title": "Katsuo's Date / Introduction to Visiting Studies / The Story of a Homeless Child",
+      "episode_number": 6,
+      "aired": "Nov 9, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "7. Bölüm",
+      "title": "I'm a Robber / Let's Have a Sweet Contest / Warm Winter Story",
+      "episode_number": 7,
+      "aired": "Nov 16, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "8. Bölüm",
+      "title": "Sazae's Play / Let Demon Dogs Lie / The Mini-Bride Whirlwind",
+      "episode_number": 8,
+      "aired": "Nov 23, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "A Great Hot Spring / One Sad and Lonely Autumn Night / Our Amateur Baseball Team",
+      "episode_number": 9,
+      "aired": "Nov 30, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "The December Teacher Run / What a Wonderful Open House / Welcoming a Thousand Visitors",
+      "episode_number": 10,
+      "aired": "Dec 7, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "Stay Safe During Year's End / Moonlighting Sonata / Onlookers",
+      "episode_number": 11,
+      "aired": "Dec 14, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "Year-end Precautions / Beauty in Suffering / Hey Buddy",
+      "episode_number": 12,
+      "aired": "Dec 21, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "13. Bölüm",
+      "title": "Tales of Department Store Drudgery / Hey, What's Up? / The House Where Men Live Together",
+      "episode_number": 13,
+      "aired": "Dec 28, 1969",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "14. Bölüm",
+      "title": "The Ever-Happy Family / Kakizome Humility / I Love Festive Wear",
+      "episode_number": 14,
+      "aired": "Jan 4, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "15. Bölüm",
+      "title": "Ah! What an Unlucky Day / Handyman Katsuo / Genius Education",
+      "episode_number": 15,
+      "aired": "Jan 11, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "16. Bölüm",
+      "title": "Mr. Namihei / Dear Consultant / Love Wakame",
+      "episode_number": 16,
+      "aired": "Jan 18, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "17. Bölüm",
+      "title": "Baby Snowman / Namihei's Suggestion Box / Plum Blossoms",
+      "episode_number": 17,
+      "aired": "Jan 25, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "18. Bölüm",
+      "title": "Hooray for Our Ancestors / Just Be Yourself / The Kid with the Key",
+      "episode_number": 18,
+      "aired": "Feb 1, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "19. Bölüm",
+      "title": "It's Tough Being a Man / The Rat Incident / I'm Studying",
+      "episode_number": 19,
+      "aired": "Feb 8, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "20. Bölüm",
+      "title": "Sazae's Doing Her Best / Bad Luck Bargain Bundle / Matchmaking",
+      "episode_number": 20,
+      "aired": "Feb 15, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "21. Bölüm",
+      "title": "It's a Two-way Street / It's All About How You Play the Game / The Dog That Doesn't Bark",
+      "episode_number": 21,
+      "aired": "Feb 22, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "22. Bölüm",
+      "title": "Peach Blossom Message Board / Sazae Goes to Osaka / Runaway Season",
+      "episode_number": 22,
+      "aired": "Mar 1, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "23. Bölüm",
+      "title": "True Love Story / Namihei's Kitchen Tales / Hello Madam Butterfly",
+      "episode_number": 23,
+      "aired": "Mar 8, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "24. Bölüm",
+      "title": "The Story of Norisuke / Towards the Blue Sky / An Age of Distrust",
+      "episode_number": 24,
+      "aired": "Mar 15, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "25. Bölüm",
+      "title": "Tara-chan's Phone Call / We're Currently Unavailable / Little Guests",
+      "episode_number": 25,
+      "aired": "Mar 22, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "26. Bölüm",
+      "title": "My Private Tutor / Oh My Goodness / Baited, Burned, and Bamboozled Again",
+      "episode_number": 26,
+      "aired": "Mar 29, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "27. Bölüm",
+      "title": "Spring Cherry Blossom Story / The Chosen Two / Big Brother is Here",
+      "episode_number": 27,
+      "aired": "Apr 5, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "28. Bölüm",
+      "title": "Sleepy Spring / Freshman / Are Shaved Heads Lame?",
+      "episode_number": 28,
+      "aired": "Apr 12, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "29. Bölüm",
+      "title": "Namihei's Boastful Fishing Tales / Home Visit / The Mountains are Calling",
+      "episode_number": 29,
+      "aired": "Apr 19, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "30. Bölüm",
+      "title": "Goodbye Triangle on the 88th Night / May the Carp Streamers Fly Sky-high / Who's the Victim?",
+      "episode_number": 30,
+      "aired": "Apr 26, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "31. Bölüm",
+      "title": "Family Drive / The Star Salaryman / Happy Birthday",
+      "episode_number": 31,
+      "aired": "May 3, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "32. Bölüm",
+      "title": "Competition of Ideas / Bird Appreciation Week / Strange Neighbor",
+      "episode_number": 32,
+      "aired": "May 10, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "33. Bölüm",
+      "title": "Hello Little One / Big Commotion at the School Festival / Tales of Clam Digging",
+      "episode_number": 33,
+      "aired": "Mar 17, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "34. Bölüm",
+      "title": "Katsuo Goes to the Races / Grandma at Large! / Katsuo Enters the Ring",
+      "episode_number": 34,
+      "aired": "May 24, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "35. Bölüm",
+      "title": "My Dream Car / I Want to Be in the Newspaper / Please Believe Me",
+      "episode_number": 35,
+      "aired": "May 31, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "36. Bölüm",
+      "title": "Ayu Fishing Season / Wardrobe Changing Season / Say \"Cheese!\"",
+      "episode_number": 36,
+      "aired": "Jun 7, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "37. Bölüm",
+      "title": "A. The Tale of Danzetsu / Sazae Goes to the Expo / Don't Forget Your Belongings",
+      "episode_number": 37,
+      "aired": "Jun 14, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "38. Bölüm",
+      "title": "Operation: Bonus / Rain, Rain, Go Away / I'm Not Here",
+      "episode_number": 38,
+      "aired": "Jun 21, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "39. Bölüm",
+      "title": "12 Years Later / The Spirit of Tailoring / One, Two, Three!",
+      "episode_number": 39,
+      "aired": "Jun 28, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "40. Bölüm",
+      "title": "God of Storage / The Legend of Tanabata / Mom's Volleyball",
+      "episode_number": 40,
+      "aired": "Jul 5, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "41. Bölüm",
+      "title": "Naked Together / Practical Training / Obon Festival",
+      "episode_number": 41,
+      "aired": "Jul 12, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "42. Bölüm",
+      "title": "It's a Hard Sell / We Found the Inn / The Annual Grave Visit",
+      "episode_number": 42,
+      "aired": "Jul 19, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "43. Bölüm",
+      "title": "Tara-chan and the Kiss / Homework Isn't Sad / The Sea is Wide",
+      "episode_number": 43,
+      "aired": "Jul 26, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "44. Bölüm",
+      "title": "Ghost Story Variations / Up, Up / Midsummer Ox Day",
+      "episode_number": 44,
+      "aired": "Aug 2, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "45. Bölüm",
+      "title": "Katsuo Has Changed / Irritating Stories / Pool Tales",
+      "episode_number": 45,
+      "aired": "Aug 9, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "46. Bölüm",
+      "title": "Rumbling Thunder / Sazae's Greatest Crisis / Strict Discipline",
+      "episode_number": 46,
+      "aired": "Aug 16, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "47. Bölüm",
+      "title": "Wakame and the Goldfish / It Was the Night of the Festival / I Was Dumped",
+      "episode_number": 47,
+      "aired": "Aug 23, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "48. Bölüm",
+      "title": "I'm a Cinephile / Master Isasaka Appears / Hooray for Tara-chan!",
+      "episode_number": 48,
+      "aired": "Aug 30, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "49. Bölüm",
+      "title": "Swarm of Bees / Typhoon Tara / Autumn Returns",
+      "episode_number": 49,
+      "aired": "Sep 6, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    },
+    {
+      "turkanime_title": "50. Bölüm",
+      "title": "Watch Your Weight / My Older Brother / Over My Dead Body!",
+      "episode_number": 50,
+      "aired": "Sep 13, 1970",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:27.343937"
+    }
+  ]
+}

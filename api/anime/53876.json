@@ -1,0 +1,1603 @@
+{
+  "turkanime": {
+    "isim": "Pokemon (2023)",
+    "puan": "0.00",
+    "bolum_durumu": "1/?",
+    "ozet": "Tüm Pokémon dünyasında geçen yeni bir rüya ve macera, Liko adında bir kız ve Roy adında bir oğlanın ardından yepyeni bir Pokémon serisinde ortaya çıkıyor.",
+    "slug": "pokemon-2023"
+  },
+  "jikan": {
+    "mal_id": 53876,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1703/137216.jpg",
+    "trailer_id": "fs6IVwrmMZo",
+    "title": "Pokemon (2023)",
+    "title_english": "Pokémon Horizons: The Series",
+    "type": "TV",
+    "source": "Game",
+    "status": "Currently Airing",
+    "year": 2023,
+    "season": "spring",
+    "airing": true,
+    "aired": {
+      "from": "2023-04-14T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min.",
+    "rating": "PG - Children",
+    "score": 7.4,
+    "popularity": 4007,
+    "synopsis": "In a world filled with strange yet majestic creatures known as Pokémon, a new adventure begins! Hailing from the pristine region of Paldea, the timid Liko travels to the Kanto region to attend the Indigo Academy and become a Pokémon trainer—a person who forms relationships with Pokémon and trains them to participate in battles. Soon, Liko acquires Nyahoja, a fickle Grass-type cat Pokémon, as her first partner.Prior to Liko's transfer to Kanto, her grandmother gives her a uniquely patterned and gleaming pendant as a protective charm. However, an enigmatic organization—The Explorers—seems to know a secret about the pendant and nearly succeeds in stealing it from Liko. Fortunately, she is rescued by the Rising Volt Tacklers, a group of adventurers led by a Lizardon-riding trainer named Friede.After a series of encounters with The Explorers, Liko decides to join Friede's team, accompanying him and his crew members on a grand journey across the regions. Along the way, they aim to unravel not only the mysteries of the world of Pokémon, but also the power that resides within her pendant.[Written by MAL Rewrite]",
+    "genres": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      28
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          175379,
+          157491
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          56218
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          527,
+          53327,
+          56712,
+          57199,
+          57488,
+          61027,
+          60799,
+          62885
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 158871,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg"
+  },
+  "synopsis_tr": "Pokémon olarak bilinen tuhaf ama görkemli yaratıklarla dolu bir dünyada yeni bir macera başlıyor! El değmemiş Paldea bölgesinden gelen ürkek Liko, Indigo Akademisi'ne katılmak ve Pokémon eğitmeni olmak için Kanto bölgesine gider; Pokémon'la ilişkiler kuran ve onları savaşlara katılmaları için eğiten bir kişi. Kısa süre sonra Liko, ilk ortağı olarak kararsız bir Çim tipi kedi Pokémon olan Nyahoja'yı satın alır. Liko'nun Kanto'ya transferinden önce, büyükannesi ona koruyucu bir tılsım olarak benzersiz desenli ve ışıltılı bir kolye verir. Ancak esrarengiz bir organizasyon olan Kaşifler kolyeyle ilgili bir sırrı biliyor gibi görünüyor ve onu Liko'dan çalmayı neredeyse başarıyor. Neyse ki, Friede adında bir Lizardon binme antrenörünün liderliğindeki bir grup maceracı olan Rising Volt Tacklers tarafından kurtarılır. Kaşifler ile bir dizi karşılaşmanın ardından Liko, Friede'nin ekibine katılmaya karar verir ve ona ve mürettebatına bölgeler arasında yapılacak büyük bir yolculukta eşlik eder. Yol boyunca sadece Pokémon dünyasının gizemlerini değil, aynı zamanda kolyesinin içindeki gücü de ortaya çıkarmayı hedefliyorlar.[MAL Rewrite tarafından yazıldı]",
+  "episodes": [
+    {
+      "turkanime_title": "Pokemon (2023) 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 15,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1z6w-8MfSJjirZUAmm2mD4iANBP0zbtJA/preview"
+        },
+        {
+          "fansub_id": 15,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7432059985078517895"
+        },
+        {
+          "fansub_id": 15,
+          "player": "BYS",
+          "url": "https://bysesukior.com/e/6gtv2lcxjnas"
+        },
+        {
+          "fansub_id": 15,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-krsilmik70at.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-29T02:24:41.774087",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false,
+      "title": "The Pendant That Starts It All: Part One",
+      "aired": "Apr 14, 2023"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "The Pendant That Starts It All: Part Two",
+      "episode_number": 2,
+      "aired": "Apr 14, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "3. Bölüm",
+      "title": "For Sure! 'Cause Sprigatito's with Me!",
+      "episode_number": 3,
+      "aired": "Apr 21, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "4. Bölüm",
+      "title": "The Treasure After the Storm!",
+      "episode_number": 4,
+      "aired": "Apr 28, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "5. Bölüm",
+      "title": "Found You, Fuecoco!",
+      "episode_number": 5,
+      "aired": "May 5, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "6. Bölüm",
+      "title": "The Ancient Poké Ball!",
+      "episode_number": 6,
+      "aired": "May 12, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "7. Bölüm",
+      "title": "Special Training with Cap!",
+      "episode_number": 7,
+      "aired": "May 19, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "8. Bölüm",
+      "title": "The Door That Never Opens!",
+      "episode_number": 8,
+      "aired": "May 26, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "Welcome to Paldea!",
+      "episode_number": 9,
+      "aired": "Jun 2, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "Nemona and Brassius and...",
+      "episode_number": 10,
+      "aired": "Jun 9, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "Arboliva's Forest",
+      "episode_number": 11,
+      "aired": "Jun 16, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "The Future I Choose!",
+      "episode_number": 12,
+      "aired": "Jun 23, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "13. Bölüm",
+      "title": "An Unexpected Picnic!",
+      "episode_number": 13,
+      "aired": "Jul 14, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "14. Bölüm",
+      "title": "Fly! Wattrel!",
+      "episode_number": 14,
+      "aired": "Jul 21, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "15. Bölüm",
+      "title": "Someone We Can't See! Whosawhatsit?!",
+      "episode_number": 15,
+      "aired": "Jul 28, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "16. Bölüm",
+      "title": "Quaxly, We Can Do It!",
+      "episode_number": 16,
+      "aired": "Aug 4, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "17. Bölüm",
+      "title": "Special Training Time!",
+      "episode_number": 17,
+      "aired": "Aug 11, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "18. Bölüm",
+      "title": "Flying Pikachu, Rising Higher and Higher!",
+      "episode_number": 18,
+      "aired": "Aug 18, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "19. Bölüm",
+      "title": "The Bittersweet Truth",
+      "episode_number": 19,
+      "aired": "Aug 25, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "20. Bölüm",
+      "title": "Kabu's Battle Training!",
+      "episode_number": 20,
+      "aired": "Sep 1, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "21. Bölüm",
+      "title": "The Lonely Hatenna",
+      "episode_number": 21,
+      "aired": "Sep 8, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "22. Bölüm",
+      "title": "Charge! Galar Mine",
+      "episode_number": 22,
+      "aired": "Sep 15, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "23. Bölüm",
+      "title": "Fiery Galarian Moltres",
+      "episode_number": 23,
+      "aired": "Sep 22, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "24. Bölüm",
+      "title": "Reunion at the Ancient Castle!",
+      "episode_number": 24,
+      "aired": "Oct 13, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "25. Bölüm",
+      "title": "Rivals in the Dark of Night!",
+      "episode_number": 25,
+      "aired": "Oct 20, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "26. Bölüm",
+      "title": "Terapagos's Adventure",
+      "episode_number": 26,
+      "aired": "Oct 27, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "27. Bölüm",
+      "title": "As Long as I'm with My Friends",
+      "episode_number": 27,
+      "aired": "Nov 3, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "28. Bölüm",
+      "title": "The Stolen Treasure",
+      "episode_number": 28,
+      "aired": "Nov 10, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "29. Bölüm",
+      "title": "Orla and the Poké Ball Smith",
+      "episode_number": 29,
+      "aired": "Nov 17, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "30. Bölüm",
+      "title": "Slip and Crash! A Mystery Pokémon?!",
+      "episode_number": 30,
+      "aired": "Nov 24, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "31. Bölüm",
+      "title": "Song Within the Mist",
+      "episode_number": 31,
+      "aired": "Dec 1, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "32. Bölüm",
+      "title": "Lapras's Feelings for Its Friends",
+      "episode_number": 32,
+      "aired": "Dec 8, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "33. Bölüm",
+      "title": "Roar of the Black Rayquaza",
+      "episode_number": 33,
+      "aired": "Dec 15, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "34. Bölüm",
+      "title": "Respective Departures",
+      "episode_number": 34,
+      "aired": "Dec 22, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "35. Bölüm",
+      "title": "The Wild Pair, Friede and Cap!",
+      "episode_number": 35,
+      "aired": "Jan 12, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "36. Bölüm",
+      "title": "Mission: Find Oinkologne's Partner!",
+      "episode_number": 36,
+      "aired": "Jan 19, 2024",
+      "filler": true,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "37. Bölüm",
+      "title": "Fuecoco... Becomes a Crook?!",
+      "episode_number": 37,
+      "aired": "Jan 26, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "38. Bölüm",
+      "title": "The SOS is from Tandemaus?",
+      "episode_number": 38,
+      "aired": "Feb 2, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "39. Bölüm",
+      "title": "Tinkatink's Ideal Hammer",
+      "episode_number": 39,
+      "aired": "Feb 9, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "40. Bölüm",
+      "title": "Farewell, Sprigatito?",
+      "episode_number": 40,
+      "aired": "Feb 16, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "41. Bölüm",
+      "title": "A Wild Mom Appears!",
+      "episode_number": 41,
+      "aired": "Mar 1, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "42. Bölüm",
+      "title": "Transform! Hero of the Seas, Palafin",
+      "episode_number": 42,
+      "aired": "Mar 8, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "43. Bölüm",
+      "title": "A Challenge from the Explorers",
+      "episode_number": 43,
+      "aired": "Mar 15, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "44. Bölüm",
+      "title": "The Plan to Capture Rayquaza",
+      "episode_number": 44,
+      "aired": "Mar 22, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "45. Bölüm",
+      "title": "From So Far Away",
+      "episode_number": 45,
+      "aired": "Mar 29, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "46. Bölüm",
+      "title": "Welcome to Naranja Academy!",
+      "episode_number": 46,
+      "aired": "Apr 12, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "47. Bölüm",
+      "title": "Put Your Heart Into It!",
+      "episode_number": 47,
+      "aired": "Apr 19, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "48. Bölüm",
+      "title": "Sparkle! The Glow of Flame and Art!",
+      "episode_number": 48,
+      "aired": "May 3, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "49. Bölüm",
+      "title": "Dot and Nidothing",
+      "episode_number": 49,
+      "aired": "May 10, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "50. Bölüm",
+      "title": "Trending Terastallization! Dance, Dance, Quaxly!",
+      "episode_number": 50,
+      "aired": "May 17, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "51. Bölüm",
+      "title": "The Flower Tower",
+      "episode_number": 51,
+      "aired": "May 24, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "52. Bölüm",
+      "title": "Wattrel's High Wind Warning!",
+      "episode_number": 52,
+      "aired": "May 31, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "53. Bölüm",
+      "title": "Hatenna and the Otherworldly",
+      "episode_number": 53,
+      "aired": "Jun 7, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "54. Bölüm",
+      "title": "The Treasure of Eternity",
+      "episode_number": 54,
+      "aired": "Jun 14, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "55. Bölüm",
+      "title": "Showdown! The Paldea Elite Four",
+      "episode_number": 55,
+      "aired": "Jun 21, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "56. Bölüm",
+      "title": "Liko vs. Rika! Towards the Battle's End",
+      "episode_number": 56,
+      "aired": "Jun 28, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "57. Bölüm",
+      "title": "The Terapagos I Don't Know",
+      "episode_number": 57,
+      "aired": "Jul 5, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "58. Bölüm",
+      "title": "Food Fit for a Kingambit!",
+      "episode_number": 58,
+      "aired": "Jul 12, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "59. Bölüm",
+      "title": "Dance, Quaxly! The Blue Medali Step!",
+      "episode_number": 59,
+      "aired": "Jul 26, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "60. Bölüm",
+      "title": "Roy and Fuecoco's First Snow!",
+      "episode_number": 60,
+      "aired": "Aug 9, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "61. Bölüm",
+      "title": "Resonating Spirits in a Challenge to Ryme!",
+      "episode_number": 61,
+      "aired": "Aug 16, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "62. Bölüm",
+      "title": "A New Song for Fuecoco",
+      "episode_number": 62,
+      "aired": "Aug 23, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "63. Bölüm",
+      "title": "Ice Battle! Cold-Eyed Grusha",
+      "episode_number": 63,
+      "aired": "Aug 30, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "64. Bölüm",
+      "title": "The Approaching Shadow!",
+      "episode_number": 64,
+      "aired": "Sep 6, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "65. Bölüm",
+      "title": "Liko and Amethio",
+      "episode_number": 65,
+      "aired": "Sep 13, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "66. Bölüm",
+      "title": "Infiltrating the System! Naranja Academy in Danger!",
+      "episode_number": 66,
+      "aired": "Sep 20, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "67. Bölüm",
+      "title": "Shine on, Terastallization! Liko vs. Roy!",
+      "episode_number": 67,
+      "aired": "Sep 27, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "68. Bölüm",
+      "title": "Into a New Sky! The Brave Olivine!",
+      "episode_number": 68,
+      "aired": "Oct 11, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "69. Bölüm",
+      "title": "Roy is Crocalor, and Crocalor is Roy!",
+      "episode_number": 69,
+      "aired": "Oct 18, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "70. Bölüm",
+      "title": "Tinkatink's Hammer Wasn't Made in a Day",
+      "episode_number": 70,
+      "aired": "Oct 25, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "71. Bölüm",
+      "title": "Encounters at the Crystal Pool",
+      "episode_number": 71,
+      "aired": "Nov 1, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "72. Bölüm",
+      "title": "The Search for Kleavor!",
+      "episode_number": 72,
+      "aired": "Nov 8, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "73. Bölüm",
+      "title": "Kleavor the Solitary Warrior",
+      "episode_number": 73,
+      "aired": "Nov 15, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "74. Bölüm",
+      "title": "The Three Explorers",
+      "episode_number": 74,
+      "aired": "Nov 22, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "75. Bölüm",
+      "title": "The Wonders of the World!",
+      "episode_number": 75,
+      "aired": "Nov 29, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "76. Bölüm",
+      "title": "Wynaut?! Wy-Yes!",
+      "episode_number": 76,
+      "aired": "Dec 6, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "77. Bölüm",
+      "title": "Ludlow's Homecoming!",
+      "episode_number": 77,
+      "aired": "Dec 13, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "78. Bölüm",
+      "title": "Entei's Fierce Battle Cry!",
+      "episode_number": 78,
+      "aired": "Dec 20, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "79. Bölüm",
+      "title": "Over the Top",
+      "episode_number": 79,
+      "aired": "Jan 10, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "80. Bölüm",
+      "title": "Total-lie Awesome Pokémon in Area Zero?!",
+      "episode_number": 80,
+      "aired": "Jan 17, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "81. Bölüm",
+      "title": "The Pillar of Fire",
+      "episode_number": 81,
+      "aired": "Jan 24, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "82. Bölüm",
+      "title": "Beyond the Shining Rainbow",
+      "episode_number": 82,
+      "aired": "Jan 31, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "83. Bölüm",
+      "title": "The Truth Revealed!",
+      "episode_number": 83,
+      "aired": "Feb 7, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "84. Bölüm",
+      "title": "Where the Land Meets the Sky",
+      "episode_number": 84,
+      "aired": "Feb 14, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "85. Bölüm",
+      "title": "The Pokémon Paradise of Laqua!",
+      "episode_number": 85,
+      "aired": "Feb 21, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "86. Bölüm",
+      "title": "The Rising Volt Tacklers vs. The Explorers!",
+      "episode_number": 86,
+      "aired": "Feb 28, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "87. Bölüm",
+      "title": "Guided by the Black Rayquaza!",
+      "episode_number": 87,
+      "aired": "Mar 7, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "88. Bölüm",
+      "title": "The Earthshaking White Zygarde",
+      "episode_number": 88,
+      "aired": "Mar 14, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "89. Bölüm",
+      "title": "Where the Adventure Leads",
+      "episode_number": 89,
+      "aired": "Mar 21, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "90. Bölüm",
+      "title": "Eyes to the Skies Once Again, Part 1",
+      "episode_number": 90,
+      "aired": "Apr 11, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "91. Bölüm",
+      "title": "Eyes to the Skies Once Again, Part 2",
+      "episode_number": 91,
+      "aired": "Apr 11, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "92. Bölüm",
+      "title": "Following Traces of Laquium",
+      "episode_number": 92,
+      "aired": "Apr 18, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "93. Bölüm",
+      "title": "Clash of the Nidothing Fans",
+      "episode_number": 93,
+      "aired": "Apr 25, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "94. Bölüm",
+      "title": "The Pokémon Center Lady",
+      "episode_number": 94,
+      "aired": "May 2, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "95. Bölüm",
+      "title": "The Strong Sphere",
+      "episode_number": 95,
+      "aired": "May 9, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "96. Bölüm",
+      "title": "Crash! Team Dragon Rampage!",
+      "episode_number": 96,
+      "aired": "May 16, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "97. Bölüm",
+      "title": "The Prankster",
+      "episode_number": 97,
+      "aired": "May 30, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "98. Bölüm",
+      "title": "Reunion in Cortondo",
+      "episode_number": 98,
+      "aired": "Jun 6, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "99. Bölüm",
+      "title": "Orla, Grounded",
+      "episode_number": 99,
+      "aired": "Jun 13, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "100. Bölüm",
+      "title": "We Are the Rising Volt Tacklers!",
+      "episode_number": 100,
+      "aired": "Jun 20, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "101. Bölüm",
+      "title": "Terastallization vs. Mega Evolution!",
+      "episode_number": 101,
+      "aired": "Jun 27, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "102. Bölüm",
+      "title": "The Knight Encountered in the Ruins",
+      "episode_number": 102,
+      "aired": "Jul 4, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "103. Bölüm",
+      "title": "Stay Ablaze, My Love for Gurumin!",
+      "episode_number": 103,
+      "aired": "Jul 18, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "104. Bölüm",
+      "title": "Carbou's Wish",
+      "episode_number": 104,
+      "aired": "Aug 1, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "105. Bölüm",
+      "title": "Sonansu... No, Konansu, Actually?!",
+      "episode_number": 105,
+      "aired": "Aug 8, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "106. Bölüm",
+      "title": "Mega Awesome?! The Off-Limits Dark Ball",
+      "episode_number": 106,
+      "aired": "Aug 15, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "107. Bölüm",
+      "title": "The Two Of Us, As Friends",
+      "episode_number": 107,
+      "aired": "Aug 22, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "108. Bölüm",
+      "title": "Diana Comes Back!!!!",
+      "episode_number": 108,
+      "aired": "Aug 29, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "109. Bölüm",
+      "title": "How Nakanuchan Makes the Ultimate Hammer",
+      "episode_number": 109,
+      "aired": "Sep 5, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "110. Bölüm",
+      "title": "The Six Heroes Bare Their Fangs",
+      "episode_number": 110,
+      "aired": "Sep 12, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "111. Bölüm",
+      "title": "Strive for Greater Heights with Unwavering Strength",
+      "episode_number": 111,
+      "aired": "Sep 19, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "112. Bölüm",
+      "title": "Roy: Training",
+      "episode_number": 112,
+      "aired": "Oct 10, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "113. Bölüm",
+      "title": "Ult – Strongest",
+      "episode_number": 113,
+      "aired": "Oct 17, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "114. Bölüm",
+      "title": "Mega Evolution – Bond",
+      "episode_number": 114,
+      "aired": "Oct 24, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "115. Bölüm",
+      "title": "Tera☆Sparkle! Blueberry Academy",
+      "episode_number": 115,
+      "aired": "Oct 31, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "116. Bölüm",
+      "title": "Training Begins! Terarium Dome",
+      "episode_number": 116,
+      "aired": "Nov 7, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "117. Bölüm",
+      "title": "Quiz Time! What is Ult's Training?",
+      "episode_number": 117,
+      "aired": "Nov 14, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "118. Bölüm",
+      "title": "Liko and Tebrim: The Bond of Happiness!",
+      "episode_number": 118,
+      "aired": "Nov 21, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "119. Bölüm",
+      "title": "Give it Your All, Achigator: For the Sake of Tomorrow",
+      "episode_number": 119,
+      "aired": "Nov 28, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "120. Bölüm",
+      "title": "Dot and Botan! Secret Mission",
+      "episode_number": 120,
+      "aired": "Dec 5, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "121. Bölüm",
+      "title": "The Catcher in the Sky",
+      "episode_number": 121,
+      "aired": "Dec 12, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "122. Bölüm",
+      "title": "Wings of Blazing Heat! Roy VS Friede",
+      "episode_number": 122,
+      "aired": "Dec 19, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "123. Bölüm",
+      "title": "Tremble with Fear! Kibi-Kibi Panic on the Ship",
+      "episode_number": 123,
+      "aired": "Jan 9, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "124. Bölüm",
+      "title": "Break In! Explorers' Headquarters",
+      "episode_number": 124,
+      "aired": "Jan 23, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "125. Bölüm",
+      "title": "Get The Six Heroes Back!",
+      "episode_number": 125,
+      "aired": "Jan 30, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "126. Bölüm",
+      "title": "A Battle You Can’t Afford to Lose! The Bond That’s Put to the Test!!",
+      "episode_number": 126,
+      "aired": "Feb 6, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "127. Bölüm",
+      "title": "Hyper Training! Everyone's Respective Feelings",
+      "episode_number": 127,
+      "aired": "Feb 13, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "128. Bölüm",
+      "title": "Step by Step! Dot and Welkamo!!",
+      "episode_number": 128,
+      "aired": "Feb 20, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "129. Bölüm",
+      "title": "The Black Rayquaza, Time for the Showdown",
+      "episode_number": 129,
+      "aired": "Feb 27, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "130. Bölüm",
+      "title": "Hambel on the Night of the Blood Moon",
+      "episode_number": 130,
+      "aired": "Mar 6, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "131. Bölüm",
+      "title": "Come On! Gather Up! Our Fellow Companions",
+      "episode_number": 131,
+      "aired": "Mar 13, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "132. Bölüm",
+      "title": "The Revenge Match! Lucario's Challenge!!",
+      "episode_number": 132,
+      "aired": "Mar 20, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "133. Bölüm",
+      "title": "To the Final Battle",
+      "episode_number": 133,
+      "aired": "Apr 10, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "134. Bölüm",
+      "title": "Showdown at the Summit! Mega Evolution!!",
+      "episode_number": 134,
+      "aired": "Apr 17, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "135. Bölüm",
+      "title": "Awakening! The Catastrophic Lacrim Core",
+      "episode_number": 135,
+      "aired": "Apr 24, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "136. Bölüm",
+      "title": "Stellar Finale",
+      "episode_number": 136,
+      "aired": "May 1, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "137. Bölüm",
+      "title": "Reboot! Off to the World of Adventure!!",
+      "episode_number": 137,
+      "aired": "May 22, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "138. Bölüm",
+      "title": "The Fake Rising Volteccers Appear!?",
+      "episode_number": 138,
+      "aired": "May 29, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "139. Bölüm",
+      "title": "Secret Metamon Rhapsody",
+      "episode_number": 139,
+      "aired": "Jun 5, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "140. Bölüm",
+      "title": "Bread Bread Bread! Mini Gurumin!!",
+      "episode_number": 140,
+      "aired": "Jun 12, 2026",
+      "filler": true,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "141. Bölüm",
+      "title": "Ready Go! Unite Battle!!",
+      "episode_number": 141,
+      "aired": "Jun 19, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "142. Bölüm",
+      "title": "Miare City! A New Encounter",
+      "episode_number": 142,
+      "aired": "Jun 26, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "143. Bölüm",
+      "title": "A Dream Ball For You!",
+      "episode_number": 143,
+      "aired": "Jul 17, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "144. Bölüm",
+      "title": "Navi's Little Big Adventure!",
+      "episode_number": 144,
+      "aired": "Jul 24, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "145. Bölüm",
+      "title": "Astonishing! Mega Rayquaza and the Land of Mystery!?",
+      "episode_number": 145,
+      "aired": "Jul 31, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "146. Bölüm",
+      "title": "Wanival and Dekanuchan's Great Sleep Operation!",
+      "episode_number": 146,
+      "aired": "Aug 7, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "147. Bölüm",
+      "title": "Crazy Feels! This Is a Pokémon Contest, Dearie!!",
+      "episode_number": 147,
+      "aired": "Aug 28, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "148. Bölüm",
+      "title": "Koraidon & Miraidon! The Great Paldea Race!!",
+      "episode_number": 148,
+      "aired": "Sep 4, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "149. Bölüm",
+      "title": "Squishy Pokémon! When the Squish Gets Squisher, It's Squish Time!!",
+      "episode_number": 149,
+      "aired": "Sep 11, 2026",
+      "filler": true,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    },
+    {
+      "turkanime_title": "150. Bölüm",
+      "title": "The Expanding World, I'll GO with You!",
+      "episode_number": 150,
+      "aired": "Sep 18, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:58.757483"
+    }
+  ]
+}

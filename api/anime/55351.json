@@ -1,0 +1,74 @@
+{
+  "turkanime": {
+    "isim": "Azur Lane CMs",
+    "slug": "azur-lane-cms"
+  },
+  "jikan": {
+    "mal_id": 55351,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1421/135967.jpg",
+    "trailer_id": null,
+    "title": "Azur Lane CMs",
+    "title_english": null,
+    "type": "CM",
+    "source": "Game",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2020,
+    "season": null,
+    "airing": true,
+    "aired": {
+      "from": "2020-04-17T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "30 sec.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "popularity": 15775,
+    "synopsis": "Assorted commercials and previews for theAzur LaneMobile Game posted on the official YouTube channel. The animation is unique and is not present in the game nor in the TV Series.",
+    "genres": [
+      1
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      11,
+      803,
+      1873,
+      2009,
+      2134,
+      2838,
+      3293,
+      3335
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          38328,
+          57415,
+          57108,
+          57109,
+          57358,
+          57359,
+          55365,
+          57485,
+          57424,
+          57397,
+          57398,
+          59527,
+          59543,
+          62230,
+          63688,
+          64769
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 124082,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124082-ex34xC20rmHW.png"
+  },
+  "synopsis_tr": "Azur Lane Mobil Oyunu için çeşitli reklamlar ve önizlemeler resmi YouTube kanalında yayınlandı. Animasyon benzersizdir ve oyunda veya TV Dizisinde mevcut değildir.",
+  "episodes": []
+}

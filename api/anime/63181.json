@@ -1,0 +1,80 @@
+{
+  "turkanime": {
+    "isim": "Tougen Anki: Nikko Kegon no Taki-hen",
+    "slug": "tougen-anki-nikko-kegon-no-taki-hen"
+  },
+  "jikan": {
+    "mal_id": 63181,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1332/160147.jpg",
+    "trailer_id": "ZmCOHpUBXo0",
+    "title": "Tougen Anki: Nikko Kegon no Taki-hen",
+    "title_english": "Tougen Anki: Nikko Kegon Falls Arc",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": 12,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-02T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min. per ep.",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.27,
+    "popularity": 4854,
+    "synopsis": "Sequel ofTougen Anki.",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      6
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      101
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          58811
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entries": [
+          65023
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          127436
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 204650,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png"
+  },
+  "synopsis_tr": "Tougen Anki'nin devamı.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Let the Training Begin!",
+      "episode_number": 1,
+      "aired": "Oct 2, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:07:56.048852"
+    }
+  ]
+}

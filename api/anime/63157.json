@@ -1,0 +1,74 @@
+{
+  "turkanime": {
+    "isim": "Keroro Gunsou☆",
+    "slug": "keroro-gunsou"
+  },
+  "jikan": {
+    "mal_id": 63157,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1827/160110.jpg",
+    "trailer_id": "iMyre5xXDzE",
+    "title": "Keroro Gunsou☆",
+    "title_english": null,
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.4,
+    "popularity": 10413,
+    "synopsis": "A newKeroro Gunsoufrom scratch.",
+    "genres": [
+      4,
+      24
+    ],
+    "themes": [
+      20
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      1258
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          390
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          516
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 216557,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/216557-qig0mKuvYRIb.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216557-9CXz04CEmXOi.png"
+  },
+  "synopsis_tr": "Sıfırdan yeni bir Keroro Gunsou.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Keroro's Dreamland",
+      "episode_number": 1,
+      "aired": "Oct 3, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:10:47.541455"
+    }
+  ]
+}

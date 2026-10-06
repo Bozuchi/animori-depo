@@ -1,0 +1,72 @@
+{
+  "turkanime": {
+    "isim": "Black Clover 2nd Season",
+    "slug": "black-clover-2nd-season"
+  },
+  "jikan": {
+    "mal_id": 61967,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1857/160133.jpg",
+    "trailer_id": "9QyiEgv33z4",
+    "title": "Black Clover 2nd Season",
+    "title_english": "Black Clover Season 2",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.83,
+    "popularity": 1944,
+    "synopsis": "Second season ofBlack Clover.",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      1
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          34572
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          86337
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 195604,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg"
+  },
+  "synopsis_tr": "Black Clover'ın ikinci sezonu.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "The Battle Begins",
+      "episode_number": 1,
+      "aired": "Oct 3, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:07:29.877934"
+    }
+  ]
+}

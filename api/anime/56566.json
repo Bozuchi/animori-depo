@@ -1,0 +1,656 @@
+{
+  "turkanime": {
+    "isim": "Beyblade X",
+    "slug": "beyblade-x"
+  },
+  "jikan": {
+    "mal_id": 56566,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1394/145458.jpg",
+    "trailer_id": "SXdTmFshlFs",
+    "title": "Beyblade X",
+    "title_english": "Beyblade X",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2023,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2023-10-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min.",
+    "rating": "PG - Children",
+    "score": 6.84,
+    "popularity": 8218,
+    "synopsis": "At the heart of X City stands the impressive X Tower, an interconnected twin-skyscraper structure that symbolizes the pinnacle of every Beyblade player's dream. The building serves as the official headquarters for professional Beybattles, where competitors strive to ascend all one hundred floors; at its summit, the reigning champions, Team Pendragon, await contenders worthy of challenging their title.Bird Kazami, an amateur Blader, arrives in the city eager to turn professional. However, he and his teammates are crushed in their first qualifying match, prompting his companions to give up and disband their team. Fortunately, Bird is soon approached by the easygoing Ekusu Kurosu. In disguise as \"Kamen X\" to hide his identity as a former member of the undefeated Team Pendragon, Ekusu wants to climb the tower all over again. To complete their new group, they recruit skilled Beyblade expert and savvy social media influencer Multi Nanairo.Driven by their individual goals, the trio wins their preliminary rounds, launching their careers as Team Persona. Bird and his new friends must navigate the world of corporate sponsorships, earn the fickle public's support, and defeat many formidable opponents—all in their quest to reach X Tower's peak.[Written by MAL Rewrite]",
+    "genres": [
+      2,
+      30
+    ],
+    "themes": [],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      28
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          159721
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          288,
+          5962,
+          31049,
+          61883,
+          61882
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 165159,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png"
+  },
+  "synopsis_tr": "X City'nin kalbinde, her Beyblade oyuncusunun hayalinin zirvesini simgeleyen, birbirine bağlı çift gökdelenli bir yapı olan etkileyici X Tower duruyor. Bina, yarışmacıların yüz katın tamamına tırmanmaya çalıştığı profesyonel Beybattles'ın resmi merkezi olarak hizmet veriyor; Zirvede, son şampiyonlar Team Pendragon, unvanlarına meydan okumaya layık yarışmacıları bekliyor. Amatör bir Blader olan Bird Kazami, profesyonelleşmek için şehre gelir. Ancak kendisi ve takım arkadaşları, ilk ön eleme maçında ezilirler ve bu durum, arkadaşlarının pes etmesine ve takımlarını dağıtmasına neden olur. Neyse ki, çok geçmeden uysal Ekusu Kurosu Bird'e yaklaşır. Yenilmez Pendragon Takımı'nın eski bir üyesi olduğunu gizlemek için \"Kamen X\" kılığına giren Ekusu, kuleye yeniden tırmanmak ister. Yeni gruplarını tamamlamak için yetenekli Beyblade uzmanı ve bilgili sosyal medya fenomeni Multi Nanairo'yu işe alırlar. Bireysel hedefleri doğrultusunda hareket eden üçlü, ön eleme turlarını kazanarak Persona Takımı olarak kariyerlerine başlar. Bird ve yeni arkadaşları, X Tower'ın zirvesine ulaşma arayışlarında kurumsal sponsorluklar dünyasında ilerlemeli, kararsız halkın desteğini kazanmalı ve birçok zorlu rakibi yenmeli.[MAL Rewrite tarafından yazıldı]",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "X",
+      "episode_number": 1,
+      "aired": "Oct 6, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "Multi-Coloured Ambush",
+      "episode_number": 2,
+      "aired": "Oct 13, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "3. Bölüm",
+      "title": "Team Persona",
+      "episode_number": 3,
+      "aired": "Oct 20, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "4. Bölüm",
+      "title": "Bey Sponsor",
+      "episode_number": 4,
+      "aired": "Oct 27, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "5. Bölüm",
+      "title": "To the X",
+      "episode_number": 5,
+      "aired": "Nov 3, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "6. Bölüm",
+      "title": "Lion's Jungle",
+      "episode_number": 6,
+      "aired": "Nov 10, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "7. Bölüm",
+      "title": "Team Zooganic",
+      "episode_number": 7,
+      "aired": "Nov 17, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "8. Bölüm",
+      "title": "The Mask and the King",
+      "episode_number": 8,
+      "aired": "Nov 24, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "Bey Crafter",
+      "episode_number": 9,
+      "aired": "Dec 1, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "The Pro Realm",
+      "episode_number": 10,
+      "aired": "Dec 8, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "Warden's Exam",
+      "episode_number": 11,
+      "aired": "Dec 15, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "The Final Battle",
+      "episode_number": 12,
+      "aired": "Dec 22, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "13. Bölüm",
+      "title": "The First Fan",
+      "episode_number": 13,
+      "aired": "Jan 5, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "14. Bölüm",
+      "title": "Jax-ercise",
+      "episode_number": 14,
+      "aired": "Jan 12, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "15. Bölüm",
+      "title": "Riddles and Beys",
+      "episode_number": 15,
+      "aired": "Jan 19, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "16. Bölüm",
+      "title": "Noblesse Oblige",
+      "episode_number": 16,
+      "aired": "Jan 26, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "17. Bölüm",
+      "title": "Bey Time Shift",
+      "episode_number": 17,
+      "aired": "Feb 2, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "18. Bölüm",
+      "title": "Pride",
+      "episode_number": 18,
+      "aired": "Feb 9, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "19. Bölüm",
+      "title": "Zip and Zoom",
+      "episode_number": 19,
+      "aired": "Feb 16, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "20. Bölüm",
+      "title": "Memories of Sushi",
+      "episode_number": 20,
+      "aired": "Feb 23, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "21. Bölüm",
+      "title": "Pop Production",
+      "episode_number": 21,
+      "aired": "Mar 1, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "22. Bölüm",
+      "title": "Black & White",
+      "episode_number": 22,
+      "aired": "Mar 8, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "23. Bölüm",
+      "title": "True Heart",
+      "episode_number": 23,
+      "aired": "Mar 15, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "24. Bölüm",
+      "title": "Arrival of the Fastest",
+      "episode_number": 24,
+      "aired": "Mar 22, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "25. Bölüm",
+      "title": "Proof of the fastest",
+      "episode_number": 25,
+      "aired": "Mar 29, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "26. Bölüm",
+      "title": "Invitation",
+      "episode_number": 26,
+      "aired": "Apr 5, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "27. Bölüm",
+      "title": "The End of Persistence",
+      "episode_number": 27,
+      "aired": "Apr 12, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "28. Bölüm",
+      "title": "The King and the Phoenix",
+      "episode_number": 28,
+      "aired": "Apr 19, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "29. Bölüm",
+      "title": "Mask and Meat Buns",
+      "episode_number": 29,
+      "aired": "Apr 26, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "30. Bölüm",
+      "title": "Riddles and Pop",
+      "episode_number": 30,
+      "aired": "May 3, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "31. Bölüm",
+      "title": "My Teammates",
+      "episode_number": 31,
+      "aired": "May 10, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "32. Bölüm",
+      "title": "New Partner",
+      "episode_number": 32,
+      "aired": "May 17, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "33. Bölüm",
+      "title": "The Index Finger Promise",
+      "episode_number": 33,
+      "aired": "May 24, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "34. Bölüm",
+      "title": "Nanairo's Guest",
+      "episode_number": 34,
+      "aired": "May 31, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "35. Bölüm",
+      "title": "A Dream Collaboration",
+      "episode_number": 35,
+      "aired": "Jun 7, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "36. Bölüm",
+      "title": "Bladership",
+      "episode_number": 36,
+      "aired": "Jun 14, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "37. Bölüm",
+      "title": "Unpredictable",
+      "episode_number": 37,
+      "aired": "Jun 21, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "38. Bölüm",
+      "title": "Return of the Queen",
+      "episode_number": 38,
+      "aired": "Jun 28, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "39. Bölüm",
+      "title": "The Strongest Blader",
+      "episode_number": 39,
+      "aired": "Jul 5, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "40. Bölüm",
+      "title": "Another Mask",
+      "episode_number": 40,
+      "aired": "Jul 12, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "41. Bölüm",
+      "title": "The Third Mask",
+      "episode_number": 41,
+      "aired": "Jul 19, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "42. Bölüm",
+      "title": "XYZ",
+      "episode_number": 42,
+      "aired": "Jul 26, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "43. Bölüm",
+      "title": "The Pendragon back then",
+      "episode_number": 43,
+      "aired": "Aug 9, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "44. Bölüm",
+      "title": "Family Back Then",
+      "episode_number": 44,
+      "aired": "Aug 16, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "45. Bölüm",
+      "title": "The You Back Then",
+      "episode_number": 45,
+      "aired": "Aug 23, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "46. Bölüm",
+      "title": "Day Off",
+      "episode_number": 46,
+      "aired": "Aug 30, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "47. Bölüm",
+      "title": "Clash at the Top",
+      "episode_number": 47,
+      "aired": "Sep 6, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "48. Bölüm",
+      "title": "Multi-coloured Showdown",
+      "episode_number": 48,
+      "aired": "Sep 13, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "49. Bölüm",
+      "title": "The Unseen",
+      "episode_number": 49,
+      "aired": "Sep 20, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "50. Bölüm",
+      "title": "The Two X's",
+      "episode_number": 50,
+      "aired": "Sep 27, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "51. Bölüm",
+      "title": "The Ultimate Game",
+      "episode_number": 51,
+      "aired": "Oct 4, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "52. Bölüm",
+      "title": "Restart",
+      "episode_number": 52,
+      "aired": "Oct 18, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "53. Bölüm",
+      "title": "Signs of a New Era",
+      "episode_number": 53,
+      "aired": "Oct 25, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "54. Bölüm",
+      "title": "The Path of Determination",
+      "episode_number": 54,
+      "aired": "Nov 1, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "55. Bölüm",
+      "title": "The Expanded Bey Time Shift",
+      "episode_number": 55,
+      "aired": "Nov 8, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "56. Bölüm",
+      "title": "White Conspiracy",
+      "episode_number": 56,
+      "aired": "Nov 15, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "57. Bölüm",
+      "title": "Three-Way Battle",
+      "episode_number": 57,
+      "aired": "Nov 22, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "58. Bölüm",
+      "title": "Triple Battle",
+      "episode_number": 58,
+      "aired": "Nov 29, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    },
+    {
+      "turkanime_title": "59. Bölüm",
+      "title": "The Masked S",
+      "episode_number": 59,
+      "aired": "Dec 6, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:58.089675"
+    }
+  ]
+}

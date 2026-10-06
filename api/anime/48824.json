@@ -1,0 +1,106 @@
+{
+  "turkanime": {
+    "isim": "Blue Archive PVs",
+    "slug": "blue-archive-pvs"
+  },
+  "jikan": {
+    "mal_id": 48824,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1521/114598.jpg",
+    "trailer_id": null,
+    "title": "Blue Archive PVs",
+    "title_english": null,
+    "type": "PV",
+    "source": "Game",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2020,
+    "season": null,
+    "airing": true,
+    "aired": {
+      "from": "2020-07-17T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "1 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.44,
+    "popularity": 8183,
+    "synopsis": "Animated promotions for the mobile game Blue Archive.",
+    "genres": [
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      2009
+    ],
+    "relations": [
+      {
+        "relation": "Other",
+        "entries": [
+          52420,
+          53670,
+          59607,
+          54309
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 138416,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138416-Ez4Zd3nd3oz3.jpg"
+  },
+  "synopsis_tr": "Mobil oyun Blue Archive için animasyonlu promosyonlar.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Animated Promotional Video",
+      "episode_number": 1,
+      "aired": "Jan 25, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:32.056174"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "Problem Solver 68",
+      "episode_number": 2,
+      "aired": "May 11, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:32.056174"
+    },
+    {
+      "turkanime_title": "3. Bölüm",
+      "title": "Trinity and Gehenna in Summer.",
+      "episode_number": 3,
+      "aired": "Jul 24, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:32.056174"
+    },
+    {
+      "turkanime_title": "4. Bölüm",
+      "title": "New Years' Rhapsody No. 68",
+      "episode_number": 4,
+      "aired": "Dec 25, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:32.056174"
+    },
+    {
+      "turkanime_title": "5. Bölüm",
+      "title": "Emergency Special Order of the Disciplinary Committee Administrative Officer: Chairman Hina and her Summer Vacation",
+      "episode_number": 5,
+      "aired": "Sep 9, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:32.056174"
+    }
+  ]
+}

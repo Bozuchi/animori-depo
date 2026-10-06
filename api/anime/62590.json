@@ -1,0 +1,62 @@
+{
+  "turkanime": {
+    "isim": "Hotel Inhumans 2nd Season",
+    "slug": "hotel-inhumans-2nd-season"
+  },
+  "jikan": {
+    "mal_id": 62590,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1903/159928.jpg",
+    "trailer_id": "JxeA37qVwnc",
+    "title": "Hotel Inhumans 2nd Season",
+    "title_english": "Hotel Inhumans Season 2",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Currently Airing",
+    "episodes": 13,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.75,
+    "popularity": 8784,
+    "synopsis": "Second season ofHotel Inhumans.",
+    "genres": [
+      1,
+      8
+    ],
+    "themes": [
+      68
+    ],
+    "demographics": [],
+    "studios": [
+      397,
+      3297
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          60260
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          139086
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 199426,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-0nBgTV9BrcJn.jpg"
+  },
+  "synopsis_tr": "Hotel Inhumans'ın ikinci sezonu.",
+  "episodes": []
+}

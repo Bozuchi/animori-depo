@@ -1,0 +1,76 @@
+{
+  "turkanime": {
+    "isim": "Ao no Hako Season 2",
+    "slug": "ao-no-hako-season-2"
+  },
+  "jikan": {
+    "mal_id": 61323,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1990/160267.jpg",
+    "trailer_id": "hJ6Y8PAOUk8",
+    "title": "Ao no Hako Season 2",
+    "title_english": "Blue Box Season 2",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": 12,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.19,
+    "popularity": 2662,
+    "synopsis": "Second season ofAo no Hako.",
+    "genres": [
+      22,
+      30
+    ],
+    "themes": [
+      64,
+      23,
+      77
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      3305
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          57181
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          135545
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 189123,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-s2oirY2r1Svy.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg"
+  },
+  "synopsis_tr": "Ao no Hako'nun ikinci sezonu.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Déjà Vu",
+      "episode_number": 1,
+      "aired": "Oct 4, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:07:36.911116"
+    }
+  ]
+}

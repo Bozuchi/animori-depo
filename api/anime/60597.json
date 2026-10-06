@@ -1,0 +1,61 @@
+{
+  "turkanime": {
+    "isim": "Da Wang Rao Ming 3",
+    "slug": "da-wang-rao-ming-3"
+  },
+  "jikan": {
+    "mal_id": 60597,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1298/158623.jpg",
+    "trailer_id": "xIa7dMUka-8",
+    "title": "Da Wang Rao Ming 3",
+    "title_english": "Spare Me, Great Lord! Season 3",
+    "type": "ONA",
+    "source": "Web novel",
+    "status": "Currently Airing",
+    "episodes": 16,
+    "year": 2026,
+    "season": null,
+    "airing": true,
+    "aired": {
+      "from": "2026-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "popularity": 9059,
+    "synopsis": "The Great Demon King Lü Shu returns from the ruins of Qingzhou and goes to the capital to report on his duties. A new overseas adventure awaits him. Together with the Tianluo Diwang organization, Lü Shu travels to Thailand and Japan to begin a new cultivation journey.(Source: Tencent, translated)",
+    "genres": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      1980
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          51898
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          145699
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 199353,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199353-S2jczHjCWHGL.png"
+  },
+  "synopsis_tr": "Büyük Şeytan Kral Lü Shu, Qingzhou harabelerinden döner ve görevleri hakkında rapor vermek için başkente gider. Onu yeni bir yurt dışı macerası beklemektedir. Lü Shu, Tianluo Diwang organizasyonuyla birlikte yeni bir uygulama yolculuğuna başlamak için Tayland ve Japonya'ya gider.(Kaynak: Tencent, tercüme edilmiştir)",
+  "episodes": []
+}

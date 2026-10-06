@@ -1,0 +1,68 @@
+{
+  "turkanime": {
+    "isim": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+    "slug": "mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai"
+  },
+  "jikan": {
+    "mal_id": 60948,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1889/160053.jpg",
+    "trailer_id": "ov_3-6JOAkk",
+    "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+    "title_english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "None",
+    "score": 6.93,
+    "popularity": 5446,
+    "synopsis": "Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!(Source: Seven Seas Entertainment)",
+    "genres": [
+      1,
+      24
+    ],
+    "themes": [
+      62,
+      29
+    ],
+    "demographics": [],
+    "studios": [
+      1209
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          125498,
+          131650
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 186541,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg"
+  },
+  "synopsis_tr": "Sato Takahiro, bir uzay gemisinde uyandığı güne kadar sıradan bir ofis çalışanı ve oyun meraklısıydı; bu gemi garip bir şekilde en sevdiği uzay nişancı oyunundan bir gemiye benziyordu. Donanımlı bir gemi, bebek dolu bir mürettebat ve keşfedilecek muhteşem bir evrenle, şansını en iyi şekilde değerlendirecek ve her zaman hayalini kurduğu hayatı yaratacak!(Kaynak: Seven Seas Entertainment)",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "First Space Colony Visit",
+      "episode_number": 1,
+      "aired": "Oct 4, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:07:53.693737"
+    }
+  ]
+}

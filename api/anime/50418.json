@@ -1,0 +1,59 @@
+{
+  "turkanime": {
+    "isim": "Ninjala (TV)",
+    "slug": "ninjala-tv"
+  },
+  "jikan": {
+    "mal_id": 50418,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1552/119871.jpg",
+    "trailer_id": null,
+    "title": "Ninjala (TV)",
+    "title_english": null,
+    "type": "TV",
+    "source": "Game",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2022,
+    "season": "winter",
+    "airing": true,
+    "aired": {
+      "from": "2022-01-08T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG - Children",
+    "score": 5.54,
+    "popularity": 10511,
+    "synopsis": "The year is 20XX. The ninja, who once forged the history of Japan, were scattered across the country during the Meiji Restoration. As these ninja mingled with the other clans, their bloodline thinned, and they gradually faded from sight. The descendants of these ninja clans, seeking to preserve their heritage, formed the WNA (World Ninja Association) in the hope of carrying on their legacy.And so it was that the WNA succeeded in developing Ninja-Gum, an art which could summon forth the strength of the Shinobi. And yet creating the most powerful Ninja-Gum requires the strongest of ninja DNA. So it was that the Ninjala Tournament was held, that the mightiest of all ninjas could be found...(Source: Official Game website)",
+    "genres": [
+      1
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      28
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          165723
+        ]
+      },
+      {
+        "relation": "Other",
+        "entries": [
+          41547,
+          42658
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 142274,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142274-qPfkeKk4caKI.png"
+  },
+  "synopsis_tr": "Yıl 20XX. Bir zamanlar Japonya'nın tarihini yazan ninjalar, Meiji Restorasyonu sırasında ülkenin dört bir yanına dağılmıştı. Bu ninjalar diğer klanlara karıştıkça soyları azaldı ve yavaş yavaş gözden kayboldular. Miraslarını korumaya çalışan bu ninja klanlarının torunları, miraslarını sürdürme umuduyla WNA'yı (Dünya Ninja Birliği) kurdular. Ve böylece WNA, Shinobi'nin gücünü ortaya çıkarabilecek bir sanat olan Ninja-Gum'u geliştirmeyi başardı. Ve yine de en güçlü Ninja-Sakız'ı yaratmak, en güçlü Ninja DNA'sını gerektirir. Böylece Ninjala Turnuvası düzenlendi ve ninjaların en güçlüsü bulunabildi...(Kaynak: Resmi Oyun web sitesi)",
+  "episodes": []
+}

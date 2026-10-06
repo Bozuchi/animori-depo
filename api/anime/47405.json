@@ -1,0 +1,2934 @@
+{
+  "turkanime": {
+    "isim": "Wanmei Shijie",
+    "puan": "0.00",
+    "bolum_durumu": "6/286",
+    "ozet": "Köylerin güç ve bölge elde etmek için savaştığı eşsiz bir dünyada doğan ana karakter Shi Hao, en kötü koşullarda doğan göklerin kutsadığı bir yetenek. Ancak klanının gizemli bir geçmişi vardır. Ayağa kalkması ve ulaşması gereken yeteneğe sahip olabilmesi için klan, fanatik canavarlarla ve diğer klanlarla güç mücadelesine girerken, kahramanımız gelişmek için her türlü çabayı gösterir. Yolculuğu, dünyayı yerinden oynatabilecek bir kişi oluncaya dek onu bilinmeyen topraklardan geçirecek.",
+    "slug": "wanmei-shijie"
+  },
+  "jikan": {
+    "mal_id": 47405,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1809/153679.jpg",
+    "trailer_id": "Hm6Z5VmPEx4",
+    "title": "Wanmei Shijie",
+    "title_english": "Perfect World",
+    "type": "ONA",
+    "source": "Web novel",
+    "status": "Currently Airing",
+    "year": 2021,
+    "season": null,
+    "airing": true,
+    "aired": {
+      "from": "2021-04-23T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "19 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.85,
+    "popularity": 6316,
+    "synopsis": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions.His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans.His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.(Source: Novels Xianxia & Xuanhuan Wiki)",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [
+      13,
+      17
+    ],
+    "demographics": [],
+    "studios": [
+      1667
+    ],
+    "relations": [
+      {
+        "relation": "Side Story",
+        "entries": [
+          47292,
+          58797,
+          62723
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entries": [
+          51289,
+          60089,
+          62715
+        ]
+      }
+    ],
+    "episodes": 338
+  },
+  "anilist": {
+    "id": 120218,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120218-J6LXCFOHO9cT.jpg"
+  },
+  "synopsis_tr": "Köylerin güç ve kontrolü ele geçirmek için savaştığı benzersiz bir dünyada doğan ana karakter Shi Hao, en yoksul koşullar altında doğan, göklerin kutsadığı bir dahidir. Ancak klanının gizemli bir geçmişi vardır. Yükselmek ve olması gereken dahi olmak için klan, fanatik canavarlarla savaşırken ve diğer klanlarla güç mücadelelerine girerken onun gelişimine yardımcı olmak için her türlü çabayı gösteriyor. Yolculuğu, dünyayı gerçekten sarsabilecek bir kişi haline gelinceye kadar onu bilinmeyen diyarlara götürecek.(Kaynak: Novels Xianxia & Xuanhuan Wiki)",
+  "episodes": [
+    {
+      "turkanime_title": "Wanmei Shijie 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1D3ViI3J_IxkIvZcg_1RpiNCJkdmOfNkR/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1TxmMaA9vqG7D7-xkgiFFZQJ_ihSAAjGS/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716027"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4466262"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4307332"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/szzjpqca"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/2zhjskb8"
+        },
+        {
+          "fansub_id": 358,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-0n172ous0ot9.html"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1029,
+          "end": 1155
+        }
+      },
+      "added_date": "2026-07-30T15:52:44.968522",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false,
+      "title": "The Great Rebellion",
+      "aired": "Apr 23, 2021"
+    },
+    {
+      "turkanime_title": "Wanmei Shijie 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1YKIpf6ABKFhGE7LON35dLvAwz20ixPuN/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Ku_Di6jhGxTGc2DvP1_M-R6l9qtuqRvX/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716028"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4466280"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-yp3cckpbcgjd.html"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/bdkb8u2r"
+        },
+        {
+          "fansub_id": 358,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-y82ls5hafvdn.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T15:52:44.968522",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false,
+      "title": "Green Scaled Eagle",
+      "aired": "Apr 23, 2021"
+    },
+    {
+      "turkanime_title": "Wanmei Shijie 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1LRzbDFh8h460Tnjyg6kiZpDu4hWqpl0Q/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1L5ao4r4XXl4dp9-iwmRG_FbhcDgDGjcR/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716031"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4466295"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4307336"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-va89lfv4nnp8.html"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/0drwrc0z"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/sj15xl3w"
+        },
+        {
+          "fansub_id": 358,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-oqfs844ypj17.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T15:52:44.968522",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false,
+      "title": "Suan Ni",
+      "aired": "Apr 23, 2021"
+    },
+    {
+      "turkanime_title": "Wanmei Shijie 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1eoiBLMVokqK-g28uSdEvg1YyZ3BRwKd8/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1v6HFTfFVvoqr0iUphTjv8-nTvGlCZYNv/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716033"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4309598"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4466306"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-r1olb94lj3m3.html"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/jfpojo6u"
+        },
+        {
+          "fansub_id": 358,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-eij409i3l71c.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T15:52:44.968522",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false,
+      "title": "Power of the Sacrificial Spirit",
+      "aired": "Apr 30, 2021"
+    },
+    {
+      "turkanime_title": "Wanmei Shijie 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1B2ZOnkTo3SqmbPnUH3M95QsobPOsukqL/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1xbhHLLk0fkPJXW7i_n5o0P9oBBnL_oRO/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716035"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4325773"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4466316"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-y1uilc1hkzxp.html"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/4o7k1kor"
+        },
+        {
+          "fansub_id": 358,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-em1xyr544s99.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T15:52:44.968522",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false,
+      "title": "Baptism",
+      "aired": "May 7, 2021"
+    },
+    {
+      "turkanime_title": "Wanmei Shijie 6. Bölüm",
+      "episode_number": 6,
+      "videos": [
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1MNRi_zr-qvFNC27h3PpNYooNgQIw2A_L/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1lYQuXlXge5u1lptavP_UIs9eMik_kWwU/preview"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MAIL",
+          "url": "https://my.mail.ru/video/embed/7671770326140716037"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4325774"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4466318"
+        },
+        {
+          "fansub_id": 358,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-4ree7cs1uhb1.html"
+        },
+        {
+          "fansub_id": 358,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/marqz362"
+        },
+        {
+          "fansub_id": 358,
+          "player": "UQLOAD",
+          "url": "https://uqload.com/embed-7j8o0fchmom0.html"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-30T15:52:44.968522",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false,
+      "title": "Friend",
+      "aired": "May 14, 2021"
+    },
+    {
+      "turkanime_title": "7. Bölüm",
+      "title": "The Past",
+      "episode_number": 7,
+      "aired": "May 21, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "8. Bölüm",
+      "title": "Reunion",
+      "episode_number": 8,
+      "aired": "May 28, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "The Second Ancestral Land",
+      "episode_number": 9,
+      "aired": "Jun 4, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "Fierce Bandits",
+      "episode_number": 10,
+      "aired": "Jun 11, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "Virtual God Realm",
+      "episode_number": 11,
+      "aired": "Jun 18, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "Young Eagle Spreads Wings",
+      "episode_number": 12,
+      "aired": "Jun 25, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "13. Bölüm",
+      "title": "Ordinary Disciple",
+      "episode_number": 13,
+      "aired": "Jul 2, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "14. Bölüm",
+      "title": "Ghost",
+      "episode_number": 14,
+      "aired": "Jul 9, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "15. Bölüm",
+      "title": "Thunderbolt Liquid",
+      "episode_number": 15,
+      "aired": "Jul 16, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "16. Bölüm",
+      "title": "Mount Baiduan",
+      "episode_number": 16,
+      "aired": "Jul 23, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "17. Bölüm",
+      "title": "God's Cave",
+      "episode_number": 17,
+      "aired": "Jul 30, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "18. Bölüm",
+      "title": "Little Wolf God, and Rain Clan",
+      "episode_number": 18,
+      "aired": "Aug 6, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "19. Bölüm",
+      "title": "Taiyi True Water",
+      "episode_number": 19,
+      "aired": "Aug 13, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "20. Bölüm",
+      "title": "Mysterious Bone Tower",
+      "episode_number": 20,
+      "aired": "Aug 20, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "21. Bölüm",
+      "title": "Broken Sword",
+      "episode_number": 21,
+      "aired": "Aug 27, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "22. Bölüm",
+      "title": "Baicao Garden",
+      "episode_number": 22,
+      "aired": "Sep 3, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "23. Bölüm",
+      "title": "Bloody World",
+      "episode_number": 23,
+      "aired": "Sep 10, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "24. Bölüm",
+      "title": "Monkey King",
+      "episode_number": 24,
+      "aired": "Sep 17, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "25. Bölüm",
+      "title": "Emperor's Might",
+      "episode_number": 25,
+      "aired": "Sep 24, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "26. Bölüm",
+      "title": "Desperate Situation",
+      "episode_number": 26,
+      "aired": "Oct 1, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "27. Bölüm",
+      "title": "Trouble at Butian Pavilion",
+      "episode_number": 27,
+      "aired": "Oct 8, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "28. Bölüm",
+      "title": "Ishimura Healing",
+      "episode_number": 28,
+      "aired": "Oct 15, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "29. Bölüm",
+      "title": "Ancient Divine Book",
+      "episode_number": 29,
+      "aired": "Oct 22, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "30. Bölüm",
+      "title": "Divine Power Sensing",
+      "episode_number": 30,
+      "aired": "Oct 29, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "31. Bölüm",
+      "title": "Opening of the Ten Caves",
+      "episode_number": 31,
+      "aired": "Nov 5, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "32. Bölüm",
+      "title": "Yunxi's Appointment",
+      "episode_number": 32,
+      "aired": "Nov 12, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "33. Bölüm",
+      "title": "North Sea Peril",
+      "episode_number": 33,
+      "aired": "Nov 19, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "34. Bölüm",
+      "title": "Flesh Becomes Spirit",
+      "episode_number": 34,
+      "aired": "Nov 26, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "35. Bölüm",
+      "title": "Reshaping Your True Spirit",
+      "episode_number": 35,
+      "aired": "Dec 3, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "36. Bölüm",
+      "title": "Kunpeng Magic",
+      "episode_number": 36,
+      "aired": "Dec 10, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "37. Bölüm",
+      "title": "The Great Devil Returns",
+      "episode_number": 37,
+      "aired": "Dec 17, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "38. Bölüm",
+      "title": "Sweeping the Imperial Capital",
+      "episode_number": 38,
+      "aired": "Dec 24, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "39. Bölüm",
+      "title": "First Visit to the Imperial Capital",
+      "episode_number": 39,
+      "aired": "Dec 31, 2021",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "40. Bölüm",
+      "title": "Rain God's Decree",
+      "episode_number": 40,
+      "aired": "Jan 7, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "41. Bölüm",
+      "title": "Return to Wu Palace in Stone Country (Lower Realm)",
+      "episode_number": 41,
+      "aired": "Jan 14, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "42. Bölüm",
+      "title": "Escape to the Palace",
+      "episode_number": 42,
+      "aired": "Jan 21, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "43. Bölüm",
+      "title": "Fairy Spirit",
+      "episode_number": 43,
+      "aired": "Jan 28, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "44. Bölüm",
+      "title": "Conferred the Title of Lord of Wilderness",
+      "episode_number": 44,
+      "aired": "Feb 4, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "45. Bölüm",
+      "title": "Power of Double Pupils",
+      "episode_number": 45,
+      "aired": "Feb 11, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "46. Bölüm",
+      "title": "First Meeting of Two Stone Brothers",
+      "episode_number": 46,
+      "aired": "Feb 18, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "47. Bölüm",
+      "title": "Emperor's Advice",
+      "episode_number": 47,
+      "aired": "Feb 25, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "48. Bölüm",
+      "title": "Exploring the Holy Palace",
+      "episode_number": 48,
+      "aired": "Mar 4, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "49. Bölüm",
+      "title": "Continuous Opportunities",
+      "episode_number": 49,
+      "aired": "Mar 11, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "50. Bölüm",
+      "title": "Sharpening the Edge",
+      "episode_number": 50,
+      "aired": "Mar 18, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "51. Bölüm",
+      "title": "Enemies Are Everywhere",
+      "episode_number": 51,
+      "aired": "Mar 25, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "52. Bölüm",
+      "title": "Battle of Two Stone Brothers (1)",
+      "episode_number": 52,
+      "aired": "Apr 1, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "53. Bölüm",
+      "title": "Battle of Two Stone Brothers (2)",
+      "episode_number": 53,
+      "aired": "Apr 8, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "54. Bölüm",
+      "title": "Aftermath",
+      "episode_number": 54,
+      "aired": "Apr 15, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "55. Bölüm",
+      "title": "Conspiracy of Reincarnation",
+      "episode_number": 55,
+      "aired": "Apr 22, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "56. Bölüm",
+      "title": "A New Journey",
+      "episode_number": 56,
+      "aired": "Apr 29, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "57. Bölüm",
+      "title": "Destroy the Five Elements Ring",
+      "episode_number": 57,
+      "aired": "May 6, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "58. Bölüm",
+      "title": "Medicine is for Body Training",
+      "episode_number": 58,
+      "aired": "May 13, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "59. Bölüm",
+      "title": "Fresh Golden Elixir",
+      "episode_number": 59,
+      "aired": "May 20, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "60. Bölüm",
+      "title": "Trip to Medicine City, and World Treasure Box",
+      "episode_number": 60,
+      "aired": "May 27, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "61. Bölüm",
+      "title": "The Great Disaster is Coming",
+      "episode_number": 61,
+      "aired": "Jun 3, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "62. Bölüm",
+      "title": "Repairing the Circle",
+      "episode_number": 62,
+      "aired": "Jun 10, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "63. Bölüm",
+      "title": "Great Tribulation",
+      "episode_number": 63,
+      "aired": "Jun 17, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "64. Bölüm",
+      "title": "Eight Regions Cage",
+      "episode_number": 64,
+      "aired": "Jun 24, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "65. Bölüm",
+      "title": "Trial of King Huangtian and Human Emperor in Tiny World",
+      "episode_number": 65,
+      "aired": "Jul 1, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "66. Bölüm",
+      "title": "Emperor Huangtian Battles Against the Three Factions Alone",
+      "episode_number": 66,
+      "aired": "Jul 8, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "67. Bölüm",
+      "title": "The Truth of Eight Regions",
+      "episode_number": 67,
+      "aired": "Jul 15, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "68. Bölüm",
+      "title": "Rain Clan is Destroyed",
+      "episode_number": 68,
+      "aired": "Jul 22, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "69. Bölüm",
+      "title": "Shi People Are United",
+      "episode_number": 69,
+      "aired": "Jul 29, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "70. Bölüm",
+      "title": "Disaster Strikes Again",
+      "episode_number": 70,
+      "aired": "Aug 5, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "71. Bölüm",
+      "title": "Cross-Domain Journey",
+      "episode_number": 71,
+      "aired": "Aug 12, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "72. Bölüm",
+      "title": "Going to Mount Bulao Alone",
+      "episode_number": 72,
+      "aired": "Aug 19, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "73. Bölüm",
+      "title": "Brothers at Odds",
+      "episode_number": 73,
+      "aired": "Aug 26, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "74. Bölüm",
+      "title": "Shi Hao Battles Against Qin Zhan at Immortal Mountain",
+      "episode_number": 74,
+      "aired": "Sep 2, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "75. Bölüm",
+      "title": "Nirvana Crisis",
+      "episode_number": 75,
+      "aired": "Sep 9, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "76. Bölüm",
+      "title": "Spirit Battlefield",
+      "episode_number": 76,
+      "aired": "Sep 16, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "77. Bölüm",
+      "title": "Sword Slaying the God",
+      "episode_number": 77,
+      "aired": "Sep 23, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "78. Bölüm",
+      "title": "Immortal Soul of Mysterious Origin Sealed Under Five Elements Mountain",
+      "episode_number": 78,
+      "aired": "Sep 30, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "79. Bölüm",
+      "title": "Family Reunion, and Shi Hao Sweeps Bulao Mountain Treasure Warehouse",
+      "episode_number": 79,
+      "aired": "Oct 7, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "80. Bölüm",
+      "title": "Ancient Treasure World Appears",
+      "episode_number": 80,
+      "aired": "Oct 14, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "81. Bölüm",
+      "title": "Exploring the Ancient World of Treasures",
+      "episode_number": 81,
+      "aired": "Oct 21, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "82. Bölüm",
+      "title": "Who Can Compete With",
+      "episode_number": 82,
+      "aired": "Oct 28, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "83. Bölüm",
+      "title": "Power of Supreme Bone",
+      "episode_number": 83,
+      "aired": "Nov 4, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "84. Bölüm",
+      "title": "Power of Reincarnation",
+      "episode_number": 84,
+      "aired": "Nov 11, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "85. Bölüm",
+      "title": "Guardian Heart",
+      "episode_number": 85,
+      "aired": "Nov 18, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "86. Bölüm",
+      "title": "Family Reunion",
+      "episode_number": 86,
+      "aired": "Nov 25, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "87. Bölüm",
+      "title": "Suppress Yuechan",
+      "episode_number": 87,
+      "aired": "Dec 2, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "88. Bölüm",
+      "title": "Main Body is Approaching",
+      "episode_number": 88,
+      "aired": "Dec 9, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "89. Bölüm",
+      "title": "Battle of Main Body",
+      "episode_number": 89,
+      "aired": "Dec 16, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "90. Bölüm",
+      "title": "Treasure Technique",
+      "episode_number": 90,
+      "aired": "Dec 23, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "91. Bölüm",
+      "title": "Shi Hao's Happiest Moment with Family and Friends in Stone Village",
+      "episode_number": 91,
+      "aired": "Dec 30, 2022",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "92. Bölüm",
+      "title": "Farewell",
+      "episode_number": 92,
+      "aired": "Jan 6, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "93. Bölüm",
+      "title": "The Last Battle",
+      "episode_number": 93,
+      "aired": "Jan 13, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "94. Bölüm",
+      "title": "Brother Bumie, and Gathering of Butian Pavilion members",
+      "episode_number": 94,
+      "aired": "Jan 20, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "95. Bölüm",
+      "title": "Eliminating the Strong Enemy",
+      "episode_number": 95,
+      "aired": "Jan 27, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "96. Bölüm",
+      "title": "Xiling Suppresses the Enemy",
+      "episode_number": 96,
+      "aired": "Feb 3, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "97. Bölüm",
+      "title": "Exploring the Road to Upper Realm",
+      "episode_number": 97,
+      "aired": "Feb 10, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "98. Bölüm",
+      "title": "Celebrate the Spirit World",
+      "episode_number": 98,
+      "aired": "Feb 17, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "99. Bölüm",
+      "title": "First Generation Style",
+      "episode_number": 99,
+      "aired": "Feb 24, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "100. Bölüm",
+      "title": "Changes in Western Xinjiang",
+      "episode_number": 100,
+      "aired": "Mar 3, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "101. Bölüm",
+      "title": "Demonized Hun Tian Hou",
+      "episode_number": 101,
+      "aired": "Mar 10, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "102. Bölüm",
+      "title": "Pass on the Throne",
+      "episode_number": 102,
+      "aired": "Mar 17, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "103. Bölüm",
+      "title": "The Seven Gods",
+      "episode_number": 103,
+      "aired": "Mar 24, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "104. Bölüm",
+      "title": "Dead End",
+      "episode_number": 104,
+      "aired": "Mar 31, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "105. Bölüm",
+      "title": "Outsmarting a Strong Enemy",
+      "episode_number": 105,
+      "aired": "Apr 7, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "106. Bölüm",
+      "title": "Crisis of Butiange",
+      "episode_number": 106,
+      "aired": "Apr 14, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "107. Bölüm",
+      "title": "Winning Streak Against Strong Opponents",
+      "episode_number": 107,
+      "aired": "Apr 21, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "108. Bölüm",
+      "title": "Battle with Huang Yu",
+      "episode_number": 108,
+      "aired": "Apr 28, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "109. Bölüm",
+      "title": "Perish Together",
+      "episode_number": 109,
+      "aired": "May 5, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "110. Bölüm",
+      "title": "Tough Choices",
+      "episode_number": 110,
+      "aired": "May 12, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "111. Bölüm",
+      "title": "The Fall of the Supreme",
+      "episode_number": 111,
+      "aired": "May 19, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "112. Bölüm",
+      "title": "Return of the Emperor",
+      "episode_number": 112,
+      "aired": "May 26, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "113. Bölüm",
+      "title": "Exploring the Road to Heaven",
+      "episode_number": 113,
+      "aired": "Jun 2, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "114. Bölüm",
+      "title": "Finally Reached Upper Realm",
+      "episode_number": 114,
+      "aired": "Jun 9, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "115. Bölüm",
+      "title": "Huaicheng Rebellion",
+      "episode_number": 115,
+      "aired": "Jun 16, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "116. Bölüm",
+      "title": "Setting Foot on Alcatraz",
+      "episode_number": 116,
+      "aired": "Jun 23, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "117. Bölüm",
+      "title": "Rise of \"Wilderness\"",
+      "episode_number": 117,
+      "aired": "Jun 30, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "118. Bölüm",
+      "title": "Thunder of Immortal",
+      "episode_number": 118,
+      "aired": "Jul 7, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "119. Bölüm",
+      "title": "Finally Reached Immortal Tomb",
+      "episode_number": 119,
+      "aired": "Jul 14, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "120. Bölüm",
+      "title": "Grandparent and Grandchild Reunite",
+      "episode_number": 120,
+      "aired": "Jul 21, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "121. Bölüm",
+      "title": "Entering Secret Realm",
+      "episode_number": 121,
+      "aired": "Jul 28, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "122. Bölüm",
+      "title": "A Page of Gold Paper",
+      "episode_number": 122,
+      "aired": "Aug 4, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "123. Bölüm",
+      "title": "Reshaping the Cave",
+      "episode_number": 123,
+      "aired": "Aug 11, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "124. Bölüm",
+      "title": "Secret Realm of Megatron",
+      "episode_number": 124,
+      "aired": "Aug 18, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "125. Bölüm",
+      "title": "A True Reunion",
+      "episode_number": 125,
+      "aired": "Aug 25, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "126. Bölüm",
+      "title": "Four Wonders of Thunder",
+      "episode_number": 126,
+      "aired": "Sep 1, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "127. Bölüm",
+      "title": "Peak Confrontation",
+      "episode_number": 127,
+      "aired": "Sep 8, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "128. Bölüm",
+      "title": "A Place of Heritage",
+      "episode_number": 128,
+      "aired": "Sep 15, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "129. Bölüm",
+      "title": "Blood of Holy Mountain",
+      "episode_number": 129,
+      "aired": "Sep 22, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "130. Bölüm",
+      "title": "Golden Stage",
+      "episode_number": 130,
+      "aired": "Sep 29, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "131. Bölüm",
+      "title": "Slay the Immortal",
+      "episode_number": 131,
+      "aired": "Oct 6, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "132. Bölüm",
+      "title": "Reunion",
+      "episode_number": 132,
+      "aired": "Oct 13, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "133. Bölüm",
+      "title": "The Great Escape",
+      "episode_number": 133,
+      "aired": "Oct 20, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "134. Bölüm",
+      "title": "The War is Coming",
+      "episode_number": 134,
+      "aired": "Oct 27, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "135. Bölüm",
+      "title": "Mission Accomplished",
+      "episode_number": 135,
+      "aired": "Nov 3, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "136. Bölüm",
+      "title": "The Celestial Race's Plan",
+      "episode_number": 136,
+      "aired": "Nov 10, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "137. Bölüm",
+      "title": "Prisoner",
+      "episode_number": 137,
+      "aired": "Nov 17, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "138. Bölüm",
+      "title": "All Religions Come Together",
+      "episode_number": 138,
+      "aired": "Nov 24, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "139. Bölüm",
+      "title": "Reunion with Qingyi",
+      "episode_number": 139,
+      "aired": "Dec 1, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "140. Bölüm",
+      "title": "Tianxian Academy",
+      "episode_number": 140,
+      "aired": "Dec 8, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "141. Bölüm",
+      "title": "Supreme Dojo",
+      "episode_number": 141,
+      "aired": "Dec 15, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "142. Bölüm",
+      "title": "Refining the Golden Buddha Fruit",
+      "episode_number": 142,
+      "aired": "Dec 22, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "143. Bölüm",
+      "title": "Green Moon Flame",
+      "episode_number": 143,
+      "aired": "Dec 29, 2023",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "144. Bölüm",
+      "title": "Risking One's Life to Help",
+      "episode_number": 144,
+      "aired": "Jan 5, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "145. Bölüm",
+      "title": "Huang Launches A Punitive Expedition",
+      "episode_number": 145,
+      "aired": "Jan 12, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "146. Bölüm",
+      "title": "Bloodbath of the Celestials",
+      "episode_number": 146,
+      "aired": "Jan 19, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "147. Bölüm",
+      "title": "Battle of the Six Heroes",
+      "episode_number": 147,
+      "aired": "Jan 26, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "148. Bölüm",
+      "title": "Huang Fights Youyu Alone",
+      "episode_number": 148,
+      "aired": "Feb 2, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "149. Bölüm",
+      "title": "Supreme Palace Qi Daolin Announces to the World",
+      "episode_number": 149,
+      "aired": "Feb 9, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "150. Bölüm",
+      "title": "Fire As A Mirror",
+      "episode_number": 150,
+      "aired": "Feb 16, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "151. Bölüm",
+      "title": "Defeated",
+      "episode_number": 151,
+      "aired": "Feb 23, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "152. Bölüm",
+      "title": "Competition Registration",
+      "episode_number": 152,
+      "aired": "Mar 1, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "153. Bölüm",
+      "title": "Sin State",
+      "episode_number": 153,
+      "aired": "Mar 8, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "154. Bölüm",
+      "title": "Blood of Sin and Glory",
+      "episode_number": 154,
+      "aired": "Mar 15, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "155. Bölüm",
+      "title": "Fire Mulberry Flowers Bloom",
+      "episode_number": 155,
+      "aired": "Mar 22, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "156. Bölüm",
+      "title": "Three Thousand States Genius War 01",
+      "episode_number": 156,
+      "aired": "Mar 29, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "157. Bölüm",
+      "title": "Three Thousand States Genius War 02",
+      "episode_number": 157,
+      "aired": "Apr 5, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "158. Bölüm",
+      "title": "Three Thousand States Genius War 03",
+      "episode_number": 158,
+      "aired": "Apr 12, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "159. Bölüm",
+      "title": "Three Thousand States Genius War 04",
+      "episode_number": 159,
+      "aired": "Apr 19, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "160. Bölüm",
+      "title": "Three Thousand States Genius War 05",
+      "episode_number": 160,
+      "aired": "Apr 26, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "161. Bölüm",
+      "title": "Three Thousand States Genius War 06",
+      "episode_number": 161,
+      "aired": "May 3, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "162. Bölüm",
+      "title": "Three Thousand States Genius War 07",
+      "episode_number": 162,
+      "aired": "May 10, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "163. Bölüm",
+      "title": "Three Thousand States Genius War 08",
+      "episode_number": 163,
+      "aired": "May 17, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "164. Bölüm",
+      "title": "Three Thousand States Genius War 09",
+      "episode_number": 164,
+      "aired": "May 24, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "165. Bölüm",
+      "title": "Sanshi vs Ningchuan Special Part 1",
+      "episode_number": 165,
+      "aired": "May 31, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "166. Bölüm",
+      "title": "Sanshi vs Ningchuan Special Part 2",
+      "episode_number": 166,
+      "aired": "Jun 7, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "167. Bölüm",
+      "title": "Three Thousand States Genius War 12",
+      "episode_number": 167,
+      "aired": "Jun 14, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "168. Bölüm",
+      "title": "Three Thousand States Genius War 13",
+      "episode_number": 168,
+      "aired": "Jun 21, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "169. Bölüm",
+      "title": "Three Thousand States Genius War 14",
+      "episode_number": 169,
+      "aired": "Jun 28, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "170. Bölüm",
+      "title": "Three Thousand States Genius War 15",
+      "episode_number": 170,
+      "aired": "Jul 5, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "171. Bölüm",
+      "title": "Three Thousand States Genius War 16",
+      "episode_number": 171,
+      "aired": "Jul 12, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "172. Bölüm",
+      "title": "Three Thousand States Genius War 17",
+      "episode_number": 172,
+      "aired": "Jul 19, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "173. Bölüm",
+      "title": "Three Thousand States Genius War 18",
+      "episode_number": 173,
+      "aired": "Jul 26, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "174. Bölüm",
+      "title": "Slaying Di Chong In Battle (Special Episode)",
+      "episode_number": 174,
+      "aired": "Aug 2, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "175. Bölüm",
+      "title": "Helping Others Helps Oneself",
+      "episode_number": 175,
+      "aired": "Aug 9, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "176. Bölüm",
+      "title": "Helping Others Helps Oneself",
+      "episode_number": 176,
+      "aired": "Aug 16, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "177. Bölüm",
+      "title": "Helping Others Helps Oneself",
+      "episode_number": 177,
+      "aired": "Aug 23, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "178. Bölüm",
+      "title": "Helping Others Helps Oneself",
+      "episode_number": 178,
+      "aired": "Aug 30, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "179. Bölüm",
+      "title": "A Narrow Escape (179-182)",
+      "episode_number": 179,
+      "aired": "Sep 6, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "180. Bölüm",
+      "title": "A Narrow Escape (179-182)",
+      "episode_number": 180,
+      "aired": "Sep 13, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "181. Bölüm",
+      "title": "A Narrow Escape (179-182)",
+      "episode_number": 181,
+      "aired": "Sep 20, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "182. Bölüm",
+      "title": "A Narrow Escape (179-182)",
+      "episode_number": 182,
+      "aired": "Sep 27, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "183. Bölüm",
+      "title": "Go Through Fire and Water (183-188)",
+      "episode_number": 183,
+      "aired": "Oct 4, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "184. Bölüm",
+      "title": "Go Through Fire and Water (183-188)",
+      "episode_number": 184,
+      "aired": "Oct 11, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "185. Bölüm",
+      "title": "Go Through Fire and Water (183-188)",
+      "episode_number": 185,
+      "aired": "Oct 18, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "186. Bölüm",
+      "title": "Go Through Fire and Water (183-188)",
+      "episode_number": 186,
+      "aired": "Oct 25, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "187. Bölüm",
+      "title": "The Dark Cage (Special Episode)",
+      "episode_number": 187,
+      "aired": "Nov 1, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "188. Bölüm",
+      "title": "Go Through Fire and Water (183-188)",
+      "episode_number": 188,
+      "aired": "Nov 8, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "189. Bölüm",
+      "title": "Helping Others Helps Yourself (189-194)",
+      "episode_number": 189,
+      "aired": "Nov 15, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "190. Bölüm",
+      "title": "Helping Others Helps Yourself (189-194)",
+      "episode_number": 190,
+      "aired": "Nov 22, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "191. Bölüm",
+      "title": "Helping Others Helps Yourself (189-194)",
+      "episode_number": 191,
+      "aired": "Nov 29, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "192. Bölüm",
+      "title": "Helping Others Helps Yourself (189-194)",
+      "episode_number": 192,
+      "aired": "Dec 6, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "193. Bölüm",
+      "title": "Helping Others Helps Yourself (189-194)",
+      "episode_number": 193,
+      "aired": "Dec 13, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "194. Bölüm",
+      "title": "Helping Others Helps Yourself (189-194)",
+      "episode_number": 194,
+      "aired": "Dec 20, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "195. Bölüm",
+      "title": "Winning The First Prize (195-200)",
+      "episode_number": 195,
+      "aired": "Dec 27, 2024",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "196. Bölüm",
+      "title": "Winning The First Prize (195-200)",
+      "episode_number": 196,
+      "aired": "Jan 3, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "197. Bölüm",
+      "title": "Winning The First Prize (195-200)",
+      "episode_number": 197,
+      "aired": "Jan 10, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "198. Bölüm",
+      "title": "Winning The First Prize (195-200)",
+      "episode_number": 198,
+      "aired": "Jan 17, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "199. Bölüm",
+      "title": "Winning The First Prize (195-200)",
+      "episode_number": 199,
+      "aired": "Jan 24, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "200. Bölüm",
+      "title": "Winning The First Prize (195-200)",
+      "episode_number": 200,
+      "aired": "Jan 31, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "201. Bölüm",
+      "title": "Breaking Through the Siege (201-206)",
+      "episode_number": 201,
+      "aired": "Feb 7, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "202. Bölüm",
+      "title": "Breaking Through the Siege (201-206)",
+      "episode_number": 202,
+      "aired": "Feb 14, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "203. Bölüm",
+      "title": "Breaking Through the Siege (201-206)",
+      "episode_number": 203,
+      "aired": "Feb 21, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "204. Bölüm",
+      "title": "Breaking Through the Siege (201-206)",
+      "episode_number": 204,
+      "aired": "Feb 28, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "205. Bölüm",
+      "title": "Liu Shen Three Thousand States Special",
+      "episode_number": 205,
+      "aired": "Mar 7, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "206. Bölüm",
+      "title": "Breaking Through the Siege (201-206)",
+      "episode_number": 206,
+      "aired": "Mar 14, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "207. Bölüm",
+      "title": "Tragedy of the Celestials (Special Episode)",
+      "episode_number": 207,
+      "aired": "Mar 21, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "208. Bölüm",
+      "title": "Those Coming for the Exam Are Actually Bullies Who Prey on the Weak",
+      "episode_number": 208,
+      "aired": "Mar 28, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "209. Bölüm",
+      "title": "Next Stop, Tian Shen Academy!",
+      "episode_number": 209,
+      "aired": "Apr 4, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "210. Bölüm",
+      "title": "Wedding in Huosang Forest Witnessed by Shi Zhongtian and Fire Emperor",
+      "episode_number": 210,
+      "aired": "Apr 11, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "211. Bölüm",
+      "title": "Foreign Invaders, Ancient Immortals Suddenly Appear!",
+      "episode_number": 211,
+      "aired": "Apr 18, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "212. Bölüm",
+      "title": "Goodbye, My Friends from Xian Gu",
+      "episode_number": 212,
+      "aired": "Apr 25, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "213. Bölüm",
+      "title": "What's This? White Qilin of Ancient Immortal?",
+      "episode_number": 213,
+      "aired": "May 2, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "214. Bölüm",
+      "title": "Di Guan, Let Me Do the Spicy Thing! The Road to Tianshen Academy is Long and Difficult",
+      "episode_number": 214,
+      "aired": "May 9, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "215. Bölüm",
+      "title": "Good Baby, Feed Me the Daluo Sword Embryo!",
+      "episode_number": 215,
+      "aired": "May 16, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "216. Bölüm",
+      "title": "The Promise of The Future, The Sound of Swords and Tripods",
+      "episode_number": 216,
+      "aired": "May 23, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "217. Bölüm",
+      "title": "Shi Hao Returns From Foreign Land!",
+      "episode_number": 217,
+      "aired": "May 30, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "218. Bölüm",
+      "title": "Who Is Not Letting Me Enter the Academy?",
+      "episode_number": 218,
+      "aired": "Jun 6, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "219. Bölüm",
+      "title": "Six Paths of Reincarnation Heavenly Art is Activated!",
+      "episode_number": 219,
+      "aired": "Jun 13, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "220. Bölüm",
+      "title": "The Time Has Come, Reveal Your True Self Today!",
+      "episode_number": 220,
+      "aired": "Jun 20, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "221. Bölüm",
+      "title": "Three Flowers Gather at the Top of My Head? My Sword is Not At A Disadvantage Either!",
+      "episode_number": 221,
+      "aired": "Jun 27, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "222. Bölüm",
+      "title": "True Immortal Emperor Butterfly, Help Me Defeat the Enemy!",
+      "episode_number": 222,
+      "aired": "Jul 4, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "223. Bölüm",
+      "title": "I Heard the Echo of \"Breaking All Laws\"",
+      "episode_number": 223,
+      "aired": "Jul 11, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "224. Bölüm",
+      "title": "Kill the Void King Beast and Take Mo Dao as Your Slave!",
+      "episode_number": 224,
+      "aired": "Jul 18, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "225. Bölüm",
+      "title": "I Took Out the Willow God, Didn't You Explode!",
+      "episode_number": 225,
+      "aired": "Jul 25, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "226. Bölüm",
+      "title": "Ruthless Emperor: Red King, You Dare to Touch Shi Hao?",
+      "episode_number": 226,
+      "aired": "Aug 1, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "227. Bölüm",
+      "title": "Grand Elder Protects His Child! Shi Hao Breaks Vajra Bracelet Removing Battle Servant Bond",
+      "episode_number": 227,
+      "aired": "Aug 8, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "228. Bölüm",
+      "title": "Capture the Fairy! I Am Huang!",
+      "episode_number": 228,
+      "aired": "Aug 15, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "229. Bölüm",
+      "title": "Advance to the Godly Realm! Sweep Everything!",
+      "episode_number": 229,
+      "aired": "Aug 22, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "230. Bölüm",
+      "title": "Golden Legend Guardian of Nine Heavens",
+      "episode_number": 230,
+      "aired": "Aug 29, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "231. Bölüm",
+      "title": "Ancient Precious Medicine! It's Mine, Mine!",
+      "episode_number": 231,
+      "aired": "Sep 5, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "232. Bölüm",
+      "title": "His Later Years Were Bleak! The Red-Haired Monster is Coming!",
+      "episode_number": 232,
+      "aired": "Sep 12, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "233. Bölüm",
+      "title": "There Are Too Many People Claiming to be Invincible",
+      "episode_number": 233,
+      "aired": "Sep 19, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "234. Bölüm",
+      "title": "With Our Bodies As The Seed, We Will Reach The Summit!",
+      "episode_number": 234,
+      "aired": "Sep 26, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "235. Bölüm",
+      "title": "A Great Era Awaits Me Ahead!",
+      "episode_number": 235,
+      "aired": "Oct 3, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "236. Bölüm",
+      "title": "A Single Blade of Grass Can Slay the Sun, Moon and Stars",
+      "episode_number": 236,
+      "aired": "Oct 10, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "237. Bölüm",
+      "title": "In A Battle Between Opponents of the Same Level, I'll Defeat Them in One Hit!",
+      "episode_number": 237,
+      "aired": "Oct 17, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "238. Bölüm",
+      "title": "Since I Am Invincible, Why Should I Rely on External Things!",
+      "episode_number": 238,
+      "aired": "Oct 24, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "239. Bölüm",
+      "title": "Three Supreme Beings? Shi Hao Pulled a Wave and They All Got Wiped Out!",
+      "episode_number": 239,
+      "aired": "Oct 31, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "240. Bölüm",
+      "title": "Little Horned Ant Appears!",
+      "episode_number": 240,
+      "aired": "Nov 7, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "241. Bölüm",
+      "title": "A Battle for Eternity, May It Pave The Way for Future Generations!",
+      "episode_number": 241,
+      "aired": "Nov 14, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "242. Bölüm",
+      "title": "In This Future, I'm All Alone",
+      "episode_number": 242,
+      "aired": "Nov 21, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "243. Bölüm",
+      "title": "I Have A Sword That Can Cleave The Milky Way!",
+      "episode_number": 243,
+      "aired": "Nov 28, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "244. Bölüm",
+      "title": "A Dream Through The Ages (Special Episode)",
+      "episode_number": 244,
+      "aired": "Dec 5, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "245. Bölüm",
+      "title": "Wang Family, the Grand Elder is Here to See You!",
+      "episode_number": 245,
+      "aired": "Dec 12, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "246. Bölüm",
+      "title": "The Grand Elder Takes Action and Overwhelms the Wang Family",
+      "episode_number": 246,
+      "aired": "Dec 19, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "247. Bölüm",
+      "title": "Invaders from Another Land, Do You Dare to Fight Me?",
+      "episode_number": 247,
+      "aired": "Dec 26, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "248. Bölüm",
+      "title": "Slaying the Ten Kings, Part 1 (Special Episode)",
+      "episode_number": 248,
+      "aired": "Jan 2, 2025",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "249. Bölüm",
+      "title": "Slaying the Ten Kings, Part 2 (Special Episode)",
+      "episode_number": 249,
+      "aired": "Jan 2, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "250. Bölüm",
+      "title": "The Sealed Ancient Realm, The Blood-Soaked Ancient Land",
+      "episode_number": 250,
+      "aired": "Jan 9, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "251. Bölüm",
+      "title": "Even With the Path to Immortality Severed, I'll Still Walk Alongside Willow Goddess",
+      "episode_number": 251,
+      "aired": "Jan 16, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "252. Bölüm",
+      "title": "Traitors of Wang Family, Be Executed Here!",
+      "episode_number": 252,
+      "aired": "Jan 23, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "253. Bölüm",
+      "title": "Grand Elder Meng Tianzheng, Fu Long!",
+      "episode_number": 253,
+      "aired": "Jan 30, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "254. Bölüm",
+      "title": "Nine Times I've Entered and Exited Foreign Lands. Only I, the Willow Goddess Can Remain!",
+      "episode_number": 254,
+      "aired": "Feb 6, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "255. Bölüm",
+      "title": "Sinful Blood Is Not Sin, It's Glory!",
+      "episode_number": 255,
+      "aired": "Feb 13, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "256. Bölüm",
+      "title": "Heavenly Abyss Has Appeared, Devouring Immortals to Protect Nine Heavens!",
+      "episode_number": 256,
+      "aired": "Feb 20, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "257. Bölüm",
+      "title": "Conquering Foreign Lands! The Reincarnation Technique Shakes the Borderlands",
+      "episode_number": 257,
+      "aired": "Feb 27, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "258. Bölüm",
+      "title": "Thunder Emperor Breaks Through All Laws, Facing Heavenly Tribulation Alone!",
+      "episode_number": 258,
+      "aired": "Mar 6, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "273. Bölüm",
+      "title": "Episode 273",
+      "episode_number": 273,
+      "aired": "Jun 12, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    },
+    {
+      "turkanime_title": "286. Bölüm",
+      "title": "Episode 286",
+      "episode_number": 286,
+      "aired": "Sep 11, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:04:47.658456"
+    }
+  ]
+}

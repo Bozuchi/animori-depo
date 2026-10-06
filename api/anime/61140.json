@@ -1,0 +1,67 @@
+{
+  "turkanime": {
+    "isim": "Gensou Suikoden",
+    "slug": "gensou-suikoden"
+  },
+  "jikan": {
+    "mal_id": 61140,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1579/160352.jpg",
+    "trailer_id": "m4T9VcBD0vo",
+    "title": "Gensou Suikoden",
+    "title_english": "Suikoden: The Anime",
+    "type": "TV",
+    "source": "Game",
+    "status": "Currently Airing",
+    "episodes": 23,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "50 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.76,
+    "popularity": 7696,
+    "synopsis": "Our story's hero and his friend Jowy are members of the Unicorn Youth Brigade, which participated in a drawn-out border dispute between the Highland Kingdom and the City- States of Jowstown. A few months earlier, a truth agreement was signed between the two forces, both of which were happy to see an end to the fighting. However, hidden under the momentary peace the fires of a new war continued to smolder...(Source: ANN)",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      2894
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          86356,
+          19271,
+          195245
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 187316,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-jucYCojVTjSY.jpg"
+  },
+  "synopsis_tr": "Hikayemizin kahramanı ve arkadaşı Jowy, Highland Krallığı ile Jowstown Şehir Devletleri arasındaki uzun süreli sınır anlaşmazlığına katılan Tek Boynuzlu At Gençlik Tugayı'nın üyeleridir. Birkaç ay önce iki güç arasında bir hakikat anlaşması imzalandı ve her ikisi de çatışmanın sona ermesinden memnundu. Ancak anlık barışın altında yeni bir savaşın ateşleri yanmaya devam ediyordu...(Kaynak: ANN)",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Hometown",
+      "episode_number": 1,
+      "aired": "Oct 3, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:50.974976"
+    }
+  ]
+}

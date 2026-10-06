@@ -1,0 +1,64 @@
+{
+  "turkanime": {
+    "isim": "Tokyo Revengers: Santen Sensou-hen",
+    "slug": "tokyo-revengers-santen-sensou-hen"
+  },
+  "jikan": {
+    "mal_id": 59088,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1321/159720.jpg",
+    "trailer_id": "Nm21TTXUkf4",
+    "title": "Tokyo Revengers: Santen Sensou-hen",
+    "title_english": "Tokyo Revengers: War of the Three Titan Arc",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": 13,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min. per ep.",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 7.76,
+    "popularity": 2995,
+    "synopsis": "Sequel toTokyo Revengers: Tenjiku-hen.",
+    "genres": [
+      1,
+      8
+    ],
+    "themes": [
+      55,
+      78
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      839
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          54918
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          104565
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 178083,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg"
+  },
+  "synopsis_tr": "Tokyo Revengers'ın devamı: Tenjiku-hen.",
+  "episodes": []
+}

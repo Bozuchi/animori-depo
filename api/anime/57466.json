@@ -1,0 +1,452 @@
+{
+  "turkanime": {
+    "isim": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
+    "puan": "0.00",
+    "bolum_durumu": "13/24",
+    "ozet": "Honzuki no Gekokujou (Bir Kitap Kurdunun Yükselişi) light novel serisinin üçüncü partının anime uyarlaması.",
+    "slug": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo"
+  },
+  "jikan": {
+    "mal_id": 57466,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1371/155054.jpg",
+    "trailer_id": "rtPF6rjrdSU",
+    "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
+    "title_english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "year": 2026,
+    "season": "spring",
+    "airing": false,
+    "aired": {
+      "from": "2026-04-04T00:00:00+00:00",
+      "to": "2026-10-03T00:00:00+00:00"
+    },
+    "duration": "23 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.73,
+    "popularity": 2545,
+    "synopsis": "Anime adaptation of part three of theHonzuki no Gekokujoulight novel.",
+    "genres": [
+      10
+    ],
+    "themes": [
+      62,
+      72
+    ],
+    "demographics": [],
+    "studios": [
+      858
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          42429
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          122851,
+          122830,
+          190012,
+          86119
+        ]
+      }
+    ],
+    "episodes": 24
+  },
+  "anilist": {
+    "id": 171110,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg"
+  },
+  "synopsis_tr": "Honzuki no Gekokujoulight romanının üçüncü bölümünün anime uyarlaması.",
+  "episodes": [
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 1. Bölüm",
+      "episode_number": 1,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Rd83swSE0VQjjh7H4JpMaWEPNYfUbOql/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6163543"
+        },
+        {
+          "fansub_id": 11,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-3k0vrm17zo5u.html"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/b1ja6dn6"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 1,
+      "filler": false,
+      "recap": false,
+      "title": "I've Become a Noble",
+      "aired": "Apr 4, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 2. Bölüm",
+      "episode_number": 2,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/14RmP9XxChHJ2jyglTVp596hRmlNrXEwM/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6168898"
+        },
+        {
+          "fansub_id": 11,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-22fi7aomfef5.html"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/6g7n5ecx"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 2,
+      "filler": false,
+      "recap": false,
+      "title": "Lower City Family Reunion",
+      "aired": "Apr 11, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 3. Bölüm",
+      "episode_number": 3,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1Ly7bAUN4eRklc0lR2yYPI7BiVrpcd_Q9/preview"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6174978"
+        },
+        {
+          "fansub_id": 11,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-qt8saox2301j.html"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/wpl91bhs"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 3,
+      "filler": false,
+      "recap": false,
+      "title": "Archduke's Castle and Italian Restaurant",
+      "aired": "Apr 18, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 4. Bölüm",
+      "episode_number": 4,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6179152"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/53vlx0e0"
+        }
+      ],
+      "skip_times": {
+        "ed": {
+          "start": 1297.3538,
+          "end": 1385.5251
+        }
+      },
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 4,
+      "filler": false,
+      "recap": false,
+      "title": "How to Collect Donations",
+      "aired": "Apr 25, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 5. Bölüm",
+      "episode_number": 5,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6188198"
+        },
+        {
+          "fansub_id": 11,
+          "player": "MP4UPLOAD",
+          "url": "https://www.mp4upload.com/embed-gaw3lu41snex.html"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/tv0tt02l"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 5,
+      "filler": false,
+      "recap": false,
+      "title": "Concert Preparations",
+      "aired": "May 9, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 6. Bölüm",
+      "episode_number": 6,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 6,
+      "filler": false,
+      "recap": false,
+      "title": "Harspiel Concert",
+      "aired": "May 16, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 7. Bölüm",
+      "episode_number": 7,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 7,
+      "filler": false,
+      "recap": false,
+      "title": "Hasse's Monastery",
+      "aired": "May 23, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 8. Bölüm",
+      "episode_number": 8,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 8,
+      "filler": false,
+      "recap": false,
+      "title": "Ferdinand's Task",
+      "aired": "May 30, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 9. Bölüm",
+      "episode_number": 9,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 9,
+      "filler": false,
+      "recap": false,
+      "title": "Wilfried's Day as High Bishop",
+      "aired": "Jun 6, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 10. Bölüm",
+      "episode_number": 10,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/1NauWF9715EpcGtmAiJurp0FEkjTqUy59/preview"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 10,
+      "filler": false,
+      "recap": false,
+      "title": "First Material Gathering",
+      "aired": "Jun 13, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 11. Bölüm",
+      "episode_number": 11,
+      "videos": [],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 11,
+      "filler": false,
+      "recap": false,
+      "title": "The Gathering of Gutenbergs",
+      "aired": "Jun 20, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 12. Bölüm",
+      "episode_number": 12,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "GDRIVE",
+          "url": "https://drive.google.com/file/d/10uhPgASO7PZsR5wZq1M_nMvUJbFTzLJQ/preview"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 12,
+      "filler": false,
+      "recap": false,
+      "title": "The Winter Social Season and Debut",
+      "aired": "Jun 27, 2026"
+    },
+    {
+      "turkanime_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo 13. Bölüm",
+      "episode_number": 13,
+      "videos": [
+        {
+          "fansub_id": 11,
+          "player": "SIBNET",
+          "url": "https://video.sibnet.ru/shell.php?videoid=6239550"
+        },
+        {
+          "fansub_id": 11,
+          "player": "SENDVID",
+          "url": "https://sendvid.com/embed/dhrxpauv"
+        }
+      ],
+      "skip_times": null,
+      "added_date": "2026-07-26T04:08:19.796548",
+      "jikan_mal_id": 13,
+      "filler": false,
+      "recap": false,
+      "title": "Winter Material Gathering",
+      "aired": "Jul 11, 2026"
+    },
+    {
+      "turkanime_title": "14. Bölüm",
+      "title": "Hasse's Punishment",
+      "episode_number": 14,
+      "aired": "Jul 18, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    },
+    {
+      "turkanime_title": "15. Bölüm",
+      "title": "Night of Fruhtrane",
+      "episode_number": 15,
+      "aired": "Jul 25, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    },
+    {
+      "turkanime_title": "16. Bölüm",
+      "title": "New Dress and Printing Press",
+      "episode_number": 16,
+      "aired": "Aug 1, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    },
+    {
+      "turkanime_title": "17. Bölüm",
+      "title": "Holding the Fort During the Archduke Conference",
+      "episode_number": 17,
+      "aired": "Aug 8, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    },
+    {
+      "turkanime_title": "18. Bölüm",
+      "title": "Damuel's Proposal",
+      "episode_number": 18,
+      "aired": "Aug 15, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    },
+    {
+      "turkanime_title": "19. Bölüm",
+      "title": "Inspection of Illgner and Gathering of Summer",
+      "episode_number": 19,
+      "aired": "Aug 22, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    },
+    {
+      "turkanime_title": "20. Bölüm",
+      "title": "Georgine's Visit",
+      "episode_number": 20,
+      "aired": "Sep 5, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    },
+    {
+      "turkanime_title": "21. Bölüm",
+      "title": "Ruelle Rechallenge",
+      "episode_number": 21,
+      "aired": "Sep 12, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    },
+    {
+      "turkanime_title": "22. Bölüm",
+      "title": "Wilfried's Actions",
+      "episode_number": 22,
+      "aired": "Sep 19, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    },
+    {
+      "turkanime_title": "23. Bölüm",
+      "title": "Charlotte's Baptism",
+      "episode_number": 23,
+      "aired": "Sep 26, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    },
+    {
+      "turkanime_title": "24. Bölüm",
+      "title": "Rescue",
+      "episode_number": 24,
+      "aired": "Oct 3, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:05:09.919775"
+    }
+  ]
+}

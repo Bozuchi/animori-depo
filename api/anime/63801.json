@@ -1,0 +1,84 @@
+{
+  "turkanime": {
+    "isim": "Ranma ½ (2024) 3rd Season",
+    "slug": "ranma-½-2024-3rd-season"
+  },
+  "jikan": {
+    "mal_id": 63801,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1939/159199.jpg",
+    "trailer_id": "3uLb6c-4ni0",
+    "title": "Ranma ½ (2024) 3rd Season",
+    "title_english": "Ranma ½ (2024) Season 3",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-04T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "22 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.85,
+    "popularity": 4569,
+    "synopsis": "Third season ofRanma ½ (2024).",
+    "genres": [
+      1,
+      4,
+      22,
+      9
+    ],
+    "themes": [
+      65,
+      17,
+      23
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      569
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          60564
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          23
+        ]
+      },
+      {
+        "relation": "Alternative Version",
+        "entries": [
+          210
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 209872,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209872-Qczb4k9Mw0pq.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg"
+  },
+  "synopsis_tr": "Ranma ½'nin (2024) üçüncü sezonu.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Training Meals",
+      "episode_number": 1,
+      "aired": "Oct 4, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:08:08.008060"
+    }
+  ]
+}

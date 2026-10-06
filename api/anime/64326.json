@@ -1,0 +1,56 @@
+{
+  "turkanime": {
+    "isim": "Marronnier Oukoku no Shichinin no Kishi",
+    "slug": "marronnier-oukoku-no-shichinin-no-kishi"
+  },
+  "jikan": {
+    "mal_id": 64326,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1678/160198.jpg",
+    "trailer_id": "wk26nTxUzPY",
+    "title": "Marronnier Oukoku no Shichinin no Kishi",
+    "title_english": "The Seven Knights of the Marronnier Kingdom",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": 20,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-03T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "25 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.37,
+    "popularity": 8263,
+    "synopsis": "At the center of a continent made up of eight kingdoms lies the Kingdom of Marronnier. Leading the nation is the female general Baribara, who has seven sons, each with a personality all his own.Sleepy, benevolent, sensitive to heat, sensitive to cold, gifted with animals, proud of his swordsmanship, and always hungry—the brothers possess very different qualities, but they are united by a single goal: \"Someday, we'll rescue a princess in a cool way!\"Before long, the brothers set out for the seven neighboring kingdoms as ambassadors. What encounters, trials, and destinies await them in these unfamiliar lands?Set in a medieval-inspired fantasy world, this tale of romance and adventure begins.(Source: MAL News)",
+    "genres": [
+      4
+    ],
+    "themes": [
+      13
+    ],
+    "demographics": [
+      43
+    ],
+    "studios": [
+      7
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          110138
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 212799,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212799-n7WDdic7IL1z.png"
+  },
+  "synopsis_tr": "Sekiz krallıktan oluşan kıtanın merkezinde Marronnier Krallığı yer alıyor. Ulusun başında, her biri kendine has kişiliklere sahip yedi oğlu olan kadın general Baribara vardır. Uykulu, yardımsever, sıcağa duyarlı, soğuğa duyarlı, hayvanlar konusunda yetenekli, kılıç ustalığıyla gurur duyan ve her zaman aç olan kardeşler çok farklı niteliklere sahiptirler ama tek bir amaçta birleşirler: \"Bir gün, bir prensesi soğukkanlı bir şekilde kurtaracağız!\" Çok geçmeden kardeşler, elçi olarak yedi komşu krallığa doğru yola çıkarlar. Bu yabancı topraklarda onları ne gibi karşılaşmalar, denemeler ve kaderler bekliyor? Orta Çağ'dan ilham alan bir fantastik dünyada geçen bu aşk ve macera hikayesi başlıyor.(Kaynak: MAL Haberleri)",
+  "episodes": []
+}

@@ -1,0 +1,71 @@
+{
+  "turkanime": {
+    "isim": "Umayuru: Full Gate!",
+    "slug": "umayuru-full-gate"
+  },
+  "jikan": {
+    "mal_id": 64867,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1961/160271.jpg",
+    "trailer_id": null,
+    "title": "Umayuru: Full Gate!",
+    "title_english": null,
+    "type": "ONA",
+    "source": "Game",
+    "status": "Currently Airing",
+    "episodes": 26,
+    "year": 2026,
+    "season": null,
+    "airing": true,
+    "aired": {
+      "from": "2026-09-27T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "3 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.81,
+    "popularity": 10796,
+    "synopsis": "A newUmayuruseason.",
+    "genres": [
+      4
+    ],
+    "themes": [
+      51
+    ],
+    "demographics": [],
+    "studios": [
+      3335
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          61579
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          35249
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 215835,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx215835-B0seSw93V5qM.png"
+  },
+  "synopsis_tr": "Yeni bir Umayuru sezonu.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Seven Heads Are Better than One",
+      "episode_number": 1,
+      "aired": "Sep 27, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:09:29.683855"
+    }
+  ]
+}

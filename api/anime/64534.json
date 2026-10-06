@@ -1,0 +1,72 @@
+{
+  "turkanime": {
+    "isim": "Koori no Jouheki 2nd Season",
+    "slug": "koori-no-jouheki-2nd-season"
+  },
+  "jikan": {
+    "mal_id": 64534,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1963/159754.jpg",
+    "trailer_id": "VvzeL7UMCE8",
+    "title": "Koori no Jouheki 2nd Season",
+    "title_english": "The Ramparts of Ice Season 2",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-02T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.42,
+    "popularity": 3525,
+    "synopsis": "Second season ofKoori no Jouheki.",
+    "genres": [
+      8,
+      22
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      1997
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          60852
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          160303
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 213805,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
+  },
+  "synopsis_tr": "Koori no Jouheki'nin ikinci sezonu.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Clouds and Rain",
+      "episode_number": 1,
+      "aired": "Oct 2, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-06T15:07:40.282453"
+    }
+  ]
+}
