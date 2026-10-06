@@ -85,7 +85,6 @@ jobs:
           # Güncellenen verileri ekle
           git add api/
           [ -d data ] && git add data/
-          [ -f errors.log ] && git add errors.log
 
           # Değişiklik varsa commit & push yap
           if git diff --staged --quiet; then
