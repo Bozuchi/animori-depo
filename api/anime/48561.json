@@ -164,5 +164,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 810693,
+    "type": "movie",
+    "season": 1,
+    "episode_offset": 1
+  }
 }

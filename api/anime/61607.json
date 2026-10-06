@@ -178,5 +178,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 123542,
+    "type": "tv",
+    "season": 4,
+    "episode_offset": 0
+  }
 }

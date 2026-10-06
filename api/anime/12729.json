@@ -205,5 +205,11 @@
       "filler": true,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 45950,
+    "type": "tv",
+    "season": 0,
+    "episode_offset": 7
+  }
 }

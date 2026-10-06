@@ -427,5 +427,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 35442,
+    "type": "tv",
+    "season": 16,
+    "episode_offset": 0
+  }
 }

@@ -1098,5 +1098,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 35138,
+    "type": "tv",
+    "season": 5,
+    "episode_offset": 0
+  }
 }

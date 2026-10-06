@@ -411,5 +411,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 62104,
+    "type": "tv",
+    "season": 0,
+    "episode_offset": 3
+  }
 }

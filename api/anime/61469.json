@@ -104,5 +104,11 @@
       "videos": [],
       "added_date": "2026-10-06T15:05:51.889030"
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 45790,
+    "type": "tv",
+    "season": 6,
+    "episode_offset": 0
+  }
 }

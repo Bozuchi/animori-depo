@@ -144,5 +144,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 138683,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

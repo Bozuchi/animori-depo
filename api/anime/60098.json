@@ -438,5 +438,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 65930,
+    "type": "tv",
+    "season": 8,
+    "episode_offset": 0
+  }
 }

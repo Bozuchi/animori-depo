@@ -295,5 +295,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 70716,
+    "type": "tv",
+    "season": 0,
+    "episode_offset": 13
+  }
 }

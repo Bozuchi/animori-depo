@@ -78,5 +78,11 @@
     "id": 143271,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143271-llmIgJN9tu3l.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143271-o5wry0ohH9R3.jpg"
+  },
+  "tmdb": {
+    "id": 60833,
+    "type": "tv",
+    "season": 3,
+    "episode_offset": 0
   }
 }

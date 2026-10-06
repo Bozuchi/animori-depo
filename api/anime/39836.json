@@ -926,5 +926,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 56559,
+    "type": "tv",
+    "season": 7,
+    "episode_offset": 0
+  }
 }

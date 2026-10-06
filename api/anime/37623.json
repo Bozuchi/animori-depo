@@ -93,5 +93,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 514710,
+    "type": "movie",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

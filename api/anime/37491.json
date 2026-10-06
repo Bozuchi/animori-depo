@@ -800,5 +800,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 57041,
+    "type": "tv",
+    "season": 10,
+    "episode_offset": 12
+  }
 }

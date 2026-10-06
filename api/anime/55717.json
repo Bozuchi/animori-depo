@@ -52,5 +52,11 @@
     "id": 166372,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166372-AO67sLMZfUpB.jpg"
+  },
+  "tmdb": {
+    "id": 229108,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
   }
 }

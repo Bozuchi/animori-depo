@@ -26,6 +26,7 @@ from src.mal_scraper import MalHtmlEnricher
 from src.storage_manager import StorageManager
 from src.translator import translate_synopsis
 from src.discord_notify import send_report
+from src.fribb_mapper import FribbMapper
 
 logger = setup_logger("Main")
 
@@ -60,6 +61,7 @@ def sync_anime_item(
     mal_scraper: MalHtmlEnricher,
     storage: StorageManager,
     skip_translate: bool = False,
+    fribb_mapper: Optional[FribbMapper] = None,
 ) -> dict:
     """
     Tek bir anime kaydını inceler, gerekirse oluşturur veya günceller.
@@ -124,6 +126,9 @@ def sync_anime_item(
             if clean_slug:
                 slug = clean_slug
 
+        # TMDB / Fribb eşleşmesi
+        tmdb_data = fribb_mapper.get_tmdb_info(mal_id) if fribb_mapper else None
+
         # Anime detayını kaydet
         storage.save_anime_detail(
             slug=slug,
@@ -132,6 +137,7 @@ def sync_anime_item(
             anilist_data=anilist_data,
             synopsis_tr=synopsis_tr,
             mal_id=mal_id,
+            tmdb_data=tmdb_data,
         )
 
         # Bölümleri çek ve birleştir
@@ -222,7 +228,14 @@ def sync_anime_item(
             new_ep_count = storage.merge_and_save_episodes(mal_id, mal_episodes)
             updated = True
 
-    # Değişen meta verileri (puan, durum, synopsis_tr, anilist) diske kaydet
+    # 4. Eksik TMDB eşleşmesi kontrolü
+    if fribb_mapper and ("tmdb" not in existing or existing.get("tmdb") is None):
+        tmdb_data = fribb_mapper.get_tmdb_info(mal_id)
+        if tmdb_data:
+            existing["tmdb"] = tmdb_data
+            updated = True
+
+    # Değişen meta verileri (puan, durum, synopsis_tr, anilist, tmdb) diske kaydet
     if updated:
         storage.save_anime_detail(
             slug=existing.get("turkanime", {}).get("slug") or str(mal_id),
@@ -231,6 +244,7 @@ def sync_anime_item(
             anilist_data=existing.get("anilist"),
             synopsis_tr=existing.get("synopsis_tr"),
             mal_id=mal_id,
+            tmdb_data=existing.get("tmdb"),
         )
 
     return {"is_new": False, "new_episodes": new_ep_count, "updated": updated}
@@ -264,12 +278,49 @@ def run_sync(args, stats: dict):
     anilist = AnilistClient()
     storage = StorageManager()
     mal = MalHtmlEnricher(metadata=storage.metadata)
+    fribb = FribbMapper()
+
+    # ─────────────────────────────────────────────────────────────
+    # 0. FRIBB GÜNCELLEME KONTROLÜ (ETag / DELTA SENKRONİZASYON)
+    # ─────────────────────────────────────────────────────────────
+    is_fribb_updated, diff_mal_ids = fribb.check_and_update_remote()
+    if is_fribb_updated and diff_mal_ids:
+        logger.info(f"🔄 Fribb dataseti güncellendi! {len(diff_mal_ids)} animenin TMDB bilgisi yenileniyor...")
+        fribb_updated_count = 0
+        for diff_id in diff_mal_ids:
+            tmdb_info = fribb.get_tmdb_info(diff_id)
+            if storage.update_anime_tmdb(diff_id, tmdb_info):
+                fribb_updated_count += 1
+        logger.info(f"✅ {fribb_updated_count} animenin TMDB eşleşmesi diske kaydedildi.")
+        stats["fribb_guncellenen"] = fribb_updated_count
+
+    # ─────────────────────────────────────────────────────────────
+    # OPSİYONEL: --sync-fribb İLE TÜM YEREL ARŞİVİ EŞLEŞTİR
+    # ─────────────────────────────────────────────────────────────
+    if getattr(args, "sync_fribb", False):
+        logger.info("🗺️  Tüm yerel anime dosyaları Fribb TMDB eşleşmesi için taranıyor (--sync-fribb)...")
+        backfill_count = 0
+        total_checked = 0
+        for filename in sorted(os.listdir(storage.anime_dir)):
+            if not filename.endswith(".json"):
+                continue
+            name_no_ext = filename[:-5]
+            if not name_no_ext.isdigit():
+                continue
+            mid = int(name_no_ext)
+            total_checked += 1
+            tmdb_info = fribb.get_tmdb_info(mid)
+            if tmdb_info:
+                if storage.update_anime_tmdb(mid, tmdb_info):
+                    backfill_count += 1
+        logger.info(f"✅ Fribb taraması tamamlandı: {total_checked} dosyadan {backfill_count} tanesi güncellendi/kaydedildi.")
+        stats["fribb_backfill_guncellenen"] = backfill_count
+        return
 
     if args.build_index:
         logger.info("🔨 Vitrin indeksleri yeniden inşa ediliyor...")
         count = storage.build_index()
         storage.save_metadata()
-        storage.update_latest_episodes()
         storage.update_versions()
         stats["toplam_indeks_anime"] = count
         logger.info(f"✅ İndeksleme tamamlandı. Toplam: {count} anime.")
@@ -369,6 +420,7 @@ def run_sync(args, stats: dict):
             mal_scraper=mal,
             storage=storage,
             skip_translate=args.skip_translate,
+            fribb_mapper=fribb,
         )
 
         if res["is_new"]:
@@ -384,7 +436,6 @@ def run_sync(args, stats: dict):
     # İndeksleri güncelle
     logger.info("💾 İndeksler ve metadata güncelleniyor...")
     storage.save_metadata()
-    storage.update_latest_episodes()
     storage.build_index()
     storage.update_versions()
 
@@ -401,6 +452,7 @@ def main():
     parser.add_argument("--full", action="store_true", help="Daha fazla sayfa tarayarak genişletilmiş senkronizasyon yapar.")
     parser.add_argument("--sync-season", action="store_true", help="Mevcut sezon animelerini AniList'ten çeker.")
     parser.add_argument("--check-airing", action="store_true", help="Yalnızca yerel veritabanında yayında (Currently Airing) görünen animelerin güncel durumunu (Finished/Airing) ve bölümlerini denetler.")
+    parser.add_argument("--sync-fribb", action="store_true", help="Tüm yerel anime dosyalarını Fribb TMDB eşleşmesi için baştan sona tarar ve günceller.")
     parser.add_argument("--limit", type=int, default=None, help="Test için işlenecek maksimum anime sayısı.")
     parser.add_argument("--build-index", action="store_true", help="Yalnızca animes.json ve diğer vitrin indekslerini yeniden oluşturur.")
     parser.add_argument("--skip-translate", action="store_true", help="Özet çevirilerini atlar (hızlı test için).")

@@ -220,5 +220,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 97421,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 6
+  }
 }

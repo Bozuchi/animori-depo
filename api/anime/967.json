@@ -5452,5 +5452,11 @@
       "filler": false,
       "recap": true
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 56387,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

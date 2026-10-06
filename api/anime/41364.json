@@ -522,5 +522,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 69298,
+    "type": "tv",
+    "season": 3,
+    "episode_offset": 0
+  }
 }

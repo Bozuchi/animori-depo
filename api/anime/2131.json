@@ -167,5 +167,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 42870,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  }
 }

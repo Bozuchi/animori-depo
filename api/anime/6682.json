@@ -815,5 +815,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 44310,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

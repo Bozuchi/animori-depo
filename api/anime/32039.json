@@ -650,5 +650,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 65036,
+    "type": "tv",
+    "season": 0,
+    "episode_offset": 0
+  }
 }

@@ -141,5 +141,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 50712,
+    "type": "tv",
+    "season": 0,
+    "episode_offset": 8
+  }
 }

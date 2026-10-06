@@ -53,5 +53,11 @@
     "id": 155527,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155527-OkpVRne3iX1Z.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155527-fXFaC94ehfj9.jpg"
+  },
+  "tmdb": {
+    "id": 212053,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
   }
 }

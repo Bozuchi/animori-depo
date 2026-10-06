@@ -400,5 +400,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 135334,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

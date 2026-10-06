@@ -128,5 +128,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 26209,
+    "type": "tv",
+    "season": 0,
+    "episode_offset": 4
+  }
 }

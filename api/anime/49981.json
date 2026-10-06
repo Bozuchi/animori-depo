@@ -403,5 +403,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 101972,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  }
 }

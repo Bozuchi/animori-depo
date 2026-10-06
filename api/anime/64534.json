@@ -68,5 +68,11 @@
       "videos": [],
       "added_date": "2026-10-06T15:07:40.282453"
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 283428,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  }
 }

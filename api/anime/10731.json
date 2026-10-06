@@ -106,5 +106,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 259169,
+    "type": "movie",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

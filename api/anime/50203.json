@@ -65,5 +65,11 @@
     "id": 140642,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140642-QwtRlTiVHNOv.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140642-uENjMoTQqPoO.jpg"
+  },
+  "tmdb": {
+    "id": 106055,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
   }
 }

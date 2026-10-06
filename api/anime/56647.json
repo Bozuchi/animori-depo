@@ -774,5 +774,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 234776,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

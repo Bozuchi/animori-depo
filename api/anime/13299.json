@@ -104,5 +104,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 700512,
+    "type": "movie",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

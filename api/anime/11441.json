@@ -140,5 +140,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 145675,
+    "type": "movie",
+    "season": 1,
+    "episode_offset": 7
+  }
 }

@@ -281,5 +281,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 507022,
+    "type": "movie",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

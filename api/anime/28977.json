@@ -2298,5 +2298,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 57041,
+    "type": "tv",
+    "season": 7,
+    "episode_offset": 0
+  }
 }

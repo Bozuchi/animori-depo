@@ -1012,5 +1012,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 53721,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

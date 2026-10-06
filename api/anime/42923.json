@@ -1986,5 +1986,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 110309,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

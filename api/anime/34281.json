@@ -882,5 +882,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 45950,
+    "type": "tv",
+    "season": 4,
+    "episode_offset": -1
+  }
 }

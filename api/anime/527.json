@@ -15700,5 +15700,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 60572,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

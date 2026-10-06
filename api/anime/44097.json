@@ -588,5 +588,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 75787,
+    "type": "tv",
+    "season": 9,
+    "episode_offset": 0
+  }
 }

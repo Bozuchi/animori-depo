@@ -1459,5 +1459,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 35610,
+    "type": "tv",
+    "season": 8,
+    "episode_offset": 0
+  }
 }

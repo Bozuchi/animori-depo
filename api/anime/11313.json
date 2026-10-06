@@ -123,5 +123,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 70228,
+    "type": "tv",
+    "season": 0,
+    "episode_offset": 0
+  }
 }

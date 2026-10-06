@@ -1820,5 +1820,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 120089,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 12
+  }
 }

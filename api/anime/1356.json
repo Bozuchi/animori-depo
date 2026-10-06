@@ -1378,5 +1378,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 56387,
+    "type": "tv",
+    "season": 5,
+    "episode_offset": 0
+  }
 }

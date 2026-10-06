@@ -1067,5 +1067,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 34857,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

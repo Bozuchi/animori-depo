@@ -53,5 +53,11 @@
       "videos": [],
       "added_date": "2026-10-06T15:09:11.377124"
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 317259,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

@@ -2009,5 +2009,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 220542,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 24
+  }
 }

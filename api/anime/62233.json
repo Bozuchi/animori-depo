@@ -79,5 +79,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 1659389,
+    "type": "movie",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

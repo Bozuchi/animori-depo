@@ -57,5 +57,11 @@
     "id": 202419,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202419-BmPPSzsegbcv.png"
+  },
+  "tmdb": {
+    "id": 304126,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
   }
 }

@@ -1906,5 +1906,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 71014,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

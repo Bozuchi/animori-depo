@@ -544,5 +544,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 56355,
+    "type": "tv",
+    "season": 4,
+    "episode_offset": 0
+  }
 }

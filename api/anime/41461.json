@@ -1842,5 +1842,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 46004,
+    "type": "tv",
+    "season": 4,
+    "episode_offset": 0
+  }
 }

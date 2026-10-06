@@ -359,5 +359,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 96316,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 36
+  }
 }

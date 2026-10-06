@@ -11,7 +11,9 @@ errors.log
 legacy/
 
 # Runtime data & checkpoints
-data/
+data/*
+!data/fribb_state.json
+!data/anime-list-mini.json
 
 # Virtual Environments
 .venv/

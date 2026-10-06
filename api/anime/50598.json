@@ -449,5 +449,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 78941,
+    "type": "tv",
+    "season": 5,
+    "episode_offset": 0
+  }
 }

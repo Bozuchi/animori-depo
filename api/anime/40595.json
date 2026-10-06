@@ -1212,5 +1212,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 101972,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

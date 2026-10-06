@@ -91,5 +91,11 @@
       "filler": null,
       "recap": null
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 9103,
+    "type": "tv",
+    "season": 0,
+    "episode_offset": 9
+  }
 }

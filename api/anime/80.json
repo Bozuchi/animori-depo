@@ -1966,5 +1966,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 21731,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  }
 }

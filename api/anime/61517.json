@@ -514,5 +514,11 @@
       "filler": false,
       "recap": false
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 46437,
+    "type": "tv",
+    "season": 6,
+    "episode_offset": 0
+  }
 }
