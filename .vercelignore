@@ -1,0 +1,10 @@
+# Vercel deployment ignore
+src/
+legacy/
+.github/
+*.py
+*.txt
+*.log
+manual_mappings.json
+.gitignore
+.nojekyll
