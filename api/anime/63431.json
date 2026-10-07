@@ -22,8 +22,8 @@
     },
     "duration": "23 min.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 7.3,
-    "popularity": 6013,
+    "score": 7.36,
+    "popularity": 5717,
     "synopsis": "Rein, an enchanter who strengthens equipment with his magic, is suddenly expelled from his guild, simply because every piece of gear in the guild has already been enhanced enough. Outraged by the absurd treatment, Rein decides to take back the enormous amount of mana he had poured into their equipment. When he casually channels it into a random copper sword, it transforms into a cheat-level weapon with 10,000 enhancement points!With zero combat experience but armed with magic that can turn anything into overpowered gear, this enchanter sets off to enjoy a new, carefree life as an adventurer!(Source: Shochiku)",
     "genres": [
       1,
@@ -57,5 +57,16 @@
     "episode_offset": 0
   },
   "synopsis_tr": "Büyüsüyle ekipmanı güçlendiren bir büyücü olan Rein, loncadaki her teçhizatın zaten yeterince geliştirilmiş olması nedeniyle aniden loncadan atılır. Bu saçma muamele karşısında öfkelenen Rein, ekipmanlarına döktüğü muazzam miktardaki manayı geri almaya karar verir. Rasgele bir şekilde rastgele bir bakır kılıca yönlendirdiğinde, 10.000 yükseltme puanına sahip hile düzeyinde bir silaha dönüşür! Sıfır savaş deneyimine sahip ancak her şeyi aşırı güçlü donanıma dönüştürebilecek büyüyle donanmış olan bu büyücü, bir maceracı olarak yeni, kaygısız bir hayatın tadını çıkarmak için yola çıkıyor!(Kaynak: Shochiku)",
-  "episodes": []
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Everyone Knows What It's Like When Nothing Goes Right, but What Do I Do When That Happens? Why, It's Obvious! I Run and Scream My Head Off!",
+      "episode_number": 1,
+      "aired": "Oct 7, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-07T10:11:00.545243"
+    }
+  ]
 }
