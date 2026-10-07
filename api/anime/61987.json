@@ -12,7 +12,7 @@
     "type": "TV",
     "source": "Light novel",
     "status": "Currently Airing",
-    "episodes": 1,
+    "episodes": 12,
     "year": 2026,
     "season": "fall",
     "airing": true,
@@ -23,7 +23,7 @@
     "duration": "24 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 8.64,
-    "popularity": 1542,
+    "popularity": 1528,
     "synopsis": "In the aftermath of the Shi Clan's rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district. One day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature. Meanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\" To make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again. From the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.(Source: Crunchyroll)",
     "genres": [
       8,
@@ -68,8 +68,14 @@
   },
   "anilist": {
     "id": 195516,
-    "banner_image": null,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195516-B5M0cPaQbQXI.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg"
+  },
+  "tmdb": {
+    "id": 220542,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 48
   },
   "synopsis_tr": "Shi Klanının isyanının ardından işler nihayet sakinleşti ve Maomao, zevk bölgesindeki eczacı olarak eski hayatına geri döndü. Bir gün Verdigris Evi'nde servis edilen kahvaltının tetiklediği Maomao, bir anormallik hisseder ve bunun gerçek doğasını araştırmaya başlar. Bu arada, İmparatorluk kardeşi olarak gerçek kimliğini ortaya çıkaran ve ağır sorumluluklarıyla yüzleşmeye başlayan Jinshi, Loulan'ın bıraktığı son mesajdan derinden rahatsız oluyor: yaklaşan \"ulusu vuracak bir felaket\" uyarısı. Daha da kötüsü, insanları aldatan gizemli bir tapınak kızının söylentileri yayılmaya başlar ve Li ülkesine bir kez daha karanlık bir gölge düşürür. İç avlunun derinliklerinden şehrin sokaklarına ve yabancı sınırların ötesine kadar dünya genişliyor ve Maomao ile Jinshi için riskler daha da artıyor.(Kaynak: Crunchyroll)",
   "episodes": [
@@ -83,11 +89,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:07:27.415082"
     }
-  ],
-  "tmdb": {
-    "id": 220542,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 48
-  }
+  ]
 }

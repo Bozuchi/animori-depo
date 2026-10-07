@@ -22,8 +22,8 @@
     },
     "duration": "23 min.",
     "rating": "None",
-    "score": 6.93,
-    "popularity": 5446,
+    "score": 6.94,
+    "popularity": 5351,
     "synopsis": "Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!(Source: Seven Seas Entertainment)",
     "genres": [
       1,
@@ -52,6 +52,12 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg"
   },
+  "tmdb": {
+    "id": 283692,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Sato Takahiro, bir uzay gemisinde uyandığı güne kadar sıradan bir ofis çalışanı ve oyun meraklısıydı; bu gemi garip bir şekilde en sevdiği uzay nişancı oyunundan bir gemiye benziyordu. Donanımlı bir gemi, bebek dolu bir mürettebat ve keşfedilecek muhteşem bir evrenle, şansını en iyi şekilde değerlendirecek ve her zaman hayalini kurduğu hayatı yaratacak!(Kaynak: Seven Seas Entertainment)",
   "episodes": [
     {
@@ -64,11 +70,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:07:53.693737"
     }
-  ],
-  "tmdb": {
-    "id": 283692,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

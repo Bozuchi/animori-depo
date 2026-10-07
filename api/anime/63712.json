@@ -22,8 +22,8 @@
     },
     "duration": "23 min.",
     "rating": "None",
-    "score": 6.83,
-    "popularity": 6667,
+    "score": 6.87,
+    "popularity": 6320,
     "synopsis": "Office worker Akira Yagami's altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira's newfound powers let him defy the species' normal life span... and are the key to his path to becoming the strongest goblin ever!(Source: Yen Press)",
     "genres": [
       10
@@ -52,6 +52,12 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg"
   },
+  "tmdb": {
+    "id": 316694,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Ofis çalışanı Akira Yagami'nin fedakar doğası genellikle ona işin kısa ucunu verir. Bir çocuğu karşıdan gelen trafikten kurtardıktan sonra öldüğünde...başka bir dünyada bir goblin olarak reenkarne mi oluyor?! Normalde goblinler yalnızca yedi gün yaşar, ancak Akira'nın yeni keşfettiği güçleri, türün normal yaşam süresine meydan okumasına olanak tanıyor... ve şimdiye kadarki en güçlü goblin olma yolunun anahtarıdır!(Kaynak: Yen Press)",
   "episodes": [
     {
@@ -64,11 +70,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:08:26.869733"
     }
-  ],
-  "tmdb": {
-    "id": 316694,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

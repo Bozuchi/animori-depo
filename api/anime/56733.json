@@ -12,7 +12,7 @@
     "type": "TV",
     "source": "Light novel",
     "status": "Currently Airing",
-    "episodes": 12,
+    "episodes": 13,
     "year": 2026,
     "season": "fall",
     "airing": true,
@@ -23,7 +23,7 @@
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 6.93,
-    "popularity": 5460,
+    "popularity": 5390,
     "synopsis": "Reincarnated as a character in the legendary erotic game, \"Magical Explorer,\" it doesn't take long for our hero to discover that he's been designated the unlucky side-character rather than the game's lady-killer protagonist. Not to worry, though! Armed with his vast knowledge of the game (and a few cheats) he'll do whatever it takes to win the hearts of the game's heroines and emerge as the most accomplished student at the Sorcerer's Academy!(Source: Yen Press)",
     "genres": [
       2,
@@ -53,6 +53,12 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png"
   },
+  "tmdb": {
+    "id": 335194,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Efsanevi erotik oyun \"Sihirli Kaşif\"te bir karakter olarak yeniden doğan kahramanımızın, oyunun kadın katili kahramanı yerine şanssız yan karakter olarak seçildiğini keşfetmesi uzun sürmez. Yine de endişelenmeyin! Oyun hakkındaki engin bilgisi (ve birkaç hile) ile oyunun kahramanlarının kalbini kazanmak ve Sihirbaz Akademisi'nin en başarılı öğrencisi olarak ortaya çıkmak için ne gerekiyorsa yapacak!(Kaynak: Yen Press)",
   "episodes": [
     {
@@ -75,11 +81,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:07:59.848048"
     }
-  ],
-  "tmdb": {
-    "id": 335194,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

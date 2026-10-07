@@ -22,8 +22,8 @@
     },
     "duration": "23 min. per ep.",
     "rating": "None",
-    "score": 7.01,
-    "popularity": 6059,
+    "score": 7.02,
+    "popularity": 5984,
     "synopsis": "I was reborn as a villainous daughter in a reverse harem otome game.After being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.So in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.But will her cunning fiancé let her go that easily?(Source: MU)",
     "genres": [
       22
@@ -53,6 +53,12 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200455-P3XStRQMJ7Di.png"
   },
+  "tmdb": {
+    "id": 303060,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Ters harem otome oyununda kötü niyetli bir kız olarak yeniden doğdum. Pia Rockwell, 10 yaşındayken yüksek ateşle hastalandıktan sonra aniden Japonya'da bir üniversite öğrencisi olarak geçirdiği geçmiş yaşamını hatırladı. Ama kötülük yoluna gitmek şöyle dursun, bu süper çekingen kızın istediği tek şey, paleontoloji alanında doktora yapmak için okuyan yüksek lisans öğrencisiyken edindiği bilgileri nihayet kullanmaktır. Nihai hedefi halktan biri olmak, fosil çıkarmak, müze inşa etmek ve ardından küratör olmaktır. Pia, kötülük yolundan kaçmak ve mezuniyet balosu sırasında nişanlısı tarafından sınır dışı edilmekten kaçınmak için yaklaşan acıdan ve acıdan kaçınmaya karar verir ve Başbakan'ın oğlu Rufus'la olan nişanını bozmak ister. Peki kurnaz nişanlısı onu bu kadar kolay bırakabilecek mi?(Kaynak: MU)",
   "episodes": [
     {
@@ -65,11 +71,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:08:31.638627"
     }
-  ],
-  "tmdb": {
-    "id": 303060,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

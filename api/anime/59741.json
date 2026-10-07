@@ -25,7 +25,7 @@
     "duration": "Unknown",
     "rating": null,
     "score": 6.83,
-    "popularity": 2487,
+    "popularity": 2481,
     "synopsis": "\"You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!\"\n\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n\n(Source: Kodansha USA)",
     "genres": [
       1,
@@ -49,12 +49,18 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 26
   },
   "anilist": {
     "id": 180136,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg"
+  },
+  "tmdb": {
+    "id": 270603,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
   },
   "synopsis_tr": "\"Seni işe yaramaz oğlum! Usta kılıç ustasını çekmen gerekiyordu ama bunun bu kadar trajik olacağını hiç düşünmemiştim!\"\n\nBir çocuk on beş yaşını doldurduğu gün İlahi Nimet Ritüeli'ne tabi tutulur. Zaten usta kılıç ustalarının soyundan gelen Elymas'ın babasının yerini alması gerekiyordu. Ancak kusurlu sınıf olan Ağır Şövalye'yi çeker ve sadece gelecekteki hane reisi statüsünü kaybetmekle kalmaz, aynı zamanda sürgüne de gönderilir. Dengesiz istatistikleri ve görünüşte işe yaramaz becerileriyle Ağır Şövalyelerin korkak ve tembellerin sınıfı olduğu söyleniyor. Ancak Elmas gerçeği biliyor. Yaşadığı dünya, oynadığı oyunun aynısı... Aralarında en güçlü sınıf olan ise Ağır Şövalye'dir. Geçmiş yaşamından anıları kullanan Elimas, tüm dünyayı etkili bir şekilde fethetmek için yola çıktı.\n\n(Kaynak: Kodansha ABD)",
   "episodes": [
@@ -387,11 +393,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:07:32.246816"
     }
-  ],
-  "tmdb": {
-    "id": 270603,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

@@ -24,8 +24,8 @@
     },
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 7.06,
-    "popularity": 5538,
+    "score": 7.07,
+    "popularity": 5529,
     "synopsis": "During spring break at the end of her first year of high school, Ito learns she has to move because her mother is getting remarried. What she didn't expect is suddenly gaining four younger stepbrothers under the same roof.Determined to get along with her new family, Ito does her best to adjust, but the eldest brother, Gen, is distant and hard to read. Yet as they spend more time together, she starts to see glimpses of kindness behind his cool exterior.(Source: MAL News)",
     "genres": [
       4,
@@ -52,6 +52,12 @@
     "id": 203490,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg"
+  },
+  "tmdb": {
+    "id": 307585,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
   },
   "synopsis_tr": "Lisenin ilk yılının sonundaki bahar tatilinde Ito, annesi yeniden evlendiğinden dolayı taşınmak zorunda olduğunu öğrenir. Beklemediği şey birdenbire aynı çatı altında dört küçük üvey erkek kardeş kazanmaktır. Yeni ailesiyle iyi geçinmeye kararlı olan Ito, uyum sağlamak için elinden geleni yapar, ancak en büyük erkek kardeş Gen mesafelidir ve anlaşılması zordur. Ancak birlikte daha fazla zaman geçirdikçe, onun havalı dış görünüşünün arkasında nezaket izleri görmeye başlıyor.(Kaynak: MAL Haberleri)",
   "episodes": [
@@ -291,11 +297,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:06:44.148469"
     }
-  ],
-  "tmdb": {
-    "id": 307585,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

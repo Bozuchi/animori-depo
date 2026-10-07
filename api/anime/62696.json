@@ -1,0 +1,64 @@
+{
+  "turkanime": {
+    "isim": "Choujun! Choujou-senpai",
+    "slug": "choujun-choujou-senpai"
+  },
+  "jikan": {
+    "mal_id": 62696,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1874/160335.jpg",
+    "trailer_id": "oIvGIBRbpWU",
+    "title": "Choujun! Choujou-senpai",
+    "title_english": "Super Psychic Policeman Chojo",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.69,
+    "popularity": 8644,
+    "synopsis": "In Chinjuku, the city that never sleeps, there is a psychic senior police officer who has powers beyond human comprehension! His name is Meguru Choujou! Along with his judo expert partner Nao Ippongi, this hilarious duo will keep the streets clean by any means necessary!(Source: MANGA Plus)",
+    "genres": [
+      4
+    ],
+    "themes": [
+      50,
+      57,
+      31
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      1874
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          167174
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 200294,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200294-PPEwId1xfGNO.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200294-E6KIgkFaJOfG.jpg"
+  },
+  "tmdb": {
+    "id": 327765,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Hiç uyumayan şehir Chinjuku'da, insan kavrayışının ötesinde güçlere sahip, psişik, kıdemli bir polis memuru var! Adı Meguru Choujou! Judo uzmanı ortağı Nao Ippongi ile birlikte bu komik ikili, ne pahasına olursa olsun sokakları temiz tutacak!(Kaynak: MANGA Plus)",
+  "episodes": []
+}

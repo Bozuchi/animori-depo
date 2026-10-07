@@ -22,8 +22,8 @@
     },
     "duration": "23 min.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 6.89,
-    "popularity": 5302,
+    "score": 6.88,
+    "popularity": 5258,
     "synopsis": "Fia always dreamed of becoming a knight. Born into a family of knights, she's the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes... and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!(Source: Seven Seas Entertainment)",
     "genres": [
       1,
@@ -52,6 +52,12 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187402-bRt4OO90jcmt.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg"
   },
+  "tmdb": {
+    "id": 285899,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Fia her zaman şövalye olmayı hayal ediyordu. Şövalyelerden oluşan bir ailenin çocuğu olarak doğmuştur ve aralarında en az yetenekli olanıdır, ancak yine de umuduna sarılıyor ve sahip olduğu her şeyle antrenman yapıyor. Küçük bir şeytanı öldürüp değerini kanıtlayacağı gün geldiğinde, kendini bir ejderhayla karşı karşıya bulur! Ölümcül bir yaralanma, hayatının gözlerinin önünden geçmesine neden olur... ve birdenbire, geçmiş bir çağda güçlü bir Aziz olduğu ve Şeytan Kral'ı yendiği eski hayatını hatırlar. Bu hayat, kim olduğu yüzünden acıyla sona erdi ve bu onun yeniden bir Aziz olma korkusuna yol açtı. Artık önceki hayatındaki büyü yeniden alevlendiğine göre, hayal ettiğinden daha güçlü bir şövalye olabilir; yeter ki yeterince uzun süre hayatta kalabilsin!(Kaynak: Seven Seas Entertainment)",
   "episodes": [
     {
@@ -74,11 +80,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:08:12.880460"
     }
-  ],
-  "tmdb": {
-    "id": 285899,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

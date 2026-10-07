@@ -22,8 +22,8 @@
     },
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 6.64,
-    "popularity": 6459,
+    "score": 6.65,
+    "popularity": 6413,
     "synopsis": "Set in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.The story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!(Source: Kadokawa, edited)",
     "genres": [
       2
@@ -51,6 +51,12 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg"
   },
+  "tmdb": {
+    "id": 301139,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
   "synopsis_tr": "İnsanlığın %90'ının ölümcül, şiddetli bir hastalıktan yakalandığı ve öldüğü, ancak saldıran zombiler olarak yeniden dirildiği bir dünyada geçen toplumsal çöküşün \"Kızıl Günü\"nün üzerinden on üç yıl geçti. Hayatta kalan insanlar artık büyük şehirlerden uzakta yaşıyor ve hâlâ bir gün onları geri almayı umuyorlar. Kızıl Gün öncesi dünyadan habersiz, tamamen yeni bir nesil kendine geliyor. Hikaye, yıkılmadan önceki dünyaya dair hiçbir anısı olmayan Aki'nin, kayıp babasını aramak için yakın arkadaşları Haru ve Natsuki ile birlikte köyünden kaçmasıyla başlar. Dış dünyaya adım attıklarında kendilerini her taraftan zombilerle çevrili buluyorlar! Yolda Yuu ve Sakura'yı kurtarırlar ve bir ev dekorasyonu mağazasına sığınırlar. Yeniden toplanıyorlar ve karşı saldırı başlıyor—!!(Kaynak: Kadokawa, düzenlendi)",
   "episodes": [
     {
@@ -63,11 +69,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:08:33.983469"
     }
-  ],
-  "tmdb": {
-    "id": 301139,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

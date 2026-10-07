@@ -22,8 +22,8 @@
     },
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 8.19,
-    "popularity": 2662,
+    "score": 8.2,
+    "popularity": 2645,
     "synopsis": "Second season ofAo no Hako.",
     "genres": [
       22,
@@ -60,6 +60,12 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-s2oirY2r1Svy.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg"
   },
+  "tmdb": {
+    "id": 207347,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Ao no Hako'nun ikinci sezonu.",
   "episodes": [
     {
@@ -72,11 +78,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:07:36.911116"
     }
-  ],
-  "tmdb": {
-    "id": 207347,
-    "type": "tv",
-    "season": 2,
-    "episode_offset": 0
-  }
+  ]
 }

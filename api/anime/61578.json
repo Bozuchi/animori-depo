@@ -22,8 +22,8 @@
     },
     "duration": "23 min. per ep.",
     "rating": "R+ - Mild Nudity",
-    "score": 7.67,
-    "popularity": 4018,
+    "score": 7.66,
+    "popularity": 3912,
     "synopsis": "Ume Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.Thrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!(Source: MAL News)",
     "genres": [
       4,
@@ -58,6 +58,12 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh3FQxN.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png"
   },
+  "tmdb": {
+    "id": 283938,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Prestijli Fujinari Akademisi'nin birinci sınıf öğrencisi Ume Mizunoe, Japon edebiyatında başarılıdır ancak bilimde o kadar kötü mücadele eder ki ilerleme şansı riske girer. Akademik kaydını yükseltme umuduyla öğrenci konseyine katılır ancak kendisini ilginç karakterlerle çevrili bulur: karizmatik ama gizlice utangaç bir başkan, nazik ama korkutucu bir mali işler sorumlusu, hayranlık uyandıracak derecede arsız bir çocuk ve minik, başıboş kedi benzeri bir sekreter. Kaotik günlük yaşamın kasırgasına sürüklenen Ume'nin okul günleri çok daha öngörülemez ve çok daha canlı olmak üzere!(Kaynak: MAL) Haberler)",
   "episodes": [
     {
@@ -70,11 +76,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:07:44.925149"
     }
-  ],
-  "tmdb": {
-    "id": 283938,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

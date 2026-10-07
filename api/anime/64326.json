@@ -12,7 +12,7 @@
     "type": "TV",
     "source": "Manga",
     "status": "Currently Airing",
-    "episodes": 12,
+    "episodes": 20,
     "year": 2026,
     "season": "fall",
     "airing": true,
@@ -22,8 +22,8 @@
     },
     "duration": "25 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 6.37,
-    "popularity": 8263,
+    "score": 6.35,
+    "popularity": 8202,
     "synopsis": "At the center of a continent made up of eight kingdoms lies the Kingdom of Marronnier. Leading the nation is the female general Baribara, who has seven sons, each with a personality all his own.Sleepy, benevolent, sensitive to heat, sensitive to cold, gifted with animals, proud of his swordsmanship, and always hungry—the brothers possess very different qualities, but they are united by a single goal: \"Someday, we'll rescue a princess in a cool way!\"Before long, the brothers set out for the seven neighboring kingdoms as ambassadors. What encounters, trials, and destinies await them in these unfamiliar lands?Set in a medieval-inspired fantasy world, this tale of romance and adventure begins.(Source: MAL News)",
     "genres": [
       4
@@ -51,12 +51,12 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212799-n7WDdic7IL1z.png"
   },
-  "synopsis_tr": "Sekiz krallıktan oluşan kıtanın merkezinde Marronnier Krallığı yer alıyor. Ulusun başında, her biri kendine has kişiliklere sahip yedi oğlu olan kadın general Baribara vardır. Uykulu, yardımsever, sıcağa duyarlı, soğuğa duyarlı, hayvanlar konusunda yetenekli, kılıç ustalığıyla gurur duyan ve her zaman aç olan kardeşler çok farklı niteliklere sahiptirler ama tek bir amaçta birleşirler: \"Bir gün, bir prensesi soğukkanlı bir şekilde kurtaracağız!\" Çok geçmeden kardeşler, elçi olarak yedi komşu krallığa doğru yola çıkarlar. Bu yabancı topraklarda onları ne gibi karşılaşmalar, denemeler ve kaderler bekliyor? Orta Çağ'dan ilham alan bir fantastik dünyada geçen bu aşk ve macera hikayesi başlıyor.(Kaynak: MAL Haberleri)",
-  "episodes": [],
   "tmdb": {
     "id": 324326,
     "type": "tv",
     "season": 1,
     "episode_offset": 0
-  }
+  },
+  "synopsis_tr": "Sekiz krallıktan oluşan kıtanın merkezinde Marronnier Krallığı yer alıyor. Ulusun başında, her biri kendine has kişiliklere sahip yedi oğlu olan kadın general Baribara vardır. Uykulu, yardımsever, sıcağa duyarlı, soğuğa duyarlı, hayvanlar konusunda yetenekli, kılıç ustalığıyla gurur duyan ve her zaman aç olan kardeşler çok farklı niteliklere sahiptirler ama tek bir amaçta birleşirler: \"Bir gün, bir prensesi soğukkanlı bir şekilde kurtaracağız!\" Çok geçmeden kardeşler, elçi olarak yedi komşu krallığa doğru yola çıkarlar. Bu yabancı topraklarda onları ne gibi karşılaşmalar, denemeler ve kaderler bekliyor? Orta Çağ'dan ilham alan bir fantastik dünyada geçen bu aşk ve macera hikayesi başlıyor.(Kaynak: MAL Haberleri)",
+  "episodes": []
 }

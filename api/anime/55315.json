@@ -24,7 +24,7 @@
     },
     "duration": "16 min.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 7.65,
+    "score": 7.64,
     "popularity": 6914,
     "synopsis": "Marisa, an ordinary magician, suspects a youkai is behind the winterly weather in the middle of spring. She goes off to investigate and soon arrives in the netherworld, facing the youkai behind the strange incident. Will her friend, the shrine maiden Reimu, arrive in time to save the day or will all be lost?(Source: AniDB)",
     "genres": [
@@ -48,6 +48,12 @@
     "episodes": 20
   },
   "anilist": null,
+  "tmdb": {
+    "id": 83958,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Sıradan bir sihirbaz olan Marisa, baharın ortasındaki kış havasının arkasında bir youkai olduğundan şüphelenir. Araştırmaya gider ve kısa süre sonra ölüler diyarına varır ve tuhaf olayın ardındaki youkai ile yüzleşir. Arkadaşı, tapınak bakiresi Reimu, günü kurtarmak için zamanında varabilecek mi yoksa her şey kaybolacak mı?(Kaynak: AniDB)",
   "episodes": [
     {
@@ -1079,11 +1085,5 @@
       "filler": false,
       "recap": false
     }
-  ],
-  "tmdb": {
-    "id": 83958,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }
