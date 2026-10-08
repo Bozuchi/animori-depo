@@ -1,0 +1,68 @@
+{
+  "turkanime": {
+    "isim": "Sasaki to Pii-chan Season 2",
+    "slug": "sasaki-to-pii-chan-season-2"
+  },
+  "jikan": {
+    "mal_id": 58518,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1655/159979.jpg",
+    "trailer_id": "gY0hpk9E7p8",
+    "title": "Sasaki to Pii-chan Season 2",
+    "title_english": "Sasaki and Peeps Season 2",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": 12,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.2,
+    "popularity": 4881,
+    "synopsis": "Second season ofSasaki to Pii-chan.",
+    "genres": [
+      2,
+      4,
+      10
+    ],
+    "themes": [
+      62
+    ],
+    "demographics": [],
+    "studios": [
+      300
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          52482
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          142012
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 176314,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176314-nj2hmqbGQ9HJ.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg"
+  },
+  "tmdb": {
+    "id": 206630,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Sasaki'den Pii-chan'a ikinci sezonu.",
+  "episodes": []
+}

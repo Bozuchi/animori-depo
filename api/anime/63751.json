@@ -22,8 +22,8 @@
     },
     "duration": "24 min.",
     "rating": "R - 17+ (violence & profanity)",
-    "score": 6.44,
-    "popularity": 7383,
+    "score": 6.43,
+    "popularity": 7149,
     "synopsis": "Shizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!(Source: Kodansha USA)",
     "genres": [
       1
@@ -50,6 +50,12 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-S0sWFrCpft85.jpg"
   },
+  "tmdb": {
+    "id": 320377,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Shizuka en tehlikeli suikastçı işlerini üstleniyor ama cinayeti işleyen o değil. Aksine, kız kardeşini korumak için kurşun yiyen, onu komada bırakan ve tekerlekli sandalye kullanmak zorunda kalan güçlü bir suikastçı olan kardeşi Nagi'dir. Ancak Shizuka, kardeşini uyandırmanın anahtarını buldu: Öldürme niyetiyle yüzleşmeli! Böylece en tehlikeli düşmanlarla savaşılan şiddetli bir iyileşme yolculuğu başlıyor!(Kaynak: Kodansha ABD)",
   "episodes": [
     {
@@ -62,11 +68,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:08:47.679688"
     }
-  ],
-  "tmdb": {
-    "id": 320377,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

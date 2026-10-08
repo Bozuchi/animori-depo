@@ -1,0 +1,70 @@
+{
+  "turkanime": {
+    "isim": "Tantei wa Mou, Shindeiru. Season 2",
+    "slug": "tantei-wa-mou-shindeiru-season-2"
+  },
+  "jikan": {
+    "mal_id": 52480,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1414/160406.jpg",
+    "trailer_id": "8AnNxEp733c",
+    "title": "Tantei wa Mou, Shindeiru. Season 2",
+    "title_english": "The Detective Is Already Dead Season 2",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": 13,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.14,
+    "popularity": 3271,
+    "synopsis": "Second season ofTantei wa Mou, Shindeiru.",
+    "genres": [
+      4,
+      7,
+      22
+    ],
+    "themes": [
+      39
+    ],
+    "demographics": [],
+    "studios": [
+      1974
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          46471
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          132613,
+          134691,
+          128721
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 152677,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png"
+  },
+  "tmdb": {
+    "id": 117061,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Tantei wa Mou, Shindeiru'nun ikinci sezonu.",
+  "episodes": []
+}

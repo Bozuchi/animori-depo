@@ -1,0 +1,68 @@
+{
+  "turkanime": {
+    "isim": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+    "slug": "kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
+  },
+  "jikan": {
+    "mal_id": 57612,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1740/160052.jpg",
+    "trailer_id": "BjO0hsnglC0",
+    "title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+    "title_english": "A Returner's Magic Should Be Special Season 2",
+    "type": "TV",
+    "source": "Web manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-08T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.09,
+    "popularity": 3637,
+    "synopsis": "Second season ofKikansha no Mahou wa Tokubetsu desu.",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      23,
+      78
+    ],
+    "demographics": [],
+    "studios": [
+      1874
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          54852
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          132247
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 172192,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg"
+  },
+  "tmdb": {
+    "id": 230050,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Kikansha no Mahou wa Tokubetsu desu'nun ikinci sezonu.",
+  "episodes": []
+}

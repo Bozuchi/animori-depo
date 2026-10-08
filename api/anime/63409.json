@@ -22,8 +22,8 @@
     },
     "duration": "23 min. per ep.",
     "rating": "None",
-    "score": 7.35,
-    "popularity": 4523,
+    "score": 7.34,
+    "popularity": 4447,
     "synopsis": "Deep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.For four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.[Written by MAL Rewrite]",
     "genres": [
       10,
@@ -58,5 +58,16 @@
     "episode_offset": 0
   },
   "synopsis_tr": "Ormanın derinliklerinde, göl kıyısında, gizemli ve korkulan bir cadıya ev sahipliği yapan rahat ve oldukça dağınık bir kulübe yer alır. Aslında o, iksir yapma sanatını bilge büyükannesinden öğrenen Rose adında sevimli bir genç kadındır. Rose, gizli hayatına değer veriyor ama yine de kalbinde bir zamanlar gördüğü yakışıklı şövalye Sör Harij Azm'a karşı bir özlem var. Rose'un Harij'e karşı hisleri dört yıldır devam ediyor ama asla onlara göre hareket edemiyor; cadılar insan ilişkilerinin dışında yaşarlar ve hiçbir ülkeye veya insana ait değildirler. Harij aniden bir aşk iksiri ararken kapısının eşiğinde belirdiğinde Rose hem şaşırır hem de kalbi kırılır. Asil şövalyenin kalbini başka bir kadın ele geçirmiş olsa da Rose ona yardım etmeye karar verir. Ancak iksiri hazırlamadan önce Rose, kaçınılmaz olanı geciktirmek ve birlikte geçirdikleri kısacık zamanın tadını çıkarmak umuduyla Harij'i her malzeme için bir dizi saçma arayışa gönderir.[MAL Rewrite tarafından yazıldı]",
-  "episodes": []
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "The Witch and the Love Potion of Unrequited Love",
+      "episode_number": 1,
+      "aired": "Oct 5, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-08T10:25:44.383590"
+    }
+  ]
 }

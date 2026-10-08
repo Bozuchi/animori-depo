@@ -112418,8 +112418,8 @@
     "episodes": 2,
     "year": 2021,
     "season": null,
-    "score": 7.88,
-    "popularity": 6993,
+    "score": 7.89,
+    "popularity": 6998,
     "genres": [],
     "themes": [
       19
@@ -118783,8 +118783,8 @@
     "episodes": 355,
     "year": 2022,
     "season": "spring",
-    "score": 8.62,
-    "popularity": 4995,
+    "score": 8.63,
+    "popularity": 4992,
     "genres": [
       36
     ],
@@ -119700,8 +119700,8 @@
     "episodes": 222,
     "year": 2022,
     "season": "winter",
-    "score": 5.54,
-    "popularity": 10511,
+    "score": 5.55,
+    "popularity": 10515,
     "genres": [
       1
     ],
@@ -124617,6 +124617,33 @@
     ]
   },
   {
+    "mal_id": 52480,
+    "anilist_id": 152677,
+    "title": "Tantei wa Mou, Shindeiru. Season 2",
+    "title_english": "The Detective Is Already Dead Season 2",
+    "slug": "tantei-wa-mou-shindeiru-season-2",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png",
+    "type": "TV",
+    "status": "Currently Airing",
+    "episodes": 13,
+    "year": 2026,
+    "season": "fall",
+    "score": 7.14,
+    "popularity": 3271,
+    "genres": [
+      4,
+      7,
+      22
+    ],
+    "themes": [
+      39
+    ],
+    "demographics": [],
+    "studios": [
+      1974
+    ]
+  },
+  {
     "mal_id": 52481,
     "anilist_id": 152681,
     "title": "Gimai Seikatsu",
@@ -128249,7 +128276,7 @@
     "year": 2026,
     "season": "fall",
     "score": 7.54,
-    "popularity": 2363,
+    "popularity": 2342,
     "genres": [
       1,
       2,
@@ -128798,8 +128825,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.52,
-    "popularity": 6769,
+    "score": 6.49,
+    "popularity": 6723,
     "genres": [
       1,
       41
@@ -132605,8 +132632,8 @@
     "episodes": 175,
     "year": 2023,
     "season": null,
-    "score": 8.33,
-    "popularity": 8741,
+    "score": 8.32,
+    "popularity": 8743,
     "genres": [
       1,
       2,
@@ -134962,6 +134989,33 @@
     ]
   },
   {
+    "mal_id": 57612,
+    "anilist_id": 172192,
+    "title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+    "title_english": "A Returner's Magic Should Be Special Season 2",
+    "slug": "kikansha-no-mahou-wa-tokubetsu-desu-2nd-season",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
+    "type": "TV",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "score": 7.09,
+    "popularity": 3637,
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      23,
+      78
+    ],
+    "demographics": [],
+    "studios": [
+      1874
+    ]
+  },
+  {
     "mal_id": 57616,
     "anilist_id": 172258,
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
@@ -136839,6 +136893,33 @@
     ]
   },
   {
+    "mal_id": 58518,
+    "anilist_id": 176314,
+    "title": "Sasaki to Pii-chan Season 2",
+    "title_english": "Sasaki and Peeps Season 2",
+    "slug": "sasaki-to-pii-chan-season-2",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
+    "type": "TV",
+    "status": "Currently Airing",
+    "episodes": 12,
+    "year": 2026,
+    "season": "fall",
+    "score": 7.2,
+    "popularity": 4881,
+    "genres": [
+      2,
+      4,
+      10
+    ],
+    "themes": [
+      62
+    ],
+    "demographics": [],
+    "studios": [
+      300
+    ]
+  },
+  {
     "mal_id": 58524,
     "anilist_id": 176370,
     "title": "Himesama \"Goumon\" no Jikan desu 2nd Season",
@@ -138290,8 +138371,8 @@
     "episodes": 13,
     "year": 2026,
     "season": "fall",
-    "score": 7.76,
-    "popularity": 2995,
+    "score": 7.75,
+    "popularity": 2959,
     "genres": [
       1,
       8
@@ -138944,6 +139025,34 @@
     "demographics": [],
     "studios": [
       1471
+    ]
+  },
+  {
+    "mal_id": 59204,
+    "anilist_id": 178868,
+    "title": "Magic Knight Rayearth (2026)",
+    "title_english": "Magic Knight Rayearth (2026)",
+    "slug": "magic-knight-rayearth-2026",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-mfp0HIHNJNAm.jpg",
+    "type": "TV",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "score": 7.25,
+    "popularity": 5947,
+    "genres": [
+      2,
+      10
+    ],
+    "themes": [
+      62
+    ],
+    "demographics": [
+      25
+    ],
+    "studios": [
+      2642
     ]
   },
   {
@@ -143760,8 +143869,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.42,
-    "popularity": 3663,
+    "score": 7.43,
+    "popularity": 3650,
     "genres": [
       2,
       10
@@ -144345,8 +144454,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.94,
-    "popularity": 5351,
+    "score": 6.95,
+    "popularity": 5220,
     "genres": [
       1,
       24
@@ -144967,8 +145076,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.89,
-    "popularity": 5248,
+    "score": 6.9,
+    "popularity": 5183,
     "genres": [
       1,
       2,
@@ -145295,8 +145404,8 @@
     "episodes": 2,
     "year": 2025,
     "season": null,
-    "score": 7.54,
-    "popularity": 9937,
+    "score": 7.55,
+    "popularity": 9931,
     "genres": [
       12
     ],
@@ -145561,8 +145670,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 8.2,
-    "popularity": 2645,
+    "score": 8.19,
+    "popularity": 2624,
     "genres": [
       22,
       30
@@ -146061,8 +146170,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.66,
-    "popularity": 3912,
+    "score": 7.65,
+    "popularity": 3789,
     "genres": [
       4,
       9
@@ -146138,8 +146247,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 8.11,
-    "popularity": 4108,
+    "score": 8.12,
+    "popularity": 4076,
     "genres": [
       30
     ],
@@ -147115,8 +147224,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 8.83,
-    "popularity": 1944,
+    "score": 8.82,
+    "popularity": 1896,
     "genres": [
       1,
       10
@@ -148822,8 +148931,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.66,
-    "popularity": 6382,
+    "score": 6.65,
+    "popularity": 6318,
     "genres": [
       2
     ],
@@ -148933,8 +149042,8 @@
     "episodes": 13,
     "year": 2026,
     "season": "fall",
-    "score": 6.81,
-    "popularity": 8726,
+    "score": 6.87,
+    "popularity": 8673,
     "genres": [
       1,
       8
@@ -149170,8 +149279,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 6.7,
-    "popularity": 8414,
+    "score": 6.79,
+    "popularity": 8084,
     "genres": [
       4
     ],
@@ -149226,8 +149335,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.04,
-    "popularity": 5947,
+    "score": 7.06,
+    "popularity": 5872,
     "genres": [
       22
     ],
@@ -149600,8 +149709,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.57,
-    "popularity": 8076,
+    "score": 6.59,
+    "popularity": 7954,
     "genres": [
       4
     ],
@@ -150201,8 +150310,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.98,
-    "popularity": 5238,
+    "score": 7.04,
+    "popularity": 5143,
     "genres": [
       1,
       22,
@@ -150315,8 +150424,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.41,
-    "popularity": 10371,
+    "score": 6.45,
+    "popularity": 10288,
     "genres": [
       4,
       24
@@ -150343,8 +150452,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.27,
-    "popularity": 4854,
+    "score": 7.28,
+    "popularity": 4803,
     "genres": [
       1,
       10
@@ -150773,8 +150882,8 @@
     "episodes": 1,
     "year": 2026,
     "season": null,
-    "score": 5.59,
-    "popularity": 10136,
+    "score": 5.56,
+    "popularity": 10046,
     "genres": [
       49
     ],
@@ -150796,8 +150905,8 @@
     "episodes": 25,
     "year": 2026,
     "season": "fall",
-    "score": 7.45,
-    "popularity": 5429,
+    "score": 7.53,
+    "popularity": 5141,
     "genres": [
       10
     ],
@@ -150931,8 +151040,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.35,
-    "popularity": 4523,
+    "score": 7.34,
+    "popularity": 4447,
     "genres": [
       10,
       22
@@ -150983,8 +151092,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 7.36,
-    "popularity": 5717,
+    "score": 7.44,
+    "popularity": 5177,
     "genres": [
       1,
       4,
@@ -151145,7 +151254,7 @@
     "year": 2026,
     "season": "summer",
     "score": 5.67,
-    "popularity": 5641,
+    "popularity": 5634,
     "genres": [
       1,
       2,
@@ -151230,8 +151339,8 @@
     "episodes": 12,
     "year": 2026,
     "season": null,
-    "score": 6.95,
-    "popularity": 6853,
+    "score": 6.96,
+    "popularity": 6687,
     "genres": [
       4,
       10,
@@ -151411,8 +151520,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.86,
-    "popularity": 6237,
+    "score": 6.87,
+    "popularity": 6032,
     "genres": [
       10
     ],
@@ -151468,8 +151577,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.44,
-    "popularity": 7383,
+    "score": 6.43,
+    "popularity": 7149,
     "genres": [
       1
     ],
@@ -151521,8 +151630,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.4,
-    "popularity": 8088,
+    "score": 6.39,
+    "popularity": 7984,
     "genres": [
       2,
       10,
@@ -151550,8 +151659,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 6.93,
-    "popularity": 5547,
+    "score": 6.94,
+    "popularity": 5365,
     "genres": [
       4,
       22
@@ -151574,8 +151683,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.05,
-    "popularity": 8908,
+    "score": 6.08,
+    "popularity": 8834,
     "genres": [
       1,
       24
@@ -151656,8 +151765,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.86,
-    "popularity": 4539,
+    "score": 7.87,
+    "popularity": 4505,
     "genres": [
       1,
       4,
@@ -151987,6 +152096,32 @@
     ]
   },
   {
+    "mal_id": 64084,
+    "anilist_id": 211778,
+    "title": "Sekai Saikyou no Majo, Hajimemashita",
+    "title_english": "The World's Strongest Witch",
+    "slug": "sekai-saikyou-no-majo-hajimemashita",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg",
+    "type": "TV",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "score": 6.72,
+    "popularity": 6563,
+    "genres": [
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      397,
+      3297
+    ]
+  },
+  {
     "mal_id": 6413,
     "anilist_id": 6413,
     "title": "Go! Go! Ackman",
@@ -152027,8 +152162,8 @@
     "episodes": 12,
     "year": 2026,
     "season": null,
-    "score": 5.76,
-    "popularity": 8541,
+    "score": 5.79,
+    "popularity": 8431,
     "genres": [
       8,
       49
@@ -152132,8 +152267,8 @@
     "episodes": 12,
     "year": 2026,
     "season": null,
-    "score": 6.6,
-    "popularity": 9322,
+    "score": 6.53,
+    "popularity": 9259,
     "genres": [
       10,
       12
@@ -152158,8 +152293,8 @@
     "episodes": 20,
     "year": 2026,
     "season": "fall",
-    "score": 6.35,
-    "popularity": 8202,
+    "score": 6.36,
+    "popularity": 8079,
     "genres": [
       4
     ],
@@ -152185,8 +152320,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.43,
-    "popularity": 4461,
+    "score": 7.44,
+    "popularity": 4359,
     "genres": [
       1,
       10
@@ -152197,6 +152332,30 @@
     "demographics": [],
     "studios": [
       7
+    ]
+  },
+  {
+    "mal_id": 64344,
+    "anilist_id": 213068,
+    "title": "Juuou Mujin Dandivine",
+    "title_english": "Dandivine",
+    "slug": "juuou-mujin-dandivine",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213068-aFSedkY5bQ4m.png",
+    "type": "TV",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "score": 5.81,
+    "popularity": 11475,
+    "genres": [],
+    "themes": [
+      18
+    ],
+    "demographics": [],
+    "studios": [
+      839,
+      3326
     ]
   },
   {
@@ -152373,8 +152532,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 8.42,
-    "popularity": 3525,
+    "score": 8.41,
+    "popularity": 3450,
     "genres": [
       8,
       22
@@ -152527,8 +152686,8 @@
     "episodes": 26,
     "year": 2026,
     "season": null,
-    "score": 6.8,
-    "popularity": 10773,
+    "score": 6.81,
+    "popularity": 10756,
     "genres": [
       4
     ],

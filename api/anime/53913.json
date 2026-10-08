@@ -23,7 +23,7 @@
     "duration": "23 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 7.54,
-    "popularity": 2363,
+    "popularity": 2342,
     "synopsis": "Second season ofTensei shitara Ken deshita.",
     "genres": [
       1,
@@ -59,6 +59,12 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaUFBkms.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-GGFwlDskc5vR.png"
   },
+  "tmdb": {
+    "id": 134667,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Tensei Shitara Ken Deshita'nın ikinci sezonu.",
   "episodes": [
     {
@@ -70,12 +76,16 @@
       "recap": false,
       "videos": [],
       "added_date": "2026-10-06T15:07:34.593673"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "Jean Du Vix Is Excellent",
+      "episode_number": 2,
+      "aired": "Oct 15, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-08T10:23:17.033928"
     }
-  ],
-  "tmdb": {
-    "id": 134667,
-    "type": "tv",
-    "season": 2,
-    "episode_offset": 0
-  }
+  ]
 }

@@ -1,0 +1,62 @@
+{
+  "turkanime": {
+    "isim": "Sekai Saikyou no Majo, Hajimemashita",
+    "slug": "sekai-saikyou-no-majo-hajimemashita"
+  },
+  "jikan": {
+    "mal_id": 64084,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1341/159753.jpg",
+    "trailer_id": "snJZD9vxfHY",
+    "title": "Sekai Saikyou no Majo, Hajimemashita",
+    "title_english": "The World's Strongest Witch",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-07T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "None",
+    "score": 6.72,
+    "popularity": 6563,
+    "synopsis": "When Lorna manifests a completely useless ability, she's labeled an embarrassment to her family and kicked out of the house. With no money or food, she's about to hit rock bottom. But then, she figures out how to use her supposedly worthless SSS-Rank skill, \"Internet.\" This cheat-level talent gives her the know-how to gather an unlimited amount of valuable items and easily acquire rare equipment. Armed with godlike knowledge, Lorna's free to do anything she wants! If only she could figure out what \"lmfao\" means...(Source: Yen Press)",
+    "genres": [
+      2,
+      4,
+      10
+    ],
+    "themes": [],
+    "demographics": [],
+    "studios": [
+      397,
+      3297
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          162463,
+          180195
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 211778,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211778-ZbXEhqfFkj62.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg"
+  },
+  "tmdb": {
+    "id": 321518,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Lorna tamamen işe yaramaz bir yetenek sergilediğinde ailesini utandırır ve evden atılır. Parası ya da yiyeceği olmadığı için dibe vurmak üzere. Ama sonra, sözde değersiz SSS Sıralaması becerisi \"İnternet\"i nasıl kullanacağını buluyor. Bu hile düzeyindeki yetenek, ona sınırsız miktarda değerli eşya toplama ve nadir ekipmanları kolayca edinme becerisini verir. Tanrısal bilgiyle donanmış olan Lorna, istediği her şeyi yapmakta özgür! Keşke \"lmfao\"nun ne anlama geldiğini anlayabilseydi...(Kaynak: Yen Press)",
+  "episodes": []
+}

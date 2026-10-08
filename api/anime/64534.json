@@ -22,8 +22,8 @@
     },
     "duration": "23 min.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 8.42,
-    "popularity": 3525,
+    "score": 8.41,
+    "popularity": 3450,
     "synopsis": "Second season ofKoori no Jouheki.",
     "genres": [
       8,
@@ -56,6 +56,12 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
   },
+  "tmdb": {
+    "id": 283428,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Koori no Jouheki'nin ikinci sezonu.",
   "episodes": [
     {
@@ -68,11 +74,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:07:40.282453"
     }
-  ],
-  "tmdb": {
-    "id": 283428,
-    "type": "tv",
-    "season": 2,
-    "episode_offset": 0
-  }
+  ]
 }

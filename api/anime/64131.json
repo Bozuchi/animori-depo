@@ -22,8 +22,8 @@
     },
     "duration": "12 min. per ep.",
     "rating": "R+ - Mild Nudity",
-    "score": 5.76,
-    "popularity": 8541,
+    "score": 5.79,
+    "popularity": 8431,
     "synopsis": "Takeru Hidaka is an ambitious high school student aiming for medical school. He has just started dating his first girlfriend, Kaori Koga, and to everyone else, their relationship seems perfectly harmonious.However, that peace is threatened when Kaori's best friend, Tomoko Yoshioka, begins to flirt with and seduce Takeru. Caught between loyalty to his girlfriend and Tomoko's advances, Takeru falls into a double life and a complicated affair. Now, he must navigate a web of lies that puts both his academic future and his emotional connections at risk, all while the constant threat of his secret being exposed looms over him.(Source: MAL News)",
     "genres": [
       8,
@@ -55,5 +55,16 @@
     "episode_offset": 0
   },
   "synopsis_tr": "Takeru Hidaka, tıp fakültesini hedefleyen hırslı bir lise öğrencisidir. İlk kız arkadaşı Kaori Koga ile yeni çıkmaya başlamıştır ve diğer herkese göre ilişkileri son derece uyumlu görünmektedir. Ancak Kaori'nin en yakın arkadaşı Tomoko Yoshioka, Takeru'yla flört edip onu baştan çıkarmaya başlayınca bu barış tehlikeye girer. Kız arkadaşına olan sadakati ile Tomoko'nun ilerlemeleri arasında kalan Takeru, ikili bir hayatın ve karmaşık bir ilişkinin içine düşer. Artık hem akademik geleceğini hem de duygusal bağlantılarını riske atan bir yalan ağında gezinmek zorunda kalırken, bir yandan da sırrının açığa çıkması tehdidi onun üzerinde beliriyor.(Kaynak: MAL Haberleri)",
-  "episodes": []
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Episode 1",
+      "episode_number": 1,
+      "aired": "Oct 5, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-08T10:26:03.365744"
+    }
+  ]
 }
