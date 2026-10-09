@@ -10,6 +10,7 @@ storage_manager.py — Dosya ve Klasör Yöneticisi
 """
 
 import os
+import re
 import json
 import hashlib
 from datetime import datetime
@@ -180,6 +181,18 @@ class StorageManager:
 
         if "anilist" not in detail:
             detail["anilist"] = None
+
+        # year bilgisi yoksa aired.from üzerinden tamamla
+        jikan_obj = detail.get("jikan")
+        if jikan_obj and jikan_obj.get("year") is None:
+            aired_obj = jikan_obj.get("aired")
+            if isinstance(aired_obj, dict) and aired_obj.get("from"):
+                m = re.match(r"^(\d{4})", str(aired_obj["from"]).strip())
+                if m:
+                    try:
+                        jikan_obj["year"] = int(m.group(1))
+                    except ValueError:
+                        pass
 
         # Eğer önceden başka bir isimle (örneğin slug.json) kaydedildiyse ve
         # şimdi isim mal_id.json olarak değiştiyse, eskisini sil
@@ -441,6 +454,18 @@ class StorageManager:
             demographics = jikan.get("demographics", [])
             studios = jikan.get("studios", [])
 
+            # year belirleme: jikan.year varsa al, yoksa aired.from üzerinden çıkar
+            year_val = jikan.get("year")
+            if year_val is None:
+                aired_data = jikan.get("aired")
+                if isinstance(aired_data, dict) and aired_data.get("from"):
+                    m = re.match(r"^(\d{4})", str(aired_data["from"]).strip())
+                    if m:
+                        try:
+                            year_val = int(m.group(1))
+                        except ValueError:
+                            year_val = None
+
             index.append({
                 "mal_id": mal_id_val,
                 "anilist_id": anilist.get("id"),
@@ -451,7 +476,7 @@ class StorageManager:
                 "type": jikan.get("type"),
                 "status": jikan.get("status"),
                 "episodes": jikan.get("episodes"),
-                "year": jikan.get("year"),
+                "year": year_val,
                 "season": jikan.get("season"),
                 "score": jikan.get("score"),
                 "popularity": jikan.get("popularity"),
