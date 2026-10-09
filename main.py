@@ -15,6 +15,7 @@ Kullanım:
 
 import os
 import sys
+import json
 import signal
 import argparse
 from datetime import datetime
@@ -179,13 +180,15 @@ def sync_anime_item(
         existing["anilist"] = existing_ani
         updated = True
 
-    # 3. Güncel Puan, Yayın Durumu (Airing/Finished) ve Bölüm Kontrolü
+    # 3. Güncel Puan, Yayın Durumu (Airing/Finished/Not yet aired) ve Bölüm Kontrolü
     jikan = existing.get("jikan") or {}
     was_airing = jikan.get("airing", False) or jikan.get("status") == "Currently Airing"
+    was_not_yet_aired = jikan.get("status") == "Not yet aired"
+    was_active = was_airing or was_not_yet_aired or (jikan.get("status") and jikan.get("status") != "Finished Airing")
     anilist_status = item.get("status")  # RELEASING, FINISHED, NOT_YET_RELEASED vb.
 
-    # Eğer anime yayındaysa veya yeni bittiyse (FINISHED) veya son güncellenenler listesindeyse:
-    should_refresh_details = was_airing or anilist_status in ("RELEASING", "FINISHED")
+    # Eğer anime aktifse (yayında veya henüz başlamamış) veya yeni bittiyse (FINISHED) veya son güncellenenler listesindeyse:
+    should_refresh_details = was_active or anilist_status in ("RELEASING", "FINISHED", "NOT_YET_RELEASED")
 
     if should_refresh_details:
         mal_details = mal_scraper.get_full_details(mal_id)
@@ -250,12 +253,31 @@ def sync_anime_item(
     return {"is_new": False, "new_episodes": new_ep_count, "updated": updated}
 
 
-def get_locally_airing_mal_ids(storage: StorageManager) -> list[int]:
+def get_locally_active_mal_ids(storage: StorageManager) -> list[int]:
     """
-    Yerel veritabanında (api/anime/*.json) yayında (Currently Airing) görünen
+    Yerel veritabanında (api/anime/*.json) henüz final yapmamış
+    (Currently Airing veya Not yet aired / yayınlanması beklenen)
     animelerin MAL ID'lerini toplar.
+
+    Öncelikle api/animes.json vitrin indeksinden anında (50ms) çeker,
+    indeks yoksa veya okunamazsa dosya sistemini tarar.
     """
-    airing_ids = []
+    index_path = os.path.join(storage.base_dir, "animes.json")
+    if os.path.exists(index_path):
+        try:
+            with open(index_path, "r", encoding="utf-8") as f:
+                items = json.load(f)
+            active_ids = []
+            for item in items:
+                status = item.get("status")
+                mid = item.get("mal_id")
+                if mid and (status in ("Currently Airing", "Not yet aired") or (status and status != "Finished Airing")):
+                    active_ids.append(mid)
+            return active_ids
+        except Exception as e:
+            logger.warning(f"animes.json hızlı okuma başarısız, klasör taramasına geçiliyor: {e}")
+
+    active_ids = []
     if os.path.exists(storage.anime_dir):
         for fname in sorted(os.listdir(storage.anime_dir)):
             if not fname.endswith(".json"):
@@ -268,9 +290,16 @@ def get_locally_airing_mal_ids(storage: StorageManager) -> list[int]:
             if not data:
                 continue
             jikan = data.get("jikan") or {}
-            if jikan.get("airing") is True or jikan.get("status") == "Currently Airing":
-                airing_ids.append(mid)
-    return airing_ids
+            status = jikan.get("status")
+            airing = jikan.get("airing")
+            # Bitenler (Finished Airing) hariç: yayında olanlar veya henüz başlamayanlar
+            if airing is True or status in ("Currently Airing", "Not yet aired") or (status and status != "Finished Airing"):
+                active_ids.append(mid)
+    return active_ids
+
+
+# Geriye dönük uyumluluk için alias
+get_locally_airing_mal_ids = get_locally_active_mal_ids
 
 
 def run_sync(args, stats: dict):
@@ -330,25 +359,25 @@ def run_sync(args, stats: dict):
     seen_ids = set()
 
     # ─────────────────────────────────────────────────────────────
-    # MOD 1: SADECE YEREL YAYINDA (AIRING) OLANLARI KONTROL ET
+    # MOD 1: SADECE YEREL AKTİF (YAYINDA VEYA BEKLEYEN) OLANLARI KONTROL ET
     # ─────────────────────────────────────────────────────────────
     if args.check_airing:
-        logger.info("🔍 Yerel veritabanında yayında (Currently Airing) görünen animeler taranıyor...")
-        airing_ids = get_locally_airing_mal_ids(storage)
-        logger.info(f"📊 Toplam {len(airing_ids)} adet yerel yayında anime bulundu.")
-        for mid in airing_ids:
+        logger.info("🔍 Yerel veritabanında aktif (yayında veya henüz başlamamış) animeler taranıyor...")
+        active_ids = get_locally_active_mal_ids(storage)
+        logger.info(f"📊 Toplam {len(active_ids)} adet yerel aktif anime bulundu.")
+        for mid in active_ids:
             if mid not in seen_ids:
                 seen_ids.add(mid)
                 items_to_sync.append({"idMal": mid})
 
     # ─────────────────────────────────────────────────────────────
-    # MOD 2: STANDART CANLI RADAR + YEREL YAYINDAKİLER SENKRONİZASYONU
+    # MOD 2: STANDART CANLI RADAR + YEREL AKTİFLER SENKRONİZASYONU
     # ─────────────────────────────────────────────────────────────
     else:
-        # A) Yerel depomuzda hala yayında görünen serileri ekle (Bitenler ASLA kaçmaz!)
-        local_airing = get_locally_airing_mal_ids(storage)
-        logger.info(f"🔍 Yerel depomuzda yayında görünen {len(local_airing)} anime durum kontrolü için listeye alındı.")
-        for mid in local_airing:
+        # A) Yerel depomuzda hala yayında veya henüz başlamamış serileri ekle (Bitenler ve başlayanlar ASLA kaçmaz!)
+        local_active = get_locally_active_mal_ids(storage)
+        logger.info(f"🔍 Yerel depomuzda yayında veya henüz başlamamış {len(local_active)} anime durum kontrolü için listeye alındı.")
+        for mid in local_active:
             if mid not in seen_ids:
                 seen_ids.add(mid)
                 items_to_sync.append({"idMal": mid})
@@ -451,7 +480,7 @@ def main():
     parser = argparse.ArgumentParser(description="Animori Depo Anime Senkronizasyon Orkestratörü")
     parser.add_argument("--full", action="store_true", help="Daha fazla sayfa tarayarak genişletilmiş senkronizasyon yapar.")
     parser.add_argument("--sync-season", action="store_true", help="Mevcut sezon animelerini AniList'ten çeker.")
-    parser.add_argument("--check-airing", action="store_true", help="Yalnızca yerel veritabanında yayında (Currently Airing) görünen animelerin güncel durumunu (Finished/Airing) ve bölümlerini denetler.")
+    parser.add_argument("--check-airing", action="store_true", help="Yalnızca yerel veritabanında aktif (yayında veya henüz yayınlanmamış) animelerin güncel durumunu (Finished/Airing) ve bölümlerini denetler.")
     parser.add_argument("--sync-fribb", action="store_true", help="Tüm yerel anime dosyalarını Fribb TMDB eşleşmesi için baştan sona tarar ve günceller.")
     parser.add_argument("--limit", type=int, default=None, help="Test için işlenecek maksimum anime sayısı.")
     parser.add_argument("--build-index", action="store_true", help="Yalnızca animes.json ve diğer vitrin indekslerini yeniden oluşturur.")
