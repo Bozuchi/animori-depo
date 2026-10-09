@@ -16,7 +16,7 @@
     "source": "Book",
     "status": "Finished Airing",
     "year": 1995,
-    "season": null,
+    "season": "summer",
     "airing": false,
     "aired": {
       "from": "1995-08-19T00:00:00+00:00",

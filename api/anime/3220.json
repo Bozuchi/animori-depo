@@ -16,7 +16,7 @@
     "source": "Book",
     "status": "Finished Airing",
     "year": 1973,
-    "season": null,
+    "season": "spring",
     "airing": false,
     "aired": {
       "from": "1973-06-30T00:00:00+00:00",

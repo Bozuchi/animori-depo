@@ -182,17 +182,34 @@ class StorageManager:
         if "anilist" not in detail:
             detail["anilist"] = None
 
-        # year bilgisi yoksa aired.from üzerinden tamamla
+        # year ve season bilgisi yoksa aired.from üzerinden tamamla
         jikan_obj = detail.get("jikan")
-        if jikan_obj and jikan_obj.get("year") is None:
+        if jikan_obj:
             aired_obj = jikan_obj.get("aired")
-            if isinstance(aired_obj, dict) and aired_obj.get("from"):
-                m = re.match(r"^(\d{4})", str(aired_obj["from"]).strip())
-                if m:
-                    try:
-                        jikan_obj["year"] = int(m.group(1))
-                    except ValueError:
-                        pass
+            aired_from = str(aired_obj.get("from", "")).strip() if isinstance(aired_obj, dict) and aired_obj.get("from") else None
+            if aired_from:
+                if jikan_obj.get("year") is None:
+                    m_year = re.match(r"^(\d{4})", aired_from)
+                    if m_year:
+                        try:
+                            jikan_obj["year"] = int(m_year.group(1))
+                        except ValueError:
+                            pass
+                if not jikan_obj.get("season"):
+                    m_month = re.match(r"^\d{4}-(\d{2})", aired_from)
+                    if m_month:
+                        try:
+                            month = int(m_month.group(1))
+                            if month in (1, 2, 3):
+                                jikan_obj["season"] = "winter"
+                            elif month in (4, 5, 6):
+                                jikan_obj["season"] = "spring"
+                            elif month in (7, 8, 9):
+                                jikan_obj["season"] = "summer"
+                            elif month in (10, 11, 12):
+                                jikan_obj["season"] = "fall"
+                        except ValueError:
+                            pass
 
         # Eğer önceden başka bir isimle (örneğin slug.json) kaydedildiyse ve
         # şimdi isim mal_id.json olarak değiştiyse, eskisini sil
@@ -454,17 +471,35 @@ class StorageManager:
             demographics = jikan.get("demographics", [])
             studios = jikan.get("studios", [])
 
-            # year belirleme: jikan.year varsa al, yoksa aired.from üzerinden çıkar
+            # year ve season belirleme: jikan verisinde yoksa aired.from üzerinden çıkar
             year_val = jikan.get("year")
-            if year_val is None:
-                aired_data = jikan.get("aired")
-                if isinstance(aired_data, dict) and aired_data.get("from"):
-                    m = re.match(r"^(\d{4})", str(aired_data["from"]).strip())
-                    if m:
+            season_val = jikan.get("season")
+            aired_data = jikan.get("aired")
+            aired_from = str(aired_data.get("from", "")).strip() if isinstance(aired_data, dict) and aired_data.get("from") else None
+
+            if aired_from:
+                if year_val is None:
+                    m_year = re.match(r"^(\d{4})", aired_from)
+                    if m_year:
                         try:
-                            year_val = int(m.group(1))
+                            year_val = int(m_year.group(1))
                         except ValueError:
                             year_val = None
+                if not season_val:
+                    m_month = re.match(r"^\d{4}-(\d{2})", aired_from)
+                    if m_month:
+                        try:
+                            month = int(m_month.group(1))
+                            if month in (1, 2, 3):
+                                season_val = "winter"
+                            elif month in (4, 5, 6):
+                                season_val = "spring"
+                            elif month in (7, 8, 9):
+                                season_val = "summer"
+                            elif month in (10, 11, 12):
+                                season_val = "fall"
+                        except ValueError:
+                            season_val = None
 
             index.append({
                 "mal_id": mal_id_val,
@@ -477,7 +512,7 @@ class StorageManager:
                 "status": jikan.get("status"),
                 "episodes": jikan.get("episodes"),
                 "year": year_val,
-                "season": jikan.get("season"),
+                "season": season_val,
                 "score": jikan.get("score"),
                 "popularity": jikan.get("popularity"),
                 "genres": genres,
