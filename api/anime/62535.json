@@ -14,7 +14,7 @@
     "title_english": "Hanaori-san Still Wants to Fight in the Next Life",
     "type": "TV",
     "source": "Manga",
-    "status": "Not yet aired",
+    "status": "Finished Airing",
     "year": 2026,
     "season": "summer",
     "airing": false,
@@ -24,8 +24,8 @@
     },
     "duration": "Unknown",
     "rating": null,
-    "score": null,
-    "popularity": 6350,
+    "score": 7.41,
+    "popularity": 3862,
     "synopsis": "Narukami Ryusei is your typical NEET. He spends his days shut in his room playing video games without a care in the world, living a lazy life. But the truth is, Ryusei used to be a powerful demon king in another world! So why not spend this new life doing whatever he wants? Except, he wasn't the only one reincarnated into this world. The hero who struck him down is here too—and she's a really cute high school girl?! Can Ryusei survive reuniting with his foe in a new world, or will he find himself fighting even in this life?\n\n(Source: Seven Seas Entertainment)",
     "genres": [
       4,
@@ -56,6 +56,13 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg"
   },
+  "tmdb": {
+    "id": 312266,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Narukami Ryusei tipik NEET'inizdir. Günlerini odasında kapalı, dünya umurunda olmadan video oyunları oynayarak, tembel bir hayat yaşayarak geçiriyor. Ama gerçek şu ki, Ryusei başka bir dünyada güçlü bir iblis kraldı! Öyleyse neden bu yeni hayatı istediği şeyi yaparak geçirmiyorsunuz? Ancak bu dünyaya reenkarne olan tek kişi o değildi. Onu vuran kahraman da burada ve o gerçekten tatlı bir liseli kız mı? Ryusei yeni bir dünyada düşmanıyla yeniden bir araya gelerek hayatta kalabilecek mi, yoksa kendisini bu hayatta bile savaşırken bulacak mı?\n\n(Kaynak: Seven Seas Entertainment)",
   "episodes": [
     {
       "turkanime_title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai 1. Bölüm",
@@ -85,7 +92,9 @@
       "added_date": "2026-07-26T02:05:07.013062",
       "jikan_mal_id": 1,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "When Ryusei Met Meteor",
+      "aired": "Jul 12, 2026"
     },
     {
       "turkanime_title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai 2. Bölüm",
@@ -111,7 +120,9 @@
       "added_date": "2026-07-26T02:05:07.013062",
       "jikan_mal_id": 2,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "The Witches of Oz",
+      "aired": "Jul 19, 2026"
     },
     {
       "turkanime_title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai 3. Bölüm",
@@ -146,7 +157,9 @@
       "added_date": "2026-07-27T00:50:33.995502",
       "jikan_mal_id": 3,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Midnight Run",
+      "aired": "Jul 26, 2026"
     },
     {
       "turkanime_title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai 4. Bölüm",
@@ -176,7 +189,9 @@
       "added_date": "2026-08-03T02:55:27.318647",
       "jikan_mal_id": 4,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Those Who Can't Be Forgiven",
+      "aired": "Aug 2, 2026"
     },
     {
       "turkanime_title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai 5. Bölüm",
@@ -201,7 +216,9 @@
       "added_date": "2026-08-14T02:05:54.819567",
       "jikan_mal_id": 5,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Much Ado About Nothing",
+      "aired": "Aug 9, 2026"
     },
     {
       "turkanime_title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai 6. Bölüm",
@@ -231,7 +248,9 @@
       "added_date": "2026-08-17T01:22:34.362186",
       "jikan_mal_id": 6,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Pulp Fiction",
+      "aired": "Aug 16, 2026"
     },
     {
       "turkanime_title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai 7. Bölüm",
@@ -256,13 +275,59 @@
       "added_date": "2026-08-26T01:24:38.729770",
       "jikan_mal_id": 7,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Seven",
+      "aired": "Aug 23, 2026"
+    },
+    {
+      "turkanime_title": "8. Bölüm",
+      "title": "Training Day",
+      "episode_number": 8,
+      "aired": "Aug 30, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:24:58.580686"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "Scream",
+      "episode_number": 9,
+      "aired": "Sep 6, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:24:58.580686"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "Triangle of Sadness",
+      "episode_number": 10,
+      "aired": "Sep 13, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:24:58.580686"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "Romeo and Juliet",
+      "episode_number": 11,
+      "aired": "Sep 20, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:24:58.580686"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "Love Actually",
+      "episode_number": 12,
+      "aired": "Sep 27, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:24:58.580686"
     }
-  ],
-  "tmdb": {
-    "id": 312266,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

@@ -14,7 +14,7 @@
     "title_english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2",
     "type": "TV",
     "source": "Light novel",
-    "status": "Not yet aired",
+    "status": "Finished Airing",
     "year": 2026,
     "season": "summer",
     "airing": false,
@@ -24,8 +24,8 @@
     },
     "duration": "Unknown",
     "rating": "PG-13 - Teens 13 or older",
-    "score": null,
-    "popularity": 2742,
+    "score": 6.89,
+    "popularity": 2156,
     "synopsis": "Second season of Otome Game Sekai wa Mob ni Kibishii Sekai desu.",
     "genres": [
       10,
@@ -65,6 +65,13 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg"
   },
+  "tmdb": {
+    "id": 139512,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Otome Game Sekai wa Mob ni Kibishii Sekai desu'nun ikinci sezonu.",
   "episodes": [
     {
       "turkanime_title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 1. Bölüm",
@@ -110,7 +117,9 @@
       "added_date": "2026-07-29T00:34:24.055363",
       "jikan_mal_id": 1,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "It's Always Love That Saves the World",
+      "aired": "Jul 8, 2026"
     },
     {
       "turkanime_title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 2. Bölüm",
@@ -145,7 +154,9 @@
       "added_date": "2026-07-29T00:34:24.055363",
       "jikan_mal_id": 2,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Do You Enjoy the Aesthetics of Destruction?",
+      "aired": "Jul 15, 2026"
     },
     {
       "turkanime_title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 3. Bölüm",
@@ -180,7 +191,9 @@
       "added_date": "2026-07-29T00:34:24.055363",
       "jikan_mal_id": 3,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Hey, Brat",
+      "aired": "Jul 22, 2026"
     },
     {
       "turkanime_title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 4. Bölüm",
@@ -215,7 +228,9 @@
       "added_date": "2026-08-01T02:55:09.569021",
       "jikan_mal_id": 4,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Flip-Flopping Again?",
+      "aired": "Jul 29, 2026"
     },
     {
       "turkanime_title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 5. Bölüm",
@@ -245,7 +260,9 @@
       "added_date": "2026-08-08T01:45:03.760522",
       "jikan_mal_id": 5,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "I Love Facades",
+      "aired": "Aug 5, 2026"
     },
     {
       "turkanime_title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 6. Bölüm",
@@ -266,7 +283,9 @@
       "added_date": "2026-08-15T01:20:57.703922",
       "jikan_mal_id": 6,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "If I Don't Like It, I'll Just Run",
+      "aired": "Aug 12, 2026"
     },
     {
       "turkanime_title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 7. Bölüm",
@@ -282,13 +301,59 @@
       "added_date": "2026-08-31T05:09:47.173003",
       "jikan_mal_id": 7,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Shut Your Filthy Mouth, Scum",
+      "aired": "Aug 19, 2026"
+    },
+    {
+      "turkanime_title": "8. Bölüm",
+      "title": "You Can't Quantify Love!",
+      "episode_number": 8,
+      "aired": "Aug 26, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:23:27.824267"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "Livia",
+      "episode_number": 9,
+      "aired": "Sep 2, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:23:27.824267"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "They Hit Where It Hurts",
+      "episode_number": 10,
+      "aired": "Sep 9, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:23:27.824267"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "I Don't Care About That!",
+      "episode_number": 11,
+      "aired": "Sep 16, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:23:27.824267"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "This World Is Tough for Mobs",
+      "episode_number": 12,
+      "aired": "Sep 23, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:23:27.824267"
     }
-  ],
-  "tmdb": {
-    "id": 139512,
-    "type": "tv",
-    "season": 2,
-    "episode_offset": 0
-  }
+  ]
 }

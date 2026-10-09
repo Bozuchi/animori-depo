@@ -14,7 +14,7 @@
     "title_english": "Chainsmoker Cat",
     "type": "TV",
     "source": "Manga",
-    "status": "Not yet aired",
+    "status": "Finished Airing",
     "year": 2026,
     "season": "summer",
     "airing": false,
@@ -24,8 +24,8 @@
     },
     "duration": "Unknown",
     "rating": null,
-    "score": null,
-    "popularity": 4690,
+    "score": 7.53,
+    "popularity": 1804,
     "synopsis": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever?\n\n(Source: Seven Seas Entertainment)",
     "genres": [
       4
@@ -61,6 +61,13 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg"
   },
+  "tmdb": {
+    "id": 312949,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Yani ciddi anlamda kötü sigara içme alışkanlığı olan bir kedi kızdır. O kadar çok sigara içiyor ki, dairesi kül kokuyor ve sigara izmaritleri ve daha bir sürü çöple dolu! Ne zaman bırakmayı denese, isteklere karşı zayıflıyor ve neredeyse anında pes ediyor. Hayatını düzene koyabilecek mi, yoksa sonsuza kadar sigara içen bir serseri olarak mı yaşamaya mahkumdur?\n\n(Kaynak: Seven Seas Entertainment)",
   "episodes": [
     {
       "turkanime_title": "Yani Neko 1. Bölüm",
@@ -105,7 +112,9 @@
       "added_date": "2026-07-30T17:47:26.134066",
       "jikan_mal_id": 1,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "I'm Chainsmoker Cat, Meow",
+      "aired": "Jul 3, 2026"
     },
     {
       "turkanime_title": "Yani Neko 2. Bölüm",
@@ -121,7 +130,9 @@
       "added_date": "2026-07-30T17:47:26.134066",
       "jikan_mal_id": 2,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Meet My Juniors, Nya",
+      "aired": "Jul 10, 2026"
     },
     {
       "turkanime_title": "Yani Neko 3. Bölüm",
@@ -142,7 +153,9 @@
       "added_date": "2026-07-30T17:47:26.134066",
       "jikan_mal_id": 3,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "I'm More Straight Than Funny, Nya",
+      "aired": "Jul 17, 2026"
     },
     {
       "turkanime_title": "Yani Neko 4. Bölüm",
@@ -163,7 +176,9 @@
       "added_date": "2026-07-30T17:47:26.134066",
       "jikan_mal_id": 4,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Freaks All Around Me, Nya",
+      "aired": "Jul 24, 2026"
     },
     {
       "turkanime_title": "Yani Neko 5.Bölüm",
@@ -173,7 +188,9 @@
       "added_date": "2026-07-31T02:56:33.589280",
       "jikan_mal_id": 5,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "We're Off to a Secret Place, Nya",
+      "aired": "Jul 31, 2026"
     },
     {
       "turkanime_title": "Yani Neko 6. Bölüm",
@@ -183,7 +200,9 @@
       "added_date": "2026-08-31T05:26:40.902397",
       "jikan_mal_id": 6,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Summer Starts and Ends Here, Nya",
+      "aired": "Aug 7, 2026"
     },
     {
       "turkanime_title": "Yani Neko 7. Bölüm",
@@ -204,7 +223,9 @@
       "added_date": "2026-08-31T05:26:40.902397",
       "jikan_mal_id": 7,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "I Was Born to Parents Too, Nya",
+      "aired": "Aug 14, 2026"
     },
     {
       "turkanime_title": "Yani Neko 8. Bölüm",
@@ -220,13 +241,49 @@
       "added_date": "2026-08-31T05:26:40.902397",
       "jikan_mal_id": 8,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Even We Run Around in December, Nya",
+      "aired": "Aug 21, 2026"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "My Little Sis Is Popular, Nya",
+      "episode_number": 9,
+      "aired": "Sep 4, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:33.755637"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "I'm Gonnya Enjoy the Outing Too, Nya",
+      "episode_number": 10,
+      "aired": "Sep 11, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:33.755637"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "We're in Kyoto, Nya",
+      "episode_number": 11,
+      "aired": "Sep 18, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:33.755637"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "Even in the Final Episode I'm Still Smoking Too Nya",
+      "episode_number": 12,
+      "aired": "Sep 25, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:33.755637"
     }
-  ],
-  "tmdb": {
-    "id": 312949,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

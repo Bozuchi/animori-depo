@@ -14,7 +14,7 @@
     "title_english": "Grand Blue Dreaming Season 3",
     "type": "TV",
     "source": "Manga",
-    "status": "Not yet aired",
+    "status": "Finished Airing",
     "year": 2026,
     "season": "summer",
     "airing": false,
@@ -24,8 +24,8 @@
     },
     "duration": "Unknown",
     "rating": "PG-13 - Teens 13 or older",
-    "score": null,
-    "popularity": 3010,
+    "score": 8.33,
+    "popularity": 2200,
     "synopsis": "Third season of Grand Blue.",
     "genres": [
       4
@@ -62,6 +62,13 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg"
   },
+  "tmdb": {
+    "id": 79166,
+    "type": "tv",
+    "season": 3,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Grand Blue'nun üçüncü sezonu.",
   "episodes": [
     {
       "turkanime_title": "Grand Blue Season 3 1. Bölüm",
@@ -96,13 +103,119 @@
       "added_date": "2026-07-26T00:33:13.345651",
       "jikan_mal_id": 1,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Unfinished Business",
+      "aired": "Jul 7, 2026"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "Homecoming",
+      "episode_number": 2,
+      "aired": "Jul 14, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
+    },
+    {
+      "turkanime_title": "3. Bölüm",
+      "title": "Saving Private Passport",
+      "episode_number": 3,
+      "aired": "Jul 21, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
+    },
+    {
+      "turkanime_title": "4. Bölüm",
+      "title": "The Oceans of Palau",
+      "episode_number": 4,
+      "aired": "Jul 28, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
+    },
+    {
+      "turkanime_title": "5. Bölüm",
+      "title": "TV Special",
+      "episode_number": 5,
+      "aired": "Aug 4, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
+    },
+    {
+      "turkanime_title": "6. Bölüm",
+      "title": "Assist",
+      "episode_number": 6,
+      "aired": "Aug 11, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
+    },
+    {
+      "turkanime_title": "7. Bölüm",
+      "title": "Mother",
+      "episode_number": 7,
+      "aired": "Aug 18, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
+    },
+    {
+      "turkanime_title": "8. Bölüm",
+      "title": "Mixer, Round 2",
+      "episode_number": 8,
+      "aired": "Aug 25, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "Ordeals",
+      "episode_number": 9,
+      "aired": "Sep 1, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "Lottery",
+      "episode_number": 10,
+      "aired": "Sep 8, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "Back in Okinawa (A-Side)",
+      "episode_number": 11,
+      "aired": "Sep 15, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "Back in Okinawa (B-Side)",
+      "episode_number": 12,
+      "aired": "Sep 22, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:00.428046"
     }
-  ],
-  "tmdb": {
-    "id": 79166,
-    "type": "tv",
-    "season": 3,
-    "episode_offset": 0
-  }
+  ]
 }

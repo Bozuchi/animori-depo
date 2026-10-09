@@ -14,7 +14,7 @@
     "title_english": "Jaadugar: A Witch in Mongolia",
     "type": "TV",
     "source": "Manga",
-    "status": "Not yet aired",
+    "status": "Finished Airing",
     "year": 2026,
     "season": "summer",
     "airing": false,
@@ -24,8 +24,8 @@
     },
     "duration": "Unknown",
     "rating": null,
-    "score": null,
-    "popularity": 5005,
+    "score": 8.38,
+    "popularity": 2542,
     "synopsis": "In the harem of the Khan, wisdom is beauty. The time: the thirteenth century. The place: Yeke Mongol Ulus, the greatest empire the world has ever known. The woman: Fatima, hailing from Persia, where medical technique and scientific knowledge have been perfected beyond all precedent. Fatima's desire for a stage where she can put her knowledge to work has brought her to the palace of the Mongols, where she falls under the wing of Töregene, the sixth wife of Ögedei, the second Great Khan—a mighty woman with complicated feelings about the direction of the empire. These two women are the axel upon which the politics of the palace, and soon the very world, will turn...\n\n(Source: Yen Press)",
     "genres": [
       8
@@ -45,13 +45,20 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 12
   },
   "anilist": {
     "id": 190569,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg"
   },
+  "tmdb": {
+    "id": 288971,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Han'ın hareminde bilgelik güzelliktir. Zaman: on üçüncü yüzyıl. Yer: Yeke Moğol Ulus, dünyanın tanıdığı en büyük imparatorluk. Kadın: Fatima, tıbbi tekniğin ve bilimsel bilginin tüm emsallerinin ötesinde mükemmelleştiği İran'dan geliyor. Fatima'nın bilgisini uygulamaya koyabileceği bir aşama arzusu onu Moğolların sarayına getirdi ve burada imparatorluğun gidişatı hakkında karmaşık duygulara sahip güçlü bir kadın olan ikinci Büyük Han Ögedei'nin altıncı eşi Töregene'nin kanatları altına düştü. Bu iki kadın, saray siyasetinin ve yakında tüm dünyanın dönüşeceği eksendir...\n\n(Kaynak: Yen Press)",
   "episodes": [
     {
       "turkanime_title": "Tenmaku no Jadugaar 1. Bölüm",
@@ -292,11 +299,5 @@
       "filler": false,
       "recap": false
     }
-  ],
-  "tmdb": {
-    "id": 288971,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

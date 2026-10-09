@@ -14,7 +14,7 @@
     "title_english": "Kaiju Girl Caramelise",
     "type": "TV",
     "source": "Manga",
-    "status": "Not yet aired",
+    "status": "Finished Airing",
     "year": 2026,
     "season": "summer",
     "airing": false,
@@ -24,8 +24,8 @@
     },
     "duration": "Unknown",
     "rating": null,
-    "score": null,
-    "popularity": 5761,
+    "score": 7.49,
+    "popularity": 2966,
     "synopsis": "Kuroe Akaishi is an introverted, quiet, and seemingly normal high school girl. Though accustomed to being alone, her dreary days begin to change when she meets Arata Minami, a bright and handsome boy in her class. Despite his popular status, he is kind enough to reach out to an outcast like her; soon, Kuroe finds her heart begins to pound around him.\n\nIt keeps pounding and pounding and pounding until Kuroe transforms into a monstrous kaijuu! She has a certain affliction: as her embarrassment grows, so do the monstrous appendages from her body; and when it hits a peak, she unleashes the full extent of her transformation.\n\nAt the same time, beauty meets the kaijuu, and Japan faces off against the looming threat of the mysterious monster. Can Minami accept her feelings, or will he too be frightened off by her colossal form? Depending on his decision, the world may experience the full devastation of a girl's heart-pumping, youthful love.\n\n[Written by MAL Rewrite]",
     "genres": [
       22,
@@ -48,13 +48,20 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 12
   },
   "anilist": {
     "id": 204466,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png"
   },
+  "tmdb": {
+    "id": 308874,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Kuroe Akaishi içe dönük, sessiz ve görünüşte normal bir liseli kızdır. Yalnız kalmaya alışık olmasına rağmen sınıfındaki zeki ve yakışıklı çocuk Arata Minami ile tanıştığında kasvetli günleri değişmeye başlar. Popüler statüsüne rağmen kendisi gibi dışlanmış birine ulaşacak kadar naziktir; Çok geçmeden Kuroe kalbinin onun etrafında atmaya başladığını fark eder.\n\nKuroe canavarca bir kaijuu'ya dönüşene kadar vurmaya, vurmaya ve vurmaya devam ediyor! Belli bir rahatsızlığı var: Utancı arttıkça vücudundaki canavarca uzantılar da artıyor; ve zirveye ulaştığında dönüşümünün tüm boyutlarını serbest bırakır.\n\nAynı zamanda güzellik kaijuu ile tanışır ve Japonya, gizemli canavarın yaklaşan tehdidiyle karşı karşıya gelir. Minami duygularını kabul edebilecek mi, yoksa o da onun devasa formundan korkacak mı? Vereceği karara bağlı olarak dünya, bir kızın yürek hoplatan gençlik aşkının tam anlamıyla yıkımını yaşayabilir.\n\n[MAL Yeniden Yazma tarafından yazılmıştır]",
   "episodes": [
     {
       "turkanime_title": "Otome Kaijuu Caraméliser 1. Bölüm",
@@ -95,7 +102,9 @@
       "added_date": "2026-07-29T00:34:38.625324",
       "jikan_mal_id": 1,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "The Kaiju Girl Appears in Tokyo",
+      "aired": "Jul 3, 2026"
     },
     {
       "turkanime_title": "Otome Kaijuu Caraméliser 2. Bölüm",
@@ -135,7 +144,9 @@
       "added_date": "2026-07-29T00:34:38.625324",
       "jikan_mal_id": 2,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "The Unopened Door",
+      "aired": "Jul 10, 2026"
     },
     {
       "turkanime_title": "Otome Kaijuu Caraméliser 3. Bölüm",
@@ -171,7 +182,9 @@
       "added_date": "2026-07-29T00:34:38.625324",
       "jikan_mal_id": 3,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "A Sparkling Weekend: Where Dreams Come True",
+      "aired": "Jul 17, 2026"
     },
     {
       "turkanime_title": "Otome Kaijuu Carameliser 4. Bölüm",
@@ -211,7 +224,9 @@
       "added_date": "2026-07-29T00:34:38.625324",
       "jikan_mal_id": 4,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "The Scary Kaiju Fest",
+      "aired": "Jul 24, 2026"
     },
     {
       "turkanime_title": "Otome Kaijuu Caraméliser 5. Bölüm",
@@ -232,7 +247,9 @@
       "added_date": "2026-08-01T02:55:13.240591",
       "jikan_mal_id": 5,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "A Gyaru and Lipstick",
+      "aired": "Jul 31, 2026"
     },
     {
       "turkanime_title": "Otome Kaijuu Caraméliser 6. Bölüm",
@@ -248,7 +265,9 @@
       "added_date": "2026-08-08T01:45:08.385423",
       "jikan_mal_id": 6,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Rairi's Forest",
+      "aired": "Aug 7, 2026"
     },
     {
       "turkanime_title": "Otome Kaijuu Caraméliser 7. Bölüm",
@@ -264,7 +283,9 @@
       "added_date": "2026-08-15T01:21:01.855853",
       "jikan_mal_id": 7,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "All Eyes on Arata",
+      "aired": "Aug 14, 2026"
     },
     {
       "turkanime_title": "Otome Kaijuu Caraméliser 8. Bölüm",
@@ -285,13 +306,49 @@
       "added_date": "2026-08-23T01:26:59.430595",
       "jikan_mal_id": 8,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Fly to Manatsu's Kaiju Island!!",
+      "aired": "Aug 21, 2026"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "Release the Torrent of Complaints, Kaiju Girl!",
+      "episode_number": 9,
+      "aired": "Aug 28, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:19.539027"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "Don't Cry, Heartbroken Kaiju",
+      "episode_number": 10,
+      "aired": "Sep 4, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:19.539027"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "Kuroe vs. Akae",
+      "episode_number": 11,
+      "aired": "Sep 11, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:19.539027"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "Charge This One Strike With Love",
+      "episode_number": 12,
+      "aired": "Sep 18, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:19.539027"
     }
-  ],
-  "tmdb": {
-    "id": 308874,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

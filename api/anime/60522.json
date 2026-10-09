@@ -14,7 +14,7 @@
     "title_english": "Skeleton Knight in Another World II",
     "type": "TV",
     "source": "Light novel",
-    "status": "Not yet aired",
+    "status": "Finished Airing",
     "year": 2026,
     "season": "summer",
     "airing": false,
@@ -24,8 +24,8 @@
     },
     "duration": "Unknown",
     "rating": "PG-13 - Teens 13 or older",
-    "score": null,
-    "popularity": 3273,
+    "score": 6.49,
+    "popularity": 2450,
     "synopsis": "Second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
     "genres": [
       1,
@@ -61,6 +61,13 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185542-v15vqOvUWSF5.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg"
   },
+  "tmdb": {
+    "id": 123528,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu'nun ikinci sezonu.",
   "episodes": [
     {
       "turkanime_title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II 1. Bölüm",
@@ -223,11 +230,5 @@
       "filler": null,
       "recap": null
     }
-  ],
-  "tmdb": {
-    "id": 123528,
-    "type": "tv",
-    "season": 2,
-    "episode_offset": 0
-  }
+  ]
 }

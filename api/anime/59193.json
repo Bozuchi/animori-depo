@@ -14,7 +14,7 @@
     "title_english": "Mushoku Tensei: Jobless Reincarnation Season 3",
     "type": "TV",
     "source": "Light novel",
-    "status": "Not yet aired",
+    "status": "Finished Airing",
     "year": 2026,
     "season": "summer",
     "airing": false,
@@ -24,8 +24,8 @@
     },
     "duration": "Unknown",
     "rating": "R - 17+ (violence & profanity)",
-    "score": null,
-    "popularity": 1312,
+    "score": 8.68,
+    "popularity": 775,
     "synopsis": "Third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
     "genres": [
       2,
@@ -64,6 +64,13 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg"
   },
+  "tmdb": {
+    "id": 94664,
+    "type": "tv",
+    "season": 3,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Mushoku Tensei'nin üçüncü sezonu: Isekai Ittara Honki Dasu.",
   "episodes": [
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 1. Bölüm",
@@ -89,7 +96,9 @@
       "added_date": "2026-07-27T13:52:35.530623",
       "jikan_mal_id": 1,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Burn Mad Dog",
+      "aired": "Jul 4, 2026"
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 2. Bölüm",
@@ -120,7 +129,9 @@
       "added_date": "2026-07-27T13:52:35.530623",
       "jikan_mal_id": 2,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Bark, Mad Dog",
+      "aired": "Jul 4, 2026"
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 3. Bölüm",
@@ -161,7 +172,9 @@
       "added_date": "2026-07-27T13:52:35.530623",
       "jikan_mal_id": 3,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Life Back at Home",
+      "aired": "Jul 13, 2026"
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 4. Bölüm",
@@ -182,7 +195,9 @@
       "added_date": "2026-07-27T13:52:35.530623",
       "jikan_mal_id": 4,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Water King-Class Magician",
+      "aired": "Jul 20, 2026"
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 5. Bölüm",
@@ -203,7 +218,9 @@
       "added_date": "2026-07-27T13:52:35.530623",
       "jikan_mal_id": 5,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Celebrations",
+      "aired": "Jul 27, 2026"
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 6. Bölüm",
@@ -224,7 +241,9 @@
       "added_date": "2026-08-04T02:38:27.228657",
       "jikan_mal_id": 6,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Another Domestic Disaster?",
+      "aired": "Aug 3, 2026"
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 7. Bölüm",
@@ -240,7 +259,9 @@
       "added_date": "2026-08-14T02:07:13.133209",
       "jikan_mal_id": 7,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Phase Four",
+      "aired": "Aug 10, 2026"
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 8. Bölüm",
@@ -256,7 +277,9 @@
       "added_date": "2026-08-18T01:19:41.310436",
       "jikan_mal_id": 8,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "The Flying Fortress",
+      "aired": "Aug 17, 2026"
     },
     {
       "turkanime_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu 9. Bölüm",
@@ -272,13 +295,59 @@
       "added_date": "2026-08-31T05:00:58.495619",
       "jikan_mal_id": 9,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Lament",
+      "aired": "Aug 24, 2026"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "An Audience with an Immortal Demon King",
+      "episode_number": 10,
+      "aired": "Aug 31, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:23:55.858102"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "Turning Point 4",
+      "episode_number": 11,
+      "aired": "Sep 7, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:23:55.858102"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "An End and a Beginning",
+      "episode_number": 12,
+      "aired": "Sep 14, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:23:55.858102"
+    },
+    {
+      "turkanime_title": "13. Bölüm",
+      "title": "The Diary",
+      "episode_number": 13,
+      "aired": "Sep 21, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:23:55.858102"
+    },
+    {
+      "turkanime_title": "14. Bölüm",
+      "title": "Resolve",
+      "episode_number": 14,
+      "aired": "Sep 28, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:23:55.858102"
     }
-  ],
-  "tmdb": {
-    "id": 94664,
-    "type": "tv",
-    "season": 3,
-    "episode_offset": 0
-  }
+  ]
 }

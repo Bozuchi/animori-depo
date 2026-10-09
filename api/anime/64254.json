@@ -1,0 +1,78 @@
+{
+  "turkanime": {
+    "isim": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+    "slug": "hyouken-no-majutsushi-ga-sekai-wo-suberu-ii"
+  },
+  "jikan": {
+    "mal_id": 64254,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1190/159644.jpg",
+    "trailer_id": "oxkxyAcKv2g",
+    "title": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+    "title_english": "The Iceblade Sorcerer Shall Rule the World II",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": 12,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-09T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "24 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.68,
+    "popularity": 5051,
+    "synopsis": "Second season ofHyouken no Majutsushi ga Sekai wo Suberu.",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [],
+    "studios": [
+      1379
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          51711
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          135542
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 212503,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg"
+  },
+  "tmdb": {
+    "id": 200777,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Hyouken no Majutsushi ga Sekai wo Suberu'nun ikinci sezonu.",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "The Boy Who Is the World's Strongest Sorcerer Participates in a Large Scale Magic Battle Tournament",
+      "episode_number": 1,
+      "aired": "Oct 9, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:27:29.172952"
+    }
+  ]
+}

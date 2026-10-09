@@ -14,7 +14,7 @@
     "title_english": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
     "type": "TV",
     "source": "Light novel",
-    "status": "Not yet aired",
+    "status": "Finished Airing",
     "year": 2026,
     "season": "summer",
     "airing": false,
@@ -24,8 +24,8 @@
     },
     "duration": "Unknown",
     "rating": null,
-    "score": null,
-    "popularity": 5472,
+    "score": 6.88,
+    "popularity": 3096,
     "synopsis": "Hinako Konohana is the perfect young lady—graceful, elegant, and flawless... or so everyone thinks. Behind closed doors, she's a total disaster who can't handle basic chores! When ordinary student Itsuki Tomonari becomes her caretaker, he's thrown into 24/7 damage control, maintaining her \"perfect\" image. It's awkward, nonstop chaos—but it starts softening into something that feels like love...\n\n(Source: Crunchyroll)",
     "genres": [
       4,
@@ -54,6 +54,13 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201514-8dAOB0Xw124G.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png"
   },
+  "tmdb": {
+    "id": 312849,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Hinako Konohana mükemmel bir genç bayan; zarif, zarif ve kusursuz... ya da herkes öyle düşünüyor. Kapalı kapılar ardında temel işleri halledemeyen tam bir felaket! Sıradan öğrenci Itsuki Tomonari onun bakıcısı olduğunda, 7/24 hasar kontrolüne bırakılır ve onun \"mükemmel\" imajını korur. Tuhaf, aralıksız bir kaos var ama aşk gibi hissettiren bir şeye dönüşmeye başlıyor...\n\n(Kaynak: Crunchyroll)",
   "episodes": [
     {
       "turkanime_title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita 1. Bölüm",
@@ -104,7 +111,9 @@
       "added_date": "2026-07-29T05:33:39.011503",
       "jikan_mal_id": 1,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "The Perfect Young Lady",
+      "aired": "Jul 5, 2026"
     },
     {
       "turkanime_title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita 2. Bölüm",
@@ -149,7 +158,9 @@
       "added_date": "2026-07-29T05:33:39.011503",
       "jikan_mal_id": 2,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Caretaker Day 1",
+      "aired": "Jul 12, 2026"
     },
     {
       "turkanime_title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita 3. Bölüm",
@@ -180,7 +191,9 @@
       "added_date": "2026-07-29T05:33:39.011503",
       "jikan_mal_id": 3,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Reunion",
+      "aired": "Jul 19, 2026"
     },
     {
       "turkanime_title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita 4. Bölüm",
@@ -195,7 +208,9 @@
       "added_date": "2026-08-13T02:09:35.084466",
       "jikan_mal_id": 4,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Lies and Secrets",
+      "aired": "Jul 26, 2026"
     },
     {
       "turkanime_title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita 5. Bölüm",
@@ -220,7 +235,9 @@
       "added_date": "2026-08-13T02:09:35.084466",
       "jikan_mal_id": 5,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Kidnap Me",
+      "aired": "Aug 2, 2026"
     },
     {
       "turkanime_title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita 6. Bölüm",
@@ -250,7 +267,9 @@
       "added_date": "2026-08-13T02:09:35.084466",
       "jikan_mal_id": 6,
       "filler": false,
-      "recap": false
+      "recap": false,
+      "title": "Tennoji Mirei's Proposal",
+      "aired": "Aug 9, 2026"
     },
     {
       "turkanime_title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita 7. Bölüm",
@@ -270,14 +289,60 @@
       "skip_times": null,
       "added_date": "2026-08-17T01:23:35.161263",
       "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
+      "filler": false,
+      "recap": false,
+      "title": "A Lady's Concerns",
+      "aired": "Aug 16, 2026"
+    },
+    {
+      "turkanime_title": "8. Bölüm",
+      "title": "No Lies",
+      "episode_number": 8,
+      "aired": "Aug 23, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:06.806153"
+    },
+    {
+      "turkanime_title": "9. Bölüm",
+      "title": "The Lady's Day Off",
+      "episode_number": 9,
+      "aired": "Aug 30, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:06.806153"
+    },
+    {
+      "turkanime_title": "10. Bölüm",
+      "title": "The Plan to Free Narika From Isolation",
+      "episode_number": 10,
+      "aired": "Sep 6, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:06.806153"
+    },
+    {
+      "turkanime_title": "11. Bölüm",
+      "title": "The Young Lady's Showdown",
+      "episode_number": 11,
+      "aired": "Sep 13, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:06.806153"
+    },
+    {
+      "turkanime_title": "12. Bölüm",
+      "title": "All out of My League",
+      "episode_number": 12,
+      "aired": "Sep 20, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-09T10:25:06.806153"
     }
-  ],
-  "tmdb": {
-    "id": 312849,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }
