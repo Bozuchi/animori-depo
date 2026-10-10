@@ -1,0 +1,70 @@
+{
+  "turkanime": {
+    "isim": "Toaru Anbu no Item",
+    "slug": "toaru-anbu-no-item"
+  },
+  "jikan": {
+    "mal_id": 61014,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1531/159988.jpg",
+    "trailer_id": "NNHxQJgZdbQ",
+    "title": "Toaru Anbu no Item",
+    "title_english": "A Certain Dark Item",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-09T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.41,
+    "popularity": 5699,
+    "synopsis": "In Academy City, where supernatural abilities are part of everyday science, the city's peace is upheld by an unseen force—the dark side. Among the covert operatives is ITEM, a four-member elite unit. With Rikou Takitsubo's tracking abilities, Frenda Seivelun's explosive expertise, Saiai Kinuhata's impenetrable defense, and Shizuri Mugino's overwhelming power as one of Academy City's seven Level 5 espers, they navigate the city's underbelly, taking on secret missions that never make the headlines.As their latest assignment unfolds, the team moves with precision, unaware that their actions are setting the stage for a tragedy that will test their bonds of trust, friendship, and survival in the unforgiving darkness of Academy City.(Source: MAL News)",
+    "genres": [
+      1,
+      10,
+      24
+    ],
+    "themes": [
+      31,
+      82
+    ],
+    "demographics": [],
+    "studios": [
+      7
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          164597,
+          156526
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          4654
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 186742,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png"
+  },
+  "tmdb": {
+    "id": 284580,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Doğaüstü yeteneklerin günlük bilimin bir parçası olduğu Akademi Şehri'nde şehrin huzuru, görünmeyen bir güç olan karanlık taraf tarafından desteklenmektedir. Gizli ajanlar arasında dört üyeli elit bir birim olan ITEM de var. Rikou Takitsubo'nun takip yetenekleri, Frenda Seivelun'un patlayıcı uzmanlığı, Saiai Kinuhata'nın aşılmaz savunması ve Academy City'nin yedi Seviye 5 esper'ından biri olan Shizuri Mugino'nun ezici gücüyle, asla manşetlere çıkmayan gizli görevleri üstlenerek şehrin alt kısmında geziniyorlar. Son görevleri ortaya çıktıkça ekip, yaptıklarının bağlarını test edecek bir trajediye zemin hazırladığının farkında olmadan hassas bir şekilde hareket ediyor. Akademi Şehri'nin affetmez karanlığında güven, dostluk ve hayatta kalma mücadelesi.(Kaynak: MAL Haberleri)",
+  "episodes": []
+}

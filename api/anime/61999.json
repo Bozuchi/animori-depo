@@ -1,0 +1,67 @@
+{
+  "turkanime": {
+    "isim": "Shuiro no Kamen",
+    "slug": "shuiro-no-kamen"
+  },
+  "jikan": {
+    "mal_id": 61999,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1299/159977.jpg",
+    "trailer_id": "Q7L3azqt44Q",
+    "title": "Shuiro no Kamen",
+    "title_english": "The Vermilion Mask",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-10T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "Unknown",
+    "rating": "None",
+    "score": null,
+    "popularity": 6304,
+    "synopsis": "The mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Peru, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward! Immerse yourself in a thrilling mask battle fantasy!(Source: Orange Inc.)",
+    "genres": [
+      1,
+      10
+    ],
+    "themes": [],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      2696
+    ],
+    "relations": [
+      {
+        "relation": "Sequel",
+        "entries": [
+          63811
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          158881
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 195571,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg"
+  },
+  "tmdb": {
+    "id": 295420,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Maske felaket getirir. Maske katliamdan keyif alıyor. Maskenin kendine ait bir iradesi var... Gezici bir maske tüccarı olan Peru, kullanıcılarına benzersiz güçler veren gizemli maskeler üretme yeteneğine sahip. Ürkütücü bir atmosfere bürünmüş bir şehirde gizemli bir genç kız olan Sonah ile karşılaşır. Vahiyler ortaya çıktıkça ve iç çatışmalar ortaya çıktıkça genç bir çocuk ileriye doğru ilk adımlarını atıyor! Kendinizi heyecan verici bir maske savaşı fantezisine kaptırın!(Kaynak: Orange Inc.)",
+  "episodes": []
+}

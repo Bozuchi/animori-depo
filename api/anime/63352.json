@@ -24,8 +24,8 @@
     },
     "duration": "24 min.",
     "rating": "PG - Children",
-    "score": 6.08,
-    "popularity": 13909,
+    "score": 6.07,
+    "popularity": 13878,
     "synopsis": "The new anime's story centers on Konomi Inori, a first year middle school student who just moved to the town of Onegai. At the town's plaza, Konomi prayed to the goddess statue to give her a chance to be an AiPri. After she prayed, she accidentally meets the famous AiPri Aoi Yumemiya and a mysterious talking stuffed toy with her named Fortu. It turns out that Fortu is looking for an AiPri who can make their wish come true, and when Konomi opened the special mirror pact that Aoi handed her, she gets the AiPri debut that she prayed for.(Source: ANN)",
     "genres": [],
     "themes": [
@@ -57,6 +57,12 @@
     "id": 206523,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206523-2IaJCk4R7i63.jpg"
+  },
+  "tmdb": {
+    "id": 312123,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
   },
   "synopsis_tr": "Yeni animenin hikayesi, Onegai kasabasına yeni taşınan ortaokul birinci sınıf öğrencisi Konomi Inori'ye odaklanıyor. Konomi, kasabanın meydanında kendisine AiPri olma şansı vermesi için tanrıça heykeline dua etti. Dua ettikten sonra tesadüfen ünlü AiPri Aoi Yumemiya ve onunla birlikte Fortu adında gizemli konuşan bir peluş oyuncakla tanışır. Fortu'nun, dileklerini gerçekleştirebilecek bir AiPri aradığı ortaya çıktı ve Konomi, Aoi'nin kendisine verdiği özel ayna anlaşmasını açtığında, dua ettiği AiPri'ye ilk kez kavuştu.(Kaynak: ANN)",
   "episodes": [
@@ -499,11 +505,5 @@
       "filler": null,
       "recap": null
     }
-  ],
-  "tmdb": {
-    "id": 312123,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }
