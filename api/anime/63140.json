@@ -23,7 +23,7 @@
     "duration": "23 min.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 7.55,
-    "popularity": 4591,
+    "popularity": 4451,
     "synopsis": "Second season ofYasei no Last Boss ga Arawareta!.",
     "genres": [
       1,
@@ -58,6 +58,12 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg"
   },
+  "tmdb": {
+    "id": 280042,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Yasei no Last Boss ga Arawareta!'nın ikinci sezonu.",
   "episodes": [
     {
@@ -79,12 +85,16 @@
       "recap": false,
       "videos": [],
       "added_date": "2026-10-06T15:07:50.322530"
+    },
+    {
+      "turkanime_title": "3. Bölüm",
+      "title": "A Flying, Handsome Man Appeared!",
+      "episode_number": 3,
+      "aired": "Oct 17, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-11T09:56:44.512992"
     }
-  ],
-  "tmdb": {
-    "id": 280042,
-    "type": "tv",
-    "season": 2,
-    "episode_offset": 0
-  }
+  ]
 }

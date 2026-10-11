@@ -1,0 +1,63 @@
+{
+  "turkanime": {
+    "isim": "Kyoufu Collector",
+    "slug": "kyoufu-collector"
+  },
+  "jikan": {
+    "mal_id": 63053,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1751/160122.jpg",
+    "trailer_id": "1igV7pmH8fA",
+    "title": "Kyoufu Collector",
+    "title_english": "Horror Collector",
+    "type": "TV",
+    "source": "Novel",
+    "status": "Currently Airing",
+    "episodes": 12,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-10T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "25 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.08,
+    "popularity": 9768,
+    "synopsis": "The internet is full of creepypastas, cryptid sightings, tales of paranormal activity, and unsolved disappearances. These are mostly rumors and pranks fueled by trolls—entertainment. But the unlucky few learn the hard way that some legends are true. Many of these unfortunate souls are doomed, but their luck may change if they cross paths with the boy in the red hood. He roams from town to town and appears wherever strange things occur. Is he a light in the dark? Or living proof that monsters are all too real...?(Source: Yen Press)",
+    "genres": [
+      14,
+      7,
+      37
+    ],
+    "themes": [],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      2201
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          159623,
+          159624
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 203473,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203473-KCGlCZL2ApjB.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg"
+  },
+  "tmdb": {
+    "id": 307903,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "İnternet sürüngenler, esrarengiz görüntüler, paranormal olaylar ve çözülmemiş kayıplarla dolu. Bunlar çoğunlukla troller tarafından körüklenen eğlence amaçlı söylentiler ve şakalardır. Ancak şanssız birkaç kişi bazı efsanelerin doğru olduğunu zor yoldan öğreniyor. Bu talihsiz ruhların çoğu ölüme mahkumdur ancak kırmızı başlıklı çocukla yolları kesişirse şansları değişebilir. Kasabadan kasabaya dolaşıyor ve tuhaf olayların olduğu her yerde ortaya çıkıyor. O karanlıkta bir ışık mı? Veya canavarların fazlasıyla gerçek olduğunun canlı kanıtı...?(Kaynak: Yen Press)",
+  "episodes": []
+}

@@ -1,0 +1,67 @@
+{
+  "turkanime": {
+    "isim": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+    "slug": "yozakura-san-chi-no-daisakusen-2nd-season-part-2"
+  },
+  "jikan": {
+    "mal_id": 64503,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1807/160135.jpg",
+    "trailer_id": "059cJjeY19Y",
+    "title": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+    "title_english": "Mission: Yozakura Family Season 2 Part 2",
+    "type": "TV",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-11T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "Unknown",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "popularity": 6000,
+    "synopsis": "Part two ofYozakura-san Chi no Daisakusen 2nd Season.",
+    "genres": [
+      1,
+      4
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      300
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entries": [
+          60055
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entries": [
+          121426
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 213657,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213657-ORNXVEBCjXaz.jpg"
+  },
+  "tmdb": {
+    "id": 216467,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 12
+  },
+  "synopsis_tr": "Yozakura-san Chi no Daisakusen 2. Sezonun ikinci bölümü.",
+  "episodes": []
+}

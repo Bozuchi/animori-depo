@@ -24,8 +24,8 @@
     },
     "duration": "21 min. per ep.",
     "rating": "R - 17+ (violence & profanity)",
-    "score": 8.5,
-    "popularity": 4171,
+    "score": 8.51,
+    "popularity": 4138,
     "synopsis": "After the Li Tianchen incident came to a close, Time Photo Studio returned to a superficial peace. However, the news of Xia Fei's disappearance once again drew everyone into a crossroads of fate. With Vein's return and Qiao Ling's awakening of her superpowers, Cheng Xiaoshi and Lu Guang gradually uncover the secrets of the Bahati fire case, and Cheng Xiaoshi's father, Cheng Weimin, and mother, Shao Yuanyuan, also seem to have intricate connections to it. As the investigation deepens, Liu Xiao from a mysterious organization begins his operation, and the intervention of Yingdu police officer Jae further complicates this pursuit of the truth...(Source: Bilibili, translated)",
     "genres": [
       8,
@@ -55,6 +55,12 @@
     "id": 191832,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191832-cBWXNPNVhA1s.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191832-bsnCaLNVjzEw.png"
+  },
+  "tmdb": {
+    "id": 123542,
+    "type": "tv",
+    "season": 4,
+    "episode_offset": 0
   },
   "synopsis_tr": "Li Tianchen olayı sona erdikten sonra Time Photo Studio yüzeysel bir barışa geri döndü. Ancak Xia Fei'nin ortadan kaybolduğu haberi herkesi bir kez daha kaderinin yol ayrımına sürükledi. Vein'in dönüşü ve Qiao Ling'in süper güçlerinin uyanmasıyla birlikte Cheng Xiaoshi ve Lu Guang, Bahati yangın vakasının sırlarını yavaş yavaş ortaya çıkarırlar ve Cheng Xiaoshi'nin babası Cheng Weimin ve annesi Shao Yuanyuan'ın da bu olayla karmaşık bağlantıları var gibi görünüyor. Soruşturma derinleştikçe gizemli bir örgütten Liu Xiao operasyona başlar ve Yingdu polis memuru Jae'nin müdahalesi gerçeğin peşindeki bu arayışı daha da karmaşık hale getirir...(Kaynak: Bilibili, çevrildi)",
   "episodes": [
@@ -178,11 +184,5 @@
       "filler": null,
       "recap": null
     }
-  ],
-  "tmdb": {
-    "id": 123542,
-    "type": "tv",
-    "season": 4,
-    "episode_offset": 0
-  }
+  ]
 }

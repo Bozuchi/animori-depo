@@ -22,8 +22,8 @@
     },
     "duration": "1 min.",
     "rating": "PG - Children",
-    "score": 6.54,
-    "popularity": 10916,
+    "score": 6.55,
+    "popularity": 10880,
     "synopsis": "Experience the stress-free world of Rilakkuma, the relaxed bear who makes being lazy look effortless!(Source: Crunchyroll)",
     "genres": [
       36
@@ -50,6 +50,12 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
   },
+  "tmdb": {
+    "id": 299144,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Tembel olmayı zahmetsiz gösteren rahat ayı Rilakkuma'nın stressiz dünyasını deneyimleyin!(Kaynak: Crunchyroll)",
   "episodes": [
     {
@@ -62,11 +68,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:10:31.999173"
     }
-  ],
-  "tmdb": {
-    "id": 299144,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0
-  }
+  ]
 }

@@ -121868,8 +121868,8 @@
     "episodes": 208,
     "year": 2023,
     "season": "spring",
-    "score": 7.74,
-    "popularity": 10088,
+    "score": 7.73,
+    "popularity": 10091,
     "genres": [
       1,
       2,
@@ -124628,8 +124628,8 @@
     "episodes": 13,
     "year": 2026,
     "season": "fall",
-    "score": 7.13,
-    "popularity": 3251,
+    "score": 7.14,
+    "popularity": 3241,
     "genres": [
       4,
       7,
@@ -128275,8 +128275,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.55,
-    "popularity": 2333,
+    "score": 7.56,
+    "popularity": 2310,
     "genres": [
       1,
       2,
@@ -128825,8 +128825,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.51,
-    "popularity": 6662,
+    "score": 6.52,
+    "popularity": 6628,
     "genres": [
       1,
       41
@@ -130817,8 +130817,8 @@
     "episodes": 20,
     "year": 2011,
     "season": "summer",
-    "score": 7.64,
-    "popularity": 6914,
+    "score": 7.65,
+    "popularity": 6913,
     "genres": [
       10
     ],
@@ -133156,8 +133156,8 @@
     "episodes": 13,
     "year": 2026,
     "season": "fall",
-    "score": 6.92,
-    "popularity": 5248,
+    "score": 6.9,
+    "popularity": 5122,
     "genres": [
       2,
       4,
@@ -133313,8 +133313,8 @@
     "episodes": 2,
     "year": 2024,
     "season": "winter",
-    "score": 6.34,
-    "popularity": 9393,
+    "score": 6.33,
+    "popularity": 9396,
     "genres": [
       12
     ],
@@ -135000,8 +135000,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 7.12,
-    "popularity": 3554,
+    "score": 7.13,
+    "popularity": 3542,
     "genres": [
       1,
       10
@@ -136904,8 +136904,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.24,
-    "popularity": 4792,
+    "score": 7.25,
+    "popularity": 4765,
     "genres": [
       2,
       4,
@@ -139039,8 +139039,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 7.3,
-    "popularity": 5808,
+    "score": 7.29,
+    "popularity": 5761,
     "genres": [
       2,
       10
@@ -140861,8 +140861,8 @@
     "episodes": 24,
     "year": 2026,
     "season": "fall",
-    "score": 7.24,
-    "popularity": 5867,
+    "score": 7.27,
+    "popularity": 5361,
     "genres": [
       1,
       10
@@ -142180,8 +142180,8 @@
     "episodes": 26,
     "year": 2026,
     "season": "spring",
-    "score": 6.54,
-    "popularity": 10916,
+    "score": 6.55,
+    "popularity": 10880,
     "genres": [
       36
     ],
@@ -143443,7 +143443,7 @@
     "episodes": 64,
     "year": 2025,
     "season": "spring",
-    "score": 7.61,
+    "score": 7.6,
     "popularity": 8396,
     "genres": [
       36
@@ -143790,8 +143790,8 @@
     "episodes": 16,
     "year": 2026,
     "season": "fall",
-    "score": null,
-    "popularity": 9038,
+    "score": 7.13,
+    "popularity": 8847,
     "genres": [
       1,
       2,
@@ -144454,8 +144454,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.92,
-    "popularity": 5164,
+    "score": 6.91,
+    "popularity": 5073,
     "genres": [
       1,
       24
@@ -144703,8 +144703,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 7.41,
-    "popularity": 5699,
+    "score": 7.46,
+    "popularity": 5535,
     "genres": [
       1,
       10,
@@ -144997,8 +144997,8 @@
     "episodes": 23,
     "year": 2026,
     "season": "fall",
-    "score": 6.77,
-    "popularity": 7466,
+    "score": 6.79,
+    "popularity": 7417,
     "genres": [
       1,
       2,
@@ -145104,8 +145104,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.88,
-    "popularity": 5129,
+    "score": 6.94,
+    "popularity": 5050,
     "genres": [
       1,
       2,
@@ -145418,6 +145418,34 @@
     "demographics": [],
     "studios": [
       28
+    ]
+  },
+  {
+    "mal_id": 61227,
+    "anilist_id": 188034,
+    "title": "Girls & Panzer: Motto Love Love Sakusen desu!",
+    "title_english": null,
+    "slug": "girls-panzer-motto-love-love-sakusen-desu",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-oRwVKBMezOOk.jpg",
+    "type": "Movie",
+    "status": "Finished Airing",
+    "episodes": 12,
+    "year": 2025,
+    "season": "fall",
+    "score": 7.55,
+    "popularity": 9990,
+    "genres": [
+      4
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      60,
+      132
     ]
   },
   {
@@ -146199,7 +146227,7 @@
     "year": 2026,
     "season": "fall",
     "score": 7.64,
-    "popularity": 3665,
+    "popularity": 3594,
     "genres": [
       4,
       9
@@ -146302,8 +146330,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "summer",
-    "score": 8.5,
-    "popularity": 4171,
+    "score": 8.51,
+    "popularity": 4138,
     "genres": [
       8,
       7,
@@ -147362,8 +147390,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 8.66,
-    "popularity": 1490,
+    "score": 8.67,
+    "popularity": 1468,
     "genres": [
       8,
       7
@@ -147389,8 +147417,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": null,
-    "popularity": 6304,
+    "score": 6.97,
+    "popularity": 5985,
     "genres": [
       1,
       10
@@ -148391,8 +148419,8 @@
     "episodes": 6,
     "year": 2025,
     "season": "summer",
-    "score": 7.53,
-    "popularity": 10185,
+    "score": 7.54,
+    "popularity": 10188,
     "genres": [
       12
     ],
@@ -149096,8 +149124,8 @@
     "episodes": 13,
     "year": 2026,
     "season": "fall",
-    "score": 6.89,
-    "popularity": 8605,
+    "score": 6.92,
+    "popularity": 8572,
     "genres": [
       1,
       8
@@ -149208,8 +149236,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.63,
-    "popularity": 8735,
+    "score": 6.65,
+    "popularity": 8602,
     "genres": [
       36
     ],
@@ -149359,8 +149387,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 6.82,
-    "popularity": 7871,
+    "score": 6.83,
+    "popularity": 7778,
     "genres": [
       4
     ],
@@ -149415,8 +149443,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.06,
-    "popularity": 5872,
+    "score": 7.07,
+    "popularity": 5733,
     "genres": [
       22
     ],
@@ -149840,8 +149868,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.36,
-    "popularity": 5845,
+    "score": 6.31,
+    "popularity": 5496,
     "genres": [
       1,
       10
@@ -150302,6 +150330,33 @@
     ]
   },
   {
+    "mal_id": 63053,
+    "anilist_id": 203473,
+    "title": "Kyoufu Collector",
+    "title_english": "Horror Collector",
+    "slug": "kyoufu-collector",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg",
+    "type": "TV",
+    "status": "Currently Airing",
+    "episodes": 12,
+    "year": 2026,
+    "season": "fall",
+    "score": 6.08,
+    "popularity": 9768,
+    "genres": [
+      14,
+      7,
+      37
+    ],
+    "themes": [],
+    "demographics": [
+      15
+    ],
+    "studios": [
+      2201
+    ]
+  },
+  {
     "mal_id": 63061,
     "anilist_id": 203490,
     "title": "Uchi no Otouto-domo ga Sumimasen",
@@ -150390,8 +150445,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.08,
-    "popularity": 5040,
+    "score": 7.1,
+    "popularity": 5001,
     "genres": [
       1,
       22,
@@ -150450,7 +150505,7 @@
     "year": 2026,
     "season": "fall",
     "score": 7.55,
-    "popularity": 4591,
+    "popularity": 4451,
     "genres": [
       1,
       2,
@@ -150504,8 +150559,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.5,
-    "popularity": 10202,
+    "score": 6.46,
+    "popularity": 10147,
     "genres": [
       4,
       24
@@ -150620,8 +150675,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.88,
-    "popularity": 3662,
+    "score": 7.92,
+    "popularity": 3485,
     "genres": [
       22
     ],
@@ -150801,8 +150856,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.24,
-    "popularity": 5186,
+    "score": 7.22,
+    "popularity": 5141,
     "genres": [],
     "themes": [
       50,
@@ -150962,8 +151017,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 5.61,
-    "popularity": 9924,
+    "score": 5.58,
+    "popularity": 9873,
     "genres": [
       49
     ],
@@ -150985,8 +151040,8 @@
     "episodes": 25,
     "year": 2026,
     "season": "fall",
-    "score": 7.56,
-    "popularity": 4942,
+    "score": 7.57,
+    "popularity": 4867,
     "genres": [
       10
     ],
@@ -151172,8 +151227,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 7.48,
-    "popularity": 4818,
+    "score": 7.49,
+    "popularity": 4716,
     "genres": [
       1,
       4,
@@ -151333,8 +151388,8 @@
     "episodes": 24,
     "year": 2026,
     "season": "summer",
-    "score": 5.67,
-    "popularity": 5634,
+    "score": 5.66,
+    "popularity": 5626,
     "genres": [
       1,
       2,
@@ -151600,8 +151655,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.85,
-    "popularity": 5819,
+    "score": 6.86,
+    "popularity": 5743,
     "genres": [
       10
     ],
@@ -151657,8 +151712,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.42,
-    "popularity": 7047,
+    "score": 6.4,
+    "popularity": 6999,
     "genres": [
       1
     ],
@@ -151710,8 +151765,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.42,
-    "popularity": 7868,
+    "score": 6.43,
+    "popularity": 7813,
     "genres": [
       2,
       10,
@@ -151739,8 +151794,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 6.94,
-    "popularity": 5365,
+    "score": 6.93,
+    "popularity": 5170,
     "genres": [
       4,
       22
@@ -151763,8 +151818,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.06,
-    "popularity": 8762,
+    "score": 5.98,
+    "popularity": 8680,
     "genres": [
       1,
       24
@@ -152187,8 +152242,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 6.79,
-    "popularity": 6188,
+    "score": 6.82,
+    "popularity": 6090,
     "genres": [
       2,
       4,
@@ -152242,8 +152297,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 5.81,
-    "popularity": 8321,
+    "score": 5.83,
+    "popularity": 8265,
     "genres": [
       8,
       49
@@ -152266,8 +152321,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.52,
-    "popularity": 9404,
+    "score": 6.53,
+    "popularity": 9370,
     "genres": [
       10,
       22
@@ -152373,8 +152428,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.53,
-    "popularity": 9186,
+    "score": 6.52,
+    "popularity": 9156,
     "genres": [
       10,
       12
@@ -152399,8 +152454,8 @@
     "episodes": 20,
     "year": 2026,
     "season": "fall",
-    "score": 6.35,
-    "popularity": 7995,
+    "score": 6.37,
+    "popularity": 7918,
     "genres": [
       4
     ],
@@ -152452,8 +152507,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 5.63,
-    "popularity": 10914,
+    "score": 5.62,
+    "popularity": 10788,
     "genres": [],
     "themes": [
       18
@@ -152627,6 +152682,60 @@
     ]
   },
   {
+    "mal_id": 64503,
+    "anilist_id": 213657,
+    "title": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+    "title_english": "Mission: Yozakura Family Season 2 Part 2",
+    "slug": "yozakura-san-chi-no-daisakusen-2nd-season-part-2",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213657-ORNXVEBCjXaz.jpg",
+    "type": "TV",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "score": null,
+    "popularity": 6000,
+    "genres": [
+      1,
+      4
+    ],
+    "themes": [],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      300
+    ]
+  },
+  {
+    "mal_id": 64505,
+    "anilist_id": 213658,
+    "title": "Diamond no Ace: Act II Second Season Part 2",
+    "title_english": "Ace of Diamond Act II Season 2 Part 2",
+    "slug": "diamond-no-ace-act-ii-second-season-part-2",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-D3BPJaqawLxS.png",
+    "type": "TV",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "score": null,
+    "popularity": 8127,
+    "genres": [
+      30
+    ],
+    "themes": [
+      23,
+      77
+    ],
+    "demographics": [
+      27
+    ],
+    "studios": [
+      28
+    ]
+  },
+  {
     "mal_id": 64534,
     "anilist_id": 213805,
     "title": "Koori no Jouheki 2nd Season",
@@ -152792,8 +152901,8 @@
     "episodes": 26,
     "year": 2026,
     "season": "summer",
-    "score": 6.83,
-    "popularity": 10726,
+    "score": 6.85,
+    "popularity": 10714,
     "genres": [
       4
     ],
@@ -152901,8 +153010,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.41,
-    "popularity": 12346,
+    "score": 6.42,
+    "popularity": 12071,
     "genres": [
       10
     ],

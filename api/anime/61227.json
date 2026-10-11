@@ -1,0 +1,75 @@
+{
+  "turkanime": {
+    "isim": "Girls & Panzer: Motto Love Love Sakusen desu!",
+    "slug": "girls-panzer-motto-love-love-sakusen-desu"
+  },
+  "jikan": {
+    "mal_id": 61227,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1832/153628.jpg",
+    "trailer_id": "oR5VPr8kGYY",
+    "title": "Girls & Panzer: Motto Love Love Sakusen desu!",
+    "title_english": null,
+    "type": "Movie",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "episodes": 12,
+    "year": 2025,
+    "season": "fall",
+    "airing": false,
+    "aired": {
+      "from": "2025-12-26T00:00:00+00:00",
+      "to": "2026-04-10T00:00:00+00:00"
+    },
+    "duration": "24 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.55,
+    "popularity": 9990,
+    "synopsis": "Girls & Panzer: Motto Love Love Sakusen desu!takes a deep dive into the unseen daily lives of the passionate students dedicated to sensha-dou (tankery life). From the girls of Ooarai to their rivals and allies, this series explores their friendships, school interactions, and unexpected moments beyond the battlefield—all with plenty of humor and heart!(Source: MAL News)",
+    "genres": [
+      4
+    ],
+    "themes": [
+      23
+    ],
+    "demographics": [
+      42
+    ],
+    "studios": [
+      60,
+      132
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          57187
+        ]
+      },
+      {
+        "relation": "Side Story",
+        "entries": [
+          63598
+        ]
+      },
+      {
+        "relation": "Parent Story",
+        "entries": [
+          14131
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 188034,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-oRwVKBMezOOk.jpg"
+  },
+  "tmdb": {
+    "id": 1591447,
+    "type": "movie",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Girls & Panzer: Motto Love Love Sakusen desu!, sensha-dou'ya (tankçılık hayatı) adanmış tutkulu öğrencilerin görünmeyen günlük yaşamlarına derinlemesine bir dalış yapıyor. Ooarai'li kızlardan rakiplerine ve müttefiklerine kadar bu dizi, onların arkadaşlıklarını, okul etkileşimlerini ve savaş alanının ötesindeki beklenmedik anları, bol mizah ve içtenlikle keşfediyor!(Kaynak: MAL Haberleri)",
+  "episodes": []
+}
