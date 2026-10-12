@@ -22,8 +22,8 @@
     },
     "duration": "23 min.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 7.43,
-    "popularity": 3650,
+    "score": 7.42,
+    "popularity": 3595,
     "synopsis": "Third season ofTensei Kizoku, Kantei Skill de Nariagaru.",
     "genres": [
       2,
@@ -64,5 +64,16 @@
     "episode_offset": 24
   },
   "synopsis_tr": "Tensei Kizoku'nun üçüncü sezonu, Kantei Skill de Nariagaru.",
-  "episodes": []
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Headman",
+      "episode_number": 1,
+      "aired": "Sep 28, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-12T10:37:57.586180"
+    }
+  ]
 }

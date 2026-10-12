@@ -23,7 +23,7 @@
     "duration": "23 min.",
     "rating": "None",
     "score": 6.82,
-    "popularity": 6090,
+    "popularity": 6028,
     "synopsis": "When Lorna manifests a completely useless ability, she's labeled an embarrassment to her family and kicked out of the house. With no money or food, she's about to hit rock bottom. But then, she figures out how to use her supposedly worthless SSS-Rank skill, \"Internet.\" This cheat-level talent gives her the know-how to gather an unlimited amount of valuable items and easily acquire rare equipment. Armed with godlike knowledge, Lorna's free to do anything she wants! If only she could figure out what \"lmfao\" means...(Source: Yen Press)",
     "genres": [
       2,
@@ -58,5 +58,16 @@
     "episode_offset": 0
   },
   "synopsis_tr": "Lorna tamamen işe yaramaz bir yetenek sergilediğinde ailesini utandırır ve evden atılır. Parası ya da yiyeceği olmadığı için dibe vurmak üzere. Ama sonra, sözde değersiz SSS Sıralaması becerisi \"İnternet\"i nasıl kullanacağını buluyor. Bu hile düzeyindeki yetenek, ona sınırsız miktarda değerli eşya toplama ve nadir ekipmanları kolayca edinme becerisini verir. Tanrısal bilgiyle donanmış olan Lorna, istediği her şeyi yapmakta özgür! Keşke \"lmfao\"nun ne anlama geldiğini anlayabilseydi...(Kaynak: Yen Press)",
-  "episodes": []
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "I Tried Using the Internet!",
+      "episode_number": 1,
+      "aired": "Oct 7, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-12T10:40:34.686015"
+    }
+  ]
 }

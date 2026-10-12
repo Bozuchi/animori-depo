@@ -23,7 +23,7 @@
     "duration": "23 min. per ep.",
     "rating": "None",
     "score": 6.65,
-    "popularity": 8602,
+    "popularity": 8512,
     "synopsis": "Misaki, a university student, feeling the weight of everyday life and uncertain about her future, she longs for adventure and something she can be truly passionate about.At the start of the new day on campus, members of the Travel Train Club (commonly known as the Tetsuryo Club) invite Misaki to join them, as she steps into the world of railways, Misaki's heart beats with excitement for the journey that awaits her.(Source: MAL News)",
     "genres": [
       36
@@ -50,5 +50,16 @@
     "episode_offset": 0
   },
   "synopsis_tr": "Günlük hayatın ağırlığını hisseden ve geleceğinden emin olmayan bir üniversite öğrencisi olan Misaki, maceraya ve gerçekten tutkulu olabileceği bir şeye özlem duymaktadır. Kampüsteki yeni günün başlangıcında, Travel Train Club (genelde Tetsuryo Club olarak da bilinir) üyeleri Misaki'yi kendilerine katılmaya davet eder. Misaki demiryolları dünyasına adım atarken, Misaki'nin kalbi onu bekleyen yolculuğun heyecanıyla atar.(Kaynak: MAL Haber)",
-  "episodes": []
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Where Should I Go?",
+      "episode_number": 1,
+      "aired": "Oct 9, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-12T10:39:33.556436"
+    }
+  ]
 }

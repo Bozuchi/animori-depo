@@ -25,7 +25,7 @@
     "duration": "Unknown",
     "rating": "PG-13 - Teens 13 or older",
     "score": null,
-    "popularity": 5127,
+    "popularity": 5086,
     "synopsis": "Second part of Chitose-kun wa Ramune Bin no Naka.",
     "genres": [
       4,
@@ -66,5 +66,16 @@
     "episode_offset": 13
   },
   "synopsis_tr": "Chitose-kun wa Ramune Bin no Naka'nın ikinci kısmı.",
-  "episodes": []
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Runaway Senpai and You",
+      "episode_number": 1,
+      "aired": "Oct 13, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-12T10:39:29.320724"
+    }
+  ]
 }

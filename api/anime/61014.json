@@ -22,8 +22,8 @@
     },
     "duration": "23 min.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 7.46,
-    "popularity": 5535,
+    "score": 7.47,
+    "popularity": 5433,
     "synopsis": "In Academy City, where supernatural abilities are part of everyday science, the city's peace is upheld by an unseen force—the dark side. Among the covert operatives is ITEM, a four-member elite unit. With Rikou Takitsubo's tracking abilities, Frenda Seivelun's explosive expertise, Saiai Kinuhata's impenetrable defense, and Shizuri Mugino's overwhelming power as one of Academy City's seven Level 5 espers, they navigate the city's underbelly, taking on secret missions that never make the headlines.As their latest assignment unfolds, the team moves with precision, unaware that their actions are setting the stage for a tragedy that will test their bonds of trust, friendship, and survival in the unforgiving darkness of Academy City.(Source: MAL News)",
     "genres": [
       1,
@@ -66,5 +66,16 @@
     "episode_offset": 0
   },
   "synopsis_tr": "Doğaüstü yeteneklerin günlük bilimin bir parçası olduğu Akademi Şehri'nde şehrin huzuru, görünmeyen bir güç olan karanlık taraf tarafından desteklenmektedir. Gizli ajanlar arasında dört üyeli elit bir birim olan ITEM de var. Rikou Takitsubo'nun takip yetenekleri, Frenda Seivelun'un patlayıcı uzmanlığı, Saiai Kinuhata'nın aşılmaz savunması ve Academy City'nin yedi Seviye 5 esper'ından biri olan Shizuri Mugino'nun ezici gücüyle, asla manşetlere çıkmayan gizli görevleri üstlenerek şehrin alt kısmında geziniyorlar. Son görevleri ortaya çıktıkça ekip, yaptıklarının bağlarını test edecek bir trajediye zemin hazırladığının farkında olmadan hassas bir şekilde hareket ediyor. Akademi Şehri'nin affetmez karanlığında güven, dostluk ve hayatta kalma mücadelesi.(Kaynak: MAL Haberleri)",
-  "episodes": []
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Item",
+      "episode_number": 1,
+      "aired": "Oct 9, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-12T10:38:06.181511"
+    }
+  ]
 }

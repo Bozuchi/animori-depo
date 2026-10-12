@@ -1,0 +1,73 @@
+{
+  "turkanime": {
+    "isim": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+    "slug": "shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku"
+  },
+  "jikan": {
+    "mal_id": 63292,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1016/159863.jpg",
+    "trailer_id": "qlMB8vSpLzc",
+    "title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+    "title_english": "Full Clearing Another World under a Goddess with Zero Believers",
+    "type": "TV",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-10-11T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "23 min.",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.57,
+    "popularity": 6234,
+    "synopsis": "High school student and video game-lover Makoto Takatsuki dies in an accident and awakens in another world beside his classmates. However, he gains no cheat-like abilities, so he decides to become a \"Magic Apprentice.\"Then Noa, a minor goddess, appears before him. After she pleads and begs him, he decides to become her first believer. The weakest boy in the class becomes the strongest alongside the minor goddess in this another world fantasy!(Source: Overlap, translated)",
+    "genres": [
+      10,
+      22
+    ],
+    "themes": [
+      62
+    ],
+    "demographics": [],
+    "studios": [
+      2097
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          130508,
+          127502
+        ]
+      }
+    ]
+  },
+  "anilist": {
+    "id": 205896,
+    "banner_image": null,
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg"
+  },
+  "tmdb": {
+    "id": 288588,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0
+  },
+  "synopsis_tr": "Lise öğrencisi ve video oyunu aşığı Makoto Takatsuki bir kazada ölür ve sınıf arkadaşlarının yanında başka bir dünyada uyanır. Ancak hileye benzer yetenekler kazanmadığından \"Sihirli Çırak\" olmaya karar verir. Daha sonra küçük bir tanrıça olan Noa karşısına çıkar. Ona yalvarıp yalvardıktan sonra, onun ilk inananı olmaya karar verir. Bu başka dünya fantezisinde sınıfın en zayıf çocuğu, küçük tanrıçanın yanında en güçlüsü oluyor!(Kaynak: Overlap, tercüme)",
+  "episodes": [
+    {
+      "turkanime_title": "1. Bölüm",
+      "title": "Makoto Takatsuki Becomes a Believer",
+      "episode_number": 1,
+      "aired": "Oct 11, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-12T10:41:03.459588"
+    }
+  ]
+}
