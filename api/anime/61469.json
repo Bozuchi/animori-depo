@@ -25,7 +25,7 @@
     "duration": "47 min.",
     "rating": "R - 17+ (violence & profanity)",
     "score": 9.05,
-    "popularity": 1200,
+    "popularity": 1184,
     "synopsis": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.The youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.[Written by MAL Rewrite]",
     "genres": [
       1,
@@ -64,6 +64,12 @@
     "id": 190327,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190327-bXr8tFZUdxOw.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190327-riJNCFL7w9y4.jpg"
+  },
+  "tmdb": {
+    "id": 45790,
+    "type": "tv",
+    "season": 6,
+    "episode_offset": 0
   },
   "synopsis_tr": "Amerika'nın Eski Batı'sında dünyanın en büyük yarışı başlamak üzere. Binlerce kişi, elli milyon dolarlık büyük ödülü kazanma şansı yakalamak için altı bin kilometreden fazla yol kat etmek üzere San Diego'da sıraya giriyor. At döneminin sona ermesiyle birlikte yarışmacılara diledikleri her türlü aracı kullanma hakkı tanınıyor. Yarışmacılar, keşfedilmemiş çorak arazilerde günde yüz kilometreye kadar yolculuk yaparak zorlu koşullara katlanmak zorunda kalacaklar. Steel Ball Run gerçekten türünün tek örneği olan bir etkinliktir. Eski bir at yarışçısı olan sakat Johnny Joestar, yarışın başlangıcını izlemek için San Diego'ya geldi. Orada belinde silah yerine iki çelik top bulunan yarışçı Gyro Zeppeli ile karşılaşır. Johnny, Gyro'nun çelik toplarından birini kullanarak fantastik bir gücü açığa çıkardığına ve bir adamı düello sırasında silahını kendine ateşlemeye zorladığına tanık olur. Aksiyonun ortasında Johnny çelik topa dokunur ve iki yıldır ilk kez ayağa kalkmasına olanak tanıyan bir gücün bacaklarından geçtiğini hisseder. Çelik topların sırrını bulmaya yemin eden Johnny, yarışta yarışmaya karar verir ve böylece Çelik Top Koşusu ile Amerika'yı dolaşan tuhaf macerasına başlar.[MAL Rewrite tarafından yazılmıştır]",
   "episodes": [
@@ -104,12 +110,16 @@
       "recap": false,
       "videos": [],
       "added_date": "2026-10-06T15:05:51.889030"
+    },
+    {
+      "turkanime_title": "4. Bölüm",
+      "title": "The Devil's Palm",
+      "episode_number": 4,
+      "aired": "Oct 9, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-13T10:26:29.627567"
     }
-  ],
-  "tmdb": {
-    "id": 45790,
-    "type": "tv",
-    "season": 6,
-    "episode_offset": 0
-  }
+  ]
 }
