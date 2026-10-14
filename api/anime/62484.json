@@ -14,18 +14,18 @@
     "title_english": "Chitose Is in the Ramune Bottle Part 2",
     "type": "TV",
     "source": "Light novel",
-    "status": "Not yet aired",
+    "status": "Currently Airing",
     "year": 2026,
     "season": "winter",
-    "airing": false,
+    "airing": true,
     "aired": {
       "from": "2026-01-01T00:00:00+00:00",
       "to": null
     },
     "duration": "Unknown",
     "rating": "PG-13 - Teens 13 or older",
-    "score": null,
-    "popularity": 5086,
+    "score": 7.52,
+    "popularity": 4996,
     "synopsis": "Second part of Chitose-kun wa Ramune Bin no Naka.",
     "genres": [
       4,
@@ -52,7 +52,7 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 11
   },
   "anilist": {
     "id": 198727,
@@ -76,6 +76,16 @@
       "recap": false,
       "videos": [],
       "added_date": "2026-10-12T10:39:29.320724"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "A Distant Indigo Night, Remembered",
+      "episode_number": 2,
+      "aired": "Oct 20, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-14T08:38:57.653296"
     }
   ]
 }

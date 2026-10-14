@@ -23,7 +23,7 @@
     "duration": "23 min. per ep.",
     "rating": "R - 17+ (violence & profanity)",
     "score": 7.31,
-    "popularity": 4693,
+    "popularity": 4673,
     "synopsis": "Sequel ofTougen Anki.",
     "genres": [
       1,
@@ -64,6 +64,12 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png"
   },
+  "tmdb": {
+    "id": 253811,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 0
+  },
   "synopsis_tr": "Tougen Anki'nin devamı.",
   "episodes": [
     {
@@ -75,6 +81,16 @@
       "recap": false,
       "videos": [],
       "added_date": "2026-10-06T15:07:56.048852"
+    },
+    {
+      "turkanime_title": "2. Bölüm",
+      "title": "The Path to Growing Strong",
+      "episode_number": 2,
+      "aired": "Oct 9, 2026",
+      "filler": false,
+      "recap": false,
+      "videos": [],
+      "added_date": "2026-10-14T08:39:25.217799"
     }
   ]
 }
