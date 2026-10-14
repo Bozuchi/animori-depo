@@ -286,6 +286,13 @@ class StorageManager:
         if not existing:
             return False
 
+        # Mevcut başlık adı (varsa) korunur: yeni eşleşmede ad üretilememişse
+        # var olan isim silinmez (AnimeciX kataloğundan gelen isimler de korunur).
+        if isinstance(tmdb_info, dict) and not tmdb_info.get("name"):
+            old_tmdb = existing.get("tmdb")
+            if isinstance(old_tmdb, dict) and old_tmdb.get("name"):
+                tmdb_info = {**tmdb_info, "name": old_tmdb["name"]}
+
         if existing.get("tmdb") == tmdb_info:
             return True  # Zaten güncel, disk yazımı gereksiz
 

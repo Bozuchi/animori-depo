@@ -75,6 +75,9 @@ jobs:
           python main.py $ARGS
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          # tmdb.name alanlarının TMDB API'den doldurulması için gerekli
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKEN }}
 
       - name: 📤 Commit & Push Changes
         if: always() && steps.run_update.outcome != 'skipped'

@@ -7,6 +7,11 @@ __pycache__/
 *.log
 errors.log
 
+# Ortam değişkenleri (API anahtarları)
+.env
+.env.*
+!.env.example
+
 # Legacy scripts
 legacy/
 
@@ -14,6 +19,9 @@ legacy/
 data/*
 !data/fribb_state.json
 !data/anime-list-mini.json
+
+# Test / doğrulama raporları
+reports/
 
 # Virtual Environments
 .venv/
