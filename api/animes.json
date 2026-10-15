@@ -123307,8 +123307,8 @@
     "episodes": 182,
     "year": 2023,
     "season": "spring",
-    "score": 8.03,
-    "popularity": 8268,
+    "score": 8.02,
+    "popularity": 8270,
     "genres": [
       1,
       2,
@@ -124628,8 +124628,8 @@
     "episodes": 13,
     "year": 2026,
     "season": "fall",
-    "score": 7.15,
-    "popularity": 3227,
+    "score": 7.14,
+    "popularity": 3206,
     "genres": [
       4,
       7,
@@ -127996,7 +127996,7 @@
     "year": 2023,
     "season": "spring",
     "score": 7.39,
-    "popularity": 4008,
+    "popularity": 4011,
     "genres": [
       1,
       2,
@@ -128275,8 +128275,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.55,
-    "popularity": 2289,
+    "score": 7.56,
+    "popularity": 2285,
     "genres": [
       1,
       2,
@@ -128825,8 +128825,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.68,
-    "popularity": 6591,
+    "score": 6.69,
+    "popularity": 6561,
     "genres": [
       1,
       41
@@ -133156,8 +133156,8 @@
     "episodes": 13,
     "year": 2026,
     "season": "fall",
-    "score": 6.9,
-    "popularity": 4999,
+    "score": 6.89,
+    "popularity": 4944,
     "genres": [
       2,
       4,
@@ -138371,8 +138371,8 @@
     "episodes": 13,
     "year": 2026,
     "season": "fall",
-    "score": 7.78,
-    "popularity": 2880,
+    "score": 7.79,
+    "popularity": 2869,
     "genres": [
       1,
       8
@@ -139039,8 +139039,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 7.31,
-    "popularity": 5690,
+    "score": 7.32,
+    "popularity": 5642,
     "genres": [
       2,
       10
@@ -139628,6 +139628,30 @@
     ],
     "studios": [
       118
+    ]
+  },
+  {
+    "mal_id": 59415,
+    "anilist_id": 179876,
+    "title": "Dark Machine: The Animation",
+    "title_english": "Dark Machine: The Animation",
+    "slug": "dark-machine-the-animation",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179876-Wg62CAzp5WQ1.jpg",
+    "type": "TV",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "score": 6.07,
+    "popularity": 10114,
+    "genres": [],
+    "themes": [
+      18,
+      79
+    ],
+    "demographics": [],
+    "studios": [
+      2157
     ]
   },
   {
@@ -143444,7 +143468,7 @@
     "year": 2025,
     "season": "spring",
     "score": 7.6,
-    "popularity": 8397,
+    "popularity": 8398,
     "genres": [
       36
     ],
@@ -143790,8 +143814,8 @@
     "episodes": 16,
     "year": 2026,
     "season": "fall",
-    "score": 7.21,
-    "popularity": 8792,
+    "score": 7.23,
+    "popularity": 8766,
     "genres": [
       1,
       2,
@@ -144451,11 +144475,11 @@
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
     "type": "TV",
     "status": "Currently Airing",
-    "episodes": 12,
+    "episodes": 13,
     "year": 2026,
     "season": "fall",
-    "score": 6.91,
-    "popularity": 4915,
+    "score": 6.9,
+    "popularity": 4835,
     "genres": [
       1,
       24
@@ -144997,8 +145021,8 @@
     "episodes": 23,
     "year": 2026,
     "season": "fall",
-    "score": 6.75,
-    "popularity": 7288,
+    "score": 6.76,
+    "popularity": 7256,
     "genres": [
       1,
       2,
@@ -145104,8 +145128,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.97,
-    "popularity": 4986,
+    "score": 6.98,
+    "popularity": 4937,
     "genres": [
       1,
       2,
@@ -146303,8 +146327,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 8.16,
-    "popularity": 3974,
+    "score": 8.17,
+    "popularity": 3902,
     "genres": [
       30
     ],
@@ -147280,8 +147304,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 8.81,
-    "popularity": 1874,
+    "score": 8.8,
+    "popularity": 1795,
     "genres": [
       1,
       10
@@ -148829,8 +148853,8 @@
     "episodes": 11,
     "year": 2026,
     "season": "winter",
-    "score": 7.52,
-    "popularity": 4996,
+    "score": 7.61,
+    "popularity": 4946,
     "genres": [
       4,
       22
@@ -149124,8 +149148,8 @@
     "episodes": 13,
     "year": 2026,
     "season": "fall",
-    "score": 6.98,
-    "popularity": 8530,
+    "score": 6.97,
+    "popularity": 8463,
     "genres": [
       1,
       8
@@ -149236,8 +149260,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.64,
-    "popularity": 8421,
+    "score": 6.63,
+    "popularity": 8391,
     "genres": [
       36
     ],
@@ -149387,8 +149411,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 6.82,
-    "popularity": 7569,
+    "score": 6.83,
+    "popularity": 7500,
     "genres": [
       4
     ],
@@ -149443,8 +149467,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.03,
-    "popularity": 5597,
+    "score": 7.04,
+    "popularity": 5549,
     "genres": [
       22
     ],
@@ -149817,8 +149841,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.58,
-    "popularity": 7615,
+    "score": 6.59,
+    "popularity": 7551,
     "genres": [
       4
     ],
@@ -150341,8 +150365,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 5.89,
-    "popularity": 9126,
+    "score": 5.85,
+    "popularity": 9050,
     "genres": [
       14,
       7,
@@ -150445,8 +150469,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.06,
-    "popularity": 4856,
+    "score": 7.08,
+    "popularity": 4828,
     "genres": [
       1,
       22,
@@ -150559,8 +150583,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.44,
-    "popularity": 10077,
+    "score": 6.43,
+    "popularity": 10047,
     "genres": [
       4,
       24
@@ -150676,7 +150700,7 @@
     "year": 2026,
     "season": "fall",
     "score": 6.63,
-    "popularity": 5994,
+    "popularity": 5803,
     "genres": [
       10,
       22
@@ -150701,8 +150725,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.92,
-    "popularity": 3234,
+    "score": 7.93,
+    "popularity": 3181,
     "genres": [
       22
     ],
@@ -150989,8 +151013,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 8.31,
-    "popularity": 4091,
+    "score": 8.32,
+    "popularity": 4048,
     "genres": [
       1,
       2,
@@ -151095,8 +151119,8 @@
     "episodes": 25,
     "year": 2026,
     "season": "fall",
-    "score": 7.57,
-    "popularity": 4678,
+    "score": 7.56,
+    "popularity": 4603,
     "genres": [
       10
     ],
@@ -151230,8 +151254,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.39,
-    "popularity": 4088,
+    "score": 7.4,
+    "popularity": 4044,
     "genres": [
       10,
       22
@@ -151282,8 +151306,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 7.5,
-    "popularity": 4394,
+    "score": 7.51,
+    "popularity": 4270,
     "genres": [
       1,
       4,
@@ -151444,7 +151468,7 @@
     "year": 2026,
     "season": "summer",
     "score": 5.66,
-    "popularity": 5626,
+    "popularity": 5609,
     "genres": [
       1,
       2,
@@ -151529,8 +151553,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.94,
-    "popularity": 6198,
+    "score": 6.93,
+    "popularity": 6172,
     "genres": [
       4,
       10,
@@ -151767,8 +151791,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.42,
-    "popularity": 6876,
+    "score": 6.41,
+    "popularity": 6816,
     "genres": [
       1
     ],
@@ -151820,8 +151844,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.48,
-    "popularity": 7638,
+    "score": 6.47,
+    "popularity": 7614,
     "genres": [
       2,
       10,
@@ -151849,8 +151873,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 6.93,
-    "popularity": 5022,
+    "score": 6.92,
+    "popularity": 4985,
     "genres": [
       4,
       22
@@ -151873,8 +151897,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 5.89,
-    "popularity": 8569,
+    "score": 5.87,
+    "popularity": 8537,
     "genres": [
       1,
       24
@@ -151955,8 +151979,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.89,
-    "popularity": 4407,
+    "score": 7.9,
+    "popularity": 4357,
     "genres": [
       1,
       4,
@@ -152297,8 +152321,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 6.81,
-    "popularity": 5969,
+    "score": 6.92,
+    "popularity": 5795,
     "genres": [
       2,
       4,
@@ -152352,8 +152376,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 5.73,
-    "popularity": 8022,
+    "score": 5.74,
+    "popularity": 7989,
     "genres": [
       8,
       49
@@ -152483,8 +152507,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 6.48,
-    "popularity": 9005,
+    "score": 6.47,
+    "popularity": 8972,
     "genres": [
       10,
       12
@@ -152509,8 +152533,8 @@
     "episodes": 20,
     "year": 2026,
     "season": "fall",
-    "score": 6.35,
-    "popularity": 7848,
+    "score": 6.34,
+    "popularity": 7753,
     "genres": [
       4
     ],
@@ -152562,8 +152586,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 5.61,
-    "popularity": 10615,
+    "score": 5.55,
+    "popularity": 10560,
     "genres": [],
     "themes": [
       18
@@ -152748,8 +152772,8 @@
     "episodes": null,
     "year": 2026,
     "season": "fall",
-    "score": 7.46,
-    "popularity": 5797,
+    "score": 7.48,
+    "popularity": 5776,
     "genres": [
       1,
       4
@@ -152774,8 +152798,8 @@
     "episodes": 12,
     "year": 2026,
     "season": "fall",
-    "score": 7.68,
-    "popularity": 7794,
+    "score": 7.72,
+    "popularity": 7762,
     "genres": [
       30
     ],
@@ -152802,8 +152826,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 8.35,
-    "popularity": 3300,
+    "score": 8.34,
+    "popularity": 3267,
     "genres": [
       8,
       22
@@ -152956,8 +152980,8 @@
     "episodes": 26,
     "year": 2026,
     "season": "summer",
-    "score": 6.9,
-    "popularity": 10632,
+    "score": 6.89,
+    "popularity": 10618,
     "genres": [
       4
     ],
@@ -153065,8 +153089,8 @@
     "episodes": 1,
     "year": 2026,
     "season": "fall",
-    "score": 6.43,
-    "popularity": 11683,
+    "score": 6.37,
+    "popularity": 11583,
     "genres": [
       10
     ],
