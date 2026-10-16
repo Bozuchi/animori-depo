@@ -24,8 +24,8 @@
     },
     "duration": "24 min. per ep.",
     "rating": "R - 17+ (violence & profanity)",
-    "score": 9.01,
-    "popularity": 1607,
+    "score": 9.0,
+    "popularity": 1585,
     "synopsis": "Final part ofBleach: Sennen Kessen-hen.",
     "genres": [
       1,
@@ -66,6 +66,13 @@
     "id": 185874,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185874-IdGyh1EBG91I.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg"
+  },
+  "tmdb": {
+    "id": 30984,
+    "type": "tv",
+    "season": 2,
+    "episode_offset": 40,
+    "name": "Bleach"
   },
   "synopsis_tr": "Bleach'in son kısmı: Sennen Kessen-hen.",
   "episodes": [
@@ -149,12 +156,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:05:28.474410"
     }
-  ],
-  "tmdb": {
-    "id": 30984,
-    "type": "tv",
-    "season": 2,
-    "episode_offset": 40,
-    "name": "Bleach"
-  }
+  ]
 }
