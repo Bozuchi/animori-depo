@@ -22,8 +22,8 @@
     },
     "duration": "25 min. per ep.",
     "rating": "PG-13 - Teens 13 or older",
-    "score": 7.21,
-    "popularity": 12119,
+    "score": 7.24,
+    "popularity": 11896,
     "synopsis": "In the distant future, Kagami Village is a suburban mountain village that has been left behind by the highly developed science and technology in urban areas. \"If you're not well behaved, a look-alike will come.\" Higure Akane, a middle school student living in this village where an old legend still remains, was looking forward to being reunited with her older sister Higure Sui, who has been released from the hospital after a year. However, shortly after her sister's release from the hospital, Akane receives a phone call. \"The person in that house is not your older sister.\"(Source: Official site, translated)",
     "genres": [
       7,
@@ -51,6 +51,13 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207084-QJoOYEulEDz5.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207084-5ERIoIDjU76C.jpg"
   },
+  "tmdb": {
+    "id": 312822,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0,
+    "name": "Playing Sister"
+  },
   "synopsis_tr": "Uzak gelecekte Kagami Köyü, kentsel alanlardaki son derece gelişmiş bilim ve teknolojinin geride bıraktığı bir banliyö dağ köyüdür. \"Eğer iyi davranmazsan, bir benzerin gelecektir.\" Eski bir efsanenin hâlâ devam ettiği bu köyde yaşayan ortaokul öğrencisi Higure Akane, bir yıl sonra hastaneden çıkan ablası Higure Sui'ye yeniden kavuşmayı sabırsızlıkla bekliyordu. Ancak kız kardeşinin hastaneden çıkmasından kısa bir süre sonra Akane'ye bir telefon gelir. \"O evdeki kişi ablanız değil.\"(Kaynak: Resmi site, tercüme)",
   "episodes": [
     {
@@ -63,12 +70,5 @@
       "videos": [],
       "added_date": "2026-10-06T15:10:41.163489"
     }
-  ],
-  "tmdb": {
-    "id": 312822,
-    "type": "tv",
-    "season": 1,
-    "episode_offset": 0,
-    "name": "Playing Sister"
-  }
+  ]
 }
