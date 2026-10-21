@@ -66,5 +66,12 @@
       "videos": [],
       "added_date": "2026-10-17T07:44:44.210353"
     }
-  ]
+  ],
+  "tmdb": {
+    "id": 312359,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0,
+    "name": "Dragon Ball Super: Beerus"
+  }
 }
