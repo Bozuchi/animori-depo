@@ -13,7 +13,7 @@
     "type": "TV",
     "source": "Picture book",
     "status": "Currently Airing",
-    "episodes": 1747,
+    "episodes": null,
     "year": 1988,
     "season": "fall",
     "airing": true,
@@ -24,7 +24,7 @@
     "duration": "24 min.",
     "rating": "PG - Children",
     "score": 6.81,
-    "popularity": 9672,
+    "popularity": 9687,
     "synopsis": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished.(Source: ANN)",
     "genres": [
       4,
@@ -158,12 +158,12 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1960-9Vx6QVIU8z4Z.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1960-ueSmUxBXWuFK.jpg"
   },
-  "synopsis_tr": "Bir gece ormanın derinliklerinde bulunan bir fırının bacasından bir Hayat Yıldızı düşerek fırındaki hamurların canlanmasına neden olur. Hamur, anpan'dan (fasulye reçeli dolgulu tatlı bir rulo) yapılmış bir süper kahraman olan Anpanman'a dönüşür. Anpanman, arkadaşlarıyla birlikte rakibi Baikinman'a karşı savaşır ve yetersiz beslenenlere yardım eder.(Kaynak: ANN)",
   "tmdb": {
     "id": 56389,
     "type": "tv",
     "season": 1,
     "episode_offset": 0,
     "name": "Go! Anpanman"
-  }
+  },
+  "synopsis_tr": "Bir gece ormanın derinliklerinde bulunan bir fırının bacasından bir Hayat Yıldızı düşerek fırındaki hamurların canlanmasına neden olur. Hamur, anpan'dan (fasulye reçeli dolgulu tatlı bir rulo) yapılmış bir süper kahraman olan Anpanman'a dönüşür. Anpanman, arkadaşlarıyla birlikte rakibi Baikinman'a karşı savaşır ve yetersiz beslenenlere yardım eder.(Kaynak: ANN)"
 }

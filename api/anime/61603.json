@@ -13,7 +13,7 @@
     "type": "TV",
     "source": "Manga",
     "status": "Currently Airing",
-    "episodes": 12,
+    "episodes": null,
     "year": 2026,
     "season": "fall",
     "airing": true,
@@ -24,7 +24,7 @@
     "duration": "24 min.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 8.19,
-    "popularity": 3786,
+    "popularity": 3777,
     "synopsis": "Second season ofAo Ashi.",
     "genres": [
       30

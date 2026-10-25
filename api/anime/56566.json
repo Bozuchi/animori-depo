@@ -13,7 +13,7 @@
     "type": "TV",
     "source": "Manga",
     "status": "Currently Airing",
-    "episodes": 134,
+    "episodes": null,
     "year": 2023,
     "season": "fall",
     "airing": true,
@@ -24,7 +24,7 @@
     "duration": "24 min.",
     "rating": "PG - Children",
     "score": 6.84,
-    "popularity": 8218,
+    "popularity": 8192,
     "synopsis": "At the heart of X City stands the impressive X Tower, an interconnected twin-skyscraper structure that symbolizes the pinnacle of every Beyblade player's dream. The building serves as the official headquarters for professional Beybattles, where competitors strive to ascend all one hundred floors; at its summit, the reigning champions, Team Pendragon, await contenders worthy of challenging their title.Bird Kazami, an amateur Blader, arrives in the city eager to turn professional. However, he and his teammates are crushed in their first qualifying match, prompting his companions to give up and disband their team. Fortunately, Bird is soon approached by the easygoing Ekusu Kurosu. In disguise as \"Kamen X\" to hide his identity as a former member of the undefeated Team Pendragon, Ekusu wants to climb the tower all over again. To complete their new group, they recruit skilled Beyblade expert and savvy social media influencer Multi Nanairo.Driven by their individual goals, the trio wins their preliminary rounds, launching their careers as Team Persona. Bird and his new friends must navigate the world of corporate sponsorships, earn the fickle public's support, and defeat many formidable opponents—all in their quest to reach X Tower's peak.[Written by MAL Rewrite]",
     "genres": [
       2,
@@ -476,12 +476,12 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png"
   },
-  "synopsis_tr": "X City'nin kalbinde, her Beyblade oyuncusunun hayalinin zirvesini simgeleyen, birbirine bağlı çift gökdelenli bir yapı olan etkileyici X Tower duruyor. Bina, yarışmacıların yüz katın tamamına tırmanmaya çalıştığı profesyonel Beybattles'ın resmi merkezi olarak hizmet veriyor; Zirvede, son şampiyonlar Team Pendragon, unvanlarına meydan okumaya layık yarışmacıları bekliyor. Amatör bir Blader olan Bird Kazami, profesyonelleşmek için şehre gelir. Ancak kendisi ve takım arkadaşları, ilk ön eleme maçında ezilirler ve bu durum, arkadaşlarının pes etmesine ve takımlarını dağıtmasına neden olur. Neyse ki, çok geçmeden uysal Ekusu Kurosu Bird'e yaklaşır. Yenilmez Pendragon Takımı'nın eski bir üyesi olduğunu gizlemek için \"Kamen X\" kılığına giren Ekusu, kuleye yeniden tırmanmak ister. Yeni gruplarını tamamlamak için yetenekli Beyblade uzmanı ve bilgili sosyal medya fenomeni Multi Nanairo'yu işe alırlar. Bireysel hedefleri doğrultusunda hareket eden üçlü, ön eleme turlarını kazanarak Persona Takımı olarak kariyerlerine başlar. Bird ve yeni arkadaşları, X Tower'ın zirvesine ulaşma arayışlarında kurumsal sponsorluklar dünyasında ilerlemeli, kararsız halkın desteğini kazanmalı ve birçok zorlu rakibi yenmeli.[MAL Rewrite tarafından yazıldı]",
   "tmdb": {
     "id": 226688,
     "type": "tv",
     "season": 1,
     "episode_offset": 0,
     "name": "Beyblade X"
-  }
+  },
+  "synopsis_tr": "X City'nin kalbinde, her Beyblade oyuncusunun hayalinin zirvesini simgeleyen, birbirine bağlı çift gökdelenli bir yapı olan etkileyici X Tower duruyor. Bina, yarışmacıların yüz katın tamamına tırmanmaya çalıştığı profesyonel Beybattles'ın resmi merkezi olarak hizmet veriyor; Zirvede, son şampiyonlar Team Pendragon, unvanlarına meydan okumaya layık yarışmacıları bekliyor. Amatör bir Blader olan Bird Kazami, profesyonelleşmek için şehre gelir. Ancak kendisi ve takım arkadaşları, ilk ön eleme maçında ezilirler ve bu durum, arkadaşlarının pes etmesine ve takımlarını dağıtmasına neden olur. Neyse ki, çok geçmeden uysal Ekusu Kurosu Bird'e yaklaşır. Yenilmez Pendragon Takımı'nın eski bir üyesi olduğunu gizlemek için \"Kamen X\" kılığına giren Ekusu, kuleye yeniden tırmanmak ister. Yeni gruplarını tamamlamak için yetenekli Beyblade uzmanı ve bilgili sosyal medya fenomeni Multi Nanairo'yu işe alırlar. Bireysel hedefleri doğrultusunda hareket eden üçlü, ön eleme turlarını kazanarak Persona Takımı olarak kariyerlerine başlar. Bird ve yeni arkadaşları, X Tower'ın zirvesine ulaşma arayışlarında kurumsal sponsorluklar dünyasında ilerlemeli, kararsız halkın desteğini kazanmalı ve birçok zorlu rakibi yenmeli.[MAL Rewrite tarafından yazıldı]"
 }

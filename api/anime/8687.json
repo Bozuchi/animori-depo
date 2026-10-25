@@ -13,7 +13,7 @@
     "type": "TV",
     "source": "Manga",
     "status": "Currently Airing",
-    "episodes": 837,
+    "episodes": null,
     "year": 2005,
     "season": "spring",
     "airing": true,
@@ -24,7 +24,7 @@
     "duration": "25 min.",
     "rating": "PG - Children",
     "score": 7.79,
-    "popularity": 5248,
+    "popularity": 5264,
     "synopsis": "Doraemon (2005) is the most recent anime series based on Fujiko Fujio's manga of the same name.It is the 2005 version of 1979 series.  This \"remake\" features upgrades to production staff, voice actors, character design, and sound.Doraemon is a cat-like robot from the 22nd Century who appears in the present to steer Nobita/Noby, a dumb clumsy boy, onto the right path in order to secure a better future. Nobita's love interest is Shizuka Minamoto/Sue, his frenemies are Takeshi \"Gian\" Goda/Big G and Suneo/Sneech.  Each episode features Doraemon showing Nobita a cool gadget from the 22nd Century to help him overcome the main conflict in the episode.(Source: Wikipedia)",
     "genres": [
       4,
@@ -1663,12 +1663,12 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg"
   },
-  "synopsis_tr": "Doraemon (2005), Fujiko Fujio'nun aynı isimli mangasına dayanan en yeni anime dizisidir. 1979 serisinin 2005 versiyonudur.  Bu \"yeniden yapım\" yapım ekibinde, seslendirme sanatçılarında, karakter tasarımında ve seste iyileştirmeler içeriyor. Doraemon, daha iyi bir gelecek sağlamak için aptal ve beceriksiz bir çocuk olan Nobita/Noby'yi doğru yola yönlendirmek için günümüzde ortaya çıkan, 22. yüzyıldan kalma kedi benzeri bir robottur. Nobita'nın aşkı Shizuka Minamoto/Sue, düşmanları ise Takeshi \"Gian\" Goda/Big G ve Suneo/Sneech'tir.  Her bölümde Doraemon, Nobita'ya bölümdeki ana çatışmanın üstesinden gelmesine yardımcı olacak 22. yüzyıldan kalma harika bir cihazı gösteriyor.(Kaynak: Wikipedia)",
   "tmdb": {
     "id": 65733,
     "type": "tv",
     "season": 1,
     "episode_offset": 0,
     "name": "Doraemon"
-  }
+  },
+  "synopsis_tr": "Doraemon (2005), Fujiko Fujio'nun aynı isimli mangasına dayanan en yeni anime dizisidir. 1979 serisinin 2005 versiyonudur.  Bu \"yeniden yapım\" yapım ekibinde, seslendirme sanatçılarında, karakter tasarımında ve seste iyileştirmeler içeriyor. Doraemon, daha iyi bir gelecek sağlamak için aptal ve beceriksiz bir çocuk olan Nobita/Noby'yi doğru yola yönlendirmek için günümüzde ortaya çıkan, 22. yüzyıldan kalma kedi benzeri bir robottur. Nobita'nın aşkı Shizuka Minamoto/Sue, düşmanları ise Takeshi \"Gian\" Goda/Big G ve Suneo/Sneech'tir.  Her bölümde Doraemon, Nobita'ya bölümdeki ana çatışmanın üstesinden gelmesine yardımcı olacak 22. yüzyıldan kalma harika bir cihazı gösteriyor.(Kaynak: Wikipedia)"
 }

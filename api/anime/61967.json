@@ -13,7 +13,7 @@
     "type": "TV",
     "source": "Manga",
     "status": "Currently Airing",
-    "episodes": 12,
+    "episodes": null,
     "year": 2026,
     "season": "fall",
     "airing": true,
@@ -24,7 +24,7 @@
     "duration": "23 min.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 8.81,
-    "popularity": 1751,
+    "popularity": 1708,
     "synopsis": "Second season ofBlack Clover.",
     "genres": [
       1,

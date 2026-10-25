@@ -13,7 +13,7 @@
     "type": "PV",
     "source": "Game",
     "status": "Currently Airing",
-    "episodes": 1,
+    "episodes": null,
     "year": 2020,
     "season": "summer",
     "airing": true,
@@ -24,7 +24,7 @@
     "duration": "1 min.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 7.43,
-    "popularity": 8191,
+    "popularity": 8193,
     "synopsis": "Animated promotions for the mobile game Blue Archive.",
     "genres": [
       10

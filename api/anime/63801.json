@@ -13,7 +13,7 @@
     "type": "TV",
     "source": "Manga",
     "status": "Currently Airing",
-    "episodes": 12,
+    "episodes": null,
     "year": 2026,
     "season": "fall",
     "airing": true,
@@ -24,7 +24,7 @@
     "duration": "22 min.",
     "rating": "PG-13 - Teens 13 or older",
     "score": 7.92,
-    "popularity": 4266,
+    "popularity": 4239,
     "synopsis": "Third season ofRanma ½ (2024).",
     "genres": [
       1,

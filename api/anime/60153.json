@@ -13,7 +13,7 @@
     "type": "TV",
     "source": "Other",
     "status": "Currently Airing",
-    "episodes": 26,
+    "episodes": null,
     "year": 2026,
     "season": "spring",
     "airing": true,
@@ -24,7 +24,7 @@
     "duration": "1 min.",
     "rating": "PG - Children",
     "score": 6.58,
-    "popularity": 10838,
+    "popularity": 10824,
     "synopsis": "Experience the stress-free world of Rilakkuma, the relaxed bear who makes being lazy look effortless!(Source: Crunchyroll)",
     "genres": [
       36
