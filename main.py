@@ -146,8 +146,12 @@ def sync_anime_item(
         )
 
         # Bölümleri çek ve birleştir
-        episodes = mal_scraper.fetch_episodes(mal_id)
-        new_ep_count = storage.merge_and_save_episodes(mal_id, episodes, slug=slug)
+        episodes, complete = mal_scraper.fetch_episodes(mal_id, with_status=True)
+        if not complete:
+            logger.warning(f"MAL bölüm listesi eksik çekildi, bölümler yazılmadı: {title} ({mal_id})")
+            new_ep_count = 0
+        else:
+            new_ep_count = storage.merge_and_save_episodes(mal_id, episodes, slug=slug)
 
         return {"is_new": True, "new_episodes": new_ep_count, "updated": True}
 
@@ -234,8 +238,10 @@ def sync_anime_item(
 
         # Bölüm listesi kontrolü (devam eden veya yeni biten seriler için)
         existing_eps_count = len((existing.get("jikan") or {}).get("episode_list") or [])
-        mal_episodes = mal_scraper.fetch_episodes(mal_id)
-        if len(mal_episodes) > existing_eps_count:
+        mal_episodes, complete = mal_scraper.fetch_episodes(mal_id, with_status=True)
+        if not complete:
+            logger.warning(f"MAL bölüm listesi eksik çekildi, bölümler güncellenmedi: {title} ({mal_id})")
+        elif len(mal_episodes) > existing_eps_count:
             logger.info(f"📢 Yeni bölüm bulundu! {title}: {existing_eps_count} -> {len(mal_episodes)}")
             new_ep_count = storage.merge_and_save_episodes(mal_id, mal_episodes)
             updated = True

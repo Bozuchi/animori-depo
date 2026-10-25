@@ -567,7 +567,7 @@ class MalHtmlEnricher:
             "relations": relations,
         }
 
-    def fetch_episodes(self, mal_id: int) -> dict[int, dict]:
+    def fetch_episodes(self, mal_id: int, with_status: bool = False):
         """
         MAL bölüm listesi sayfalarını sayfalayarak tüm bölüm bilgilerini çeker.
 
@@ -576,12 +576,15 @@ class MalHtmlEnricher:
 
         Args:
             mal_id: MyAnimeList anime ID'si.
+            with_status: True ise (episodes, complete) döner. complete=False ise
+                sayfalama sırasında bir istek başarısız olmuştur (liste eksik olabilir).
 
         Returns:
-            dict: {bölüm_numarası: {"episode_number": int, "title": str, "aired": str|None, "filler": bool, "recap": bool}, ...}
+            dict | tuple: {bölüm_numarası: {...}} veya with_status=True ise (dict, bool).
                   Boş dict hata durumunda.
         """
         episodes = {}
+        complete = True
         offset = 0
 
         while True:
@@ -589,6 +592,8 @@ class MalHtmlEnricher:
             html = self._request_with_retry(url)
 
             if not html:
+                # Sayfa çekilemedi: liste eksik olabilir
+                complete = False
                 break
 
             soup = BeautifulSoup(html, "html.parser")
@@ -656,6 +661,8 @@ class MalHtmlEnricher:
             offset += 100
             time.sleep(RATE_LIMIT_DELAY)
 
+        if with_status:
+            return episodes, complete
         return episodes
 
     def enrich(self, mal_id: int, slug: str = "", name: str = "") -> dict | None:

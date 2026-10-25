@@ -695,106 +695,295 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Jolly Roger That Flutters Through Space",
+        "aired": "Mar 14, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "A Message from the Unknown",
+        "aired": "Mar 21, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "A Woman Who Burns Like Paper",
+        "aired": "Mar 28, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Under the Flag of Freedom!",
+        "aired": "Apr 11, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "To the Shores of Distant Stars…",
+        "aired": "Apr 18, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Phantom Mazone",
+        "aired": "Apr 25, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "The Pyramid On the Ocean Floor",
+        "aired": "May 2, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Queen's Space Fleet",
+        "aired": "May 9, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "The Fearsome Plant Life Form",
+        "aired": "May 16, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Advance On the Mystery Planet",
+        "aired": "May 30, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "When Lola Shines Golden",
+        "aired": "Jun 6, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Mother, Be Eternal",
+        "aired": "Jun 13, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "The Castle of Evil in the Sea of Death",
+        "aired": "Jun 20, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "The Mausoleum of the Sphinx",
+        "aired": "Jun 27, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "Tragic Love! the Northern Pole Aurora",
+        "aired": "Jul 4, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Kei – a Farewell Song",
+        "aired": "Jul 11, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "The Skeleton Hero",
+        "aired": "Jul 18, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "The Evil Shadow Soldiers",
+        "aired": "Jul 25, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Queen Lafresia's Trap",
+        "aired": "Aug 1, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The Extinct Planet Jura",
+        "aired": "Aug 8, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Gohrum! the Tragic Soldier",
+        "aired": "Aug 15, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "The Space Graveyard: Deathshadow",
+        "aired": "Aug 22, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Yattaran, Song of a Plastic Model Fanatic",
+        "aired": "Aug 29, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "The Shooting Star of Pure Love",
+        "aired": "Sep 5, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Dr. Zero and Mii",
+        "aired": "Sep 12, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "A Long Way Away Voyage",
+        "aired": "Sep 26, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "The Will of the Arcadia",
+        "aired": "Oct 3, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "The Ulysses Nebula",
+        "aired": "Oct 10, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The Life-and-Death Struggle On the Rainbow Planet",
+        "aired": "Oct 17, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "My Friend, My Youth",
+        "aired": "Oct 24, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Arcadia – the Secret Story of Its Construction",
+        "aired": "Oct 31, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "The Call of the Star Flute",
+        "aired": "Nov 7, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "A Love Man's Charge",
+        "aired": "Nov 14, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "A Galactic Lullaby",
+        "aired": "Nov 21, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Beautiful Mysterious Woman",
+        "aired": "Nov 28, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "The Eve of the Showdown",
+        "aired": "Dec 5, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Tears On a Red Sweater",
+        "aired": "Dec 19, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Farewell! Mayu",
+        "aired": "Jan 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Heroic! the Commander Dies",
+        "aired": "Jan 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Then, the Angels Sang",
+        "aired": "Jan 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Duel! the Queen VS. Harlock",
+        "aired": "Jan 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Farewell, Space Outlaw",
+        "aired": "Feb 13, 1979",
         "filler": false,
         "recap": false
       }

@@ -106,11 +106,17 @@ def run(args):
 
     for i, mid in enumerate(targets, start=1):
         try:
-            episodes = mal.fetch_episodes(mid)
+            episodes, complete = mal.fetch_episodes(mid, with_status=True)
         except Exception as e:
             logger.warning(f"Bölüm listesi çekilemedi ({mid}): {e}")
-            episodes = {}
+            episodes, complete = {}, False
+
+        if not complete:
+            # Eksik liste mevcut veriyi bozmasın; checkpoint'e de yazma ki tekrar denensin
             failed += 1
+            logger.debug(f"MAL bölüm listesi eksik çekildi, atlandı: {mid}")
+            time.sleep(DELAY_BETWEEN_ANIME)
+            continue
 
         if episodes:
             if not args.dry_run:
