@@ -11,22 +11,22 @@
         "title": "AppleSeed : Ex Machina",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1im-UWCEWgCRFinjf4s43Og1gqRUq8d2H/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/3095424634359654330"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4065289"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/dhq1h4ce"
           }

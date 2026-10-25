@@ -11,17 +11,17 @@
         "title": "Call Me Tonight Ova",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/9165530183271196435"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=1359176"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-cl3en8az8ga0.html"
           }

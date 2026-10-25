@@ -11,22 +11,22 @@
         "title": "Magic Tree House Movie",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1qC4paFdkey5y3xrCt7OUfldx6z0Ax1Qx/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7384122149985849769"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7893414565877121548"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4430466"
           }

@@ -11,42 +11,42 @@
         "title": "Under the Dog",
         "videos": [
           {
-            "fansub_id": 92,
+            "fansub": "Animan-BD",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1TMNRV_iuzFzMMNUR2EtunEa5qd__dR-g/preview"
           },
           {
-            "fansub_id": 92,
+            "fansub": "Animan-BD",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/y6ljftne"
           },
           {
-            "fansub_id": 22,
+            "fansub": "Arcadia",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7706652796388377559"
           },
           {
-            "fansub_id": 22,
+            "fansub": "Arcadia",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2655592"
           },
           {
-            "fansub_id": 26,
+            "fansub": "PuzzleSubs",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7706652796388377561"
           },
           {
-            "fansub_id": 26,
+            "fansub": "PuzzleSubs",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzlesubs/_myvideo/53.html"
           },
           {
-            "fansub_id": 26,
+            "fansub": "PuzzleSubs",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2655618"
           },
           {
-            "fansub_id": 26,
+            "fansub": "PuzzleSubs",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/wnbmbqhz"
           }

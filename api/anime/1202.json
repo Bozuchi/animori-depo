@@ -11,57 +11,57 @@
         "title": "Ar Tonelico",
         "videos": [
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1VN63ukmbAsHw4PatRkCTEB9YfH4o37KK/preview"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/9216453574685361610"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/5017021353669165260"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4090900"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "MP4UPLOAD",
             "url": "https://www.mp4upload.com/embed-dwuiclgbqdww.html"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "MP4UPLOAD",
             "url": "https://www.mp4upload.com/embed-ufa1pv3nwmn2.html"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/yirk9cpn"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-f8ovketfx9u5.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/521.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2614883"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2613865"
           }

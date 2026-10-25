@@ -11,17 +11,17 @@
         "title": "Nora OVA",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1DmeDqWEgtWTBk_6KCeWxcsj1MlGMzJ8B/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4834"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=3636308"
           }

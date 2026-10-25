@@ -11,22 +11,22 @@
         "title": "Santa Company",
         "videos": [
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/9216453574685361670"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=1732380"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4091968"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "MP4UPLOAD",
             "url": "https://www.mp4upload.com/embed-qz2hs98c6s5s.html"
           }

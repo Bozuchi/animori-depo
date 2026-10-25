@@ -11,27 +11,27 @@
         "title": "Ghost In The Shell",
         "videos": [
           {
-            "fansub_id": 237,
+            "fansub": "AnimeBase",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/10SrAcXelmDNawHU1H0rOjpS2_r-7oC-J/preview"
           },
           {
-            "fansub_id": 237,
+            "fansub": "AnimeBase",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7370103204933016402"
           },
           {
-            "fansub_id": 237,
+            "fansub": "AnimeBase",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-mqwoflp4p3mh.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=1975360"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/pd1lyvfe"
           }

@@ -11,27 +11,27 @@
         "title": "Cocolors Movie",
         "videos": [
           {
-            "fansub_id": 33,
+            "fansub": "Knaves",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1yrmqIK3_zqA_sIv_MnTFRbZ2jOobG2xP/preview"
           },
           {
-            "fansub_id": 33,
+            "fansub": "Knaves",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7320964432559866520"
           },
           {
-            "fansub_id": 33,
+            "fansub": "Knaves",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4662934"
           },
           {
-            "fansub_id": 33,
+            "fansub": "Knaves",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/372w3ng2"
           },
           {
-            "fansub_id": 33,
+            "fansub": "Knaves",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-wsmuijflunzo.html"
           }

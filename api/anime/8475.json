@@ -11,47 +11,47 @@
         "title": "Asura Movie",
         "videos": [
           {
-            "fansub_id": 99,
+            "fansub": "AniKage",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1WLfsOdmklLeQ-GUwJb_Dx_lMqNV_wEiw/preview"
           },
           {
-            "fansub_id": 99,
+            "fansub": "AniKage",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/xsiyahbeyazx31/31/129.html"
           },
           {
-            "fansub_id": 99,
+            "fansub": "AniKage",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/xsiyahbeyazx31/31/131.html"
           },
           {
-            "fansub_id": 99,
+            "fansub": "AniKage",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4506686"
           },
           {
-            "fansub_id": 99,
+            "fansub": "AniKage",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-i730bwmlycee.html"
           },
           {
-            "fansub_id": 47,
+            "fansub": "AniSekai",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=3186676"
           },
           {
-            "fansub_id": 47,
+            "fansub": "AniSekai",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-n5xp80720ise.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/bk/schneizel/video/embed/_myvideo/864"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-938z5nbhka3y.html"
           }

@@ -11,17 +11,17 @@
         "title": "Legend of the Galactic Heroes: Golden Wings Movie",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1EQoCd86f1R4kdvsaSrYNlNnxiRsmfuMW/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7370103204933018351"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2023905"
           }

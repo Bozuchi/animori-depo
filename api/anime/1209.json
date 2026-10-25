@@ -11,12 +11,12 @@
         "title": "Nasu : Andalusia no Natsu",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/mail/mirusubs/video/embed/_myvideo/1625"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4167682"
           }

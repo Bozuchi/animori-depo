@@ -11,22 +11,22 @@
         "title": "Angel Beats! Special",
         "videos": [
           {
-            "fansub_id": 101,
+            "fansub": "AnimeWho-BD",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4411308"
           },
           {
-            "fansub_id": 101,
+            "fansub": "AnimeWho-BD",
             "player": "MP4UPLOAD",
             "url": "https://www.mp4upload.com/embed-i92yvpw0dmgg.html"
           },
           {
-            "fansub_id": 101,
+            "fansub": "AnimeWho-BD",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-hvjjm46mmc9o.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=1103079"
           }

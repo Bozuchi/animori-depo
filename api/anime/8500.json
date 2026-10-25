@@ -11,22 +11,22 @@
         "title": "Haguregumo Movie",
         "videos": [
           {
-            "fansub_id": 249,
+            "fansub": "Koten",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1U8CBijiDO2zUuqbTBEGvxDDEoZrtYIVJ/preview"
           },
           {
-            "fansub_id": 249,
+            "fansub": "Koten",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/3095424634359652517"
           },
           {
-            "fansub_id": 249,
+            "fansub": "Koten",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/3095424634359659166"
           },
           {
-            "fansub_id": 249,
+            "fansub": "Koten",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4001049"
           }

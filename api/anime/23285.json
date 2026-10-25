@@ -11,22 +11,22 @@
         "title": "Paulette no Isu Movie",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/12qdrOafTavA8v4W0ix3vTBlQnxqpoTbp/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7571497515682366251"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MP4UPLOAD",
             "url": "https://www.mp4upload.com/embed-56qbdsyy1joh.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/ymyhfoox"
           }

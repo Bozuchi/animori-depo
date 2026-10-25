@@ -11,17 +11,17 @@
         "title": "Dirty Pair: The Movie",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1T4uESkalZeCdIqdCzhV0fpNC0itRKU8G/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/86.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2757851"
           }

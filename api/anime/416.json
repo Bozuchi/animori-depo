@@ -11,42 +11,42 @@
         "title": "Porco Rosso",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1Zj5Ht9Vgw3EgsyB6fHOT6eRkBJLEVVLJ/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/530.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/9165530183271188447"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2614895"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4504985"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/3zbnuydu"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/j7ea48o4"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-8ytq85al4qmm.html"
           }

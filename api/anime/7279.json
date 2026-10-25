@@ -11,32 +11,32 @@
         "title": "TO 1. Bölüm",
         "videos": [
           {
-            "fansub_id": 10,
+            "fansub": "PuzzleSubs-BD",
             "player": "MAIL",
             "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/217"
           },
           {
-            "fansub_id": 10,
+            "fansub": "PuzzleSubs-BD",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4904514"
           },
           {
-            "fansub_id": 10,
+            "fansub": "PuzzleSubs-BD",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-il92kymbydoy.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1Q-2AGKVWOtbftwAmpEhn8aJVN8UT7sse/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/233"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/3095424634359658708"
           }
@@ -48,27 +48,27 @@
         "title": "TO 2. Bölüm",
         "videos": [
           {
-            "fansub_id": 26,
+            "fansub": "PuzzleSubs",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1--NuVJDY2wbo45Ewbsnki6il2KNzGwcI/preview"
           },
           {
-            "fansub_id": 26,
+            "fansub": "PuzzleSubs",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1GMdLgZkIhGKnJCp4UKmSv4hhTLY_FKPz/preview"
           },
           {
-            "fansub_id": 26,
+            "fansub": "PuzzleSubs",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/2444636457931911709"
           },
           {
-            "fansub_id": 26,
+            "fansub": "PuzzleSubs",
             "player": "MAIL",
             "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/231"
           },
           {
-            "fansub_id": 26,
+            "fansub": "PuzzleSubs",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-yxs1hufu0ujj.html"
           }

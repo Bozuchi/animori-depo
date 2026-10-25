@@ -11,32 +11,32 @@
         "title": "Clannad The Movie",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1OfaS9BHADDGFMTXrstAxF0ULWkMPEG3_/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7370103204933016417"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed//mail/sweetparade/_myvideo/1034.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2804865"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/axjpcakd"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-tyrj1wul5gm1.html"
           }

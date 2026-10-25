@@ -11,27 +11,27 @@
         "title": "One Piece Film: Gold ~Episode 0~ 711 ver.",
         "videos": [
           {
-            "fansub_id": 47,
+            "fansub": "AniSekai",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/9165530183271187893"
           },
           {
-            "fansub_id": 47,
+            "fansub": "AniSekai",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2637217"
           },
           {
-            "fansub_id": 47,
+            "fansub": "AniSekai",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/4v08y4dw"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2636212"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/q397k8gk"
           }

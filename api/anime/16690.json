@@ -11,42 +11,42 @@
         "title": "My Life Movie",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1xlQ7274n8Y-DYfhnZEsXqXGe6GY2su1A/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1H2HwMNzietR_lCLdwpftBnaecfwOo-P5/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/3095424634359666974"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7571497515682366245"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4643259"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MP4UPLOAD",
             "url": "https://www.mp4upload.com/embed-348bd9bjvv5z.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/5icfc44w"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-oxlypioxqopf.html"
           }

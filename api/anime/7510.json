@@ -11,22 +11,22 @@
         "title": "Shisha no Sho",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/16lluQeooBQFq0yw0GZDI_X7Z4IPE2tRO/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed//mail/sweetparade/_myvideo/1047.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2806396"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MP4UPLOAD",
             "url": "https://www.mp4upload.com/embed-yqse3nskjknw.html"
           }

@@ -11,12 +11,12 @@
         "title": "Movie Bakuten!!",
         "videos": [
           {
-            "fansub_id": 112,
+            "fansub": "YukiSubs",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1ChEc8D_Dn9H5xzaEnadFwQJkFNtlUzD1/preview"
           },
           {
-            "fansub_id": 112,
+            "fansub": "YukiSubs",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/8320106634588202314"
           }

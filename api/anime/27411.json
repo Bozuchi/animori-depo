@@ -11,32 +11,32 @@
         "title": "Ghost in the Shell - The New Movie (2015)",
         "videos": [
           {
-            "fansub_id": 8,
+            "fansub": "HikigayaSubs",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/mail/hikigaya.fansub/_myvideo/144.html"
           },
           {
-            "fansub_id": 8,
+            "fansub": "HikigayaSubs",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-s2rfjio3gtdm.html"
           },
           {
-            "fansub_id": 10,
+            "fansub": "PuzzleSubs-BD",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1S-7mz9N7lGCaINV2BPYm2fzSssIIB53l/preview"
           },
           {
-            "fansub_id": 10,
+            "fansub": "PuzzleSubs-BD",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7370103204933018811"
           },
           {
-            "fansub_id": 10,
+            "fansub": "PuzzleSubs-BD",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzle52/_myvideo/7.html"
           },
           {
-            "fansub_id": 10,
+            "fansub": "PuzzleSubs-BD",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/xaev1k8x"
           }

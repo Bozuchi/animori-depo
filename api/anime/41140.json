@@ -11,22 +11,22 @@
         "title": "Princess Principal: Movie 2",
         "videos": [
           {
-            "fansub_id": 328,
+            "fansub": "ScarletSubs",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/16HoZVT40uvqhVHiwzqaUJKUPPXYxPHCd/preview"
           },
           {
-            "fansub_id": 328,
+            "fansub": "ScarletSubs",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/3095424634359667494"
           },
           {
-            "fansub_id": 328,
+            "fansub": "ScarletSubs",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4674218"
           },
           {
-            "fansub_id": 328,
+            "fansub": "ScarletSubs",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-yok4dimfu5sj.html"
           }

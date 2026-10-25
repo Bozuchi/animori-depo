@@ -11,27 +11,27 @@
         "title": "The King of Pigs Movie",
         "videos": [
           {
-            "fansub_id": 224,
+            "fansub": "AniRune",
             "player": "MAIL",
             "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7456"
           },
           {
-            "fansub_id": 224,
+            "fansub": "AniRune",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=3882203"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4092134"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2036073"
           },
           {
-            "fansub_id": 5,
+            "fansub": "TAÇE",
             "player": "MP4UPLOAD",
             "url": "https://www.mp4upload.com/embed-p65zkrkvvtf0.html"
           }

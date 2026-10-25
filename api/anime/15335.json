@@ -11,27 +11,27 @@
         "title": "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare Movie 2",
         "videos": [
           {
-            "fansub_id": 20,
+            "fansub": "AnimeSue",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/3851.html"
           },
           {
-            "fansub_id": 20,
+            "fansub": "AnimeSue",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/3095424634359652610"
           },
           {
-            "fansub_id": 20,
+            "fansub": "AnimeSue",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/mki5ar3y"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/690"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "UQLOAD",
             "url": "https://uqload.com/embed-j1xts5ekv2b4.html"
           }

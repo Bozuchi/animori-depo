@@ -11,22 +11,22 @@
         "title": "Kizumonogatari III: Reiketsu-hen",
         "videos": [
           {
-            "fansub_id": 34,
+            "fansub": "LowSubs",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2979179"
           },
           {
-            "fansub_id": 34,
+            "fansub": "LowSubs",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2979304"
           },
           {
-            "fansub_id": 301,
+            "fansub": "LowSubs-BD",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7706652796388377870"
           },
           {
-            "fansub_id": 301,
+            "fansub": "LowSubs-BD",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/1jpoyc2m"
           }

@@ -11,22 +11,22 @@
         "title": "Sol Levante ONA",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1GTrbWU3kKLCeSwXW5i3YLEY-eRPQNR5p/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/2444636457931907413"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4311987"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MP4UPLOAD",
             "url": "https://www.mp4upload.com/embed-o1zkhu93vlwu.html"
           }

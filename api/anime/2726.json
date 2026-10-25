@@ -11,17 +11,17 @@
         "title": "Sukeban Deka 1. Bölüm",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1mqUW3OS28p3wfJmBOjE2xhYnxJCBxWnL/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/79.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2753143"
           }
@@ -33,22 +33,22 @@
         "title": "Sukeban Deka 2. Bölüm",
         "videos": [
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1rvwzUUWXimI6BI0e2BzpoA6YQ0SkLk5u/preview"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MAIL",
             "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/87.html"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2757978"
           },
           {
-            "fansub_id": 3,
+            "fansub": "Varsayılan",
             "player": "MP4UPLOAD",
             "url": "https://www.mp4upload.com/embed-c1pc77s8kem8.html"
           }

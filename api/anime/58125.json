@@ -11,37 +11,37 @@
         "title": "Look Back Movie",
         "videos": [
           {
-            "fansub_id": 13,
+            "fansub": "HolySubs",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1Wrt80eDbxYZZS2pQK44y5S2Cok2VUXHG/preview"
           },
           {
-            "fansub_id": 13,
+            "fansub": "HolySubs",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=5811909"
           },
           {
-            "fansub_id": 13,
+            "fansub": "HolySubs",
             "player": "BYS",
             "url": "https://bysesukior.com/e/xzs8i4ihtov9"
           },
           {
-            "fansub_id": 13,
+            "fansub": "HolySubs",
             "player": "BYS",
             "url": "https://bysesukior.com/e/tg5j4nj9mzx7"
           },
           {
-            "fansub_id": 67,
+            "fansub": "NetRip",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7571497515682372368"
           },
           {
-            "fansub_id": 67,
+            "fansub": "NetRip",
             "player": "BYS",
             "url": "https://bysesukior.com/e/jxv491gocts5"
           },
           {
-            "fansub_id": 149,
+            "fansub": "Türkçe Dublaj",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7571497515682372367"
           }

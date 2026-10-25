@@ -11,17 +11,17 @@
         "title": "Princess Principal: Movie 1",
         "videos": [
           {
-            "fansub_id": 328,
+            "fansub": "ScarletSubs",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/14XQo8gUiXLtS0jh4u03tJW5pxCTtQa4a/preview"
           },
           {
-            "fansub_id": 328,
+            "fansub": "ScarletSubs",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=4365387"
           },
           {
-            "fansub_id": 328,
+            "fansub": "ScarletSubs",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/icgtpssl"
           }

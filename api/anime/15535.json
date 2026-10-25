@@ -11,22 +11,22 @@
         "title": "Yumekuri",
         "videos": [
           {
-            "fansub_id": 8,
+            "fansub": "HikigayaSubs",
             "player": "GDRIVE",
             "url": "https://drive.google.com/file/d/1ri9q4yY5kluQw10uEHpthRw7CHR5zLbM/preview"
           },
           {
-            "fansub_id": 8,
+            "fansub": "HikigayaSubs",
             "player": "MAIL",
             "url": "https://my.mail.ru/video/embed/7370103204933017475"
           },
           {
-            "fansub_id": 8,
+            "fansub": "HikigayaSubs",
             "player": "SIBNET",
             "url": "https://video.sibnet.ru/shell.php?videoid=2602350"
           },
           {
-            "fansub_id": 8,
+            "fansub": "HikigayaSubs",
             "player": "SENDVID",
             "url": "https://sendvid.com/embed/7hmccozr"
           }
