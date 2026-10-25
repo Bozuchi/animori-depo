@@ -216,8 +216,13 @@ def sync_anime_item(
                 updated = True
 
             # Toplam bölüm sayısı güncellemesi
-            new_ep_total = mal_details.get("episodes")
-            if new_ep_total and new_ep_total != jikan.get("episodes"):
+            # MAL toplam bölümü bilmiyorsa "Unknown" gösterir → scrape None döner.
+            # Bu durumda eski (başka kaynaktan gelmiş) sayısal değer KORUNMAZ, null'a çekilir.
+            # 0 sentinel'i de null olarak normalize edilir.
+            new_ep_total = mal_details.get("episodes") or None
+            old_ep_total = jikan.get("episodes") or None
+            if new_ep_total != old_ep_total:
+                logger.info(f"🔢 Toplam bölüm sayısı güncellendi: {title} ({old_ep_total} -> {new_ep_total})")
                 jikan["episodes"] = new_ep_total
                 updated = True
 

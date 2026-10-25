@@ -4,7 +4,7 @@ scripts/sync_episodes_from_mal.py — MyAnimeList Resmi Bölüm Sayılarını E�
 MyAnimeList'ten günlük taranan resmi açık kaynak veri setini (anime-offline-database) kullanarak:
 1. Her animenin MyAnimeList resmi toplam bölüm sayısını eşleştirir.
 2. api/anime/{mal_id}.json dosyalarındaki jikan.episodes alanını günceller.
-3. Bölüm sayısı bulunamayan veya bilinmeyen animeler için 0 girer.
+3. Bölüm sayısı bulunamayan veya bilinmeyen animeler için null girer.
 4. api/animes.json vitrin indeksini ve api/version.json dosyasını yeniden inşa eder.
 """
 
@@ -56,9 +56,9 @@ def fetch_mal_episodes_mapping() -> dict[int, int]:
                     match = re.search(r"myanimelist\.net/anime/(\d+)", s)
                     if match:
                         mid = int(match.group(1))
-                        # Eğer geçerli pozitif bir sayı varsa onu al, yoksa 0
-                        ep_count = int(episodes) if (episodes and episodes > 0) else 0
-                        mal_to_episodes[mid] = ep_count
+                        # Sadece geçerli pozitif bir sayı varsa haritaya al
+                        if episodes and int(episodes) > 0:
+                            mal_to_episodes[mid] = int(episodes)
 
             if count % 10000 == 0:
                 logger.info(f"⏳ {count} veri satırı işlendi... ({time.time() - t0:.1f}sn)")
@@ -83,7 +83,7 @@ def run():
 
     updated_count = 0
     already_correct = 0
-    zero_or_unknown = 0
+    unknown_count = 0
 
     for i, fname in enumerate(json_files):
         name_no_ext = fname[:-5]
@@ -105,14 +105,14 @@ def run():
             jikan = {}
             data["jikan"] = jikan
 
-        # MAL haritasından bölüm sayısını al (yoksa 0)
-        target_episodes = mal_to_episodes.get(mal_id, 0)
+        # MAL haritasından bölüm sayısını al (yoksa None = bilinmiyor)
+        target_episodes = mal_to_episodes.get(mal_id) or None
         current_episodes = jikan.get("episodes")
 
-        if target_episodes == 0:
-            zero_or_unknown += 1
+        if target_episodes is None:
+            unknown_count += 1
 
-        # Değer farklıysa güncelle
+        # Değer farklıysa güncelle (mevcut 0 değerleri de null'a normalize edilir)
         if current_episodes != target_episodes:
             jikan["episodes"] = target_episodes
             data["jikan"] = jikan
@@ -133,7 +133,7 @@ def run():
     logger.info(f"🎉 Bölüm senkronizasyonu tamamlandı!")
     logger.info(f"📝 Güncellenen dosya sayısı: {updated_count}")
     logger.info(f"✔️ Zaten doğru olan dosya sayısı: {already_correct}")
-    logger.info(f"❓ Bölüm sayısı bilinmeyen/0 olan: {zero_or_unknown}")
+    logger.info(f"❓ Bölüm sayısı bilinmeyen: {unknown_count}")
     logger.info("==========================================")
 
     # Vitrini ve versiyonları güncelle

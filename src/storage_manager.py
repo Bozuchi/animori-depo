@@ -185,6 +185,10 @@ class StorageManager:
         # year ve season bilgisi yoksa aired.from üzerinden tamamla
         jikan_obj = detail.get("jikan")
         if jikan_obj:
+            # 0 sentinel'i tek bir "bilinmiyor" değerine (null) normalize edilir
+            if jikan_obj.get("episodes") == 0:
+                jikan_obj["episodes"] = None
+
             aired_obj = jikan_obj.get("aired")
             aired_from = str(aired_obj.get("from", "")).strip() if isinstance(aired_obj, dict) and aired_obj.get("from") else None
             if aired_from:
@@ -508,6 +512,9 @@ class StorageManager:
                         except ValueError:
                             season_val = None
 
+            # Toplam bölüm: jikan.episodes bilinmiyorsa (null/0) yerel bölüm listesinin uzunluğu kullanılır
+            episodes_val = jikan.get("episodes") or len(data.get("episodes") or []) or None
+
             index.append({
                 "mal_id": mal_id_val,
                 "anilist_id": anilist.get("id"),
@@ -517,7 +524,7 @@ class StorageManager:
                 "image_url": anilist.get("poster_url") or jikan.get("image_url"),
                 "type": jikan.get("type"),
                 "status": jikan.get("status"),
-                "episodes": jikan.get("episodes"),
+                "episodes": episodes_val,
                 "year": year_val,
                 "season": season_val,
                 "score": jikan.get("score"),
