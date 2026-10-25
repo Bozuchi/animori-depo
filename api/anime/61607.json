@@ -124,7 +124,85 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Forgotten Past",
+        "aired": "Aug 14, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Caged Beast",
+        "aired": "Aug 14, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Bloodbath in Laos",
+        "aired": "Aug 21, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "JAE",
+        "aired": "Aug 28, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Welcome Banquet",
+        "aired": "Sep 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Testing the Waters",
+        "aired": "Sep 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Chinatown Investigation",
+        "aired": "Sep 18, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Blood-Red Storm",
+        "aired": "Sep 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Confession",
+        "aired": "Oct 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Misplaced Redemption",
+        "aired": "Oct 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Exit Disappears",
+        "aired": "Oct 16, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 191832,

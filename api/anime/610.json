@@ -140,15 +140,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Secret House",
+        "aired": "Jul 18, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Friends",
+        "aired": "Jul 25, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Magic",
+        "aired": "Aug 1, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "All Alone",
+        "aired": "Aug 8, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Hot Springs",
+        "aired": "Aug 15, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "I'm Home",
+        "aired": "Aug 22, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Things I Can't Say",
+        "aired": "Aug 29, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Christmas",
+        "aired": "Sep 5, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Once More",
+        "aired": "Sep 12, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Gift",
+        "aired": "Sep 19, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Separation",
+        "aired": "Sep 26, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Popotan",
+        "aired": "Oct 3, 2003",
         "filler": false,
         "recap": false
       }

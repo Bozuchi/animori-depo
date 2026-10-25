@@ -49,7 +49,15 @@
       }
     ],
     "episodes": 13,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Nikola the Servant Girl",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 163077,

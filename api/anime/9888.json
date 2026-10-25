@@ -119,7 +119,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Mini Squid Girl Short Story Part 1",
+        "aired": "Apr 20, 2011",
+        "filler": true,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Mini Squid Girl Short Story Part 2",
+        "aired": "May 18, 2011",
+        "filler": true,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 9888,

@@ -88,8 +88,92 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Grim Reaper and the Transfer Student",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Lunch Duty and Ghost Photographs and Love Letters",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Summer Vacation Begins",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Grandma's House",
+        "aired": "Apr 23, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Call Me the Grim Reaper",
+        "aired": "Apr 30, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Changing Desks, Class Reps, and New Friends",
+        "aired": "May 7, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Field Trips and the Magic of Marinated Eggs",
+        "aired": "May 14, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Yukata, Jungle Gyms, and Orthopedic Casts",
+        "aired": "May 21, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Run! Shout! Field Day",
+        "aired": "May 28, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "My First Time Having Guests Over",
+        "aired": "Jun 4, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Swift Reaper Alliance, the Cursed Song, and Christmas",
+        "aired": "Jun 11, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Christmas Party Confession",
+        "aired": "Jun 18, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "10 Years Later, the Same as Today",
+        "aired": "Jun 25, 2023",
         "filler": false,
         "recap": false
       }

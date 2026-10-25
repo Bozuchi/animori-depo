@@ -151,15 +151,29 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Chapter of Hyoki",
+        "aired": "Dec 21, 1989",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Chapter of Goma",
+        "aired": "Jul 1, 1990",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Chapter of Tekki",
+        "aired": "Mar 1, 1991",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Chapter of Ongoku",
+        "aired": "Dec 21, 1991",
         "filler": false,
         "recap": false
       }

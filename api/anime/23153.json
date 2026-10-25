@@ -157,22 +157,22 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Volume 1",
+        "aired": "Jun 18, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Volume 2",
+        "aired": "Sep 18, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Volume 3",
+        "aired": "Dec 16, 2014",
         "filler": true,
         "recap": false
       }

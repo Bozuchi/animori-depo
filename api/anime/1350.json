@@ -73,9 +73,23 @@
     "episodes": 3,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "A Faint Voice",
+        "aired": "May 22, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Dreamer",
+        "aired": "Jun 25, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Knights of a Roundtable",
+        "aired": "Jul 24, 2003",
         "filler": false,
         "recap": false
       }

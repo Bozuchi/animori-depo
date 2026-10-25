@@ -76,8 +76,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Promise That Started It All",
+        "aired": "Jan 7, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Covenant Ritual",
+        "aired": "Jan 14, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Long Rain Village",
+        "aired": "Jan 21, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Drifting Spear",
+        "aired": "Jan 28, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Test of Strength",
+        "aired": "Feb 11, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "An Inescapable Shadow",
+        "aired": "Feb 11, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Violet Evokes the Memory of Horns",
+        "aired": "Feb 18, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Proof of Identity",
+        "aired": "Feb 25, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Warrior and the Healer",
+        "aired": "Mar 4, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Emissary of the Securians",
+        "aired": "Mar 11, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Fleeting Flower",
+        "aired": "Mar 18, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Ring's Judgment",
+        "aired": "Mar 25, 2023",
         "filler": false,
         "recap": false
       }

@@ -310,43 +310,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Can't Be Seen, Can't Be Heard",
+        "aired": "Jul 15, 2017",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "There's Only You",
+        "aired": "Jul 22, 2017",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Someday, Somebody Will...",
+        "aired": "Jul 29, 2017",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Bury Me Deep",
+        "aired": "Aug 5, 2017",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "I Can Hear the Song of the Wind",
+        "aired": "Aug 12, 2017",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Twill",
+        "aired": "Aug 19, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Tarnished Mound",
+        "aired": "Aug 26, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Early Afternoon Window",
+        "aired": "Sep 2, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Spilled Bits",
+        "aired": "Sep 9, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Black Rut",
+        "aired": "Sep 16, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "A Bird in a Cage",
+        "aired": "Sep 23, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Stray Inari Spirit",
+        "aired": "Sep 30, 2017",
         "filler": false,
         "recap": false
       }

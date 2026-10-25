@@ -174,7 +174,64 @@
       }
     ],
     "episodes": 8,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Scraggy and Mimikyu",
+        "aired": "Jun 5, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Pancham Who Wants to Be a Hero",
+        "aired": "May 5, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Blossom's Dream",
+        "aired": "Jun 4, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Wait for Me, Magikarp!",
+        "aired": "Jul 2, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Slugma-Powered Home",
+        "aired": "Aug 5, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Help! I've Turned into a Gengar",
+        "aired": "Sep 10, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Snorunt's Summer Vacation",
+        "aired": "Oct 8, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Jigglypuff's Song",
+        "aired": "Dec 28, 2021",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 119964,

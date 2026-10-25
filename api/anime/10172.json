@@ -312,7 +312,50 @@
       }
     ],
     "episodes": 6,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "I Want to Touch Her♥Satellizer, the Girl with Glasses",
+        "aired": "Mar 30, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "So Many Secrets: First Room Entry",
+        "aired": "Apr 27, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Someone's Going to See♥Overly-extreme Physical",
+        "aired": "May 25, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Genetics Swim Meet: Yeah, with Nip Slips",
+        "aired": "Jun 22, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Don't Look♥The Pandora's Bare Change of Clothes",
+        "aired": "Jul 27, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Freezing Gone Wild♥Sighs-a-plenty for the Pandoras",
+        "aired": "Aug 24, 2011",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 10172,

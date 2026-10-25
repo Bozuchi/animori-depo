@@ -206,22 +206,43 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "New Semester",
+        "aired": "Sep 26, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Sudden Rain",
+        "aired": "Mar 25, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "I Love",
+        "aired": "Mar 25, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Summer Flu",
+        "aired": "Dec 14, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Midsummer Day",
+        "aired": "May 25, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "A Kind Person",
+        "aired": "May 25, 2021",
         "filler": false,
         "recap": false
       }

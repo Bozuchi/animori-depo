@@ -793,127 +793,1086 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Return of Lupin the 3rd",
+        "aired": "Oct 3, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Buns, Guns, and Fun in the Sun",
+        "aired": "Oct 10, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "To Be or Nazi Be",
+        "aired": "Oct 17, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "50 Ways to Leave Your 50-Foot Lover",
+        "aired": "Oct 24, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Gold Smuggling 101",
+        "aired": "Oct 31, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Shaky Pisa",
+        "aired": "Nov 7, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Cursed Case Scenario",
+        "aired": "Nov 14, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Disorient Express",
+        "aired": "Nov 21, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Now Museum, Now You Don't",
+        "aired": "Nov 28, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "ZenigataCon",
+        "aired": "Dec 5, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Who's Vrooming Who",
+        "aired": "Dec 12, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "The Sleight Before Christmas",
+        "aired": "Dec 19, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "I Left My Mind in San Francisco",
+        "aired": "Dec 26, 1977",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Curse of the Jumbo Juju",
+        "aired": "Jan 9, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "The Case of the Risible Dirigible",
+        "aired": "Jan 16, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "Crude Reproduction, Perfect Frame",
+        "aired": "Jan 23, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "Sheik-down",
+        "aired": "Jan 30, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "My Birthday Pursuit",
+        "aired": "Feb 6, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "A Safe Bet",
+        "aired": "Feb 13, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Hell Toupee",
+        "aired": "Feb 20, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "The Last Mastery",
+        "aired": "Feb 27, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Lupin in Paradise",
+        "aired": "Mar 6, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Auntie Ballistics",
+        "aired": "Mar 13, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Rats to You",
+        "aired": "Mar 20, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "The Lair of the Land-shark",
+        "aired": "Mar 27, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Shot Through the Heart",
+        "aired": "Apr 3, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "The Little Princess of Darkness",
+        "aired": "Apr 10, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Revenge of La Nerd",
+        "aired": "Apr 17, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Fly Me to the Moon",
+        "aired": "Apr 24, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Morocco Horror Picture Show",
+        "aired": "May 1, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Twin Pique",
+        "aired": "May 8, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Lupin the Interred",
+        "aired": "May 15, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "A Rumble Royal",
+        "aired": "May 22, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "But Your Brother Was Such A Nice Guy",
+        "aired": "May 29, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Gorilla Tactics",
+        "aired": "Jun 5, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "The Riddle of Tsukikage Castle",
+        "aired": "Jun 12, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Khan Job",
+        "aired": "Jun 19, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Happy Betrayals to You",
+        "aired": "Jun 26, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Pretty Cluckin Insane",
+        "aired": "Jul 3, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Payload",
+        "aired": "Jul 10, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Heroes and Vixens",
+        "aired": "Jul 17, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Cruisin in Drag",
+        "aired": "Jul 24, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Jumpin the Bones",
+        "aired": "Jul 31, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Lion, Cheatin' And Stealin",
+        "aired": "Aug 7, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Diamonds and Minx",
+        "aired": "Aug 14, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "The Island of Dr. Derange",
+        "aired": "Aug 21, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Crownin' Around",
+        "aired": "Aug 28, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Vault Assault",
+        "aired": "Sep 4, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Snake Charmer",
+        "aired": "Sep 11, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "The Second Time Around, Part One",
+        "aired": "Sep 18, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "The Second Time Around, Part Two",
+        "aired": "Sep 25, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "Emmanuelle in Bangkok",
+        "aired": "Oct 2, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "I Melt With You",
+        "aired": "Oct 9, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "Mercy Mercy Me",
+        "aired": "Oct 16, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "Kooky Kabuki - Part One",
+        "aired": "Oct 23, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "Kooky Kabuki - Part Two",
+        "aired": "Oct 30, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "Alter-Ego Maniac",
+        "aired": "Nov 6, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "Getting' Jigen With It",
+        "aired": "Nov 13, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "Madame Prefers Them Hand-Dipped",
+        "aired": "Nov 20, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "Holy Cow",
+        "aired": "Nov 27, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "The Yam Is Mightier Than The Sword",
+        "aired": "Dec 4, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 62,
+        "title": "Church of the Poison Mind",
+        "aired": "Dec 11, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 63,
+        "title": "Charity Begins At Home",
+        "aired": "Dec 18, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 64,
+        "title": "Christmas at Tiffany's",
+        "aired": "Dec 25, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 65,
+        "title": "Return of the X Factor",
+        "aired": "Jan 8, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 66,
+        "title": "Beauty and the Deceased",
+        "aired": "Jan 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 67,
+        "title": "Monkey King Business",
+        "aired": "Jan 22, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 68,
+        "title": "Games of Chance",
+        "aired": "Jan 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 69,
+        "title": "Zenigata Getcha Into My Life",
+        "aired": "Feb 5, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 70,
+        "title": "Can't Beat the Classics",
+        "aired": "Feb 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 71,
+        "title": "Dangerous Dreamers",
+        "aired": "Feb 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 72,
+        "title": "You're Sapphired!",
+        "aired": "Feb 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 73,
+        "title": "It's a Purloin-a-Palooza!",
+        "aired": "Mar 5, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 74,
+        "title": "For Larva or Money",
+        "aired": "Mar 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 75,
+        "title": "The Bride Came D.O.A.",
+        "aired": "Mar 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 76,
+        "title": "Dark Charade",
+        "aired": "Mar 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 77,
+        "title": "Lupin's Psychic Fiend",
+        "aired": "Apr 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 78,
+        "title": "Ice, Robot",
+        "aired": "Apr 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 79,
+        "title": "Baton Death March",
+        "aired": "Apr 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 80,
+        "title": "Everybody Loves Ramen",
+        "aired": "Apr 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 81,
+        "title": "Fujiko, Men are A Sorry Lot!",
+        "aired": "Apr 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 82,
+        "title": "Hostage Rescue Operation: Daddio",
+        "aired": "May 7, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 83,
+        "title": "Lupin in the Wild West",
+        "aired": "May 14, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 84,
+        "title": "Leave the Revenge to Lupin",
+        "aired": "May 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 85,
+        "title": "The Secret Order of ICPO",
+        "aired": "May 28, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 86,
+        "title": "The Mysterious Nocturnal Mask",
+        "aired": "Jun 4, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 87,
+        "title": "When the Devil Calls to Lupin",
+        "aired": "Jun 11, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 88,
+        "title": "Lupin's North Pole, South Pole Adventures",
+        "aired": "Jun 18, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 89,
+        "title": "Play the Thief’s Symphony",
+        "aired": "Jun 25, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 90,
+        "title": "The Badder A Guy, The More Villainous He Is",
+        "aired": "Jul 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 91,
+        "title": "The Time Traveling Girl",
+        "aired": "Jul 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 92,
+        "title": "The Merry Widow and the Robber's Quartette",
+        "aired": "Jul 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 93,
+        "title": "Operation INVADER at the Great Wall of China",
+        "aired": "Jul 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 94,
+        "title": "Lupin Vs. Superman",
+        "aired": "Jul 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 95,
+        "title": "From the Ghost Ship with Love",
+        "aired": "Aug 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 96,
+        "title": "Lupin's Gourmet World",
+        "aired": "Aug 13, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 97,
+        "title": "Searching for Lupin I's Treasure",
+        "aired": "Aug 20, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 98,
+        "title": "The Day Without Daddio",
+        "aired": "Aug 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 99,
+        "title": "Fighting Jigen",
+        "aired": "Sep 3, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 100,
+        "title": "The Ultra Operation in the Train",
+        "aired": "Sep 10, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 101,
+        "title": "Fervent Love at Versailles",
+        "aired": "Sep 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 102,
+        "title": "Lupin, Do You Like Chanel?",
+        "aired": "Sep 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 103,
+        "title": "The Wolf Looked at an Angel!",
+        "aired": "Oct 1, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 104,
+        "title": "The Most Dangerous Golden Bed",
+        "aired": "Oct 8, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 105,
+        "title": "The Mystery of Demon's Head Island",
+        "aired": "Oct 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 106,
+        "title": "A Cat for You! Dried Bonito for Me!",
+        "aired": "Oct 22, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 107,
+        "title": "The Wedding Ring is a Cursed Trap",
+        "aired": "Oct 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 108,
+        "title": "Iron Cutter Sword With Blues",
+        "aired": "Nov 5, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 109,
+        "title": "Lupin Only Lives Twice",
+        "aired": "Nov 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 110,
+        "title": "Sharp Shot! This is Fujiko",
+        "aired": "Nov 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 111,
+        "title": "Enjoy the Invaders Game",
+        "aired": "Nov 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 112,
+        "title": "Danger! Goemon",
+        "aired": "Dec 3, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 113,
+        "title": "OPERATION 'CHUSHINGURA",
+        "aired": "Dec 10, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 114,
+        "title": "The Secret of the First Supper",
+        "aired": "Dec 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 115,
+        "title": "Mona Lisa Smiles Twice",
+        "aired": "Dec 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 116,
+        "title": "Has the Bells Rung 108 Times?",
+        "aired": "Dec 31, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 117,
+        "title": "The Strategy of the Chewing Gum Disguise",
+        "aired": "Jan 7, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 118,
+        "title": "Diamonds in the Southern Cross",
+        "aired": "Jan 14, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 119,
+        "title": "Lupin Kills Lupin",
+        "aired": "Jan 21, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 120,
+        "title": "Frankenstein Attacks Lupin",
+        "aired": "Jan 28, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 121,
+        "title": "A Treasure My Grandfather Left",
+        "aired": "Feb 4, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 122,
+        "title": "An Unusual End to an Expedition for Napoleon's Treasure",
+        "aired": "Feb 11, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 123,
+        "title": "Robbery in Paris",
+        "aired": "Feb 18, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 124,
+        "title": "Nineteen Ninety Nine Popcorn Trip",
+        "aired": "Feb 25, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 125,
+        "title": "The Scheme for Oil Dollars",
+        "aired": "Mar 3, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 126,
+        "title": "Take Lupin All The Way to Hell",
+        "aired": "Mar 10, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 127,
+        "title": "The Direct Attack! Dead Ball Strategy",
+        "aired": "Mar 17, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 128,
+        "title": "Lupin and An Old Woman's Scheme",
+        "aired": "Mar 24, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 129,
+        "title": "The Kindness Of Jigen is Seen",
+        "aired": "Mar 31, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 130,
+        "title": "Lupin vs The Man of Two Faces",
+        "aired": "Apr 7, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 131,
+        "title": "The Secret of Goemon's Zantetsu Sword",
+        "aired": "Apr 14, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 132,
+        "title": "The Himalayan Thief Group",
+        "aired": "Apr 21, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 133,
+        "title": "Don't Steal the Hot Treasure",
+        "aired": "Apr 28, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 134,
+        "title": "The Surrounded Summit Strategy",
+        "aired": "May 5, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 135,
+        "title": "The Poison Trio",
+        "aired": "May 12, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 136,
+        "title": "The Golden Butterfly takes Revenge",
+        "aired": "May 19, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 137,
+        "title": "Team Work",
+        "aired": "May 26, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 138,
+        "title": "Pompeii's Secret and the Treasure",
+        "aired": "Jun 2, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 139,
+        "title": "Steal Everything from Lupin",
+        "aired": "Jun 9, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 140,
+        "title": "The Wolf Runs and the Pig Rolls",
+        "aired": "Jun 16, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 141,
+        "title": "Apocalypse of Moscow 1980",
+        "aired": "Jun 30, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 142,
+        "title": "The Disappearing Favourite",
+        "aired": "Jul 7, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 143,
+        "title": "The Miami Bank",
+        "aired": "Jul 14, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 144,
+        "title": "Hair breadth rescue operation for Fujiko",
+        "aired": "Jul 21, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 145,
+        "title": "Wings of Death; Albatross",
+        "aired": "Jul 28, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 146,
+        "title": "Lupin is Defeated",
+        "aired": "Aug 4, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 147,
+        "title": "The Mermaid That Disappear in the Midnight Sun",
+        "aired": "Aug 1, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 148,
+        "title": "The Target is Five Hundred and Fifty Five Meters Away",
+        "aired": "Aug 18, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 149,
+        "title": "Mecca Robbery",
+        "aired": "Aug 25, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 150,
+        "title": "Piano Symphony \"Zoo\"",
+        "aired": "Sep 1, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 151,
+        "title": "To Arrest Lupin, the Mission at Highway",
+        "aired": "Sep 8, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 152,
+        "title": "Jigen and The Hatless Pistol",
+        "aired": "Sep 15, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 153,
+        "title": "Money from Heaven",
+        "aired": "Sep 22, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 154,
+        "title": "Hexagon's Fabulous Legacy",
+        "aired": "Sep 29, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 155,
+        "title": "Thieves Love the Peace",
+        "aired": "Oct 6, 1980",
         "filler": false,
         "recap": false
       }

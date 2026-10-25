@@ -113,7 +113,36 @@
       }
     ],
     "episodes": 4,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "A Breeze on the Cafe Terrace",
+        "aired": "Aug 5, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Haruno's Overture",
+        "aired": "Aug 5, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Poco a Poco",
+        "aired": "Oct 7, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "And Thus Begun Their Memoires",
+        "aired": "Oct 7, 2012",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 13283,

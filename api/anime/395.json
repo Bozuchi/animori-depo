@@ -670,7 +670,99 @@
       }
     ],
     "episodes": 13,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Goodbye...",
+        "aired": "Aug 26, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Go Fast!",
+        "aired": "Sep 2, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "It's Me!",
+        "aired": "Sep 9, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Is It OK to Shoot Them?",
+        "aired": "Sep 16, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Welcome Back",
+        "aired": "Sep 23, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "What the Hell is This?",
+        "aired": "Sep 30, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Shoot Me!",
+        "aired": "Oct 7, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Brother?",
+        "aired": "Oct 14, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Don't Ever Say That Again!",
+        "aired": "Oct 21, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Kurono Alien",
+        "aired": "Oct 28, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "There's No Labyrinth I Can't Get Out Of!!",
+        "aired": "Nov 4, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Let's Go Back Alive",
+        "aired": "Nov 11, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Please Live!",
+        "aired": "Nov 18, 2004",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 395,

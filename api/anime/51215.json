@@ -173,22 +173,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Trading Company",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "A Foreign Country",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Ceremony",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Imperial Prince",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Purpose",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Divine Blessing",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Interlude",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Frontier",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Final Act",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Longing",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Theatergoing",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Blessing",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       }

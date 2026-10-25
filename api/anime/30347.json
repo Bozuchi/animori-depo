@@ -139,7 +139,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Bandit Ban",
+        "aired": "Jun 17, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Heroes Fun Time",
+        "aired": "Aug 12, 2015",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21104,

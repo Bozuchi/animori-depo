@@ -170,22 +170,92 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Activate",
+        "aired": "Oct 5, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Voyage",
+        "aired": "Oct 12, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Reason to Fight",
+        "aired": "Oct 19, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Separate Ways",
+        "aired": "Oct 26, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Determination",
+        "aired": "Nov 2, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Journey",
+        "aired": "Nov 9, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Hunt",
+        "aired": "Nov 16, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Path to Recovery",
+        "aired": "Nov 23, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Autonomous Area",
+        "aired": "Nov 30, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Expedition",
+        "aired": "Dec 7, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Encirclement",
+        "aired": "Dec 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Battle of the Oki Islands (Part 1)",
+        "aired": "Dec 21, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Battle of the Oki Islands (Part 2)",
+        "aired": "Dec 28, 2021",
         "filler": false,
         "recap": false
       }

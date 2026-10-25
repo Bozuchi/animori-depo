@@ -273,7 +273,29 @@
       }
     ],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "It Appeared Suddenly=Love",
+        "aired": "Mar 29, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Friend's Distance",
+        "aired": "Feb 26, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Company Outing",
+        "aired": "Oct 14, 2021",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 104217,

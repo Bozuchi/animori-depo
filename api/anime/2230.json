@@ -52,7 +52,358 @@
       }
     ],
     "episodes": 50,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Mysterious Visitor",
+        "aired": "Feb 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Stormy Spring has Called a Dream",
+        "aired": "Feb 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Blooming 7-Color Flowers in the Old Castle",
+        "aired": "Feb 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Older Sister is the Rose Queenx",
+        "aired": "Mar 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Flowerless Town",
+        "aired": "Mar 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Grandmother's Grape Garden",
+        "aired": "Mar 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Blooming Flowers to Pierney",
+        "aired": "Mar 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Small Columbus's Dream",
+        "aired": "Mar 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Sunset of Majorca Island",
+        "aired": "Apr 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Madrid's Lovely Small Box",
+        "aired": "Apr 20, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "A Matador's Friendship",
+        "aired": "Apr 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Andalusia Girl's Wish",
+        "aired": "May 4, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Loading a Freighter is Detested",
+        "aired": "May 18, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Homesick Fast Express",
+        "aired": "May 25, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "The Heroine of the Flowery Town",
+        "aired": "Jun 1, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Cinderella's Wooden Shoes",
+        "aired": "Jun 8, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Flower Thief's Windmill",
+        "aired": "Jun 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Fickleness One's Love",
+        "aired": "Jun 22, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Rhine River's Tour Date",
+        "aired": "Jun 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "See the Hills of the Old Castle",
+        "aired": "Jul 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Bremen's Naughty Boy",
+        "aired": "Jul 13, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "The tender Mother of the Inside Drawing",
+        "aired": "Jul 20, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "The Knight's Illusion White Horse",
+        "aired": "Jul 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "The Miracle Flower Key",
+        "aired": "Aug 3, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "The Knife boy of the Lake Shore",
+        "aired": "Aug 10, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "The Tear's Stained Love in the Mud",
+        "aired": "Aug 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "The Coach is Studying Poor",
+        "aired": "Aug 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Robbing Torn Letter",
+        "aired": "Sep 7, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Here I am Drifting Inside of the Blimp",
+        "aired": "Sep 14, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Merry-Go-Round of Midnight",
+        "aired": "Sep 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "The Viking's Treasure",
+        "aired": "Sep 28, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "The Cub in the Rage-Flying Trap",
+        "aired": "Oct 5, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "The Childhood Friend's Land of the White Night",
+        "aired": "Oct 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "The Siblings from Lapland",
+        "aired": "Oct 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Dangerous Inviting Pendant",
+        "aired": "Oct 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Emergency Landing's Reunion",
+        "aired": "Nov 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Eccentric Doctor's Mansion",
+        "aired": "Nov 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Pick up a Puppy",
+        "aired": "Nov 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "The One Way Ticket to Morocco",
+        "aired": "Nov 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Fantasia's Gunshot",
+        "aired": "Nov 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "The Egyptian Queen's Ring",
+        "aired": "Dec 7, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Sicily's Fugitive",
+        "aired": "Dec 14, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Dangerous Treasure",
+        "aired": "Dec 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "A Dancing Single Photo in the Pollen Winds",
+        "aired": "Dec 28, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Tres Bien's Spring Oath",
+        "aired": "Jan 4, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Get out of Love, Florence",
+        "aired": "Jan 11, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Stealing Rare Flower's Key",
+        "aired": "Jan 18, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Sanremo's Yearning Person",
+        "aired": "Jan 25, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "The 7-Color Flower that Invites a Rainbow",
+        "aired": "Feb 1, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "The Happiness full of Flowers",
+        "aired": "Feb 8, 1980",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 2230,

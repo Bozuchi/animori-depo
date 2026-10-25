@@ -141,7 +141,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "No Love's Like to the First.",
+        "aired": "Mar 22, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Quarrel of Lovers is the Renewal of Love.",
+        "aired": "Sep 27, 2011",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 8063,

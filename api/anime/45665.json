@@ -170,22 +170,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Romance",
+        "aired": "Apr 8, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Wrath",
+        "aired": "Apr 15, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Envy",
+        "aired": "Apr 22, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Degeneracy",
+        "aired": "Apr 29, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Lust",
+        "aired": "May 6, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Liberation",
+        "aired": "May 13, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Pride",
+        "aired": "May 20, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Violence",
+        "aired": "May 27, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Apathy",
+        "aired": "Jun 3, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Hedonism",
+        "aired": "Jun 10, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Hatred",
+        "aired": "Jun 17, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Love",
+        "aired": "Jun 24, 2021",
         "filler": false,
         "recap": false
       }

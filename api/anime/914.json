@@ -338,44 +338,184 @@
     "episodes": 26,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "School Boys / Evil Plot",
+        "aired": "Apr 6, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Half-Baked / The Worms",
+        "aired": "Apr 12, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Maeno Germ / Seductive Snob",
+        "aired": "Apr 29, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Purchase / Hot Summer",
+        "aired": "Apr 27, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Training Camp / Curse of Takeda",
+        "aired": "May 4, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Sixty Years / Burning Spirit",
+        "aired": "May 11, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Inachu Vs. / Sex Ticket",
+        "aired": "May 18, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Love & Comedy / Love & Comedy Part II",
+        "aired": "May 24, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "First Love / Loser's Community",
+        "aired": "Jun 1, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Dress-Up Dolls / Ultra Tanabe",
+        "aired": "Jun 8, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Winning the Lottery! Part 1 / Winning the Lottery! Part 2",
+        "aired": "Jun 15, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Shibazaki's Plan / Survival",
+        "aired": "Jun 29, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Friendship / Tsutomu",
+        "aired": "Jul 6, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Saturday Hare / The Wimp",
+        "aired": "Jul 20, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "The Outcast / Shorty",
+        "aired": "Jul 20, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Dr. Maeno Part I / Dr. Maeno Part II",
+        "aired": "Jul 27, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Find Happiness / Sheds His Skin",
+        "aired": "Aug 3, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Partner? Part I / Partner? Part II",
+        "aired": "Aug 10, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "The Unfortunates / May I Have It?",
+        "aired": "Aug 17, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "A River / Retirement",
+        "aired": "Aug 24, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Loan King / Flaming Perverts",
+        "aired": "Aug 31, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "The Invasion / Into the Big Sky",
+        "aired": "Sep 7, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "I've Got Guts / A Dramatic Photo!",
+        "aired": "Sep 14, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Fake Drunkard / Takeda Fondles",
+        "aired": "Aug 21, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Wanted Part I / Wanted Part II",
+        "aired": "Sep 25, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Dandy Principal / The Drifters",
+        "aired": "Sep 28, 1995",
         "filler": false,
         "recap": false
       }

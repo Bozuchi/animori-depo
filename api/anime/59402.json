@@ -317,22 +317,36 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Who Was Umino-kun's First Love?",
+        "aired": "Jul 8, 2025",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Onii Confessed to You, Didn't He?",
+        "aired": "Jul 15, 2025",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "That, but Times a Hundred",
+        "aired": "Jul 22, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "I See You're All Together",
+        "aired": "Jul 29, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "It's My Life, Too!!",
+        "aired": "Aug 5, 2025",
         "filler": false,
         "recap": false
       }

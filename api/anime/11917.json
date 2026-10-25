@@ -164,15 +164,15 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "World Series 1",
+        "aired": "Dec 16, 2011",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "World Series 2",
+        "aired": "Jan 18, 2012",
         "filler": true,
         "recap": false
       }

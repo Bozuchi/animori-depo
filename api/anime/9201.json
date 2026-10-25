@@ -188,8 +188,22 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Episode 1",
+        "aired": "Nov 17, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Episode 2",
+        "aired": "Mar 17, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Episode 3",
+        "aired": "Jun 17, 2011",
         "filler": false,
         "recap": false
       }

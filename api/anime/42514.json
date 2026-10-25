@@ -350,64 +350,169 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Chapter 1",
+        "aired": "Oct 9, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Chapter 2",
+        "aired": "Oct 16, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Chapter 3",
+        "aired": "Oct 23, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Chapter 4",
+        "aired": "Oct 30, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Chapter 5",
+        "aired": "Nov 6, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Chapter 6",
+        "aired": "Nov 13, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Chapter 7",
+        "aired": "Nov 20, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Chapter 8",
+        "aired": "Nov 27, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Chapter 9",
+        "aired": "Dec 4, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Chapter 10",
+        "aired": "Dec 11, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Chapter 11",
+        "aired": "Dec 18, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Chapter 12",
+        "aired": "Dec 25, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Chapter 13",
+        "aired": "Jan 8, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Chapter 14",
+        "aired": "Jan 15, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Chapter 15",
+        "aired": "Jan 22, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Chapter 16",
+        "aired": "Jan 29, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Chapter 17",
+        "aired": "Feb 5, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Chapter 18",
+        "aired": "Feb 12, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Chapter 19",
+        "aired": "Feb 19, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Chapter 20",
+        "aired": "Feb 26, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Chapter 21",
+        "aired": "Mar 5, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Chapter 22",
+        "aired": "Mar 12, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Chapter 23",
+        "aired": "Mar 19, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Chapter 24",
+        "aired": "Mar 26, 2021",
         "filler": false,
         "recap": false
       }

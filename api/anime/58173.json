@@ -40,7 +40,36 @@
     ],
     "relations": [],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "I Want to Be a Magician!",
+        "aired": "Oct 5, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Maybe I Can Be a Magician.",
+        "aired": "Oct 12, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "I'm Joining the MRC!",
+        "aired": "Oct 19, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "I'm Gonna Eat Potatoes!",
+        "aired": "Oct 26, 2024",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 107372,

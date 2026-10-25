@@ -558,78 +558,358 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Fierce Demon God Awakens!",
+        "aired": "Jan 9, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Karuma the Demon and her Three Demon Deciples",
+        "aired": "Jan 16, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Shut in by the Shutter",
+        "aired": "Jan 23, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Pot Filled with Desire",
+        "aired": "Jan 30, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Tastes Like Fresh Zenki",
+        "aired": "Feb 6, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Boy and the Telephone",
+        "aired": "Feb 13, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Run for the Finish Line of Desire",
+        "aired": "Feb 20, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Welcome to Hotel Mummy",
+        "aired": "Feb 27, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "A Demon in the Basement and the Fire Spell",
+        "aired": "Mar 6, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "A Boy and his Dogs",
+        "aired": "Mar 13, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "The Night Song of the Samurai",
+        "aired": "Mar 20, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Memories Buried in the Snow",
+        "aired": "Mar 27, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "The Challenge of the Wishing Plaques",
+        "aired": "Apr 3, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "The Legendary Demon God, Reveal Zenki`s Secret",
+        "aired": "Apr 10, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "The Plan of Sealing up The Demon God",
+        "aired": "Apr 17, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "The Spell of Darkness Souma vs Anju",
+        "aired": "Apr 24, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "The Servant of Evil Falls Anju's Longest Day",
+        "aired": "May 1, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "The Diamond Dragon Awakens The Mythical Immortal Mountain",
+        "aired": "May 8, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "The Two Chiakis' 800-year Promise",
+        "aired": "May 15, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Heian Capital up in Flames, Come Diamond Axe!",
+        "aired": "May 22, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Rush to the Future! The Pentagram Shrines in the Ancient Capital",
+        "aired": "May 29, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Shikigami-chou Destroyed Water Formation",
+        "aired": "Jun 5, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Goura the Traitor, Diamond Formation and Earth Formation",
+        "aired": "Jun 12, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Come back to Life Zenki! Flame Formation",
+        "aired": "Jun 19, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "The Last Battle! The end of Karuma",
+        "aired": "Jun 26, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Eve of the Demon God Festival, Lulupapa Appears",
+        "aired": "Jul 3, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "A New Enemy, I'm the Prince of the Realm of the Dead",
+        "aired": "Jul 10, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "The Awakening of the Heartbeat! Akira's Secret",
+        "aired": "Jul 17, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Roar out! The Great Demon God Vajura Mahar Samaskara",
+        "aired": "Jul 24, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Stolen Faces, Beware of the Pick-up Artist!",
+        "aired": "Jul 31, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "The Hands That Create Souls. The Night of the Dolls",
+        "aired": "Aug 7, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Terror by the Lake, Listen to the Song of the Spirit",
+        "aired": "Aug 14, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Fragments of Desire. Chiaki in Big Trouble!",
+        "aired": "Aug 21, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Jukai Runs for Office! Daruma Power, Cast Your Honest Vote!",
+        "aired": "Aug 28, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "An Arrow that Pierces the Full Moon. Ichiko's Secret",
+        "aired": "Sep 4, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Forbidden Garden. Let`s Put Flowers on our Head!",
+        "aired": "Sep 11, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "A Star is Born. Got the Punch Line?",
+        "aired": "Sep 18, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "The Nightmare of the Lost Pool, Souma Returns",
+        "aired": "Sep 25, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Hirumaki's Scheme. The Shadow of Death Creeps",
+        "aired": "Oct 2, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Dangerous Encounter. Sayaka's Crush",
+        "aired": "Oct 9, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Kokutei Gets Kidnapped, Assassinate the Dog Deity!",
+        "aired": "Oct 16, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Akira is the Target. Attacker from the Realm of the Dead",
+        "aired": "Oct 23, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Darkness Approaches, Chiaki Gets Tested",
+        "aired": "Oct 30, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "The Miracle of Mother Mary, The Memory of an Ancient Jewel",
+        "aired": "Nov 6, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Kaze Dies at Dawn, Kill the Phantom Karuma Beast!",
+        "aired": "Nov 13, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Beautiful Beast, Negation Power",
+        "aired": "Nov 20, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Enno Shrine Under Attack. Come, Earth Dragon Staff!",
+        "aired": "Nov 27, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "The Fate of the Moon and the Wolf. Beyond the White and Silver!",
+        "aired": "Dec 4, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "The Demon God Versus the Dog Deity. The Last Battle of Destiny",
+        "aired": "Dec 11, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "The God of Destruction Arrives. Fight, Courageous Ones!",
+        "aired": "Dec 18, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Go Demon God! Diamond Axe Rudra!",
+        "aired": "Dec 25, 1995",
         "filler": false,
         "recap": false
       }

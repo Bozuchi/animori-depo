@@ -186,29 +186,43 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "A Day of Perfection",
+        "aired": "Dec 23, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "A Cup of Tequila",
+        "aired": "Dec 30, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "A Night of Rain",
+        "aired": "Jan 6, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "A Lapping of Waves",
+        "aired": "Jan 13, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "A Minute of Investigation",
+        "aired": "Jan 20, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "A Day We Love Best",
+        "aired": "Feb 3, 2023",
         "filler": false,
         "recap": false
       }

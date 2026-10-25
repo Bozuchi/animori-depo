@@ -54,7 +54,50 @@
       }
     ],
     "episodes": 6,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Episode 1",
+        "aired": "Dec 21, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Episode 2",
+        "aired": "Feb 22, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Episode 3",
+        "aired": "Mar 22, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Episode 4",
+        "aired": "Apr 24, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Episode 5",
+        "aired": "May 28, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Episode 6",
+        "aired": "Jun 21, 2013",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 130362,

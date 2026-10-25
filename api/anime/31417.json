@@ -338,43 +338,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Love, Once More!",
+        "aired": "Jul 8, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Love is a Mayfly",
+        "aired": "Jul 15, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Brotherly Love",
+        "aired": "Jul 22, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Synchronicity of Love",
+        "aired": "Jul 29, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Receive Love!",
+        "aired": "Aug 5, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Everyone Loves Someone!",
+        "aired": "Aug 12, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "A Christmas of Love and Miracles",
+        "aired": "Aug 19, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Love is Like the Snow",
+        "aired": "Aug 26, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Chemical Substance of Love",
+        "aired": "Sep 2, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Days of Love and Acclaim",
+        "aired": "Sep 9, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Love is What Matters!",
+        "aired": "Sep 16, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Love Will Save the Earth!",
+        "aired": "Sep 23, 2016",
         "filler": false,
         "recap": false
       }

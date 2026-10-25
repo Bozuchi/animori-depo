@@ -379,8 +379,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Spooky Scary Sensei",
+        "aired": "Apr 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Weak and Wimpy After School",
+        "aired": "Apr 18, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Communicating By Touch",
+        "aired": "Apr 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "A Weak and Wimpy School Camp",
+        "aired": "May 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "A Weak and Wimpy Date",
+        "aired": "May 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Weak and Wimpy Blackmail",
+        "aired": "May 16, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "A Weak and Wimpy Photography Training Camp 1",
+        "aired": "May 23, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "A Weak and Wimpy Photography Training Camp 2",
+        "aired": "May 30, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "A Weak and Wimpy Fireworks Display",
+        "aired": "Jun 6, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "A Weak and Wimpy \"Best Summer Ever\"",
+        "aired": "Jun 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Strong and Sturdy Feelings",
+        "aired": "Jun 20, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "A Weak and Wimpy Jump Rope Tournament",
+        "aired": "Jun 27, 2026",
         "filler": false,
         "recap": false
       }

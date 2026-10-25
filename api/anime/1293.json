@@ -4688,842 +4688,1367 @@
     "episodes": 195,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "I'm Lum the Notorious! / It's Raining Oil in Our Town",
+        "aired": "Oct 14, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Mail from Space - Ten-chan Arrives! / Mrs. Swallow and Mrs. Penguin",
+        "aired": "Oct 21, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Coming of Rei, the Handsome Shapechanger! / Die, Ladykiller!",
+        "aired": "Oct 28, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Kintaro from the Autumn Sky! / Gonna Live Like a Man!",
+        "aired": "Nov 4, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Sakura, Raving Beauty of Mystery / Virus in Distress",
+        "aired": "Nov 18, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Black Hole Love Triangle / It's a Lovesick Little Demon!",
+        "aired": "Nov 25, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Electric Shocks Scare Me! / Voodoo Dolls of Vengeance",
+        "aired": "Dec 2, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Neptune is Beyond My Closet, / That Crazy Age of the Dinosaurs",
+        "aired": "Dec 9, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Princess Kurama, Sleeping Beauty / Athletics in Women's Hell!",
+        "aired": "Dec 16, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Pitter Patter Christmas Eve",
+        "aired": "Dec 23, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Ataru Genji Goes to the Heian Capital",
+        "aired": "Jan 6, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Battle Royal of Love / Father You Were Strong",
+        "aired": "Jan 13, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Hawaiian Swimsuit Thief / Full Course From Hell",
+        "aired": "Jan 20, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Mendo Brings Trouble! / Constellation is Spinning",
+        "aired": "Jan 27, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "The Great Spring War / The Benten Gang's Return Match",
+        "aired": "Feb 3, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Ah Lone Teacher! / Terrifying Visiting Day",
+        "aired": "Feb 10, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "The Fourth Dimension Camera / Demonic Running",
+        "aired": "Feb 24, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Girls' Day! Introducing Ran-chan / Ran-chan's Invitation",
+        "aired": "Mar 3, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "The Tearful Diary of Tomorrow / Whose Kid Is This?",
+        "aired": "Mar 10, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Sleepy Serene Springtime Classroom / Peach Blossom Song Contest",
+        "aired": "Mar 17, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Duel! Ataru vs Ataru / Wake up to a Nightmare",
+        "aired": "Mar 24, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Great Space Matchmaking Operation",
+        "aired": "Apr 7, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Big Springtime Picnic Uproar!",
+        "aired": "Mar 14, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Beware of Earmuffs!",
+        "aired": "Apr 21, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Fly Imo-chan!",
+        "aired": "Apr 28, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Ten-chan's Love",
+        "aired": "May 5, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "What a Dracula",
+        "aired": "May 12, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Lum's Education Lecture Course for Boys",
+        "aired": "May 19, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "From the Gardenia with Love",
+        "aired": "May 26, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "A Beautiful Girl Brings Rain",
+        "aired": "Jun 2, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Gimme Back My Horn!",
+        "aired": "Jun 9, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Shock Library - Quiet Please!",
+        "aired": "Jun 16, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Teacher Hanawa Arrives! It's the Youth",
+        "aired": "Jun 23, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Goblin in Distress - Wonderful People",
+        "aired": "Jun 30, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Darling had It This Time!",
+        "aired": "Jul 14, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Rei Returns! The Big Study Hall Uproar!!",
+        "aired": "Jul 21, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "The Coming of The Phantom Red Mantle!",
+        "aired": "Jul 28, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Steal Darling! Copy Operation!!",
+        "aired": "Aug 4, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Thrilling Summer Date",
+        "aired": "Aug 11, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "So long Byebye Summer Daysv",
+        "aired": "Aug 18, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Panic in Typhoon!",
+        "aired": "Sep 1, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Drunkard's Boogie",
+        "aired": "Sep 8, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Terror of Meow",
+        "aired": "Sep 22, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "After You've gone",
+        "aired": "Oct 13, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Lum-chan's Class Reunion",
+        "aired": "Oct 20, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Those Buy-Eaters Gather Round!",
+        "aired": "Oct 27, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 47,
-        "title": "47. Bölüm",
-        "aired": null,
+        "title": "Terror! The Deserted Fossil Grounds Mystery",
+        "aired": "Nov 3, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 48,
-        "title": "48. Bölüm",
-        "aired": null,
+        "title": "Princess Kurama - A New Challenge!",
+        "aired": "Nov 10, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 49,
-        "title": "49. Bölüm",
-        "aired": null,
+        "title": "The Terrifying Cavity WARS!",
+        "aired": "Nov 17, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 50,
-        "title": "50. Bölüm",
-        "aired": null,
+        "title": "The Mendo Siblings!",
+        "aired": "Nov 24, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 51,
-        "title": "51. Bölüm",
-        "aired": null,
+        "title": "A Cat with a Grudge on the Stairs",
+        "aired": "Dec 1, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 52,
-        "title": "52. Bölüm",
-        "aired": null,
+        "title": "Can a Raccoon Repay a Favor!?",
+        "aired": "Dec 8, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 53,
-        "title": "53. Bölüm",
-        "aired": null,
+        "title": "The Suicide Subspace Parttime Job",
+        "aired": "Dec 15, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 54,
-        "title": "54. Bölüm",
-        "aired": null,
+        "title": "The Big Year-End Party that Lum-chan Organized!",
+        "aired": "Dec 22, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 55,
-        "title": "55. Bölüm",
-        "aired": null,
+        "title": "Badboy Musashi - A Success Story",
+        "aired": "Jan 5, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 56,
-        "title": "56. Bölüm",
-        "aired": null,
+        "title": "We'll Risk Our Lives During Classtime!",
+        "aired": "Jan 12, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 57,
-        "title": "57. Bölüm",
-        "aired": null,
+        "title": "Domestic Quarrel – To Eat or Be Eaten?!",
+        "aired": "Jan 26, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 58,
-        "title": "58. Bölüm",
-        "aired": null,
+        "title": "Steal the Kiss of Miss Snow Queen!",
+        "aired": "Feb 2, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 59,
-        "title": "59. Bölüm",
-        "aired": null,
+        "title": "St Valentine Day Horror",
+        "aired": "Feb 16, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 60,
-        "title": "60. Bölüm",
-        "aired": null,
+        "title": "Love Love Catchball!",
+        "aired": "Feb 23, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 61,
-        "title": "61. Bölüm",
-        "aired": null,
+        "title": "The Mendo Family... Masquerade War",
+        "aired": "Mar 2, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 62,
-        "title": "62. Bölüm",
-        "aired": null,
+        "title": "Space Cold Panic!",
+        "aired": "Mar 9, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 63,
-        "title": "63. Bölüm",
-        "aired": null,
+        "title": "Ryunosuke Arrives! I Love the Sea!",
+        "aired": "Mar 16, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 64,
-        "title": "64. Bölüm",
-        "aired": null,
+        "title": "Goodbye Season",
+        "aired": "Mar 23, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 65,
-        "title": "65. Bölüm",
-        "aired": null,
+        "title": "Ran-chan's Great Date Plan!",
+        "aired": "Apr 13, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 66,
-        "title": "66. Bölüm",
-        "aired": null,
+        "title": "Happy Birthday My Darling",
+        "aired": "Apr 20, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 67,
-        "title": "67. Bölüm",
-        "aired": null,
+        "title": "Seeing Togenkyo as a Hell Camp!",
+        "aired": "Apr 27, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 68,
-        "title": "68. Bölüm",
-        "aired": null,
+        "title": "The Muco Flower's Name is Ryunosuke",
+        "aired": "May 11, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 69,
-        "title": "69. Bölüm",
-        "aired": null,
+        "title": "Bottled Letter Seashore Mystery!",
+        "aired": "May 25, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 70,
-        "title": "70. Bölüm",
-        "aired": null,
+        "title": "Dramatic Appearance! Mizunokoji Ton-chan!!",
+        "aired": "Jun 1, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 71,
-        "title": "71. Bölüm",
-        "aired": null,
+        "title": "Shinobu's Cinderella Story",
+        "aired": "Jun 8, 1983",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 72,
-        "title": "72. Bölüm",
-        "aired": null,
+        "title": "Lum-chan the Ruthless Rebel",
+        "aired": "Jun 15, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 73,
-        "title": "73. Bölüm",
-        "aired": null,
+        "title": "Big Showdown! Sakura vs Sakuranbo!!",
+        "aired": "Jun 22, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 74,
-        "title": "74. Bölüm",
-        "aired": null,
+        "title": "Ghost Story! Old Man Willow!!",
+        "aired": "Jun 29, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 75,
-        "title": "75. Bölüm",
-        "aired": null,
+        "title": "And Then There was Nobody!?",
+        "aired": "Jul 6, 1983",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 76,
-        "title": "76. Bölüm",
-        "aired": null,
+        "title": "Firefighter Mama Visits!",
+        "aired": "Jul 13, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 77,
-        "title": "77. Bölüm",
-        "aired": null,
+        "title": "Darling's Dying!?",
+        "aired": "Jun 20, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 78,
-        "title": "78. Bölüm",
-        "aired": null,
+        "title": "Pitiful! Mother of Love and Banishment!?",
+        "aired": "Jul 27, 1983",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 79,
-        "title": "79. Bölüm",
-        "aired": null,
+        "title": "Mendo Family - Summer Christmas",
+        "aired": "Aug 3, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 80,
-        "title": "80. Bölüm",
-        "aired": null,
+        "title": "Panic in the Haunted Inn",
+        "aired": "Aug 10, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 81,
-        "title": "81. Bölüm",
-        "aired": null,
+        "title": "Ah The Eyelid of Mother",
+        "aired": "Aug 17, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 82,
-        "title": "82. Bölüm",
-        "aired": null,
+        "title": "Full of Sunshine - Full of Amours",
+        "aired": "Aug 24, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 83,
-        "title": "83. Bölüm",
-        "aired": null,
+        "title": "Big Clash! Ten VS Ataru",
+        "aired": "Sep 7, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 84,
-        "title": "84. Bölüm",
-        "aired": null,
+        "title": "Terror! Tororo has Come to Attack!!",
+        "aired": "Sep 14, 1983",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 85,
-        "title": "85. Bölüm",
-        "aired": null,
+        "title": "Galactic Teacher CAO-2's Revenge",
+        "aired": "Sep 21, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 86,
-        "title": "86. Bölüm",
-        "aired": null,
+        "title": "Outraged! Piteous Kid Shutaro!!",
+        "aired": "Oct 12, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 87,
-        "title": "87. Bölüm",
-        "aired": null,
+        "title": "Grand! The Mysterious Matsutake Pot!!",
+        "aired": "Oct 26, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 88,
-        "title": "88. Bölüm",
-        "aired": null,
+        "title": "Enraged Lum-chan!",
+        "aired": "Nov 2, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 89,
-        "title": "89. Bölüm",
-        "aired": null,
+        "title": "Lum and Ataru – A Night only for Two",
+        "aired": "Nov 9, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 90,
-        "title": "90. Bölüm",
-        "aired": null,
+        "title": "Lady Ryunosuke!",
+        "aired": "Nov 23, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 91,
-        "title": "91. Bölüm",
-        "aired": null,
+        "title": "Document - Who Will Be Miss Tomobiki!?",
+        "aired": "Nov 30, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 92,
-        "title": "92. Bölüm",
-        "aired": null,
+        "title": "Bizarre! The Medicine of Selflessness!!",
+        "aired": "Dec 7, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 93,
-        "title": "93. Bölüm",
-        "aired": null,
+        "title": "Shutaro: Jinxed Morning",
+        "aired": "Dec 14, 1983",
         "filler": false,
         "recap": true
       },
       {
         "episode_number": 94,
-        "title": "94. Bölüm",
-        "aired": null,
+        "title": "The Story of a Traveling Snow Dharma",
+        "aired": "Dec 21, 1983",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 95,
-        "title": "95. Bölüm",
-        "aired": null,
+        "title": "Lum-chan's Ancient Japanese Fairytales",
+        "aired": "Jan 11, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 96,
-        "title": "96. Bölüm",
-        "aired": null,
+        "title": "Shine! The Blessed Bra!!",
+        "aired": "Jan 18, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 97,
-        "title": "97. Bölüm",
-        "aired": null,
+        "title": "Duel! Benten VS the Three Daughters",
+        "aired": "Jan 25, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 98,
-        "title": "98. Bölüm",
-        "aired": null,
+        "title": "Lum-chan is Full!",
+        "aired": "Feb 1, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 99,
-        "title": "99. Bölüm",
-        "aired": null,
+        "title": "Deadly! Standup Eating Wars!!",
+        "aired": "Feb 8, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 100,
-        "title": "100. Bölüm",
-        "aired": null,
+        "title": "Great Vault! Courageous Survival!!",
+        "aired": "Feb 15, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 101,
-        "title": "101. Bölüm",
-        "aired": null,
+        "title": "Operation - Peek in the Woman's Bath",
+        "aired": "Feb 22, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 102,
-        "title": "102. Bölüm",
-        "aired": null,
+        "title": "Sakura - Melancholy of a Youth Time",
+        "aired": "Feb 29, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 103,
-        "title": "103. Bölüm",
-        "aired": null,
+        "title": "Burning Ran's Emotional Video Mail",
+        "aired": "Mar 7, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 104,
-        "title": "104. Bölüm",
-        "aired": null,
+        "title": "Sakura-san is My Youth!",
+        "aired": "Mar 14, 1984",
         "filler": false,
         "recap": true
       },
       {
         "episode_number": 105,
-        "title": "105. Bölüm",
-        "aired": null,
+        "title": "Scramble! Recapture Lum!!",
+        "aired": "Mar 21, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 106,
-        "title": "106. Bölüm",
-        "aired": null,
+        "title": "Deathmatch! Ataru VS Mendo Brigade!!",
+        "aired": "Mar 28, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 107,
-        "title": "107. Bölüm",
-        "aired": null,
+        "title": "Different Dimension Switch - Where is Darling!?",
+        "aired": "Apr 11, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 108,
-        "title": "108. Bölüm",
-        "aired": null,
+        "title": "Clash!! Queen Majesty and Ragaman's Lovev",
+        "aired": "Apr 25, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 109,
-        "title": "109. Bölüm",
-        "aired": null,
+        "title": "Ran-chan: First Kiss Tastes Tears of Love",
+        "aired": "May 2, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 110,
-        "title": "110. Bölüm",
-        "aired": null,
+        "title": "Un-re-mov-ab-le Rouge Magic",
+        "aired": "May 9, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 111,
-        "title": "111. Bölüm",
-        "aired": null,
+        "title": "Deathmatch!! The Mendo Family Flower Display Death Match",
+        "aired": "May 16, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 112,
-        "title": "112. Bölüm",
-        "aired": null,
+        "title": "Benten & Ryunosuke - Run Toward Tomorrow!",
+        "aired": "May 23, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 113,
-        "title": "113. Bölüm",
-        "aired": null,
+        "title": "Great Horrors! Oyuki is Finally Angered!!",
+        "aired": "May 30, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 114,
-        "title": "114. Bölüm",
-        "aired": null,
+        "title": "Ten-chan's Strange Love Story",
+        "aired": "Jun 6, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 115,
-        "title": "115. Bölüm",
-        "aired": null,
+        "title": "Haunted Special! Search for Mendo Mansion's Treasure!!",
+        "aired": "Jun 13, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 116,
-        "title": "116. Bölüm",
-        "aired": null,
+        "title": "Love and War! Battle of Glove VS Pants!!",
+        "aired": "Jun 20, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 117,
-        "title": "117. Bölüm",
-        "aired": null,
+        "title": "Lum-chan's Becoming a Cow?",
+        "aired": "Jun 27, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 118,
-        "title": "118. Bölüm",
-        "aired": null,
+        "title": "Great Achievement! This is Lum-chan's Youth Film",
+        "aired": "Jul 11, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 119,
-        "title": "119. Bölüm",
-        "aired": null,
+        "title": "Scaring Ghosts! Pretty Sakura's Oharai!!",
+        "aired": "Jul 18, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 120,
-        "title": "120. Bölüm",
-        "aired": null,
+        "title": "Counterattack of the Primeval Animals! Panic at the Poolside",
+        "aired": "Jul 25, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 121,
-        "title": "121. Bölüm",
-        "aired": null,
+        "title": "Appeared Again! Hunter of Love Princess Kurama",
+        "aired": "Aug 1, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 122,
-        "title": "122. Bölüm",
-        "aired": null,
+        "title": "The Fox's Hard Feelings of Painful Love...",
+        "aired": "Aug 15, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 123,
-        "title": "123. Bölüm",
-        "aired": null,
+        "title": "Ryunosuke Stunned! My Young Child Loves Rock Mother!!",
+        "aired": "Aug 22, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 124,
-        "title": "124. Bölüm",
-        "aired": null,
+        "title": "Thriller! Curra~n Collo~n Womens Dorm!!",
+        "aired": "Aug 29, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 125,
-        "title": "125. Bölüm",
-        "aired": null,
+        "title": "Pool Spooks! Burning with Forbidden Love!!",
+        "aired": "Sep 12, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 126,
-        "title": "126. Bölüm",
-        "aired": null,
+        "title": "Ran-chan Panic: There is No Tomorrow for Tomobiki Town",
+        "aired": "Sep 19, 1984",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 127,
-        "title": "127. Bölüm",
-        "aired": null,
+        "title": "Where is Love's Room? Kuriko and Chojuro",
+        "aired": "Sep 25, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 128,
-        "title": "128. Bölüm",
-        "aired": null,
+        "title": "Man or Bird? Gokakenran Ally of Justice!",
+        "aired": "Oct 17, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 129,
-        "title": "129. Bölüm",
-        "aired": null,
+        "title": "Attack the Seniors! Revenge of the Knowing Three Daughters",
+        "aired": "Oct 24, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 130,
-        "title": "130. Bölüm",
-        "aired": null,
+        "title": "Blazing Hidden Trick! This Straight Line Road",
+        "aired": "Oct 31, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 131,
-        "title": "131. Bölüm",
-        "aired": null,
+        "title": "Don't Die! Ryoko's Special Straw Doll!!",
+        "aired": "Nov 7, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 132,
-        "title": "132. Bölüm",
-        "aired": null,
+        "title": "Matchmaking Hell! Is the Armored Daughter a Beauty? Beast?",
+        "aired": "Nov 14, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 133,
-        "title": "133. Bölüm",
-        "aired": null,
+        "title": "Love of the Armored Daughter! Maiden Heart is Shaky Wobbling",
+        "aired": "Nov 21, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 134,
-        "title": "134. Bölüm",
-        "aired": null,
+        "title": "Meeting even if Death! Pure Fox Returns!!",
+        "aired": "Nov 28, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 135,
-        "title": "135. Bölüm",
-        "aired": null,
+        "title": "What Do I Care for Talking Flowers!",
+        "aired": "Dec 5, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 136,
-        "title": "136. Bölüm",
-        "aired": null,
+        "title": "The Birth of Ten-chan's Son!? I Dunno",
+        "aired": "Dec 12, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 137,
-        "title": "137. Bölüm",
-        "aired": null,
+        "title": "Lum's Courageous Duel! Victory is a Nitpicky Hand",
+        "aired": "Dec 19, 1984",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 138,
-        "title": "138. Bölüm",
-        "aired": null,
+        "title": "Big Employment Aspiration! Return of Missing Ninja Kaede!!",
+        "aired": "Jan 9, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 139,
-        "title": "139. Bölüm",
-        "aired": null,
+        "title": "Tomobiki Highschool Survival! Who Are the Survivors!",
+        "aired": "Jan 16, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 140,
-        "title": "140. Bölüm",
-        "aired": null,
+        "title": "The Mysterious Giant Cake! Love's Escape Panic!!",
+        "aired": "Jan 23, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 141,
-        "title": "141. Bölüm",
-        "aired": null,
+        "title": "Underground Reincarnation! What's Darling Thinking!?",
+        "aired": "Jan 30, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 142,
-        "title": "142. Bölüm",
-        "aired": null,
+        "title": "Snow Panic! The Mendo Family Hanami Banquet!!",
+        "aired": "Feb 6, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 143,
-        "title": "143. Bölüm",
-        "aired": null,
+        "title": "Far Spring! Tale of the Lonely Fairy!!",
+        "aired": "Feb 13, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 144,
-        "title": "144. Bölüm",
-        "aired": null,
+        "title": "To Dream Land! Darling Battle Royal Abduction",
+        "aired": "Feb 20, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 145,
-        "title": "145. Bölüm",
-        "aired": null,
+        "title": "Three Daughters Again! The Great Mission Tempting Darling!!",
+        "aired": "Feb 27, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 146,
-        "title": "146. Bölüm",
-        "aired": null,
+        "title": "The Scampering Kotatsu Cat! Anything to Get Warm",
+        "aired": "Mar 6, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 147,
-        "title": "147. Bölüm",
-        "aired": null,
+        "title": "Ryunosuke's Naïve Father! A Wife is in Vestiges!!",
+        "aired": "Mar 13, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 148,
-        "title": "148. Bölüm",
-        "aired": null,
+        "title": "Spring Full Bloom!? Frozen by Oyuki's Cold!!",
+        "aired": "Mar 20, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 149,
-        "title": "149. Bölüm",
-        "aired": null,
+        "title": "Friendship Panic! I Love to Eat Blowfish",
+        "aired": "Mar 27, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 150,
-        "title": "150. Bölüm",
-        "aired": null,
+        "title": "The Armored Girl Returns! Older Brother is Full",
+        "aired": "Apr 3, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 151,
-        "title": "151. Bölüm",
-        "aired": null,
+        "title": "Boredom Syndrome! Is Tomobiki Town Wasting Away!?",
+        "aired": "Apr 10, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 152,
-        "title": "152. Bölüm",
-        "aired": null,
+        "title": "Look Out Ran! Kotatsu Neko's First Love Oden!?",
+        "aired": "Apr 17, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 153,
-        "title": "153. Bölüm",
-        "aired": null,
+        "title": "The Armored Girl Appears Again! The Storm Called Date",
+        "aired": "Mar 24, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 154,
-        "title": "154. Bölüm",
-        "aired": null,
+        "title": "The Mystery Priest Appears! Luck Bell Battle Royal",
+        "aired": "May 1, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 155,
-        "title": "155. Bölüm",
-        "aired": null,
+        "title": "First Love Again!? A Return to the Past for Lum and Rei!!",
+        "aired": "May 8, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 156,
-        "title": "156. Bölüm",
-        "aired": null,
+        "title": "Youthful Old Man Appears! Shine Great Tearoom of Dreams!!",
+        "aired": "May 15, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 157,
-        "title": "157. Bölüm",
-        "aired": null,
+        "title": "I Love Darling's Kindness...",
+        "aired": "May 22, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 158,
-        "title": "158. Bölüm",
-        "aired": null,
+        "title": "Pure Fox Again! Shinobu-san is Love",
+        "aired": "May 29, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 159,
-        "title": "159. Bölüm",
-        "aired": null,
+        "title": "I Love the Sea~! Prosperity Record's Thriving Hamajaya!?",
+        "aired": "Jun 5, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 160,
-        "title": "160. Bölüm",
-        "aired": null,
+        "title": "Ryunosuke VS Benten! Great Fruitless Amorousness Duel",
+        "aired": "Jun 12, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 161,
-        "title": "161. Bölüm",
-        "aired": null,
+        "title": "Small Magic Bin! What's to Become of Me!?",
+        "aired": "Jun 19, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 162,
-        "title": "162. Bölüm",
-        "aired": null,
+        "title": "Great Devil's Debut! Lum's Dangerous Purchase!?",
+        "aired": "Jun 26, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 163,
-        "title": "163. Bölüm",
-        "aired": null,
+        "title": "Goodness! Words Aren't Getting to Darling",
+        "aired": "Jul 3, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 164,
-        "title": "164. Bölüm",
-        "aired": null,
+        "title": "Devil's Summer! Ten-chan's Great Unaju Mission!!",
+        "aired": "Jul 10, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 165,
-        "title": "165. Bölüm",
-        "aired": null,
+        "title": "Omimai Panic!? I Didn't Mean Any Harm",
+        "aired": "Jul 17, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 166,
-        "title": "166. Bölüm",
-        "aired": null,
+        "title": "Scary!! There is an Octopus on Shutaro's Head!?",
+        "aired": "Jul 24, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 167,
+        "title": "Invader From Space! Lum's Dangerous Lips!!",
+        "aired": "Jul 31, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 168,
+        "title": "Space Survival! They are the Eaters",
+        "aired": "Aug 7, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 169,
+        "title": "It's Stimulating! Overhead Cooler of Terror!!",
+        "aired": "Aug 14, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 170,
+        "title": "Love Raid! Romantic has Not Stopped!!",
+        "aired": "Aug 21, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 171,
+        "title": "Long-Time Appearance! Worries for Firefighter Mother!!",
+        "aired": "Aug 28, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 172,
+        "title": "Hardsell Happiness! Out of Pint Bluebird!!",
+        "aired": "Sep 4, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 173,
+        "title": "Great Storm! Ryunosuke's First Time Wearing a Swimsuit!!",
+        "aired": "Sep 11, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 174,
+        "title": "I Want a Bride!! The Fox's Big Love Adventure!!",
+        "aired": "Sep 18, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 175,
+        "title": "How Persistent! The Three Daughters' Great Animal Mission!!",
+        "aired": "Sep 25, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 176,
+        "title": "Fast Money in Fast Fighting! Hamajaya's Forbidden Business",
+        "aired": "Oct 2, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 177,
+        "title": "Wish Upon a Star! Ataru Family is Desire Panic",
+        "aired": "Oct 16, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 178,
+        "title": "Kiss Courier! Darling's First Jealousy!",
+        "aired": "Oct 23, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 179,
+        "title": "Osake is Scary! Sakura's Oharai Big Failure",
+        "aired": "Oct 30, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 180,
+        "title": "It's Strange! Sakuranbo Yoga School!!",
+        "aired": "Nov 6, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 181,
+        "title": "Farewell Onsen Sensei!? Tearful Farewell Marathon Tournament",
+        "aired": "Dec 4, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 182,
+        "title": "Pure Love Sakura! Slippery Soap of Separation!?",
+        "aired": "Dec 11, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 183,
+        "title": "Asuka VS Big Brother! It's Battle for Certain Love!",
+        "aired": "Dec 18, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 184,
+        "title": "Darling Great Misfortune! Four Dimension Fortune of Fear!!",
+        "aired": "Dec 25, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 185,
+        "title": "New Years Panic! Mendo Family Human Sugoroku Tournament",
+        "aired": "Jan 8, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 186,
+        "title": "Dreaming Ten-chan! Great Adventure at the End of the Rainbow!!",
+        "aired": "Jan 15, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 187,
+        "title": "Wanting to Date! Ataru's Great Test Mission",
+        "aired": "Jan 22, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 188,
+        "title": "Darling Said He Loved Me",
+        "aired": "Jan 29, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 189,
+        "title": "Death-Defying House Call! A Teacher Occupation Desprate too!!",
+        "aired": "Feb 5, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 190,
+        "title": "Nonsense! Ran-chan's Huge Doll!!",
+        "aired": "Feb 12, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 191,
+        "title": "Love Ray! Bet Life Honest Fox!!",
+        "aired": "Feb 19, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 192,
+        "title": "Hurry Come Darling! Lum's Dangerous Marriage Story",
+        "aired": "Feb 26, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 193,
+        "title": "Not Bearable! Ran's Great Malicious Mission",
+        "aired": "Mar 5, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 194,
+        "title": "Immediate Farewell Special - Shine!! Planet Uru Awards",
+        "aired": "Mar 12, 1986",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 195,
+        "title": "Great All Star Banquet! We are Immortal!!",
+        "aired": "Mar 19, 1986",
         "filler": false,
         "recap": false
       }

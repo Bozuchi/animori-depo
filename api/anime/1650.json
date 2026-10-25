@@ -106,8 +106,183 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "SOS Earth!! Awaken, Space Battleship Yamato",
+        "aired": "Oct 6, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Opening Gun! Space Battleship Yamato Starts!",
+        "aired": "Oct 13, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Yamato Launch! The Challenge of 296,000 Light Years!",
+        "aired": "Oct 20, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "World of Wonder! Yamato Leaps Past Light!",
+        "aired": "Oct 27, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Escape the Floating Continent! Crisis Calls the Wave-Motion Gun!",
+        "aired": "Nov 3, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Space Destroyer Yukikaze Sleeps in the Ice Field",
+        "aired": "Nov 11, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Yamato Sinks! Fateful Battle to Destroy the Enemy Stronghold!",
+        "aired": "Nov 17, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Yamato Braves Death! Destroy the Reflex Gun!",
+        "aired": "Nov 24, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Revolving Defense! Asteroid Belt!",
+        "aired": "Dec 1, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Farewell, Solar System! From the Galaxy, With Love!",
+        "aired": "Dec 8, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Resolution! Break Through the Gamilons' Absolute Defense Line!",
+        "aired": "Dec 15, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Certain Death! The Wishing Star of Orion, Hell-star!",
+        "aired": "Dec 22, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Hurry, Yamato! Earth is Suffering!",
+        "aired": "Dec 29, 1974",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "The Galaxy's Ordeal! The Year 2200 Advances!",
+        "aired": "Jan 5, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Desperate Escape! The Galaxy's Different Dimension",
+        "aired": "Jan 12, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Planet Beeland, Underground Prison of Condemned Criminals",
+        "aired": "Jan 19, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Charge! Balanosaurus Special Attack Group!",
+        "aired": "Jan 26, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Floating Fortress Island! Two Men Brave Death!",
+        "aired": "Feb 2, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Homesickness of Space! My Mother's Tears are My Tears!",
+        "aired": "Feb 9, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The Day Planet Balan's Sun Fell!",
+        "aired": "Feb 16, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Desperate Challenge from Lysis' Fleet!",
+        "aired": "Feb 23, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Decisive Battle! Fight for Honor at the Rainbow Star Group!",
+        "aired": "Mar 2, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Finally Arrived! Crest of the Magellanic Cloud's Wave!",
+        "aired": "Mar 9, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Death Struggle! God, Weep for the Gamilons!",
+        "aired": "Mar 16, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Iscandar! A Dying Planet of Love!",
+        "aired": "Mar 23, 1975",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Earth! Yamato Returns!",
+        "aired": "Mar 30, 1975",
         "filler": false,
         "recap": false
       }

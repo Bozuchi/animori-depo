@@ -100,7 +100,29 @@
     ],
     "relations": [],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Labyrinth Labyrintos",
+        "aired": "Sep 25, 1987",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Running Man",
+        "aired": "Sep 25, 1987",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Construction Cancellation Order",
+        "aired": "Sep 25, 1987",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1951,

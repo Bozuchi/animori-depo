@@ -113,15 +113,358 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "I'm Doremi! I'm a Witch Apprentice",
+        "aired": "Feb 7, 1999",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "I, Become Hazuki-chan!",
+        "aired": "Feb 14, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Transfer Student from Naniwa! Aiko Debuts",
+        "aired": "Feb 21, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "It's Not Scary If We're All Witches",
+        "aired": "Feb 28, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Grand Opening! House Of Magic",
+        "aired": "Mar 7, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "A Liar's First Friendship",
+        "aired": "Mar 14, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Aim For Level 9! Witch Exam",
+        "aired": "Mar 21, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Go to the Witch World!!",
+        "aired": "Mar 28, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Where Did You Go!? Fairy Dodo",
+        "aired": "Apr 4, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Pinch! The Teacher Found Out!!",
+        "aired": "Apr 11, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Early Riser Girl Marina and a Bouquet from the Heart",
+        "aired": "Apr 18, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "A Wish For A Precious Shirt",
+        "aired": "Apr 25, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Everyone Fails!? The Level 8 Exam",
+        "aired": "May 2, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Laugh and Forgive Me!?",
+        "aired": "May 9, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Majorika Goes to Kindergarten",
+        "aired": "May 16, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Fishing for Love",
+        "aired": "May 23, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Yada is a Delinquent!?",
+        "aired": "May 30, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Don't Use That! The Forbidden Magic",
+        "aired": "Jun 6, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Hazuki is Kidnapped!",
+        "aired": "Jun 13, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The Rival Makes Her Appearance! The House of Magic is in a Pinch!!",
+        "aired": "Jun 20, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Majo Ruka's Goods are Filled with Danger",
+        "aired": "Jun 27, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "The Road to the Level 6 Witch is Long!?",
+        "aired": "Jul 4, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Big Turnaround!? Ojamajo's Training",
+        "aired": "Jul 11, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Majoruka Versus Level 6 Ojamajos!",
+        "aired": "Jul 18, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Ojamajo Pop's Arrival!?",
+        "aired": "Jul 25, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "We are the, Pureleine!",
+        "aired": "Aug 1, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Oyajide Arrives!?",
+        "aired": "Aug 8, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Love is a Windy Ride Over a Plateau",
+        "aired": "Aug 15, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The Tap Disappeared at the Festival!",
+        "aired": "Aug 22, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "I Want to Meet the Ghost!",
+        "aired": "Aug 29, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Presents from Mongolia",
+        "aired": "Sep 5, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Defeat Tamaki! The Class President Election",
+        "aired": "Sep 12, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Much Panic at the Athletic Meet!",
+        "aired": "Sep 19, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "I Want to See My Mother!",
+        "aired": "Sep 26, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Transfer Student is a Witch Apprentice!?",
+        "aired": "Oct 3, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "The Level 4 Exam is Do-do-do-do-do!",
+        "aired": "Oct 10, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "So Many Magical Frogs!",
+        "aired": "Oct 17, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Ryota and the Monster of the Night",
+        "aired": "Oct 24, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Doremi's Boyfriend is a Middle School Student!",
+        "aired": "Oct 31, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Doremi Wins Easily? The Level 3 Exam",
+        "aired": "Nov 14, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Father and Son: The Move Towards Victory!",
+        "aired": "Nov 21, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "The Ojamajo's Fight for Justice!?",
+        "aired": "Nov 28, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Tearful Memories of Papa and the Fireworks",
+        "aired": "Dec 5, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "I Want to Be a Female Pro Wrestler!",
+        "aired": "Dec 12, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Help Santa!",
+        "aired": "Dec 19, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "The Witches' Talent Show",
+        "aired": "Dec 26, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Father's Arranged Marriage Meeting",
+        "aired": "Jan 2, 2000",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Onpu's E-Mail was a Love Letter?",
+        "aired": "Jan 9, 2000",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "I Want to Meet Papa! The Dream Placed on the Overnight Express",
+        "aired": "Jan 16, 2000",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "The Last Witch Apprentice Exam",
+        "aired": "Jan 23, 2000",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Farewell Mahodo",
+        "aired": "Jan 30, 2000",
         "filler": false,
         "recap": false
       }

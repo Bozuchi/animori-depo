@@ -37,7 +37,15 @@
     ],
     "relations": [],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Seven Gods in a Single Grain",
+        "aired": "Apr 3, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 209940,

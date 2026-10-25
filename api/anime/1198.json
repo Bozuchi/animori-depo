@@ -70,8 +70,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Nice To Meet You! I'm Sunao Konoe!",
+        "aired": "Jul 2, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "I Hate The Student Council!!",
+        "aired": "Jul 9, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Crash! Athletics and Martial Arts Festival!!",
+        "aired": "Jul 16, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Summer of Coconuts",
+        "aired": "Jul 23, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Part-Time Job Has the Smell of Danger",
+        "aired": "Jul 30, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Washed Away... Ikashima",
+        "aired": "Aug 6, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Showdown! Test GO!!",
+        "aired": "Aug 13, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Stormy Festival!",
+        "aired": "Aug 20, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Acting Club Begins!?",
+        "aired": "Aug 27, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Rice Balls. Play. School Cultural Festival.",
+        "aired": "Sep 2, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "I Cannot Be Frank...",
+        "aired": "Sep 9, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Nice To Meet You Again! I'm Sunao Konoe!",
+        "aired": "Sep 17, 2006",
         "filler": false,
         "recap": false
       }

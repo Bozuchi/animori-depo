@@ -136,15 +136,43 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Thou Shalt Love Thy Daily Life",
+        "aired": "Nov 22, 1991",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Nagisa Hyper-Rhapsody",
+        "aired": "Feb 21, 1992",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Making Of \"Here Is Devil's Wood\"",
+        "aired": "Nov 27, 1992",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Ghost Of Green Wood",
+        "aired": "Dec 18, 1992",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Second Love......Always Be With You (Part 1)",
+        "aired": "Feb 26, 1993",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Second Love...... Always Be With You (Part 2)",
+        "aired": "Mar 26, 1993",
         "filler": false,
         "recap": false
       }

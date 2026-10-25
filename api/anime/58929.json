@@ -192,57 +192,71 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Prologue + Super Spartan i",
+        "aired": "Jul 7, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Super Spartan ii + Junk Jungle i",
+        "aired": "Jul 14, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Junk Jungle ii + Megatech Machine i + ii",
+        "aired": "Jul 21, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Robot Rondo",
+        "aired": "Jul 28, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Phantom Fund",
+        "aired": "Aug 4, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Dumb Barter",
+        "aired": "Aug 11, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Bye Bye Clay",
+        "aired": "Aug 18, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Intermission + Brain Drain i",
+        "aired": "Aug 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Brain Drain ii",
+        "aired": "Sep 1, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Brain Drain ii + Ghost Coast + Epilogue",
+        "aired": "Sep 8, 2026",
         "filler": false,
         "recap": false
       }

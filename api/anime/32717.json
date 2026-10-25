@@ -949,134 +949,449 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Beginning of a Dream",
+        "aired": "Apr 7, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Two of Us are Rivals!",
+        "aired": "Apr 14, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Sky of My Color",
+        "aired": "Apr 21, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Always 100%",
+        "aired": "Apr 28, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "My Dress Make!",
+        "aired": "May 5, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "ROCK! Rock Girls!",
+        "aired": "May 12, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Simple is the Best!",
+        "aired": "May 19, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "A Small Radiance",
+        "aired": "May 26, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Miracle Girls☆",
+        "aired": "Jun 2, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "A Dream's Start Line!",
+        "aired": "Jun 9, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Stuck To! A Day with Hime Shiratori",
+        "aired": "Jun 16, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "The Fluttering Girlfriend♪",
+        "aired": "Jun 23, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "Story of the Little Fairy",
+        "aired": "Jun 30, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Mahiru's Battle",
+        "aired": "Jul 7, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "The Moon and The Sun",
+        "aired": "Jul 14, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "Miracle Baton Touch",
+        "aired": "Jul 28, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "The Serious Switch!",
+        "aired": "Aug 4, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "Together with Yuri-chan",
+        "aired": "Aug 11, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "Midsummer Top Dancer☆",
+        "aired": "Aug 18, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Passion and Pride",
+        "aired": "Aug 25, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "The Desire to Win",
+        "aired": "Sep 1, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "The Road to Her Hero",
+        "aired": "Sep 8, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Descent of the Tundra Diva",
+        "aired": "Sep 15, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Smile is Rainbow☆",
+        "aired": "Sep 22, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Broadway☆Dream",
+        "aired": "Sep 29, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "A Dream That Can't Be Taken",
+        "aired": "Oct 6, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "The Tale of a Tiny Dress",
+        "aired": "Oct 13, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Halloween★Magic",
+        "aired": "Oct 20, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "True Rivals",
+        "aired": "Oct 27, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Rainbow Candy",
+        "aired": "Nov 3, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Take Flight, Sky-Girl!",
+        "aired": "Nov 10, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Go Forth, Yuzukoshou!",
+        "aired": "Nov 17, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Lost Rola!?",
+        "aired": "Nov 24, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Make Up Girl Lesson",
+        "aired": "Dec 1, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Selected Stars",
+        "aired": "Dec 8, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Beyond the Rainbow",
+        "aired": "Dec 15, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "An Exciting Christmas!",
+        "aired": "Dec 22, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Aikatsu New Year!",
+        "aired": "Jan 5, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Yottsuboshi Academy in Danger!?",
+        "aired": "Jan 12, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Chase After the Princess Diamond!!",
+        "aired": "Jan 19, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Burn! Star Catching Festival!",
+        "aired": "Jan 26, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "The Two Childhood Friends",
+        "aired": "Feb 2, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "A Song Choc-full of Affection",
+        "aired": "Feb 9, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Premonitions of Spring♪",
+        "aired": "Feb 16, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Ako, Headlong!",
+        "aired": "Feb 23, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Fiery S4 Selection!",
+        "aired": "Mar 2, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Kasumi Sisters, Battle!",
+        "aired": "Mar 9, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "My Only Song",
+        "aired": "Mar 16, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Become the Top Star",
+        "aired": "Mar 23, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "The Greatest Live",
+        "aired": "Mar 30, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Perfect Idol Elsa",
+        "aired": "Apr 6, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "The Targeted Idol!?",
+        "aired": "Apr 13, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Open Sesame! Obtain the Star Wings!",
+        "aired": "Apr 20, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "Kirara ☆ The Fluffy Idol",
+        "aired": "Apr 27, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "All Aboard ☆ Venus Ark!",
+        "aired": "May 4, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "Kya! Warning☆",
+        "aired": "May 11, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "Shining ☆ A Good Day For a Stroll",
+        "aired": "May 18, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "Miracle Audition!",
+        "aired": "May 25, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "Shine For You",
+        "aired": "Jun 1, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "Stop Contact! A Day in the World of Elsa Forte",
+        "aired": "Jun 8, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "Feelings of Love!",
+        "aired": "Jun 15, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 62,
+        "title": "With Going My Way ♪",
+        "aired": "Jun 22, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 63,
+        "title": "A Hot Wind From the Tundra",
+        "aired": "Jun 29, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 64,
+        "title": "Wish Upon a Star",
+        "aired": "Jul 6, 2017",
         "filler": false,
         "recap": false
       }

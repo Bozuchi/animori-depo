@@ -147,8 +147,442 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Prelude to Darkness",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Heavenly Discord",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "A Splintering Friendship",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Behold, I Am King Grouch!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Clashing Ideals",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "No Turning Back",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Lucifer VS Uriel",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Underworld Rebel",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Forbidden Box",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Seeking Lucifer",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Reclaiming Strength",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Infinite Power of Friendship",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Arthur Returns",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Lancelot the Lost",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Faith Corrupted",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Merlin in Peril",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Britannia's Guiding Light",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Rise of the Fallen Angel",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Beelzebub's Verdict",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Into the Infernal Abyss",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "The Decemviri Strike",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Xaphan's Counterattack",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "The Wrath of Surgat",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Fate in the Balance",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "The Princess Awakens",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Solomon's Wish",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Royal Conflict",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Eyes on the Orb",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Angelic Grace, Demonic Counsel",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Dark Machinations",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Unwavering Resolve",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Conviction and Tears",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Passing of the Torch",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Rising Above",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Awakening",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Transcendence",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "One in Heart and Mind",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Stolen Light",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "The Scaly-Skin Pirates",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Thus Spoke Pellinore",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "The Chosen",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "The Beguiled",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Knights Strike Back",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "A Radiant World",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "A Dying World",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "My First Friends",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Pact's Conclusion",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Ark of Treachery",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Worth Dying For",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "A New Journey",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Revenant",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "Shadow of Doubt",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "The Ties That Bind",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "Deceptive Sisters",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "Then There Were Two",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "Covenant's Kiss",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "And the Bell Tolls",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "Heroes United",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "Gate of Ruin",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "In Love's Name",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "What Must Be Done",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 62,
+        "title": "Raise The Banner",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 63,
+        "title": "Light's Bonds",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       }

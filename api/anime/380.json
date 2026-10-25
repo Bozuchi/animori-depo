@@ -218,7 +218,29 @@
       }
     ],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Lost Ties",
+        "aired": "Oct 25, 1996",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Sorrowful Flash",
+        "aired": "Oct 25, 1996",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Parting... and Then",
+        "aired": "Oct 25, 1996",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 380,

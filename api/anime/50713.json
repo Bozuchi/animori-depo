@@ -75,7 +75,99 @@
       }
     ],
     "episodes": 13,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Double Seven Part I",
+        "aired": "Apr 5, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Double Seven Part II",
+        "aired": "Apr 12, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Double Seven Part III",
+        "aired": "Apr 19, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Double Seven Part IV",
+        "aired": "Apr 26, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Steeplechase Part I",
+        "aired": "May 3, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Steeplechase Part II",
+        "aired": "May 10, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Steeplechase Part III",
+        "aired": "May 17, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Steeplechase Part IV",
+        "aired": "May 24, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Ancient City Insurrection Part I",
+        "aired": "May 31, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Ancient City Insurrection Part II",
+        "aired": "Jun 7, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Ancient City Insurrection Part III",
+        "aired": "Jun 14, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Ancient City Insurrection Part IV",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Ancient City Insurrection Part V",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 143271,

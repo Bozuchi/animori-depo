@@ -204,22 +204,22 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Room Camp: Episode 0",
+        "aired": "Mar 28, 2018",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Tall-Tale Camp△",
+        "aired": "May 23, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Survival Camp△",
+        "aired": "Jul 25, 2018",
         "filler": false,
         "recap": false
       }

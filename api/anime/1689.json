@@ -70,7 +70,29 @@
       }
     ],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Cherry Blossom",
+        "aired": "Feb 16, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Cosmonaut",
+        "aired": "Mar 3, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "5 Centimeters Per Second",
+        "aired": "Mar 3, 2007",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1689,

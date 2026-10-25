@@ -218,43 +218,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Relationship Between Them",
+        "aired": "Jul 13, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Things They Protect",
+        "aired": "Jul 20, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Lawrence's Concerns",
+        "aired": "Jul 27, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "She Who Is Called the Lady Saint",
+        "aired": "Aug 3, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "First Official Trip",
+        "aired": "Aug 10, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Abel and Hazelita",
+        "aired": "Aug 17, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Cecilia's Worries",
+        "aired": "Aug 24, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Frederica's Bequest",
+        "aired": "Aug 31, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Lady Saint's Divine Protection",
+        "aired": "Sep 7, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Their Feelings",
+        "aired": "Sep 14, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Way They Met",
+        "aired": "Sep 21, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Shape of Their Relationship",
+        "aired": "Sep 28, 2023",
         "filler": false,
         "recap": false
       }

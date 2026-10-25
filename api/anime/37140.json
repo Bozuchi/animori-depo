@@ -661,106 +661,680 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Day Yokai Awoke",
+        "aired": "Apr 1, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Terror! Miage-Nyudou",
+        "aired": "Apr 8, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Tantanbo's Yokai Castle",
+        "aired": "Apr 15, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Strange, Forbidden Forest",
+        "aired": "Apr 22, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Disaster of the Electric Yokai",
+        "aired": "Apr 29, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Misfortune of the Sunekosuri",
+        "aired": "May 6, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Ghost Train",
+        "aired": "May 13, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Menace! Kagami Jijii's Plot",
+        "aired": "May 20, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "The Kappas' Work Reform",
+        "aired": "May 27, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Vanishing! The Seven School Mysteries",
+        "aired": "Jun 3, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Conquer Japan! The 808 Tanuki Army",
+        "aired": "Jun 10, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Capital Annihilated! The Terrifying Yokai Beast",
+        "aired": "Jun 17, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "Diamonds of Greed! Wanyudo's Trap",
+        "aired": "Jun 24, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Makura-gaeshi and the Fantastic Dream",
+        "aired": "Jul 1, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "Zunbera Spiritplasty",
+        "aired": "Jul 8, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "The Mystery of the Tide! Umizato",
+        "aired": "Jul 15, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Kani-Bozu and the Ancient Mystery",
+        "aired": "Jul 22, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Kawauso's Lie",
+        "aired": "Jul 29, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Yokai Resurrection?! The Ghost School",
+        "aired": "Aug 5, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Memories of the Yoka",
+        "aired": "Aug 12, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Flame On! The Solitude of the Takuro-Bi",
+        "aired": "Aug 19, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Berserk!! The Terrifying Yokai, Gyuki",
+        "aired": "Aug 26, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "The Yokai Apartment Secret Story",
+        "aired": "Sep 2, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Rat Man's Disappearance?! Sekiyo's Trap",
+        "aired": "Sep 16, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Kubire-Oni's Curse",
+        "aired": "Sep 23, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Infatuation: The Alluring Gahi",
+        "aired": "Sep 30, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Invasion! The Backbeard Army",
+        "aired": "Oct 7, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "The Great Yokai War",
+        "aired": "Oct 14, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The Mad Frankenstein",
+        "aired": "Oct 21, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Vampire's Halloween Party",
+        "aired": "Oct 28, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Azuki-Arai, Azuki-Hakari, Azuki-Babaa",
+        "aired": "Nov 4, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Demon Belial: The Hundred-Year Grudge",
+        "aired": "Nov 11, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "The Fox's Wedding and Hakusanbo",
+        "aired": "Nov 18, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Emperor Backbeard",
+        "aired": "Nov 25, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Witches of Destiny",
+        "aired": "Dec 9, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "The Transform All Japanese Yokai Project",
+        "aired": "Dec 16, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Showdown!! Backbeard",
+        "aired": "Dec 23, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "New Year's Man-Eating Fable Kasha",
+        "aired": "Jan 6, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Yuki-Onna Pure White Love Report",
+        "aired": "Jan 13, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "The Final Ballad Sara-Kozo",
+        "aired": "Jan 20, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Enigma! The Bake-Zori Rebellion",
+        "aired": "Jan 27, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Momon-jii's Scheme: The Great Yokai Trial",
+        "aired": "Feb 3, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Eternal Life Odoro-Odoro",
+        "aired": "Feb 10, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Masquerade Nopperabo",
+        "aired": "Feb 17, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "The Truth Lies in the Thicket of the Mannen-dake",
+        "aired": "Feb 24, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "The Cursed Doll Festival Mayuge",
+        "aired": "Mar 3, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "The Baby-Stealing Ubume",
+        "aired": "Mar 17, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "The Void of Despair and Darkness",
+        "aired": "Mar 24, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Nanashi and Mana",
+        "aired": "Mar 31, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "Messenger from the Underworld Nue",
+        "aired": "Apr 7, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Enma-daio's Secret Bargain",
+        "aired": "Apr 14, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "Runaway Girl! The Forest of the Kinoko",
+        "aired": "Apr 21, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Narcissism Overload! Nuke-Kubi's Close Call",
+        "aired": "Apr 28, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "Dorotabo, Life and Earth",
+        "aired": "May 5, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "Hihi's Harassment Hell",
+        "aired": "May 12, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "The Bewitching Melody Elite the Vampire",
+        "aired": "May 19, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "The Bloody Noble La Siene",
+        "aired": "May 26, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "The Han-Gyojin's Strange Kamaboko Tale",
+        "aired": "Jun 2, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "Promise to the Female Yokai Ushirogami",
+        "aired": "Jun 9, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "Pitch-Black Coldness: The Youkai Buru-Buru",
+        "aired": "Jun 16, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "Tofu-Kozo's Mold Pandemic",
+        "aired": "Jun 23, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 62,
+        "title": "The Four Generals of the Underworld: Kurobozu's Trap",
+        "aired": "Jun 30, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 63,
+        "title": "The Star Festival of Love: The Youkai Flower",
+        "aired": "Jul 7, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 64,
+        "title": "The Heart's Darkness: The Suiko Reflects",
+        "aired": "Jul 14, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 65,
+        "title": "Nation Founding?! Mabyo's Great Tottori Empire",
+        "aired": "Jul 21, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 66,
+        "title": "The Shinigami and Sakaiminato's Hidden Village",
+        "aired": "Jul 28, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 67,
+        "title": "The Social Media Addict Versus the Jomon Man",
+        "aired": "Aug 4, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 68,
+        "title": "Capital Punishment! Exiled to the Underworld",
+        "aired": "Aug 11, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 69,
+        "title": "General of the Underworld: The Kido, Ibukimaru",
+        "aired": "Aug 18, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 70,
+        "title": "Spirit Affliction: Mysterious Footprints",
+        "aired": "Aug 25, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 71,
+        "title": "Karakasa's Umbrella Troubles",
+        "aired": "Sep 1, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 72,
+        "title": "Iyami the Yokai's Great Love Project",
+        "aired": "Sep 8, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 73,
+        "title": "The Yamata-no-Orochi of Greed",
+        "aired": "Sep 15, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 74,
+        "title": "The Fall of the Underworld?! Tamamo-no-Mae's Trap",
+        "aired": "Sep 22, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 75,
+        "title": "Kyubi no Kitsune",
+        "aired": "Sep 29, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 76,
+        "title": "Nurarihyon's Ambition",
+        "aired": "Oct 6, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 77,
+        "title": "Vanishing Humans! Neko-sennin's Revenge",
+        "aired": "Oct 13, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 78,
+        "title": "The Moryo of Mukuro Village",
+        "aired": "Oct 20, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 79,
+        "title": "Komori-Neko's Halloween Pandemonium",
+        "aired": "Oct 27, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 80,
+        "title": "Onmoraki's Trap",
+        "aired": "Nov 10, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 81,
+        "title": "Hot Blooded Manga Artist: The Yokai Hiderigami",
+        "aired": "Nov 17, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 82,
+        "title": "Geriatric Nuppeppo",
+        "aired": "Nov 24, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 83,
+        "title": "Chain of Hatred: The Yokai Hoko",
+        "aired": "Dec 1, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 84,
+        "title": "Chin-san, the Foreign Worker",
+        "aired": "Dec 8, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 85,
+        "title": "The Giant, Daidarabotchi",
+        "aired": "Dec 15, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 86,
+        "title": "Bloody Christmas",
+        "aired": "Dec 22, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 87,
+        "title": "The Binbogami and the Zashiki-warashi",
+        "aired": "Jan 5, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 88,
+        "title": "Rollo Cloth's Romance",
+        "aired": "Jan 12, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 89,
+        "title": "The Curse of Te-no-Me",
+        "aired": "Jan 19, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 90,
+        "title": "Idol Legend Sazae-Oni",
+        "aired": "Jan 26, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 91,
+        "title": "The Misty Night of Angkor Wat",
+        "aired": "Feb 2, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 92,
+        "title": "The Writer Is Ama-no-Jaku",
+        "aired": "Feb 9, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 93,
+        "title": "The Phantom Train",
+        "aired": "Feb 16, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 94,
+        "title": "The Lazy Fujimi Hot Springs Bus Trip",
+        "aired": "Feb 23, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 95,
+        "title": "The Great Yokai Alliance",
+        "aired": "Mar 15, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 96,
+        "title": "The Second Great Yokai War",
+        "aired": "Mar 22, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 97,
+        "title": "The World You See Isn't All There Is",
+        "aired": "Mar 29, 2020",
         "filler": false,
         "recap": false
       }

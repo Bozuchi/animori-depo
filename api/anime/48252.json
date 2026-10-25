@@ -202,22 +202,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Episode 1",
+        "aired": "Jul 2, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Episode 2",
+        "aired": "Jul 10, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Episode 3",
+        "aired": "Jul 17, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Episode 4",
+        "aired": "Jul 24, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Episode 5",
+        "aired": "Jul 31, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Episode 6",
+        "aired": "Aug 7, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Episode 7",
+        "aired": "Aug 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Episode 8",
+        "aired": "Aug 21, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Episode 9",
+        "aired": "Aug 28, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Episode 10",
+        "aired": "Sep 4, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Episode 11",
+        "aired": "Sep 11, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Episode 12",
+        "aired": "Sep 18, 2021",
         "filler": false,
         "recap": false
       }

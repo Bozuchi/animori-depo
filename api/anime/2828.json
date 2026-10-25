@@ -94,8 +94,358 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Remi From Chavanon Village",
+        "aired": "Oct 2, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Remi, the Child of Destiny",
+        "aired": "Oct 9, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Remi's Departure",
+        "aired": "Oct 16, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "March Forward Remi!",
+        "aired": "Oct 23, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Remi's Debut",
+        "aired": "Oct 30, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Remi and His Sky-Blue Classroom",
+        "aired": "Nov 6, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Do Re Mi Fa Remi",
+        "aired": "Nov 13, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Remi, the Lost Child",
+        "aired": "Nov 20, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "My First Friend Grace",
+        "aired": "Nov 27, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "An Unexpected Incident",
+        "aired": "Dec 4, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Vitalis's Trial",
+        "aired": "Dec 11, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Little Leader Remi",
+        "aired": "Dec 19, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Encounter with the \"Swan\"",
+        "aired": "Dec 25, 1977",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "The Swan and Remi's Troupe",
+        "aired": "Jan 1, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "A Happy Boat Ride",
+        "aired": "Jan 8, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "A Dream Fulfilled, Two Mothers",
+        "aired": "Jan 15, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Goodbye \"Swan\"",
+        "aired": "Jan 22, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Don't Look Back Remi",
+        "aired": "Jan 29, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "In the Blizzard",
+        "aired": "Feb 5, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Remi and the Wolves",
+        "aired": "Feb 12, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "A New Life Is Born",
+        "aired": "Feb 19, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Master Joli-Coeur",
+        "aired": "Feb 26, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "A Wonderful Teacher",
+        "aired": "Mar 5, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "A Dear Friend In Paris, Mattia",
+        "aired": "Mar 12, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Master Garofoli",
+        "aired": "Mar 19, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Farewell My Son",
+        "aired": "Mar 26, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Vitalis's Past",
+        "aired": "Apr 2, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Lise's Sympathy",
+        "aired": "Apr 9, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Greenhouses of Happiness",
+        "aired": "Apr 16, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "My Brothers and Sisters",
+        "aired": "Apr 23, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Thank You Mattia",
+        "aired": "Apr 30, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "A Wonderful Idea",
+        "aired": "May 7, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "An Unexpected Companion",
+        "aired": "May 14, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "A Storm! 250 Meters Underground",
+        "aired": "May 21, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Remi Is Saved",
+        "aired": "May 28, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Music Genius, Mattia",
+        "aired": "Jun 4, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "A Gift For Mama",
+        "aired": "Jun 11, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Mama Barberin",
+        "aired": "Jun 18, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Hurry! To Paris",
+        "aired": "Jun 25, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Remi Is An English Man!",
+        "aired": "Jul 2, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "At Last! Mama and Papa Found",
+        "aired": "Jul 9, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "The Driscol's True Identities",
+        "aired": "Jul 16, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Milligan's Crest",
+        "aired": "Jul 30, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Ties Between a Mother and Child",
+        "aired": "Aug 6, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Mother Vanishes",
+        "aired": "Aug 13, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "In Despair",
+        "aired": "Aug 20, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Diving to the Death",
+        "aired": "Sep 3, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Storm in the English Channel",
+        "aired": "Sep 10, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Two Mothers",
+        "aired": "Sep 17, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "Her First Word... Remi!",
+        "aired": "Sep 24, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "A New Journey",
+        "aired": "Oct 1, 1978",
         "filler": false,
         "recap": false
       }

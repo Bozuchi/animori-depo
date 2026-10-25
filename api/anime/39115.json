@@ -50,7 +50,36 @@
       }
     ],
     "episodes": 4,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Birthday",
+        "aired": "Jan 30, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Message",
+        "aired": "Jan 30, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Mashi Mashi",
+        "aired": "Jan 30, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Network Friends",
+        "aired": "Jan 30, 2019",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 107881,

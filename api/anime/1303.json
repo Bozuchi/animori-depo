@@ -426,7 +426,71 @@
     ],
     "relations": [],
     "episodes": 9,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Final Flight of the Osiris",
+        "aired": "Jun 3, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Second Renaissance Part I",
+        "aired": "Jun 3, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Second Renaissance Part II",
+        "aired": "Jun 3, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Kid's Story",
+        "aired": "Jun 3, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Program",
+        "aired": "Jun 3, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "World Record",
+        "aired": "Jun 3, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Beyond",
+        "aired": "Jun 3, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "A Detective Story",
+        "aired": "Jun 3, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Matriculated",
+        "aired": "Jun 3, 2003",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1303,

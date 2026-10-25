@@ -380,50 +380,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Visitors",
+        "aired": "Oct 7, 1998",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Flowers & Girls",
+        "aired": "Oct 14, 1998",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Curiosity",
+        "aired": "Oct 21, 1998",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Future Memory",
+        "aired": "Oct 28, 1998",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Best of Both Worlds",
+        "aired": "Nov 4, 1998",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Chameleons",
+        "aired": "Nov 11, 1998",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Secrets & Lies",
+        "aired": "Nov 18, 1998",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Renegade",
+        "aired": "Nov 25, 1998",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Storms",
+        "aired": "Dec 2, 1998",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Janus",
+        "aired": "Dec 9, 1998",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Rage",
+        "aired": "Dec 16, 1998",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Out of Time",
+        "aired": "Dec 23, 1998",
         "filler": false,
         "recap": false
       }

@@ -94,7 +94,15 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Pure Romance / Pure Egoist / Pure Terrorist",
+        "aired": "Dec 20, 2012",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 13767,

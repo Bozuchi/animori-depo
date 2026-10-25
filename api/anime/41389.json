@@ -1244,85 +1244,92 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Marriage",
+        "aired": "Oct 3, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The First Night",
+        "aired": "Oct 10, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Sisters",
+        "aired": "Oct 17, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Promise",
+        "aired": "Oct 24, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Rings",
+        "aired": "Oct 31, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "News",
+        "aired": "Nov 7, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Trip",
+        "aired": "Nov 14, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Parents",
+        "aired": "Nov 21, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Daily Life",
+        "aired": "Nov 28, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "The Way Home",
+        "aired": "Dec 5, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Friends",
+        "aired": "Dec 12, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Husband and Wife",
+        "aired": "Dec 19, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "SNS",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       }

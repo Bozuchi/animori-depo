@@ -217,7 +217,113 @@
       }
     ],
     "episodes": 15,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Recruits of the 39th Class",
+        "aired": "Jun 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Great Magician",
+        "aired": "Jun 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "His Dream",
+        "aired": "Jun 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Daxia Soldiers",
+        "aired": "Jul 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "In the Heavy Rain",
+        "aired": "Jul 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Return in Full",
+        "aired": "Jul 16, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Nyx",
+        "aired": "Jul 23, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Go To Sleep",
+        "aired": "Jul 30, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Days After the Heavy Rain",
+        "aired": "Aug 6, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Long Time No See",
+        "aired": "Aug 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Do Me A Favor",
+        "aired": "Aug 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "One For Each Person",
+        "aired": "Aug 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Our Cangnan",
+        "aired": "Aug 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Defend, Rescue, Fight",
+        "aired": "Aug 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Within the Daxia Border, Forbids Entrance of Gods",
+        "aired": "Aug 13, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 206194,

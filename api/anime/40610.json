@@ -391,50 +391,316 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Heartfelt Harmony! Two as One, Cure Grace!",
+        "aired": "Feb 2, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "No Longer Partners?! Am I Not Good Enough?",
+        "aired": "Feb 9, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Passion Springs Up! Transformed to Cure Fontaine!",
+        "aired": "Feb 16, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "So Cute! Let Me Be One! The Birth of Cure Sparkle.",
+        "aired": "Feb 23, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Awkward Moments at the Aquarium! Out of Tune with Each Other.",
+        "aired": "Mar 1, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Where's Mom? Rate's Great Escape!",
+        "aired": "Mar 8, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "A Big Scoop? Nodoka's Secret.",
+        "aired": "Mar 15, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Chiyu Can't Jump?! The Track-and-Field Disaster!",
+        "aired": "Mar 22, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Hinata's Operation Cute!",
+        "aired": "Mar 29, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Emergency Treatment! So Many Mega Byo-gens!",
+        "aired": "Apr 5, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "All Our Powers as One! Miracle Healing!",
+        "aired": "Apr 12, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Our Minds as One? Operation Teamwork!",
+        "aired": "Apr 19, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Quit or Not Quit? What's Bothering Hinata?",
+        "aired": "Jun 28, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Energy Source! Sukoyaka Festival!",
+        "aired": "Jul 5, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "First Fight, Nodoka and Rabirin Grow Apart",
+        "aired": "Jul 12, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Friendship Vows Under the Eternal Tree",
+        "aired": "Jul 19, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Finest Hospitality. Trainee Innkeeper.",
+        "aired": "Jul 26, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Heart Flutter! Grateful Nyatoran",
+        "aired": "Aug 2, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Save Rate. Wind of Prayer and Miracle Girl.",
+        "aired": "Aug 9, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Unite Our Wishes! We Are Cure Earth",
+        "aired": "Aug 16, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Nice to Meet You. I'm Asumi Fuurin",
+        "aired": "Aug 23, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Don't Go, Rate! Fading Body and Fresh Emotions",
+        "aired": "Aug 30, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "What's Cute? Asumi and A Puppy",
+        "aired": "Sep 6, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "We're Coming! Healing on Wind",
+        "aired": "Sep 13, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Be Brave! Captured Pegitan",
+        "aired": "Sep 20, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Surprise! Asumi's Diary of Rate",
+        "aired": "Sep 27, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Hot-air Balloon! Asumi and Rate's Passion",
+        "aired": "Oct 4, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Suffering Again?! Daruizen, You Are...",
+        "aired": "Oct 11, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Nodoka's Stress? Find Refreshment!",
+        "aired": "Oct 18, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Group in Chaos? A Day at the Zoo",
+        "aired": "Oct 25, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Byo-gens' Evolution! Healin' Good Arrow!",
+        "aired": "Nov 8, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Like My Sis! Toji's Innkeeper Training",
+        "aired": "Nov 15, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Memorable Reunion! My Gift from the Past",
+        "aired": "Nov 22, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "A Rival?! Tsubasa - The Wing Chiyu Needs",
+        "aired": "Nov 29, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Hand in Hand Toss! Volleyball Healing!",
+        "aired": "Dec 6, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Gloomy Natasha Our Special Study Camp!",
+        "aired": "Dec 13, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Enjoy Autumn Special Tour for Lady Rate!",
+        "aired": "Dec 20, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Innkeeper or High Jump? Wavering Chiyu!",
+        "aired": "Dec 27, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Last Battle? Enter the Byo-gen Kingdom!",
+        "aired": "Jan 10, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Hinata's Regret... King Guaiwaru Is Born!",
+        "aired": "Jan 17, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Sukoyaka City's Crisis! The King's Shadow",
+        "aired": "Jan 24, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Nodoka's Choice! Something to Protect",
+        "aired": "Jan 31, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The King Evolved! Undermined City",
+        "aired": "Feb 7, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Let's Heal Together! For Our Healthy Future",
+        "aired": "Feb 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Welcome! The Healing Garden",
+        "aired": "Feb 21, 2021",
         "filler": false,
         "recap": false
       }

@@ -103,15 +103,92 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Thunderclap",
+        "aired": "Feb 6, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Daybreak",
+        "aired": "Feb 13, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Yin-yang",
+        "aired": "Feb 20, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Shackles",
+        "aired": "Feb 27, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Equal",
+        "aired": "Mar 6, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Dignified",
+        "aired": "Mar 13, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Future",
+        "aired": "Mar 20, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Aspiration",
+        "aired": "Mar 27, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Distinct",
+        "aired": "Apr 3, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Comeback",
+        "aired": "Apr 10, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Entangled",
+        "aired": "Apr 17, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Guidepost",
+        "aired": "Apr 24, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Shenmue",
+        "aired": "May 1, 2022",
         "filler": false,
         "recap": false
       }

@@ -235,22 +235,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Beginning",
+        "aired": "Apr 4, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Tokyoites",
+        "aired": "Apr 11, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "I'll Nyaa-ver Allow It",
+        "aired": "Apr 18, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "No Good Pictures",
+        "aired": "Apr 25, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Not Gonna Teach You",
+        "aired": "May 2, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Let's Go to Sugakiya",
+        "aired": "May 9, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Not Like That",
+        "aired": "May 16, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "This Ain't Akiba",
+        "aired": "May 23, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Nothin' To Do With It",
+        "aired": "May 30, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Just Gotta Put Some On",
+        "aired": "Jun 6, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "It Ain't Cool Here",
+        "aired": "Jun 13, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "See Y'all Again",
+        "aired": "Jun 20, 2019",
         "filler": false,
         "recap": false
       }

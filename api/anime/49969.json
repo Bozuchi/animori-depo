@@ -72,8 +72,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "It Takes Guts",
+        "aired": "Jan 10, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Destroyer",
+        "aired": "Jan 17, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "A Real Enemy",
+        "aired": "Jan 24, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Without Him...",
+        "aired": "Jan 31, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "What I Wanted To See",
+        "aired": "Feb 7, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "A Man's Pride",
+        "aired": "Feb 14, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Tribe-Packed XB Tourney",
+        "aired": "Feb 21, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Let the Chaos Begin",
+        "aired": "Feb 28, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Walk-off Win",
+        "aired": "Mar 7, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Declaration of War",
+        "aired": "Mar 14, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Chiyoda Tribe Showdown",
+        "aired": "Mar 21, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Play Ball",
+        "aired": "Mar 28, 2022",
         "filler": false,
         "recap": false
       }

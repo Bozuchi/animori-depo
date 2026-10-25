@@ -244,7 +244,36 @@
       }
     ],
     "episodes": 4,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Sleepy Life of Servamp 1",
+        "aired": "Nov 25, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Sleepy Life of Servamp 2",
+        "aired": "Dec 21, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Longing Covered in Ashes: All the World's a Stage",
+        "aired": "Jan 25, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Sleepy Life of Servamp 3",
+        "aired": "Feb 24, 2017",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 100768,

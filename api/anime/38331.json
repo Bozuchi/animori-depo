@@ -212,22 +212,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "PIECE 01",
+        "aired": "Oct 7, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "PIECE 02",
+        "aired": "Oct 14, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "PIECE 03",
+        "aired": "Oct 21, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "PIECE 04",
+        "aired": "Oct 28, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "PIECE 05",
+        "aired": "Nov 4, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "PIECE 06",
+        "aired": "Nov 11, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "PIECE 07",
+        "aired": "Nov 18, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "PIECE 08",
+        "aired": "Nov 25, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "PIECE 09",
+        "aired": "Dec 2, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "PIECE 10",
+        "aired": "Dec 9, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "PIECE 11",
+        "aired": "Dec 16, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "PIECE 12",
+        "aired": "Dec 23, 2019",
         "filler": false,
         "recap": false
       }

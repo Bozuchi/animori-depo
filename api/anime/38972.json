@@ -202,7 +202,29 @@
       }
     ],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Inizio del Vento Aureo",
+        "aired": "Jan 5, 2019",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 2,
+        "title": "Determination",
+        "aired": "Mar 9, 2019",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 3,
+        "title": "Destiny",
+        "aired": "May 4, 2019",
+        "filler": false,
+        "recap": true
+      }
+    ]
   },
   "anilist": null
 }

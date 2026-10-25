@@ -190,29 +190,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "No Rain, No Rainbow",
+        "aired": "Apr 3, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Intersection",
+        "aired": "Apr 10, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Flowers and Birds",
+        "aired": "Apr 17, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "To the Other Me",
+        "aired": "Apr 24, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Kizuna",
+        "aired": "May 1, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "On the Starry Sky",
+        "aired": "May 15, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Visitor",
+        "aired": "May 22, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Cracked World",
+        "aired": "May 29, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Live in the Now, Now, Now!",
+        "aired": "Jun 5, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Choice",
+        "aired": "Jun 12, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Unlimited Wishes",
+        "aired": "Jun 19, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "No One Knows When Spring Ends",
+        "aired": "Jun 26, 2022",
         "filler": false,
         "recap": false
       }

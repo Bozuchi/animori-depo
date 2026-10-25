@@ -125,15 +125,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Princess Starting from the Chopping Block",
+        "aired": "Oct 8, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Princess Mia Displays Her Smug Face",
+        "aired": "Oct 15, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Princess Mia Sows Seeds",
+        "aired": "Oct 22, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Shall We Dance?",
+        "aired": "Oct 29, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Princess Mia Swoons",
+        "aired": "Nov 5, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Sword Fighting Tournament: Prince Abel's Fight",
+        "aired": "Nov 12, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Princess Mia Sees Clearly",
+        "aired": "Nov 19, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Princess Mia Grins Slyly",
+        "aired": "Nov 26, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Princess Mia's (Love-Focused) Choice",
+        "aired": "Dec 3, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Princess Mia Is Kidnapped!",
+        "aired": "Dec 10, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "A Reunion, a Duel, and...",
+        "aired": "Dec 17, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "To Keep What Was Preciously Grown from Withering",
+        "aired": "Dec 24, 2023",
         "filler": false,
         "recap": false
       }

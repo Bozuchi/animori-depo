@@ -182,9 +182,23 @@
     "episodes": 3,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "To You, Who I Wanted to Meet...",
+        "aired": "Dec 24, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "That Warm Goodbye...",
+        "aired": "Mar 23, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "To That Far Away Future...",
+        "aired": "Jun 24, 2016",
         "filler": false,
         "recap": false
       }

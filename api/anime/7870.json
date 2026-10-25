@@ -80,7 +80,50 @@
       }
     ],
     "episodes": 6,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Mission Impossible Baka Trailer",
+        "aired": "Apr 23, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Mission: Impossible Baka Mission 01",
+        "aired": "May 25, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Cross-Dressing Special",
+        "aired": "Jun 25, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Himeji Girls' Meal",
+        "aired": "Aug 6, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The King Game at Fumizuki Academy",
+        "aired": "Aug 25, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Baka Tales",
+        "aired": "Sep 22, 2010",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 7870,

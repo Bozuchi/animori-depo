@@ -322,43 +322,64 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Roman who Leapt Through Time / Swan Lake",
+        "aired": "Jan 13, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Shampoo Hat / The Melancholy of the Emperor",
+        "aired": "Jan 20, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Power of Baths First Part / Second Part",
+        "aired": "Jan 27, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Fascination of Pharos / I Want to Slip Honestly",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Three Office Lady Sisters' Thermae Murder Mystery /  I Want to Feel Smooth",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Fascination of Pharos",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "I Want to Slip Honestly",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Three Office Lady Sisters' Thermae Murder Mystery",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "I Want to Feel Smooth",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       }

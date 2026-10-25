@@ -107,15 +107,295 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "1999/09/09, 00:09:09",
+        "aired": "Apr 16, 1981",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Infinite Universe",
+        "aired": "Apr 23, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Thieves of the Millennium",
+        "aired": "Apr 30, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "A Meteorite Disappears",
+        "aired": "May 7, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Underground Boat Is...",
+        "aired": "May 14, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Underground City",
+        "aired": "May 21, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Invitation to the Secret Base.",
+        "aired": "May 28, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Crisis of the Underground Explosion",
+        "aired": "Jun 11, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Approaching the Mystery of the Big Cave.",
+        "aired": "Jun 25, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Fight at the Holy Cave.",
+        "aired": "Jul 9, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Are the Millennium Thieves...Friend or Foe!?",
+        "aired": "Jul 23, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Secret of the Telescope",
+        "aired": "Jul 30, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Escape in the Morning Mist",
+        "aired": "Aug 13, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "The Secret of the Queen",
+        "aired": "Aug 27, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Truth in the Twilight.",
+        "aired": "Sep 10, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Lar Metal, the Devil's Star",
+        "aired": "Sep 17, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Yayoi Leaves the Observatory",
+        "aired": "Sep 24, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "A Sudden Catastrophic Earthquake",
+        "aired": "Oct 1, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "A heavy decision",
+        "aired": "Oct 8, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Approaching Crisis of the Earth!",
+        "aired": "Oct 15, 1981",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 21,
+        "title": "God of Death Guerlain's Doubt",
+        "aired": "Oct 22, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Man Who Moves in the Shadows",
+        "aired": "Oct 29, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Confrontation in a Stormy Night",
+        "aired": "Nov 5, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Two Pendants",
+        "aired": "Nov 12, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Bonds of the Enemy",
+        "aired": "Nov 19, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Reunion of Destiny",
+        "aired": "Nov 26, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Messenger of the Demon Star",
+        "aired": "Dec 3, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "A Journey of Rebellion",
+        "aired": "Dec 10, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Duel at the Black Capital",
+        "aired": "Dec 17, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Shoot the Stars of Destiny!",
+        "aired": "Dec 24, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Fly! Phoenix",
+        "aired": "Jan 7, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Order to Attack the Earth",
+        "aired": "Jan 14, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Miracle of Queen Millennia",
+        "aired": "Jan 21, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Battleship Twin Star Strikes",
+        "aired": "Jan 28, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Great Escape Underground",
+        "aired": "Feb 4, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Prologue of the Destruction of the Earth",
+        "aired": "Feb 11, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Crossing the Sea of Despair",
+        "aired": "Feb 18, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Eve of the Final Battle",
+        "aired": "Feb 25, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "No Victory for Tomorrow",
+        "aired": "Mar 4, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Curse of the Dark Comet",
+        "aired": "Mar 11, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Earth's Final Day",
+        "aired": "Mar 18, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Legend of Queen Millennia",
+        "aired": "Mar 25, 1982",
         "filler": false,
         "recap": false
       }

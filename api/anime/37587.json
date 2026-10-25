@@ -694,7 +694,92 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Legendary academy",
+        "aired": "Jul 4, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Accord chase",
+        "aired": "Jul 11, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Plucky bump",
+        "aired": "Jul 18, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Identity",
+        "aired": "Jul 25, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Sunny day",
+        "aired": "Aug 1, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Ruin Explorers",
+        "aired": "Aug 8, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Luminous hope",
+        "aired": "Aug 15, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Instinct olquestra",
+        "aired": "Aug 22, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Gradience",
+        "aired": "Aug 29, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Honorable princess",
+        "aired": "Sep 5, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Top concern",
+        "aired": "Sep 12, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Specificity ornament",
+        "aired": "Sep 19, 2020",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 104937,

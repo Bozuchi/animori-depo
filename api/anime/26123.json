@@ -358,7 +358,78 @@
       }
     ],
     "episodes": 10,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "One on One / Clap-Clap Slap",
+        "aired": "May 16, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Farewell, Coin / A Bunch of Strong People / Waking Up to Muscle Memory",
+        "aired": "Oct 22, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Advisor / Comparing Boobs at the Speed of Light / Going to School in Bad Weather",
+        "aired": "Feb 17, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Fighting Humanoid Robot / Uncivilized Hole (Top) Feeling in the Back (Bottom)",
+        "aired": "Sep 17, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Conclusion to an Urban Legend / Flag Construction Site",
+        "aired": "Apr 15, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "3 Days of Deserted Island Life / Late Summer's Greetings",
+        "aired": "Dec 16, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Student Council's Long Way Home / The Coloring is Amazingly White / The Vice-President Swims Like a Rock",
+        "aired": "Sep 15, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Two Hot People / Cherry Blossoms THE MOVIE / Eiryou High School student from the volleyball team",
+        "aired": "Apr 17, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Part-A Detectives / Tsukkomi Quartet / Say It Again with Uomi's Voice",
+        "aired": "Aug 16, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "An Angry Mutsumi has plenty of Spirit / God Fingers Tsuda Takatoshi / It's A Double Date Kaede-san",
+        "aired": "Sep 17, 2020",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20826,

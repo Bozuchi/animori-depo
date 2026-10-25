@@ -408,7 +408,29 @@
       }
     ],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Witches Blow a New Pipe",
+        "aired": "Oct 2, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Ghillie Suit / She Makes Me Special",
+        "aired": "Oct 2, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "If a lion could speak, we couldn't understand",
+        "aired": "Oct 2, 2020",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 116673,

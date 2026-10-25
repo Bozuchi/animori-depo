@@ -112,7 +112,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "It's Summer! It's Swimsuits! It's Training Camp!",
+        "aired": "Mar 1, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Takeru Turns into a Woman!? Naked in a Southern Island!",
+        "aired": "Sep 30, 2013",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 11209,

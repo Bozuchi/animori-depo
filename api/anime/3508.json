@@ -387,7 +387,57 @@
       }
     ],
     "episodes": 7,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Genius Party",
+        "aired": "Jul 7, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Shanghai Dragon",
+        "aired": "Jul 7, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Deathtic 4",
+        "aired": "Jul 7, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Doorbell",
+        "aired": "Jul 7, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Limit Cycle",
+        "aired": "Jul 7, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Happy Machine",
+        "aired": "Jul 7, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Baby Blue",
+        "aired": "Jul 7, 2007",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 3508,

@@ -352,43 +352,92 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "First Encounter",
+        "aired": "Apr 2, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Yu and Yu",
+        "aired": "Apr 9, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Prince from a Distant Land",
+        "aired": "Apr 16, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Summer Night Camp",
+        "aired": "Apr 23, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Setting Sun",
+        "aired": "Apr 30, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Let Go of the Reins",
+        "aired": "May 7, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Day We Leave the Nest",
+        "aired": "May 14, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Ritto Wind",
+        "aired": "May 21, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Leap Forward, Side-by-Side!",
+        "aired": "May 28, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Sound of Distant Rain",
+        "aired": "Jun 4, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Morning Dew is Far",
+        "aired": "Jun 11, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "1700 Meters on the Dirt",
+        "aired": "Jun 18, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Into the Starting Gate!",
+        "aired": "Jun 25, 2022",
         "filler": false,
         "recap": false
       }

@@ -323,7 +323,92 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Vampire of the Public Bathhouse",
+        "aired": "Jan 11, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Unpleasant Vampire",
+        "aired": "Jan 18, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Franken and the Vampire",
+        "aired": "Jan 25, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Vampire's Slumber Party",
+        "aired": "Feb 1, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Vampire of Fate",
+        "aired": "Feb 8, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "A Vampire Put on the Spot",
+        "aired": "Feb 15, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Cornered Vampire",
+        "aired": "Feb 22, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "A Gal and the Vampire",
+        "aired": "Mar 1, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "A Certain Family and the Vampire",
+        "aired": "Mar 9, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Mr. Sakamoto and the Vampire",
+        "aired": "Mar 15, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Love, the Cross, and the Vampire",
+        "aired": "Mar 22, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "And Thus, a New Vampire",
+        "aired": "Mar 29, 2025",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 175422,

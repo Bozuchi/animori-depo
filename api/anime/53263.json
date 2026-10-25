@@ -83,8 +83,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Healers' Guild",
+        "aired": "Jul 7, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Adventurers' Guild",
+        "aired": "Jul 14, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "A Talent for Martial Arts",
+        "aired": "Jul 21, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Substance X and a Small Change",
+        "aired": "Jul 28, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Healing Clinic and the Arrival of Bottaculli",
+        "aired": "Aug 4, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "On a Journey",
+        "aired": "Aug 11, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Holy City of Shurule",
+        "aired": "Aug 25, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "A Threat in the Boss Room",
+        "aired": "Aug 25, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Training with the Paladin Regiment",
+        "aired": "Sep 1, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Secret of Substance X",
+        "aired": "Sep 8, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Trouble in St. Shurule",
+        "aired": "Sep 15, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "S-Rank Healer and Exorcist Luciel`s Declaration",
+        "aired": "Sep 22, 2023",
         "filler": false,
         "recap": false
       }

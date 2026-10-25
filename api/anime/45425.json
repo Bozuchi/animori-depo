@@ -172,15 +172,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "A Very Unique Girl",
+        "aired": "Jan 7, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "If You Can Just Smile",
+        "aired": "Jan 14, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Thank You",
+        "aired": "Jan 21, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Aren't You Embarrassed?",
+        "aired": "Jan 28, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Together Again",
+        "aired": "Feb 4, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Difficult Is Fun",
+        "aired": "Feb 11, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Wedding",
+        "aired": "Feb 18, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "I'm Fine Right Here",
+        "aired": "Feb 25, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "I Wanna Go on a Fishing and Camping Trip!!",
+        "aired": "Mar 4, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "I'll Do My Best, Too",
+        "aired": "Mar 11, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Those Important to Me",
+        "aired": "Mar 18, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Let's Pick Some Out Together",
+        "aired": "Mar 25, 2022",
         "filler": false,
         "recap": false
       }

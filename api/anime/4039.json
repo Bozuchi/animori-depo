@@ -284,36 +284,351 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "At Pin-Hole!",
+        "aired": "Apr 12, 2008",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Room No.909",
+        "aired": "Apr 19, 2008",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Masterpiece Assault Rifle",
+        "aired": "Apr 26, 2008",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Pretty Woman",
+        "aired": "May 3, 2008",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Superstars' Joint Appearance",
+        "aired": "May 10, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "An Offering to God",
+        "aired": "May 17, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Sharpshoot on the G String",
+        "aired": "May 24, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Action in 4/24",
+        "aired": "May 31, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Sleep Inside the Cage",
+        "aired": "Jun 7, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Target Returned",
+        "aired": "Jun 14, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Dead Angle",
+        "aired": "Jun 21, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Touchdown",
+        "aired": "Jun 28, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Cross Angle",
+        "aired": "Jul 5, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Deadly Shadow of the Setting Sun",
+        "aired": "Jul 12, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Eva Heads Toward the Ocean",
+        "aired": "Jul 19, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "The Saint That Reeks of Death",
+        "aired": "Jul 26, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Afterglow",
+        "aired": "Aug 2, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Steinbeck III",
+        "aired": "Aug 9, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "The Glass Fortress",
+        "aired": "Aug 16, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Melancholy Summer",
+        "aired": "Aug 23, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Garimpeiro",
+        "aired": "Aug 30, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Indian Summer",
+        "aired": "Sep 6, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Jet Stream",
+        "aired": "Sep 13, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Santa Ana",
+        "aired": "Sep 20, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Florida Chase",
+        "aired": "Sep 27, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Cold-Blooded Catherine",
+        "aired": "Oct 4, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Fearless",
+        "aired": "Oct 11, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "The Midnight Sun Means Sighs of Love",
+        "aired": "Oct 18, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Casting",
+        "aired": "Oct 25, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Love is a Knife",
+        "aired": "Nov 1, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Angry Waves",
+        "aired": "Nov 8, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "A Crossover of Murderous Intent",
+        "aired": "Nov 15, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Wine of Renown",
+        "aired": "Nov 22, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Night of the Murder",
+        "aired": "Nov 29, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Law of Lineage",
+        "aired": "Dec 6, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Outmoded Livery",
+        "aired": "Dec 13, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Christmas, 24 Hours",
+        "aired": "Dec 20, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Young Girl Sarah",
+        "aired": "Dec 27, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Ash's Greatest Day",
+        "aired": "Jan 10, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "A Banquet for Brutes",
+        "aired": "Jan 17, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "The Night Fog of Petticoat Lane",
+        "aired": "Jan 24, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Above Largemouth Lake",
+        "aired": "Jan 31, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Blank Request",
+        "aired": "Feb 7, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Rockford's Ambition",
+        "aired": "Feb 14, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "One Second Among 36,000",
+        "aired": "Feb 21, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "End-of-the-Century Hollywood",
+        "aired": "Feb 28, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "The Lingering Night",
+        "aired": "Mar 7, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Black Pupils, Ebony Eyes",
+        "aired": "Mar 14, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Armored Soldier SDR2",
+        "aired": "Mar 21, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "The \"Skill\" of Angels and Devils",
+        "aired": "Mar 28, 2009",
         "filler": false,
         "recap": false
       }

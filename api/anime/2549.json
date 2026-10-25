@@ -117,57 +117,372 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Setting Out",
+        "aired": "Jan 1, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "A Long Journey",
+        "aired": "Jan 8, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Mother's Strength",
+        "aired": "Jan 15, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Rebel Count",
+        "aired": "Jan 22, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "GrandFather and Grandson",
+        "aired": "Jan 29, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Two Mothers",
+        "aired": "Feb 5, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "The Circus Boy",
+        "aired": "Feb 12, 1978",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Drunk Donkey",
+        "aired": "Feb 19, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Business Rivals",
+        "aired": "Feb 26, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Camera Thieves",
+        "aired": "Mar 5, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Baron Does His Best",
+        "aired": "Mar 12, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "An Audience of Two",
+        "aired": "Mar 19, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Crossing The Alps",
+        "aired": "Mar 26, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "In A Beautiful Country",
+        "aired": "Apr 2, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "France! France!",
+        "aired": "Apr 9, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Mother's Decision",
+        "aired": "Apr 16, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "An Inn in Paris",
+        "aired": "Apr 23, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "The Old Man At The Gate",
+        "aired": "Apr 30, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "The Boy From Downtown Paris",
+        "aired": "May 7, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Farewell, Palikare",
+        "aired": "May 14, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Mother's Last Words",
+        "aired": "May 21, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Unforgettable Friends",
+        "aired": "May 28, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Solo Journey",
+        "aired": "Jun 4, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "A Beautiful Rainbow",
+        "aired": "Jun 11, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Palikare! That's My Palikare!",
+        "aired": "Jun 18, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Kind Rouquerie-obasan",
+        "aired": "Jun 25, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Grandfather's Cold Face",
+        "aired": "Jul 2, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Working in Paindavoine Factory",
+        "aired": "Jul 9, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "A Hut By The Lake",
+        "aired": "Jul 16, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "All By Herself",
+        "aired": "Jul 23, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Perrine's Guests",
+        "aired": "Jul 30, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Her Secret Name",
+        "aired": "Aug 6, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Theodore's Wallet",
+        "aired": "Aug 13, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "An Unforgettable Day",
+        "aired": "Aug 20, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The English Letters",
+        "aired": "Aug 27, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Joy and Anxiety",
+        "aired": "Sep 3, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Grandfather's Large Hand",
+        "aired": "Sep 10, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Her Lovely Dress",
+        "aired": "Sep 17, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "A Letter From India",
+        "aired": "Sep 24, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Baron's Calamity",
+        "aired": "Oct 1, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "A Castle-Like Château",
+        "aired": "Oct 8, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Rosalie's Sorrow",
+        "aired": "Oct 15, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "On Sunday' Perrine...",
+        "aired": "Oct 22, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "A Malicious Woman",
+        "aired": "Oct 29, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "News From Bosnia",
+        "aired": "Nov 5, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Vulfran's Sorrow",
+        "aired": "Nov 12, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Aurelie's Face",
+        "aired": "Nov 19, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "The Fire",
+        "aired": "Nov 26, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "A Time for Joyful Tears",
+        "aired": "Dec 3, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "The First Snow of Winter",
+        "aired": "Dec 10, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Grandfather's Eyes",
+        "aired": "Dec 17, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "An Unforgettable Christmas",
+        "aired": "Dec 24, 1978",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Spring Cometh",
+        "aired": "Dec 31, 1978",
         "filler": false,
         "recap": false
       }

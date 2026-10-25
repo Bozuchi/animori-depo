@@ -609,71 +609,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Visitors",
+        "aired": "Jul 6, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "A Meeting of Humans and Monsters",
+        "aired": "Jul 13, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Ramiris's Warning",
+        "aired": "Jul 20, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Congress Dances",
+        "aired": "Jul 27, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Eve of Battle",
+        "aired": "Aug 3, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Demon Lords",
+        "aired": "Aug 10, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "The Signal to Begin the Banquet",
+        "aired": "Aug 17, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "On This Land Where It All Happened",
+        "aired": "Aug 24, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Adalman, the Index Finger",
+        "aired": "Aug 31, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Demon Lords' Banquet: Walpurgis",
+        "aired": "Sep 7, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Returning from the Brink",
+        "aired": "Sep 14, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Octagram",
+        "aired": "Sep 21, 2021",
         "filler": false,
         "recap": false
       }

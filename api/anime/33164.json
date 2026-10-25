@@ -348,43 +348,50 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Countermeasure 1",
+        "aired": "Apr 6, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Countermeasure 2",
+        "aired": "May 11, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Countermeasure 3",
+        "aired": "Jun 1, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Countermeasure 4",
+        "aired": "Jul 6, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Countermeasure 5",
+        "aired": "Aug 3, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Countermeasure 6",
+        "aired": "Sep 7, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Countermeasure 7",
+        "aired": "Oct 5, 2016",
         "filler": false,
         "recap": false
       }

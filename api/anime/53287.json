@@ -56,7 +56,43 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Path I've Chosen",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Tomakanote",
+        "aired": "Oct 13, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The White-Colored Center",
+        "aired": "Oct 20, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "No Rain, No Rainbow",
+        "aired": "Oct 27, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Ni Hao! Shanghai! Xiaolongbao!",
+        "aired": "Nov 3, 2024",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 155502,

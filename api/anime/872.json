@@ -293,58 +293,282 @@
     "episodes": 40,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "The Witch Realm",
+        "aired": "Apr 9, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The 100 Fairy Species",
+        "aired": "Apr 16, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Magical Brooms",
+        "aired": "Apr 23, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Ecoo Fairy",
+        "aired": "Apr 30, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Book of Spells",
+        "aired": "May 7, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Gryphon's Feather",
+        "aired": "May 14, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Piskey's Fang",
+        "aired": "May 21, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Port of Departure",
+        "aired": "May 28, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Witch Evaluation",
+        "aired": "Jun 4, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Hydra's Attack",
+        "aired": "Jun 11, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Witches' Tradition",
+        "aired": "Jun 18, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Happy Birthday",
+        "aired": "Jun 25, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "The Warlock Sigma",
+        "aired": "Jul 2, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Sheila's Quandary",
+        "aired": "Jul 9, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "Cursed Magic",
+        "aired": "Jul 16, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Eva's Courage",
+        "aired": "Jul 23, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Invade the Warlock Realm!",
+        "aired": "Sep 3, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "The True Wizard",
+        "aired": "Sep 10, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Backs Against the Wall",
+        "aired": "Sep 17, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Magical Girl Squad",
+        "aired": "Sep 24, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Interdimensional Sea",
+        "aired": "Oct 1, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "The Pirate Lennon",
+        "aired": "Oct 8, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Traitor Among the Witches",
+        "aired": "Oct 15, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Light of Hope",
+        "aired": "Oct 22, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Suspicion",
+        "aired": "Oct 29, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Splintered Hearts",
+        "aired": "Nov 5, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Destruction Foreshadowed",
+        "aired": "Nov 12, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Full-scale Attack",
+        "aired": "Nov 19, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The True Book of Spells",
+        "aired": "Nov 26, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Lennon's True Identity",
+        "aired": "Dec 3, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Anguished Heart",
+        "aired": "Jan 21, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "The One Thing That Must Be Protected",
+        "aired": "Jan 21, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Dad's Alive",
+        "aired": "Jan 28, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Promise",
+        "aired": "Jan 28, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Collapse",
+        "aired": "Feb 4, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Escape",
+        "aired": "Feb 11, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Demise",
+        "aired": "Feb 18, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Dark Magic",
+        "aired": "Feb 25, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Light Magic",
+        "aired": "Mar 4, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Hope",
+        "aired": "Mar 4, 2005",
         "filler": false,
         "recap": false
       }

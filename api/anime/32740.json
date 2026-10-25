@@ -89,8 +89,22 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Alice War!",
+        "aired": "May 27, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Akiyama Yukari's Tank Corner - Japanese and Christie Suspension Tanks",
+        "aired": "May 27, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Akiyama Yukari's Tank Corner - Selection University",
+        "aired": "May 27, 2016",
         "filler": false,
         "recap": false
       }

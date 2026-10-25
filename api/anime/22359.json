@@ -1237,170 +1237,184 @@
     "episodes": 26,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "Born in the Storm",
+        "aired": "Oct 11, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "First Trip to the Forest",
+        "aired": "Oct 11, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Fear in the Forest",
+        "aired": "Oct 18, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Hearing the Whistler",
+        "aired": "Oct 25, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Enemy in the Fort",
+        "aired": "Nov 1, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Taking Without Asking",
+        "aired": "Nov 8, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Song In the Mist",
+        "aired": "Nov 15, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Autumn Deepens",
+        "aired": "Nov 22, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Stuck in the Snow",
+        "aired": "Nov 29, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "The Vow to be Brother and Sister",
+        "aired": "Dec 6, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "To be Done in Secret",
+        "aired": "Dec 13, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "The Whistler Underground",
+        "aired": "Dec 20, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "Wretched Robbers",
+        "aired": "Dec 27, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Splendid Spring",
+        "aired": "Jan 3, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "Endless Fighting - Part One",
+        "aired": "Jan 10, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "Endless Fighting - Part Two",
+        "aired": "Jan 17, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "Moving Out",
+        "aired": "Jan 24, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "Something in the Cave",
+        "aired": "Jan 31, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "The Lost Knife",
+        "aired": "Feb 7, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 20,
-        "title": "20. Bölüm",
-        "aired": null,
+        "title": "With the Wild Horses",
+        "aired": "Feb 14, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 21,
-        "title": "21. Bölüm",
-        "aired": null,
+        "title": "Hunted by Harpies",
+        "aired": "Feb 21, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 22,
-        "title": "22. Bölüm",
-        "aired": null,
+        "title": "Only This Summer",
+        "aired": "Feb 28, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 23,
-        "title": "23. Bölüm",
-        "aired": null,
+        "title": "Life Isn't to be Thrown Away",
+        "aired": "Mar 7, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 24,
-        "title": "24. Bölüm",
-        "aired": null,
+        "title": "Fight of the Wild Beasts",
+        "aired": "Mar 14, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 25,
-        "title": "25. Bölüm",
-        "aired": null,
+        "title": "One Band of Robbers",
+        "aired": "Mar 21, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 26,
-        "title": "26. Bölüm",
-        "aired": null,
+        "title": "The Call of Spring",
+        "aired": "Mar 28, 2015",
         "filler": false,
         "recap": false
       }

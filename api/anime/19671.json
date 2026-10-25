@@ -242,22 +242,50 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Makoto's Trouble!",
+        "aired": "Sep 11, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Staff Recruitment!",
+        "aired": "Sep 11, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Rin and Nitori's Week!",
+        "aired": "Oct 9, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Rei's Intense Diving Training!",
+        "aired": "Oct 9, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Rei, Theories, and Speedos!",
+        "aired": "Jan 8, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Iwatobi Clan!",
+        "aired": "Jan 8, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Distant FrFr!",
+        "aired": "Jan 8, 2014",
         "filler": false,
         "recap": false
       }

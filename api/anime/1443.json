@@ -112,15 +112,15 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Episode 1",
+        "aired": "Mar 21, 1990",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Episode 2",
+        "aired": "Jul 21, 1991",
         "filler": false,
         "recap": false
       }

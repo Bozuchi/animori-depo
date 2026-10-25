@@ -130,15 +130,22 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The World to Come",
+        "aired": "Oct 6, 2017",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Heart of Gold",
+        "aired": "Nov 10, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Hyperion Intersection",
+        "aired": "Dec 8, 2017",
         "filler": false,
         "recap": false
       }

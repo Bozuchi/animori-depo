@@ -87,9 +87,23 @@
     "episodes": 3,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "Kanini & Kanino",
+        "aired": "Aug 24, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Life Ain't Gonna Lose",
+        "aired": "Aug 24, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Invisible",
+        "aired": "Aug 24, 2018",
         "filler": false,
         "recap": false
       }

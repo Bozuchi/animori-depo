@@ -3503,169 +3503,344 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "A Fire Soldier's Fight",
+        "aired": "Jul 4, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Flames of Madness",
+        "aired": "Jul 11, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "A New Flashpoint",
+        "aired": "Jul 18, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Groping Through the Fire",
+        "aired": "Jul 25, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Corna (Sign of the Devil) / A Secret Plan",
+        "aired": "Aug 1, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Time to Choose",
+        "aired": "Aug 8, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Road to the Oasis",
+        "aired": "Aug 15, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Smoldering Malevolence",
+        "aired": "Aug 22, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "The Core",
+        "aired": "Aug 29, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "The Woman in Black",
+        "aired": "Sep 5, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Dark Hero",
+        "aired": "Sep 12, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Shadows Cast by Divine Light",
+        "aired": "Sep 19, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "A Pair of One-Eyes",
+        "aired": "Sep 26, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "The Ashen Reaper",
+        "aired": "Oct 3, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "A Three-Way Melee",
+        "aired": "Oct 10, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "Mind Blown",
+        "aired": "Oct 17, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "Boys, Be Weak",
+        "aired": "Oct 24, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "The Holy Woman's Anguish / The Man, Assault",
+        "aired": "Oct 31, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "The Oze Family",
+        "aired": "Nov 7, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 20,
-        "title": "20. Bölüm",
-        "aired": null,
+        "title": "Weapon of Destruction",
+        "aired": "Nov 14, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 21,
-        "title": "21. Bölüm",
-        "aired": null,
+        "title": "Enemy Contact",
+        "aired": "Nov 21, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 22,
-        "title": "22. Bölüm",
-        "aired": null,
+        "title": "Plot for Extinction",
+        "aired": "Nov 28, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 23,
-        "title": "23. Bölüm",
-        "aired": null,
+        "title": "Firecat",
+        "aired": "Dec 5, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 24,
-        "title": "24. Bölüm",
-        "aired": null,
+        "title": "Signs of Upheaval",
+        "aired": "Dec 12, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "A Fire Soldier's Fight",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Flames of Madness",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "A New Flashpoint",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Groping Through the Fire",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Corna (Sign of the Devil) / A Secret Plan",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Time to Choose",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Road to the Oasis",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Smoldering Malevolence",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "The Core",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "The Woman in Black",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Dark Hero",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Shadows Cast by Divine Light",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "A Pair of One-Eyes",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "The Ashen Reaper",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "A Three-Way Melee",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Mind Blown",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Boys, Be Weak",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "The Holy Woman's Anguish / The Man, Assault",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Oze Family",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Weapon of Destruction",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Enemy Contact",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Plot for Extinction",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Firecat",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Signs of Upheaval",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Indomitable Resolve",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       }

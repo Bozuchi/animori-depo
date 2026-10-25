@@ -135,7 +135,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Make It! Do-or-Die Survival Training, Part 1",
+        "aired": "Aug 16, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Make It! Do-or-Die Survival Training, Part 2",
+        "aired": "Aug 16, 2020",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 122349,

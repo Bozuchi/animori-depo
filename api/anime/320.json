@@ -55,7 +55,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Volume 1",
+        "aired": "Feb 25, 1998",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Volume 2",
+        "aired": "Oct 25, 1998",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 320,

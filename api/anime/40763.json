@@ -95,8 +95,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "White Startline",
+        "aired": "Jan 9, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Yell and Response",
+        "aired": "Jan 16, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "On The Bike",
+        "aired": "Jan 23, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "No Problem!!",
+        "aired": "Jan 30, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Parallelism Crown",
+        "aired": "Feb 6, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Heromeans",
+        "aired": "Feb 13, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Endless Waltz of Crimson Flashing Wings with Guts",
+        "aired": "Feb 20, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Sky of Neon Tetras",
+        "aired": "Feb 27, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Teppan in the Bag",
+        "aired": "Mar 5, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Platform",
+        "aired": "Mar 12, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Your Rhapsody",
+        "aired": "Mar 19, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Mashumairesh!!",
+        "aired": "Mar 26, 2020",
         "filler": false,
         "recap": false
       }

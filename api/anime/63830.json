@@ -218,7 +218,36 @@
       }
     ],
     "episodes": 19,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Emilia Camp Struggle Chronicles - 08",
+        "aired": "Apr 8, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Emilia Camp Struggle Chronicles - 09",
+        "aired": "Apr 15, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Everyone is Troublesome, I Suppose - 01",
+        "aired": "Apr 22, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Everyone is Troublesome, I Suppose - 02",
+        "aired": "Apr 29, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 210687,

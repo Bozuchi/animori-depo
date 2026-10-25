@@ -230,85 +230,239 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Ranze Eto's Secret",
+        "aired": "Oct 7, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Door to The Demon World",
+        "aired": "Oct 14, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Bathroom Crisis",
+        "aired": "Oct 21, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "A Small Friendship",
+        "aired": "Oct 28, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Ranze goes to the Demon World",
+        "aired": "Nov 4, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Foggy Night Romance",
+        "aired": "Nov 11, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Beware the Cultural Festival",
+        "aired": "Nov 18, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Love, Camera, Action",
+        "aired": "Nov 25, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Tamasaburo's Love",
+        "aired": "Dec 2, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "The Invisible Girl, Miel",
+        "aired": "Dec 9, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Birthday of the Full Moon",
+        "aired": "Dec 16, 1982",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Eh?? Ranze's Wish",
+        "aired": "Dec 23, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "White Sweethearts",
+        "aired": "Jan 3, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "I saw it!! Ranze is a Tanuki!",
+        "aired": "Jan 13, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Sorry for the Nudity",
+        "aired": "Jan 20, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Love of The Young Runner",
+        "aired": "Jan 27, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Fickle Magic Teacher",
+        "aired": "Feb 3, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Title Match of Love",
+        "aired": "Feb 10, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "The Sentimental Giant",
+        "aired": "Feb 17, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Chaos! Too many Ranzes!",
+        "aired": "Feb 24, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Love Letter from E.T.",
+        "aired": "Mar 3, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Panic! Pajama Game",
+        "aired": "Mar 10, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Sand's Love Story",
+        "aired": "Mar 17, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Ardent Love! Great War in the Demon World",
+        "aired": "Mar 24, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "The Transformation is seen! Shun must die",
+        "aired": "Mar 31, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Execution Battleship! Space Wars",
+        "aired": "Apr 28, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Clash! Rocky VS Shun",
+        "aired": "May 5, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Stretching Angel, Hunter of Love",
+        "aired": "May 19, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Shock! Future Encounter",
+        "aired": "Jun 9, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Prince's Order of Assassination",
+        "aired": "Jun 16, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "The Migratory Bird Returns",
+        "aired": "Jun 23, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Venture! Island of Sweethearts",
+        "aired": "Jul 7, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Tokimeki Folklore Comic",
+        "aired": "Jul 28, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "I Love you! I Love you! Love Triangle!",
+        "aired": "Sep 22, 1983",
         "filler": false,
         "recap": false
       }

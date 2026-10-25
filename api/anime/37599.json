@@ -389,50 +389,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Getaway: Part One",
+        "aired": "Oct 13, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Getaway: Part Two",
+        "aired": "Oct 20, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Of Creatures and Men",
+        "aired": "Oct 27, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Live with Honor. Die with No Pride.",
+        "aired": "Nov 3, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "From Gutheil with Love",
+        "aired": "Nov 10, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Rogue Infiltration",
+        "aired": "Nov 17, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Rogue Operation",
+        "aired": "Nov 24, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Rogue Ultimatum",
+        "aired": "Dec 1, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "State of the Empire",
+        "aired": "Dec 8, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Break Free",
+        "aired": "Dec 15, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "An Inconvenient Prophecy",
+        "aired": "Dec 22, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Hand that Rocks the Cradle",
+        "aired": "Dec 29, 2020",
         "filler": false,
         "recap": false
       }

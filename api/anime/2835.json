@@ -87,8 +87,344 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Bishounen Killer",
+        "aired": "Apr 8, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "A flower falls on a misty night",
+        "aired": "Apr 15, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "A rose blooms on his grave",
+        "aired": "Apr 22, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Patarillo beware!",
+        "aired": "Apr 29, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Maraich the angel of death",
+        "aired": "May 13, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Etrange's grief",
+        "aired": "May 20, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Kung fu",
+        "aired": "May 27, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "From Patarillo with love",
+        "aired": "Jun 3, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Diabolical cherry-blossom storm",
+        "aired": "Jun 17, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Snowfall in Marinera",
+        "aired": "Jun 24, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Maraich maraich",
+        "aired": "Jul 8, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Marineran Vampire",
+        "aired": "Jul 22, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "American capture",
+        "aired": "Jul 29, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Patarillo 7th and 8th",
+        "aired": "Aug 12, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Prince Maraich",
+        "aired": "Aug 26, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Legendary diamond",
+        "aired": "Sep 2, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Target: scarlet mermaid",
+        "aired": "Sep 9, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Twinkle twinkle, Tamanegi",
+        "aired": "Sep 16, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Journey to the moon",
+        "aired": "Sep 23, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Bancoran is dead!",
+        "aired": "Sep 20, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Super-robot Plasma X",
+        "aired": "Oct 9, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Plasma's love",
+        "aired": "Oct 16, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Licence to kill",
+        "aired": "Oct 23, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Fly away Jack",
+        "aired": "Oct 30, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Papa Plasma",
+        "aired": "Nov 6, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Patariro 8-sei to 10-sei",
+        "aired": "Nov 13, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "24 hour escape",
+        "aired": "Nov 20, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "The legend of the loyalty tree",
+        "aired": "Nov 27, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The assassin's return",
+        "aired": "Dec 4, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Beloved pulala",
+        "aired": "Dec 11, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Gelman castle",
+        "aired": "Dec 18, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Nyanko is nyanko",
+        "aired": "Dec 25, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "I'll be waiting",
+        "aired": "Jan 8, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Still Pulala",
+        "aired": "Jan 15, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "When the snow stopped",
+        "aired": "Jan 22, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Patarillo's strangeness",
+        "aired": "Jan 29, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Sunflower of Versailles",
+        "aired": "Feb 5, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "I love Maraich",
+        "aired": "Feb 12, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "That man Bancoran",
+        "aired": "Feb 19, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Pulala's brother",
+        "aired": "Feb 26, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Maraich's season",
+        "aired": "Mar 5, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Patarillo's great gathering",
+        "aired": "Mar 12, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "True love for Bancoran",
+        "aired": "Mar 19, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Phantom",
+        "aired": "Mar 26, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Ahh... new schoolterm amid the flowers",
+        "aired": "Apr 8, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Pulala's first love",
+        "aired": "Apr 15, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Farewell Afro",
+        "aired": "Apr 22, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Foggy London Airport 1",
+        "aired": "May 6, 1983",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Foggy London Airport 2",
+        "aired": "May 13, 1983",
         "filler": false,
         "recap": false
       }

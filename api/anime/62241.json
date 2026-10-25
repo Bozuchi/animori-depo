@@ -210,7 +210,15 @@
       }
     ],
     "episodes": 8,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 8,
+        "title": "Episode 8",
+        "aired": "Jul 23, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 168179,

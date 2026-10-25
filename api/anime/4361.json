@@ -288,36 +288,43 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "\"In the Meantime\" Theater - 01",
+        "aired": "Jan 28, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "\"In the Meantime\" Theater - 02",
+        "aired": "Feb 28, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "\"In the Meantime\" Theater - 03",
+        "aired": "Mar 29, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "\"In the Meantime\" Theater - 04",
+        "aired": "Apr 28, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "\"In the Meantime\" Theater - 05",
+        "aired": "May 28, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "\"In the Meantime\" Theater - 06",
+        "aired": "Jun 29, 2005",
         "filler": false,
         "recap": false
       }

@@ -245,7 +245,36 @@
       }
     ],
     "episodes": 4,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 5,
+        "title": "Tethe'alla Arc 1",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Tethe'alla Arc 2",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Tethe'alla Arc 3",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Tethe'alla Arc 4",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 5306,

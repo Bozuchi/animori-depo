@@ -180,15 +180,15 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Episode 1",
+        "aired": "Nov 12, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Everyday Life without Rachnera",
+        "aired": "Apr 13, 2017",
         "filler": false,
         "recap": false
       }

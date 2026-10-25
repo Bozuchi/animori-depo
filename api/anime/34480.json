@@ -139,15 +139,15 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Episode 1",
+        "aired": "May 1, 2017",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Episode 2",
+        "aired": "Jul 4, 2017",
         "filler": false,
         "recap": false
       }

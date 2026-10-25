@@ -113,15 +113,92 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Meeting the Traveler",
+        "aired": "Oct 6, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Promise of That Day",
+        "aired": "Oct 13, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The 25th Bam",
+        "aired": "Oct 20, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Funky!",
+        "aired": "Oct 27, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Mad Dog and the Lizard",
+        "aired": "Nov 3, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "All In",
+        "aired": "Nov 10, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Like a Flame in the Wind",
+        "aired": "Nov 17, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Beginning of Dawn",
+        "aired": "Nov 24, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Their Workshop",
+        "aired": "Dec 1, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The End of Dawn",
+        "aired": "Dec 8, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Cost of Battle",
+        "aired": "Dec 15, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Return of the King",
+        "aired": "Dec 22, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "The Dawn of the Departure",
+        "aired": "Dec 29, 2024",
         "filler": false,
         "recap": false
       }

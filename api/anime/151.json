@@ -184,7 +184,29 @@
       }
     ],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Volume Heaven",
+        "aired": "Jul 24, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Volume Earth",
+        "aired": "Aug 28, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Volume Humans",
+        "aired": "Oct 23, 2004",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 151,

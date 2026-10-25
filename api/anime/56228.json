@@ -53,7 +53,50 @@
       }
     ],
     "episodes": 13,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Villainess and Working Out",
+        "aired": "Oct 2, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "A Kiss with a Witch",
+        "aired": "Oct 9, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Villainess and Trespassing",
+        "aired": "Oct 16, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "When Monsters Attack, Unpreparedness Is the Greatest Enemy",
+        "aired": "Oct 23, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Villainess and The Villainess Test",
+        "aired": "Oct 30, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Villainess and Sleeping Side by Side",
+        "aired": "Nov 6, 2024",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 168139,

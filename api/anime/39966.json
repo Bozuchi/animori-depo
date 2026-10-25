@@ -183,22 +183,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "A Fated Reunion",
+        "aired": "Apr 1, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Let's Play Ball Together",
+        "aired": "Apr 8, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Take Me With You",
+        "aired": "Apr 15, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Pitch of Promise",
+        "aired": "Apr 22, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Losing Streak",
+        "aired": "Apr 29, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "With Hearts Full of Hope",
+        "aired": "May 6, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Night Sky After Rain",
+        "aired": "May 13, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "From Zero",
+        "aired": "May 20, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Change the Tide",
+        "aired": "May 27, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Show 'Em What We've Got",
+        "aired": "Jun 3, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "This is Nationals Level",
+        "aired": "Jun 10, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Pitch Without Regret",
+        "aired": "Jun 17, 2020",
         "filler": false,
         "recap": false
       }

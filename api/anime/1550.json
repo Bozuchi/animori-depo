@@ -91,8 +91,729 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The New One",
+        "aired": "Dec 7, 1969",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Hard Training",
+        "aired": "Dec 14, 1969",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Enemies Become Friends",
+        "aired": "Dec 21, 1969",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Bad Awakening",
+        "aired": "Dec 28, 1969",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The New Coach",
+        "aired": "Jan 4, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Turn to Good",
+        "aired": "Jan 11, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "A Good Deliberate Act",
+        "aired": "Jan 18, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Falling Leaf",
+        "aired": "Jan 25, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Persuation Tries",
+        "aired": "Feb 1, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "A Sneaking Conspiracy",
+        "aired": "Feb 8, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Out and Over",
+        "aired": "Feb 15, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Forgotten Gift",
+        "aired": "Feb 22, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Tactic Without Tactic",
+        "aired": "Mar 1, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Time Out",
+        "aired": "Mar 8, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "The Shady Sides of the Victory",
+        "aired": "Mar 15, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "No Decision",
+        "aired": "Mar 22, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Victory Is Not Everything",
+        "aired": "Mar 29, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "The Super Training",
+        "aired": "Apr 5, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Mistakes and Understandings",
+        "aired": "Apr 12, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "New Exercises",
+        "aired": "Apr 19, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Obstacles While Riding the Train",
+        "aired": "Apr 26, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Somersault Receiving",
+        "aired": "May 3, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Walk-Over",
+        "aired": "May 10, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Who Would Have Thought",
+        "aired": "May 17, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "12 Rivals",
+        "aired": "May 24, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "The Challenge",
+        "aired": "May 31, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Outliers",
+        "aired": "Jun 7, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Class Test",
+        "aired": "Jun 14, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Affection to the Game",
+        "aired": "Jun 21, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Team Spirit",
+        "aired": "Jun 28, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Affection to the Game",
+        "aired": "Jul 5, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Team Spirit",
+        "aired": "Jul 12, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "The Big Brother",
+        "aired": "Jul 19, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "A Long Awaited Smile",
+        "aired": "Jul 26, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "On to New York",
+        "aired": "Aug 2, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Black Eddy Wind",
+        "aired": "Aug 9, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "New Ideas",
+        "aired": "Aug 16, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Friends",
+        "aired": "Aug 23, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "The Final Game",
+        "aired": "Aug 30, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "A Strong Opponent",
+        "aired": "Sep 6, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Preparations for the Final Examination",
+        "aired": "Sep 13, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Separate Ways",
+        "aired": "Sep 20, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Challenge of the Queen",
+        "aired": "Sep 27, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Fear an Exciting Enemy",
+        "aired": "Oct 4, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "A New Attack",
+        "aired": "Oct 11, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Volleyball Single Game",
+        "aired": "Oct 18, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "The Defeat",
+        "aired": "Oct 25, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Special Training for Mila",
+        "aired": "Nov 1, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "The Double Attack",
+        "aired": "Nov 8, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "A Slap from Love",
+        "aired": "Nov 15, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "The Semi-Final",
+        "aired": "Nov 22, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "The Final",
+        "aired": "Nov 29, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Tsutomu's Death",
+        "aired": "Dec 6, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "The Blind Mark",
+        "aired": "Dec 13, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "The Double Attack",
+        "aired": "Dec 20, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "The Double",
+        "aired": "Dec 27, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "The Extortion",
+        "aired": "Jan 3, 1970",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "The Final Dissolution Attack",
+        "aired": "Jan 10, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "Lightning Attack",
+        "aired": "Jan 17, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "The Coach in the Wheelchair",
+        "aired": "Jan 24, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "High School Final",
+        "aired": "Jan 31, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 62,
+        "title": "The Friendship Game",
+        "aired": "Feb 7, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 63,
+        "title": "Crew Plots",
+        "aired": "Feb 14, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 64,
+        "title": "Moeru Rival",
+        "aired": "Feb 21, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 65,
+        "title": "Enemies",
+        "aired": "Feb 28, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 66,
+        "title": "The Real Kyoko",
+        "aired": "Mar 7, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 67,
+        "title": "The Weirdness Man",
+        "aired": "Mar 14, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 68,
+        "title": "Top Pupil",
+        "aired": "Mar 21, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 69,
+        "title": "Black Shades",
+        "aired": "Mar 28, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 70,
+        "title": "Hongo's Decision",
+        "aired": "Apr 4, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 71,
+        "title": "Who Is the Man with the Camera",
+        "aired": "Apr 11, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 72,
+        "title": "The Triangle Attack",
+        "aired": "Apr 18, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 73,
+        "title": "Attack of Spirit Hand",
+        "aired": "Apr 25, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 74,
+        "title": "The Mysterious Player",
+        "aired": "May 2, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 75,
+        "title": "The Human Wall",
+        "aired": "May 9, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 76,
+        "title": "A Devil Play",
+        "aired": "May 16, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 77,
+        "title": "The Robot Team",
+        "aired": "May 23, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 78,
+        "title": "The Computer Crew",
+        "aired": "May 30, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 79,
+        "title": "A Strange Challenge",
+        "aired": "Jun 6, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 80,
+        "title": "A Bitter Decision",
+        "aired": "Jun 13, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 81,
+        "title": "The Motorcycle Course",
+        "aired": "Jun 20, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 82,
+        "title": "In the Last Second",
+        "aired": "Jun 27, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 83,
+        "title": "The Whistling Man",
+        "aired": "Jul 4, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 84,
+        "title": "The Large Disappointment",
+        "aired": "Jul 11, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 85,
+        "title": "The Devils Smash",
+        "aired": "Jul 18, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 86,
+        "title": "The Devils Ball",
+        "aired": "Jul 25, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 87,
+        "title": "The Smash",
+        "aired": "Aug 1, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 88,
+        "title": "Volleyball Fever",
+        "aired": "Aug 8, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 89,
+        "title": "A Friendly Offer",
+        "aired": "Aug 15, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 90,
+        "title": "A Dogged Fight",
+        "aired": "Aug 22, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 91,
+        "title": "The Third Set",
+        "aired": "Aug 29, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 92,
+        "title": "The National Team",
+        "aired": "Sep 5, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 93,
+        "title": "A Reasonable Decision",
+        "aired": "Sep 12, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 94,
+        "title": "However Against All",
+        "aired": "Sep 19, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 95,
+        "title": "The Tornado Ball",
+        "aired": "Sep 26, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 96,
+        "title": "Kiyama",
+        "aired": "Oct 3, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 97,
+        "title": "The Situation Seems Offering No Prospects",
+        "aired": "Oct 10, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 98,
+        "title": "The Finals",
+        "aired": "Oct 17, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 99,
+        "title": "Final",
+        "aired": "Oct 24, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 100,
+        "title": "Scarce Victory",
+        "aired": "Oct 31, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 101,
+        "title": "Defeats",
+        "aired": "Nov 7, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 102,
+        "title": "A tip by Yushima",
+        "aired": "Nov 14, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 103,
+        "title": "Final Game vs. Russia",
+        "aired": "Nov 21, 1971",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 104,
+        "title": "Mila is the number 1",
+        "aired": "Nov 28, 1971",
         "filler": false,
         "recap": false
       }

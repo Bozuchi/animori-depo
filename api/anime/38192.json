@@ -243,29 +243,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "FATHERS & DAUGHTERS",
+        "aired": "Oct 7, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "GOOD DAY, GOOD BYE",
+        "aired": "Oct 14, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "BRAINS & HEARTS",
+        "aired": "Oct 21, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "LADIES & GENTLEMEN",
+        "aired": "Oct 28, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "NO WORK, NO LIFE",
+        "aired": "Nov 4, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "JUSTICE FOR VILLAINS",
+        "aired": "Nov 11, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "ON THE ROAD",
+        "aired": "Nov 18, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "MEMORIES & REGRETS",
+        "aired": "Nov 25, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "END OF VACATION",
+        "aired": "Dec 2, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "OH MY TONY",
+        "aired": "Dec 9, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "SOUND OF DREAM",
+        "aired": "Dec 16, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "TO BE CONTINUED",
+        "aired": "Dec 23, 2021",
         "filler": false,
         "recap": false
       }

@@ -100,8 +100,71 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Mei and Meowrsmallow",
+        "aired": "Dec 26, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Mei and Meowrsmallow 2",
+        "aired": "Jan 23, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Mei and Meowrsmallow 3",
+        "aired": "Jan 23, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Mei and Meowrsmallow 4",
+        "aired": "Jan 23, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Mei and Meowrsmallow 5",
+        "aired": "Feb 27, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Mei and Meowrsmallow 6",
+        "aired": "Feb 27, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Mei and Meowrsmallow 7",
+        "aired": "Mar 27, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Mei and Meowrsmallow 8",
+        "aired": "Mar 27, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Mei and Meowrsmallow 9",
+        "aired": "Apr 24, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Mei and Meowrsmallow 10",
+        "aired": "May 22, 2013",
         "filler": false,
         "recap": false
       }

@@ -135,15 +135,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Introduction Episode",
+        "aired": "Jan 8, 2007",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Fuyou Kaede Chapter Part 1",
+        "aired": "Jan 15, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Shigure Asa Chapter Part 1",
+        "aired": "Jan 22, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Nerine Chapter Part 1",
+        "aired": "Jan 29, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Lisianthus Chapter Part 1",
+        "aired": "Feb 5, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Primula Chapter Part 1",
+        "aired": "Feb 12, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Fuyou Kaede Chapter Part 2",
+        "aired": "Feb 19, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Shigure Asa Chapter Part 2",
+        "aired": "Feb 26, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Nerine Chapter Part 2",
+        "aired": "Mar 5, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Lisianthus Chapter Part 2",
+        "aired": "Mar 12, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Primula Chapter Part 2",
+        "aired": "Mar 19, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Extra Chapter",
+        "aired": "Mar 26, 2007",
         "filler": false,
         "recap": false
       }

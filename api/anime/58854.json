@@ -50,7 +50,92 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Kinokoinu Is Born",
+        "aired": "Oct 3, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Kinokoinu and Hanako",
+        "aired": "Oct 10, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Where Are You Going, Oh, Kinokoinu?",
+        "aired": "Oct 17, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Kinokoinu, It's Time to Party",
+        "aired": "Oct 24, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Kinokoinu and Hiragana",
+        "aired": "Oct 31, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Kinokoinu and the Visitor",
+        "aired": "Nov 7, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Kinokoinu's Sibling",
+        "aired": "Nov 14, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Kinokoinu Goes Shopping",
+        "aired": "Nov 21, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Kinokoinu and the Smail",
+        "aired": "Nov 28, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Kinokoinu Is a Popular One",
+        "aired": "Dec 5, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Kinokoinu Goes to the Beach",
+        "aired": "Dec 12, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Mystery of Kinokoinu",
+        "aired": "Dec 19, 2024",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 177581,

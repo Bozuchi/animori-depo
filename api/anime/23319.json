@@ -134,7 +134,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Far Beyond the Voyage, Part 1",
+        "aired": "Sep 27, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Far Beyond the Voyage, Part 2",
+        "aired": "Apr 4, 2015",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20449,

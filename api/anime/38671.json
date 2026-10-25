@@ -1868,169 +1868,337 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Shinra Kusakabe Enlists",
+        "aired": "Jul 6, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Heart of a Fire Soldier",
+        "aired": "Jul 13, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Rookie Fire Soldier Games",
+        "aired": "Jul 27, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Hero and the Princess",
+        "aired": "Aug 3, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Battle Begins",
+        "aired": "Aug 10, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Spark of Promise",
+        "aired": "Aug 17, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "The Investigation of the 1st Commences",
+        "aired": "Aug 24, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Infernal Insects",
+        "aired": "Aug 31, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "The Spreading Malice",
+        "aired": "Sep 7, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "The Promise",
+        "aired": "Sep 14, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Formation of Special Fire Force Company 8 / The Mightiest Hikeshi",
+        "aired": "Sep 21, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Eve of Hostilities in Asakusa",
+        "aired": "Oct 12, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "The Trap Is Set",
+        "aired": "Oct 19, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "For Who The Flame Burns",
+        "aired": "Oct 26, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "The Blacksmith's Dream",
+        "aired": "Nov 2, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "We Are Family",
+        "aired": "Nov 9, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "Black and White and Gray",
+        "aired": "Nov 16, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "The Secrets of Pyrokinesis",
+        "aired": "Nov 23, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "Into the Nether",
+        "aired": "Nov 30, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 20,
-        "title": "20. Bölüm",
-        "aired": null,
+        "title": "Wearing His Pride",
+        "aired": "Dec 7, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 21,
-        "title": "21. Bölüm",
-        "aired": null,
+        "title": "Those Connected",
+        "aired": "Dec 14, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 22,
-        "title": "22. Bölüm",
-        "aired": null,
+        "title": "A Brother's Determination",
+        "aired": "Dec 21, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 23,
-        "title": "23. Bölüm",
-        "aired": null,
+        "title": "Smile",
+        "aired": "Dec 28, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 24,
-        "title": "24. Bölüm",
-        "aired": null,
+        "title": "The Burning Past",
+        "aired": "Dec 28, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Shinra Kusakabe Enlists",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "The Heart of a Fire Soldier",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "The Rookie Fire Soldier Games",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "The Hero and the Princess",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The Battle Begins",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Spark of Promise",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "The Investigation of the 1st Commences",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Infernal Insects",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "The Spreading Malice",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "The Promise",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Formation of Special Fire Force Company 8 / The Mightiest Hikeshi",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Eve of Hostilities in Asakusa",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "The Trap Is Set",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "For Whom the Flames Burn",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "The Blacksmith's Dream",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "We Are Family",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Black and White and Gray",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "The Secrets of Pyrokinesis",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Into the Nether",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Wearing His Pride",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Those Connected",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "A Brother's Determination",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Smile",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "The Burning Past",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       }

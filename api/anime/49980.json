@@ -368,43 +368,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Scarecrow and the Fairy",
+        "aired": "Jan 6, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Bloody Highway",
+        "aired": "Jan 13, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Sugar Apple Is the Tree of Betrayal",
+        "aired": "Jan 20, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Fate of the Royal Medal",
+        "aired": "Jan 27, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Anne and the Cat's Sugar Confectionery",
+        "aired": "Feb 3, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Castle on the Sea",
+        "aired": "Feb 10, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "A False Farewell",
+        "aired": "Feb 17, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "If I Keep Gazing at You",
+        "aired": "Feb 24, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Radcliffe Workshop",
+        "aired": "Mar 3, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Young Lady of Paige Workshop",
+        "aired": "Mar 10, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "That Which Should Be Made",
+        "aired": "Mar 17, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "I Didn't Want to Let Go",
+        "aired": "Mar 24, 2023",
         "filler": false,
         "recap": false
       }

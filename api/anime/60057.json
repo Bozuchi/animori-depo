@@ -40,7 +40,29 @@
     ],
     "relations": [],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Episode 1",
+        "aired": "Mar 21, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Episode 2",
+        "aired": "Mar 21, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Episode 3",
+        "aired": "Mar 21, 2025",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 166442,

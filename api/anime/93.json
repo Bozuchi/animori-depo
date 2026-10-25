@@ -1198,141 +1198,351 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "False Peace",
+        "aired": "Oct 5, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Its Name is Gundam",
+        "aired": "Apr 24, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Collapsing Land",
+        "aired": "May 1, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Silent Run",
+        "aired": "May 8, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Phase Shift Down",
+        "aired": "May 15, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Vanishing Gundam",
+        "aired": "Nov 9, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "The Scar of Space",
+        "aired": "Nov 16, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Songstress of the Enemy Forces",
+        "aired": "Nov 23, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "The Fading Light",
+        "aired": "Nov 30, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "PHASE-10 Crossroads",
+        "aired": "Dec 7, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "PHASE-11 The Awakening Sword",
+        "aired": "Dec 14, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "PHASE-12 Flay’s Decision",
+        "aired": "Dec 21, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "PHASE-13 Stars Falling in Space",
+        "aired": "Dec 28, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Within Endless Time",
+        "aired": "Jan 4, 2003",
         "filler": false,
         "recap": true
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "The Respective Solitudes",
+        "aired": "Jan 11, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "Burning Clouds of Sand",
+        "aired": "Jan 18, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "Cagalli Returns",
+        "aired": "Jan 25, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "Payback",
+        "aired": "Feb 1, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "Fangs of the Enemy",
+        "aired": "Feb 8, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 20,
-        "title": "20. Bölüm",
-        "aired": null,
+        "title": "On a Calm Day",
+        "aired": "Feb 15, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Beyond the Clouds of Sand",
+        "aired": "Feb 22, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "The Sea Dyed Red",
+        "aired": "Mar 1, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Fateful Encounter",
+        "aired": "Mar 8, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "War for Two",
+        "aired": "Mar 15, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "The Land of Peace",
+        "aired": "Mar 22, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Moment",
+        "aired": "Mar 29, 2003",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 27,
+        "title": "Endless Rondo",
+        "aired": "Apr 12, 2003",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 28,
+        "title": "Kira",
+        "aired": "Apr 19, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The Turning Point",
+        "aired": "Apr 26, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Flashing Blades",
+        "aired": "May 3, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Grieving Skies",
+        "aired": "May 10, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "In the Promised Land",
+        "aired": "May 17, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Gathering Darkness",
+        "aired": "May 24, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Seen and Unseen",
+        "aired": "May 31, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Descending Sword",
+        "aired": "Jun 7, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "In the Name of Justice",
+        "aired": "Jun 14, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Divine Thunder",
+        "aired": "Jun 21, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Decisive Fire",
+        "aired": "Jun 28, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Athrun",
+        "aired": "Jul 5, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Into the Dawn Skies",
+        "aired": "Jul 12, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Trembling World",
+        "aired": "Jul 19, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Lacus Strikes",
+        "aired": "Jul 26, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "What Stands in the Way",
+        "aired": "Aug 2, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Spiral of Encounters",
+        "aired": "Aug 9, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "The Opening Door",
+        "aired": "Aug 16, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "A Place for the Soul",
+        "aired": "Aug 30, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "The Nightmare Reborn",
+        "aired": "Sep 6, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Day of Wrath",
+        "aired": "Sep 13, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "The Final Light",
+        "aired": "Sep 20, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "To a Future that Never Ends",
+        "aired": "Sep 27, 2003",
         "filler": false,
         "recap": false
       }

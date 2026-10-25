@@ -105,8 +105,29 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Destroyed? Negi Party",
+        "aired": "Sep 17, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "We'll Look For My Friends!",
+        "aired": "Nov 17, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Birth of a New Teacher and Student Duo",
+        "aired": "May 17, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Road or Father, or The Way of the Teacher?",
+        "aired": "Aug 20, 2010",
         "filler": false,
         "recap": false
       }

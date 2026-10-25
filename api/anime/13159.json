@@ -771,120 +771,421 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The School's Ghost vs. Ms. Black Witch",
+        "aired": "Apr 4, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "It's Cycling, Ms. Black Witch",
+        "aired": "Apr 11, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch is Super Popular",
+        "aired": "Apr 18, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "It's First Love, Ms. Black Witch",
+        "aired": "Apr 25, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch and the Great Kitty Rebellion",
+        "aired": "May 9, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch Goes to Harajuku",
+        "aired": "May 16, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch and the Horror Field Trip",
+        "aired": "May 23, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch Fails at Love and Cooking",
+        "aired": "May 30, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch's Exorcism Challenge",
+        "aired": "Jun 13, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch Goes On TV",
+        "aired": "Jun 20, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Let's Chill, Ms. Black Witch",
+        "aired": "Jun 27, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch's Cinderella (Part 1)",
+        "aired": "Jul 4, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch's Cinderella (Part 2)",
+        "aired": "Jul 11, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch is a Big Sister? (Part 1)",
+        "aired": "Sep 12, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch is a Big Sister? (Part 2)",
+        "aired": "Sep 19, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch's Class Visit",
+        "aired": "Sep 26, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "Ms. Black Witch's Sports Day (Part 1)",
+        "aired": "Oct 3, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Ms. Black Witch's Sports Day (Part 2)",
+        "aired": "Oct 10, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Ms. Black Witch's Halloween (Part 1)",
+        "aired": "Oct 17, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Ms. Black Witch's Halloween (Part 2)",
+        "aired": "Oct 24, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Ms. Black Witch's Halloween (Part 3)",
+        "aired": "Oct 31, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Ms. Black Witch as a Dog",
+        "aired": "Nov 14, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Ms. Black Witch is Scared of the Swimming Pool Ghost (Part 1)",
+        "aired": "Nov 21, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Ms. Black Witch is Scared of the Swimming Pool Ghost (Part 2)",
+        "aired": "Nov 28, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Demon's Library",
+        "aired": "Dec 5, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Ms. Black Witch Wasn't Built in a Day",
+        "aired": "Jan 9, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Suspicious Confectious Cake Contest (Part 1)",
+        "aired": "Jan 16, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Suspicious Confectious Cake Contest (Part 2)",
+        "aired": "Jan 23, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "A Ritual Sacrifice After School!?",
+        "aired": "Jan 30, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Valentine Panic",
+        "aired": "Feb 13, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "The Graduation Album Smells Like the Occult (Part 1)",
+        "aired": "Feb 20, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "The Graduation Album Smells Like the Occult (Part 2)",
+        "aired": "Feb 27, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Ms. Black Witch and Cherry Trees",
+        "aired": "Apr 3, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Ms. Black Witch's Stationery Shop",
+        "aired": "Apr 10, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Ms. Black Witch and Joke Telling",
+        "aired": "Apr 17, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Ms. Black Witch's Quarrel Tempest",
+        "aired": "Apr 24, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Tiny Black Witch",
+        "aired": "May 8, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Ms. Black Witch's Grandma",
+        "aired": "May 15, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Ms. Black Witch's Nightmare",
+        "aired": "May 22, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Ms. Black Witch's Favorite is Fortune Telling?",
+        "aired": "May 29, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Ms. Black Witch Goes to Spirit World (Part 1)",
+        "aired": "Jun 12, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Ms. Black Witch Goes to Spirit World (Part 2)",
+        "aired": "Jun 19, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Ms. Black Witch and Red string of fate 1",
+        "aired": "Jun 26, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Ms. Black Witch and Red string of fate 2",
+        "aired": "Jul 3, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Ms. Black Witch and Red string of fate 3",
+        "aired": "Jul 10, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Ms. Black Witch is Good at Swimming?!",
+        "aired": "Sep 11, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "It's Animals, Ms. Black Witch",
+        "aired": "Sep 18, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Who's Smells, Ms. Black Witch",
+        "aired": "Sep 25, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Ms. Black Witch's School Play",
+        "aired": "Oct 9, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "Ms. Black Witch's Autumn Festival (Part 1)",
+        "aired": "Oct 16, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Ms. Black Witch's Autumn Festival (Part 2)",
+        "aired": "Oct 23, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "Ms. Black Witch's Dar's Magic",
+        "aired": "Oct 30, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Ms. Black Witch's Christmas 1",
+        "aired": "Nov 13, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "Ms. Black Witch's Christmas 2",
+        "aired": "Nov 20, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "Ms. Black Witch's Christmas 3",
+        "aired": "Nov 27, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "Ms. Black Witch's Christmas 4",
+        "aired": "Dec 4, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "Ms. Black Witch and Madame Tian Tian",
+        "aired": "Jan 22, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "Ms. Black Witch and the Bread Thief?!",
+        "aired": "Jan 29, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "Letter to Ms. Black Witch (Part 1)",
+        "aired": "Feb 12, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "Letter to Ms. Black Witch (Part 2)",
+        "aired": "Feb 19, 2014",
         "filler": false,
         "recap": false
       }

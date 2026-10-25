@@ -560,36 +560,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Their Promise",
+        "aired": "Jan 3, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Riverside Milky Way",
+        "aired": "Jan 10, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Memories Are Treasures",
+        "aired": "Jan 17, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Exciting! Summer Camp!",
+        "aired": "Jan 24, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Everyone's Summer Break",
+        "aired": "Jan 31, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Hoshizaki Festival!",
+        "aired": "Feb 7, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Starry Sky Is a Time Machine",
+        "aired": "Feb 21, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Winter Diamond",
+        "aired": "Feb 28, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "True Feelings",
+        "aired": "Mar 6, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Rain With Occasional Fortune-Telling",
+        "aired": "Mar 13, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Shining Star Challenge!",
+        "aired": "Mar 20, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Connected Cosmos",
+        "aired": "Mar 27, 2020",
         "filler": false,
         "recap": false
       }

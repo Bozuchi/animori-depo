@@ -83,7 +83,29 @@
     "studios": [],
     "relations": [],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Awakening",
+        "aired": "Apr 24, 2002",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Memory",
+        "aired": "Apr 24, 2002",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Destruction",
+        "aired": "Apr 24, 2002",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1611,

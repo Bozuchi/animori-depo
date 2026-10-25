@@ -258,50 +258,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Elf of the Forest",
+        "aired": "Jul 7, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Dark Elf and the Beautiful Flower",
+        "aired": "Jul 14, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Sweaty Ogre and the Turquoise Scales",
+        "aired": "Jul 21, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Baron's Dog and the Floating Pig",
+        "aired": "Jul 28, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Empress of the Park and the Demonic Dinner",
+        "aired": "Aug 4, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Hindsight Bones and the Snowy Dragon",
+        "aired": "Aug 11, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Potatoes of Shame and the Titan's Fist",
+        "aired": "Aug 18, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Otherworldly Beings and Super Spicy Poses",
+        "aired": "Aug 25, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Kiddie Cure-all",
+        "aired": "Sep 1, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Affectionate Dog and the Dark Roast Plant",
+        "aired": "Sep 8, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "A Stagnating Dream",
+        "aired": "Sep 15, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Beefy Soldier and Remnants of a Dream",
+        "aired": "Sep 22, 2024",
         "filler": false,
         "recap": false
       }

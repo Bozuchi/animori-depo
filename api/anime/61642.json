@@ -204,7 +204,15 @@
     ],
     "relations": [],
     "episodes": 14,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 14,
+        "title": "Episode 14",
+        "aired": "Jul 21, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 199418,

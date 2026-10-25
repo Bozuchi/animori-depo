@@ -237,29 +237,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Disillusioned Adventurers",
+        "aired": "Jan 3, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Ultimate Party Is Formed? Survivors!",
+        "aired": "Jan 17, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Curran's Secret",
+        "aired": "Jan 24, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Labyrinth of Bonds",
+        "aired": "Jan 31, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "A Meeting with the Iron Tigers.",
+        "aired": "Feb 7, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Mathematics Bare Knuckle",
+        "aired": "Feb 14, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Gambling Lesson",
+        "aired": "Feb 21, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Beautiful Paladin",
+        "aired": "Feb 28, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Legend of the Labyrinth City - Stepping Man?!",
+        "aired": "Mar 7, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Labyrinth Dragnet",
+        "aired": "Mar 14, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Survivors VS Stepping Man",
+        "aired": "Mar 21, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Adventurers Can't Save the World Yet",
+        "aired": "Mar 28, 2023",
         "filler": false,
         "recap": false
       }

@@ -194,7 +194,36 @@
       }
     ],
     "episodes": 4,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Departure",
+        "aired": "Jun 5, 1998",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Eternal Emblem",
+        "aired": "Oct 7, 1998",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Friendship",
+        "aired": "Aug 25, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Siren",
+        "aired": "Dec 18, 1999",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1553,

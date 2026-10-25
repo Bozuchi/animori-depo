@@ -62,7 +62,92 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Welcome to Liella!",
+        "aired": "Jul 17, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Second-years and First-years",
+        "aired": "Jul 24, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Next in Line to Win",
+        "aired": "Jul 31, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Two in the Science Room",
+        "aired": "Aug 7, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Money Makes the World Go 'Round",
+        "aired": "Aug 14, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Dekkaidow!",
+        "aired": "Aug 21, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "UR Ren Hazuki",
+        "aired": "Aug 28, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Chance Way",
+        "aired": "Sep 11, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "For Victory",
+        "aired": "Sep 18, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "A Song That Rings Through Shibuya",
+        "aired": "Sep 25, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Dreams",
+        "aired": "Oct 2, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Story That'll Make Me Come True",
+        "aired": "Oct 9, 2022",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 140642,

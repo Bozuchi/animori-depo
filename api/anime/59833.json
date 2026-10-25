@@ -89,8 +89,15 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Red Stream Explosion!",
+        "aired": "Feb 25, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Beware of Impostors!",
+        "aired": "Apr 25, 2025",
         "filler": false,
         "recap": false
       }

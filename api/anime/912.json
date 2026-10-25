@@ -197,15 +197,386 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Fūsuke the Rat!",
+        "aired": "Jan 14, 1995",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Enter the Rooster Captain",
+        "aired": "Jan 21, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Touji of the Land!",
+        "aired": "Jan 28, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Attackers",
+        "aired": "Feb 4, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Victor's Smoke!",
+        "aired": "Feb 11, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Terrifying Castle Fortress",
+        "aired": "Feb 18, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Kisumi of the Ice!",
+        "aired": "Feb 25, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Sealed Heart",
+        "aired": "Mar 4, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Mother's Lullaby",
+        "aired": "Mar 11, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Sad Parting",
+        "aired": "Mar 18, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Trial",
+        "aired": "Mar 25, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Way to Become Strong",
+        "aired": "Apr 1, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "A Distant Promise!",
+        "aired": "Apr 8, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Overcoming the Pain",
+        "aired": "Apr 15, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "True Courage",
+        "aired": "Apr 22, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "The Legendary Forest",
+        "aired": "Apr 29, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "The Ninku Wolves Trap",
+        "aired": "May 6, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Desperation!!",
+        "aired": "May 13, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "The End of a Fierce Battle",
+        "aired": "May 20, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "A Dolphin and a Boy",
+        "aired": "May 27, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Hellish Cave",
+        "aired": "Jun 3, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "The Terrifying Thunder Fist",
+        "aired": "Jun 10, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Sekirai of the Flame!",
+        "aired": "Jun 17, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Rebellion for Freedom",
+        "aired": "Jun 24, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Father and Son!",
+        "aired": "Jul 1, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Farewell Hiroyuki",
+        "aired": "Jul 8, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "The feng shui Valley!",
+        "aired": "Jul 15, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "The Demonic Trio!",
+        "aired": "Jul 22, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The Sky Dragon Appears!",
+        "aired": "Jul 29, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Shapeless Sniper",
+        "aired": "Aug 5, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Break Through the Barrier",
+        "aired": "Aug 12, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "The Awakened Sekirai!!",
+        "aired": "Aug 19, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Prologue to Crisis",
+        "aired": "Aug 26, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "The Magic that Summons Death",
+        "aired": "Sep 2, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Heroe of the Sky!",
+        "aired": "Sep 9, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "The Mysterious Boy",
+        "aired": "Sep 16, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "A Departing Promise",
+        "aired": "Sep 23, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "The Cape of feng shui!",
+        "aired": "Oct 7, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "The Crushed Ice!? The Sky Dragon Reappears",
+        "aired": "Oct 14, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Clash of Techniques! Fog vs Wind",
+        "aired": "Oct 28, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Rihoko's Tears, Father's Hometown",
+        "aired": "Nov 4, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "The Fist of Wrath! The Man who Slashes Ninku",
+        "aired": "Nov 11, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Horror Building! The Mysterious Haunted House",
+        "aired": "Nov 18, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "A Clash!? Friendship with a Shuriken User",
+        "aired": "Nov 25, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Miss Ninku! Operation Breakthrough!",
+        "aired": "Dec 2, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Assassin of the Night! The Sealed Technique",
+        "aired": "Dec 9, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "To the Capital! The Rebels of Justice",
+        "aired": "Dec 16, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Revived Memories! The Man who Kidnapped Mother",
+        "aired": "Dec 23, 1995",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "The Unleashed Power! Time of the Decisive Battle",
+        "aired": "Jan 13, 1996",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "Transcend the Powers, Fuusuke! Maximum Air Power!!",
+        "aired": "Jan 20, 1996",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "The Employed Bodyguard! Duel in the Evening",
+        "aired": "Jan 27, 1996",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "Defeating Fuusuke's Robbery! The Mystery of the Masked Man",
+        "aired": "Feb 3, 1996",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Stage of Friendship! Hiroyuki's Secret",
+        "aired": "Feb 10, 1996",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "The Missing Wad of Bills!! Who is the Culprit?!",
+        "aired": "Feb 17, 1996",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "Fuusuke becomes a Movie Star?!",
+        "aired": "Feb 24, 1996",
         "filler": false,
         "recap": false
       }

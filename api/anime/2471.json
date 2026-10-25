@@ -485,92 +485,1709 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Dream Town, Nobita Land",
+        "aired": "Apr 2, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Transformations Biscuits",
+        "aired": "Apr 3, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Memorization Bread for Testing",
+        "aired": "Apr 4, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "N-S Badges",
+        "aired": "Apr 5, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Wrestling Killer",
+        "aired": "Apr 6, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Nobita's Bride",
+        "aired": "Apr 7, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Doraemon's Prediction",
+        "aired": "Apr 9, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Dinosaur Hunting",
+        "aired": "Apr 10, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "The Devil Passport",
+        "aired": "Apr 11, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Lucky Gun",
+        "aired": "Apr 12, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "The Cursing Camera",
+        "aired": "Apr 13, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "The Wolf Family",
+        "aired": "Apr 14, 1979",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "Let's Build a Subway",
+        "aired": "Apr 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Masked Self, Hero of Justice",
+        "aired": "Apr 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "I Got 100%, For Once in My Life...",
+        "aired": "Apr 18, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Swapping Moms",
+        "aired": "Apr 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "The Time Cloth",
+        "aired": "Apr 20, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Treasure of Chinkara Peak",
+        "aired": "Apr 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Air Combat",
+        "aired": "Apr 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The No Room Door",
+        "aired": "Apr 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Run! Bamboo Horse",
+        "aired": "Apr 25, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Ah, Love, Love, Love!",
+        "aired": "Apr 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Wild Animal-Taming Gloves",
+        "aired": "Apr 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Ancestors, Come On",
+        "aired": "Apr 28, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Vehicle Accessories",
+        "aired": "Apr 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Top Secret Spy Operation",
+        "aired": "May 1, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "I'll Become a Singer By Eating Candy",
+        "aired": "May 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Oh, Lovely Mii-chan!",
+        "aired": "May 3, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The Toy Soldiers",
+        "aired": "May 4, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Fish Flag Float",
+        "aired": "May 5, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Antique Competition",
+        "aired": "May 7, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "The Bow-Bow Grasshopper",
+        "aired": "May 8, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Paper Crafts Sure Are Fun",
+        "aired": "May 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "A Girl Like White Lilies",
+        "aired": "May 10, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Opposite Arrow",
+        "aired": "May 11, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Time Camera",
+        "aired": "May 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Nobita's Proposal Strategy",
+        "aired": "May 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Reservation Machine",
+        "aired": "May 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Raccoon Maker",
+        "aired": "May 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "○○ Does ×× and △△",
+        "aired": "May 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "The Girl With the Red Shoes",
+        "aired": "May 18, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Put on Some Flattery Lipstick",
+        "aired": "May 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Memories of Grandma (Part 1)",
+        "aired": "May 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Memories of Grandma (part 2)",
+        "aired": "May 22, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "I'll Be My Own Teacher",
+        "aired": "May 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "The Strange Encounter Machine",
+        "aired": "May 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Nobita in the Mirror",
+        "aired": "May 25, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "The Dimensional Copy",
+        "aired": "May 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Let's Go See the Ocean in a Submarine",
+        "aired": "May 28, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "The Friendship Capsule",
+        "aired": "May 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Submission Ring",
+        "aired": "May 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "The Apartment Tree",
+        "aired": "May 31, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Real Shooting",
+        "aired": "Jun 1, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "Find the Culprit with the Time Machine",
+        "aired": "Jun 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "The King of Sharpshooting Contest",
+        "aired": "Jun 4, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "Fining Piggy Bank",
+        "aired": "Jun 5, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "The Wack in the Future",
+        "aired": "Jun 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "Nobita's Castaway Story",
+        "aired": "Jun 7, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "Air Block Maker",
+        "aired": "Jun 8, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "The Continuation Spray",
+        "aired": "Jun 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "Lost Item Retrieval Machine",
+        "aired": "Jun 11, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 62,
+        "title": "First Antenna",
+        "aired": "Jun 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 63,
+        "title": "The Voice Thickener",
+        "aired": "Jun 13, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 64,
+        "title": "The Wishing Star",
+        "aired": "Jun 14, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 65,
+        "title": "The Big R/C Naval Battle",
+        "aired": "Jun 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 66,
+        "title": "XYZ-Ray Camera",
+        "aired": "Jun 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 67,
+        "title": "Let's Be Lightning",
+        "aired": "Jun 18, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 68,
+        "title": "A Visitor from the Country of the Future",
+        "aired": "Jun 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 69,
+        "title": "The Weather Box",
+        "aired": "Jun 20, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 70,
+        "title": "Home Satellite",
+        "aired": "Jun 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 71,
+        "title": "The Life Do-Over Machine",
+        "aired": "Jun 22, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 72,
+        "title": "The Super King",
+        "aired": "Jun 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 73,
+        "title": "Let's Set Up the Customer's Face",
+        "aired": "Jun 25, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 74,
+        "title": "That Lie is True",
+        "aired": "Jun 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 75,
+        "title": "I Love You, Roboko",
+        "aired": "Jun 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 76,
+        "title": "Let's Play in the Clouds",
+        "aired": "Jun 28, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 77,
+        "title": "The Truth Stickers",
+        "aired": "Jun 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 78,
+        "title": "The Fake Alien",
+        "aired": "Jun 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 79,
+        "title": "The Illustrated Encyclopedia of Real Things",
+        "aired": "Jul 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 80,
+        "title": "Peck Rope",
+        "aired": "Jul 3, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 81,
+        "title": "The Day When I Was Born",
+        "aired": "Jul 4, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 82,
+        "title": "Torment Machine",
+        "aired": "Jul 5, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 83,
+        "title": "The Pool in the Clouds",
+        "aired": "Jul 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 84,
+        "title": "Mancutting Machine",
+        "aired": "Jul 7, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 85,
+        "title": "Dried Fish",
+        "aired": "Jul 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 86,
+        "title": "Taking an Arrow to School",
+        "aired": "Jul 10, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 87,
+        "title": "The Snail House Sure is Carefree",
+        "aired": "Jul 11, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 88,
+        "title": "Advertising in Mirrors",
+        "aired": "Jul 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 89,
+        "title": "Baby Manufacturing Machine",
+        "aired": "Jul 13, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 90,
+        "title": "We're Gonna Steal Mom's Diamond",
+        "aired": "Jul 14, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 91,
+        "title": "Moving to a Haunted Castle (part 1)",
+        "aired": "Jul 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 92,
+        "title": "Moving to a Haunted Castle (part 2)",
+        "aired": "Jul 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 93,
+        "title": "Swimming Powder",
+        "aired": "Jul 18, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 94,
+        "title": "The Love-Love Parasol",
+        "aired": "Jul 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 95,
+        "title": "Where the Traveling Souvernir Picture Doesn't Go",
+        "aired": "Jul 20, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 96,
+        "title": "Shopping In The Future",
+        "aired": "Jul 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 97,
+        "title": "Werewolf Cream",
+        "aired": "Jul 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 98,
+        "title": "A Large Man Went Out",
+        "aired": "Jul 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 99,
+        "title": "It's the King in the World of the Night!",
+        "aired": "Jul 25, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 100,
+        "title": "The Almighty Pass",
+        "aired": "Jul 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 101,
+        "title": "The Dictator Switch",
+        "aired": "Jul 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 102,
+        "title": "Borrowing in the Shade",
+        "aired": "Jul 28, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 103,
+        "title": "The Robot-Control-Training Machine",
+        "aired": "Jul 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 104,
+        "title": "The Paddy Field Mat",
+        "aired": "Jul 31, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 105,
+        "title": "Speed Clock",
+        "aired": "Aug 1, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 106,
+        "title": "My Ancestor, The Braggart",
+        "aired": "Aug 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 107,
+        "title": "Honest Tāro",
+        "aired": "Aug 3, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 108,
+        "title": "Emotion Controller",
+        "aired": "Aug 4, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 109,
+        "title": "Hello, Alien (part 1)",
+        "aired": "Aug 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 110,
+        "title": "Hello, Alien (part 2)",
+        "aired": "Aug 7, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 111,
+        "title": "Vero phase prediction bonanza!",
+        "aired": "Aug 8, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 112,
+        "title": "The Revertion Light",
+        "aired": "Aug 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 113,
+        "title": "Jekyll and Hyde",
+        "aired": "Aug 10, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 114,
+        "title": "One-Shot Answer!",
+        "aired": "Aug 11, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 115,
+        "title": "A Cat Made a Company, Meow",
+        "aired": "Aug 13, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 116,
+        "title": "Girlfriend Catalog",
+        "aired": "Aug 14, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 117,
+        "title": "Pocket Telescope",
+        "aired": "Aug 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 118,
+        "title": "My Home is Getting Farther and Farther Away",
+        "aired": "Aug 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 119,
+        "title": "Operation: Y Candle",
+        "aired": "Aug 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 120,
+        "title": "Ran away to Uninhabited Island",
+        "aired": "Aug 18, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 121,
+        "title": "I Can't Study in the Sahara Desert",
+        "aired": "Aug 20, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 122,
+        "title": "Nikmenine",
+        "aired": "Aug 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 123,
+        "title": "The Lying Mirror",
+        "aired": "Aug 22, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 124,
+        "title": "Peck Rope",
+        "aired": "Aug 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 125,
+        "title": "Alien's House",
+        "aired": "Aug 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 126,
+        "title": "Head Down to the Path of Evil",
+        "aired": "Aug 25, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 127,
+        "title": "The medicine of boy students and girl students",
+        "aired": "Aug 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 128,
+        "title": "The Absconding Leaf",
+        "aired": "Aug 28, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 129,
+        "title": "Memory Hammer",
+        "aired": "Aug 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 130,
+        "title": "Let's Live to Laugh",
+        "aired": "Aug 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 131,
+        "title": "Moonlight and Bug Voices",
+        "aired": "Aug 31, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 132,
+        "title": "I Found a Tsuchinoko!",
+        "aired": "Sep 1, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 133,
+        "title": "Space Tarzan (part 1)",
+        "aired": "Sep 3, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 134,
+        "title": "Space Tarzan (part 2)",
+        "aired": "Sep 4, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 135,
+        "title": "Toy Car Training Center",
+        "aired": "Sep 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 136,
+        "title": "The Soul Machine",
+        "aired": "Sep 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 137,
+        "title": "Even in the Stomach, in the Acid",
+        "aired": "Sep 7, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 138,
+        "title": "The Dream Channel",
+        "aired": "Sep 8, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 139,
+        "title": "Development and Degradation Radiation",
+        "aired": "Sep 10, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 140,
+        "title": "Super armor",
+        "aired": "Sep 11, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 141,
+        "title": "Hot Spring Trip",
+        "aired": "Sep 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 142,
+        "title": "If Gian's a superman",
+        "aired": "Sep 13, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 143,
+        "title": "Human Remote Control",
+        "aired": "Sep 14, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 144,
+        "title": "The Over-exaggerating Overcoat",
+        "aired": "Sep 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 145,
+        "title": "The Make-Believe Treasure Hunter Set",
+        "aired": "Sep 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 146,
+        "title": "The Big Fossil Discovery",
+        "aired": "Sep 18, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 147,
+        "title": "The Jack in the Box Stick",
+        "aired": "Sep 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 148,
+        "title": "Slowly reflective eyebrows",
+        "aired": "Sep 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 149,
+        "title": "Human Eating House",
+        "aired": "Sep 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 150,
+        "title": "The Mouse and The Bomb",
+        "aired": "Sep 22, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 151,
+        "title": "The Just-As-You-Said Pills",
+        "aired": "Sep 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 152,
+        "title": "The Esper Hat",
+        "aired": "Sep 25, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 153,
+        "title": "Special Vision Report",
+        "aired": "Sep 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 154,
+        "title": "Human Remote Control",
+        "aired": "Sep 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 155,
+        "title": "The Famous Knife Denkomaru",
+        "aired": "Sep 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 156,
+        "title": "Magnify Bad Habits Gas",
+        "aired": "Sep 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 157,
+        "title": "The Guidance Angel",
+        "aired": "Oct 1, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 158,
+        "title": "Disgust Maker",
+        "aired": "Oct 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 159,
+        "title": "Fuko, The Typhoon",
+        "aired": "Oct 3, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 160,
+        "title": "Reverse Invisibility Eye Drop",
+        "aired": "Oct 4, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 161,
+        "title": "The Rank Badges",
+        "aired": "Oct 5, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 162,
+        "title": "Dad's a Mama's Boy, Too",
+        "aired": "Oct 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 163,
+        "title": "Unexisting Shower",
+        "aired": "Oct 8, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 164,
+        "title": "The Stone Cap",
+        "aired": "Oct 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 165,
+        "title": "Predicting Bug",
+        "aired": "Oct 10, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 166,
+        "title": "All-in-One Rein",
+        "aired": "Oct 11, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 167,
+        "title": "Portable National Diet",
+        "aired": "Oct 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 168,
+        "title": "Slow-Slow, Quick-Quick",
+        "aired": "Oct 13, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 169,
+        "title": "Detecting Badges",
+        "aired": "Oct 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 170,
+        "title": "I'm Gonna Become a Fine Dad!",
+        "aired": "Oct 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 171,
+        "title": "Forgetting Bird",
+        "aired": "Oct 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 172,
+        "title": "Vending Time Machine",
+        "aired": "Oct 18, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 173,
+        "title": "Secret Camera",
+        "aired": "Oct 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 174,
+        "title": "The Magic Hand",
+        "aired": "Oct 20, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 175,
+        "title": "Delay Candy",
+        "aired": "Oct 22, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 176,
+        "title": "Grandpa, In the Midst of a Dream",
+        "aired": "Oct 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 177,
+        "title": "Robot Paper",
+        "aired": "Oct 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 178,
+        "title": "Black Belt Nobita",
+        "aired": "Oct 25, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 179,
+        "title": "The Ultra Mixer",
+        "aired": "Oct 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 180,
+        "title": "How to make a Deserted Island",
+        "aired": "Oct 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 181,
+        "title": "Typhoon Maker",
+        "aired": "Oct 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 182,
+        "title": "New Plant Species",
+        "aired": "Oct 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 183,
+        "title": "A World Where You Don't Need Money",
+        "aired": "Oct 31, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 184,
+        "title": "Abekonbe",
+        "aired": "Nov 1, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 185,
+        "title": "Dairy Gum",
+        "aired": "Nov 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 186,
+        "title": "The Bad Luck Diamond",
+        "aired": "Nov 2, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 187,
+        "title": "Big Money!",
+        "aired": "Nov 5, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 188,
+        "title": "Sharing Gum",
+        "aired": "Nov 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 189,
+        "title": "The Secret Treasure of Nobizaemon",
+        "aired": "Nov 7, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 190,
+        "title": "The Schedule Clock",
+        "aired": "Nov 8, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 191,
+        "title": "Ayaushi! Lion Mask",
+        "aired": "Nov 9, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 192,
+        "title": "Pero! Come Back to Life",
+        "aired": "Nov 10, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 193,
+        "title": "Gian's Spirit Friend",
+        "aired": "Nov 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 194,
+        "title": "The Castaway Story from Long Ago",
+        "aired": "Nov 13, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 195,
+        "title": "The Anywhere Cannon",
+        "aired": "Nov 14, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 196,
+        "title": "Flying Fish",
+        "aired": "Nov 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 197,
+        "title": "Nobita's Nobita",
+        "aired": "Nov 16, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 198,
+        "title": "Hii Tree",
+        "aired": "Nov 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 199,
+        "title": "Sherlock Holmes Set",
+        "aired": "Nov 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 200,
+        "title": "Small Person Robot",
+        "aired": "Nov 20, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 201,
+        "title": "The One Inch Boy",
+        "aired": "Nov 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 202,
+        "title": "The Dress-Up Camera",
+        "aired": "Nov 22, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 203,
+        "title": "A Sure-Fire Win with the Palm-Reading Set?",
+        "aired": "Nov 23, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 204,
+        "title": "The All-Season Badge",
+        "aired": "Nov 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 205,
+        "title": "The Guardian Mantle",
+        "aired": "Nov 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 206,
+        "title": "Dream Walker",
+        "aired": "Nov 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 207,
+        "title": "Let's Move All Over the Place",
+        "aired": "Nov 28, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 208,
+        "title": "An Emotional, Heart-Touching Expression",
+        "aired": "Nov 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 209,
+        "title": "The In-Advance Diary is Horrible",
+        "aired": "Nov 30, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 210,
+        "title": "The Reality Pillow",
+        "aired": "Dec 1, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 211,
+        "title": "Hakoiwa Ski Resort",
+        "aired": "Dec 3, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 212,
+        "title": "Tea Pot Tape Recorder",
+        "aired": "Dec 4, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 213,
+        "title": "Touch Gloves",
+        "aired": "Dec 5, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 214,
+        "title": "The Snow's Hot, Hot, Hot!",
+        "aired": "Dec 6, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 215,
+        "title": "The Regular Pen",
+        "aired": "Dec 7, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 216,
+        "title": "I'll Be the King of the Stone Age",
+        "aired": "Dec 8, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 217,
+        "title": "Lighter Play",
+        "aired": "Dec 10, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 218,
+        "title": "Play with dolls",
+        "aired": "Dec 11, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 219,
+        "title": "Ghost Lamp",
+        "aired": "Dec 12, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 220,
+        "title": "Sweets Ranch",
+        "aired": "Dec 13, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 221,
+        "title": "Sesame Lock",
+        "aired": "Dec 14, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 222,
+        "title": "The Graffiti Gun",
+        "aired": "Dec 15, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 223,
+        "title": "Becoming Faceless with an Eraser",
+        "aired": "Dec 17, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 224,
+        "title": "The Odd, Odd Umbrellas",
+        "aired": "Dec 18, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 225,
+        "title": "Pitcher's Hat",
+        "aired": "Dec 19, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 226,
+        "title": "Comic Book's Extras from One Hundred Years Later",
+        "aired": "Dec 20, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 227,
+        "title": "Main character package machine",
+        "aired": "Dec 21, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 228,
+        "title": "Hardship Miso",
+        "aired": "Dec 22, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 229,
+        "title": "The Forceful Athletic House",
+        "aired": "Dec 24, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 230,
+        "title": "Lottery Jackpot Strategy",
+        "aired": "Dec 25, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 231,
+        "title": "Multiplication Liquid",
+        "aired": "Dec 26, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 232,
+        "title": "Go Home, You Unwanted Guest!",
+        "aired": "Dec 27, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 233,
+        "title": "Battle of Handmade Missile",
+        "aired": "Dec 28, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 234,
+        "title": "Making a Little Brother",
+        "aired": "Dec 29, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 235,
+        "title": "The Sonic Oscillation Terror Machine",
+        "aired": "Dec 31, 1979",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 236,
+        "title": "Something is Gonna Occur by 7 o'clock",
+        "aired": "Jan 4, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 237,
+        "title": "The Switching Rope",
+        "aired": "Jan 5, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 238,
+        "title": "Mad Watch",
+        "aired": "Jan 7, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 239,
+        "title": "Window Scenery Switching Machine",
+        "aired": "Jan 8, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 240,
+        "title": "The Great Avalanche in My Room",
+        "aired": "Jan 9, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 241,
+        "title": "King Kong",
+        "aired": "Jan 10, 1980",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 1785,
+        "title": "Magical Witch Shizuka-chan",
+        "aired": "Mar 4, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 1786,
+        "title": "45 Years Later...",
+        "aired": "Mar 11, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 1787,
+        "title": "Doraemon Takes a Day Off!!",
+        "aired": "Mar 18, 2005",
         "filler": false,
         "recap": false
       }

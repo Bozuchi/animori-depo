@@ -2822,176 +2822,351 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Let's Go to Tokyo!",
+        "aired": "Oct 4, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Direct Sunlight",
+        "aired": "Oct 11, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Townsperson B",
+        "aired": "Oct 18, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Center Ace",
+        "aired": "Oct 25, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Greed",
+        "aired": "Nov 1, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Tempo",
+        "aired": "Nov 8, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Moonrise",
+        "aired": "Nov 15, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Illusionary Hero",
+        "aired": "Nov 22, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "VS. \"Umbrella\"",
+        "aired": "Nov 29, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Cogs",
+        "aired": "Dec 6, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Above",
+        "aired": "Dec 13, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Let the Games Begin!",
+        "aired": "Dec 20, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "A Simple and Pure Strength",
+        "aired": "Dec 27, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Still Growing",
+        "aired": "Jan 10, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "Place to Play",
+        "aired": "Jan 17, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "Next",
+        "aired": "Jan 24, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "The Battle Without Will Power",
+        "aired": "Jan 31, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "The Losers",
+        "aired": "Feb 7, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "The Iron Wall Can Be Rebuilt Again and Again",
+        "aired": "Feb 14, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 20,
-        "title": "20. Bölüm",
-        "aired": null,
+        "title": "Wiping Out",
+        "aired": "Feb 21, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 21,
-        "title": "21. Bölüm",
-        "aired": null,
+        "title": "The Destroyer",
+        "aired": "Feb 28, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 22,
-        "title": "22. Bölüm",
-        "aired": null,
+        "title": "The Former Coward's Fight",
+        "aired": "Mar 6, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 23,
-        "title": "23. Bölüm",
-        "aired": null,
+        "title": "Team",
+        "aired": "Mar 13, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 24,
-        "title": "24. Bölüm",
-        "aired": null,
+        "title": "The Absolute Limit Switch",
+        "aired": "Mar 20, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 25,
-        "title": "25. Bölüm",
-        "aired": null,
+        "title": "Declaration of War",
+        "aired": "Mar 27, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Let's Go To Tokyo!!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Direct Sunlight",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Townsperson B",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Center Ace",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Greed",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Tempo",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Moonrise",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Illusionary Hero",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "VS \"Umbrella\"",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Cogs",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Above",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Let the Games Begin!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "A Simple and Pure Strength",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Still Growing",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Place to Play",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Next",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "The Battle Without Will Power",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Losers",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "The Iron Wall Can Be Rebuilt Again and Again",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Wiping Out",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "The Destroyer",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "The Former Coward's Fight",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Team",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "The Absolute Limit Switch",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "Declaration of War",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       }

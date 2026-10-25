@@ -701,162 +701,344 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The King of Braves is Born!",
+        "aired": "Feb 1, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Boy With Green hair",
+        "aired": "Feb 8, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Holy Left Arm",
+        "aired": "Feb 15, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Escapee Zondar",
+        "aired": "Feb 22, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Blue and Red",
+        "aired": "Mar 1, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Its name is ChoRyuJin",
+        "aired": "Mar 8, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Drive Away the Black 300!",
+        "aired": "Mar 15, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Day The Sun Disappeared",
+        "aired": "Mar 22, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Element Z0",
+        "aired": "Mar 29, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "The Lightless World",
+        "aired": "Apr 5, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Gate of Izolude",
+        "aired": "Apr 12, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Tomorrow",
+        "aired": "Apr 19, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "Legacy of Cain",
+        "aired": "Apr 26, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "The Valley That Calls Forth the Mist",
+        "aired": "May 3, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "GGG Targeted",
+        "aired": "May 10, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "Demon of Midday",
+        "aired": "May 17, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "That Which Controls Space",
+        "aired": "May 24, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "A Promise is the Other's Light",
+        "aired": "May 31, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "The Destructive Right Arm",
+        "aired": "Jun 7, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 20,
-        "title": "20. Bölüm",
-        "aired": null,
+        "title": "Teacher Zondar",
+        "aired": "Jun 14, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 21,
-        "title": "21. Bölüm",
-        "aired": null,
+        "title": "Gold-Colored God of Destruction",
+        "aired": "Jun 21, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 22,
-        "title": "22. Bölüm",
-        "aired": null,
+        "title": "Towards the Polluted Sky",
+        "aired": "Jun 28, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 23,
-        "title": "23. Bölüm",
-        "aired": null,
+        "title": "Mike 13",
+        "aired": "Jul 5, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Disconnected \"Protect\"",
+        "aired": "Jul 12, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Voice of Ruin",
+        "aired": "Jul 19, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Cross the Dimensions",
+        "aired": "Jul 26, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Great Tokyo Destruction",
+        "aired": "Aug 2, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Crash! The Big Four of Destruction",
+        "aired": "Aug 9, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Phoenix",
+        "aired": "Aug 16, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Braves, Death at Dawn!",
+        "aired": "Aug 23, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Adieu, GGG",
+        "aired": "Aug 30, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Counterattack! Machine World 31 Primevals",
+        "aired": "Sep 13, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Departure to the Freezing Point",
+        "aired": "Sep 20, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Brave's Rebirth",
+        "aired": "Sep 27, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Wind and Lightning",
+        "aired": "Oct 4, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Its Name is GekiRyuJin",
+        "aired": "Oct 11, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "The Coming of Cain",
+        "aired": "Oct 18, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "The Great Battle of Darkness",
+        "aired": "Oct 25, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Machine World's Greatest 7 Primevals",
+        "aired": "Nov 8, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Children of the Stars",
+        "aired": "Nov 15, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "A Distant Victory Song",
+        "aired": "Nov 22, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Return From Ancient Times",
+        "aired": "Nov 29, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "GenRyuJin, GoRyuJin",
+        "aired": "Dec 6, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Prelude to the Coming of Death",
+        "aired": "Dec 13, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "GGG, Towards Jupiter!",
+        "aired": "Dec 20, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "That With Courage",
+        "aired": "Dec 24, 1997",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Machine World Termination",
+        "aired": "Jan 10, 1998",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Life",
+        "aired": "Jan 24, 1998",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Someday, in the Sea of Stars",
+        "aired": "Jan 31, 1998",
         "filler": false,
         "recap": false
       }

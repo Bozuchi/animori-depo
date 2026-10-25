@@ -403,57 +403,365 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Great Plan (Part 1)",
+        "aired": "Apr 2, 1967",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Great Plan (Part 2)",
+        "aired": "Apr 9, 1967",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Challenge of the Masked Racer (Part 1)",
+        "aired": "Apr 16, 1967",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Challenge of the Masked Racer (Part 2)",
+        "aired": "Apr 23, 1967",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Secret Engine (Part 1)",
+        "aired": "Apr 30, 1967",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Secret Engine (Part 2)",
+        "aired": "May 5, 1967",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "The Race Against the Mammoth Car (Part 1)",
+        "aired": "May 14, 1967",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Race Against the Mammoth Car (Part 2)",
+        "aired": "May 21, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Most Dangerous Race (Part 1)",
+        "aired": "May 28, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Most Dangerous Race (Part 2)",
+        "aired": "Jun 4, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Most Dangerous Race (Part 3)",
+        "aired": "Jun 11, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Race For Revenge (Part 1)",
+        "aired": "Jun 18, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Race For Revenge (Part 2)",
+        "aired": "Jun 25, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "The Deadly Desert Race (Part 1)",
+        "aired": "Jul 2, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "The Deadly Desert Race (Part 2)",
+        "aired": "Jul 9, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "The Incan Underground Race (Part 1)",
+        "aired": "Jul 16, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "The Incan Underground Race (Part 2)",
+        "aired": "Jul 23, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Treasure of Niagara Falls (Part 1)",
+        "aired": "Jul 30, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Treasure of Niagara Falls (Part 2)",
+        "aired": "Aug 6, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The Demonic Race Car (Part 1)",
+        "aired": "Aug 13, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "The Demonic Race Car (Part 2)",
+        "aired": "Aug 20, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Mach 5 Crisis (Part 1)",
+        "aired": "Aug 27, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Mach 5 Crisis (Part 2)",
+        "aired": "Sep 3, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Little Grand Prix (Part 1)",
+        "aired": "Sep 10, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Little Grand Prix (Part 2)",
+        "aired": "Sep 17, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Extinguishing Speed!",
+        "aired": "Sep 24, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Race Against Time (Part 1)",
+        "aired": "Oct 1, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Race Against Time (Part 2)",
+        "aired": "Oct 8, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The Snake Track",
+        "aired": "Oct 15, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Man on the Lam",
+        "aired": "Oct 22, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Gang of Assassins (Part 1)",
+        "aired": "Oct 29, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Gang of Assassins (Part 2)",
+        "aired": "Nov 5, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "The Race for Life",
+        "aired": "Nov 12, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "The Supersonic Car",
+        "aired": "Nov 19, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Crash in the Jungle (Part 1)",
+        "aired": "Nov 26, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Mysterious Tank of the Dense Forest (Episode 1)",
+        "aired": "Dec 3, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "The Terrifying Gambler",
+        "aired": "Dec 10, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Secret Agent No. 9 (Episode 1)",
+        "aired": "Dec 17, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Secret Agent No. 9 (Episode 2)",
+        "aired": "Dec 24, 1967",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Car Bomb of Fear",
+        "aired": "Jan 7, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "The Phantom's Iron Castle",
+        "aired": "Jan 14, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Pineapple Race",
+        "aired": "Jan 21, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Witch Number 0",
+        "aired": "Jan 28, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Murder Car V2",
+        "aired": "Feb 4, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Car Wrestler X",
+        "aired": "Feb 11, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Attack of the Auto Apache",
+        "aired": "Feb 18, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Rebirth of the Monster Car",
+        "aired": "Feb 25, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "The Junk Car Grand Prix",
+        "aired": "Mar 3, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Desperate Balloon Escape",
+        "aired": "Mar 10, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "Return of the Acrobat Clan",
+        "aired": "Mar 17, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "The Greatest-Ever Race (Episode 1)",
+        "aired": "Mar 24, 1968",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "The Greatest-Ever Race (Episode 2)",
+        "aired": "Mar 31, 1968",
         "filler": false,
         "recap": false
       }

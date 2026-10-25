@@ -98,15 +98,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Shut-in Vampire Goes Outside",
+        "aired": "Oct 7, 2023",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "A Sudden Insurrection",
+        "aired": "Oct 14, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Darkness of the Shut-in Vampire Princess",
+        "aired": "Oct 21, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Mercy of the Lonely Crimson",
+        "aired": "Oct 28, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Sakuna Memoir and the Seven Crimson Lords",
+        "aired": "Nov 4, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "A Roundtable of Lowlives",
+        "aired": "Nov 11, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Scarlet Stage",
+        "aired": "Nov 18, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Wheels of Asterism",
+        "aired": "Nov 25, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "A Warblade Tea Party",
+        "aired": "Dec 9, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Princess of Aruka Kingdom",
+        "aired": "Dec 16, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Dream-Crushing Paradise",
+        "aired": "Dec 23, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "A Golden World",
+        "aired": "Dec 30, 2023",
         "filler": false,
         "recap": false
       }

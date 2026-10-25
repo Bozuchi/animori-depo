@@ -106,7 +106,29 @@
       }
     ],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Neptune's Summer Vacation",
+        "aired": "Jul 8, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Nep-Nep Festival",
+        "aired": "Dec 15, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Little Purple Sunshine",
+        "aired": "Sep 8, 2022",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 108758,

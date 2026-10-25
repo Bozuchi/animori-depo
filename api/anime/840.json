@@ -377,50 +377,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "My Girlfriend is an Alien",
+        "aired": "Apr 12, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The First Date",
+        "aired": "Apr 19, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "A Secret Base for Two",
+        "aired": "Apr 26, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "My Younger Older Sister",
+        "aired": "May 3, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Kanaka Goes to School",
+        "aired": "May 10, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Impact of Love",
+        "aired": "May 17, 2003",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "The Pool: Clear Danger!",
+        "aired": "May 24, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "A Message From Earth",
+        "aired": "May 31, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "A Starship in Love",
+        "aired": "Jun 7, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Great Cosplay Plan!",
+        "aired": "Jun 14, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "A Private Little Wedding",
+        "aired": "Jun 21, 2003",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Night Of The Festival",
+        "aired": "Jun 28, 2003",
         "filler": false,
         "recap": false
       }

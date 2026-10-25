@@ -53,7 +53,64 @@
       }
     ],
     "episodes": 8,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "My Life Might Be Over",
+        "aired": "Jan 10, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Nothing's Okay...",
+        "aired": "Jan 17, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Power Switch is Inside the Mouth...!?",
+        "aired": "Jan 24, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Name-Calling is Bad for the Heart",
+        "aired": "Jan 31, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Regarding Nadeshiko Being Too High-Functioning",
+        "aired": "Feb 7, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "I, Akane, will Crash the Owner Get-Together!",
+        "aired": "Feb 14, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Huh, Nadeshiko has a Mother?",
+        "aired": "Feb 21, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "I'm Not a Baby!!!",
+        "aired": "Feb 28, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 192867,

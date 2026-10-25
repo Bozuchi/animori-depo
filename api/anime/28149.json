@@ -1930,16 +1930,247 @@
     "episodes": 35,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "The Dragon Dentist",
+        "aired": "Nov 7, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Hill Climb Girl",
+        "aired": "Nov 14, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "ME!ME!ME!",
+        "aired": "Nov 21, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Carnage",
+        "aired": "Nov 28, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Yoshikazu Yasuhiko & Ichiro Itano: Collection of Key Animation Films",
+        "aired": "Dec 5, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "20min Walk From Nishi-Ogikubo Station, 2 Bedrooms, Living Room, Dining Room, Kitchen, 2mos Deposit, No Pets Allowed",
+        "aired": "Dec 12, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Until You Come to Me.",
+        "aired": "Dec 19, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Tomorrow From There.",
+        "aired": "Jan 9, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Electronic Superhuman Gridman: boys invent great hero",
+        "aired": "Jan 16, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Yamadeloid",
+        "aired": "Jan 23, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Power Plant No. 33",
+        "aired": "Jan 30, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Evangelion: Another Impact (Confidential)",
+        "aired": "Feb 6, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Kanón",
+        "aired": "Mar 13, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Sex & Violence with Machspeed",
+        "aired": "Mar 20, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Obake-chan",
+        "aired": "Mar 27, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Tokio of the Moon's Shadow",
+        "aired": "Apr 3, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Three Fallen Witnesses",
+        "aired": "Apr 10, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "The Diary of Ochibi",
+        "aired": "Apr 17, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "I Can Friday by Day!",
+        "aired": "Apr 24, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "ME!ME!ME! Chronic / (Making of)evangelion: Another Impact",
+        "aired": "May 1, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Iconic Field",
+        "aired": "May 8, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "On a Gloomy Night",
+        "aired": "May 15, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Memoirs of Amorous Gentlemen",
+        "aired": "May 22, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Rapid Rouge",
+        "aired": "May 29, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Hammerhead",
+        "aired": "Jul 31, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Comedy Skit 1989",
+        "aired": "Aug 7, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Bubu & Bubulina",
+        "aired": "Aug 14, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Endless Night",
+        "aired": "Aug 21, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Bureau of Proto Society",
+        "aired": "Aug 28, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Ultraman",
+        "aired": "Sep 4, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 31,
-        "title": "31. Bölüm",
-        "aired": null,
+        "title": "Girl",
+        "aired": "Sep 11, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Neon Genesis Impacts",
+        "aired": "Sep 18, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Hello from the Countries of the World",
+        "aired": "Sep 25, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Robot on the Road",
+        "aired": "Oct 2, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Cassette Girl",
+        "aired": "Oct 9, 2015",
         "filler": false,
         "recap": false
       }

@@ -201,29 +201,274 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Merciless J9",
+        "aired": "Oct 6, 1981",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Roaring Asteroids",
+        "aired": "Oct 13, 1981",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Venus of Hell",
+        "aired": "Oct 20, 1981",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Lawless West J District",
+        "aired": "Oct 27, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "A Client From The Grave",
+        "aired": "Nov 3, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Red Rose Of Revenge",
+        "aired": "Nov 10, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Great Escape From Venus Prison",
+        "aired": "Nov 17, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Wiping Tears On The Moon",
+        "aired": "Nov 24, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Saturn Rally, The Rampaging Race",
+        "aired": "Dec 1, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Love Vanished In The Mist",
+        "aired": "Dec 8, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "A Snowfield In Flames",
+        "aired": "Dec 15, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Vulcan Twins",
+        "aired": "Dec 22, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Mission: Gold",
+        "aired": "Dec 29, 1981",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "The Rescue Of The Jovian Bems",
+        "aired": "Jan 5, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "The Evil Synchron Planet",
+        "aired": "Jan 12, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Dead Galactic Beauties",
+        "aired": "Jan 19, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Angry Cougar",
+        "aired": "Jan 26, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Starlight Lullaby",
+        "aired": "Feb 2, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Raid Melody",
+        "aired": "Feb 9, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The Demon of Vengeance, Reborn",
+        "aired": "Feb 16, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Double Neck Vow",
+        "aired": "Feb 23, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Assassination Order: Nubia",
+        "aired": "Mar 2, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Nubia Laughs",
+        "aired": "Mar 9, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Back Off",
+        "aired": "Mar 16, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Uranus Smells Of Death",
+        "aired": "Mar 23, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Blues Again",
+        "aired": "Mar 30, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Storm Of The Carnival (Part 1)",
+        "aired": "Apr 6, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Storm Of The Carnival (Part 2)",
+        "aired": "Apr 13, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Twilight Challenger",
+        "aired": "Apr 20, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "They Are To Die (Part 1)",
+        "aired": "Apr 27, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "They Are To Die (Part 2)",
+        "aired": "May 4, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Galaxy of Prayer",
+        "aired": "May 11, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "A Parting Song Under The Eclipse",
+        "aired": "May 18, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "The Name Is Khamen",
+        "aired": "May 25, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Battle of Mercury (Part 1)",
+        "aired": "Jun 1, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "The Battle of Mercury (Part 2)",
+        "aired": "Jun 8, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "The Sentence Of Death For Jupiter",
+        "aired": "Jun 15, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Battle Of The Asteroids",
+        "aired": "Jun 22, 1982",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Abayo",
+        "aired": "Jun 29, 1982",
         "filler": false,
         "recap": false
       }

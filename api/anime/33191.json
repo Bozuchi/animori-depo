@@ -199,7 +199,36 @@
       }
     ],
     "episodes": 4,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Thus Spoke Kishibe Rohan: Millionaire Village",
+        "aired": "Sep 20, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Thus Spoke Kishibe Rohan: Mutsu-kabe Hill",
+        "aired": "Jul 19, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Thus Spoke Kishibe Rohan: The Run",
+        "aired": "Mar 25, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Thus Spoke Kishibe Rohan: At a Confessional",
+        "aired": "Mar 25, 2020",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21778,

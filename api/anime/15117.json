@@ -149,7 +149,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Reunion",
+        "aired": "Oct 18, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Encounter",
+        "aired": "Dec 18, 2012",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 15117,

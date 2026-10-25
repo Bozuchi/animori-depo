@@ -98,8 +98,351 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Gold Is Beckoning Lupin",
+        "aired": "Mar 3, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Expose the Great Trap",
+        "aired": "Mar 10, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Hello, Hell's Angel",
+        "aired": "Mar 17, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Telepathy Is Love's Signal",
+        "aired": "Mar 24, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Goemon, the Invincible",
+        "aired": "Apr 7, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Here Comes Lupin in a Tank",
+        "aired": "May 19, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Garb, the Grim Reaper",
+        "aired": "May 26, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Operation Mother Mary Getaway",
+        "aired": "Jun 9, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Clones Will  Cost You",
+        "aired": "Jun 16, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "A Treasure That Smells Like a Trap",
+        "aired": "Jun 23, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Ruby Sheds Tears of Blood",
+        "aired": "Jul 7, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Prisoner Inside the Baltan Manor",
+        "aired": "Jul 28, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Musical Variation of Monkey Business",
+        "aired": "Oct 20, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Care to Play a Kidnapping Game?",
+        "aired": "Oct 27, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "The Killer Comes Silently",
+        "aired": "Nov 3, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "A Golden Apple Has Its Poison",
+        "aired": "Nov 10, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Are You Really Getting Married?",
+        "aired": "Nov 17, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Showtime Smells Of Death",
+        "aired": "Nov 24, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Walk The Wilderness Of Betrayal",
+        "aired": "Dec 1, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The Man Who Erased His Past",
+        "aired": "Dec 8, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Farewell, Golden Legend",
+        "aired": "Dec 15, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Fire Doesn't Suit A Diamond",
+        "aired": "Dec 22, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Operation Beirut Mobile Bank Heist",
+        "aired": "Dec 29, 1984",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Rest In Peace, My Friend",
+        "aired": "Jan 12, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "We're No Angels",
+        "aired": "Jan 19, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "The Ghost Of New York",
+        "aired": "Jan 26, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Code Name Is The Star Of Alaska",
+        "aired": "Feb 2, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "The Star of Alaska Is A Ticket To Hell",
+        "aired": "Feb 9, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "A Honeymoon To The Moon",
+        "aired": "Feb 16, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The Name Of The Cocktail Is Revenge",
+        "aired": "Feb 23, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Reversal, Reversal, And Another Reversal",
+        "aired": "Mar 2, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "The 10 Million Dollar Key",
+        "aired": "Mar 9, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Boy Genius Plays A Dangerous Game",
+        "aired": "Mar 16, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Manhattan Crisis",
+        "aired": "Mar 23, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Target Beyond The Snowy Field",
+        "aired": "Mar 30, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "When The Eagle Descends",
+        "aired": "Apr 6, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Pops Rages With Anger",
+        "aired": "Apr 20, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Letizia Who Loved Me",
+        "aired": "Apr 27, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Give The Gold To My Rival",
+        "aired": "May 11, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Lottery Ticket Mayhem",
+        "aired": "May 25, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "The Night Under Martial Law",
+        "aired": "Jun 8, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Steal The Pyramid's Insurance Money",
+        "aired": "Jun 22, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Farewell, Cinderella",
+        "aired": "Jun 29, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Our Daddies Are A Thief",
+        "aired": "Jul 6, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "A Toast To The Con Game",
+        "aired": "Jul 20, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "My Scrap Metal Wings",
+        "aired": "Jul 27, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "The Sinuous Painting",
+        "aired": "Aug 17, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Tears Stood in Hades' Eyes",
+        "aired": "Aug 31, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "The Day Pops Was Adopted",
+        "aired": "Sep 28, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "Destroy Ivanov, The Atomic Submarine",
+        "aired": "Dec 25, 1985",
         "filler": false,
         "recap": false
       }

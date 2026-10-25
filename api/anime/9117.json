@@ -120,7 +120,36 @@
       }
     ],
     "episodes": 6,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Morishima Haruka",
+        "aired": "Jun 11, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Tanamachi Kaoru",
+        "aired": "Jun 11, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Nakata Sae",
+        "aired": "Jun 11, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Tachibana Miya",
+        "aired": "Jun 11, 2011",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 9117,

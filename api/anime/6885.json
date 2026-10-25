@@ -167,7 +167,29 @@
       }
     ],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Summer Memories",
+        "aired": "Sep 2, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Meteor Distance",
+        "aired": "Oct 21, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Twinkle Star",
+        "aired": "Dec 16, 2009",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 6885,

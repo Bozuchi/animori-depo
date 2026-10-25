@@ -4132,632 +4132,653 @@
     "episodes": 93,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "Kalos, Where Dreams and Adventures Begin!",
+        "aired": "Oct 17, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Lumiose City Pursuit!Mega Evolution and the Prism Tower!",
+        "aired": "Oct 17, 2013",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "A Battle of Aerial Mobility!Keromatsu vs. Yayakoma! The Aerial Battle!!",
+        "aired": "Oct 24, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "A Shockingly Cheeky Friendship!Pikachu and Dedenne! Nuzzle!!",
+        "aired": "Oct 31, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "A Blustery Santalune Gym Battle!The Hakudan Gym Battle! The Magnificent Viviyon's Dance Battle!!",
+        "aired": "Nov 7, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Battling on Thin Ice!The Icy Rematch! Pikachu vs. Viviyon!!",
+        "aired": "Nov 14, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Giving Chase at the Rhyhorn Race!Leave it to Serena!? The Wild Sihorn Race!",
+        "aired": "Nov 21, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Grooming Furfrou!The Pokémon Trimmer and Trimmian!",
+        "aired": "Nov 28, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Clemont's Got a Secret!Capture Miare Gym! Citron's Secret!!",
+        "aired": "Dec 5, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Mega-Mega Meowth Madness!Harimaron vs. Mega Mega Nyarth!!",
+        "aired": "Dec 12, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "The Bamboozling Forest!The Bamboo Forest Chase! Yancham and Goronda!!",
+        "aired": "Dec 19, 2013",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "To Catch a Pokémon Smuggler!Capture the Pokémon Buyer! The Kofuurai Impersonation Plan!!",
+        "aired": "Jan 9, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "Kindergarten Chaos!Nymphia vs. Keromatsu! Kindergarten Chaos!!",
+        "aired": "Jan 16, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Seeking Shelter From the Storm!The Spooky Shelter! Nyasper Is Watching!!",
+        "aired": "Jan 30, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "An Appetite for Battle!Harimaron vs. Mafoxy! A Diet Battle!?",
+        "aired": "Feb 6, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "A Jolting Switcheroo!Dedenne Is Pichu and Pichu Is Dedenne...!?",
+        "aired": "Feb 13, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "A Rush of Ninja Wisdom!Keromatsu Against Gekogahshier! Ninja Battle!!",
+        "aired": "Feb 20, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "Awakening the Sleeping Giant!Wake Up Kabigon! It's a Battle in the Parfum Palace!!",
+        "aired": "Feb 27, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "A Conspiracy to Conquer!The Conspiracy of Madame X! The Calamanero of Fear!!",
+        "aired": "Mar 13, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 20,
-        "title": "20. Bölüm",
-        "aired": null,
+        "title": "Breaking Titles at the Chateau!Challenge the Battle Chateau! Viola vs. Zakuro!!",
+        "aired": "Mar 20, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 21,
-        "title": "21. Bölüm",
-        "aired": null,
+        "title": "A PokéVision of Things to Come!It's a Debut! Serena and Fokko's PokéVision!!",
+        "aired": "Mar 27, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 22,
-        "title": "22. Bölüm",
-        "aired": null,
+        "title": "Going for the Gold!Catch the Golden Koiking!",
+        "aired": "Apr 10, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 23,
-        "title": "23. Bölüm",
-        "aired": null,
+        "title": "Coming Back into the Cold!The Aurora Bonds! Amarus and Amaruruga!",
+        "aired": "Apr 17, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 24,
-        "title": "24. Bölüm",
-        "aired": null,
+        "title": "Climbing the Walls!Shoyo Gym Battle! Pikachu Against Chigoras!!",
+        "aired": "Apr 24, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 25,
-        "title": "25. Bölüm",
-        "aired": null,
+        "title": "A Battle by Any Other Name!Peroppafu and Peroream!! The Sweet Battle Isn't Sweet!?",
+        "aired": "May 8, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 26,
-        "title": "26. Bölüm",
-        "aired": null,
+        "title": "To Find a Fairy Flower!Flabébé and the Fairy Flower!",
+        "aired": "May 15, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 27,
-        "title": "27. Bölüm",
-        "aired": null,
+        "title": "The Bonds of Evolution!Champion Carnet Apears! The Mega Sirknight in the Fog!!",
+        "aired": "May 22, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 28,
-        "title": "28. Bölüm",
-        "aired": null,
+        "title": "Heroes - Friends and Faux Alike!Ta-Da! The Fake Satoshi Appears!!",
+        "aired": "May 29, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 29,
-        "title": "29. Bölüm",
-        "aired": null,
+        "title": "Mega Revelations!Corni and Lucario! The Secrets of Mega Evolution!!",
+        "aired": "May 29, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 30,
-        "title": "30. Bölüm",
-        "aired": null,
+        "title": "The Cave of Trials!Lucario vs. Bursyamo! The Cave of Trials!!",
+        "aired": "Jun 5, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 31,
-        "title": "31. Bölüm",
-        "aired": null,
+        "title": "The Aura Storm!Mega Lucario Against Mega Lucario! A Storm of Auras!!",
+        "aired": "Jun 12, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 32,
-        "title": "32. Bölüm",
-        "aired": null,
+        "title": "Calling from Beyond the Aura!Call Out With Your Heart! Beyond the Aura!!",
+        "aired": "Jun 19, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 33,
-        "title": "33. Bölüm",
-        "aired": null,
+        "title": "The Bonds of Mega Evolution!Mega Lucario Against Mega Kucheat! The Bonds of Mega Evolution!!",
+        "aired": "Jul 3, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 34,
-        "title": "34. Bölüm",
-        "aired": null,
+        "title": "The Forest Champion!Champion of the Forest! Luchabull Appears!!",
+        "aired": "Jul 10, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 35,
-        "title": "35. Bölüm",
-        "aired": null,
+        "title": "Battles in the Sky!Sky Battle!? Luchabull Against Fiarrow!!",
+        "aired": "Jul 24, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 36,
-        "title": "36. Bölüm",
-        "aired": null,
+        "title": "The Cave of Mirrors!Reflection Cave! Satoshi and the Satoshi of the Mirror Land!?",
+        "aired": "Jul 31, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 37,
-        "title": "37. Bölüm",
-        "aired": null,
+        "title": "Forging Forest Friendships!The Wriggling Forest of Ohrot!",
+        "aired": "Aug 7, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 38,
-        "title": "38. Bölüm",
-        "aired": null,
+        "title": "Summer of Discovery!Pokémon Summer Camp! The Rival Trio Appears!!",
+        "aired": "Aug 14, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 39,
-        "title": "39. Bölüm",
-        "aired": null,
+        "title": "Day Three Blockbusters!Serena vs. Sana! PokéVision Showdown!!",
+        "aired": "Aug 21, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 40,
-        "title": "40. Bölüm",
-        "aired": null,
+        "title": "Foggy Pokémon Orienteering!PokéEnteering! The X in the Fog!!",
+        "aired": "Aug 28, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 41,
-        "title": "41. Bölüm",
-        "aired": null,
+        "title": "Battling Into the Hall of Fame!Team Battle! The Hall of Fame Match!!",
+        "aired": "Sep 4, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 42,
-        "title": "42. Bölüm",
-        "aired": null,
+        "title": "Origins of Mega Evolution!The Master Tower! The History of Mega Evolution!!",
+        "aired": "Sep 18, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 43,
-        "title": "43. Bölüm",
-        "aired": null,
+        "title": "Showdown at the Shalour Gym!Shara Gym Battle! Pikachu vs. Mega Lucario!!",
+        "aired": "Sep 25, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 44,
-        "title": "44. Bölüm",
-        "aired": null,
+        "title": "Splitting Heirs!Citron Against Eureka!? The Nyaonix Sibling Battle!!",
+        "aired": "Oct 2, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 45,
-        "title": "45. Bölüm",
-        "aired": null,
+        "title": "The Clumsy Crier Quiets the Chaos!The Clutzy Pukurin vs. the Berserk Bohmander!!",
+        "aired": "Oct 9, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 46,
-        "title": "46. Bölüm",
-        "aired": null,
+        "title": "Dreaming a Performer's Dream!Serena's First Capture!? Yancham vs. Fokko!!",
+        "aired": "Oct 16, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 47,
-        "title": "47. Bölüm",
-        "aired": null,
+        "title": "A Campus Reunion!Citron's Campus Memories! The Shocking Reunion!!",
+        "aired": "Oct 23, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 48,
-        "title": "48. Bölüm",
-        "aired": null,
+        "title": "Bonnie for the Defense!Send Out the Laplace Guard! Go For It Eureka!!",
+        "aired": "Oct 30, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 49,
-        "title": "49. Bölüm",
-        "aired": null,
+        "title": "Pathways to Performance Partnering!Go Dance Yancham, Go Charm Fokko! A Step Towards the Future!!",
+        "aired": "Nov 13, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 50,
-        "title": "50. Bölüm",
-        "aired": null,
+        "title": "An Undersea Place to Call Home!The Undersea Castle! Kuzumo and Dramidoro!!",
+        "aired": "Nov 20, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 51,
-        "title": "51. Bölüm",
-        "aired": null,
+        "title": "When Light and Dark Collide!Luchabull and Dark Luchabull!",
+        "aired": "Nov 27, 2014",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 52,
-        "title": "52. Bölüm",
-        "aired": null,
+        "title": "A Stealthy Challenge!Ninja Arts Showdown! Gekogashira Against Gamenodesu!",
+        "aired": "Dec 11, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 53,
-        "title": "53. Bölüm",
-        "aired": null,
+        "title": "A Race for Home!Serena Gets Serious! The Fast Meecle Race!",
+        "aired": "Dec 18, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 54,
-        "title": "54. Bölüm",
-        "aired": null,
+        "title": "Facing the Grand Design!Calamanero vs. Maaiika! The Bond That Saves the World!!",
+        "aired": "Dec 25, 2014",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 55,
-        "title": "55. Bölüm",
-        "aired": null,
+        "title": "A Slippery Encounter!The Weakest Dragon!? Numera Appears!!",
+        "aired": "Jan 8, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 56,
-        "title": "56. Bölüm",
-        "aired": null,
+        "title": "One for the Goomy!Do It Dedenne! For Numera!!",
+        "aired": "Jan 15, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 57,
-        "title": "57. Bölüm",
-        "aired": null,
+        "title": "Thawing an Icy Panic!Vanipeti Panic! The Whiteout Is Freezing!!",
+        "aired": "Jan 22, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 58,
-        "title": "58. Bölüm",
-        "aired": null,
+        "title": "The Green, Green Grass Types of Home!Hiyoku Gym Battle! Gekogashira vs. Gogoat!!",
+        "aired": "Jan 29, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 59,
-        "title": "59. Bölüm",
-        "aired": null,
+        "title": "Under the Pledging Tree!Satoshi and Serena's First Date!? The Presents and the Tree of Promises!!",
+        "aired": "Feb 5, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 60,
-        "title": "60. Bölüm",
-        "aired": null,
+        "title": "A Showcase Debut!The Aim to Be Kalos Queen! It's Serena's Debut!!",
+        "aired": "Feb 12, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 61,
-        "title": "61. Bölüm",
-        "aired": null,
+        "title": "An Oasis of Hope!Battle in the Wilderness! Fight Numera!!",
+        "aired": "Feb 19, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 62,
-        "title": "62. Bölüm",
-        "aired": null,
+        "title": "Protect the Future of Science! The Labyrinth of Electricity!!",
+        "aired": "Feb 26, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 63,
-        "title": "63. Bölüm",
-        "aired": null,
+        "title": "A Fork in the Road of Indecisiveness!? Musashi and Sonansu!!",
+        "aired": "Mar 5, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 64,
-        "title": "64. Bölüm",
-        "aired": null,
+        "title": "Fokko VS Mahoxy! A Splendid Performance Battle!!",
+        "aired": "Mar 12, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 65,
-        "title": "65. Bölüm",
-        "aired": null,
+        "title": "Kameil and Raichu Appear! Good Luck Numeil!!",
+        "aired": "Mar 26, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 66,
-        "title": "66. Bölüm",
-        "aired": null,
+        "title": "Miare City Investigation! Citroid vs. Black Citroid!!",
+        "aired": "Apr 2, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 67,
-        "title": "67. Bölüm",
-        "aired": null,
+        "title": "Miare Gym Battle! Satoshi vs. Citron!!",
+        "aired": "Apr 9, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 68,
-        "title": "68. Bölüm",
-        "aired": null,
+        "title": "The Targeted Mega Evolution! The Bonds of Gaburias!!",
+        "aired": "Apr 16, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 69,
-        "title": "69. Bölüm",
-        "aired": null,
+        "title": "Battle in the Marshlands! Numelgon VS Florges!!",
+        "aired": "Apr 23, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 70,
-        "title": "70. Bölüm",
-        "aired": null,
+        "title": "Conclusion! Numelgon, Go Over the Rainbow!!",
+        "aired": "Apr 30, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 71,
-        "title": "71. Bölüm",
-        "aired": null,
+        "title": "So You're Having a Bad Day!",
+        "aired": "May 7, 2015",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 72,
-        "title": "72. Bölüm",
-        "aired": null,
+        "title": "Scary Hospitality!",
+        "aired": "May 14, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 73,
-        "title": "73. Bölüm",
-        "aired": null,
+        "title": "Battle at the Fashion Show! Tatsubay VS Shushupu!!",
+        "aired": "May 21, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 74,
-        "title": "74. Bölüm",
-        "aired": null,
+        "title": "Kunoe Gym Battle! The Beautiful Fairy Trap!!",
+        "aired": "May 28, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 75,
-        "title": "75. Bölüm",
-        "aired": null,
+        "title": "Three-Match Rival Battle! Towards the Future!!",
+        "aired": "Jun 4, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 76,
-        "title": "76. Bölüm",
-        "aired": null,
+        "title": "The Wind, the Egg and Onbat!",
+        "aired": "Jun 11, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 77,
-        "title": "77. Bölüm",
-        "aired": null,
+        "title": "The Pokémon Sky Relay Challenge! Fly, Onbat!!",
+        "aired": "Jun 18, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 78,
-        "title": "78. Bölüm",
-        "aired": null,
+        "title": "Lights! Camera! Pika!",
+        "aired": "Jun 18, 2015",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 79,
-        "title": "79. Bölüm",
-        "aired": null,
+        "title": "A Frenzied Factory Fiasco!",
+        "aired": "Jun 25, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 80,
-        "title": "80. Bölüm",
-        "aired": null,
+        "title": "Performing with Fiery Charm!",
+        "aired": "Jul 2, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 81,
-        "title": "81. Bölüm",
-        "aired": null,
+        "title": "Rotom's Wish!",
+        "aired": "Jul 9, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 82,
-        "title": "82. Bölüm",
-        "aired": null,
+        "title": "A Festival Trade! A Festival Farewell?",
+        "aired": "Jul 23, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 83,
-        "title": "83. Bölüm",
-        "aired": null,
+        "title": "Over the Mountain of Snow!",
+        "aired": "Jul 30, 2015",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 84,
-        "title": "84. Bölüm",
-        "aired": null,
+        "title": "Adventures in Running Errands!",
+        "aired": "Aug 13, 2015",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 85,
-        "title": "85. Bölüm",
-        "aired": null,
+        "title": "Mending a Broken Spirit!",
+        "aired": "Aug 20, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 86,
-        "title": "86. Bölüm",
-        "aired": null,
+        "title": "A Legendary Photo Op!",
+        "aired": "Aug 27, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 87,
-        "title": "87. Bölüm",
-        "aired": null,
+        "title": "The Tiny Caretaker!",
+        "aired": "Sep 10, 2015",
         "filler": true,
         "recap": false
       },
       {
         "episode_number": 88,
-        "title": "88. Bölüm",
-        "aired": null,
+        "title": "A Trip Down Memory Train!",
+        "aired": "Sep 17, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 89,
-        "title": "89. Bölüm",
-        "aired": null,
+        "title": "A Frolicking Find in the Flowers!",
+        "aired": "Sep 24, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 90,
-        "title": "90. Bölüm",
-        "aired": null,
+        "title": "Tag Team Inspiration!",
+        "aired": "Oct 1, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 91,
-        "title": "91. Bölüm",
-        "aired": null,
+        "title": "A Performance Pop Quiz!",
+        "aired": "Oct 8, 2015",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 92,
-        "title": "92. Bölüm",
-        "aired": null,
+        "title": "Cloudy Fate, Bright Future!",
+        "aired": "Oct 15, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 93,
+        "title": "All Eyes on the Future!",
+        "aired": "Oct 22, 2015",
         "filler": false,
         "recap": false
       }

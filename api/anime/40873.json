@@ -89,7 +89,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Another Journey",
+        "aired": "Mar 28, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Masked Cypher Descends! / A Tale of St. Albion Girls' Academy",
+        "aired": "Aug 26, 2020",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 116968,

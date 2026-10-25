@@ -77,7 +77,29 @@
     ],
     "relations": [],
     "episodes": 3,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Rice Noodles",
+        "aired": "Aug 4, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "A Little Fashion Show",
+        "aired": "Aug 4, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Love in Shanghai",
+        "aired": "Aug 4, 2018",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 101231,

@@ -107,8 +107,50 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Returning to the Past Before the End of the World",
+        "aired": "Aug 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Top, the Memory Layer, and the Administrators",
+        "aired": "Aug 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Waking Up Just to Go to Work",
+        "aired": "Aug 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Ran Deng and Hui Huo",
+        "aired": "Aug 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Protagonist Halo",
+        "aired": "Aug 16, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Hollow",
+        "aired": "Aug 23, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Such Fragile Things as Memories",
+        "aired": "Aug 30, 2026",
         "filler": false,
         "recap": false
       }

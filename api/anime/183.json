@@ -292,64 +292,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Break Through The Wall",
+        "aired": "May 6, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Run With Teammates",
+        "aired": "May 13, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Hit The Goal",
+        "aired": "May 20, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Never Give Up On The Future",
+        "aired": "May 27, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Gotta Be The Forward",
+        "aired": "Jun 3, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Venge Forward",
+        "aired": "Jun 10, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "VOR!",
+        "aired": "Jun 17, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Catch The Last Pass",
+        "aired": "Jun 24, 2002",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Leap Over The Wall",
+        "aired": "Jul 1, 2002",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Grab A Position On The Team",
+        "aired": "Jul 8, 2002",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Back To The Field",
+        "aired": "Jul 15, 2002",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Make A Way",
+        "aired": "Jul 22, 2002",
         "filler": false,
         "recap": false
       }

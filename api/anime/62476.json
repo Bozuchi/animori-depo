@@ -218,50 +218,64 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Free, Unbound by Anyone",
+        "aired": "Jul 8, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "No One Should Feel Sorry for Me",
+        "aired": "Jul 15, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "I Couldn't Become Someone to Be Depended Upon",
+        "aired": "Jul 22, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Are You Going to Arrest Me?",
+        "aired": "Jul 29, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Prepared to Pay for What I've Done",
+        "aired": "Aug 5, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Think About This Child's Happiness",
+        "aired": "Aug 12, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "I Made Great Memories",
+        "aired": "Aug 19, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "I Am Truly Thankful",
+        "aired": "Aug 26, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "No Matter What Happens in the Future",
+        "aired": "Sep 2, 2026",
         "filler": false,
         "recap": false
       }

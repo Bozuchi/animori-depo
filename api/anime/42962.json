@@ -317,29 +317,92 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Uzaki-chan Really Wants to Hang Out, All Right!",
+        "aired": "Oct 1, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "I Want to Make Udon After We Hang Out!",
+        "aired": "Oct 8, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Does Uzaki-chan Want to Go to the School Festival?",
+        "aired": "Oct 15, 2022",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Uzaki-chan Wants to Be Number One!",
+        "aired": "Oct 22, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Whole Uzaki Clan Wants to Get Together!",
+        "aired": "Oct 29, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Uzaki-chan Wants to Celebrate!",
+        "aired": "Nov 5, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Uzaki-chan Wants Him to Confess!",
+        "aired": "Nov 12, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Yanagi and Kiri Also Want to Have Fun!",
+        "aired": "Nov 19, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Fujio Uzaki Wants Family Time!",
+        "aired": "Nov 26, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "We Want a Thrill Before Christmas!",
+        "aired": "Dec 3, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "I Kind of Want to Do Things Right Already!",
+        "aired": "Dec 10, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "I Want to Hang Out on Christmas Eve, Too!",
+        "aired": "Dec 17, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "I Want to Hang Out Together Next Year, Too!",
+        "aired": "Dec 24, 2022",
         "filler": false,
         "recap": false
       }

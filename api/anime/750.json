@@ -298,7 +298,92 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Spring Awakening",
+        "aired": "Feb 3, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Gets a Job",
+        "aired": "Feb 10, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Bin's Birthday",
+        "aired": "Feb 17, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Rainy Sunday",
+        "aired": "Feb 24, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Memories of Kimono",
+        "aired": "Mar 3, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Work in the Night",
+        "aired": "Mar 10, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Ramune and Candy Apples",
+        "aired": "Mar 16, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Close Your Hands, Open Your Hands",
+        "aired": "Mar 23, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "A Stag Beetle is Following",
+        "aired": "Mar 30, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Baked Sweet Potatoes Season",
+        "aired": "Apr 9, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "First snow, First sledge, First flight",
+        "aired": "Apr 16, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "A Letter to the Sky",
+        "aired": "Apr 16, 2006",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 750,

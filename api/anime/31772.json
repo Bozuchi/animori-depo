@@ -449,16 +449,44 @@
     "episodes": 6,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "A Shadow That Snuck Up Too Close",
+        "aired": "Dec 24, 2015",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Pupil Who Is An Extremely Poor Talker",
+        "aired": "Jan 29, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Ninja Who Is Too Complicated",
+        "aired": "Feb 24, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Bang, Who Is Too Overbearing",
+        "aired": "Mar 25, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Sisters Who Have Too Many Things Happening",
+        "aired": "Apr 22, 2016",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Murder Case That Is Too Impossible",
+        "aired": "May 27, 2016",
         "filler": false,
         "recap": false
       }

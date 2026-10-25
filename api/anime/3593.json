@@ -182,9 +182,23 @@
     "episodes": 3,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "The Lullaby of the Watchtower",
+        "aired": "Jun 24, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Prescription of Secret Love",
+        "aired": "Dec 23, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Sword Guard Sound in Deep Mountain",
+        "aired": "Jun 23, 2010",
         "filler": false,
         "recap": false
       }

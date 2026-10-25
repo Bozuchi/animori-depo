@@ -552,64 +552,183 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Scarlet Psionics",
+        "aired": "Jul 1, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Scarlet Guardians",
+        "aired": "Jul 8, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Conspiracy",
+        "aired": "Jul 15, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Red Strings",
+        "aired": "Jul 22, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Karen's Revolt",
+        "aired": "Jul 29, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "A Doomed Tomorrow",
+        "aired": "Aug 5, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "The Hunt for Nagi",
+        "aired": "Aug 12, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Hospital's Secrets",
+        "aired": "Aug 19, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "A Dubious Wonder Drug",
+        "aired": "Aug 26, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Rebel Yuito",
+        "aired": "Sep 2, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Togetsu",
+        "aired": "Sep 9, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Moon's Secrets",
+        "aired": "Sep 16, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "The Design Children",
+        "aired": "Sep 23, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "A 2,000-Year Ambition",
+        "aired": "Sep 30, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Nagi Attacks",
+        "aired": "Oct 7, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Naomi and Alice",
+        "aired": "Oct 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Arahabaki's Trap",
+        "aired": "Oct 21, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Karen's Wish",
+        "aired": "Oct 28, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Kagero's Confession",
+        "aired": "Nov 4, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Together Again",
+        "aired": "Nov 11, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Wakana's Resolve",
+        "aired": "Nov 18, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Brothers",
+        "aired": "Nov 25, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "The Sumeragi Mausoleum",
+        "aired": "Dec 2, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Slumbering Desire",
+        "aired": "Dec 9, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Operation Destroy the Kunad Gate",
+        "aired": "Dec 16, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "To Each Their Own Future",
+        "aired": "Dec 23, 2021",
         "filler": false,
         "recap": false
       }

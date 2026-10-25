@@ -61,7 +61,92 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The White Reaper Descends",
+        "aired": "Oct 7, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The 4x4 Attack",
+        "aired": "Oct 14, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Relay Straight Yin-Yang",
+        "aired": "Oct 21, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Sawatari Koki, the Demon God",
+        "aired": "Oct 28, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "A Cruel Reality",
+        "aired": "Nov 4, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Devil of Ashinoko Skyline",
+        "aired": "Nov 11, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Lonesome Cowboy",
+        "aired": "Nov 18, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Conclusion",
+        "aired": "Nov 25, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Rival",
+        "aired": "Dec 2, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Peninsula Opens",
+        "aired": "Dec 9, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Cost of Courage",
+        "aired": "Dec 16, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "A Bitter Decision",
+        "aired": "Dec 23, 2024",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 171642,

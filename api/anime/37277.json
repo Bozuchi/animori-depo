@@ -96,7 +96,36 @@
       }
     ],
     "episodes": 4,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Intermission 01",
+        "aired": "Feb 17, 2018",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 2,
+        "title": "Intermission 02",
+        "aired": "Mar 24, 2018",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 3,
+        "title": "Intermission 03",
+        "aired": "May 11, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Intermission 04",
+        "aired": "Jun 1, 2018",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": null
 }

@@ -164,7 +164,50 @@
       }
     ],
     "episodes": 6,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Blazing Transfer Student Tomoe, Volume of Gales",
+        "aired": "Jun 25, 2009",
+        "filler": true,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Blazing Transfer Student Tomoe (Raging Tides Chapter)",
+        "aired": "Jul 24, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Elina's Super Sister Legend",
+        "aired": "Aug 25, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Swamp Witch's Punishment",
+        "aired": "Sep 25, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The School Cafeteria's Cattleya",
+        "aired": "Oct 23, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "School Council Head, Aldra",
+        "aired": "Nov 25, 2009",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 6704,

@@ -48,7 +48,92 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Forbidden Weapon",
+        "aired": "Jan 11, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Day of Judgment",
+        "aired": "Jan 18, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Angel of Murder",
+        "aired": "Jan 25, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Inheritor of Courage",
+        "aired": "Feb 1, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Red-Hot Daydream!",
+        "aired": "Feb 8, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "EX-ARM Auction",
+        "aired": "Feb 15, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Banquet of Fire",
+        "aired": "Feb 22, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Beta",
+        "aired": "Mar 1, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Fallen Messiah",
+        "aired": "Mar 8, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Genes of the Original Sin",
+        "aired": "Mar 15, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Proof of Humanity",
+        "aired": "Mar 22, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "A Giant Leap",
+        "aired": "Mar 29, 2021",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 106503,

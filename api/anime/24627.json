@@ -137,7 +137,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Second Coming of the Suzaku Festival: A Hot Springs Training Camp!? Everybody Gather Up!",
+        "aired": "Dec 17, 2014",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Second Coming of the Suzaku Festival: Sing! Dance! Supernatural Studies Club!",
+        "aired": "May 15, 2015",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20740,

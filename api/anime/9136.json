@@ -343,7 +343,50 @@
       }
     ],
     "episodes": 6,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Ciel in Wonderland Part I",
+        "aired": "Oct 27, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Welcome to the Phantomhives",
+        "aired": "Nov 24, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Making of Black Butler II",
+        "aired": "Jan 26, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Ciel in Wonderland Part II",
+        "aired": "Feb 23, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Story of Will the Reaper",
+        "aired": "Apr 27, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Threads of the Spider's Story",
+        "aired": "May 25, 2011",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 9136,

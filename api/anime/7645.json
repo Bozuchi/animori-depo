@@ -143,8 +143,344 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "I Want to Change! I'll Show You That I Can!!",
+        "aired": "Feb 7, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Don't Tell Me I'm History's Weakest Precure??",
+        "aired": "Feb 14, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Second Precure is Full of Energy!",
+        "aired": "Feb 21, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Is the Precure Duo Disbanding so Quickly?",
+        "aired": "Feb 28, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Rejected Ramen! Repairing The Father-Son Bonds!",
+        "aired": "Mar 7, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Scoop! Precure's Covers are Blown!?",
+        "aired": "Mar 14, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The One I Admire, the Student Council President!!",
+        "aired": "Mar 21, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Why is the Charismatic Model sighing?",
+        "aired": "Mar 28, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Father got Scouted! Is This the End for the Flower Shop!?",
+        "aired": "Apr 4, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Biggest Pinch! Dark Precure Has Appeared!",
+        "aired": "Apr 11, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Acho!! Let's Power Up with Kung Fu!!",
+        "aired": "Apr 18, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Heart Throbbing! Operation Proposal!!",
+        "aired": "Apr 25, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "The Truth is Out! Cure Moonlight's Identity!!",
+        "aired": "May 2, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "A Tearful Mother's Day! Protect the Family's Smile!!",
+        "aired": "May 9, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Unbelievable! The Student Council President in Cute Clothes!!",
+        "aired": "May 16, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Erika's the Rival! Written Challenge From the Drama Club!!",
+        "aired": "May 23, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Please Acknowledge Us! Our Precure Spirit!!",
+        "aired": "May 30, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "The Strongest Legend! Pleasure To Meet You, Big Boss!!",
+        "aired": "Jun 6, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "A Tearful Wedding! Father's Day Souvenir Photograph!!",
+        "aired": "Jun 20, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The Third Fairy! Potpourri is a Cute Baby!!",
+        "aired": "Jun 27, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Fairy Adventure! Precure Scout Plan!!",
+        "aired": "Jul 4, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Finally Found Her!! The Third Precure!!",
+        "aired": "Jul 11, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Cure Sunshine is Born!!",
+        "aired": "Jul 18, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Crisis of the Heart Tree! Time to Fly, Precure!!",
+        "aired": "Jul 25, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Let's Go To the Beach! Itsuki's Lighthearted Summer Camp!",
+        "aired": "Aug 1, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Have Courage! It's Wonderful to Be My Friend!!",
+        "aired": "Aug 8, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Who is that Handsome Old Man? Cure Flower's First Love!",
+        "aired": "Aug 15, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Sabaku's Biggest Plan! We Won't Finish Our Summer Homework!!",
+        "aired": "Aug 22, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Summer's Last Legs! My Dress is Finished!!",
+        "aired": "Aug 29, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Potpourri Runs Away! Itsuki is Falling Apart!!",
+        "aired": "Sep 5, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Her Sorrowful True Colours! That was Miss Yuri's Fairy...",
+        "aired": "Sep 12, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Showdown with a Hot Man? That's Not In Our Plans!!",
+        "aired": "Sep 19, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Cure Moonlight is Finally Back!!",
+        "aired": "Sep 26, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Amazing Power! Cure Moonlight!!",
+        "aired": "Oct 3, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Exciting School Fair! Chaotic Fashion Club!!",
+        "aired": "Oct 10, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Everyone is Main Star! Our Stage!!",
+        "aired": "Oct 17, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "We'll Become Strong! The Test is Precure vs. Precure!!",
+        "aired": "Oct 24, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Precure Transforms into Super Silhouette!!",
+        "aired": "Oct 31, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Erika is in a Pinch! The Marine Tact Is Stolen!!",
+        "aired": "Nov 14, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Goodbye Sasorina... A Blossoming Heart Flower, Even in a Desert!!",
+        "aired": "Nov 21, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "The Fairies Transformed!? The Precure Troupe has Begun!!",
+        "aired": "Nov 28, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "A Confused Miss Yuri! We Saw the Love Letter...",
+        "aired": "Dec 5, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "New Family! I've Become an Older Sister!!",
+        "aired": "Dec 12, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "A Christmas Miracle! We Met Cure Flower!!",
+        "aired": "Dec 19, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "It's Too Late... The World Has Turned Into a Desert...",
+        "aired": "Dec 26, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Kumojacky! Cobraja! We'll Never Forget You!!",
+        "aired": "Jan 9, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Please Say It's a Lie! The True Identity of Professor Sabaku!!",
+        "aired": "Jan 16, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "For the Earth! For Our Dreams! The Final Precure Transformation!!",
+        "aired": "Jan 23, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "All Hearts are One! I am The Strongest Precure!!",
+        "aired": "Jan 30, 2011",
         "filler": false,
         "recap": false
       }

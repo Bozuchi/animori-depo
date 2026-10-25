@@ -194,29 +194,183 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Urashima Drive",
+        "aired": "Apr 9, 2008",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Girl",
+        "aired": "Apr 16, 2008",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Re-dive",
+        "aired": "Apr 23, 2008",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Atoll of Desire",
+        "aired": "Apr 30, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Sous Marin",
+        "aired": "May 7, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Love Letter",
+        "aired": "May 14, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Hand in Hand",
+        "aired": "May 21, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "No Friend",
+        "aired": "May 28, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Job",
+        "aired": "Jun 4, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Supreme Speaker",
+        "aired": "Jun 11, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Just Intonations",
+        "aired": "Jun 18, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "A Morning Without Light",
+        "aired": "Jun 25, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Another Sea",
+        "aired": "Jul 2, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Waves and Wind",
+        "aired": "Jul 9, 2008",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 15,
+        "title": "Last Dinner",
+        "aired": "Jul 16, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Clear Power",
+        "aired": "Jul 23, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Home@Home",
+        "aired": "Jul 30, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Green Rebellion",
+        "aired": "Aug 6, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Returning Water Drops",
+        "aired": "Aug 13, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "With These Feet",
+        "aired": "Aug 20, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Eternity",
+        "aired": "Aug 27, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Peaceful Death",
+        "aired": "Sep 3, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Human Commandments",
+        "aired": "Sep 10, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Earth Commandments",
+        "aired": "Sep 17, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Last Dive",
+        "aired": "Sep 24, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Real Drive",
+        "aired": "Oct 1, 2008",
         "filler": false,
         "recap": false
       }

@@ -82,7 +82,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Elizabeth, Queen's Expulsion Day!?",
+        "aired": "Jul 27, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Elizabeth, dedicated to the camp reception",
+        "aired": "Jul 27, 2023",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 154525,

@@ -358,36 +358,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Witch: Planet's Fate",
+        "aired": "Jul 10, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Witch: War Between the Sisters (AKA Alice Explodes)",
+        "aired": "Jul 17, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Witch: Dance Between the Moon, the Planet, and the Sun",
+        "aired": "Jul 24, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Line of Descent: My Name is Elletear",
+        "aired": "Jul 31, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Line of Descent: Three-Sister War (AKA Alice Has Had Enough)",
+        "aired": "May 8, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Line of Descent: Beginning of the End of Paradise",
+        "aired": "May 15, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Last Crusade: Night of the Witch Hunt",
+        "aired": "May 22, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Last Crusade: The Unforgiven",
+        "aired": "May 29, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Last Crusade: Our Last Battle, or the Night the Two of Us Make a Vow",
+        "aired": "Jun 5, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Morning Star: And So the World Begins to Move",
+        "aired": "Jun 12, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Morning Star: Snow and Sun (Snow the Sun)",
+        "aired": "Jun 19, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Morning Star: Welcome with Applause and Cheers",
+        "aired": "Jun 26, 2025",
         "filler": false,
         "recap": false
       }

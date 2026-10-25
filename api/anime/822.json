@@ -90,7 +90,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Beyond Impact Blue...",
+        "aired": "Mar 22, 2001",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Sentimental White",
+        "aired": "Mar 22, 2001",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 822,

@@ -121,16 +121,23 @@
     "episodes": 2,
     "episode_list": [
       {
+        "episode_number": 0,
+        "title": "Fate... Is Really...",
+        "aired": "Jun 8, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "I am also... a Zombie...",
+        "aired": "Nov 9, 2012",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Body of a Zombie... Heart of...",
+        "aired": "Nov 9, 2012",
         "filler": false,
         "recap": false
       }

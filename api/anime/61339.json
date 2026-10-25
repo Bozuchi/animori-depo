@@ -277,57 +277,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Final Exams and a School Sleepover",
+        "aired": "Jul 6, 2025",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Near Shore and the Far Shore",
+        "aired": "Jul 13, 2025",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Reaper's Sacrifice",
+        "aired": "Jul 20, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Sumire",
+        "aired": "Jul 27, 2025",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Aoi and Akane",
+        "aired": "Aug 3, 2025",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Severance",
+        "aired": "Aug 10, 2025",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Encounters",
+        "aired": "Aug 17, 2025",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Red House",
+        "aired": "Aug 24, 2025",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "The Curse",
+        "aired": "Aug 31, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Tsukasa and Amane",
+        "aired": "Sep 7, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "One-way Train to the Far Shore",
+        "aired": "Sep 14, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Wishes",
+        "aired": "Sep 21, 2025",
         "filler": false,
         "recap": false
       }

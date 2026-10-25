@@ -76,7 +76,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Stairway to Heaven",
+        "aired": "Dec 22, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Hell's Kitchen",
+        "aired": "Jun 24, 2015",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 9062,

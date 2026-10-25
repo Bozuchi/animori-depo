@@ -1476,205 +1476,429 @@
     "episodes": 61,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "The Order of Operations / The Vanished Needle",
+        "aired": "Oct 11, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Ant's Legs",
+        "aired": "Oct 18, 2004",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Thieving Dog",
+        "aired": "Jul 17, 2006",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Playing Doctor",
+        "aired": "Nov 1, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Sixth-Magnitude Man",
+        "aired": "Nov 8, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "A Teacher and a Pupil",
+        "aired": "Nov 15, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "White Lion",
+        "aired": "Nov 22, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Miracle Arms",
+        "aired": "Nov 29, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "Drawing Water",
+        "aired": "Dec 6, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Legend of the Phoenix",
+        "aired": "Dec 13, 2004",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Gift from a Killer Whale",
+        "aired": "Jan 17, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "Give My Brother Back To Me!",
+        "aired": "Jan 24, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "A Pirate's Arm",
+        "aired": "Jan 31, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Solomon, Move!",
+        "aired": "Feb 7, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "The Fake Wedding",
+        "aired": "Feb 14, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "Gone Pinoko!",
+        "aired": "Feb 21, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "The Voiceless Idol",
+        "aired": "Feb 28, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "Friendship by Mail",
+        "aired": "Mar 7, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "The Tale of the Kowa Clinic",
+        "aired": "Mar 14, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 20,
-        "title": "20. Bölüm",
-        "aired": null,
+        "title": "Yamanote Tetsu",
+        "aired": "Mar 21, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Hints of Spring",
+        "aired": "Apr 11, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Pinoko's Grown-Up Plans",
+        "aired": "Apr 11, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 23,
-        "title": "23. Bölüm",
-        "aired": null,
+        "title": "Love in the Storm",
+        "aired": "Apr 18, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 24,
-        "title": "24. Bölüm",
-        "aired": null,
+        "title": "A Challenge Called Nadare",
+        "aired": "Apr 25, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 25,
-        "title": "25. Bölüm",
-        "aired": null,
+        "title": "The Cholera Epidemic",
+        "aired": "May 2, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 26,
-        "title": "26. Bölüm",
-        "aired": null,
+        "title": "Abacus Genius",
+        "aired": "May 9, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 27,
-        "title": "27. Bölüm",
-        "aired": null,
+        "title": "Tragedy of a High Technology Room",
+        "aired": "May 16, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 28,
-        "title": "28. Bölüm",
-        "aired": null,
+        "title": "Wilderness Epidemic",
+        "aired": "May 23, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 29,
-        "title": "29. Bölüm",
-        "aired": null,
+        "title": "Arranging the Flower of Life",
+        "aired": "May 30, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 30,
-        "title": "30. Bölüm",
-        "aired": null,
+        "title": "The Operation at the Thunderstorm",
+        "aired": "Jun 6, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 31,
-        "title": "31. Bölüm",
-        "aired": null,
+        "title": "Intimidation in the Twentieth Year",
+        "aired": "May 13, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 32,
-        "title": "32. Bölüm",
-        "aired": null,
+        "title": "The Terror of the Azure Sea",
+        "aired": "Jun 20, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 33,
-        "title": "33. Bölüm",
-        "aired": null,
+        "title": "An Invader from the Sky",
+        "aired": "Jun 27, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Shaky Operating Room",
+        "aired": "Jul 4, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Hijack the Hospital",
+        "aired": "Jul 11, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "The House on the Cape is Incomplete",
+        "aired": "Jul 18, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "The Dolphin and the Pirates",
+        "aired": "Aug 1, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "A Challenge from the Unknown",
+        "aired": "Aug 8, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "The War Continues",
+        "aired": "Aug 15, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "The Mannequin and the Police",
+        "aired": "Aug 22, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "The Miracle of a Movie and of Operation",
+        "aired": "Aug 29, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Life's Wrong Diagnosis",
+        "aired": "Sep 5, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Shrinkage!",
+        "aired": "Sep 12, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Pinoko was Born",
+        "aired": "Oct 10, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "A Classmate who Loves to Laugh",
+        "aired": "Oct 17, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "The Bodyguard at the Festival",
+        "aired": "Oct 24, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "A Violin from a Snowfall",
+        "aired": "Oct 31, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "The Robin and the Boy",
+        "aired": "Nov 7, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "The Voice of a Distorted Face",
+        "aired": "Nov 14, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "The Brothers that were Separated",
+        "aired": "Nov 21, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "The Infamous Acupuncturist",
+        "aired": "Nov 28, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "The Moment of Witness",
+        "aired": "Dec 5, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Locker's Cradle",
+        "aired": "Dec 19, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "The Fortunes And Misfortunes Of The Deceitful Parent And Child",
+        "aired": "Jan 16, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "The Platform Of Life",
+        "aired": "Jan 23, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "The Skin Donor",
+        "aired": "Jan 30, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "Pinoko's Exam Diary",
+        "aired": "Feb 6, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "The Old Man And The Big Tree",
+        "aired": "Feb 13, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "Black Queen",
+        "aired": "Feb 20, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "The Encounter Between The Two With A Past",
+        "aired": "Feb 27, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "The Two Pinokos",
+        "aired": "Mar 6, 2006",
         "filler": false,
         "recap": false
       }

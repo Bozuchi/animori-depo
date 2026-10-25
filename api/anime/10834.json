@@ -349,7 +349,50 @@
       }
     ],
     "episodes": 6,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Beauty and the Beast",
+        "aired": "Sep 21, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Karaoke Mix",
+        "aired": "Oct 26, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Mission Impossible: Baka",
+        "aired": "Nov 25, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Runaway Haduki",
+        "aired": "Dec 21, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Akihisa's Inquisition",
+        "aired": "Jan 25, 2012",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Cherry Blossom Viewing Party",
+        "aired": "Feb 22, 2012",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 10834,

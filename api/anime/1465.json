@@ -81,8 +81,71 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Wanna fight? Bring it on! Enter Sadamitsu",
+        "aired": "Jan 17, 2001",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Blazing battle! Retrieval complete!",
+        "aired": "Jan 24, 2001",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "A new member! Culon runs wild!",
+        "aired": "Jan 31, 2001",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "A blazing man's spirit",
+        "aired": "Feb 7, 2001",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Women are men's death scythe",
+        "aired": "Feb 14, 2001",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "A cherry blossom is a flower of man's confusion",
+        "aired": "Feb 21, 2001",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Man, eat the fist of life",
+        "aired": "Feb 28, 2001",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Man, sharing an umbrella of tears",
+        "aired": "Mar 7, 2001",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Man's love is a love for a struggle to the death",
+        "aired": "Mar 14, 2001",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Man's constellation that sparkles in the sky",
+        "aired": "Mar 21, 2001",
         "filler": false,
         "recap": false
       }

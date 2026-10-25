@@ -128,15 +128,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Moon and the Sun",
+        "aired": "Jul 31, 2019",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Athleticism and Tactics",
+        "aired": "Aug 7, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Past and the Future",
+        "aired": "Aug 14, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Failing and Overcoming",
+        "aired": "Aug 21, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Opposition and Oaths",
+        "aired": "Aug 28, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Cleansing and Conflict",
+        "aired": "Sep 4, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Frenzy and Ambush",
+        "aired": "Sep 11, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Rugby and Chess",
+        "aired": "Sep 18, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Pawns and Teammates",
+        "aired": "Sep 25, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Soran and Sekirei",
+        "aired": "Oct 2, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Confidence and Trust",
+        "aired": "Oct 9, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Younger and Elder",
+        "aired": "Oct 16, 2019",
         "filler": false,
         "recap": false
       }

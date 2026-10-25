@@ -48,7 +48,92 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Kai of Lag Village",
+        "aired": "Apr 12, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Lady Jose",
+        "aired": "Apr 19, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Arbitration God",
+        "aired": "Apr 26, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "A Small Paradise",
+        "aired": "May 3, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Priest and the Inspector",
+        "aired": "May 10, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Rigdaros",
+        "aired": "May 17, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Truthseeker",
+        "aired": "May 24, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "To Ispi Rio",
+        "aired": "May 31, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Power of God",
+        "aired": "Jun 7, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Great God Kanae",
+        "aired": "Jun 14, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Diabo",
+        "aired": "Jun 21, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Protector of Kanae",
+        "aired": "Jun 28, 2025",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 176702,

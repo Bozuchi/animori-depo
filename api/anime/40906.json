@@ -1145,162 +1145,701 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Dai, the Tiny Hero",
+        "aired": "Oct 3, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Dai and Princess Leona",
+        "aired": "Oct 10, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Hero's Tutor",
+        "aired": "Oct 17, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Dark Lord Hadlar's Return",
+        "aired": "Oct 24, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Insignia of Avan",
+        "aired": "Oct 31, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Crocodine, the Beast King",
+        "aired": "Nov 7, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Maam's Turmoil",
+        "aired": "Nov 14, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "FURFANG FULL ASSAULT",
+        "aired": "Nov 21, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "A Single Shard of Courage",
+        "aired": "Nov 28, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Onto Papnica Kingdom",
+        "aired": "Dec 5, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Hyunckel, the Dark Swordsman",
+        "aired": "Dec 12, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "The Collaborative Zapple",
+        "aired": "Dec 19, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "The Deciding Moment",
+        "aired": "Dec 26, 2020",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Blizzblaze General Flazzard",
+        "aired": "Jan 9, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "The Terrifying Curse Field",
+        "aired": "Jan 16, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "The Grand Sorcerer Matoriv",
+        "aired": "Jan 23, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "The Death-Defying Savior",
+        "aired": "Jan 30, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "Hyunckel Versus Hadlar",
+        "aired": "Feb 6, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "The Final Avan Style Technique",
+        "aired": "Feb 13, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 20,
-        "title": "20. Bölüm",
-        "aired": null,
+        "title": "Now I Slice Everything",
+        "aired": "Feb 20, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 21,
-        "title": "21. Bölüm",
-        "aired": null,
+        "title": "Maam's Decision",
+        "aired": "Feb 27, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 22,
-        "title": "22. Bölüm",
-        "aired": null,
+        "title": "Off to the Department Store",
+        "aired": "Mar 6, 2021",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 23,
-        "title": "23. Bölüm",
-        "aired": null,
+        "title": "The Dragon Knight",
+        "aired": "Mar 13, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Dragon Master General Baran",
+        "aired": "Mar 20, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "The Terrifying Draconic Aura",
+        "aired": "Mar 27, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "The Dragon Masters Approach",
+        "aired": "Apr 3, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Land Rider Larhart",
+        "aired": "Apr 10, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Dai's Secret",
+        "aired": "Apr 17, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Baran's Rage",
+        "aired": "Apr 24, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Popp's Resolve",
+        "aired": "May 1, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "A Father and Son Clash",
+        "aired": "May 8, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Farewell to the Father",
+        "aired": "May 15, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Zaboera's Scheme",
+        "aired": "May 22, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "The Romos Martial Arts Tournament",
+        "aired": "May 29, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Incident at the Finals",
+        "aired": "Jun 5, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "The Superior Being Versus Chiu",
+        "aired": "Jun 12, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "All in an Instant",
+        "aired": "Jun 19, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "The World Summit",
+        "aired": "Jul 3, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "The Landing of Sovereign Rock Castle",
+        "aired": "Jul 10, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Master of Darkness Against His Pupil",
+        "aired": "Jul 17, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "The Strongest Sword",
+        "aired": "Jul 24, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "The Field of Death",
+        "aired": "Jul 31, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Clash of Powerful Swords",
+        "aired": "Aug 7, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "The Hero Lost in the Glacier",
+        "aired": "Aug 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "The Orichalcum Warrior",
+        "aired": "Aug 21, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "The Extreme Annihilation Spell, Medroa",
+        "aired": "Aug 28, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "To the Final Battleground",
+        "aired": "Sep 4, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "The Hadlar Royal Guard",
+        "aired": "Sep 11, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "The Team Battle Begins",
+        "aired": "Sep 18, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "We're the Beast King Commandos",
+        "aired": "Sep 25, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "The Avan Style Ultimate Technique",
+        "aired": "Oct 2, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "Father and Son Dragons Set Out",
+        "aired": "Oct 9, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Hadlar's Challenge",
+        "aired": "Oct 16, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "Hadlar Versus Baran",
+        "aired": "Oct 23, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "The Black Core",
+        "aired": "Oct 30, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "The Inherited Heart",
+        "aired": "Nov 6, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "The God of the Underworld",
+        "aired": "Nov 13, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "The Unlikely Savior",
+        "aired": "Nov 20, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "The Survivors",
+        "aired": "Nov 27, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "Dai and Popp",
+        "aired": "Dec 4, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "Avan, the Hero",
+        "aired": "Dec 11, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 62,
+        "title": "The Cave of Trials",
+        "aired": "Dec 18, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 63,
+        "title": "The Sacred Inheritance",
+        "aired": "Dec 25, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 64,
+        "title": "The Night Before the Battle",
+        "aired": "Jan 8, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 65,
+        "title": "The Dark Hyunckel",
+        "aired": "Jan 15, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 66,
+        "title": "The Five Colors of Light",
+        "aired": "Jan 22, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 67,
+        "title": "The Peril of the Great Purification Spell",
+        "aired": "Jan 29, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 68,
+        "title": "The Last Challenge",
+        "aired": "Feb 5, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 69,
+        "title": "The Clash of Love",
+        "aired": "Feb 12, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 70,
+        "title": "Victory or Annihilation",
+        "aired": "Feb 19, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 71,
+        "title": "Battle of True Dragons",
+        "aired": "Feb 26, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 72,
+        "title": "The Last Attack",
+        "aired": "Mar 5, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 73,
+        "title": "The Hope in the Flames",
+        "aired": "Apr 16, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 74,
+        "title": "Return of the Great Hero",
+        "aired": "Apr 23, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 75,
+        "title": "The Secret Way of Purification",
+        "aired": "Apr 30, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 76,
+        "title": "The Steady Advance of Justice",
+        "aired": "May 7, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 77,
+        "title": "The Other Hero",
+        "aired": "May 14, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 78,
+        "title": "The Survivor from Hell",
+        "aired": "May 21, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 79,
+        "title": "The Silver-Haired Hym",
+        "aired": "May 28, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 80,
+        "title": "Checkmate",
+        "aired": "Jun 4, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 81,
+        "title": "The Battle in the White Garden",
+        "aired": "Jun 11, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 82,
+        "title": "The Successor of Justice",
+        "aired": "Jun 18, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 83,
+        "title": "Baran's Last Will",
+        "aired": "Jun 25, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 84,
+        "title": "Stand Up, The Fate of Knight",
+        "aired": "Jul 2, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 85,
+        "title": "VEARN, THE DARK KING",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 86,
+        "title": "KILLVEARN'S TRAP",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 87,
+        "title": "THE DECIDING ATTACK",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 88,
+        "title": "THE SHADOW RAIMENT",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 89,
+        "title": "The Secret Method of Freezing Time",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 90,
+        "title": "MYST AND KILL",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 91,
+        "title": "VEARN'S TRUTH",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 92,
+        "title": "THE DEMONIC GUARD OF HEAVEN AND EARTH",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 93,
+        "title": "THE EYE JEWEL",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 94,
+        "title": "ON THIS BOND",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 95,
+        "title": "THE GREATEST, FINAL COMEBACK",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 96,
+        "title": "LIKE A BRIGHT FLASH",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 97,
+        "title": "THE TEAR OF THE GODS",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 98,
+        "title": "DAI'S DECISION",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 99,
+        "title": "VICTORY BY THESE HANDS",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 100,
+        "title": "FAREWELL, THIS WORLD THAT I LOVE",
+        "aired": "N/A",
         "filler": false,
         "recap": false
       }

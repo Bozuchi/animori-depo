@@ -100,8 +100,15 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "If There's Something Worth Dying For",
+        "aired": "Nov 28, 2021",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 2,
+        "title": "At Least as a Human",
+        "aired": "Mar 5, 2022",
         "filler": false,
         "recap": true
       }

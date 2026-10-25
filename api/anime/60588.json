@@ -279,7 +279,15 @@
     ],
     "relations": [],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 12,
+        "title": "We Didn't Even Have Time to Say Goodbye",
+        "aired": "Jul 3, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 206145,

@@ -324,36 +324,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Girl Named Asanagi Umi",
+        "aired": "Apr 7, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Asanagi Umi and Amami Yuu",
+        "aired": "Apr 14, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Second Prettiest Girl in Class",
+        "aired": "Apr 21, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Two and Their School Festival",
+        "aired": "Apr 28, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "From Now On, and Then On",
+        "aired": "May 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "December with Friends",
+        "aired": "May 12, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "First Date with a Friend",
+        "aired": "May 19, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Family Sights",
+        "aired": "May 26, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Family Sights: Part Two",
+        "aired": "Jun 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "One Last Tantrum",
+        "aired": "Jun 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "New Year's as Lovers",
+        "aired": "Jun 16, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "To a New Season",
+        "aired": "Jun 23, 2026",
         "filler": false,
         "recap": false
       }

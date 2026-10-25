@@ -184,22 +184,22 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Happening One: Ongo",
+        "aired": "Mar 26, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Happening Two: Rongo",
+        "aired": "May 21, 1997",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Happening Three: Mii",
+        "aired": "Sep 26, 1997",
         "filler": false,
         "recap": false
       }

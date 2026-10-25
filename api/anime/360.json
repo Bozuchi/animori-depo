@@ -47,7 +47,92 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Bokka: The Sacred Fire",
+        "aired": "Jan 7, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Fountain of Darkness",
+        "aired": "Jan 14, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Jaki the Night Chasers",
+        "aired": "Jan 21, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Hideaway Village",
+        "aired": "Feb 4, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Heavenly Spirit",
+        "aired": "Feb 11, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Pendant",
+        "aired": "Feb 18, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Seiseito Metropolis",
+        "aired": "Feb 25, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Albatross",
+        "aired": "Mar 4, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Burning Fortress",
+        "aired": "Mar 11, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Guardians of Fire",
+        "aired": "Mar 18, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Biwa Island",
+        "aired": "Mar 25, 1999",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Seven-Bladed Sword",
+        "aired": "Apr 1, 1999",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 360,

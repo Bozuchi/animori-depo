@@ -337,57 +337,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "How the World Works",
+        "aired": "Jul 2, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Ultimate Idiot",
+        "aired": "Jul 9, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Demon and Human Coexistence",
+        "aired": "Jul 16, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "I Have Questions for You",
+        "aired": "Jul 16, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Assigned Roles",
+        "aired": "Jul 23, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "Her Highness's Thinking",
+        "aired": "Jul 30, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "You're Changed by the People You Meet",
+        "aired": "Aug 6, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Incompatible",
+        "aired": "Aug 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Hope Like Never Before",
+        "aired": "Aug 27, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "I'll Destroy It",
+        "aired": "Aug 27, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The King's Authority Is Absolute",
+        "aired": "Sep 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Damned Ideas of Common Sense",
+        "aired": "Sep 10, 2026",
         "filler": false,
         "recap": false
       }

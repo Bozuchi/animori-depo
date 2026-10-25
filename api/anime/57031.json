@@ -89,8 +89,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Pretty Boy Gets Picked Up.",
+        "aired": "Apr 7, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Pretty Boy Is Targeted.",
+        "aired": "Apr 14, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Pretty Boy Stays Over.",
+        "aired": "Apr 21, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Pretty Boy Becomes Friends.",
+        "aired": "Apr 28, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Pretty Boy Runs Away from Home.",
+        "aired": "May 5, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Pretty Boy Is Heartbroken?!",
+        "aired": "May 12, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Pretty Boy Goes on a Date.",
+        "aired": "May 19, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Pretty Boy Has a Fateful Encounter.",
+        "aired": "May 26, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Pretty Boy Goes to a Party.",
+        "aired": "Jun 2, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Pretty Boy Transforms.",
+        "aired": "Jun 9, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Pretty Boy Drowns.",
+        "aired": "Jun 16, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Pretty Boy Vows?!",
+        "aired": "Jun 23, 2024",
         "filler": false,
         "recap": false
       }

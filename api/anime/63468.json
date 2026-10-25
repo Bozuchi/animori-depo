@@ -54,7 +54,57 @@
       }
     ],
     "episodes": 12,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Mary-san / Teke Teke",
+        "aired": "Jul 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Kokkuri-san",
+        "aired": "Jul 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Noroi no Ningyou/ Sukima Onna",
+        "aired": "Jul 18, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Slit-Mouthed Woman / Rokurokubi",
+        "aired": "Jul 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Bakeneko",
+        "aired": "Aug 1, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Ghost of the Mountain Pass / Jet Granny",
+        "aired": "Aug 8, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Hanako-san of the Toilet",
+        "aired": "Aug 15, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 207674,

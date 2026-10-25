@@ -107,8 +107,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "We Meet Yet Again",
+        "aired": "Jan 10, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "I Ain't Dumb",
+        "aired": "Jan 17, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "This Ain't Trainin'",
+        "aired": "Jan 24, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "I Ain't Alone",
+        "aired": "Jan 31, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "I Ain't a Nagoyer",
+        "aired": "Feb 7, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "You Ain't My Kind",
+        "aired": "Feb 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "It Ain't Enough",
+        "aired": "Feb 21, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "We Ain't a Couple",
+        "aired": "Feb 28, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "It Just Ain't Gonna Happen",
+        "aired": "Mar 7, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "I Can't Make It",
+        "aired": "Mar 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "I Ain't Gonna Last",
+        "aired": "Mar 21, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Let's All Get Along",
+        "aired": "Mar 28, 2021",
         "filler": false,
         "recap": false
       }

@@ -908,127 +908,183 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Genius Who Descended Into the Darkness",
+        "aired": "Oct 5, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Awakening of Talent",
+        "aired": "Oct 12, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Sinister Scheme",
+        "aired": "Oct 19, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "A True Outlaw",
+        "aired": "Oct 26, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The Treacherous Tse Ii Men",
+        "aired": "Nov 2, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Picaro's Talent",
+        "aired": "Nov 9, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "An Innocent Devil",
+        "aired": "Nov 16, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Sign of Rebirth",
+        "aired": "Nov 23, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "The Authenticity of Genius",
+        "aired": "Nov 30, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "The Announcement of the Counterattack",
+        "aired": "Dec 7, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "The Foundation for Despair",
+        "aired": "Dec 14, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "The Magic of Coincidence",
+        "aired": "Dec 21, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "The Path of the Storm",
+        "aired": "Jan 4, 2006",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "A New Chapter of the Rakshasa",
+        "aired": "Jan 4, 2006",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "The Witching Hour",
+        "aired": "Jan 11, 2006",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "The Mahjong Game of Destruction",
+        "aired": "Jan 18, 2006",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "The Proof of Genius",
+        "aired": "Jan 25, 2006",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "The Cursed Tiles",
+        "aired": "Feb 1, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "The Confusion of the Demon",
+        "aired": "Feb 8, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Hope and Folly",
+        "aired": "Feb 15, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "A Ray of Illusion",
+        "aired": "Feb 22, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "The Shackles of Artifice",
+        "aired": "Mar 1, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "The Power of Brute Luck",
+        "aired": "Mar 8, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "The Will of the Demons",
+        "aired": "Mar 15, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "The Temptation of Murderous Intent",
+        "aired": "Mar 22, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Madness and Darkness and...",
+        "aired": "Mar 29, 2006",
         "filler": false,
         "recap": false
       }

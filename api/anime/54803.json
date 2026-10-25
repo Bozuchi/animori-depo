@@ -92,8 +92,274 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "A New Challenge",
+        "aired": "Oct 1, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Greetings to an Old Rival",
+        "aired": "Oct 8, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Professional Warrior",
+        "aired": "Oct 15, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Starting Again from Zero",
+        "aired": "Oct 22, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Another Heavy Hitter",
+        "aired": "Oct 29, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Action! Japan Junior Youth!",
+        "aired": "Nov 5, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Converge on Paris!!",
+        "aired": "Nov 12, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "I'm Tarou Misaki",
+        "aired": "Nov 19, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "A Great Journey",
+        "aired": "Nov 26, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "They've Returned! The Golden Duo!!",
+        "aired": "Dec 3, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Fierce Tiger Awakens",
+        "aired": "Dec 10, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Destined for Victory",
+        "aired": "Dec 17, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "A Pledge in the Starry Sky",
+        "aired": "Dec 24, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Never Give Up",
+        "aired": "Jan 7, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Japan Junior Youth Strikes Back",
+        "aired": "Jan 14, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "A Battle of Ups and Downs",
+        "aired": "Jan 21, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "The Young Noble of the Field Returns!!",
+        "aired": "Jan 28, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "The Top Four Assemble!",
+        "aired": "Feb 4, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "The Ball of Fire Revealed",
+        "aired": "Feb 11, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The Battle Begins!! Japan vs. France",
+        "aired": "Feb 18, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "10 vs. 11",
+        "aired": "Feb 25, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "The Elegant Beast Attacks",
+        "aired": "Mar 3, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Masaki vs. Pierre",
+        "aired": "Mar 10, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Overtime in the Rain",
+        "aired": "Mar 17, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "A Wounded Final Defense",
+        "aired": "Mar 24, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "The Miracle Fist",
+        "aired": "Mar 31, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "The Lions of the Final",
+        "aired": "Apr 7, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "A Shooting Storm",
+        "aired": "Apr 14, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Schneider vs. Wakabayashi",
+        "aired": "Apr 21, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "A Blazing First Point",
+        "aired": "Apr 28, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "The Most Powerful Shot in History",
+        "aired": "May 5, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "A Hat in Tatters",
+        "aired": "May 12, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Respond to the Message!",
+        "aired": "May 19, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "A Glimpse at Global Greatness!?",
+        "aired": "May 26, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "It's Done!",
+        "aired": "Jun 2, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "A Promise to the Heavens",
+        "aired": "Jun 9, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Confession!",
+        "aired": "Jun 16, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "To a New Era!",
+        "aired": "Jun 23, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Tsubasa Takes Off",
+        "aired": "Jun 30, 2024",
         "filler": false,
         "recap": false
       }

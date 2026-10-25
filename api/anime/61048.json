@@ -365,64 +365,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "The Cat and the Dragon",
+        "aired": "Jul 4, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "The Mother Cat and the Girl",
+        "aired": "Jul 11, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Kittens and the Winged Uncle",
+        "aired": "Jul 18, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "The Black Cat and the Prince",
+        "aired": "Jul 25, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "The White Cat and the Girl",
+        "aired": "Aug 1, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "The Evening of Foxtails",
+        "aired": "Aug 8, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "The Return of the Mother Cat",
+        "aired": "Aug 15, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "Life in the Castle Town | The Black Cat and the Adventurous Prince",
+        "aired": "Aug 22, 2026",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "The White Cat and the Lazy Girl",
+        "aired": "Aug 29, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Demon and the Dragon and Mother's Day",
+        "aired": "Sep 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Final Resting Place",
+        "aired": "Sep 12, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Cat and the Royal Capital Festival",
+        "aired": "Sep 19, 2026",
         "filler": false,
         "recap": false
       }

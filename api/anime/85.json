@@ -1236,148 +1236,351 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Black Gundam",
+        "aired": "Mar 2, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Departure",
+        "aired": "Mar 9, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Inside the Capsule",
+        "aired": "Mar 16, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Emma's Decision",
+        "aired": "Mar 23, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 5,
-        "title": "5. Bölüm",
-        "aired": null,
+        "title": "Father, Son and...",
+        "aired": "Mar 30, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 6,
-        "title": "6. Bölüm",
-        "aired": null,
+        "title": "To Earth",
+        "aired": "Apr 6, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 7,
-        "title": "7. Bölüm",
-        "aired": null,
+        "title": "Escape from Side One",
+        "aired": "Apr 13, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 8,
-        "title": "8. Bölüm",
-        "aired": null,
+        "title": "The Dark Side of the Moon",
+        "aired": "Apr 20, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 9,
-        "title": "9. Bölüm",
-        "aired": null,
+        "title": "A New Bond",
+        "aired": "Apr 27, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 10,
-        "title": "10. Bölüm",
-        "aired": null,
+        "title": "Reunion",
+        "aired": "May 4, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 11,
-        "title": "11. Bölüm",
-        "aired": null,
+        "title": "Entering the Atmosphere",
+        "aired": "May 11, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 12,
-        "title": "12. Bölüm",
-        "aired": null,
+        "title": "The Winds of Jaburo",
+        "aired": "May 25, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 13,
-        "title": "13. Bölüm",
-        "aired": null,
+        "title": "Shuttle Launch",
+        "aired": "Jun 1, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 14,
-        "title": "14. Bölüm",
-        "aired": null,
+        "title": "Amuro Flies Again",
+        "aired": "Jun 8, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 15,
-        "title": "15. Bölüm",
-        "aired": null,
+        "title": "Katz's Sortie",
+        "aired": "Jun 15, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 16,
-        "title": "16. Bölüm",
-        "aired": null,
+        "title": "Through the Haze of Darkness",
+        "aired": "Jun 22, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 17,
-        "title": "17. Bölüm",
-        "aired": null,
+        "title": "Hong Kong City",
+        "aired": "Jun 29, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 18,
-        "title": "18. Bölüm",
-        "aired": null,
+        "title": "Captive Mirai",
+        "aired": "Jul 6, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 19,
-        "title": "19. Bölüm",
-        "aired": null,
+        "title": "Cinderalla Four",
+        "aired": "Jul 13, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 20,
-        "title": "20. Bölüm",
-        "aired": null,
+        "title": "A Fiery Escape",
+        "aired": "Jul 20, 1985",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 21,
-        "title": "21. Bölüm",
-        "aired": null,
+        "title": "Zeta's Heartbeat",
+        "aired": "Jul 27, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Scirocco's Vision",
+        "aired": "Aug 3, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Moon Attack",
+        "aired": "Aug 10, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Counterattack",
+        "aired": "Aug 17, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "The Day Of The Colony Drop",
+        "aired": "Aug 24, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "The Spirit Of Zeon",
+        "aired": "Aug 31, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Char's Return",
+        "aired": "Sep 7, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Jupitris Infiltration",
+        "aired": "Sep 14, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Side 2 Crisis",
+        "aired": "Sep 21, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Jerid's Suicide Attack",
+        "aired": "Sep 28, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Half-Moon Love",
+        "aired": "Oct 5, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "The Mysterious Mobile Suits",
+        "aired": "Oct 12, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "The Messenger From Axis",
+        "aired": "Oct 19, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Call From Space",
+        "aired": "Oct 26, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "The Storm Over Kilimanjaro",
+        "aired": "Nov 2, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Four To Infinity",
+        "aired": "Nov 9, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Dakar's Day",
+        "aired": "Nov 16, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Reccoa's Sign",
+        "aired": "Nov 23, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Lakeside",
+        "aired": "Nov 30, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Gryps' Debut",
+        "aired": "Dec 7, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "The Awakening",
+        "aired": "Dec 14, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Goodbye Rosamia",
+        "aired": "Dec 21, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Haman's Sneer",
+        "aired": "Dec 28, 1985",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "The Gate Of Zedan",
+        "aired": "Jan 11, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Celestial Body",
+        "aired": "Jan 18, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Scirocco Steps Forward",
+        "aired": "Jan 25, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Universal Maelstrom",
+        "aired": "Feb 1, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "From Rosamia's Heart",
+        "aired": "Feb 8, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Scattered Souls",
+        "aired": "Feb 15, 1986",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "Run Through The Cosmos",
+        "aired": "Feb 22, 1986",
         "filler": false,
         "recap": false
       }

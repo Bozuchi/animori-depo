@@ -92,7 +92,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "We Tried Celebrating With Everyone",
+        "aired": "Mar 23, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "We Tried Making a PV",
+        "aired": "Jun 22, 2016",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21442,

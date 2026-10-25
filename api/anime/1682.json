@@ -143,29 +143,29 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "First Contact",
+        "aired": "Nov 10, 2006",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Again",
+        "aired": "Dec 8, 2006",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "Truth",
+        "aired": "Feb 9, 2007",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Rebuilt",
+        "aired": "Apr 4, 2007",
         "filler": false,
         "recap": false
       }

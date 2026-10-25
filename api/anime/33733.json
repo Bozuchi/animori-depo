@@ -217,16 +217,107 @@
     "episodes": 26,
     "episode_list": [
       {
+        "episode_number": 1,
+        "title": "Setting Sail for Tomorrow",
+        "aired": "Apr 6, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Devil of the Field",
+        "aired": "Apr 6, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Mysterious Mister Yi",
+        "aired": "Apr 20, 2018",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 4,
-        "title": "4. Bölüm",
-        "aired": null,
+        "title": "Breakdown Their Walls! The Impenetrable Fortress",
+        "aired": "Apr 27, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Darkness of Polestar Academy",
+        "aired": "May 4, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Flame Striker",
+        "aired": "May 11, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "A Day Without Mister Yi",
+        "aired": "May 25, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Ray Dark's Ingenious Scheme",
+        "aired": "Jun 1, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Emperor Penguin VS Polar Bear",
+        "aired": "Jun 8, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Night Before the Finals, Sonny's Resolve",
+        "aired": "Jun 15, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Elliot Ember on Fire",
+        "aired": "Jun 22, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "The Final Stages of the Storm!",
+        "aired": "Jun 29, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "The Moonlight Emperor",
+        "aired": "Jul 6, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "The Emperor's Anguish",
+        "aired": "Jul 13, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Dash to the Top",
+        "aired": "Sep 28, 2018",
         "filler": false,
         "recap": false
       }

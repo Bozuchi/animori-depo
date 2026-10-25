@@ -459,7 +459,78 @@
       }
     ],
     "episodes": 10,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Goodbye",
+        "aired": "Jan 27, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Dai Bo & Seven",
+        "aired": "Jan 27, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Excuse me, is this the Xuanwu Country?",
+        "aired": "Feb 3, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Tenderness of a Tough Man",
+        "aired": "Feb 10, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Rock Hard Country",
+        "aired": "Feb 17, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Superpower Country",
+        "aired": "Apr 7, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Sneaking into Xuanwu Country",
+        "aired": "Apr 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Master Green Phoenix's Scheme",
+        "aired": "Apr 21, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Memories that You Don't Want to Forget Even in Pain",
+        "aired": "Apr 28, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Who Is the One You Want to Protect",
+        "aired": "May 5, 2021",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 127595,

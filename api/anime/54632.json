@@ -182,22 +182,85 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Atonement",
+        "aired": "Jan 10, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "A Gamble",
+        "aired": "Jan 17, 2024",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 3,
-        "title": "3. Bölüm",
-        "aired": null,
+        "title": "The Lady Saint",
+        "aired": "Jan 24, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Which Way the Wind Blows",
+        "aired": "Jan 31, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Ordeal",
+        "aired": "Feb 7, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Daylight Fantasies, Nighttime Dreams",
+        "aired": "Feb 14, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Reminiscence",
+        "aired": "Feb 21, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Old Days",
+        "aired": "Feb 28, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "After the Storm",
+        "aired": "Mar 6, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "For a Brief While",
+        "aired": "Mar 13, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "A Wish",
+        "aired": "Mar 20, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "A Path",
+        "aired": "Mar 27, 2024",
         "filler": false,
         "recap": false
       }
