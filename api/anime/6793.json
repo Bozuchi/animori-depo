@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kuroshitsuji Animesinin Special Bölümüdür.",
-    "slug": "kuroshitsuji-sono-shitsuji-kougyou"
+    "slug": "kuroshitsuji-sono-shitsuji-kougyou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 6793,
@@ -48,54 +49,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 6793,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6793-WJHPwa0ofanb.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kuroshitsuji OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1K3iYUfEZ3upTieyMMYJn3OxX1oqklelE/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851551"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7852876293715526553"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1751017"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439852"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3a785ntdlbut.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T07:08:35.631702",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

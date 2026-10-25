@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Üç Kizumonogatari filminin derleme filmi.",
-    "slug": "kizumonogatari-koyomi-vamp"
+    "slug": "kizumonogatari-koyomi-vamp",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 56609,
@@ -56,36 +57,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 181970,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181970-T02XjDjycYZb.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181970-dqNqPsJcBk5I.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kizumonogatari: Koyomi Vamp Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 175,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zoK-ZcWDS52P49tNLht32-EoJea8rfN-/preview"
-        },
-        {
-          "fansub_id": 175,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/5flww6ag3gbh"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:12:40.292565",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1189199,
     "type": "movie",

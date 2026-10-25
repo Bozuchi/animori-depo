@@ -4,7 +4,8 @@
     "puan": "9.28",
     "bolum_durumu": "1/1",
     "ozet": "Impel Down'dan 20 yıllık kaçışından sonra efsanevi korsan \"Altın Aslan\" Shiki, Deniz Kuvvetleri'ne büyük bir kargaşa çıkararak yeniden ortaya çıkar. Uzun süreli inziva süresince, Dünya Hükümetine diz çöktürecek büyük bir plan kurmayı başarmıştır. Planını kendi yöntemleriyle hayata geçirirken, Shiki'nin yolu Hasır Şapka Korsanları'yla kesişir ve Nami'nin meteoroloji bilgisinden çok etkilenir. Bu yüzden onu kaçırarak kendi mürettebatının bir üyesi olmaya zorlar. Luffy ve çetesi çaresizce Shiki ve Nami'yi ararken, kendilerini canavarımsı yaratıkların yaşadığı garip bir yerde bulurlar.",
-    "slug": "one-piece-film-strong-world"
+    "slug": "one-piece-film-strong-world",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4155,
@@ -53,51 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4155,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4155-2PkLjTHddz2s.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4155-P5TDf6t6qFwX.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "One Piece Film: Strong World",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FM6kYxZLZ65L1-FyuFF30-L2w9duJhII/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XCrzMSP-RWonk99AEGX_Er0RnI7WseMc/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/wy583w20"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-j0zp8nf2je0v.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wbxj69e02u13.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T20:54:46.787367",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 41498,
     "type": "movie",

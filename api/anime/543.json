@@ -4,7 +4,8 @@
     "puan": "7.47",
     "bolum_durumu": "1/1",
     "ozet": "Vampirlerin ve iblislerin yer yüzünde gezdiği, karanlık bir dünyada vampir bir babanın ve ölümlü bir annenin oğlu olan bir dampir, D kanını taşıdığı her iki ırkın korkusunu kazanmış bir vampir avcısıdır. Vampirlerin sahip olduğu zafiyetlere yalnızca belirli bir oranda sahip olan D, insanlar arasında yaşamaya çalışsa da toplumlarına kabul edilmemektedir.\n\nYer yüzünde kalan son vampirlerden Meier Link, Charlotte Elbourne'u kaçırır. Charlotte'un babası D'yi kızını geri getirmesi için kiralar ve eğer vampire dönüşmüşse insancıl bir şekilde öldürmesini ister. Charlotte'un abisi de kardeşini geri getirmeleri için Marcus Kardeşleri kiralamıştır. D ve Marcus Kardeşler Link'e ulaşmak için hem birbirleri ile hem de zamana karşı yarışacaktır.\n\nVampire Hunter D: Bloodlust, Hideyuki Kikuchi'nin \"Demon Deathchase\" isimli üçüncü Vampire Hunter D romanından uyarlanmıştır.",
-    "slug": "vampire-hunter-d-2000"
+    "slug": "vampire-hunter-d-2000",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 543,
@@ -58,71 +59,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 543,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/543-jQdmjf48M0Lf.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx543-MAeWIDl4TwuG.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Vampire Hunter D: Bloodlust",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 63,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iXMDiqUyTFCgGMZjeydbXVSkq9PrY2FB/preview"
-        },
-        {
-          "fansub_id": 63,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5081244996078666514"
-        },
-        {
-          "fansub_id": 63,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/gzdkg9vv"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RLpltaQQlSLrA7HWXtipYwmZj_GQJu96/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/295.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985853503"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2567547"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4446790"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nwklaytrvjoa.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:03:12.121192",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 15999,
     "type": "movie",

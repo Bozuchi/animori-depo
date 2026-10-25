@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yıl 2023 ve Yabancı Varlıklar Lucifer Hawks olarak bilinen varlıklar başka bir boyutta bulunan bir yeryüzüne saldırıda bulunur. Attacked Mystification Police Department adıyla mükemmel paranormal kabiliyetlere sahip olan kadınlar Tokyo Polis bölümünde bu yeri kurar. Katsumi ve AMP onları yok etmede başarılı olabilecekler midir?\n\nTV serisinden bağımsız movielerdir.",
-    "slug": "silent-mobius-the-motion-picture"
+    "slug": "silent-mobius-the-motion-picture",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2099,
@@ -57,25 +58,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2099,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2099-ZL7hFlzYp0HH.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2099-Yrx7o7wUJqnO.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Silent Mobius Movie: The Motion Picture",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:46:44.692730",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 46338,
     "type": "tv",

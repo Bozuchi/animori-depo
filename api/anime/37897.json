@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Artık dünya ülkelerinin bir araya gelerek büyük zorluklar ile kurmuş olduğu ittifak zayıflamış ve bozulmak üzeredir. Bu ittifakın son bulacağını düşünmekte olan Haruo’nun bu ittifakın bozulması ile Exif ile birlikte olup dünyaya yok edebilecek yeni bir canavar çağırması an meselesidir. İttifak halindekiler bu durumun farkında oldukları için ellerinden gelenden fazlasını yapmak zorunda kalacaktır.",
-    "slug": "godzilla-3-hoshi-wo-kuu-mono"
+    "slug": "godzilla-3-hoshi-wo-kuu-mono",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37897,
@@ -45,39 +46,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 102353,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102353-ErCzIPQ3XwuW.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102353-CDQ0v6R8dgJ8.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Godzilla 3: Hoshi wo Kuu Mono Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zDyOaj5BGbBiB2kdh4TVzggHxGzRbFwc/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140719107"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271191407"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:12:32.272402",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

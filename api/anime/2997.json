@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Çok popüler bir başyapıt olan Phoenix'in animasyon versiyonudur. Karakterler orijinal mangaya göre oldukça farklı çizilmiştir ve bu animasyonun yapım aşamasında birtakım tartışmalara yol açmıştır. Ancak, Rintaro'nun çok kaliteli yönetmenliği bu işi güvenilir kılmıştır. \nHikaye iki karakteri anlatmaktadır: Hayattaki tek amaçları heykel yapmak olan dahi heykeltıraş Akanemaru ve eski bir hırsız olan Gao. Hikayede ikisinin kapasitelerini ve yeteneklerini zorlayarak birbirleriyle rekabet etmek için nasıl kaderle mücadele ettikleri anlatılmaktadır.",
-    "slug": "hi-no-tori-houou-hen"
+    "slug": "hi-no-tori-houou-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2997,
@@ -67,61 +68,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2997,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2997-kgY0qrUIcpBU.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hi no Tori: Houou-hen",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Di6eMg-Hh6nSuHFOnF1zgAjh8OOcYkOb/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845660"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658668"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4064058"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4454780"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jjcxx0eqifju.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/uemv04wr"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:03:02.303362",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 23674,
     "type": "tv",

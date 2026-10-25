@@ -4,7 +4,56 @@
     "puan": "8.76",
     "bolum_durumu": "1/1",
     "ozet": "Bu yapacağım son deneme olacak…​\n\nNatsuki Enomoto, Sakuragaoka Lisesinde 3. Sınıf, çocukluk arkadaşı, Yuu Setoguchi'ye karşı karşılıksız bir aşkı var.​\n\nKendi hislerine karşı dürüst olamıyor, Natsuki Yuu'ya hislerini açıklama için çalışma yapacağını söylüyor.​\n\nNatsuki Yuu'ya karşı hisleri yokmuş gibi devam ederken, sınıf arkadaşı Koyuki Ayase onu randevuya çağırır.​\n\nNatsuki \"çalışmayı bırakıp sonunda Yuu'ya hislerini söyleyebilecek mi?",
-    "slug": "zutto-mae-kara-suki-deshita-kokuhaku-jikkou-iinkai"
+    "slug": "zutto-mae-kara-suki-deshita-kokuhaku-jikkou-iinkai",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/469.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1283"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/i3a87mpj"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7thyllfan5vd.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685360710"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1284"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2708596"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4000141"
+          }
+        ],
+        "added_date": "2026-07-30T21:25:25.776725"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31245,
@@ -64,66 +113,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21296,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21296-1tLF48awXvQw.png",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21296-WtdIXdg64GCK.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/469.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1283"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/i3a87mpj"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7thyllfan5vd.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685360710"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1284"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2708596"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4000141"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T21:25:25.776725",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 374853,
     "type": "movie",

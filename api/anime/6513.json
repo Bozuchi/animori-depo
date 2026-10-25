@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Uzay ve müzik ile ilgili olan 18 dakikalık çok güzel eğlenceli bir anime. İyi seyirler.",
-    "slug": "ravex-in-tezuka-world"
+    "slug": "ravex-in-tezuka-world",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 6513,
@@ -42,56 +43,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 6513,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6513.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ravex in Tezuka World",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1cBpiUMjHEXiTZunhTUnq6eTssDMSCfo9/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CMoIKyHvfxT_wJ4CQRs4t-7WrOtAzWoS/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931910072"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660735"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qdffjbr7df2v.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cdsc9g0heujb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:49:42.083019",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 400161,
     "type": "movie",

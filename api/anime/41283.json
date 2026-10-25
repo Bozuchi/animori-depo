@@ -4,7 +4,31 @@
     "puan": "0.00",
     "bolum_durumu": "1/25",
     "ozet": "Vanguard'ın Büyülü Kızları? Çarpık dünyayı eski haline döndürmek için Tatsunagi Nome, Kouiji Ibuki'yi zamanda geleceğe gönderir. Orada aynı amaçlara sahip iki kız, Sendou Emi ve Shuka ile tanışır böylece bu üçlü gelecekteki dünyada bir takım kötülük yapan insanlar topluluğu Doppelgangerler ile karşılaşırlar.",
-    "slug": "cardfight-vanguard-gaiden-if"
+    "slug": "cardfight-vanguard-gaiden-if",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Cardfight!! Vanguard Gaiden: If 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1A44RvmEoItSaqHyFlMdCtgd5Oy_o0SOp/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1268"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3967973"
+          }
+        ],
+        "added_date": "2026-07-23T08:10:47.082359"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 41283,
@@ -48,41 +72,22 @@
         ]
       }
     ],
-    "episodes": 25
+    "episodes": 25,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 115656,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115656-tNhjPXB3FYfa.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115656-Dt4eRb2enm3p.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Cardfight!! Vanguard Gaiden: If 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1A44RvmEoItSaqHyFlMdCtgd5Oy_o0SOp/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1268"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3967973"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T08:10:47.082359",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 101562,
     "type": "tv",

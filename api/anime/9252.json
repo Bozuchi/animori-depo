@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Break Blade animesinin 3. filmidir.",
-    "slug": "break-blade-3-kyoujin-no-ato"
+    "slug": "break-blade-3-kyoujin-no-ato",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9252,
@@ -68,59 +69,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9252,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9252-DaJ0C9Bwucr9.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Break Blade 3: Kyoujin no Ato Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GBcWyUL4Ys6TEX6lThgnlgRaArGwXD23/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/keshinn62/_myvideo/16.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2585711"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4114448"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4517721"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1140805"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-31xuk3onzvyg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:01:18.982416",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

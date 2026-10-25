@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Genç dedektif Sonia Summers, üstleriyle başını belaya sokan liman kenti Terazi'nin eteklerine transfer edildi. Terazi, zenginliğin ve politikanın merkezi olan \"Üst\" ve \"Dış\" olmak üzere iki sektöre ayrılmıştır. The Outside, canavarlıkları veya youkai'yi içeren suç, yolsuzluk ve ilginç olaylara ev sahipliği yapıyor. Sonia'nın üzerinde çalıştığı her vaka, bu gizemli yaratıkların dahil olduğunu ima ediyor gibi görünüyor.\n\nSonia, insanları korumak ve onları terörize eden kötü youkailere karşı savaşmak isteyen üç tuhaf insansı youkai (Bem, Bela ve Belo) ile yolları kesişir. \"Youkai-Ningen\" olarak yaşarken, insan benzeri yaşam tarzları nedeniyle diğer youkailer tarafından dışlanırlar ve gerçek formlarını ortaya çıkardıklarında insanlar tarafından reddedilir ve incitilirler.\n\nYaşadıkları zorluklara rağmen, bu üç Youkai-Ningen gizlice insanlar arasında yaşıyor ve bir gün insan olma hayallerinin peşinden gitmeye devam ediyor.\n\nBem yapımının 2020 yılında çıkan filmidir.",
-    "slug": "bem-movie-become-human"
+    "slug": "bem-movie-become-human",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 42129,
@@ -54,46 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 119258,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119258-b5TORN35YBN9.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119258-zllw19WbSTO7.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Bem Movie: Become Human",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qh4v8ESOrTuFOEuYIOa2nwmY9zdQLMxk/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271190074"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658986"
-        },
-        {
-          "fansub_id": 22,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6ih2anw4wyib.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T04:37:41.443455",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 711683,
     "type": "movie",

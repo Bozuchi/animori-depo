@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Licufer isimli karakteri konu alacak Monster Strike filmi.",
-    "slug": "monster-strike-the-movie-hajimari-no-basho-e"
+    "slug": "monster-strike-the-movie-hajimari-no-basho-e",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 33724,
@@ -53,25 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 87499,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87499-nWirX2NgtiPA.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Monster Strike The Movie: Hajimari no Basho e",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:17:11.727597",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 69084,
     "type": "tv",

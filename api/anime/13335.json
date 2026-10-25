@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Fuse, Edo dönemindeki insan ve köpek melezi yaratıklardı. İnsanları öldürüp ruhlarını yedikleri söylenirdi, Shogun Hükümeti fuselerin kellelerine büyük bir ödül koydu.\nHamaji kırsal kesimde avcı olarak yaşarken abisi Dousetsu Edo’da yaşamaktadır. Hikayemiz abisinin ödülü kazanmada yardımcı olması için Hamaji’yi Edo’ya çağırmasıyla başlar.\nGizemli bir genç diğer insanlar tarafından kovalanırken Hamaji ile tanışır, gizemli gencin adı Shino’dur…",
-    "slug": "fuse-teppou-musume-no-torimonochou"
+    "slug": "fuse-teppou-musume-no-torimonochou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 13335,
@@ -47,46 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 13335,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13335-ohuzqRCUCf4J.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13335-u8p97Q1XJA0V.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Fuse Teppou Musume No Torimonochou",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pEKttKE_W-0y8NxK5YHV--SdFmECC1mk/preview"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/45"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017143"
-        },
-        {
-          "fansub_id": 46,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-sm5fkv2a27wb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T21:57:20.960605",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 204755,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Shoko ve Maiko Ougi, görünürde mezuniyetlerini kovalayan ve eğlence peşinde olan iki sıradan kız öğrencidir.Shii-chan daha ciddiyken Mai-chan daha eğlenceli birisidir. Gerçekte ise, iki kız kardeş Karura tapınağından gelen güçlü şeytan çıkarıcılardır. İkisi de güçlerini ortaklaşa kullanır... Shii-chan ruhları \"görebilir\" ve Mai-chan ise onları kovabilir. Geleneksel Japon büyücülük konuları üzerinde şiddetle duran ürkütücü bir serinin film uyarlamasıdır.",
-    "slug": "hengen-taima-yakou-karura-mau-nara-onryou-emaki"
+    "slug": "hengen-taima-yakou-karura-mau-nara-onryou-emaki",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3178,
@@ -56,44 +57,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3178,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3178.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Hengen Taima Yakou Karura Mau! Nara Onryou Emaki",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ewFvKKNutrxJqhVnyXogJ1CYcyOasl2F/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15qjR_eDS-esWSV0baFit_jt2UsD3o6yp/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368219"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/0pem307e"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:47:27.459851",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

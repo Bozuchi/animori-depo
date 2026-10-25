@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hatanaka Kosaku; ortalama nakavt yumruğu olan, geleceği parlak bir boksördür. Ama maalesef yemeklere karşı iradesi zayıftır. Müsabakalardan hemen önce bile yağlı hamburgerler yer. Sonuç olarak ağır siklet olarak yarışan Hatanaka karnına yumruk yediğinde kusar ve maçı utançla kaybeder. Zayıf iradesini yenmeye çalıştığı sıralarda Rahibe Angela ile karşılaşır. Angela yerel bir manastırda acemilik dönemindedir. Hatanaka'nın çabasına yardımcı olmaya çalışır fakat bu Angela'nın rahibe olma eğitimini zorlaştırmaktadır.",
-    "slug": "one-pound-gospel"
+    "slug": "one-pound-gospel",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1328,
@@ -49,56 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1328,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1328-mlHUI0J3lJ82.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1328-moNfGtR4wMOK.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "One Pound Gospel",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1HRhaYJbQ9dEWVGgbcsjZTlwink2kMlNi/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271190154"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1899029"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4529816"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wapzfcaxu3d8.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5cuaxxb81hze.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T20:58:44.149457",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 117853,
     "type": "movie",

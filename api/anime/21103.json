@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Utopia, True Tears x Hanasaku Iroha x Tari Tari Joint Festival Live için üç serideki seiyuu'yuları içeren özel olarak oluşturulmuş bir şarkıdır. Etkinliğin Blu-ray sürümünde yer alan bu şarkının bir video hâlidir.",
-    "slug": "utopia"
+    "slug": "utopia",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 21103,
@@ -45,54 +46,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 102605,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102605-YhxJZlGz3Ja2.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102605-TIoN5AECxiUt.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Hanasaku Iroha x True Tears x Tari : Utopia ♫",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846041"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682367149"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1453117"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4067365"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-g5d14j3uoa21.html"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qszo7lty"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T22:10:35.821614",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

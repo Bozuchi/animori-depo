@@ -4,7 +4,141 @@
     "puan": "0.00",
     "bolum_durumu": "6/6",
     "ozet": "Queen's Blade: Rebellion dizisinin özel bölümleridir.",
-    "slug": "queen-s-blade-rebellion-specials"
+    "slug": "queen-s-blade-rebellion-specials",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Queen's Blade: Rebellion Specials 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qiiEgjv6uamrjcpFdnV0Mf5RJHU-IEwd/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5580707"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/z07x333f"
+          }
+        ],
+        "added_date": "2026-07-29T03:27:59.684054"
+      },
+      {
+        "episode_number": 2,
+        "title": "Queen's Blade: Rebellion Specials 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AH9cxVgnbyZZOFRr7ZCvJVPKc8kIBdfJ/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5580708"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6ml8pox4"
+          }
+        ],
+        "added_date": "2026-07-29T03:27:59.684054"
+      },
+      {
+        "episode_number": 3,
+        "title": "Queen's Blade: Rebellion Specials 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18VtOVR0UgzQ3AidrPeG22qEuMDPdz6xC/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5580761"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fi9u3xss"
+          }
+        ],
+        "added_date": "2026-07-29T03:27:59.684054"
+      },
+      {
+        "episode_number": 4,
+        "title": "Queen's Blade: Rebellion Specials 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VRFdD3Eb58cBrcS-JAxXoX11DGHCj-Bm/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5580730"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xjd2kczi"
+          }
+        ],
+        "added_date": "2026-07-29T03:27:59.684054"
+      },
+      {
+        "episode_number": 5,
+        "title": "Queen's Blade: Rebellion Specials 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1b0-7A_-_iA4pGISOQARM9BSCcnqHCprf/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5580732"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/z6czp15q"
+          }
+        ],
+        "added_date": "2026-07-29T03:27:59.684054"
+      },
+      {
+        "episode_number": 6,
+        "title": "Queen's Blade: Rebellion Specials 6. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hGRejFcp5X2S0VzLzG1wk8Os_9-tdf0-/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5580719"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/axj34p4j"
+          }
+        ],
+        "added_date": "2026-07-29T03:27:59.684054"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13855,
@@ -43,169 +177,55 @@
         ]
       }
     ],
-    "episodes": 6
+    "episodes": 6,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 13855,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13855.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Queen's Blade: Rebellion Specials 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qiiEgjv6uamrjcpFdnV0Mf5RJHU-IEwd/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5580707"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/z07x333f"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:27:59.684054",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Queen's Blade: Rebellion Specials 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AH9cxVgnbyZZOFRr7ZCvJVPKc8kIBdfJ/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5580708"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/6ml8pox4"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:27:59.684054",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Queen's Blade: Rebellion Specials 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18VtOVR0UgzQ3AidrPeG22qEuMDPdz6xC/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5580761"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/fi9u3xss"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:27:59.684054",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Queen's Blade: Rebellion Specials 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VRFdD3Eb58cBrcS-JAxXoX11DGHCj-Bm/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5580730"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/xjd2kczi"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:27:59.684054",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Queen's Blade: Rebellion Specials 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1b0-7A_-_iA4pGISOQARM9BSCcnqHCprf/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5580732"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/z6czp15q"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:27:59.684054",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Queen's Blade: Rebellion Specials 6. Bölüm Final",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hGRejFcp5X2S0VzLzG1wk8Os_9-tdf0-/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5580719"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/axj34p4j"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:27:59.684054",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

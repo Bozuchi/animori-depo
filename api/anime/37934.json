@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Mahou Shoujo Lyrical Nanoha StrikerS'in BD Kutu Setinde yer alan animasyon şovu. Subaru, Teana, Vivio kendi BD Kutu Setlerini tanıtan bir radyo programına ev sahipliği yaparlar. Tüm temel oyuncu kadrosunun öğrenci ya da öğretmen olarak yer aldığı farazi bir Midchilda Akademisine bakarlar.",
-    "slug": "mahou-shoujo-lyrical-nanoha-strikers-picture-drama"
+    "slug": "mahou-shoujo-lyrical-nanoha-strikers-picture-drama",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37934,
@@ -46,49 +47,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 108730,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108730-mrqPezOjeeVo.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Welcome to Midchilda Academy",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ErjG8gdbLGqRmVDA1nKJFJ0ZCJ7sUfWm/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685362701"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4511442"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-tfpxtayhffuh.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1te7kwklgree.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:42:03.518744",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

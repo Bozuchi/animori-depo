@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Rohan Kishibe, bir manga editörü olan Kyuka Izumi ile medeniyetten uzak bir köye ev satın almaya gidiyorlar. Köyün gizemli 25 yaşındaki insanlarının nasıl milyoner olduğunu keşfediyorlar. Rohan ve Izumi evlerden birine girer, belirli kurallara uymadıkları sürece sonuçlara katlanmak zorundadırlar. İlerlemelerine izin vermeyen gizemli bir güç tarafından tuzağa düştüklerinin farkına varırlar.",
-    "slug": "kishibe-rohan-wa-ugokanai"
+    "slug": "kishibe-rohan-wa-ugokanai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 33191,
@@ -53,174 +54,14 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": []
   },
   "anilist": {
     "id": 21778,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21778-wWSVohWUg76m.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21778-pCUJjJuP7Pmd.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kishibe Rohan wa Ugokanai OVA 1",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1an-Sfa0W9yT1y3EOY4IlwebHOFhTCZlo/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_PvxKQyAozmslPNze2LpLlxR9Q0lwOpu/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4490734"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3237991"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-b7kji4cs7dl7.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ryfzp05p"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/sbjdwukz"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6bgogmucmegc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:03:02.906674",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Kishibe Rohan wa Ugokanai OVA 2",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mPKlaoGC0K4URxc-mxU905fDZ7dWDZA8/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1k9Xa0Vr1hWL6uMZ6CPFjZnfMCWU5WRtL/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3678697"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4461341"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3orra6xcrp1d.html"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-skmhpm4ymv4e.html"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/j19tfkbd"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/fvqg5te3"
-        },
-        {
-          "fansub_id": 22,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-edzs8vl1d5w0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:03:02.906674",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Kishibe Rohan wa Ugokanai OVA 3",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WRHptD8S2WztfT8sgJcRxmOsJ_yTBHp6/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4438827"
-        },
-        {
-          "fansub_id": 22,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ijs2fe6lwv5s.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:03:02.906674",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Kishibe Rohan wa Ugokanai OVA 4",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FD388p6s6-9NNcplL3qJWaxAo261GBPc/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4438828"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3rrq3yw9l0ux.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:03:02.906674",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 45790,
     "type": "tv",

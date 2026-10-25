@@ -4,7 +4,73 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "25. yıl dönümü Blu-ray kutusu setine özel dahildir. Özel bölüm, manganın Kurama ve Hiei'nin nasıl tanıştığının hikayesini anlatan yedinci cildindeki \"Two Shot\" bonus bölümünü ve manganın sondan bir önceki bölümü olan \"All or Nothing\"i kapsayacak. ruh dünyasındaki bir rehine krizini çözmek için yeniden bir araya gelen ana karakterleri gösterir.",
-    "slug": "yuu-yuu-hakusho-two-shots-noru-ka-soru-ka"
+    "slug": "yuu-yuu-hakusho-two-shots-noru-ka-soru-ka",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 167,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zO7yy5C898v937q5r8CuSVu2Ux8vlO2N/preview"
+          },
+          {
+            "fansub_id": 167,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368736"
+          },
+          {
+            "fansub_id": 167,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4756200"
+          },
+          {
+            "fansub_id": 167,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zidjvg597g66.html"
+          },
+          {
+            "fansub_id": 167,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-m6mqbl6zsnq5.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:28:49.473804"
+      },
+      {
+        "episode_number": 2,
+        "title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 167,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1yEkKj45qze3RjvaFnA0D3BInUfMnYmnP/preview"
+          },
+          {
+            "fansub_id": 167,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368735"
+          },
+          {
+            "fansub_id": 167,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4756199"
+          },
+          {
+            "fansub_id": 167,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-skgggfupqyb5.html"
+          },
+          {
+            "fansub_id": 167,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-zbhce5err2oi.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:28:49.473804"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36951,
@@ -55,87 +121,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 102631,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102631-ksj6NOCUBPcd.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102631-9VAe1wl7pIGc.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 167,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zO7yy5C898v937q5r8CuSVu2Ux8vlO2N/preview"
-        },
-        {
-          "fansub_id": 167,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368736"
-        },
-        {
-          "fansub_id": 167,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4756200"
-        },
-        {
-          "fansub_id": 167,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zidjvg597g66.html"
-        },
-        {
-          "fansub_id": 167,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-m6mqbl6zsnq5.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:28:49.473804",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 167,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yEkKj45qze3RjvaFnA0D3BInUfMnYmnP/preview"
-        },
-        {
-          "fansub_id": 167,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368735"
-        },
-        {
-          "fansub_id": 167,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4756199"
-        },
-        {
-          "fansub_id": 167,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-skgggfupqyb5.html"
-        },
-        {
-          "fansub_id": 167,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zbhce5err2oi.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:28:49.473804",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 30669,
     "type": "tv",

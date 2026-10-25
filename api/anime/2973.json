@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kahramanımız Suzuko kendisi için sıradan bir öğle vaktinde, birden bir patlamaya maruz kalır. Suzuko ölmek yerine yaklaşık 500 yıl öncesinde, Japonya’nın iç savaşlarının olduğu bir dönemde uyanır.\nBaskıcı ve yakışıklı bir genç tarafından ölümden daha kötü bir kaderden kurtarılan Suzuko, şimdiki yaşadığı yere alışmayı öğrenir. Suzuko bu süreçte kendi gizemi ve hatırlayamadığı geçmişi ile ilgili şeyler keşfeder. İpuçları çözülmeye başlarken, bulunduğu köy saldırıya uğrar ve Suzuko kendisini bu sefer de geleceğe yolculuk yaparken bulur. Acaba Suzuko kendi gizemli gerçeklerini ve nereye ait olduğunu çözebilecek mi?",
-    "slug": "fire-tripper"
+    "slug": "fire-tripper",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2973,
@@ -53,46 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2973,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2973-GRcdEOJyCBD9.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2973.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Fire Tripper",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xSDEEL-nRISw_HoJ6Sqzl2xOuPIeMIxg/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018004"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1793764"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qd5rdid38vo6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T01:35:49.825710",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 284755,
     "type": "movie",

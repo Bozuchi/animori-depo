@@ -4,7 +4,128 @@
     "puan": "0.00",
     "bolum_durumu": "2/12",
     "ozet": "Rahmetli babasından balık tutmanın zevklerini öğrenen Hiyori, biraz yalnız kalmak için denize gittiğinde, orada başka bir kız daha olabileceğini hiç düşünmemişti.\n\nBir süre sonra, bu kız, Koharu, ve o balık tutmaya ve yemek yapmaya başladılar. Sonra da birbirlerini git gide tanımaya başladılar. Birlikte geçirdikleri kısa zaman zarfında Koharu, Hiyori’nin o gün denize gitmesinin sebebinin yeni üvey ailesiyle tanışmakta tereddütlü olduğu için olduğunu öğrendi. Ama ne tesadüf! Koharu da o akşam yeni ailesiyle tanışacak! “Hayır. Bu bir rastlantı olamaz… yoksa olabilir mi?” İki ‘kız kardeşi’ ve yeni hayatlarını izleyin!",
-    "slug": "slow-loop"
+    "slug": "slow-loop",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Slow Loop 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1h44CeDBg930tO8wvPU_OjSI_c05ETRrr/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//ok/571224138646/video/embed/_myvideo/794"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4699978"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ttk7m8ix"
+          },
+          {
+            "fansub_id": 69,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DYIYLVapRBit7HoTGdhA03fRnkpw3al4/preview"
+          },
+          {
+            "fansub_id": 69,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7768262787989504073"
+          },
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4583366"
+          },
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4583367"
+          },
+          {
+            "fansub_id": 69,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wbw3ik7p"
+          },
+          {
+            "fansub_id": 69,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2qnh7v8a0a26.html"
+          }
+        ],
+        "added_date": "2026-07-29T11:11:08.652827"
+      },
+      {
+        "episode_number": 2,
+        "title": "Slow Loop 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mhB64OaUXBgAtg0eAy75xHWRiSkiyrMT/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//ok/571224138646/video/embed/_myvideo/795"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4701574"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fq8cf1x4"
+          },
+          {
+            "fansub_id": 69,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AHF1kve1DdPhFUxPMX_yjOX9YNBDTz-g/preview"
+          },
+          {
+            "fansub_id": 69,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7768262787989504083"
+          },
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4600231"
+          },
+          {
+            "fansub_id": 69,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7wtgcy3w"
+          },
+          {
+            "fansub_id": 69,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-pqvsam7qo1bq.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 88.763,
+            "end": 178.763
+          },
+          "ed": {
+            "start": 1361.57,
+            "end": 1450
+          }
+        },
+        "added_date": "2026-07-29T11:11:08.652827"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 45425,
@@ -47,141 +168,29 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 127549,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127549-9j4uHXMStHGX.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127549-fr324YPdXb3D.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Slow Loop 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1h44CeDBg930tO8wvPU_OjSI_c05ETRrr/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//ok/571224138646/video/embed/_myvideo/794"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4699978"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ttk7m8ix"
-        },
-        {
-          "fansub_id": 69,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DYIYLVapRBit7HoTGdhA03fRnkpw3al4/preview"
-        },
-        {
-          "fansub_id": 69,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7768262787989504073"
-        },
-        {
-          "fansub_id": 69,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4583366"
-        },
-        {
-          "fansub_id": 69,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4583367"
-        },
-        {
-          "fansub_id": 69,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/wbw3ik7p"
-        },
-        {
-          "fansub_id": 69,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2qnh7v8a0a26.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T11:11:08.652827",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Slow Loop 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mhB64OaUXBgAtg0eAy75xHWRiSkiyrMT/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//ok/571224138646/video/embed/_myvideo/795"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4701574"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/fq8cf1x4"
-        },
-        {
-          "fansub_id": 69,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AHF1kve1DdPhFUxPMX_yjOX9YNBDTz-g/preview"
-        },
-        {
-          "fansub_id": 69,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7768262787989504083"
-        },
-        {
-          "fansub_id": 69,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4600231"
-        },
-        {
-          "fansub_id": 69,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7wtgcy3w"
-        },
-        {
-          "fansub_id": 69,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-pqvsam7qo1bq.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 88.763,
-          "end": 178.763
-        },
-        "ed": {
-          "start": 1361.57,
-          "end": 1450
-        }
-      },
-      "added_date": "2026-07-29T11:11:08.652827",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 115112,
     "type": "tv",

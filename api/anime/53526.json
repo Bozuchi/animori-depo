@@ -4,7 +4,153 @@
     "puan": "0.00",
     "bolum_durumu": "4/13",
     "ozet": "Uma Musume'nin üçüncü sezonu: Pretty Derby.",
-    "slug": "uma-musume-pretty-derby-season-3"
+    "slug": "uma-musume-pretty-derby-season-3",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Umamusume: Pretty Derby Season 3 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 15,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YGoxIhFTPB-ykwXwxz4_uNU7LACu3pAr/preview"
+          },
+          {
+            "fansub_id": 15,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7432059985078518122"
+          },
+          {
+            "fansub_id": 15,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/2yktmmagmbnk"
+          },
+          {
+            "fansub_id": 15,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/siiz7bf4"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 36,
+            "end": 126
+          },
+          "ed": {
+            "start": 1350,
+            "end": 1434
+          }
+        },
+        "added_date": "2026-07-29T19:25:44.726563"
+      },
+      {
+        "episode_number": 2,
+        "title": "Umamusume: Pretty Derby Season 3 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 15,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-zmkT5yCghlt8fMYLeu4LPmfrhoCEB_e/preview"
+          },
+          {
+            "fansub_id": 15,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7432059985078518125"
+          },
+          {
+            "fansub_id": 15,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/qsou5oy4dxwy"
+          },
+          {
+            "fansub_id": 15,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/e9j1zc5i"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 21,
+            "end": 110
+          },
+          "ed": {
+            "start": 1343,
+            "end": 1427
+          }
+        },
+        "added_date": "2026-07-29T19:25:44.726563"
+      },
+      {
+        "episode_number": 3,
+        "title": "Umamusume: Pretty Derby Season 3 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 15,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-CxFRKpV5rg2vuxzNKc0NlPChdE-nfQU/preview"
+          },
+          {
+            "fansub_id": 15,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7432059985078518132"
+          },
+          {
+            "fansub_id": 15,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ej6taurqpgfh"
+          },
+          {
+            "fansub_id": 15,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/k93vvks0"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1344,
+            "end": 1434
+          }
+        },
+        "added_date": "2026-07-29T19:25:44.726563"
+      },
+      {
+        "episode_number": 4,
+        "title": "Umamusume: Pretty Derby Season 3 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 15,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1kc8Xwx-An-o7KHQz_gpXK8ttOJxopNMP/preview"
+          },
+          {
+            "fansub_id": 15,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7432059985078518156"
+          },
+          {
+            "fansub_id": 15,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/2gj3povqo0d2"
+          },
+          {
+            "fansub_id": 15,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/mcdth3oa"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 29,
+            "end": 117
+          },
+          "ed": {
+            "start": 1349,
+            "end": 1423
+          }
+        },
+        "added_date": "2026-07-29T19:25:44.726563"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53526,
@@ -46,171 +192,43 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 156632,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156632-VZdtKjhrnn4m.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156632-QnKMOaso3n2y.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Umamusume: Pretty Derby Season 3 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 15,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YGoxIhFTPB-ykwXwxz4_uNU7LACu3pAr/preview"
-        },
-        {
-          "fansub_id": 15,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7432059985078518122"
-        },
-        {
-          "fansub_id": 15,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/2yktmmagmbnk"
-        },
-        {
-          "fansub_id": 15,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/siiz7bf4"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 36,
-          "end": 126
-        },
-        "ed": {
-          "start": 1350,
-          "end": 1434
-        }
-      },
-      "added_date": "2026-07-29T19:25:44.726563",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Umamusume: Pretty Derby Season 3 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 15,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-zmkT5yCghlt8fMYLeu4LPmfrhoCEB_e/preview"
-        },
-        {
-          "fansub_id": 15,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7432059985078518125"
-        },
-        {
-          "fansub_id": 15,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/qsou5oy4dxwy"
-        },
-        {
-          "fansub_id": 15,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/e9j1zc5i"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 21,
-          "end": 110
-        },
-        "ed": {
-          "start": 1343,
-          "end": 1427
-        }
-      },
-      "added_date": "2026-07-29T19:25:44.726563",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Umamusume: Pretty Derby Season 3 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 15,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-CxFRKpV5rg2vuxzNKc0NlPChdE-nfQU/preview"
-        },
-        {
-          "fansub_id": 15,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7432059985078518132"
-        },
-        {
-          "fansub_id": 15,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ej6taurqpgfh"
-        },
-        {
-          "fansub_id": 15,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/k93vvks0"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1344,
-          "end": 1434
-        }
-      },
-      "added_date": "2026-07-29T19:25:44.726563",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Umamusume: Pretty Derby Season 3 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 15,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1kc8Xwx-An-o7KHQz_gpXK8ttOJxopNMP/preview"
-        },
-        {
-          "fansub_id": 15,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7432059985078518156"
-        },
-        {
-          "fansub_id": 15,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/2gj3povqo0d2"
-        },
-        {
-          "fansub_id": 15,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/mcdth3oa"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 29,
-          "end": 117
-        },
-        "ed": {
-          "start": 1349,
-          "end": 1423
-        }
-      },
-      "added_date": "2026-07-29T19:25:44.726563",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 77694,
     "type": "tv",

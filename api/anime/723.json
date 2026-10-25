@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Seriye ait moviedir.",
-    "slug": "candy-candy-movie"
+    "slug": "candy-candy-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 723,
@@ -64,56 +65,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 723,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n723-OTqh5pC4uElF.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b723-3UAMWGa4CZW5.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Candy Candy Movie: 1992",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DD5QUB2Bv-dTgwatkSAv7Tw-5_aW20fP/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666152"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682367524"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-0vuplmv0xjup.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-89ywzfw5cot7.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rdk8peebaehg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:36:19.714299",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 9160,
     "type": "tv",

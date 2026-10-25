@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Initial D'nin bir yan hikayesi olan Extra Stage'de, Emperor takımının, Mako ve Sayako adında iki bayan yarışçıdan oluşan Impact Blue ekibi ile karşılaşmaları anlatılıyor.",
-    "slug": "initial-d-extra-stage"
+    "slug": "initial-d-extra-stage",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 822,
@@ -55,51 +56,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 822,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx822-JgdEklwoIOxm.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Initial D. Extra Stage I",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DJ5eUWtpZP58A5DedIFnfvT4m5PS7eGX/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016854"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1602575"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-z373uy6jilrs.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-epbjkmnv3hyp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:28:26.373891",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 40424,
     "type": "tv",

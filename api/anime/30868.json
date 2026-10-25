@@ -4,7 +4,8 @@
     "puan": "8.87",
     "bolum_durumu": "1/1",
     "ozet": "Liseli Kei —ve büyük ihtimalle 46 diğer kişi için— ölümsüzlük pis bir sürpriz olarak geliyor.\n\nMaalesef ki bu durum, Kei'yi bir süper kahraman haline getirmiyor. Hem halkın hem de devletin gözünde, o yakalanıp bilim insanlarına teslim edilmesi gereken nadir bir tür —insanlık için defalarca ölmesi gereken bir yarı-insan.",
-    "slug": "ajin-part-1-shoudou"
+    "slug": "ajin-part-1-shoudou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 30868,
@@ -62,49 +63,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21212,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21212-qtt0FLVsS8wZ.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ajin Part 1: Shoudou",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 10,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NjXsSku_AAFs_j5_AO5dh59A1VNSIZEu/preview"
-        },
-        {
-          "fansub_id": 10,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lpJ2Pb4OEh0_9nmtVMmOyiatQJUcx6hZ/preview"
-        },
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911246"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4503689"
-        },
-        {
-          "fansub_id": 10,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ant02ktqztun.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T04:32:19.090054",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

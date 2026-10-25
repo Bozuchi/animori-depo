@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Shoujo Ramune",
-    "slug": "shoujo-ramune"
+    "slug": "shoujo-ramune",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 32587,
@@ -33,94 +34,70 @@
     "studios": [
       2269
     ],
-    "relations": []
+    "relations": [],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Chii-chan and Her Secret Part-Time Job",
+        "aired": "Oct 7, 2016",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Episode 2",
+        "aired": "Feb 3, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Yukata Dresses and Fireworks at the Summer Festival",
+        "aired": "Nov 24, 2017",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Everybody's Summer Vacation",
+        "aired": "Mar 2, 2018",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "With Chii-chan Under the Blanket",
+        "aired": "Jul 11, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Secret Lessons with Tenka",
+        "aired": "Sep 5, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "A Lewd Promise with Komako",
+        "aired": "Jul 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Episode 8",
+        "aired": "Sep 4, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21828,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21828-GXL6divKjKiN.png",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21828-3KDKm3Zu2DyX.jpg"
   },
-  "synopsis_tr": "Kiyoshi Tachikawa, Tokyo'nun eteklerindeki küçük bir kasabada bulunan bir şekerci dükkanı işletiyor. Büyük bir şehrin karmaşasından kaçmak için önceki işinden ayrılmıştı ve şimdi küçük kızlarla çevrili günlerinin tadını çıkarıyor. Kiyoshi'nin dükkanını düzenli olarak özellikle üç kız ziyaret ediyor: Chie Sayama, Tenka Adachi ve Komako Semenovich. Onun arkadaş canlısı ve rahat tavırları nedeniyle, o kadar da masum olmayan kızlar hızla Kiyoshi'ye yönelir ve onun dikkatini çeker ve sorunlarına yardım eder. Kısa süre sonra ona karşı romantik duygular beslerler ve vücutlarını memnuniyetle onun bakımına bırakırlar, evinde cinsel zevklere düşkün olarak vakit geçirirler.[MAL Rewrite tarafından yazılmıştır]",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Chii-chan and Her Secret Part-Time Job",
-      "episode_number": 1,
-      "aired": "Oct 7, 2016",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:18.948412"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Episode 2",
-      "episode_number": 2,
-      "aired": "Feb 3, 2017",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:18.948412"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Yukata Dresses and Fireworks at the Summer Festival",
-      "episode_number": 3,
-      "aired": "Nov 24, 2017",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:18.948412"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "Everybody's Summer Vacation",
-      "episode_number": 4,
-      "aired": "Mar 2, 2018",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:18.948412"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "With Chii-chan Under the Blanket",
-      "episode_number": 5,
-      "aired": "Jul 11, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:18.948412"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "Secret Lessons with Tenka",
-      "episode_number": 6,
-      "aired": "Sep 5, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:18.948412"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "A Lewd Promise with Komako",
-      "episode_number": 7,
-      "aired": "Jul 3, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:18.948412"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Episode 8",
-      "episode_number": 8,
-      "aired": "Sep 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:18.948412"
-    }
-  ]
+  "synopsis_tr": "Kiyoshi Tachikawa, Tokyo'nun eteklerindeki küçük bir kasabada bulunan bir şekerci dükkanı işletiyor. Büyük bir şehrin karmaşasından kaçmak için önceki işinden ayrılmıştı ve şimdi küçük kızlarla çevrili günlerinin tadını çıkarıyor. Kiyoshi'nin dükkanını düzenli olarak özellikle üç kız ziyaret ediyor: Chie Sayama, Tenka Adachi ve Komako Semenovich. Onun arkadaş canlısı ve rahat tavırları nedeniyle, o kadar da masum olmayan kızlar hızla Kiyoshi'ye yönelir ve onun dikkatini çeker ve sorunlarına yardım eder. Kısa süre sonra ona karşı romantik duygular beslerler ve vücutlarını memnuniyetle onun bakımına bırakırlar, evinde cinsel zevklere düşkün olarak vakit geçirirler.[MAL Rewrite tarafından yazılmıştır]"
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Takagi ve Nishikata'nın ortaokuldaki son yaz tatilleri başlamadan, sahipsiz bir kedi yavrusu görür. İkisi birlikte bu sahipsiz kedi yavrusunun annesini bulana kadar bakmaya karar verir.",
-    "slug": "karakai-jouzu-no-takagi-san-movie"
+    "slug": "karakai-jouzu-no-takagi-san-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 49722,
@@ -54,51 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 138425,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138425-v3xOYaw4MbXT.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138425-c3yXTMt39DeT.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Karakai Jouzu no Takagi-san Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461601681"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4998517"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/o2g8n1f5ojj7"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-17ylhumtjy1x.html"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qumdzwzaqh4y.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:18:41.406708",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 938567,
     "type": "movie",

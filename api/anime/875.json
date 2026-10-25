@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Nishi mangaka olmak isteyen, hayatta pek tutunamamış, kendi halinde bir gençtir. Yıllardan beri çocukluk arkadaşı Myon'a platonik olarak aşıktır. Ancak bir süre sonra Myon'la irtibatı yitirir. Nishi ve Myon yıllar sonra kaşılaştıklarında Myon evlenmek üzeredir. Anıları yadetmek için Myon'un aile restoranına giderler. Bu güzel tesadüf iki yakuzanın restorana gelmesi ile birlikte çirkin ve garip bir hal alacaktır.",
-    "slug": "mind-game"
+    "slug": "mind-game",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 875,
@@ -50,46 +51,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 875,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/875-yXbiRS7ayxlG.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx875-kvQVUKDPcAKl.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mind Game",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XgZyU1HPOv1vrPNjlGTZsgR38pYNN1CX/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016037"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1899652"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hsiwd24hbx3z.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:10:54.833735",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 21712,
     "type": "movie",

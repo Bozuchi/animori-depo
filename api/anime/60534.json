@@ -4,7 +4,153 @@
     "puan": "0.00",
     "bolum_durumu": "7/?",
     "ozet": "Serimiz, Koupen-chan ve dostlarının hayattaki tatlı küçük şeylerin keyfini çıkarırken, yaşadıkları günlük maceraları ele alıyor.",
-    "slug": "koupen-chan"
+    "slug": "koupen-chan",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Koupen-chan 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 200,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1k6F7bvoWewpWu-EEMZZc9wQ2Cy3b0jv2/preview"
+          },
+          {
+            "fansub_id": 200,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/8oolqaepdfje"
+          },
+          {
+            "fansub_id": 200,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/nb4q18q4"
+          }
+        ],
+        "added_date": "2026-07-27T06:31:29.776373"
+      },
+      {
+        "episode_number": 2,
+        "title": "Koupen-chan 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 200,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dP04w54xBHRoB9S0QE4PZSKrmIkYGMeX/preview"
+          }
+        ],
+        "added_date": "2026-07-27T06:31:29.776373"
+      },
+      {
+        "episode_number": 3,
+        "title": "Koupen-chan 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 200,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YqqP25FY68BJz1DCVk-qQY_TNxdHF-SQ/preview"
+          },
+          {
+            "fansub_id": 200,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5888198"
+          },
+          {
+            "fansub_id": 200,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/n0v0ey3h3okl"
+          },
+          {
+            "fansub_id": 200,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/n8kbag79"
+          }
+        ],
+        "added_date": "2026-07-27T06:31:29.776373"
+      },
+      {
+        "episode_number": 4,
+        "title": "Koupen-chan 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 200,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1kM8vBKQBpLXA-rrOoCed_wy3SXnx2yld/preview"
+          },
+          {
+            "fansub_id": 200,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5894474"
+          }
+        ],
+        "added_date": "2026-07-27T06:31:29.776373"
+      },
+      {
+        "episode_number": 5,
+        "title": "Koupen-chan 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 200,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1UatC30Nt4kYdebqYU8MgVD0a-8Jc-CGu/preview"
+          },
+          {
+            "fansub_id": 200,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5902474"
+          },
+          {
+            "fansub_id": 200,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lwzatwh5co36.html"
+          }
+        ],
+        "added_date": "2026-07-27T06:31:29.776373"
+      },
+      {
+        "episode_number": 6,
+        "title": "Koupen-chan 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 200,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1LIXAJ-PFZ1y73mV05LvK1z8NXGpR62za/preview"
+          },
+          {
+            "fansub_id": 200,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/saovmpn2m8fu"
+          },
+          {
+            "fansub_id": 200,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pk5fo5we"
+          }
+        ],
+        "added_date": "2026-07-27T06:31:29.776373"
+      },
+      {
+        "episode_number": 7,
+        "title": "Koupen-chan 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 200,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1RYn4GKOFw9-DTqjmFPFnJ4Gxdf5LhdEE/preview"
+          },
+          {
+            "fansub_id": 200,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/nxmdrh6wwc9q"
+          },
+          {
+            "fansub_id": 200,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3jd972wx"
+          }
+        ],
+        "added_date": "2026-07-27T06:31:29.776373"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 60534,
@@ -59,7 +205,289 @@
         ]
       }
     ],
-    "episodes": 64
+    "episodes": 64,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "I'm Koupen-chan, nice to meet you!",
+        "aired": "Apr 6, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Morning Greatness",
+        "aired": "Apr 13, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "This Kind of Flower Viewing, Too",
+        "aired": "Apr 20, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Explosion",
+        "aired": "Apr 27, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Golden Week",
+        "aired": "May 4, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Commuting",
+        "aired": "May 11, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Penguin Wants to Fly in the Sky",
+        "aired": "May 18, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Laundry",
+        "aired": "May 25, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Koupen-chan and the Evil Enaga-san's Encounter, Part 1",
+        "aired": "Jun 1, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Koupen-chan and the Evil Enaga-san's Encounter, Part 2",
+        "aired": "Jun 8, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Summer Solstice is Almost Here",
+        "aired": "Jun 15, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Brushing Teeth",
+        "aired": "Jun 22, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Melody of the Rainy Season",
+        "aired": "Jun 29, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "The Smell of Summer",
+        "aired": "Jul 6, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Secretly Practicing a Song",
+        "aired": "Jul 13, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Koupen-chan on Stage",
+        "aired": "Jul 20, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "You and Koupen-chan's Summer Vacation, Part 1",
+        "aired": "Jul 27, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "You and Koupen-chan's Summer Vacation, Part 2",
+        "aired": "Aug 3, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Good Job Keeping It Cool",
+        "aired": "Aug 10, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Sparkling Ocean and Blue Friends, Part 1",
+        "aired": "Aug 17, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Sparkling Ocean and Blue Friends, Part 2",
+        "aired": "Aug 24, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Summer Vacation's End",
+        "aired": "Aug 31, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Adélie-san's Vegetable Harvest",
+        "aired": "Sep 7, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Good Job Taking a Bath!",
+        "aired": "Sep 14, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Eat Summer Vegetable Curry",
+        "aired": "Sep 21, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Good Job on Hydrating",
+        "aired": "Sep 28, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Adult Penguin's Real Name",
+        "aired": "Oct 5, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Myself and I",
+        "aired": "Oct 12, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Autumn Walk",
+        "aired": "Oct 19, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "Halloween",
+        "aired": "Oct 26, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Polar Bear's Secret Pocket",
+        "aired": "Nov 2, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Day Trip to Hot Springs",
+        "aired": "Nov 9, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Eating Winter Food With You Makes Me Happy",
+        "aired": "Nov 16, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Evil Enaga-san and Koupen-chan",
+        "aired": "Nov 23, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Great Job Waking Up!",
+        "aired": "Nov 30, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "First Snow",
+        "aired": "Dec 7, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "A New Year's Card For You",
+        "aired": "Dec 14, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Christmas",
+        "aired": "Dec 21, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "You and Koupen-chan's New Year's Holidays",
+        "aired": "Dec 28, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Happy New Year! New Year's Entertainment!",
+        "aired": "Jan 4, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 185646,
@@ -73,523 +501,5 @@
     "episode_offset": 0,
     "name": "Koupen-chan"
   },
-  "synopsis_tr": "Bebek imparator penguen Koupen-chan her zaman herkesin kendini dahil hissetmesini sağlar. Koupen-chan, en yeni arkadaşıyla tanışırken onlarla mümkün olduğu kadar çok zaman geçirmek ve günlerini güzelleştirmek istiyor.[MAL Rewrite tarafından yazıldı]",
-  "episodes": [
-    {
-      "turkanime_title": "Koupen-chan 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 200,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1k6F7bvoWewpWu-EEMZZc9wQ2Cy3b0jv2/preview"
-        },
-        {
-          "fansub_id": 200,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/8oolqaepdfje"
-        },
-        {
-          "fansub_id": 200,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/nb4q18q4"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:31:29.776373",
-      "jikan_mal_id": null,
-      "filler": false,
-      "recap": false,
-      "title": "I'm Koupen-chan, nice to meet you!",
-      "aired": "Apr 6, 2025"
-    },
-    {
-      "turkanime_title": "Koupen-chan 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 200,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dP04w54xBHRoB9S0QE4PZSKrmIkYGMeX/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:31:29.776373",
-      "jikan_mal_id": null,
-      "filler": false,
-      "recap": false,
-      "title": "Morning Greatness",
-      "aired": "Apr 13, 2025"
-    },
-    {
-      "turkanime_title": "Koupen-chan 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 200,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YqqP25FY68BJz1DCVk-qQY_TNxdHF-SQ/preview"
-        },
-        {
-          "fansub_id": 200,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5888198"
-        },
-        {
-          "fansub_id": 200,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/n0v0ey3h3okl"
-        },
-        {
-          "fansub_id": 200,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/n8kbag79"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:31:29.776373",
-      "jikan_mal_id": null,
-      "filler": false,
-      "recap": false,
-      "title": "This Kind of Flower Viewing, Too",
-      "aired": "Apr 20, 2025"
-    },
-    {
-      "turkanime_title": "Koupen-chan 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 200,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1kM8vBKQBpLXA-rrOoCed_wy3SXnx2yld/preview"
-        },
-        {
-          "fansub_id": 200,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5894474"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:31:29.776373",
-      "jikan_mal_id": null,
-      "filler": false,
-      "recap": false,
-      "title": "Explosion",
-      "aired": "Apr 27, 2025"
-    },
-    {
-      "turkanime_title": "Koupen-chan 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 200,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UatC30Nt4kYdebqYU8MgVD0a-8Jc-CGu/preview"
-        },
-        {
-          "fansub_id": 200,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5902474"
-        },
-        {
-          "fansub_id": 200,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-lwzatwh5co36.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:31:29.776373",
-      "jikan_mal_id": null,
-      "filler": false,
-      "recap": false,
-      "title": "Golden Week",
-      "aired": "May 4, 2025"
-    },
-    {
-      "turkanime_title": "Koupen-chan 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 200,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1LIXAJ-PFZ1y73mV05LvK1z8NXGpR62za/preview"
-        },
-        {
-          "fansub_id": 200,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/saovmpn2m8fu"
-        },
-        {
-          "fansub_id": 200,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pk5fo5we"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:31:29.776373",
-      "jikan_mal_id": null,
-      "filler": false,
-      "recap": false,
-      "title": "Commuting",
-      "aired": "May 11, 2025"
-    },
-    {
-      "turkanime_title": "Koupen-chan 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 200,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RYn4GKOFw9-DTqjmFPFnJ4Gxdf5LhdEE/preview"
-        },
-        {
-          "fansub_id": 200,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/nxmdrh6wwc9q"
-        },
-        {
-          "fansub_id": 200,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/3jd972wx"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:31:29.776373",
-      "jikan_mal_id": null,
-      "filler": false,
-      "recap": false,
-      "title": "Penguin Wants to Fly in the Sky",
-      "aired": "May 18, 2025"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Laundry",
-      "episode_number": 8,
-      "aired": "May 25, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "Koupen-chan and the Evil Enaga-san's Encounter, Part 1",
-      "episode_number": 9,
-      "aired": "Jun 1, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "Koupen-chan and the Evil Enaga-san's Encounter, Part 2",
-      "episode_number": 10,
-      "aired": "Jun 8, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "The Summer Solstice is Almost Here",
-      "episode_number": 11,
-      "aired": "Jun 15, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "Brushing Teeth",
-      "episode_number": 12,
-      "aired": "Jun 22, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "13. Bölüm",
-      "title": "Melody of the Rainy Season",
-      "episode_number": 13,
-      "aired": "Jun 29, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "14. Bölüm",
-      "title": "The Smell of Summer",
-      "episode_number": 14,
-      "aired": "Jul 6, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "15. Bölüm",
-      "title": "Secretly Practicing a Song",
-      "episode_number": 15,
-      "aired": "Jul 13, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "16. Bölüm",
-      "title": "Koupen-chan on Stage",
-      "episode_number": 16,
-      "aired": "Jul 20, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "17. Bölüm",
-      "title": "You and Koupen-chan's Summer Vacation, Part 1",
-      "episode_number": 17,
-      "aired": "Jul 27, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "18. Bölüm",
-      "title": "You and Koupen-chan's Summer Vacation, Part 2",
-      "episode_number": 18,
-      "aired": "Aug 3, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "19. Bölüm",
-      "title": "Good Job Keeping It Cool",
-      "episode_number": 19,
-      "aired": "Aug 10, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "20. Bölüm",
-      "title": "Sparkling Ocean and Blue Friends, Part 1",
-      "episode_number": 20,
-      "aired": "Aug 17, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "21. Bölüm",
-      "title": "Sparkling Ocean and Blue Friends, Part 2",
-      "episode_number": 21,
-      "aired": "Aug 24, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "22. Bölüm",
-      "title": "Summer Vacation's End",
-      "episode_number": 22,
-      "aired": "Aug 31, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "23. Bölüm",
-      "title": "Adélie-san's Vegetable Harvest",
-      "episode_number": 23,
-      "aired": "Sep 7, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "24. Bölüm",
-      "title": "Good Job Taking a Bath!",
-      "episode_number": 24,
-      "aired": "Sep 14, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "25. Bölüm",
-      "title": "Eat Summer Vegetable Curry",
-      "episode_number": 25,
-      "aired": "Sep 21, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "26. Bölüm",
-      "title": "Good Job on Hydrating",
-      "episode_number": 26,
-      "aired": "Sep 28, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "27. Bölüm",
-      "title": "Adult Penguin's Real Name",
-      "episode_number": 27,
-      "aired": "Oct 5, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "28. Bölüm",
-      "title": "Myself and I",
-      "episode_number": 28,
-      "aired": "Oct 12, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "29. Bölüm",
-      "title": "Autumn Walk",
-      "episode_number": 29,
-      "aired": "Oct 19, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "30. Bölüm",
-      "title": "Halloween",
-      "episode_number": 30,
-      "aired": "Oct 26, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:25.852406"
-    },
-    {
-      "turkanime_title": "31. Bölüm",
-      "title": "Polar Bear's Secret Pocket",
-      "episode_number": 31,
-      "aired": "Nov 2, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-15T08:12:48.154684"
-    },
-    {
-      "turkanime_title": "32. Bölüm",
-      "title": "Day Trip to Hot Springs",
-      "episode_number": 32,
-      "aired": "Nov 9, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-15T08:12:48.154684"
-    },
-    {
-      "turkanime_title": "33. Bölüm",
-      "title": "Eating Winter Food With You Makes Me Happy",
-      "episode_number": 33,
-      "aired": "Nov 16, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-15T08:12:48.154684"
-    },
-    {
-      "turkanime_title": "34. Bölüm",
-      "title": "Evil Enaga-san and Koupen-chan",
-      "episode_number": 34,
-      "aired": "Nov 23, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-15T08:12:48.154684"
-    },
-    {
-      "turkanime_title": "35. Bölüm",
-      "title": "Great Job Waking Up!",
-      "episode_number": 35,
-      "aired": "Nov 30, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-15T08:12:48.154684"
-    },
-    {
-      "turkanime_title": "36. Bölüm",
-      "title": "First Snow",
-      "episode_number": 36,
-      "aired": "Dec 7, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:45:37.774042"
-    },
-    {
-      "turkanime_title": "37. Bölüm",
-      "title": "A New Year's Card For You",
-      "episode_number": 37,
-      "aired": "Dec 14, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:45:37.774042"
-    },
-    {
-      "turkanime_title": "38. Bölüm",
-      "title": "Christmas",
-      "episode_number": 38,
-      "aired": "Dec 21, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:45:37.774042"
-    },
-    {
-      "turkanime_title": "39. Bölüm",
-      "title": "You and Koupen-chan's New Year's Holidays",
-      "episode_number": 39,
-      "aired": "Dec 28, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:45:37.774042"
-    },
-    {
-      "turkanime_title": "40. Bölüm",
-      "title": "Happy New Year! New Year's Entertainment!",
-      "episode_number": 40,
-      "aired": "Jan 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:45:37.774042"
-    }
-  ]
+  "synopsis_tr": "Bebek imparator penguen Koupen-chan her zaman herkesin kendini dahil hissetmesini sağlar. Koupen-chan, en yeni arkadaşıyla tanışırken onlarla mümkün olduğu kadar çok zaman geçirmek ve günlerini güzelleştirmek istiyor.[MAL Rewrite tarafından yazıldı]"
 }

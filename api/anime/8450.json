@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikayede 1920’li yıllarda Japonya’nın kuzeydoğusundaki ormanlarda yaşayan Guskou isimli genç bir adam anlatılıyor. Doğal felaketlerin ardından, Guskou evini terk etmek ve daha iyi bir hayat kurmak zorunda kalır. Guskou Ihatov Volkan Departmanı’nda bir grup bilim adamına katılır. Bu bilim adamları Guskou’yu evinden uzaklara sürükleyen doğal afetleri araştırmaktadır.",
-    "slug": "guskou-budori-no-denki"
+    "slug": "guskou-budori-no-denki",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8450,
@@ -43,44 +44,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 8450,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx8450-yDCYyifGmEqB.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Guskou Budori no Denki",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1m_f-Bry21z1SNg24PTE8Pe-IaH29xaG8/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qUd9-o8GTkHtMI_rgAI-KcaliFpoyzRY/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016918"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-14rvt5f6969o.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:07:39.695963",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

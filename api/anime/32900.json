@@ -4,7 +4,8 @@
     "puan": "9.08",
     "bolum_durumu": "1/1",
     "ozet": "Hikayede, aylar geçer ve yakında ikinci sene başlamak üzeredir.İlk Büyü Okulu'ndaki birinci sınıfları biten Tatsuya ve Miyuki tatildedirler. İkili birlikte Ogasawara Takımadalarındaki villalarına giderler.Huzurlu geçen kısa bir süreden sonra, Kokoa adındaki genç bir kız çıkagelir.Donanma Üssü'nden kaçmıştır ve Tatsuya'ya tek dileğini söylemiştir.",
-    "slug": "mahouka-koukou-no-rettousei-movie-hoshi-wo-yobu-shoujo"
+    "slug": "mahouka-koukou-no-rettousei-movie-hoshi-wo-yobu-shoujo",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 32900,
@@ -59,66 +60,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21684,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21684-J179SuFPiCsz.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21684-MAT6GdCnfPdR.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 153,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qfAvGhpJ9oxTq8es3MYBD5MELUtaLaPk/preview"
-        },
-        {
-          "fansub_id": 153,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1HouA_PFiX-PnOBqjBfe9ajvcHp_BsRYp/preview"
-        },
-        {
-          "fansub_id": 153,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/akfsub/video/embed/_myvideo/130"
-        },
-        {
-          "fansub_id": 153,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715299"
-        },
-        {
-          "fansub_id": 153,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/augh5dky"
-        },
-        {
-          "fansub_id": 153,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-dguwxd9nkl7l.html"
-        },
-        {
-          "fansub_id": 231,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uCBfrKK5rzUtOha8gM1s2zk_-NlA-0Cd/preview"
-        },
-        {
-          "fansub_id": 231,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-p7o5f0x2kbsv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:52:25.044498",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 431821,
     "type": "movie",

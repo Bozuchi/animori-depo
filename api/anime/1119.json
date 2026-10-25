@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin dördüncü filmidir.",
-    "slug": "pokemon-movie-04-celebi-toki-wo-koeta-deai"
+    "slug": "pokemon-movie-04-celebi-toki-wo-koeta-deai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1119,
@@ -60,61 +61,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1119,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1119-kNBrsAGJXMXW.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1119-Vz0ohBLmZ5uP.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon Movie 4 - Pokemon 4Ever",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lcIgJhg_U51edHQAhsVYh0Q_TJOJPm5v/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852207"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845532"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4442102"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4063060"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xlf1wnrb8oqa.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-sleokgqbss2x.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:26:37.259169",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 60572,
     "type": "tv",

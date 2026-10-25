@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-    "slug": "kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku"
+    "slug": "kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63382,
@@ -43,6 +44,29 @@
           152170
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Emerging from the Darkness",
+        "aired": "Oct 6, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "A Job in the Royal Capital",
+        "aired": "Oct 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "After the Curtain Falls",
+        "aired": "Oct 20, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -57,37 +81,5 @@
     "episode_offset": 0,
     "name": "Nia Liston: The Merciless Maiden"
   },
-  "synopsis_tr": "Görünüşe göre iyileşme şansı yokken ölüm döşeğinde yatan genç Nia Liston, yakında hastalığına yenik düşecek. Umudunu yitiremeyen anne ve babası, en karanlık yerlerde bile umutsuzca bir tedavi ararlar ve bu durum, Nia'nın durumundan kurtulmasına yardım edebileceğini iddia eden kukuletalı bir adamın ortaya çıkmasına neden olur. Ancak kukuletalı adam onu ​​iyileştirmek yerine, savaşta yenilgiye uğramamış ölen bir kahramanın ruhunu kızın zayıf bedenine nakleder. Nia olarak yaşaması için ikinci bir şans verilen kahraman, hastalığı köklerinde hedef alıp ortadan kaldırmak için chi olarak bilinen bir teknik kullanarak yeni vücudunun gücünü geri kazanmaya kararlıdır. Savaşa olan coşkulu açlığı da devam eden Nia, dünyayı keşfetmeye geri dönmeye heveslidir. Ancak kahramanın huzursuz ruhu, onu savaş alanında yenebilecek değerli bir rakip bulmayı arzuluyor ve bu da Nia'nın gittiği her yerde kaosu ateşliyor.[MAL Rewrite tarafından yazıldı]",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Emerging from the Darkness",
-      "episode_number": 1,
-      "aired": "Oct 6, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:28.897298"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "A Job in the Royal Capital",
-      "episode_number": 2,
-      "aired": "Oct 13, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-14T08:39:36.781520"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "After the Curtain Falls",
-      "episode_number": 3,
-      "aired": "Oct 20, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-23T08:29:44.138560"
-    }
-  ]
+  "synopsis_tr": "Görünüşe göre iyileşme şansı yokken ölüm döşeğinde yatan genç Nia Liston, yakında hastalığına yenik düşecek. Umudunu yitiremeyen anne ve babası, en karanlık yerlerde bile umutsuzca bir tedavi ararlar ve bu durum, Nia'nın durumundan kurtulmasına yardım edebileceğini iddia eden kukuletalı bir adamın ortaya çıkmasına neden olur. Ancak kukuletalı adam onu ​​iyileştirmek yerine, savaşta yenilgiye uğramamış ölen bir kahramanın ruhunu kızın zayıf bedenine nakleder. Nia olarak yaşaması için ikinci bir şans verilen kahraman, hastalığı köklerinde hedef alıp ortadan kaldırmak için chi olarak bilinen bir teknik kullanarak yeni vücudunun gücünü geri kazanmaya kararlıdır. Savaşa olan coşkulu açlığı da devam eden Nia, dünyayı keşfetmeye geri dönmeye heveslidir. Ancak kahramanın huzursuz ruhu, onu savaş alanında yenebilecek değerli bir rakip bulmayı arzuluyor ve bu da Nia'nın gittiği her yerde kaosu ateşliyor.[MAL Rewrite tarafından yazıldı]"
 }

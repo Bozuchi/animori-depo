@@ -4,7 +4,107 @@
     "puan": "0.00",
     "bolum_durumu": "4/12",
     "ozet": "King of Prism -Shiny Seven Stars- filmlerinin TV versiyonudur.",
-    "slug": "king-of-prism-shiny-seven-stars"
+    "slug": "king-of-prism-shiny-seven-stars",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "King of Prism: Shiny Seven Stars 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10fcPutEuilKLSOn8tlPdRtbKavoT6auU/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718882"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4478094"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7btjb6k0"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-v6iqbwvty4gt.html"
+          }
+        ],
+        "added_date": "2026-07-27T03:42:40.923207"
+      },
+      {
+        "episode_number": 2,
+        "title": "King of Prism: Shiny Seven Stars 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1gW2itpF1OT6sHVQNcXXD26ECZojQdJzp/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511355"
+          }
+        ],
+        "added_date": "2026-07-27T03:42:40.923207"
+      },
+      {
+        "episode_number": 3,
+        "title": "King of Prism: Shiny Seven Stars 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SZZdNGYcP7bmdzcLEgRHVUiGoluezl6C/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4517162"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-s9nmdu9hl7pa.html"
+          }
+        ],
+        "added_date": "2026-07-27T03:42:40.923207"
+      },
+      {
+        "episode_number": 4,
+        "title": "King of Prism: Shiny Seven Stars 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MnecS2VYZazh4TYAnO4BomhO4957AeK4/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4595898"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-r4p1ss3rzcej.html"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4j6ogoakac14.html"
+          }
+        ],
+        "added_date": "2026-07-27T03:42:40.923207"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39699,
@@ -58,127 +158,12 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 103870,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103870-gHGXHwcewROc.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "King of Prism: Shiny Seven Stars 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10fcPutEuilKLSOn8tlPdRtbKavoT6auU/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718882"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4478094"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7btjb6k0"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-v6iqbwvty4gt.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:42:40.923207",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "King of Prism: Shiny Seven Stars 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1gW2itpF1OT6sHVQNcXXD26ECZojQdJzp/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4511355"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:42:40.923207",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "King of Prism: Shiny Seven Stars 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SZZdNGYcP7bmdzcLEgRHVUiGoluezl6C/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4517162"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-s9nmdu9hl7pa.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:42:40.923207",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "King of Prism: Shiny Seven Stars 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MnecS2VYZazh4TYAnO4BomhO4957AeK4/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4595898"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-r4p1ss3rzcej.html"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-4j6ogoakac14.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:42:40.923207",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

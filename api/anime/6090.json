@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Dünyanın kaderi, karanlığın doğaüstü ordusunu yenmesi beklenen, üç sınanmamış savaşçının omuzlarındadır. Büyücülük, dövüş sanatları ve karşılıksız aşk. Yasak Şehir kapılarında patlayan yüzyıllar süren destansı bir savaş... Kızıl Kurt, animeler arasında gerçek dünyadan kullandığı referanslar ile fantezi kurgusunu daha inandırıcı kılan farklı bir deneyimdir.",
-    "slug": "hon-ran"
+    "slug": "hon-ran",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 6090,
@@ -38,76 +39,14 @@
       77
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 6090,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n6090-XbDA8FICYF2z.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6090-rEHs9UmF6321.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hon Ran",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iCY33RFw4QGGb05LoczaWG3SBmk-v24z/preview"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359670680"
-        },
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4949364"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ul37zcu53217"
-        },
-        {
-          "fansub_id": 94,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ovby5rr31l7h.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XezGAhH94vamvrPV1G9InAyuaPbK7VwJ/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/837.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018744"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2590077"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2qawfm0xw5xa.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:02:58.319351",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 66033,
     "type": "movie",

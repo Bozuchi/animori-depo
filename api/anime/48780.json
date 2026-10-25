@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Japonya'nın en çekici erkekleri Saijou Takato ve Azumaya Junta birlikte rol aldıkları yapımlarda başarılı performanslar sergilemektedirler. Sıradaki ortak projeleri, içinde bir flamenko gösterisi de yer alan bir oyundur ancak Junta bir kez daha kökeni ve Takato'nun daha önce hiç dans etmemesi dolayısıyla bu rekabette üstünlüğe sahiptir. Junta'yı geride bırakmaya yönelik dinmek bilmeyen arzusundan enerji alan Takato Güney İspanya'ya giderek bu zor dansı sergilemesi için gereken tutkuyu yerinde öğrenmeye karar verir.\n\nTakato, sıcak ve cana yakın İspanya sokaklarında Celeste adında yaşlı ve yakışıklı, muhteşem bir flamenko dansçısıyla karşılaşır. Celeste’den bu dansı öğrenmek istese de Junta'nın dedesini ziyaret etmek için oraya gelmesiyle planları çok geçmeden sekteye uğrar. Junta'nın yetenek seviyesine ulaşma güçlüğünün yanı sıra Takato ayrıca Junta'nın ailesiyle haşır neşir olmalı ve Junta'nın aşkına talip, beklenmedik bir rakip olan Antonio ile mücadele etmelidir.",
-    "slug": "dakaretai-otoko-1-i-ni-odosarete-imasu-movie-spain-hen"
+    "slug": "dakaretai-otoko-1-i-ni-odosarete-imasu-movie-spain-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 48780,
@@ -54,34 +55,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 132545,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132545-nENYhlJhAohn.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Dakaretai Otoko 1-i ni Odosarete Imasu.: Spain-hen Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 198,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370066"
-        },
-        {
-          "fansub_id": 198,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/cr10s850ofan"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:54:17.819159",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

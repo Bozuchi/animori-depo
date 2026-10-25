@@ -4,7 +4,8 @@
     "puan": "8.54",
     "bolum_durumu": "1/1",
     "ozet": "İnsanların ayak basmadığı efsanevi bir ruhlar ülkesinde Chun adlı kız ergenlik töreni ile bir yunus şeklinde insanlar dünyasına geçiş yapar. İnsanlar dünyasında bir hafta geçirecektir sonra geri dönecektir. İnsanlar dünyasında insanlar ile temas halinde olması istenmemektedir ama Chun bir insan çocuğu temasta bulunur ve kazaya sebebiyet verir. Ruhların dünyasına gittiğinde ise maceramız başlamış olacaktır...",
-    "slug": "da-yu-hai-tang-movie"
+    "slug": "da-yu-hai-tang-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10259,
@@ -52,61 +53,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10259,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10259-RpYQHkAHIsNh.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10259-gNuFiCwYhvK9.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Da Yu Hai Tang",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 10,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UUemPS9SwkjWytnZxF8s_sxTkyq3AsBK/preview"
-        },
-        {
-          "fansub_id": 10,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/19RVmiyaQ7-GcFfgGmrw63N8NTsYTA1oG/preview"
-        },
-        {
-          "fansub_id": 10,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DQHV8MsZOAflHXJ7eCexVnuG7fmKH72f/preview"
-        },
-        {
-          "fansub_id": 10,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bO-LMB5b-y-mk024D5mSf3Mg65ft8ICb/preview"
-        },
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849242"
-        },
-        {
-          "fansub_id": 10,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-pmvmoon6gjsv.html"
-        },
-        {
-          "fansub_id": 10,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zsxqp9pdr4d6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:48:09.255971",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 271706,
     "type": "movie",

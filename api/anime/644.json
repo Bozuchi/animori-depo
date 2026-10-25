@@ -4,7 +4,93 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Hachimitsu to Clover serisine ait special bölümlerdir.",
-    "slug": "hachimitsu-to-clover-specials"
+    "slug": "hachimitsu-to-clover-specials",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Honey and Clover Special 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1s34shHAFlikLzSpX3Hzaf29_WzsfpANq/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271189698"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718068"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1061816"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4473963"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-21usyr1gbeio.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/htrimpl8"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/tmo6rdl8"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-imtphqge8lpr.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:18:56.061950"
+      },
+      {
+        "episode_number": 2,
+        "title": "Honey and Clover Special 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tNlGZYUEtHpTJRIO1TAEp9LHgFRCBEKZ/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661075"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271189699"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1061818"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-e1r0qpncz0no.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:18:56.061950"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 644,
@@ -62,105 +148,27 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 644,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/644-8tIzfZ8CYp10.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx644-f4d4dC0YznOz.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Honey and Clover Special 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1s34shHAFlikLzSpX3Hzaf29_WzsfpANq/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271189698"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718068"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1061816"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4473963"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-21usyr1gbeio.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/htrimpl8"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/tmo6rdl8"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-imtphqge8lpr.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:18:56.061950",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Honey and Clover Special 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tNlGZYUEtHpTJRIO1TAEp9LHgFRCBEKZ/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661075"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271189699"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1061818"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-e1r0qpncz0no.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:18:56.061950",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

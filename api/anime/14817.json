@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hakuoh Kızlar Akademisi üçüncü sınıf öğrencisi Marika Kato, Korsanlık Beratı olan yasal bir uzay korsandır. Dersleri, okulunun uzay yat kulübü başkanlığı, Lamba Kafe'deki yarı zamanlı işi ve uzay korsan gemisi Bentenmaru'ya kaptanlık yapması Marika'nın günlerini meşgul etmektedir. Bir gün Marika yüksek sınıf bir yolcu gemisini soyma işi alır ve yolcu listesinde galaksi geçiş kartı olan Kanata Mugen'i fark eder. Böylece korsanlar ve genç bir çocuk arasında hiperuzayı da kapsayan bir macera başlar.",
-    "slug": "mouretsu-pirates-abyss-of-hyperspace"
+    "slug": "mouretsu-pirates-abyss-of-hyperspace",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 14817,
@@ -53,51 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 14817,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14817-fs8OLqSgH90S.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14817-XPcB6Z9bzNbF.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mouretsu Pirates: Abyss of Hyperspace",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uuLIYANQV9swr9DrfA4PnWQt8oQpl1uO/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yito4PrcXNSw4DOIwGcFJdlSdvz9xE6_/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/dondurma90/video/embed/_myvideo/30"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gb21dto12xs3.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-pc4xxr6slvqj.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:25:55.851098",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 42501,
     "type": "tv",

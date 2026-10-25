@@ -4,7 +4,83 @@
     "puan": "0.00",
     "bolum_durumu": "2/3",
     "ozet": "Double Decker! Doug & Kirill animesinin özel bölümleridir.",
-    "slug": "double-decker-doug-kirill-extra"
+    "slug": "double-decker-doug-kirill-extra",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Double Decker! Doug & Kirill Extra 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1thnpWnnvzlxih-Tqk3wSk74HiMte3m5q/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660060"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3586142"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3563827"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4459332"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-en7i6hhzkdo8.html"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/op0ufei6"
+          },
+          {
+            "fansub_id": 34,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-pajir62u9dvq.html"
+          }
+        ],
+        "added_date": "2026-07-24T22:08:16.487193"
+      },
+      {
+        "episode_number": 2,
+        "title": "Double Decker! Doug & Kirill Extra 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1w8tqoc_lmGllQBOj48luDsRjOOEiAJuK/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849354"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3586137"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4427507"
+          }
+        ],
+        "added_date": "2026-07-24T22:08:16.487193"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38895,
@@ -49,95 +125,12 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 106690,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106690-7Y9AxDj25BaK.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Double Decker! Doug & Kirill Extra 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 34,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1thnpWnnvzlxih-Tqk3wSk74HiMte3m5q/preview"
-        },
-        {
-          "fansub_id": 34,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660060"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3586142"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3563827"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4459332"
-        },
-        {
-          "fansub_id": 34,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-en7i6hhzkdo8.html"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/op0ufei6"
-        },
-        {
-          "fansub_id": 34,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-pajir62u9dvq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T22:08:16.487193",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Double Decker! Doug & Kirill Extra 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 34,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1w8tqoc_lmGllQBOj48luDsRjOOEiAJuK/preview"
-        },
-        {
-          "fansub_id": 34,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849354"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3586137"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4427507"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T22:08:16.487193",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

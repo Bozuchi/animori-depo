@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin üçüncü filmidir.",
-    "slug": "pokemon-movie-03-kesshoutou-no-teiou-entei"
+    "slug": "pokemon-movie-03-kesshoutou-no-teiou-entei",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1118,
@@ -61,25 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1118,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1118-QLIw2ueWalMZ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1118-90hGoWgDV1k4.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon Movie 3 - Spell of The Unown",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:26:34.021237",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 60572,
     "type": "tv",

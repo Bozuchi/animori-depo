@@ -4,7 +4,8 @@
     "puan": "9.31",
     "bolum_durumu": "2/1+",
     "ozet": "My Hero Academia'nın 2. filmidir",
-    "slug": "boku-no-hero-academia-the-movie-2-heroes-rising"
+    "slug": "boku-no-hero-academia-the-movie-2-heroes-rising",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39565,
@@ -59,41 +60,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 108553,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108553-rEe0n22hRkPH.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Boku no Hero Academia Movie 2: Heroes Rising",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EYGjAEUylOH0IVSZO67SLhYnqO0piHl8/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/mmgobwz5noih"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/33x5h9r7"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T06:23:47.670091",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 592350,
     "type": "movie",

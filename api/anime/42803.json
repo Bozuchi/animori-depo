@@ -4,7 +4,61 @@
     "puan": "0.00",
     "bolum_durumu": "1/2",
     "ozet": "Dokyuu Hentai HxEros serisinin OVA bölümleridir.",
-    "slug": "dokyuu-hentai-hxeros-ova"
+    "slug": "dokyuu-hentai-hxeros-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Dokyuu Hentai HxEros OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SGI-Cqe3RaiTSA4f5wBqEGssyoVX7Lm9/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1T7ROC2IrHfz14Ohn08WjAPbGeypivKM7/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/445"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715957"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4320445"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4465726"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/p8shci04"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pwg7ttzp"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rzhcf11f1oe5.html"
+          }
+        ],
+        "added_date": "2026-07-24T21:54:00.841893"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 42803,
@@ -51,71 +105,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 123769,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123769-ClztG4bhi1hD.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Dokyuu Hentai HxEros OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SGI-Cqe3RaiTSA4f5wBqEGssyoVX7Lm9/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1T7ROC2IrHfz14Ohn08WjAPbGeypivKM7/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/445"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715957"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4320445"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4465726"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/p8shci04"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pwg7ttzp"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rzhcf11f1oe5.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T21:54:00.841893",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 96120,
     "type": "tv",

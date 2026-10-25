@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/12",
     "ozet": "Nijigasaki Lisesi idol kulübü üyelerinin günlük hayatlarını anlatan 4-koma serisinin kısa anime uyarlamasıdır.",
-    "slug": "nijiyon-animation"
+    "slug": "nijiyon-animation",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 53077,
@@ -64,7 +65,8 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 154785,

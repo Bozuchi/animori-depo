@@ -4,7 +4,115 @@
     "puan": "0.00",
     "bolum_durumu": "4/12",
     "ozet": "Tecrübeli seslendirmen Yasumi Utatane fanlarını memnun etmek için saf ve masum imajını korumak için çok çabalasa bile daha fazla iş bulma konusunda zorlanmaktadır. Fakat Yasumi'nin aslında Yumiko Satou adında liseli, bol giysiler ve parlak takılar takınan ve mesleki sahte kimliğiyle bütünüyle çelişen gerçek kişiliği aslında bir sırdır.\n\nYumiko, Yasumi olarak nihayet hayran olduğu yükselen Yuuhi Yuugire adlı seslendirme sanatçısıyla birlikte radyo programı yapma fırsatı bulur. Yumiko'ya göre Yuuhi'nin sevimli görünümü ve yetenekli oyunculuğu, bir seslendirme sanatçısının olması gerektiğini düşündürtür. Ancak kayıt stüdyosunda tanışır tanışmaz Yumiko, Yuuhi'nin aslında kasvetli sınıf arkadaşı Chika Watanabe olduğunu fark eder. İkili birlikte radyo programlarına başlar ve yavaş yavaş birbirlerine açılmaya başlarlar. Yumiko ve Chika birbirlerine destek çıkarak yavaş yavaş kendilerine karşı dürüst olmayı öğrenirler.",
-    "slug": "seiyuu-radio-no-uraomote"
+    "slug": "seiyuu-radio-no-uraomote",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Seiyuu Radio no Uraomote 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372276"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vpqvpc13jftr.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1257,
+            "end": 1345
+          }
+        },
+        "added_date": "2026-07-29T07:30:24.048664"
+      },
+      {
+        "episode_number": 2,
+        "title": "Seiyuu Radio no Uraomote 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372277"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/bergimjmer42"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-50vg2j0hr8b3.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1414
+          }
+        },
+        "added_date": "2026-07-29T07:30:24.048664"
+      },
+      {
+        "episode_number": 3,
+        "title": "Seiyuu Radio no Uraomote 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372278"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-di9n3v15mgvu.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 27,
+            "end": 115
+          },
+          "ed": {
+            "start": 1325,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-29T07:30:24.048664"
+      },
+      {
+        "episode_number": 4,
+        "title": "Seiyuu Radio no Uraomote 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372279"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/gjj0hkk6cdiy"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kei7cq4bkrk0.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1327,
+            "end": 1412
+          }
+        },
+        "added_date": "2026-07-29T07:30:24.048664"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53912,
@@ -48,133 +156,43 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 159039,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159039-pS8nlIsLwzBr.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159039-88kPltmhTzqU.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Seiyuu Radio no Uraomote 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372276"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-vpqvpc13jftr.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1257,
-          "end": 1345
-        }
-      },
-      "added_date": "2026-07-29T07:30:24.048664",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Seiyuu Radio no Uraomote 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372277"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/bergimjmer42"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-50vg2j0hr8b3.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1414
-        }
-      },
-      "added_date": "2026-07-29T07:30:24.048664",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Seiyuu Radio no Uraomote 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372278"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-di9n3v15mgvu.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 27,
-          "end": 115
-        },
-        "ed": {
-          "start": 1325,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-29T07:30:24.048664",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Seiyuu Radio no Uraomote 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372279"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/gjj0hkk6cdiy"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kei7cq4bkrk0.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1327,
-          "end": 1412
-        }
-      },
-      "added_date": "2026-07-29T07:30:24.048664",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 216760,
     "type": "tv",

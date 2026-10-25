@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Seriye ait OVA bölümdür.",
-    "slug": "bakuretsu-tenshi-infinity"
+    "slug": "bakuretsu-tenshi-infinity",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2205,
@@ -52,66 +53,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2205,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2205-PaNctk3dsM0H.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Burst Angel Infinity OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1o_uj05cCFn-3Uvs8Kp4M4n5sd4x0i2m0/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1twIUkwtMjHTeg7Fe-WAtT3Cr3G0JPovW/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666159"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911295"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2542542"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-yb65r7hs6gui.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-u11ivvf5n4sz.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-75pjc0mf9sm5.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:50:51.335646",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 45392,
     "type": "movie",

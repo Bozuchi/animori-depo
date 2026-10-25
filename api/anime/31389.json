@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Fate/stay night: Unlimited Blade Works 2nd Season kısa özel bölümüdür.",
-    "slug": "fate-stay-night-unlimited-blade-works-2nd-season-sunny-day"
+    "slug": "fate-stay-night-unlimited-blade-works-2nd-season-sunny-day",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31389,
@@ -46,54 +47,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21318,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21318-RyAOztAU45Pn.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21318-l441SwTgnl5h.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271188359"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/44.html"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/q16gdpbg"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/nacres041/_myvideo/82.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271188360"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/6y4lkcuu"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T01:26:51.980493",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,66 @@
     "puan": "0.00",
     "bolum_durumu": "1/6",
     "ozet": "Büyücülerin ve Delik'in dünyasını derinlemesine keşfederek; karakterlerin düşmanlarını aramadıkları boş zamanlarında neler yaptıkları işleyen bölümüdür.",
-    "slug": "dorohedoro-ma-no-omake"
+    "slug": "dorohedoro-ma-no-omake",
+    "episodes": [
+      {
+        "episode_number": 6,
+        "title": "Dorohedoro: Ma no Omake 1 - 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359652715"
+          },
+          {
+            "fansub_id": 78,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667957"
+          },
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762180"
+          },
+          {
+            "fansub_id": 78,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/40cumeeg"
+          },
+          {
+            "fansub_id": 78,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-402hc6rv5t45.html"
+          },
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_5Yyv9eWSe1rvURLu8aKcCszJc0XMsfx/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661520"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4286336"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1lgfv7zf"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7yrlr0gazfu1.html"
+          }
+        ],
+        "added_date": "2026-07-24T22:00:34.864104"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 41053,
@@ -54,74 +113,12 @@
         ]
       }
     ],
-    "episodes": 6
+    "episodes": 6,
+    "episode_list": []
   },
   "anilist": {
     "id": 114622,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114622-LAxKu53ewNg5.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114622-mpMhXM8JqCjc.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Dorohedoro: Ma no Omake 1 - 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359652715"
-        },
-        {
-          "fansub_id": 78,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667957"
-        },
-        {
-          "fansub_id": 78,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762180"
-        },
-        {
-          "fansub_id": 78,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/40cumeeg"
-        },
-        {
-          "fansub_id": 78,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-402hc6rv5t45.html"
-        },
-        {
-          "fansub_id": 62,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_5Yyv9eWSe1rvURLu8aKcCszJc0XMsfx/preview"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661520"
-        },
-        {
-          "fansub_id": 62,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4286336"
-        },
-        {
-          "fansub_id": 62,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1lgfv7zf"
-        },
-        {
-          "fansub_id": 62,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7yrlr0gazfu1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T22:00:34.864104",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

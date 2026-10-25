@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Ödül kazanmış bu anime serisi kadınlar için kısa hikayelerden oluşmaktadır.",
-    "slug": "otona-joshi-no-anime-time"
+    "slug": "otona-joshi-no-anime-time",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10178,
@@ -44,132 +45,12 @@
       318
     ],
     "relations": [],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": []
   },
   "anilist": {
     "id": 10178,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10178-UnyUzVEPYqsd.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kawamo wo Suberu Kaze - Otona Joshi no Anime Time",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Z1e2l-otMdFDEYcyML4IW67o1umU8ams/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018835"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2623559"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:36:19.735396",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Yuuge - Otona Joshi no Anime Time",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1r1n4z0a5PdI9zk-a_hdnxdxj7wpr-WgZ/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018836"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2623569"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-adw71u2mg179.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/vi7xnktw"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:36:19.735396",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Dokoka Dewanai Koko - Otona Joshi no Anime Time",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mTM-fFK0EnT5MSxganT60UY8ZUaolizD/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018837"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2631620"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:36:19.735396",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Jinsei Best 10 - Otona Joshi no Anime Time",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1i3qdtlJaya0J7Ge-8hJD5Lk4xr1vGd95/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018838"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2631622"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ra6dmm9ssyia.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:36:19.735396",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

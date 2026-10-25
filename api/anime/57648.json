@@ -4,7 +4,302 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Kazuhiro Kitase'nin tek hobisi uyumaktır. Küçüklüğünden beri rüyalarında harikulade bir dünyaya girer ve heyecan verici maceralara çıkar. Bir gün, rüyalar aleminde arkadaş olduğu bir elf kızla maceraya çıkar, ama bu macera bir ejderhanın nefesiyle yarıda kesilir. Rüyasından uyandığında yanındaki tanıdık yüz... Rüyasındaki elf mi?",
-    "slug": "nihon-e-youkoso-elf-san"
+    "slug": "nihon-e-youkoso-elf-san",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Nihon e Youkoso Elf-san. 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MqJn0Vvx6guQLzOOahx9AS7Zu-L98XZS/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5799369"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/mjmdywj5447i"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/bnyiakvtw6n8"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AVN1mitGAkWuaY8pSc-WYs00a-aXhXFF/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5794955"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          },
+          "ed": {
+            "start": 1330,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 2,
+        "title": "Nihon e Youkoso Elf-san. 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1joLA2ft2Rsqz4E1R41vMS2xkoRjp6-Je/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5807219"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/dqa080ph8zhj"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/0qxwhb87yzxp"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bjlPzZHk5_o7zB74mASsJk4Zfb6uH9Kk/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5800490"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          },
+          "ed": {
+            "start": 1330,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 3,
+        "title": "Nihon e Youkoso Elf-san. 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JsbC9Ot2VMwsrncFc33QGCACx7PI2X8C/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5805769"
+          }
+        ],
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 4,
+        "title": "Nihon e Youkoso Elf-san. 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tl3YQWrPsIptsg94k-uUSH5yEeIB3BSY/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5810867"
+          }
+        ],
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 5,
+        "title": "Nihon e Youkoso Elf-san. 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1i9kvIAlYhespq-3bwT_cL_y8qMDk0SpL/preview"
+          }
+        ],
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 6,
+        "title": "Nihon e Youkoso Elf-san. 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1d2-5X2w1S_VfFxfqm_c9BX2mVNv5P58Z/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5824962"
+          }
+        ],
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 7,
+        "title": "Nihon e Youkoso Elf-san. 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15szQ0Wc95xmNdo1WfuZoFxpZVEke0WG5/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5831253"
+          }
+        ],
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 8,
+        "title": "Nihon e Youkoso Elf-san. 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JJxgEFfbmUsNgMP6ZPrRQsH4Hje6mjtj/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5838175"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 9,
+        "title": "Nihon e Youkoso Elf-san. 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1E-5Nrww5nd3JiWimQx1vbnMAUx0rF-0o/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5845304"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          },
+          "ed": {
+            "start": 1334,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 10,
+        "title": "Nihon e Youkoso Elf-san. 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1A-U-ghs7J7QDF4OEehE7lWEpSCgO1hM0/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5850643"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 11,
+        "title": "Nihon e Youkoso Elf-san. 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pbE0DYNQdHJMUIKxvrgcDBm3FCBr8YFM/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5856515"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-27T16:10:54.503291"
+      },
+      {
+        "episode_number": 12,
+        "title": "Nihon e Youkoso Elf-san. 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1l3dRMlT1F06I_9A4ANgbEdGOyjvQ2kNt/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-f2md7ov4lqvb.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-27T16:10:54.503291"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 57648,
@@ -53,349 +348,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 172439,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172439-5XFq61KJyIPW.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172439-sTda7baXB0Fh.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MqJn0Vvx6guQLzOOahx9AS7Zu-L98XZS/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5799369"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/mjmdywj5447i"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/bnyiakvtw6n8"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AVN1mitGAkWuaY8pSc-WYs00a-aXhXFF/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5794955"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        },
-        "ed": {
-          "start": 1330,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1joLA2ft2Rsqz4E1R41vMS2xkoRjp6-Je/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5807219"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/dqa080ph8zhj"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/0qxwhb87yzxp"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bjlPzZHk5_o7zB74mASsJk4Zfb6uH9Kk/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5800490"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        },
-        "ed": {
-          "start": 1330,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JsbC9Ot2VMwsrncFc33QGCACx7PI2X8C/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5805769"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tl3YQWrPsIptsg94k-uUSH5yEeIB3BSY/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5810867"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1i9kvIAlYhespq-3bwT_cL_y8qMDk0SpL/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1d2-5X2w1S_VfFxfqm_c9BX2mVNv5P58Z/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5824962"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15szQ0Wc95xmNdo1WfuZoFxpZVEke0WG5/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5831253"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JJxgEFfbmUsNgMP6ZPrRQsH4Hje6mjtj/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5838175"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1E-5Nrww5nd3JiWimQx1vbnMAUx0rF-0o/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5845304"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        },
-        "ed": {
-          "start": 1334,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1A-U-ghs7J7QDF4OEehE7lWEpSCgO1hM0/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5850643"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pbE0DYNQdHJMUIKxvrgcDBm3FCBr8YFM/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5856515"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Nihon e Youkoso Elf-san. 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1l3dRMlT1F06I_9A4ANgbEdGOyjvQ2kNt/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-f2md7ov4lqvb.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-27T16:10:54.503291",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 249031,
     "type": "tv",

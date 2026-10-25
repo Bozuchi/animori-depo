@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Makinaların her şeyi yapabildiği rahat bir dünyada bir kahraman yaratıcıyı görmek için çıktığı yolculukta makinalardan neye ihtiyacı varsa üretir. Makinayı takas ederek dünyayı satın almak istemektedir. Ancak yaratıcı dünyada böyle bir şeyin olmayacağını basitçe söyleyerek isteğini geri çevirir. Hikayenin basitliği, bu dört dakikalık çalışmada Osamu Tesuka'nın dünyanın bozulması hakkındaki umutsuzluğunun derinliklerini aydınlatmaktadır.",
-    "slug": "push"
+    "slug": "push",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3474,
@@ -38,66 +39,14 @@
       200
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3474,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3474-IfwOMkDvBtYB.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Push",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Xopds-8VxJIoKL9KbW65d8UCzcPPsc0U/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271187904"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359664750"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5677.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1525233"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4618286"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rln4p683o1ks.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gvet84uqa98e.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:17:53.212379",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 85799,
     "type": "movie",

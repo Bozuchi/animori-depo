@@ -4,7 +4,120 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Yume de Aetara; Fuguno Masuo isimli bir adamla birlikte (söz konusu kadınlarla ilişki olduğunda tamamen şanssız birisi) iki kadın: Shiozaki Nagisa ve Hamaoka Miho hakkında. Hikaye aslında oldukça basit (ve oldukça komik) olduğu için uzun bir açıklama heyecanını kaçıracaktır. (İpucunu al: Kendin izle!)",
-    "slug": "yume-de-aetara"
+    "slug": "yume-de-aetara",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Yume de Aetara 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17r3xd2RkPREuqBujIHJn1mIS5nAzmgKK/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658988"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271190133"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4455984"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qp7guo67"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2oanov8yhuhy.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:03:40.668123"
+      },
+      {
+        "episode_number": 2,
+        "title": "Yume de Aetara 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1B85jskOrVsilktUXgwbqyI3Ie6A68Rok/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682367406"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521281"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-breo2xi7m03m.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ipb2hfrnx4fl.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ap84he3lodvq.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:03:40.668123"
+      },
+      {
+        "episode_number": 3,
+        "title": "Yume de Aetara 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mlPkUJ_gQG95WQXVwq5xfXuLafe4liY6/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660499"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682367407"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-bo5ioamx2u2m.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jdwky5rg8ozc.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-r933dm891lvb.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:03:40.668123"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 715,
@@ -54,138 +167,14 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 715,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx715-KP3czCDX5lgW.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yume de Aetara 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17r3xd2RkPREuqBujIHJn1mIS5nAzmgKK/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658988"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271190133"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4455984"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qp7guo67"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2oanov8yhuhy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:03:40.668123",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Yume de Aetara 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1B85jskOrVsilktUXgwbqyI3Ie6A68Rok/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682367406"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521281"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-breo2xi7m03m.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ipb2hfrnx4fl.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ap84he3lodvq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:03:40.668123",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Yume de Aetara 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mlPkUJ_gQG95WQXVwq5xfXuLafe4liY6/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660499"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682367407"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bo5ioamx2u2m.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jdwky5rg8ozc.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-r933dm891lvb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:03:40.668123",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 22824,
     "type": "tv",

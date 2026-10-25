@@ -4,7 +4,88 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Kure-nai Animesinin OVA Bölümleridir.",
-    "slug": "kure-nai-ova"
+    "slug": "kure-nai-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Kure-nai OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1r-WWeoWL1S1wUW1qPNo5LFsmK8z27KqC/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851914"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158067978"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4441374"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3498849"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-w4ikyyi2s5nh.html"
+          }
+        ],
+        "added_date": "2026-07-27T06:50:03.160458"
+      },
+      {
+        "episode_number": 2,
+        "title": "Kure-nai OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lj6qTEeoy8gLUtdQMoYLeQxsOCrt78gq/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158067979"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3498867"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4503389"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zjr77zpz4c5e.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jn4gx1us"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-g0ohiuf268ka.html"
+          }
+        ],
+        "added_date": "2026-07-27T06:50:03.160458"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8078,
@@ -53,102 +134,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 8078,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8078.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kure-nai OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1r-WWeoWL1S1wUW1qPNo5LFsmK8z27KqC/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851914"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158067978"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4441374"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3498849"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-w4ikyyi2s5nh.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:50:03.160458",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Kure-nai OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lj6qTEeoy8gLUtdQMoYLeQxsOCrt78gq/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158067979"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3498867"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4503389"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zjr77zpz4c5e.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/jn4gx1us"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-g0ohiuf268ka.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:50:03.160458",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 35989,
     "type": "tv",

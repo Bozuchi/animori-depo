@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Hololive Alternative",
-    "slug": "hololive-alternative"
+    "slug": "hololive-alternative",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 47904,
@@ -41,13 +42,13 @@
           44042
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 129963,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/129963-IDICpmMz0HqR.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129963-mJHVwkn9NFoz.png"
   },
-  "synopsis_tr": "Hololive Alternatifmultimedya projesi için tanıtım videoları.",
-  "episodes": []
+  "synopsis_tr": "Hololive Alternatifmultimedya projesi için tanıtım videoları."
 }

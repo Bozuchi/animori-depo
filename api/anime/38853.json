@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/12",
     "ozet": "Akira Natsume'nin elektrikli cihazlara karşı fobisi var gibi görünse de aynı zamanda onlarla çok iyi bağlantı kurabilmektedir. Bir gün daha iyi bir forma girmek ve tıpkı abisi gibi bir kız arkadaş bulmak için değişmeye karar verir. Fakat daha sonra Akira bir kaza sonucu aniden ölür. Bundan 16 yıl sonra özel bir kadın polis memuru ve onun android partneri, son çare olarak geminin tüm kontrollerini EX-ARM olarak adlandırılan gelişmiş bir yapay zekâ ve süper silaha devrederler fakat aslında bu yapay zekâ Akira'nın beynidir.",
-    "slug": "ex-arm"
+    "slug": "ex-arm",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 38853,
@@ -46,7 +47,8 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 106503,

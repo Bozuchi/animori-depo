@@ -4,7 +4,8 @@
     "puan": "8.61",
     "bolum_durumu": "1/1",
     "ozet": "Mahou Shoujo Madoka üçlemesinin (trilogy) üçüncü filmi. İkinci filmin ve dolayısıyla TV serisinin de kaldığı yerden devam etmektedir.",
-    "slug": "mahou-shoujo-madoka-magica-movie-3-hangyaku-no-monogatari"
+    "slug": "mahou-shoujo-madoka-magica-movie-3-hangyaku-no-monogatari",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 11981,
@@ -67,59 +68,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 11981,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11981-kfpR0i6kwMLM.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11981-koz1IoISs3eU.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 76,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CpSz3Qp6qCZb2k5WPg-24SlrMwLgOOxT/preview"
-        },
-        {
-          "fansub_id": 76,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017370"
-        },
-        {
-          "fansub_id": 76,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/bk/schneizel/video/embed/_myvideo/808"
-        },
-        {
-          "fansub_id": 76,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3043801"
-        },
-        {
-          "fansub_id": 76,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cy7hu4f3g93t.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fme84tyXcCXtrroGWdAaylGPDR-F8mTC/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661781"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:43:57.560786",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

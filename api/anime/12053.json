@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Fütüristik bir şehir olan Kamina’da, Rune isimli genç bir fahişe,kumarbaz Septinous tarafından kullanılmaktadır. Bir gece, Rune bir patlamada onu öldürmeye çalışır. Ancak, Dr. Paskalya onu kurtararak bir cyborga dönüştürür…",
-    "slug": "mardock-scramble-the-third-exhaust"
+    "slug": "mardock-scramble-the-third-exhaust",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 12053,
@@ -53,44 +54,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 12053,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12053-Jf9xTHCDpUis.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Mardock Scramble: The Third Exhaust",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1K4O8phv2P9772joSyUAdqg0QzNLFKAfc/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846806"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018268"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4071957"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T10:58:19.122632",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

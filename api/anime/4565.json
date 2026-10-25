@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "İlk filmi takip ederek TV serisinin ikinci yarısını yeni görseller ve bazı eklenen sahnelerle yeniden anlatan bir filmdir.",
-    "slug": "tengen-toppa-gurren-lagann-movie-2-lagann-hen"
+    "slug": "tengen-toppa-gurren-lagann-movie-2-lagann-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4565,
@@ -53,56 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4565,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4565-Ngb9pZ0nuf8s.png",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4565-FbFYEBTJSPyr.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tengen Toppa Gurren-Lagann Movie 2 Final",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1E4vxIBQ3Rp8G1GNlSx1Mhx1HJcEdYYxq/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BUsfIS222CppZEHjES9BdL0DdkqqkQrQ/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931909850"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4527617"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1945453"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-42x8wvgp087m.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:42:07.659755",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 21729,
     "type": "tv",

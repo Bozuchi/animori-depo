@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Plânlar, daha uçak yere inmeden başlamıştır. Nina Shutenberg, ünlü bir piyanisttir ve bir konser için Japonya’ya gelmiştir.\n\nRyo ve Kaori, yeni bir iş için yine o malum tahtaya bakmaktadırlar. Gün onlar için gayet güzel başlamıştır, özellikle, Ryo için. Tabi Kaori’de O’nun peşini bırakmayacaktır. Buluşma yerine güzel bir bayan gelir, isminin Nina Shutenberg olduğunu ve hiç tanımadığı, hiç bilmediği babasının bulunması için teklifte bulunur. İşi hiç düşünmeden kabul eden City Hunter nasıl bir belaya bulaştığını geç de olsa anlar ama işveren güzel bir bayan olunca belanın türü ve büyüklüğü sorun olmaz. Bu diplomatik sorunu çözebilecek ve aynı zamanda da bir aileyi bir araya getirmeyi başarabilecek tek bir kişi vardır!",
-    "slug": "city-hunter-ai-to-shukumei-no-magnum"
+    "slug": "city-hunter-ai-to-shukumei-no-magnum",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1474,
@@ -47,41 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1474,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1474-bIjdcv6aqKDo.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1474-Sasa1WNPnkwi.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "City Hunter 357 Magnum",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZT6DrZp9nFpqDpoOlRqTPSY5tGoUqyrZ/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845776"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4064848"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:05:58.221793",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 36046,
     "type": "tv",

@@ -4,7 +4,61 @@
     "puan": "0.00",
     "bolum_durumu": "1/2",
     "ozet": "Papa no Iukoto wo Kikinasai! serisinin OVA bölümleridir.",
-    "slug": "papa-no-iukoto-wo-kikinasai-ova"
+    "slug": "papa-no-iukoto-wo-kikinasai-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Papa no Iukoto wo Kikinasai! OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Pzk5OcVqAg_bzYGJY1NEO4kT-z7fqh8B/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/2218/2219.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271189370"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1186746"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2399844"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4499489"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-bikbdtzyml8d.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pu92xcog"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-am12j5c6086c.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:17:42.014273"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 17875,
@@ -44,71 +98,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 17875,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17875.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Papa no Iukoto wo Kikinasai! OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Pzk5OcVqAg_bzYGJY1NEO4kT-z7fqh8B/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/2218/2219.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271189370"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1186746"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2399844"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4499489"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bikbdtzyml8d.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pu92xcog"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-am12j5c6086c.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:17:42.014273",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 46183,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kamu Güvenliği Bürosu'nda iblis avcısı olduktan sonra karşılaştığı ilk zorluklara rağmen, Denji yeni hayatına ve sorumluluklarına hızla uyum sağlamıştır. Denji'nin Kamu Güvenliği'ndeki ilk zorlu deneyiminin yarattığı kaos yatışırken, seçkin şeytan avcısı Makima, Denji'yi bir randevuya çıkarmaya karar verir. Randevu, Makima'ya olan sevgisini güçlendirir ve Denji, başka kimseye aşık olmayacağına yemin eder, ancak kısa süre sonra Reze adında masum görünümlü bir kafe çalışanıyla tanıştığında kendini zor bir durumda bulur.\nCesur ve flörtöz tavırlarıyla Reze, Denji'nin kalbini hemen çalar ve onu Reze'nin çalıştığı kafeye sık sık gitmeye ve onunla ilişkisini derinleştirmeye iter. Ancak Denji, Reze ile tanışmanın, kalbinin hangi kadına ait olduğuna karar vermekten öte, ciddi sonuçlar doğurabileceği gerçeğinden tamamen habersizdir.",
-    "slug": "chainsaw-man-movie-reze-hen"
+    "slug": "chainsaw-man-movie-reze-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 57555,
@@ -61,31 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 171627,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171627-7esVHhgw69rn.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171627-ZN9D7P46yHnw.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Chainsaw Man: Reze-hen Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14Q_yNwq_rKGCo7yGK7dlLl-oJW-kMkkR/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T08:51:05.432710",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1218925,
     "type": "movie",

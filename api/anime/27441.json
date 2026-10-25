@@ -4,7 +4,609 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Cyan, en sevdiği ritim oynunu oynerken birden kendini müziğin güç sayıldığı Midi Şehri'nde bulur ve müzik macersası Show By Rock!! başlar. Cyan güzel ve güçlü müzik yapanların şehri kontrol etme yeteneği kazandığını öğrenir. Anca her müzik saf ve temiz değildir. Bütün Midi Sehri'ni karanlığa gömecek şeytani bir plan yapılıyordur. Cyan'ın bunu durdurması için çok mu geç? Cyan Hijirikawa kendisini hep sıradan bir dünyadaki sıradan bir insan olarak görür. Gitar çalmakta çok yeteneklidir ancak kendine olan güvenindeki eksiklik yüzünden bir grupta çalma ve milyoner olma hayaline asla yaklaşamamıştır. Henüz içinde yatan güçten, şeytani güçleri büyülü müziğiyle alt etme gücünden haberdar değildir. Cyan, Chuchu, Retoree ve Moa'ya müziğin her şey olduğu bu dünyada eşlik edin.",
-    "slug": "show-by-rock"
+    "slug": "show-by-rock",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Show by Rock!! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1l-arpcDZKHceyy5AxCnuwJbM1ZmkmHt-/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361187"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/129.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4500668"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gvpz5nu81e2g.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hot25hxf5goo.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vqixkppq"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7yzqdwzjzkqe.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 80.278,
+            "end": 198.767
+          },
+          "ed": {
+            "start": 1315,
+            "end": 1393
+          }
+        },
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 2,
+        "title": "Show by Rock!! 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1kTskxLlenhFK4uCFJmabRjD3goi4EuNs/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361186"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/136.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511611"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-4a3st1juky1o.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wl6hzxcokhrc.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-k0hi27hk5zej.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 3,
+        "title": "Show by Rock!! 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BBL0-0JiosxcmcliyzjJ2ql7W3ZZIOVw/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/160.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361182"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4528227"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hmx1ay7a4r06.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-i4s7l8pxiza0.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6fdhaweb"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-u1zhu98r2axu.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 4,
+        "title": "Show by Rock!! 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1L1A1OA669B0_qbcFV-6xrXuoFzAUpInn/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/165.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361184"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4528236"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-k4l6zkamoy81.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qfd7x22lju7j.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fqijejc7"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bjheh23df9tw.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 5,
+        "title": "Show by Rock!! 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Se_SZ4g9iU2-IkjQ1qKfYIcLcoIvtsRh/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361183"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/63.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4528253"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2814274"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-w7jpcn4saeam.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ffjdirz6cxac.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q3xd5v7y"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lbje9tmrtylc.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 32,
+            "end": 118
+          }
+        },
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 6,
+        "title": "Show by Rock!! 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_H14mk05XLjBaJdX3po_3h0bxyhvMl_Y/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361170"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/64.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2815295"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4528272"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-t9zmwggp0qv3.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nuonduo11owp.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gpxeewntvpil.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 7,
+        "title": "Show by Rock!! 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361171"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/65.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4538052"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2815335"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wvwlvbcxswds.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-iy8g6dqyj7xx.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-tl2a35ivkuvl.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 8,
+        "title": "Show by Rock!! 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-XKgvTzpcuwmBoDTasjc6CX-PZD3rECD/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361168"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660539"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/67.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2815376"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-bftkrupz3y19.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-w8t6izj4fdzg.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5uxx9dl2aduh.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 9,
+        "title": "Show by Rock!! 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ALYySqfqTTViE5zE1cYHM2ZJfzhonJEP/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/68.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361167"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4513075"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2815545"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xjlycv68wofi.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xi5q0exhdsrh.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q71m3na2"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-p87rvcjdwx2m.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 10,
+        "title": "Show by Rock!! 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1btgRWayt3F5xttMjPuxTxfa2ghIto5QM/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/69.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361169"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359664476"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2816385"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4617227"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nin80c2lh3zc.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6koshy7pslg4.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-e0s2vdy2b6fs.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 11,
+        "title": "Show by Rock!! 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oHf1MGMqx9KLLcfPihgBUOirYhMKqmmT/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361174"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/72.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359664477"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2816634"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4617228"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ubksp8g7ek0v.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7h9jja9ifko0.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ee6t5h5b2ud2.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:23.326054"
+      },
+      {
+        "episode_number": 12,
+        "title": "Show by Rock!! 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sW-YlGJVyRhcMqEyqHKWY6IqqM7bTZLk/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/74.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361176"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359664478"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2816792"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4617229"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-eb0tbaz0crfb.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pol1furuwsko.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2jtrh5k4"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5o4jkx4n1oeh.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:23.326054"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 27441,
@@ -67,661 +669,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20843,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20843-ghI0sFaPJiQH.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20843-bk5OtUiP8htg.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Show by Rock!! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1l-arpcDZKHceyy5AxCnuwJbM1ZmkmHt-/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361187"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/129.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4500668"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gvpz5nu81e2g.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hot25hxf5goo.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/vqixkppq"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7yzqdwzjzkqe.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 80.278,
-          "end": 198.767
-        },
-        "ed": {
-          "start": 1315,
-          "end": 1393
-        }
-      },
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1kTskxLlenhFK4uCFJmabRjD3goi4EuNs/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361186"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/136.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4511611"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-4a3st1juky1o.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wl6hzxcokhrc.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-k0hi27hk5zej.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BBL0-0JiosxcmcliyzjJ2ql7W3ZZIOVw/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/160.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361182"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4528227"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hmx1ay7a4r06.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-i4s7l8pxiza0.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/6fdhaweb"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-u1zhu98r2axu.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1L1A1OA669B0_qbcFV-6xrXuoFzAUpInn/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/165.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361184"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4528236"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-k4l6zkamoy81.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qfd7x22lju7j.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/fqijejc7"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bjheh23df9tw.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Se_SZ4g9iU2-IkjQ1qKfYIcLcoIvtsRh/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361183"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/63.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4528253"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2814274"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-w7jpcn4saeam.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ffjdirz6cxac.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/q3xd5v7y"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lbje9tmrtylc.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 32,
-          "end": 118
-        }
-      },
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_H14mk05XLjBaJdX3po_3h0bxyhvMl_Y/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361170"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/64.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2815295"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4528272"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-t9zmwggp0qv3.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nuonduo11owp.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gpxeewntvpil.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361171"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/65.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4538052"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2815335"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wvwlvbcxswds.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-iy8g6dqyj7xx.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-tl2a35ivkuvl.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-XKgvTzpcuwmBoDTasjc6CX-PZD3rECD/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361168"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660539"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/67.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2815376"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bftkrupz3y19.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-w8t6izj4fdzg.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5uxx9dl2aduh.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ALYySqfqTTViE5zE1cYHM2ZJfzhonJEP/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/68.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361167"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4513075"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2815545"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xjlycv68wofi.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xi5q0exhdsrh.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/q71m3na2"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-p87rvcjdwx2m.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1btgRWayt3F5xttMjPuxTxfa2ghIto5QM/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/69.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361169"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359664476"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2816385"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4617227"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nin80c2lh3zc.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-6koshy7pslg4.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-e0s2vdy2b6fs.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oHf1MGMqx9KLLcfPihgBUOirYhMKqmmT/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361174"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/72.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359664477"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2816634"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4617228"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ubksp8g7ek0v.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7h9jja9ifko0.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ee6t5h5b2ud2.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Show by Rock!! 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sW-YlGJVyRhcMqEyqHKWY6IqqM7bTZLk/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//vk/262414138/_myvideo/74.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361176"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359664478"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2816792"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4617229"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-eb0tbaz0crfb.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pol1furuwsko.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/2jtrh5k4"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5o4jkx4n1oeh.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:23.326054",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 65036,
     "type": "tv",

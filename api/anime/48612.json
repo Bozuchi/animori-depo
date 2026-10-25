@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikaye; memleketini savunmak için savaşa katılan, çömlek ustası Aws'ın başından geçenleri anlatmaktadır..",
-    "slug": "journey-taiko-arabia-hantou-de-no-kiseki-to-tatakai-no-monogatari"
+    "slug": "journey-taiko-arabia-hantou-de-no-kiseki-to-tatakai-no-monogatari",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 48612,
@@ -40,46 +41,14 @@
       1687
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 110224,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110224-ySdufYXDs1n0.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110224-lham5kQX7UGu.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Journey Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 281,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1E7_Px-dFwKdYlo18Swmx5NijJjMyB6wX/preview"
-        },
-        {
-          "fansub_id": 281,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fOK50VXTkkRo5T_Po2moK7xXPfUTlzSF/preview"
-        },
-        {
-          "fansub_id": 281,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359664778"
-        },
-        {
-          "fansub_id": 281,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-znuniv2vucgp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T21:50:22.076864",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 641951,
     "type": "movie",

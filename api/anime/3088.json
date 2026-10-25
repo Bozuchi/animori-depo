@@ -4,7 +4,97 @@
     "puan": "6.81",
     "bolum_durumu": "2/2",
     "ozet": "Hikâye iki kulenin olduğu bir şehirde ve burada yaşayan genç bir kız ile oğlanın etrafında geçer.\nYuudai, biraz çekingen olduğundan kız arkadaşıyla çok iyi anlaşamaz ve hep bir aksilik yaşar. Chizuru ise çok şanssızdır ve bu yüzden geçmişte erkek arkadaşlarının önünde sık sık hatalar yapmıştır. Bir şekilde tanışan bu iki genç çıkmaya başlarlar.\nAncak Chizuru, kendisini sevdiğini bir türlü söylemeyen Yuudai'fdan, onu sevdiği halde bir hata yapmadan ayrılmayı planlamaktadır. Buluşmalarında Yuudai, Chizuru'fya bir tavşan armağan etmek isterken kutunun içinden bir mini-eşek çıkar. Eşek kaçmaya başlayınca Chizuru da onu kovalar ve böylece Yuudai her ikisini de gözden kaybeder. Böylece birlikte geçirmeleri gereken bir buluşma, Chizuru'nun gittikçe daha şanssız geçen günü ve Yuudai'nin itiraf edemediği duyguları ile sonuçlanır.\nBu, iki gencin de duygu ve düşüncelerini ayrı görüş açılarından anlatan karşılıklı bir aşk hikâyesidir..",
-    "slug": "tokyo-marble-chocolate"
+    "slug": "tokyo-marble-chocolate",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Tokyo Marble Chocolate 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1N0phxKbu-3jP6jBjB_oFh4SWKkRXdV0i/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PxgDomc_gkd8OlsPZo9ae-cwVOC98kQs/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5727601449156739137"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4798393"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qn17gaia3b5a.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16mSSxKvnTd4zhhcGn9r3qRKtoCCmxsLk/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18hOn7x-BgoVX4Io-3x4shCHxYPKt5IMu/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909891"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521972"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1469742"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m4wy548p72oc.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nncm23beu8jq.html"
+          },
+          {
+            "fansub_id": 355,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ASz1CoKJW6YDF815joEjc16FH8dTfu2j/preview"
+          },
+          {
+            "fansub_id": 355,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5033312"
+          },
+          {
+            "fansub_id": 355,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m9xvndra1g4c.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:15:15.381161"
+      },
+      {
+        "episode_number": 2,
+        "title": "Tokyo Marble Chocolate 2. Bölüm Final",
+        "videos": [],
+        "added_date": "2026-07-29T17:15:15.381161"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3088,
@@ -46,111 +136,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 3088,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3088-kSvm2HIrzcza.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3088-NoU6aKTJxoeo.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tokyo Marble Chocolate 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1N0phxKbu-3jP6jBjB_oFh4SWKkRXdV0i/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PxgDomc_gkd8OlsPZo9ae-cwVOC98kQs/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5727601449156739137"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4798393"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qn17gaia3b5a.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16mSSxKvnTd4zhhcGn9r3qRKtoCCmxsLk/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18hOn7x-BgoVX4Io-3x4shCHxYPKt5IMu/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931909891"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521972"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1469742"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-m4wy548p72oc.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nncm23beu8jq.html"
-        },
-        {
-          "fansub_id": 355,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ASz1CoKJW6YDF815joEjc16FH8dTfu2j/preview"
-        },
-        {
-          "fansub_id": 355,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5033312"
-        },
-        {
-          "fansub_id": 355,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-m9xvndra1g4c.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T17:15:15.381161",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tokyo Marble Chocolate 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T17:15:15.381161",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 88590,
     "type": "tv",

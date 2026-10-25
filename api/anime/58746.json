@@ -4,7 +4,63 @@
     "puan": "0.00",
     "bolum_durumu": "9/9",
     "ozet": "Shuumatsu Train Doko e Iku? animesinin mini bölümlerden oluşan yan seridir.",
-    "slug": "wanwan-train-doko-e-iku"
+    "slug": "wanwan-train-doko-e-iku",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Wanwan Train Doko e Iku? 1. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-30T15:52:55.940686"
+      },
+      {
+        "episode_number": 2,
+        "title": "Wanwan Train Doko e Iku? 2. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-30T15:52:55.940686"
+      },
+      {
+        "episode_number": 3,
+        "title": "Wanwan Train Doko e Iku? 3. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-30T15:52:55.940686"
+      },
+      {
+        "episode_number": 4,
+        "title": "Wanwan Train Doko e Iku? 4. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-30T15:52:55.940686"
+      },
+      {
+        "episode_number": 5,
+        "title": "Wanwan Train Doko e Iku? 5. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-30T15:52:55.940686"
+      },
+      {
+        "episode_number": 6,
+        "title": "Wanwan Train Doko e Iku? 6. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-30T15:52:55.940686"
+      },
+      {
+        "episode_number": 7,
+        "title": "Wanwan Train Doko e Iku? 7. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-30T15:52:55.940686"
+      },
+      {
+        "episode_number": 8,
+        "title": "Wanwan Train Doko e Iku? 8. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-30T15:52:55.940686"
+      },
+      {
+        "episode_number": 9,
+        "title": "Wanwan Train Doko e Iku? 9. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-30T15:52:55.940686"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 58746,
@@ -43,103 +99,12 @@
         ]
       }
     ],
-    "episodes": 9
+    "episodes": 9,
+    "episode_list": []
   },
   "anilist": {
     "id": 177405,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177405-cARBRDcWDh5e.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Wanwan Train Doko e Iku? 1. Bölüm",
-      "episode_number": 1,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:52:55.940686",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Wanwan Train Doko e Iku? 2. Bölüm",
-      "episode_number": 2,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:52:55.940686",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Wanwan Train Doko e Iku? 3. Bölüm",
-      "episode_number": 3,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:52:55.940686",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Wanwan Train Doko e Iku? 4. Bölüm",
-      "episode_number": 4,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:52:55.940686",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Wanwan Train Doko e Iku? 5. Bölüm",
-      "episode_number": 5,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:52:55.940686",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Wanwan Train Doko e Iku? 6. Bölüm",
-      "episode_number": 6,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:52:55.940686",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Wanwan Train Doko e Iku? 7. Bölüm",
-      "episode_number": 7,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:52:55.940686",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Wanwan Train Doko e Iku? 8. Bölüm",
-      "episode_number": 8,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:52:55.940686",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Wanwan Train Doko e Iku? 9. Bölüm",
-      "episode_number": 9,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:52:55.940686",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

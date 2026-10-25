@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/10",
     "ozet": "Bleach: Sennen Kessen-hen (Thousand-Year Blood War) serisinin görkemli ve epik kapanışını yapan Final Kısmı, Shinigami'ler ile Quincy'ler arasındaki bin yıllık kan davasının ve tüm evrenin kaderini belirleyecek nihai savaşın doruk noktasını ekranlara taşıyor.\n\nKısa Özet:\nYhwach, Ruh Kralı'nın gücünü tamamen özümseyerek tüm dünyaları (Rukongai, İnsan Dünyası ve Hueco Mundo) yok edip sınırların olmadığı tek bir boyutta yeniden yaratma hedefine bir adım daha yaklaşmıştır.\n\nGeriye kalan Gotei 13 Kaptanları, Aizen Sosuke ve tüm müttefikler güçlerini son damlasına kadar tüketirken; Ichigo Kurosaki, kaderinin ve soyunun gerçek gücünü temsil eden yeni çift kılıçlı Bankai'siyle Yhwach'ın karşısına dikilir. Yhwach'ın geleceği görüp değiştirebilen mutlak tanrısal gücü \"The Almighty\"e karşı; Ichigo, Uryuu Ishida ve dostları imkansız bir kaderi tersine çevirmek için tüm güçleriyle çarpışırlar. Kan, fedakarlık ve bin yıllık intikamın son bulduğu bu finalde, üç dünyanın varoluş dengesi son bir kılıç darbesiyle belirlenecektir.",
-    "slug": "bleach-sennen-kessen-hen-kashin-tan"
+    "slug": "bleach-sennen-kessen-hen-kashin-tan",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 60636,
@@ -60,7 +61,72 @@
         ]
       }
     ],
-    "episodes": 10
+    "episodes": 10,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "God of Thunder",
+        "aired": "Jul 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Son of Darkness",
+        "aired": "Aug 1, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Blood for My Bone",
+        "aired": "Aug 8, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Perfect Crimson",
+        "aired": "Aug 15, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Defend You",
+        "aired": "Aug 22, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The End",
+        "aired": "Aug 29, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The End 2",
+        "aired": "Sep 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The End Two World",
+        "aired": "Sep 12, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Blade",
+        "aired": "Oct 20, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 185874,
@@ -74,97 +140,5 @@
     "episode_offset": 40,
     "name": "Bleach"
   },
-  "synopsis_tr": "Bleach'in son kısmı: Sennen Kessen-hen.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "God of Thunder",
-      "episode_number": 1,
-      "aired": "Jul 25, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:28.474410"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Son of Darkness",
-      "episode_number": 2,
-      "aired": "Aug 1, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:28.474410"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Blood for My Bone",
-      "episode_number": 3,
-      "aired": "Aug 8, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:28.474410"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "The Perfect Crimson",
-      "episode_number": 4,
-      "aired": "Aug 15, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:28.474410"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "Defend You",
-      "episode_number": 5,
-      "aired": "Aug 22, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:28.474410"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "The End",
-      "episode_number": 6,
-      "aired": "Aug 29, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:28.474410"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "The End 2",
-      "episode_number": 7,
-      "aired": "Sep 5, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:28.474410"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "The End Two World",
-      "episode_number": 8,
-      "aired": "Sep 12, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:28.474410"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "The Blade",
-      "episode_number": 9,
-      "aired": "Oct 20, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-23T08:28:27.118391"
-    }
-  ]
+  "synopsis_tr": "Bleach'in son kısmı: Sennen Kessen-hen."
 }

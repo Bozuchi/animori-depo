@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Manga ile beraber gelen OVA bölümdür.",
-    "slug": "totsukuni-no-shoujo-2022"
+    "slug": "totsukuni-no-shoujo-2022",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 48405,
@@ -51,41 +52,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 130550,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130550-tdYGcblNd8oU.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130550-TNuuHlL1BIMZ.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Totsukuni no Shoujo (2022) OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 77,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yG9yAeDrV_-Q5DNvUkV6vS-xCGwiVrQK/preview"
-        },
-        {
-          "fansub_id": 77,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368717"
-        },
-        {
-          "fansub_id": 77,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-oew8lu4rlm79.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:00:17.148130",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 802699,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "3195 yılında, robotlar ve insanlar arasında bir savaş vardı. Shaian, duyarlı bir savaş zırhı, savaşta yoldaşını kaybettiğinde iç sistemleri yeni bir insan bulana kadar kapatıldı. Neredeyse 1000 yıl sonra ve Shaian'ın en büyük düşmanı hala hayattadır ve Brezilya'da savaşmaktadır. Yeni bir arkadaşının yardımıyla, kıta üzerinde başka bir savaş başlamadan önce bu şeytani gücü durdurmak mümkün olabilir.",
-    "slug": "dragon-s-heaven"
+    "slug": "dragon-s-heaven",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3135,
@@ -48,46 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3135,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3135-qqANvyGFQ70B.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3135.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Dragon's Heaven",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1cBdc4IuHAGk75B6kG4_JjfVHWQornNtj/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682367856"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4532080"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vm5vq3fwyqny.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:24:18.992948",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 166795,
     "type": "movie",

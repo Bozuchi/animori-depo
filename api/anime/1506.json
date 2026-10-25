@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Mouri Kogoro'nun bir davayı çözmek üzere kimliği belirsiz, varlıklı bir kimse tarafından Miracle Land Eğlence parkı içinde yer alan bir otele çağrılır. Ekranda yüzü gözükmeyen biçimde beliren müşteri konukseverliğinin göstergesi olarak Mouri davayı çözerken, beraberinde getirdiği kişiler için Vip Üye giriş imkanı sunan ve Luna Park'ta dilediğince eğlenmelerine imkan veren saatler dağıtır. Bununla birlikte, sıra Conan'a geldiğinde O'nun Mouri Kogoro ile kalmasını ve bu geziye dahil olmamasını beklediğini belirtir.\n\nÇok geçmeden anlayacaklardır ki bu masum hediye bir tehdit ve komplo aracıdır. Ran ile Detektif Çocuklar tüm gerçeklerden habersiz, başarısızlık durumunda hayatları tehlikeye girecek birer rehine durumuna düşerlerken Mori ve Conan polisi karıştırmaksızın verilen ipuçlarını izleyerek akşam kapanış saatine kadar davayı sonuçlandırmak zorundadırlar. Aynı zamanda Conan fark eder ki gerçek kimliği bir şekilde öğrenilmiştir. Bir süre sonra Hattori Heiji, Kazuha Toyama ve Kaito Kid'le de bu olay dahilinde yolları kesişecek, Heiji ve Conan davayı çözmek için bir kez daha birlikte üstün zeka ve becerilerini sergilemek zorunda kalacaklardır.",
-    "slug": "detective-conan-movie-10-requiem-of-the-detectives"
+    "slug": "detective-conan-movie-10-requiem-of-the-detectives",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1506,
@@ -55,36 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1506,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1506-EHhN6loLBaau.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan Movie 10: Requiem of the Detectives",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 207,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370323"
-        },
-        {
-          "fansub_id": 207,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/djz394jr8rl2"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:56:32.887731",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30983,
     "type": "tv",

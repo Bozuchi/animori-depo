@@ -4,7 +4,8 @@
     "puan": "9.18",
     "bolum_durumu": "1/1",
     "ozet": "İlk öpücükten sonra, Kaguya Shinomiya ve Miyuki Shirogane birbirlerine karşı nasıl davranacaklarından emin değillerdir. Noel yaklaşırken bu sorunu çözmek için savaşlarına devam ederler.",
-    "slug": "kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai"
+    "slug": "kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 52198,
@@ -61,61 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 151384,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151384-JybfIpHr2gx6.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151384-gv0q8wOE6D58.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 198,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370278"
-        },
-        {
-          "fansub_id": 198,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/zqsism7gtoqc"
-        },
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14GdAtNEW8BlNSSD9P4IqlWi1ilitiGG4/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461601808"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5116605"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/2adf5mui3485"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-vwkjlg3gqrsb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T22:40:39.776787",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 997317,
     "type": "movie",

@@ -4,7 +4,31 @@
     "puan": "0.00",
     "bolum_durumu": "1/49",
     "ozet": "Birçok açıdan bizimkine son derece benzeyen bir toplumda geçen Patarillo!, tek bir büyük ve belirgin ters köşeye sahiptir. Temel aldığı manga; ergenlik çağındaki Japon kızları için üretilen, içinde bolca eşcinsel erkek ve \"bishounen\" (güzel çocuk) barındıran, oldukça popüler eserlerden biridir.\n\nHikayedeki olayların büyük bir kısmı, Güney Denizleri'nde bir yerlerde bulunan ve \"ebedi bahar ülkesi\" olarak bilinen Marinera'da geçer. Bu ülke, anime serisindeki çatışmaların da ana kaynağını oluşturan devasa bir elmas üreticisidir. Dünyanın en verimli madenlerinden biri olan bu elmas ocağının sahibi ise boyu kısa ama eni geniş olan Marinera'nın çocuk kralı Patarillo'nun ta kendisidir. Tüm dünyanın elmas arzını ele geçirmeye ant içmiş devasa, yarı suçlu bir örgüt ve gizli bir cemiyet olan Uluslararası Elmas Sendikası, bu madeni istemektedir ve onu ele geçirmek için hiçbir şeyden dönmeyecektir.\n\nSerinin ilk bölümlerinde Patarillo'yu ortadan kaldırmak için peş peşe bishounen suikastçılar gönderirler; bu durum Patarillo'ya bir koruma tutulmasını zorunlu kılar. Bu koruma, İngiliz MI6 ajanı Binbaşı Jack (\"Bishounen Katili\") Bancoran'dır. Bancoran'ın bu lakabı, bishounenleri soğukkanlılıkla vurduğu anlamına gelmez; aksine, 17 yaşın altındaki hiçbir erkeğin onun cinsel cazibesine karşı koyamaması gerçeğinden gelir. Bancoran'ın bitmek bilmeyen tiksintisine rağmen, bu duruma Patarillo'nun kendisi de dahildir.\n\nHikayenin akışı sık sık Marinera'dan Londra'daki MI6 karargahına (Londra, Güney Denizleri'nden sanki kolayca ulaşılan iki saatlik bir uçuş mesafesindeymiş gibi görünür) veya Bancoran'ın banliyödeki saray yavrusu dairesine taşınır. (Bu arada MI6 binası Fritz Lang'in Metropolis filmine oldukça benzerken, Jack'in \"apartmanı\" Randolph Hearst'ün devasa malikanesini andırır.) Olaylar sadece mekanlar arasında değil; geçmişe, geleceğe ve hatta uzayın derinliklerine kadar uzanır. Anlaşılan o ki, Patarillo'nun ayak basmadığı yer kalmayacaktır.",
-    "slug": "patalliro"
+    "slug": "patalliro",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Patalliro! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/z5xgu937prnr"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dodp6besnoot.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-j2vyehgox3me.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:21:19.914146"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2835,
@@ -59,41 +83,22 @@
         ]
       }
     ],
-    "episodes": 49
+    "episodes": 49,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 2835,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2835-7efrqC6e0OjV.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n2835-2iugxDsTZz74.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Patalliro! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/z5xgu937prnr"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-dodp6besnoot.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-j2vyehgox3me.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:21:19.914146",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 45289,
     "type": "tv",

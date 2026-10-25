@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ensest bir aşk yaşayan Deimos ve Venüs Olimpos dağında yaşamaktadırlar. Venüs'ün vücudunun çürümeye başlamasıyla Deimos kardeşini kurtarmak için dünya'ya gelir ve orada Ifu Makino isimli kızı dünyasına götürüp kardeşini kurtarmaya çalışacaktır.",
-    "slug": "deimos-no-hanayome-ran-no-kumikyoku"
+    "slug": "deimos-no-hanayome-ran-no-kumikyoku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 5918,
@@ -51,56 +52,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 5918,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5918-aOAkHFK5oUqK.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5918.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Deimos no Hanayome",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/4667.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366635"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4533653"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-j9me1re51beq.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8j7p1i6zkykp.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-yk0z82hsafee.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T10:42:13.983997",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 172124,
     "type": "movie",

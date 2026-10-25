@@ -4,7 +4,132 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Çok eski zamanlardan uzay kolonileştirme çağına kadar her tarih kitabında değişmeden kalan bir efsane vardır: ölümsüz kuş Phoenix'in hikayesi. Kanının sonsuz yaşam veya bilgelik bahşettiği söylenen bir varlık olan bu ışıltılı figür, insan uygarlıklarını ve onların gelişimini denetlerken evrendeki duyarlı yaşamın devamını sağlar.\n\nAncak insanoğlu alışkanlıklarının kölesi olmaya devam ediyor; mutluluktan üzüntüye, öfkeden sevgiye kadar pek çok duygu insan yaşamının ayrılmaz bir parçası olmaya devam ediyor. Aynı anda, belirli inançlar ve gündemler yüzyıllar boyunca dünyanın önceden belirlenmiş doğası ve ilkelerinin kırılgan dengesini bozmaya devam ediyor. Görünen o ki, kader ve onun dinamik değişkenleri kendisini pek çok şekilde gösterebilir ve çoğu zaman tuhaf bir mizah anlayışı sergiler...",
-    "slug": "hi-no-tori-eden-no-sora"
+    "slug": "hi-no-tori-eden-no-sora",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Hi no Tori: Eden no Sora 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370692"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5252946"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/3vq85tz7h40t"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b5dqxav6gd67.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-azloamstvatr.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:02:57.667126"
+      },
+      {
+        "episode_number": 2,
+        "title": "Hi no Tori: Eden no Sora 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370693"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5252949"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/piyq21r6e8lx"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-yk4rdnwk98re.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9jijegyud0yd.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:02:57.667126"
+      },
+      {
+        "episode_number": 3,
+        "title": "Hi no Tori: Eden no Sora 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370694"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5252960"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/in48p7iqj4y8"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-34h98vj43tis.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0wal20o5nc1k.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:02:57.667126"
+      },
+      {
+        "episode_number": 4,
+        "title": "Hi no Tori: Eden no Sora 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370695"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5252968"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/rq2mz6nh3f02"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5esibpvuprjs.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:02:57.667126"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53720,
@@ -64,154 +189,43 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 157957,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157957-TtIfo6Pe5yZU.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hi no Tori: Eden no Sora 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370692"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5252946"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/3vq85tz7h40t"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-b5dqxav6gd67.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-azloamstvatr.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:02:57.667126",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hi no Tori: Eden no Sora 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370693"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5252949"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/piyq21r6e8lx"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-yk4rdnwk98re.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9jijegyud0yd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:02:57.667126",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hi no Tori: Eden no Sora 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370694"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5252960"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/in48p7iqj4y8"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-34h98vj43tis.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0wal20o5nc1k.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:02:57.667126",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hi no Tori: Eden no Sora 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370695"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5252968"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/rq2mz6nh3f02"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5esibpvuprjs.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:02:57.667126",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 215402,
     "type": "tv",

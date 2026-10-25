@@ -4,7 +4,8 @@
     "puan": "9.03",
     "bolum_durumu": "1/1",
     "ozet": "Dört Kral'ın da dahil olduğu, okul adası olayından bu yana, Gümüş klan Üyesi, Kuroh Yatogami ve Neko onların ustası Shiro'yu arıyorlardır. Shiro'yu bulamadıkları için ikisi kasvetli bir moddadır ta ki birileri tarafından kovalanan, Homura üyeleri olan, Rikio Kamamoto ve Anna Kushima'ya katılana kadar...",
-    "slug": "k-missing-kings"
+    "slug": "k-missing-kings",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 16904,
@@ -63,56 +64,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 16904,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16904-mgiInFXzl17C.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16904-MqA6kzSdRDsK.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "K: Missing Kings Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15Wn5FBkyYh7mRfz1vev_S2zkl8tgggRW/preview"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4505989"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1774993"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4117864"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hzg9m6in"
-        },
-        {
-          "fansub_id": 46,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-czg9kpu4gihh.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T22:24:45.983136",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 45799,
     "type": "tv",

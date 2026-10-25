@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Genç yaşta yetim kalan Amon, annesinin ölümünden sorumlu olanları bulup intikamını almak için yolculuğa çıkar. İzler onu Valhiss krallığına getirir. Ancak nasıl intikam alacağını düşünürken Kral tarafından tutsak tutulan Prenses Lichia ile karşılaşır. Kralın amacı; Prenses Lichia karşılığında, Kral Darai-Sem'den bir harita almaktır. Amon, intikamı ve Prenses Lichia'yı kurtarma ikilemindeyken, Kral Valhiss sadece haritayı ele geçirmeyi düşünmektedir.",
-    "slug": "amon-saga"
+    "slug": "amon-saga",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2249,
@@ -38,56 +39,14 @@
       18
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2249,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2249-PJ6vLuBggx3g.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Amon Saga",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1J7u5RRbcKhJSD-SrYl2VBGcz7KBGnd95/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Y3uAf7cxWFcYt2v6oLPwlecMsj6oNErQ/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/ahmetpuzz/video/embed/_myvideo/43"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852342"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3223453"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4442539"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:34:44.442911",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 88852,
     "type": "movie",

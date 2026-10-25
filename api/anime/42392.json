@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Grisaia: Phantom Trigger The Animation'un 3. filmidir.",
-    "slug": "grisaia-phantom-trigger-the-animation-stargazer"
+    "slug": "grisaia-phantom-trigger-the-animation-stargazer",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 42392,
@@ -51,34 +52,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 120892,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120892-zmyInrDznTTX.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120892-4cWg7nxqT5eP.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Grisaia: Phantom Trigger The Animation - Stargazer Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 113,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368030"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4392769"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:43:52.346926",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

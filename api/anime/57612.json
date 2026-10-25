@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
-    "slug": "kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
+    "slug": "kikansha-no-mahou-wa-tokubetsu-desu-2nd-season",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 57612,
@@ -50,7 +51,8 @@
           132247
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 172192,
@@ -64,6 +66,5 @@
     "episode_offset": 0,
     "name": "A Returner's Magic Should Be Special"
   },
-  "synopsis_tr": "Kikansha no Mahou wa Tokubetsu desu'nun ikinci sezonu.",
-  "episodes": []
+  "synopsis_tr": "Kikansha no Mahou wa Tokubetsu desu'nun ikinci sezonu."
 }

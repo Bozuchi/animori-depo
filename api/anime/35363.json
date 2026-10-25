@@ -4,7 +4,56 @@
     "puan": "9.09",
     "bolum_durumu": "1/1",
     "ozet": "Kobayashi-san Chi no Maid Dragon animesinin 14. Bölümü olarak gözüken özel bölümüdür.",
-    "slug": "kobayashi-san-chi-no-maid-dragon-valentine-soshite-onsen-amari-kitai-shinaide-kudasai"
+    "slug": "kobayashi-san-chi-no-maid-dragon-valentine-soshite-onsen-amari-kitai-shinaide-kudasai",
+    "episodes": [
+      {
+        "episode_number": 14,
+        "title": "Kobayashi-san Chi no Maid Dragon 14. Bölüm (OVA)",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4885790"
+          },
+          {
+            "fansub_id": 45,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qk6ev2hq6rp2.html"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fea2v8sa"
+          },
+          {
+            "fansub_id": 45,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qnktjnb00k7s.html"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4292562"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/z707i5y2"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ywt8ku4b"
+          },
+          {
+            "fansub_id": 10,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-8n38uhybme52.html"
+          }
+        ],
+        "added_date": "2026-07-27T04:18:03.730917"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 35363,
@@ -56,64 +105,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 98580,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98580-dFxSzpGoY8F8.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98580-JuYPIA1BumA5.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kobayashi-san Chi no Maid Dragon 14. Bölüm (OVA)",
-      "episode_number": 14,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4885790"
-        },
-        {
-          "fansub_id": 45,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qk6ev2hq6rp2.html"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/fea2v8sa"
-        },
-        {
-          "fansub_id": 45,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qnktjnb00k7s.html"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4292562"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/z707i5y2"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ywt8ku4b"
-        },
-        {
-          "fansub_id": 10,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8n38uhybme52.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:18:03.730917",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

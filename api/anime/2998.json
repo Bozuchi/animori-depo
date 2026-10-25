@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Tezuka Osamu'nun ana gemilerini kaybettikten sonra evrende amaçsızca sürüklenen astronotların yaşadıkları aracılığıyla aşkın zalimliğini anlatan mangasından uyarlanan Phoenix serisinin üçüncü kısmıdır.",
-    "slug": "hi-no-tori-uchuu-hen"
+    "slug": "hi-no-tori-uchuu-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2998,
@@ -62,56 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2998,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2998.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hi no Tori: Uchuu-hen",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hjKijKcenOD36tYR_aV4xlRGz1ZXg_kh/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658666"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845662"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4454772"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4064084"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/d9jk6vw2"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:03:04.984486",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 23674,
     "type": "tv",

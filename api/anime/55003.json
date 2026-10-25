@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
-    "slug": "1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi"
+    "slug": "1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 55003,
@@ -40,6 +41,64 @@
           125560
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Episode 1",
+        "aired": "Jul 7, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Episode 2",
+        "aired": "Oct 6, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Episode 3",
+        "aired": "Apr 19, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Episode 4",
+        "aired": "Jul 19, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Episode 5",
+        "aired": "Jun 20, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Episode 6",
+        "aired": "Nov 21, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Episode 7",
+        "aired": "Jun 12, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Episode 8",
+        "aired": "Jul 10, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -47,87 +106,5 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161680-NjggzN5hw0UL.jpg"
   },
-  "synopsis_tr": "Misaki Akane küçüklüğünden beri tek başınadır. Bu nedenle kendi dairesini kiralaması alışılmadık bir durum değil. Ancak yaşlı ev sahibi, dairenin zaten bir adam tarafından kiralandığını unutmuştur. Şu anda müsait başka daire olmadığından ikili kısa bir süreliğine orada birlikte yaşamaya karar verirler. İstenmeyen olaylar olmasaydı her şey yeterince nahoş olurdu, ama önce yaşlı adam yanlışlıkla onun üstünü değiştirdiğini görüyor ve sonra birlikte uyuyan komşularının seslerinden tahrik olduktan sonra onu mastürbasyon yaparken yakalıyor...(Kaynak: Anisearch)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Episode 1",
-      "episode_number": 1,
-      "aired": "Jul 7, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:03.515533"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Episode 2",
-      "episode_number": 2,
-      "aired": "Oct 6, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:03.515533"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Episode 3",
-      "episode_number": 3,
-      "aired": "Apr 19, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:03.515533"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "Episode 4",
-      "episode_number": 4,
-      "aired": "Jul 19, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:03.515533"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "Episode 5",
-      "episode_number": 5,
-      "aired": "Jun 20, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:03.515533"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "Episode 6",
-      "episode_number": 6,
-      "aired": "Nov 21, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:03.515533"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "Episode 7",
-      "episode_number": 7,
-      "aired": "Jun 12, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:03.515533"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Episode 8",
-      "episode_number": 8,
-      "aired": "Jul 10, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:03.515533"
-    }
-  ]
+  "synopsis_tr": "Misaki Akane küçüklüğünden beri tek başınadır. Bu nedenle kendi dairesini kiralaması alışılmadık bir durum değil. Ancak yaşlı ev sahibi, dairenin zaten bir adam tarafından kiralandığını unutmuştur. Şu anda müsait başka daire olmadığından ikili kısa bir süreliğine orada birlikte yaşamaya karar verirler. İstenmeyen olaylar olmasaydı her şey yeterince nahoş olurdu, ama önce yaşlı adam yanlışlıkla onun üstünü değiştirdiğini görüyor ve sonra birlikte uyuyan komşularının seslerinden tahrik olduktan sonra onu mastürbasyon yaparken yakalıyor...(Kaynak: Anisearch)"
 }

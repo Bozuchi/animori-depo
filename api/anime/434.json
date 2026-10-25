@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Genç ve güzel Lemnear'ın köyü saldırıya uğramış ve kardeşi kaçırılmıştır. Lemnear tüm bu olanların sorumlusu olan kötü büyücü Gardin'i öldürmek için yemin eder. Lemnear, dostlarıyla beraber intikam almak için yolculuğa çıkar. Fakat bilmediği bir şey vardır. Gardin'nin hizmet ettiği efendisi. Gardin'in üstü olan biri daha vardır.",
-    "slug": "legend-of-lemnear-kyokuguro-no-tsubasa-valkisas"
+    "slug": "legend-of-lemnear-kyokuguro-no-tsubasa-valkisas",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 434,
@@ -51,41 +52,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 434,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/434-YcJR5SYPQSNX.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/434-hRL6nAnWfISD.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1x1wHGvusqJBMa6Ti2bC0sOHBnN0WYE_X/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5128"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3667466"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:00:23.254984",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 53034,
     "type": "movie",

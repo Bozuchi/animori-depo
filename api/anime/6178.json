@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin on ikinci filmidir.",
-    "slug": "pokemon-movie-12-arceus-choukoku-no-jikuu-e"
+    "slug": "pokemon-movie-12-arceus-choukoku-no-jikuu-e",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 6178,
@@ -55,46 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 6178,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6178-4HSpuw2RH2cV.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6178-QtPWVxYMR2V5.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon Movie 12 - Arceus And The Jewel of Life",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vu7ZhVx3obd-4GMHoyaF8naU7cFXSZ80/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368958"
-        },
-        {
-          "fansub_id": 3,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/l6w64xiu6i4y"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2aqen3s48aio.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:26:49.652203",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 60572,
     "type": "tv",

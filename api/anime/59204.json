@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Magic Knight Rayearth (2026)",
-    "slug": "magic-knight-rayearth-2026"
+    "slug": "magic-knight-rayearth-2026",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 59204,
@@ -53,6 +54,22 @@
           1954
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "From Another World",
+        "aired": "Oct 7, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Beginning of the Legend",
+        "aired": "Oct 14, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -67,27 +84,5 @@
     "episode_offset": 0,
     "name": "Magic Knight Rayearth"
   },
-  "synopsis_tr": "Üç liseli kız (ateşli Hikaru Shidou, kibirli Umi Ryuuzaki ve nazik Fuu Hououji) Tokyo Kulesi'nde yeni tanışırlar ve onları başka bir dünyaya çeken bir yardım çağrısı duyarlar. Kısa süre sonra genç görünümlü bir adam olan Guru Clef tarafından karşılanırlar ve onlara Cephiro olarak bilinen bu büyülü ülkeyi kurtarmak için Prenses Emeraude tarafından çağrılan efsanevi Büyülü Şövalyeler olduklarını söyler. Hikaru bu olasılığı heyecan verici bulurken, Umi ve Fuu sadece kendi dünyalarına dönmek ister. Ne yazık ki Clef, Cephiro'yu kurtarıp ona musallat olan canavarları sürgüne gönderene kadar eve gidemeyeceklerini açıklıyor. Bunu yapabilmek için Prenses Emeraude'u güçlü Lord Zagato'nun pençesinden kurtarmak zorundalar. Ona karşı bir şans yakalamak için Rune Tanrıları adı verilen gizemli varlıkları yeniden canlandırmaları gerekir. Clef üçlüye zırh ve büyü verirken, Zagato'nun hizmetkarlarından biri saldırır ve guruyu kızları silah ustası Presea'ya ve onları yolculukları için daha fazla donatabilecek tavşan benzeri rehber Mokona'ya göndermeye zorlar. Gidecekleri uzun bir yol olsa da Hikaru, Umi ve Fuu, Büyülü Şövalyeler olarak unvanlarına ulaşmak ve Cephiro'ya kurtuluş getirmek için gereken her şeye sahip olduklarını gösterecekler.[MAL Rewrite tarafından yazıldı]",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "From Another World",
-      "episode_number": 1,
-      "aired": "Oct 7, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-08T10:26:45.414979"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Beginning of the Legend",
-      "episode_number": 2,
-      "aired": "Oct 14, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-15T08:12:40.484832"
-    }
-  ]
+  "synopsis_tr": "Üç liseli kız (ateşli Hikaru Shidou, kibirli Umi Ryuuzaki ve nazik Fuu Hououji) Tokyo Kulesi'nde yeni tanışırlar ve onları başka bir dünyaya çeken bir yardım çağrısı duyarlar. Kısa süre sonra genç görünümlü bir adam olan Guru Clef tarafından karşılanırlar ve onlara Cephiro olarak bilinen bu büyülü ülkeyi kurtarmak için Prenses Emeraude tarafından çağrılan efsanevi Büyülü Şövalyeler olduklarını söyler. Hikaru bu olasılığı heyecan verici bulurken, Umi ve Fuu sadece kendi dünyalarına dönmek ister. Ne yazık ki Clef, Cephiro'yu kurtarıp ona musallat olan canavarları sürgüne gönderene kadar eve gidemeyeceklerini açıklıyor. Bunu yapabilmek için Prenses Emeraude'u güçlü Lord Zagato'nun pençesinden kurtarmak zorundalar. Ona karşı bir şans yakalamak için Rune Tanrıları adı verilen gizemli varlıkları yeniden canlandırmaları gerekir. Clef üçlüye zırh ve büyü verirken, Zagato'nun hizmetkarlarından biri saldırır ve guruyu kızları silah ustası Presea'ya ve onları yolculukları için daha fazla donatabilecek tavşan benzeri rehber Mokona'ya göndermeye zorlar. Gidecekleri uzun bir yol olsa da Hikaru, Umi ve Fuu, Büyülü Şövalyeler olarak unvanlarına ulaşmak ve Cephiro'ya kurtuluş getirmek için gereken her şeye sahip olduklarını gösterecekler.[MAL Rewrite tarafından yazıldı]"
 }

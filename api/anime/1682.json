@@ -4,7 +4,107 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "“Dünya’nın heryerin de çalışan tüm networkler ve bilgi networklerinin geliştirilmesi kendi kitlesine ulaşır. Çağımızda iki farklı geliştirilmiş dünya vardır. ”Gerçek dünya” ve “ Sanal dünya”. \n\nSoma Toru sanal dünyanın içinde özgürce hareket eden bir hack grubu olan Steppen Wolf’un üyesidir. Son işleri olarak U.N güçlerine saldırırlar. Bu saldırı sırasında takım liderleri ve bir arkadaşları olan Nonomura Yuya’yı kaybederler. Toru ordu tarafından tutuklanır. Özgürlüğüne karşılık U.N Güvenlik Güçlerinin Birinci Ekibine katılmak zorundadır. \n\nOnlar için çalışırken bir yandan da ekibin içinde arkadaşı Yuya’yı öldüren kişiyi aramaktadır. Ekibin diğer üyelerinin de savaşmak için kendi nedenleri vardır. Terör örgütlerinin, Güvenlik güçlerinin ve ordunun üç ayaklı savaşı devam ederken ilk bakışta birbirinden bağımsız gibi görünen olaylar meydana gelir. Hikaye devam ettikçe olayların birbirleriyle bağlantısı gizemli şekilde açığa çıkmaya başlar.",
-    "slug": "baldr-force-exe-resolution"
+    "slug": "baldr-force-exe-resolution",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Baldr Force Exe Resolution 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PssAmFWo6Fr-Y4OR2nUoR61vdvpXOkMw/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656275"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439476"
+          }
+        ],
+        "added_date": "2026-07-23T03:59:29.951109"
+      },
+      {
+        "episode_number": 2,
+        "title": "Baldr Force Exe Resolution 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1frYVt3bHuSdkO9J2pUMtw53I_At19hgF/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656276"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439483"
+          }
+        ],
+        "added_date": "2026-07-23T03:59:29.951109"
+      },
+      {
+        "episode_number": 3,
+        "title": "Baldr Force Exe Resolution 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12HlKdpCDsSdGn6Yfx_lxLirtk9BSLlGj/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656277"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439489"
+          }
+        ],
+        "added_date": "2026-07-23T03:59:29.951109"
+      },
+      {
+        "episode_number": 4,
+        "title": "Baldr Force Exe Resolution 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17PlEcMZyviZdi1EZM14uQJV29afKTnT0/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271188755"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656278"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4176013"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439499"
+          }
+        ],
+        "added_date": "2026-07-23T03:59:29.951109"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1682,
@@ -39,129 +139,43 @@
       41
     ],
     "relations": [],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1682,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1682-c2oyUlYIWiqz.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Baldr Force Exe Resolution 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PssAmFWo6Fr-Y4OR2nUoR61vdvpXOkMw/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656275"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439476"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:59:29.951109",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Baldr Force Exe Resolution 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1frYVt3bHuSdkO9J2pUMtw53I_At19hgF/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656276"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439483"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:59:29.951109",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Baldr Force Exe Resolution 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12HlKdpCDsSdGn6Yfx_lxLirtk9BSLlGj/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656277"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439489"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:59:29.951109",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Baldr Force Exe Resolution 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17PlEcMZyviZdi1EZM14uQJV29afKTnT0/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271188755"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656278"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4176013"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439499"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:59:29.951109",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 116737,
     "type": "tv",

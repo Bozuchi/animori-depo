@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/12",
     "ozet": "Ölülerin ayaklandığı, iyi ve kötünün olduğu bir dünyaya karanlık musallat olur. Ölümsüzler güçlerinin kaynağı olan kutsal ateşi ele geçirmek için ışık şehrine doğru ilerlemeye başladılar. Büyülü ateş tarafından bu dünyaya çağrılan Himiko adındaki genç kız tehlike, ihanet ve savaşın ortasına itilir. Çünkü o, kutsal ateşin varisidir ve denilene göre Kutsal Ateşin Koruyucularını kurtaracak güce sahiptir. Tabii hayatta kalabilirse!",
-    "slug": "himiko-den"
+    "slug": "himiko-den",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 360,
@@ -45,7 +46,8 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 360,

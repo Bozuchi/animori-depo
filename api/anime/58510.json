@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Büyük hesaplaşma başlasın. Eşi benzeri olmayan bu etkileyici dövüş sanatları buluşmasında “Baki Hanma” ve “Kengan Ashura”nın en zorlu dövüşçüleri karşı karşıya geliyor.",
-    "slug": "hanma-baki-vs-kengan-ashura"
+    "slug": "hanma-baki-vs-kengan-ashura",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 58510,
@@ -44,36 +45,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 176287,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176287-evl3ehXyZ80q.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hanma Baki vs. Kengan Ashura ONA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371603"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/4dk4h0dbiwl0"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:15:24.163396",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1263421,
     "type": "movie",

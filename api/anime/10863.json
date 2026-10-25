@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Steins;Gate serisinin devamı niteliğinde olan special bölümdür.",
-    "slug": "steins-gate-oukoubakko-no-poriomania"
+    "slug": "steins-gate-oukoubakko-no-poriomania",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10863,
@@ -52,49 +53,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10863,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10863-paT73FyJgPi3.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10863-V6oW2kN8bBYf.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Steins;Gate Special: Oukoubakko no Poriomania",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 20,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1352768"
-        },
-        {
-          "fansub_id": 101,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461599895"
-        },
-        {
-          "fansub_id": 101,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4407051"
-        },
-        {
-          "fansub_id": 101,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-m1eb5lq8n5vc.html"
-        },
-        {
-          "fansub_id": 101,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ntvc4izsqqlq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:07:15.541343",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

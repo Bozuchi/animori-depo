@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Taichi Yagami ve Yamato Ishide seçilmiş çocuklar olarak insan dünyasında Digimon partnerleri ve arkadaşları ile birlikte kendilerini barışı korumaya adamışken tüm bu sorumluluk duygusuna rağmen her biri hayatlarında artık seçilmiş çocuk olmaktan öteye gidecek adımları atmaya başlamıştır.\nAncak, bu yolculuk Digimon araştırmaları konusunda uzman Amerikalı Profesör Menoa Bellucci'nin, dünyanın dört bir yanından seçilmiş çocukların komaya girdiği ve Digimon partnerlerin de kaybolduğu haberi ile bölünür. Menoa'nın araştırmaları bu fenomene sebep olanın yeni bir tür olduğunu göstermektedir. İnternetin derinliklerinde saklanmakta olan Eosmon.",
-    "slug": "digimon-adventure-last-evolution-kizuna"
+    "slug": "digimon-adventure-last-evolution-kizuna",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 38088,
@@ -52,46 +53,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 108260,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108260-TwWiksPp0tft.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108260-2TAbERdThOZR.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Digimon Adventure: Last Evolution Kizuna",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 62,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/19Vpsi6Gej7w0WU5UIv8ZmYwjCaWty3E0/preview"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715496"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682365723"
-        },
-        {
-          "fansub_id": 62,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3j8iseiencvo.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T21:29:22.422939",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 571265,
     "type": "movie",

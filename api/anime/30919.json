@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Sora no Method serisine ait special bölümdür.",
-    "slug": "sora-no-method-aru-shoujo-no-kyuujitsu"
+    "slug": "sora-no-method-aru-shoujo-no-kyuujitsu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 30919,
@@ -44,54 +45,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21276,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21276-fBmXVTRc4QlE.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Sora no Method Special: Aru Shoujo no Kyuujitsu★",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1E4UEAvmmPDK60dz3Hkq_TB11oYkimmwO/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847001"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017872"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4073413"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-azko7ruoen74.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nij2kdzoctkr.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T11:26:37.038915",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

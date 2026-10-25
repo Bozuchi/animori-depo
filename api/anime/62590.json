@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Hotel Inhumans 2nd Season",
-    "slug": "hotel-inhumans-2nd-season"
+    "slug": "hotel-inhumans-2nd-season",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 62590,
@@ -50,7 +51,8 @@
           139086
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 199426,
@@ -64,6 +66,5 @@
     "episode_offset": 0,
     "name": "Hotel Inhumans"
   },
-  "synopsis_tr": "Hotel Inhumans'ın ikinci sezonu.",
-  "episodes": []
+  "synopsis_tr": "Hotel Inhumans'ın ikinci sezonu."
 }

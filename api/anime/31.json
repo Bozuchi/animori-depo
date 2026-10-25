@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "2015 yılında, İkinci Darbe olarak bilinen felaketin insanlığın başına gelmesinin üzerinden on yıldan fazla bir süre geçti. Bu iyileşme döneminde, seçilmiş birkaç kişi Melekler olarak bilinen varlıkları öğrendi - Üçüncü Darbe'yi tetiklemek ve insanlığın geri kalanını yok etmek niyetinde olan devasa kötü niyetli varlıklar.\n\nBabası Gendou Ikari tarafından Tokyo-3 şehrine çağrılan genç Shinji, insanlığın mücadelesine balıklama atılır. Annesinin ölümünden beri Gendou'dan ayrı olan Shinji, babasının parçalanmış aile bağlarını onarmak istediğini sanır; bunun yerine, Meleklerle savaşabilecek dev bir makineye, Evangelion Birim-01'e pilotluk yapması için getirildiğini keşfeder. İnsanlığın en büyük tehdidine karşı dalga dalga savaşmak zorunda kalan genç çocuk, kendini insanlığın geleceğini sonsuza dek etkileyebilecek bir planın ortasında bulur.",
-    "slug": "shinseiki-evangelion-movie-shi-to-shinsei"
+    "slug": "shinseiki-evangelion-movie-shi-to-shinsei",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31,
@@ -51,51 +52,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 31,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/31-pYM5NdKIRa5h.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx31-3zRThtzQH62E.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Neon Genesis Evangelion : Death & Rebirth",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13GKf6cQxySdLCnmfsbV4QxW9CbYNlpDm/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015925"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4850"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3637562"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ioot3tibo18t.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T09:49:14.275432",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 890,
     "type": "tv",

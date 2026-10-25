@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "2/1+",
     "ozet": "Taichi ve küçük kardeşi Hikari, bilgisayarlarının yanında büyük bir yumurta bulurlar. Yumurta bir süre sonra çatlar ve içinden bir Digital Canavar olan Koromon çıkar. Böylece iki küçük kardeşin macerası başlamış olur.",
-    "slug": "digimon-adventure-movie"
+    "slug": "digimon-adventure-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2961,
@@ -47,25 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2961,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2961-JrRvhM8R9WCg.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2961-RMVNKewZWfv9.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Digimon Adverture Gekijouban",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-24T21:29:15.188442",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 31654,
     "type": "tv",

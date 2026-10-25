@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Chiikawa",
-    "slug": "chiikawa"
+    "slug": "chiikawa",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 50250,
@@ -54,6 +55,176 @@
           61815
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Hard Pudding / Pancakes",
+        "aired": "Apr 4, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Sphinx / It's real",
+        "aired": "Apr 8, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Squid / Pie Stew",
+        "aired": "Apr 15, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Broccoli / Pizza Manjuu",
+        "aired": "Apr 22, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Charimera / Charumera",
+        "aired": "Apr 29, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Friends / Dorayaki",
+        "aired": "May 6, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Yakult / Shiny Card",
+        "aired": "Mar 13, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Together with Yakult / Hairball",
+        "aired": "May 20, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Tabekko Animal / Pigmen",
+        "aired": "May 27, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Mochi / I had a dream",
+        "aired": "Jun 3, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Hitorigotsu",
+        "aired": "Jun 10, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Packed Sushi / Sushi Chef",
+        "aired": "Jun 17, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Ramune / Grilled Marshmallow",
+        "aired": "Jul 24, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Lucky Sunfish / Pickled Kelp",
+        "aired": "Jul 1, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Jelly / Canelé",
+        "aired": "Jul 8, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Chimera / No",
+        "aired": "Jul 15, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Gaan / Sasumata",
+        "aired": "Jul 22, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Weeding / Matching",
+        "aired": "Jul 29, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Something Appeared / I'm Feeling Better",
+        "aired": "Aug 5, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Usagi's Paw",
+        "aired": "Aug 12, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Somevanian ①",
+        "aired": "Aug 19, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Somevanian ②",
+        "aired": "Aug 26, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Somevanian ③ / Ketchup Pasta",
+        "aired": "Sep 2, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Home / Sleepover",
+        "aired": "Sep 9, 2022",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -68,247 +239,5 @@
     "episode_offset": 0,
     "name": "Chiikawa"
   },
-  "synopsis_tr": "Chiikawa nedir? Kimse gerçekten bilmiyor ama herkes onların küçük olduklarını, sevimli olduklarını ve her zaman eğlenceli vakit geçirdiklerini görebiliyor! Chiikawa'yı karşı konulmaz kılan keskin mizah ve zekice maskaralıklarla gerçeküstü dünyalarını keşfederken onlara katılın.(Kaynak: HIDIVE, düzenlendi)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Hard Pudding / Pancakes",
-      "episode_number": 1,
-      "aired": "Apr 4, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Sphinx / It's real",
-      "episode_number": 2,
-      "aired": "Apr 8, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Squid / Pie Stew",
-      "episode_number": 3,
-      "aired": "Apr 15, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "Broccoli / Pizza Manjuu",
-      "episode_number": 4,
-      "aired": "Apr 22, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "Charimera / Charumera",
-      "episode_number": 5,
-      "aired": "Apr 29, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "Friends / Dorayaki",
-      "episode_number": 6,
-      "aired": "May 6, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "Yakult / Shiny Card",
-      "episode_number": 7,
-      "aired": "Mar 13, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Together with Yakult / Hairball",
-      "episode_number": 8,
-      "aired": "May 20, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "Tabekko Animal / Pigmen",
-      "episode_number": 9,
-      "aired": "May 27, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "Mochi / I had a dream",
-      "episode_number": 10,
-      "aired": "Jun 3, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "Hitorigotsu",
-      "episode_number": 11,
-      "aired": "Jun 10, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "Packed Sushi / Sushi Chef",
-      "episode_number": 12,
-      "aired": "Jun 17, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "13. Bölüm",
-      "title": "Ramune / Grilled Marshmallow",
-      "episode_number": 13,
-      "aired": "Jul 24, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "14. Bölüm",
-      "title": "Lucky Sunfish / Pickled Kelp",
-      "episode_number": 14,
-      "aired": "Jul 1, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "15. Bölüm",
-      "title": "Jelly / Canelé",
-      "episode_number": 15,
-      "aired": "Jul 8, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "16. Bölüm",
-      "title": "Chimera / No",
-      "episode_number": 16,
-      "aired": "Jul 15, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "17. Bölüm",
-      "title": "Gaan / Sasumata",
-      "episode_number": 17,
-      "aired": "Jul 22, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "18. Bölüm",
-      "title": "Weeding / Matching",
-      "episode_number": 18,
-      "aired": "Jul 29, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "19. Bölüm",
-      "title": "Something Appeared / I'm Feeling Better",
-      "episode_number": 19,
-      "aired": "Aug 5, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "20. Bölüm",
-      "title": "Usagi's Paw",
-      "episode_number": 20,
-      "aired": "Aug 12, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "21. Bölüm",
-      "title": "Somevanian ①",
-      "episode_number": 21,
-      "aired": "Aug 19, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "22. Bölüm",
-      "title": "Somevanian ②",
-      "episode_number": 22,
-      "aired": "Aug 26, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "23. Bölüm",
-      "title": "Somevanian ③ / Ketchup Pasta",
-      "episode_number": 23,
-      "aired": "Sep 2, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    },
-    {
-      "turkanime_title": "24. Bölüm",
-      "title": "Home / Sleepover",
-      "episode_number": 24,
-      "aired": "Sep 9, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:21.408774"
-    }
-  ]
+  "synopsis_tr": "Chiikawa nedir? Kimse gerçekten bilmiyor ama herkes onların küçük olduklarını, sevimli olduklarını ve her zaman eğlenceli vakit geçirdiklerini görebiliyor! Chiikawa'yı karşı konulmaz kılan keskin mizah ve zekice maskaralıklarla gerçeküstü dünyalarını keşfederken onlara katılın.(Kaynak: HIDIVE, düzenlendi)"
 }

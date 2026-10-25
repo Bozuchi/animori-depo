@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Vertex Force",
-    "slug": "vertex-force"
+    "slug": "vertex-force",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63764,
@@ -34,7 +35,30 @@
     "studios": [
       474
     ],
-    "relations": []
+    "relations": [],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Engine, Ignition",
+        "aired": "Oct 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Vertex",
+        "aired": "Oct 10, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Ardent Feelings",
+        "aired": "Oct 17, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 209562,
@@ -48,37 +72,5 @@
     "episode_offset": 0,
     "name": "VERTEX FORCE"
   },
-  "synopsis_tr": "Kuzey Okinawa'da yaşayan lise öğrencisi Akira Toudou, annesi ve ablası Haruka ile huzur içinde yaşıyor. Ancak huzurlu yaşamlarının arkasında aileden geçen bir sır vardır: Haruka, babalarından \"Motor\" olarak bilinen gizemli bir gücü miras almıştır ve hayatını bu gücü başkalarından saklayarak geçirmiştir. Ancak Akira hiçbir şeyi miras almadı. Kendi zayıflığından dolayı aşağılık kompleksine kapılır. Daha sonra tüm dünyada tuhaf olaylar yaşanmaya başlar. Bilinmeyen düşmanın Akira ve arkadaşlarına yaklaşmasının amacı nedir? Şimdi, evrenin kaderi tehlikedeyken, hiçbir şeyi olmayan bir erkek kardeş ile her şeye sahip bir kız kardeşin birlikte gerçekte ne yapabileceklerini bulmaları gerekmektedir.(Kaynak: MAL Haber)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Engine, Ignition",
-      "episode_number": 1,
-      "aired": "Oct 3, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:11.377124"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Vertex",
-      "episode_number": 2,
-      "aired": "Oct 10, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-16T08:07:51.588733"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Ardent Feelings",
-      "episode_number": 3,
-      "aired": "Oct 17, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-23T08:30:13.929545"
-    }
-  ]
+  "synopsis_tr": "Kuzey Okinawa'da yaşayan lise öğrencisi Akira Toudou, annesi ve ablası Haruka ile huzur içinde yaşıyor. Ancak huzurlu yaşamlarının arkasında aileden geçen bir sır vardır: Haruka, babalarından \"Motor\" olarak bilinen gizemli bir gücü miras almıştır ve hayatını bu gücü başkalarından saklayarak geçirmiştir. Ancak Akira hiçbir şeyi miras almadı. Kendi zayıflığından dolayı aşağılık kompleksine kapılır. Daha sonra tüm dünyada tuhaf olaylar yaşanmaya başlar. Bilinmeyen düşmanın Akira ve arkadaşlarına yaklaşmasının amacı nedir? Şimdi, evrenin kaderi tehlikedeyken, hiçbir şeyi olmayan bir erkek kardeş ile her şeye sahip bir kız kardeşin birlikte gerçekte ne yapabileceklerini bulmaları gerekmektedir.(Kaynak: MAL Haber)"
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Seriye ait OVA bölümdür.",
-    "slug": "ultra-maniac-ova"
+    "slug": "ultra-maniac-ova",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 179,
@@ -55,46 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 179,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/179.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ultra Maniac OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1k41jfXzWWrBSAHlCdFtZR1pzDyn-61aG/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015669"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1767959"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-u3nftvphwci7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:21:18.642944",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 38061,
     "type": "tv",

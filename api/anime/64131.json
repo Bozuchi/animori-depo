@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Kanojo no Tomodachi",
-    "slug": "kanojo-no-tomodachi"
+    "slug": "kanojo-no-tomodachi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 64131,
@@ -41,6 +42,22 @@
           136522
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Episode 1",
+        "aired": "Oct 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Episode 2",
+        "aired": "Oct 12, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -55,27 +72,5 @@
     "episode_offset": 0,
     "name": "My Girlfriend's Friend"
   },
-  "synopsis_tr": "Takeru Hidaka, tıp fakültesini hedefleyen hırslı bir lise öğrencisidir. İlk kız arkadaşı Kaori Koga ile yeni çıkmaya başlamıştır ve diğer herkese göre ilişkileri son derece uyumlu görünmektedir. Ancak Kaori'nin en yakın arkadaşı Tomoko Yoshioka, Takeru'yla flört edip onu baştan çıkarmaya başlayınca bu barış tehlikeye girer. Kız arkadaşına olan sadakati ile Tomoko'nun ilerlemeleri arasında kalan Takeru, ikili bir hayatın ve karmaşık bir ilişkinin içine düşer. Artık hem akademik geleceğini hem de duygusal bağlantılarını riske atan bir yalan ağında gezinmek zorunda kalırken, bir yandan da sırrının açığa çıkması tehdidi onun üzerinde beliriyor.(Kaynak: MAL Haberleri)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Episode 1",
-      "episode_number": 1,
-      "aired": "Oct 5, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-08T10:26:03.365744"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Episode 2",
-      "episode_number": 2,
-      "aired": "Oct 12, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-14T08:40:14.529020"
-    }
-  ]
+  "synopsis_tr": "Takeru Hidaka, tıp fakültesini hedefleyen hırslı bir lise öğrencisidir. İlk kız arkadaşı Kaori Koga ile yeni çıkmaya başlamıştır ve diğer herkese göre ilişkileri son derece uyumlu görünmektedir. Ancak Kaori'nin en yakın arkadaşı Tomoko Yoshioka, Takeru'yla flört edip onu baştan çıkarmaya başlayınca bu barış tehlikeye girer. Kız arkadaşına olan sadakati ile Tomoko'nun ilerlemeleri arasında kalan Takeru, ikili bir hayatın ve karmaşık bir ilişkinin içine düşer. Artık hem akademik geleceğini hem de duygusal bağlantılarını riske atan bir yalan ağında gezinmek zorunda kalırken, bir yandan da sırrının açığa çıkması tehdidi onun üzerinde beliriyor.(Kaynak: MAL Haberleri)"
 }

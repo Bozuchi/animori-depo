@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Girls & Panzer: Saishuushou serisinin 4. filmidir",
-    "slug": "girls-panzer-saishuushou-part-4"
+    "slug": "girls-panzer-saishuushou-part-4",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39167,
@@ -57,29 +58,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 132420,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132420-ISRJCkMxIVcb.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132420-aE5g1TCAbvUG.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Girls & Panzer: Saishuushou Part 4 Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/hsc4g6511sr8"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:53:28.216200",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

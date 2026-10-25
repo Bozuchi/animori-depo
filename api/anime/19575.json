@@ -4,7 +4,63 @@
     "puan": "7.85",
     "bolum_durumu": "2/2",
     "ozet": "Kobayashi Mitsuru ve Kobayashi Megumu ikiz kardeşler. Mitsuru sporcu, Megumu ise bir otaku. Mitsuru kızlar arasında çok popüler, Megumu ise erkeklerle doğru düzgün konuşamıyor bile. Tarih sınavları yaklaşıyor, Mitsuru'nun başı dertte! Şansa bak ki Megumu bu derste çok iyi. Megumu, Mitsuru'ya yardım edecek ama okullarını değiştirerek, yani Mitsuru kız lisesine gidecek, Megumu ise erkekler lisesine... Bakalım bu kararları başlarına karmaşayı mı, eğlenceyi mi, yoksa çuval dolusu derdi mi getirecek...",
-    "slug": "kobayashi-ga-kawai-sugite-tsurai"
+    "slug": "kobayashi-ga-kawai-sugite-tsurai",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Kobayashi ga Kawai Sugite Tsurai!! OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18RWj99TCxatAJGclEzXFAu-J-0rHqD0G/preview"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017125"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744099"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-cguu19tyd1fu.html"
+          }
+        ],
+        "added_date": "2026-07-27T04:15:33.363021"
+      },
+      {
+        "episode_number": 2,
+        "title": "Kobayashi ga Kawai Sugite Tsurai!! OVA 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1e2B0RijIDBMz4TRanPQmkhZYyqBiKQH4/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017126"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2792616"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3rba64cceejd.html"
+          }
+        ],
+        "added_date": "2026-07-27T04:15:33.363021"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 19575,
@@ -46,77 +102,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 19575,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19575-wBLvVKgV57CV.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kobayashi ga Kawai Sugite Tsurai!! OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18RWj99TCxatAJGclEzXFAu-J-0rHqD0G/preview"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017125"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744099"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-cguu19tyd1fu.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:15:33.363021",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Kobayashi ga Kawai Sugite Tsurai!! OVA 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1e2B0RijIDBMz4TRanPQmkhZYyqBiKQH4/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017126"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2792616"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3rba64cceejd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:15:33.363021",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 123274,
     "type": "tv",

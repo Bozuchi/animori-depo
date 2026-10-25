@@ -4,7 +4,8 @@
     "puan": "7.26",
     "bolum_durumu": "1/1",
     "ozet": "M.S. 2131 yılında, 3. Dünya Savaşı gazileri Deunan Knute ve savaşta bedeninin büyük bir bölümünü kaybeden cyborg partneri Briareros, Olympus isimli ütopik şehre getirilirler. Olympus halkı insanlardan ve genetik olarak yeniden yapılandırılmış bioroidlerden oluşmaktadır. Görünüşte mükemmel bir dünya gibi görünen Olympus, perde arkasında büyük entrikalarla sahne olmaktadır. Olympus E.S.W.A.T. kuvvetlerinde göreve başlayan Deunan ve Briareros, kısa bir süre sonra Olympus'un geleceğine ilişkin gizli planlara tanık olurlar.",
-    "slug": "appleseed"
+    "slug": "appleseed",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 937,
@@ -59,56 +60,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 937,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/937-QB6I9ZzJ3Jwp.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx937-2SYiMKI3qPkp.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Appleseed",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SJF-v1DsvMBIjqC2pJukCYS7rhlswXe0/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359654329"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018391"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4065288"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5ooz0dqr"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6cf9zqjalbmd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:20:48.847251",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 45348,
     "type": "tv",

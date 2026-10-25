@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ginga Kikoutai Majestic Prince animesinin devamıdır.",
-    "slug": "ginga-kikoutai-majestic-prince-movie-kakusei-no-idenshi"
+    "slug": "ginga-kikoutai-majestic-prince-movie-kakusei-no-idenshi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 33025,
@@ -50,39 +51,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21750,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21750-eLbrebWb77O0.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21750-7mzYKil5CSom.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366634"
-        },
-        {
-          "fansub_id": 78,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rkwh7666o80v.html"
-        },
-        {
-          "fansub_id": 78,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-x5nz4gbv2ddg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:31:52.764290",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

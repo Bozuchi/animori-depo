@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Black Magic, ilk olarak 1983 yılında bir fanzinde yer almış 1985 yılında cilt olarak yeniden basılmıştır. Black Magic M–66, mangadaki \"Booby-Trap\" isimli hikayeyi baz alır.\n\nOrduya ait, gizli bir silahın nakliyesi sırasında bir kaza olur. Nakliye uçağı yere çarpar ve parçalanır. Uçak içerisindeki iki kargo kapsülü çevreye dağılır, gizemli bir şekilde kapsülleri içindeki Androitler aktif hale gelir. Aslında bütün olup bitenler bir planın parçalarıdır, uçak sabote edilmiş ve Androitler de özel bir görevi yerine getirmeleri için canlandırılmıştır. İyi bir haber yakaladığını düşünen Sybel bu kez yutabileceğinden daha büyük bir ısırık almıştır. M–66 nın görevini takip edip iyi bir haber yapmalı ve aynı zamanda da ölüm tehlikesi altında olan Ferris’i kurtarmalıdır.",
-    "slug": "black-magic-m-66"
+    "slug": "black-magic-m-66",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1270,
@@ -47,51 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1270,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1270-nbKtS6R7xHYg.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1270-pPr9qRFyOuNq.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Black Magic M-66",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iK3-KnP8X0gVtqNZkWP0EMPaybagx3yL/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekai2/576/773.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016414"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3156299"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-c2q8lgyzmw1a.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T05:18:34.060077",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 66045,
     "type": "movie",

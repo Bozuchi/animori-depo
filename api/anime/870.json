@@ -4,7 +4,115 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Bir ejderhanın kızı ve emekli bir ejderha avcısı şövalyesi olan Mink, dünyaca ünlü genç idol ve ejderha avcısı Dick Saucer tarafından düzenlenen bir konser için bilet alma yolculuğuna çıkıyor. Bu arada, toprağın yozlaşmış kralı annesine ulaşmak için rehin almaya çalışıyor ve sihir kullanan kızı Mink'in arayışına engel olmak istemiyor.",
-    "slug": "dragon-half"
+    "slug": "dragon-half",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Dragon Half OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 222,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10b_WpJQ58vcU6Ci_5k19FwsHaAdskqkl/preview"
+          },
+          {
+            "fansub_id": 222,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7992"
+          },
+          {
+            "fansub_id": 222,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140717379"
+          },
+          {
+            "fansub_id": 222,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3987191"
+          },
+          {
+            "fansub_id": 222,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4471901"
+          },
+          {
+            "fansub_id": 222,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3987145"
+          },
+          {
+            "fansub_id": 222,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7f1v8mn2yjrk.html"
+          },
+          {
+            "fansub_id": 222,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-knz36zk3khkt.html"
+          },
+          {
+            "fansub_id": 222,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/tb2b8vzn"
+          },
+          {
+            "fansub_id": 222,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4c8vbx5x"
+          },
+          {
+            "fansub_id": 222,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xrg2gvos4box.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1404,
+            "end": 1563
+          }
+        },
+        "added_date": "2026-07-24T23:20:11.000888"
+      },
+      {
+        "episode_number": 2,
+        "title": "Dragon Half Ova 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 222,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359652222"
+          },
+          {
+            "fansub_id": 222,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3988774"
+          },
+          {
+            "fansub_id": 222,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4532530"
+          },
+          {
+            "fansub_id": 222,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xphi0po5byn3.html"
+          },
+          {
+            "fansub_id": 222,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mo4clxncavqu.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1359,
+            "end": 1517
+          }
+        },
+        "added_date": "2026-07-24T23:20:11.000888"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 870,
@@ -46,127 +154,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 870,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n870-ks6pu0ThyGCJ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx870-yGEqk8uKxv2J.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Dragon Half OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 222,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10b_WpJQ58vcU6Ci_5k19FwsHaAdskqkl/preview"
-        },
-        {
-          "fansub_id": 222,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7992"
-        },
-        {
-          "fansub_id": 222,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140717379"
-        },
-        {
-          "fansub_id": 222,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3987191"
-        },
-        {
-          "fansub_id": 222,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4471901"
-        },
-        {
-          "fansub_id": 222,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3987145"
-        },
-        {
-          "fansub_id": 222,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7f1v8mn2yjrk.html"
-        },
-        {
-          "fansub_id": 222,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-knz36zk3khkt.html"
-        },
-        {
-          "fansub_id": 222,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/tb2b8vzn"
-        },
-        {
-          "fansub_id": 222,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4c8vbx5x"
-        },
-        {
-          "fansub_id": 222,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xrg2gvos4box.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1404,
-          "end": 1563
-        }
-      },
-      "added_date": "2026-07-24T23:20:11.000888",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Dragon Half Ova 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 222,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359652222"
-        },
-        {
-          "fansub_id": 222,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3988774"
-        },
-        {
-          "fansub_id": 222,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4532530"
-        },
-        {
-          "fansub_id": 222,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xphi0po5byn3.html"
-        },
-        {
-          "fansub_id": 222,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mo4clxncavqu.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1359,
-          "end": 1517
-        }
-      },
-      "added_date": "2026-07-24T23:20:11.000888",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 34780,
     "type": "tv",

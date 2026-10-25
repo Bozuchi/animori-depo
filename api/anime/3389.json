@@ -4,7 +4,145 @@
     "puan": "6.77",
     "bolum_durumu": "3/3",
     "ozet": "Birbirini hiçbir şekilde tanımayan Mishiba Toki, Nakajyo Nabuto ve Saitoh Kazuro Otobüs Oyunu'nun tamamlamak için bir şirket tarafından kiralandıklarında, yasadışı bir köpek dövüşü gizlice başlamış olur. Kodları \"AAA Takımı\"dır(Üç Anonim). Yaşadıkları çevreden kişiliklerine kadar tamamen farklı olan bu üçlü, etkin bir biçimde beraber çalışmak zorundadır, ama birbirlerine olan güvensizliklerinden ve diğerlerinin özel hayatlarına olan meraklarından kurtulamazlar. Ortak tek nokta vardır, her birinin kişisel durumlarından dolayı bayağı büyük miktarlarda paraya ihtiyaçları vardır. Parayı kazanmak için, kendi hayatlarını riske atmak pahasına da olsa oyunu oynamalıdırlar.",
-    "slug": "bus-gamer"
+    "slug": "bus-gamer",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Bus Gamer 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WxIPbG1lC8hLYkt7x_MtrqjyKhEKPLxM/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847341"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715446"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4078633"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4464085"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-k3it3yvie6m1.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/96a64q7q"
+          }
+        ],
+        "added_date": "2026-07-23T07:19:07.438323"
+      },
+      {
+        "episode_number": 2,
+        "title": "Bus Gamer 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1aZrMPOaBXfKXAygjeIjQ79iOxhZK4lrD/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715675"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847395"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4079578"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4464921"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lh9rum3g2cz0.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/w82ig6gu"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-yfff4grjodm8.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:19:07.438323"
+      },
+      {
+        "episode_number": 3,
+        "title": "Bus Gamer 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1y2KbRKVAgzazlWiGGaHkmyirgD1Gx6Ma/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715677"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847331"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4464927"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4078461"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-cvt8updqdwr4.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/g67n1x1v"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bzq3s0ivzspt.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:19:07.438323"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3389,
@@ -50,163 +188,36 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 3389,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3389.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Bus Gamer 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WxIPbG1lC8hLYkt7x_MtrqjyKhEKPLxM/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847341"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715446"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4078633"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4464085"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-k3it3yvie6m1.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/96a64q7q"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:19:07.438323",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Bus Gamer 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1aZrMPOaBXfKXAygjeIjQ79iOxhZK4lrD/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715675"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847395"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4079578"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4464921"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-lh9rum3g2cz0.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/w82ig6gu"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-yfff4grjodm8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:19:07.438323",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Bus Gamer 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1y2KbRKVAgzazlWiGGaHkmyirgD1Gx6Ma/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715677"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847331"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4464927"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4078461"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-cvt8updqdwr4.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/g67n1x1v"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bzq3s0ivzspt.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:19:07.438323",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 43141,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "7.01",
     "bolum_durumu": "1/1",
     "ozet": "Yıl 2142 aşırı nüfus ve kirlilik nedeniyle Dünya'nın çoğunluğu yaşanmaz hale gemiştir. Tek güvenli yer olan ECOBAN adlı şehirde insanlar yaşamını sürdürmektedir, ancak Ecoban, kirliliği enerji olarak kullanan Demos Sistemi sayesinde ayakta durmaktadır. Jay, Ecoban'da güvenlik memuru olarak çalışmaktadır ve bir gün Ecoban'ın gizli verilerini çalmaya çalışan eski arkadaşı Shua ile karşılaşır.\n\nEcoban'da yaşayan insanlar dışında Marr ırkıda bulunmaktadır ve bu insanlar Ecobanlılar tarafından zalimce sömürülmektedir. Shua, Marrlıların safında yer alarak eski arkadaşı Jay'e rağmen Ecoban'ın zalim saltanatını yok etmek için elinden geleni yapar.",
-    "slug": "wonderful-days"
+    "slug": "wonderful-days",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 548,
@@ -39,56 +40,14 @@
     "demographics": [],
     "studios": [],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 548,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/548.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Wonderful Days",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-2K7C3cNZRZQ5sWPhlUtme2uh0_9bS2U/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845909"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016036"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4065988"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/nn5ar05b"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7h0fnis1e7qz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T16:29:48.286830",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 14258,
     "type": "movie",

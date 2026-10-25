@@ -4,7 +4,51 @@
     "puan": "0.00",
     "bolum_durumu": "1/3",
     "ozet": "Yapım, üç farklı yönetmenin elinden çıkan üç farklı hikayeden oluşuyor. \"Kanini ve Kanino\" iki yengeç kardeşin hikayesini anlattığı fantastik bir macera. \"Hayat, kaybetmeyecek\" bir anne ve oğlun arasındaki sevgiyi ekrana taşıyan bir dram hikayesi. \"Görünmez\" yalnız bir görünmez adamın mücadelelerini anlatıyor. Ponoc Stüdyosu, bu yapımı \"günümüzün mütevazı kahramanlarının hikayeleri\" diye adlandırıyor.",
-    "slug": "chiisana-eiyuu-kani-to-tamago-to-toumei-ningen"
+    "slug": "chiisana-eiyuu-kani-to-tamago-to-toumei-ningen",
+    "episodes": [
+      {
+        "episode_number": 3,
+        "title": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen 1 - 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 157,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4840828"
+          },
+          {
+            "fansub_id": 157,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-x057cgopcnce.html"
+          },
+          {
+            "fansub_id": 74,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1UUEPQfLESi1aKv7uzbZ-NGAGvraMJz7H/preview"
+          },
+          {
+            "fansub_id": 74,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1860"
+          },
+          {
+            "fansub_id": 74,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-zskzfr96g2i8.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4840834"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1j7secnpkulo.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:33:52.546026"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37623,
@@ -40,61 +84,22 @@
       1523
     ],
     "relations": [],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 103887,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103887-ZdtDZo2cpyIr.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103887-aopAwhEi716k.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen 1 - 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 157,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4840828"
-        },
-        {
-          "fansub_id": 157,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-x057cgopcnce.html"
-        },
-        {
-          "fansub_id": 74,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UUEPQfLESi1aKv7uzbZ-NGAGvraMJz7H/preview"
-        },
-        {
-          "fansub_id": 74,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1860"
-        },
-        {
-          "fansub_id": 74,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zskzfr96g2i8.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4840834"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1j7secnpkulo.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:33:52.546026",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 514710,
     "type": "movie",

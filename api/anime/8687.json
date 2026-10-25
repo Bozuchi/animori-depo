@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Doraemon (2005)",
-    "slug": "doraemon-2005"
+    "slug": "doraemon-2005",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8687,
@@ -106,6 +107,1555 @@
           59713
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Slow-Slow, Quick-Quick / Nobita's Wife",
+        "aired": "Apr 22, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Dictator Switch",
+        "aired": "Apr 29, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Sonic Oscillation Terror Machine / The Almighty Pass",
+        "aired": "May 6, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Time Cloth / Go to Dandelion Sky",
+        "aired": "May 13, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Top Secret Spy Strategy / Hello, Alien",
+        "aired": "May 20, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Nobita's Underground Country",
+        "aired": "May 27, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Substitution Rope Story / Cartoonist Jaiko",
+        "aired": "Jun 3, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Doraemon's Everywhere / Heart Cologne",
+        "aired": "Jun 10, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "My Love Just Won't Stop~Meow / Bottle Cap Collection",
+        "aired": "Jun 17, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Odd, Odd Umbrellas / Now-Now Stick",
+        "aired": "Jun 24, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Transformation Biscuits / Goodbye, Shizuka",
+        "aired": "Jul 8, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Debut of the Mood-Changing Orchestra! / The Friend Circle",
+        "aired": "Jul 15, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Wrestling Killer / The Woodcutter's Spring",
+        "aired": "Jul 29, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Doraemon’s Prediction / A Girl Like White Lilies",
+        "aired": "Aug 5, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Borrowing in the Shade / Memorization Bread for Testing",
+        "aired": "Aug 12, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Antique Competition / Ghost Lamp",
+        "aired": "Aug 19, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Dream Wind Chime / The Dress-Up Camera",
+        "aired": "Aug 26, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Ancestors, Come On",
+        "aired": "Sep 2, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "The Bow-Bow Grasshopper / Jaiko's Boyfriend=Nobita",
+        "aired": "Sep 9, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The Guidance Angel / My Home is Getting Farther and Farther Away",
+        "aired": "Sep 16, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Ah, Love, Love, Love! / Operation: Sleeping Dekisugi",
+        "aired": "Sep 23, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Ayaushi! Lion Mask / Nobita Runs Away From Home for a Lo~ng Time",
+        "aired": "Oct 28, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Honest Taro / The Head of the Gorgon",
+        "aired": "Nov 4, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "The King of Sharpshooting Contest / Werewolf Cream",
+        "aired": "Nov 11, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "The All-Season Badge / Operation: Y Candle",
+        "aired": "Nov 18, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Kurou Miso / The Invincible Insect Pills",
+        "aired": "Nov 25, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "I Love You, Roboko / The Voice Thickener",
+        "aired": "Dec 2, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "N-S Badges / The Snail House Sure is Carefree",
+        "aired": "Dec 9, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "The Smoke Monster of the Lamp / The New Year's Party in the Wallpaper",
+        "aired": "Jan 13, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "I'm Going to Transfer this Cold / Hot Spring Trip",
+        "aired": "Jan 20, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "The Paddy Field Mat / The Over-exaggerating Overcoat",
+        "aired": "Jan 27, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "The Illustrated Encyclopedia of Real Things / Creating the Earth",
+        "aired": "Feb 3, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "The Progression-Regression Beam / The Castaway Story from Long Ago",
+        "aired": "Feb 10, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "The Dream Channel / Dinosaur Footprints Discovered",
+        "aired": "Feb 17, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Nature Plastic Model Series",
+        "aired": "Mar 3, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Giant Monster of the Uninhabited Island",
+        "aired": "Mar 10, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "The Word Game Transformation Egg / I'll Be the King of the Stone Age",
+        "aired": "Mar 17, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "All the Way From the Country of the Future",
+        "aired": "Apr 21, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "The City of Dreams, Nobita Land / I'm Gonna Become a Fine Dad!",
+        "aired": "Apr 28, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Esper Suneo / Suneo is the Ideal Big Brother",
+        "aired": "May 5, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Even in the Stomach, in the Acid / Pero! Come Back to Life",
+        "aired": "May 12, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Fever! Gian Fanclub / Gian's Feeling Down",
+        "aired": "May 19, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Big Problem With the X-Ray Stickers / The Human Book Cover",
+        "aired": "May 26, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Don't Cry, Jaiko / Jaiko's New Comic",
+        "aired": "Jun 2, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "The Lazy Day / Aren't You Nobita, the Cat?",
+        "aired": "Jun 9, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Swapping Moms / Nobita Disappeared?",
+        "aired": "Jun 16, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "All Alone in the City of the Future / The Schedule Clock",
+        "aired": "Jun 23, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "The Just-As-You-Said Pills / The World is Full of Lies",
+        "aired": "Jul 7, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Nobita's Castaway Story / Chip Pocket Two-dimensional Camera",
+        "aired": "Jul 14, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "The Stupidity Time Bombs / The In-advance Diary is Horrible",
+        "aired": "Jul 21, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Assorted Monsters / Which is a Lie! Our Sale",
+        "aired": "Jul 28, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "What Are Those Two Doing, All Alone Together? / Water Processing Sprinkle",
+        "aired": "Aug 4, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "The Equality Bomb / Please Save Me",
+        "aired": "Aug 18, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "Watercycline / The Reality Pillow",
+        "aired": "Aug 25, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "Doraemon's Song / Lighter Play",
+        "aired": "Sep 8, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "Nobita Got a 100 / The Devil Card",
+        "aired": "Sep 22, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "The Light-or-Heavy Meter",
+        "aired": "Oct 20, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "The Absconding Leaf",
+        "aired": "Oct 27, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "The Tax Bird",
+        "aired": "Nov 3, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "The Bad Luck Diamond",
+        "aired": "Nov 10, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "The Mini Hot-Air Balloon",
+        "aired": "Nov 17, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 62,
+        "title": "The Four-Dimensional Building Extension Blocks / The Conclusion Yarn",
+        "aired": "Nov 24, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 63,
+        "title": "Devil Passport / The Cute Rock Story",
+        "aired": "Dec 8, 2006",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 64,
+        "title": "The What-If Phone Box / Winning Back Shizuka-chan (Part 1)",
+        "aired": "Jan 12, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 65,
+        "title": "Winning Back Shizuka-chan (Part 2) / Oh, Lovely Mii-chan",
+        "aired": "Jan 19, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 66,
+        "title": "The Sleeping Genius Nobita / The Robinson Crusoe Set",
+        "aired": "Jan 26, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 67,
+        "title": "Big Pinch! Suneo's Examination Paper",
+        "aired": "Feb 2, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 68,
+        "title": "The Worldwide Flood / The Couple Test Badges",
+        "aired": "Feb 9, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 69,
+        "title": "Exploring the Earth (Part 1)",
+        "aired": "Feb 16, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 70,
+        "title": "Exploring the Earth (Part 2)",
+        "aired": "Feb 23, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 71,
+        "title": "A World Without Mirrors",
+        "aired": "Mar 9, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 72,
+        "title": "There's No Way We Can Produce a Cartoon / Nobita's Black Hole",
+        "aired": "Mar 16, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 73,
+        "title": "Operation: Rescue Nobita",
+        "aired": "May 11, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 74,
+        "title": "Gratitude Halo / That Person's Living Room",
+        "aired": "May 18, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 75,
+        "title": "Magical Girl Shizu-chan / The Secret of Shizuka-chan's Heart",
+        "aired": "May 25, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 76,
+        "title": "Super Gian: The Hero of Justice / The Owl Man Suit: The Hero of Justice",
+        "aired": "Jun 1, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 77,
+        "title": "Would You Like To Adopt Doraemon? / The Horror of Gian's Birthday",
+        "aired": "Jun 8, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 78,
+        "title": "The Horror of Gian's Birthday Returns / Gian Lost!?",
+        "aired": "Jun 15, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 79,
+        "title": "Nobita Becomes Picasso! Seems-bad-but-not Spray / Using Unsaved Savings!",
+        "aired": "Jun 22, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 80,
+        "title": "The Horizon in Nobita's Room / Shizuka-chan in the Egg",
+        "aired": "Jul 6, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 81,
+        "title": "Midsummer Secret Tool Shopping! / The Pitch-Black Pop Stars",
+        "aired": "Jul 13, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 82,
+        "title": "The Forceful Athletic House / A Cat Made a Company, Meow",
+        "aired": "Jul 20, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 83,
+        "title": "The Pool in the Clouds / Scoop! Nobita and the Secret Date",
+        "aired": "Jul 27, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 84,
+        "title": "The Elephant and the Uncle",
+        "aired": "Aug 10, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 85,
+        "title": "The Hungry Master-sama / We're Gonna Steal Mom's Diamond",
+        "aired": "Aug 17, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 86,
+        "title": "Be Careful About Buying From the Future / Doreamon is Really Sick?",
+        "aired": "Aug 31, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 87,
+        "title": "Don't Take My Jack / Nobita raises Princess Kaguya",
+        "aired": "Sep 14, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 88,
+        "title": "Monkey King is a Runner, Cinderella is a Helper / Nobita Becomes a Hermit!?",
+        "aired": "Sep 21, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 89,
+        "title": "Fuko, The Typhoon",
+        "aired": "Oct 26, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 90,
+        "title": "Pinocchio's Flower / Fedual Lord of the 21st Century",
+        "aired": "Nov 2, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 91,
+        "title": "The Gourmet Table Cloth / The Snowman's Part-time Job",
+        "aired": "Nov 16, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 92,
+        "title": "I'm Mini Doraemon / Looks, Strength, or IQ?",
+        "aired": "Nov 30, 2007",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 93,
+        "title": "Electric Shock Trade / The Goodie Farm",
+        "aired": "Jan 11, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 94,
+        "title": "The Stop Being Late Plan / Defeat Gian! The Magic Spell",
+        "aired": "Jan 18, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 95,
+        "title": "Nobita + Pigeon =? / Strong Stone",
+        "aired": "Jan 25, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 96,
+        "title": "Suneo, Goes to the Beauty Salon / Goodbye, Suneo...",
+        "aired": "Feb 1, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 97,
+        "title": "Nobita: Gunfighter of the Cosmos (Part One)",
+        "aired": "Feb 8, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 98,
+        "title": "Nobita: Gunfighter of the Cosmos (Part Two)",
+        "aired": "Feb 15, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 99,
+        "title": "Stand to Sergeant Nobita's Attention! / Dekisugi's Genius Rocket Operation",
+        "aired": "Feb 22, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 100,
+        "title": "The Invincible, Ultra-Special-Mighty-Strong-Super Armor / The Ghost Nobita Loved",
+        "aired": "Feb 29, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 101,
+        "title": "The Forest is Alive",
+        "aired": "Mar 14, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 102,
+        "title": "The Day When I Was Born",
+        "aired": "Apr 25, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 103,
+        "title": "Goodbye to You",
+        "aired": "May 2, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 104,
+        "title": "Doraemon VS Dracula (Part 1)",
+        "aired": "May 9, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 105,
+        "title": "Doraemon VS Dracula (Part 2)",
+        "aired": "May 16, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 106,
+        "title": "Dramatic Gas / Say \"Nobita is Smart\" Again!",
+        "aired": "May 23, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 107,
+        "title": "Shizuka-chan's Present Is Nobita",
+        "aired": "May 30, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 108,
+        "title": "Real Life Video Game From the Future / Great Detective Nobita",
+        "aired": "Jun 6, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 109,
+        "title": "Build a Subway for Father's Day / Gian, in Love (Part 1)",
+        "aired": "Jun 13, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 110,
+        "title": "Gian, in Love (Part 2) / Let's Go See the Ocean in a Submarine",
+        "aired": "Jun 20, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 111,
+        "title": "The Space War of the Star Festival",
+        "aired": "Jul 11, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 112,
+        "title": "Someone Who's an Even Bigger Failure in Life Than Me Showed Up / My Spirit Bodyguard",
+        "aired": "Jul 18, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 113,
+        "title": "Baibain / Goodbye, Hana-chan",
+        "aired": "Jul 25, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 114,
+        "title": "But, I Saw a Ghost!",
+        "aired": "Aug 1, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 115,
+        "title": "My Birthday is the Same as Always / The Life Do-Over Machine",
+        "aired": "Aug 8, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 116,
+        "title": "The Stone Age Hotel",
+        "aired": "Aug 15, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 117,
+        "title": "Facing the Gians",
+        "aired": "Aug 22, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 118,
+        "title": "Let's Remake the World / Doraemon Takes the Day Off!!",
+        "aired": "Aug 29, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 119,
+        "title": "The Adventure Tea / Fortune Telling Through Tongue Reading",
+        "aired": "Sep 12, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 120,
+        "title": "Nobita Spends 3000 Days on a Deserted Island",
+        "aired": "Sep 19, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 121,
+        "title": "The Nobi Robot is Useless / Nobita's Encounter Catalog",
+        "aired": "Oct 17, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 122,
+        "title": "The Rumors of Love Just Won't Stop / Time, Keep Going!",
+        "aired": "Oct 31, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 123,
+        "title": "And So, We Left on a Journey",
+        "aired": "Nov 7, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 124,
+        "title": "Suneo's Invisible Fort",
+        "aired": "Nov 14, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 125,
+        "title": "There is a Soul to Cushion",
+        "aired": "Nov 21, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 126,
+        "title": "I'll Make a Little Brother / Head Down to the Path of Evil!",
+        "aired": "Nov 28, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 127,
+        "title": "Dorami's Absolute Worst Day / The Best Melon Bread in the World",
+        "aired": "Dec 5, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 128,
+        "title": "Our Homemade Giant Robot Loses Control",
+        "aired": "Dec 12, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 129,
+        "title": "Slope Cane / Nobita's 0-Point Escape Plan",
+        "aired": "Dec 19, 2008",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 130,
+        "title": "Nobizaemon's Treasure",
+        "aired": "Jan 9, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 131,
+        "title": "Nobita's Dream Story",
+        "aired": "Jan 16, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 132,
+        "title": "Half of a Half of a Half Again / That Day, That Time, and That Daruma",
+        "aired": "Jan 23, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 133,
+        "title": "Nobita and Shizuka's House of Love / Summoning in Victory With the Cheerleader Gloves",
+        "aired": "Feb 13, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 134,
+        "title": "The Mystery of the Village in the Mountains",
+        "aired": "Feb 20, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 135,
+        "title": "Fantasy Animal Safari Park",
+        "aired": "Feb 27, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 136,
+        "title": "The Mysterious Person in the Future World",
+        "aired": "Mar 13, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 137,
+        "title": "The Day Doraemon is Reborn",
+        "aired": "Apr 3, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 138,
+        "title": "Welcome to the Center of the Earth (Part 1)",
+        "aired": "May 1, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 139,
+        "title": "Welcome to the Center of the Earth (Part 2)",
+        "aired": "May 8, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 140,
+        "title": "Shizuka-chan Disappeared!?",
+        "aired": "May 15, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 141,
+        "title": "Nobita's Proposal Plan",
+        "aired": "May 22, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 142,
+        "title": "Doraemon's on a Diet!? / The Nobi's Finances are in Big Trouble!",
+        "aired": "May 29, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 143,
+        "title": "Masked Self, Hero of Justice",
+        "aired": "Jun 5, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 144,
+        "title": "Gian, The Moocher / My Friend, the Topknot",
+        "aired": "Jun 12, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 145,
+        "title": "The Rain Man is Painful",
+        "aired": "Jun 19, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 146,
+        "title": "Opposite Planet",
+        "aired": "Jul 3, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 147,
+        "title": "The Suneo Kidnapping Case / Doraemon Gives Up",
+        "aired": "Jul 10, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 148,
+        "title": "Let's Ride a Bug Plane",
+        "aired": "Jul 17, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 149,
+        "title": "How to Walk on the Sea Floor Without Getting in the Ocean / Winter Comes on a Midsummer's Day",
+        "aired": "Jul 24, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 150,
+        "title": "Like I Said, A Ghost Appeared",
+        "aired": "Jul 31, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 151,
+        "title": "The Nobita in Nobita",
+        "aired": "Aug 7, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 152,
+        "title": "A Happy Mermaid Princess",
+        "aired": "Aug 14, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 153,
+        "title": "Doraemon, In Love",
+        "aired": "Aug 21, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 154,
+        "title": "Muku, the Bad Dog / The Robot Dwarfs are Hardworking",
+        "aired": "Aug 28, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 155,
+        "title": "Nobita is the Only Creature on Earth",
+        "aired": "Sep 4, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 156,
+        "title": "Big Rampage! Nobita's Baby",
+        "aired": "Sep 18, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 157,
+        "title": "The Nobi House Turns Into a Giant Maze!? / Violetta of the Rainbow",
+        "aired": "Oct 16, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 158,
+        "title": "Farewell from the Window",
+        "aired": "Oct 23, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 159,
+        "title": "Becoming Faceless with an Eraser / The Toy Soldiers",
+        "aired": "Oct 30, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 160,
+        "title": "Hot Blood! Nobita's Sports Day",
+        "aired": "Nov 6, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 161,
+        "title": "Follow That Alien!",
+        "aired": "Nov 13, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 162,
+        "title": "The Horror of Gian Dinner Show / Once in a While, Nobita Can Think, Too",
+        "aired": "Nov 20, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 163,
+        "title": "Fine Dog!? Chukenper",
+        "aired": "Nov 27, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 164,
+        "title": "A Black Hole in Nobita's Town / What is Gian's Good Point?",
+        "aired": "Dec 4, 2009",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 165,
+        "title": "The Long, Long, New Years",
+        "aired": "Jan 8, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 166,
+        "title": "Big Panic! Super Baby",
+        "aired": "Jan 15, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 167,
+        "title": "With the Compliments, I Can Become An Artist / Life Course, Left or Right",
+        "aired": "Jan 22, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 168,
+        "title": "The Wild Man Headband / The Wish Realizing Machine Has Gone Too Far!",
+        "aired": "Jan 29, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 169,
+        "title": "Gorgeous! Suneo's Luxuriously Poor Birthday",
+        "aired": "Feb 5, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 170,
+        "title": "Don't Stop the Teacher From Slipping! / Millionaire Nobita",
+        "aired": "Feb 19, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 171,
+        "title": "Moving with the Completely-Flat Roller / Nobita Grows Octopuses on His Ears",
+        "aired": "Mar 12, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 172,
+        "title": "Nobita's Survival Trip",
+        "aired": "Mar 26, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 173,
+        "title": "The Curse of the Laughing Doll / The Long, Slender Friend",
+        "aired": "Apr 2, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 174,
+        "title": "Long Ago, Mom Was Just Like Nobita!?",
+        "aired": "Apr 9, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 175,
+        "title": "Create Gian's Weakness / Create Dekisugi's Weakness, Too",
+        "aired": "May 14, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 176,
+        "title": "Shizu-chan and the Grandfather Tree",
+        "aired": "May 21, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 177,
+        "title": "The Opposite Arrow / The Nobita that Nobita Never Knew",
+        "aired": "May 28, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 178,
+        "title": "Where'd Cinderella Go",
+        "aired": "Jun 4, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 179,
+        "title": "Grandpa, In the Midst of a Dream",
+        "aired": "Jun 11, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 180,
+        "title": "I'm Honekawa Doraemon / Going for a Vacuum Cleaner Drive",
+        "aired": "Jul 2, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 181,
+        "title": "I Caught a Sea Monster / The House Became a Robot",
+        "aired": "Jul 9, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 182,
+        "title": "The Story of Taking Off Your Body's Skin / Jaiko and Dorami Have Boyfriends!?",
+        "aired": "Jul 16, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 183,
+        "title": "Welcome to Monster Inn!",
+        "aired": "Jul 30, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 184,
+        "title": "Nobita's Birthday Adventure Journal",
+        "aired": "Aug 6, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 185,
+        "title": "Swapping Bodies With Everyone / Swimming Powder",
+        "aired": "Aug 13, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 186,
+        "title": "The Treasure of Skull Island",
+        "aired": "Aug 20, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 187,
+        "title": "Transform, Transform, Transform Again / Little House on the Big Iceberg",
+        "aired": "Aug 27, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 188,
+        "title": "Going Through the Sky on the Character \"Wa\" / Transform! The Dracula Set",
+        "aired": "Sep 10, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 189,
+        "title": "A Real 3D TV / On That Day, Everything Turned Into a Mouse",
+        "aired": "Sep 17, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 190,
+        "title": "The Mystery of Goodieland",
+        "aired": "Oct 15, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 191,
+        "title": "The Country of Ichi the Puppy: Bonding",
+        "aired": "Oct 22, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 192,
+        "title": "The Country of Ichi the Puppy: Hope",
+        "aired": "Oct 29, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 193,
+        "title": "Let's Go to a Hot Spring with Shizuka-chan / But Doraemon Wants a Mom",
+        "aired": "Nov 12, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 194,
+        "title": "I'll Be the King of String Finger World",
+        "aired": "Nov 19, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 195,
+        "title": "The Terror of Jaiko's Curry / Procrastinating With the Sooner-or-Later Chestnut",
+        "aired": "Dec 3, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 196,
+        "title": "Nobita's Big Radish Battle",
+        "aired": "Dec 10, 2010",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 197,
+        "title": "Flying Through the Sky! The Nobi Family`s Kotatsu",
+        "aired": "Jan 14, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 198,
+        "title": "Nobita's Pet is a Paper Dog!?",
+        "aired": "Jan 21, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 199,
+        "title": "Nobita's Town Becomes a Snowy Mountain",
+        "aired": "Jan 28, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 200,
+        "title": "Gian's House's Extreme Makeover / Nobita Becomes a Sticker!?",
+        "aired": "Feb 4, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 201,
+        "title": "Running Away to the Cretaceous Period",
+        "aired": "Feb 18, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 202,
+        "title": "Doraemon, Squared / Vote for da Boss wo' da Brats!",
+        "aired": "Feb 25, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 203,
+        "title": "Nobita's Confusing School Entrance Ceremony",
+        "aired": "Mar 25, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 204,
+        "title": "Welcome! To the Nobi Hotel / I Can Only Speak the Truth",
+        "aired": "Apr 29, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 205,
+        "title": "I Don't Like Shizuka-chan Being Like This!",
+        "aired": "May 6, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 206,
+        "title": "The Fishing Pond for Things You Dropped / The Understanding and Thankfulness Machine",
+        "aired": "May 13, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 207,
+        "title": "The Troublesome Gulliver / The Rumored Nobita",
+        "aired": "May 20, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 208,
+        "title": "River Otter Nobita's Great Adventure",
+        "aired": "May 27, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 209,
+        "title": "The Wishing Star / The Big Popularity Pheromone Plan",
+        "aired": "Jun 3, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 210,
+        "title": "Debut of a New Song! Gian the Great?",
+        "aired": "Jun 10, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 211,
+        "title": "Shizuka is Acting All Goofy? / The Nobita That Stopped Me",
+        "aired": "Jun 17, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 212,
+        "title": "Memories of Grandma",
+        "aired": "Jun 24, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 213,
+        "title": "The Tanabata Sky Came Falling Down",
+        "aired": "Jul 1, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 214,
+        "title": "The Nobi Family's Giant Tunafish / I've Got a Spare Fourth Dimensional Pocket",
+        "aired": "Jul 8, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 215,
+        "title": "Riding a Cloud to School / My House is a Night Train",
+        "aired": "Jul 15, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 216,
+        "title": "Ultra Ring / It's Solved! The Dekisugi Case",
+        "aired": "Jul 22, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 217,
+        "title": "Nobita Becomes a Ghost / Pilark of the Puddle",
+        "aired": "Aug 5, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 218,
+        "title": "The Gian Battery Is Infinite / The Cute Rock Story",
+        "aired": "Aug 12, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 219,
+        "title": "Gian Makes an Appearance on TV! / Story Badges for a Hot Summer",
+        "aired": "Aug 19, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 220,
+        "title": "That Lie Is True / I Wanna Give You My Everything",
+        "aired": "Aug 26, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 221,
+        "title": "Doraemon's One-Day-Only Love",
+        "aired": "Sep 2, 2011",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -114,2218 +1664,6 @@
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg"
   },
   "synopsis_tr": "Doraemon (2005), Fujiko Fujio'nun aynı isimli mangasına dayanan en yeni anime dizisidir. 1979 serisinin 2005 versiyonudur.  Bu \"yeniden yapım\" yapım ekibinde, seslendirme sanatçılarında, karakter tasarımında ve seste iyileştirmeler içeriyor. Doraemon, daha iyi bir gelecek sağlamak için aptal ve beceriksiz bir çocuk olan Nobita/Noby'yi doğru yola yönlendirmek için günümüzde ortaya çıkan, 22. yüzyıldan kalma kedi benzeri bir robottur. Nobita'nın aşkı Shizuka Minamoto/Sue, düşmanları ise Takeshi \"Gian\" Goda/Big G ve Suneo/Sneech'tir.  Her bölümde Doraemon, Nobita'ya bölümdeki ana çatışmanın üstesinden gelmesine yardımcı olacak 22. yüzyıldan kalma harika bir cihazı gösteriyor.(Kaynak: Wikipedia)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Slow-Slow, Quick-Quick / Nobita's Wife",
-      "episode_number": 1,
-      "aired": "Apr 22, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "The Dictator Switch",
-      "episode_number": 2,
-      "aired": "Apr 29, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "The Sonic Oscillation Terror Machine / The Almighty Pass",
-      "episode_number": 3,
-      "aired": "May 6, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "The Time Cloth / Go to Dandelion Sky",
-      "episode_number": 4,
-      "aired": "May 13, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "Top Secret Spy Strategy / Hello, Alien",
-      "episode_number": 5,
-      "aired": "May 20, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "Nobita's Underground Country",
-      "episode_number": 6,
-      "aired": "May 27, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "The Substitution Rope Story / Cartoonist Jaiko",
-      "episode_number": 7,
-      "aired": "Jun 3, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Doraemon's Everywhere / Heart Cologne",
-      "episode_number": 8,
-      "aired": "Jun 10, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "My Love Just Won't Stop~Meow / Bottle Cap Collection",
-      "episode_number": 9,
-      "aired": "Jun 17, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "The Odd, Odd Umbrellas / Now-Now Stick",
-      "episode_number": 10,
-      "aired": "Jun 24, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "The Transformation Biscuits / Goodbye, Shizuka",
-      "episode_number": 11,
-      "aired": "Jul 8, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "The Debut of the Mood-Changing Orchestra! / The Friend Circle",
-      "episode_number": 12,
-      "aired": "Jul 15, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "13. Bölüm",
-      "title": "Wrestling Killer / The Woodcutter's Spring",
-      "episode_number": 13,
-      "aired": "Jul 29, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "14. Bölüm",
-      "title": "Doraemon’s Prediction / A Girl Like White Lilies",
-      "episode_number": 14,
-      "aired": "Aug 5, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "15. Bölüm",
-      "title": "Borrowing in the Shade / Memorization Bread for Testing",
-      "episode_number": 15,
-      "aired": "Aug 12, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "16. Bölüm",
-      "title": "Antique Competition / Ghost Lamp",
-      "episode_number": 16,
-      "aired": "Aug 19, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "17. Bölüm",
-      "title": "Dream Wind Chime / The Dress-Up Camera",
-      "episode_number": 17,
-      "aired": "Aug 26, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "18. Bölüm",
-      "title": "Ancestors, Come On",
-      "episode_number": 18,
-      "aired": "Sep 2, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "19. Bölüm",
-      "title": "The Bow-Bow Grasshopper / Jaiko's Boyfriend=Nobita",
-      "episode_number": 19,
-      "aired": "Sep 9, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "20. Bölüm",
-      "title": "The Guidance Angel / My Home is Getting Farther and Farther Away",
-      "episode_number": 20,
-      "aired": "Sep 16, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "21. Bölüm",
-      "title": "Ah, Love, Love, Love! / Operation: Sleeping Dekisugi",
-      "episode_number": 21,
-      "aired": "Sep 23, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "22. Bölüm",
-      "title": "Ayaushi! Lion Mask / Nobita Runs Away From Home for a Lo~ng Time",
-      "episode_number": 22,
-      "aired": "Oct 28, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "23. Bölüm",
-      "title": "Honest Taro / The Head of the Gorgon",
-      "episode_number": 23,
-      "aired": "Nov 4, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "24. Bölüm",
-      "title": "The King of Sharpshooting Contest / Werewolf Cream",
-      "episode_number": 24,
-      "aired": "Nov 11, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "25. Bölüm",
-      "title": "The All-Season Badge / Operation: Y Candle",
-      "episode_number": 25,
-      "aired": "Nov 18, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "26. Bölüm",
-      "title": "Kurou Miso / The Invincible Insect Pills",
-      "episode_number": 26,
-      "aired": "Nov 25, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "27. Bölüm",
-      "title": "I Love You, Roboko / The Voice Thickener",
-      "episode_number": 27,
-      "aired": "Dec 2, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "28. Bölüm",
-      "title": "N-S Badges / The Snail House Sure is Carefree",
-      "episode_number": 28,
-      "aired": "Dec 9, 2005",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "29. Bölüm",
-      "title": "The Smoke Monster of the Lamp / The New Year's Party in the Wallpaper",
-      "episode_number": 29,
-      "aired": "Jan 13, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "30. Bölüm",
-      "title": "I'm Going to Transfer this Cold / Hot Spring Trip",
-      "episode_number": 30,
-      "aired": "Jan 20, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "31. Bölüm",
-      "title": "The Paddy Field Mat / The Over-exaggerating Overcoat",
-      "episode_number": 31,
-      "aired": "Jan 27, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "32. Bölüm",
-      "title": "The Illustrated Encyclopedia of Real Things / Creating the Earth",
-      "episode_number": 32,
-      "aired": "Feb 3, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "33. Bölüm",
-      "title": "The Progression-Regression Beam / The Castaway Story from Long Ago",
-      "episode_number": 33,
-      "aired": "Feb 10, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "34. Bölüm",
-      "title": "The Dream Channel / Dinosaur Footprints Discovered",
-      "episode_number": 34,
-      "aired": "Feb 17, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "35. Bölüm",
-      "title": "Nature Plastic Model Series",
-      "episode_number": 35,
-      "aired": "Mar 3, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "36. Bölüm",
-      "title": "Giant Monster of the Uninhabited Island",
-      "episode_number": 36,
-      "aired": "Mar 10, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "37. Bölüm",
-      "title": "The Word Game Transformation Egg / I'll Be the King of the Stone Age",
-      "episode_number": 37,
-      "aired": "Mar 17, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "38. Bölüm",
-      "title": "All the Way From the Country of the Future",
-      "episode_number": 38,
-      "aired": "Apr 21, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "39. Bölüm",
-      "title": "The City of Dreams, Nobita Land / I'm Gonna Become a Fine Dad!",
-      "episode_number": 39,
-      "aired": "Apr 28, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "40. Bölüm",
-      "title": "Esper Suneo / Suneo is the Ideal Big Brother",
-      "episode_number": 40,
-      "aired": "May 5, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "41. Bölüm",
-      "title": "Even in the Stomach, in the Acid / Pero! Come Back to Life",
-      "episode_number": 41,
-      "aired": "May 12, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "42. Bölüm",
-      "title": "Fever! Gian Fanclub / Gian's Feeling Down",
-      "episode_number": 42,
-      "aired": "May 19, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "43. Bölüm",
-      "title": "Big Problem With the X-Ray Stickers / The Human Book Cover",
-      "episode_number": 43,
-      "aired": "May 26, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "44. Bölüm",
-      "title": "Don't Cry, Jaiko / Jaiko's New Comic",
-      "episode_number": 44,
-      "aired": "Jun 2, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "45. Bölüm",
-      "title": "The Lazy Day / Aren't You Nobita, the Cat?",
-      "episode_number": 45,
-      "aired": "Jun 9, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "46. Bölüm",
-      "title": "Swapping Moms / Nobita Disappeared?",
-      "episode_number": 46,
-      "aired": "Jun 16, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "47. Bölüm",
-      "title": "All Alone in the City of the Future / The Schedule Clock",
-      "episode_number": 47,
-      "aired": "Jun 23, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "48. Bölüm",
-      "title": "The Just-As-You-Said Pills / The World is Full of Lies",
-      "episode_number": 48,
-      "aired": "Jul 7, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "49. Bölüm",
-      "title": "Nobita's Castaway Story / Chip Pocket Two-dimensional Camera",
-      "episode_number": 49,
-      "aired": "Jul 14, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "50. Bölüm",
-      "title": "The Stupidity Time Bombs / The In-advance Diary is Horrible",
-      "episode_number": 50,
-      "aired": "Jul 21, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "51. Bölüm",
-      "title": "Assorted Monsters / Which is a Lie! Our Sale",
-      "episode_number": 51,
-      "aired": "Jul 28, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "52. Bölüm",
-      "title": "What Are Those Two Doing, All Alone Together? / Water Processing Sprinkle",
-      "episode_number": 52,
-      "aired": "Aug 4, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "53. Bölüm",
-      "title": "The Equality Bomb / Please Save Me",
-      "episode_number": 53,
-      "aired": "Aug 18, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "54. Bölüm",
-      "title": "Watercycline / The Reality Pillow",
-      "episode_number": 54,
-      "aired": "Aug 25, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "55. Bölüm",
-      "title": "Doraemon's Song / Lighter Play",
-      "episode_number": 55,
-      "aired": "Sep 8, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "56. Bölüm",
-      "title": "Nobita Got a 100 / The Devil Card",
-      "episode_number": 56,
-      "aired": "Sep 22, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "57. Bölüm",
-      "title": "The Light-or-Heavy Meter",
-      "episode_number": 57,
-      "aired": "Oct 20, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "58. Bölüm",
-      "title": "The Absconding Leaf",
-      "episode_number": 58,
-      "aired": "Oct 27, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "59. Bölüm",
-      "title": "The Tax Bird",
-      "episode_number": 59,
-      "aired": "Nov 3, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "60. Bölüm",
-      "title": "The Bad Luck Diamond",
-      "episode_number": 60,
-      "aired": "Nov 10, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "61. Bölüm",
-      "title": "The Mini Hot-Air Balloon",
-      "episode_number": 61,
-      "aired": "Nov 17, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "62. Bölüm",
-      "title": "The Four-Dimensional Building Extension Blocks / The Conclusion Yarn",
-      "episode_number": 62,
-      "aired": "Nov 24, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "63. Bölüm",
-      "title": "Devil Passport / The Cute Rock Story",
-      "episode_number": 63,
-      "aired": "Dec 8, 2006",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "64. Bölüm",
-      "title": "The What-If Phone Box / Winning Back Shizuka-chan (Part 1)",
-      "episode_number": 64,
-      "aired": "Jan 12, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "65. Bölüm",
-      "title": "Winning Back Shizuka-chan (Part 2) / Oh, Lovely Mii-chan",
-      "episode_number": 65,
-      "aired": "Jan 19, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "66. Bölüm",
-      "title": "The Sleeping Genius Nobita / The Robinson Crusoe Set",
-      "episode_number": 66,
-      "aired": "Jan 26, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "67. Bölüm",
-      "title": "Big Pinch! Suneo's Examination Paper",
-      "episode_number": 67,
-      "aired": "Feb 2, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "68. Bölüm",
-      "title": "The Worldwide Flood / The Couple Test Badges",
-      "episode_number": 68,
-      "aired": "Feb 9, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "69. Bölüm",
-      "title": "Exploring the Earth (Part 1)",
-      "episode_number": 69,
-      "aired": "Feb 16, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "70. Bölüm",
-      "title": "Exploring the Earth (Part 2)",
-      "episode_number": 70,
-      "aired": "Feb 23, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "71. Bölüm",
-      "title": "A World Without Mirrors",
-      "episode_number": 71,
-      "aired": "Mar 9, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "72. Bölüm",
-      "title": "There's No Way We Can Produce a Cartoon / Nobita's Black Hole",
-      "episode_number": 72,
-      "aired": "Mar 16, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "73. Bölüm",
-      "title": "Operation: Rescue Nobita",
-      "episode_number": 73,
-      "aired": "May 11, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "74. Bölüm",
-      "title": "Gratitude Halo / That Person's Living Room",
-      "episode_number": 74,
-      "aired": "May 18, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "75. Bölüm",
-      "title": "Magical Girl Shizu-chan / The Secret of Shizuka-chan's Heart",
-      "episode_number": 75,
-      "aired": "May 25, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "76. Bölüm",
-      "title": "Super Gian: The Hero of Justice / The Owl Man Suit: The Hero of Justice",
-      "episode_number": 76,
-      "aired": "Jun 1, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "77. Bölüm",
-      "title": "Would You Like To Adopt Doraemon? / The Horror of Gian's Birthday",
-      "episode_number": 77,
-      "aired": "Jun 8, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "78. Bölüm",
-      "title": "The Horror of Gian's Birthday Returns / Gian Lost!?",
-      "episode_number": 78,
-      "aired": "Jun 15, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "79. Bölüm",
-      "title": "Nobita Becomes Picasso! Seems-bad-but-not Spray / Using Unsaved Savings!",
-      "episode_number": 79,
-      "aired": "Jun 22, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "80. Bölüm",
-      "title": "The Horizon in Nobita's Room / Shizuka-chan in the Egg",
-      "episode_number": 80,
-      "aired": "Jul 6, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "81. Bölüm",
-      "title": "Midsummer Secret Tool Shopping! / The Pitch-Black Pop Stars",
-      "episode_number": 81,
-      "aired": "Jul 13, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "82. Bölüm",
-      "title": "The Forceful Athletic House / A Cat Made a Company, Meow",
-      "episode_number": 82,
-      "aired": "Jul 20, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "83. Bölüm",
-      "title": "The Pool in the Clouds / Scoop! Nobita and the Secret Date",
-      "episode_number": 83,
-      "aired": "Jul 27, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "84. Bölüm",
-      "title": "The Elephant and the Uncle",
-      "episode_number": 84,
-      "aired": "Aug 10, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "85. Bölüm",
-      "title": "The Hungry Master-sama / We're Gonna Steal Mom's Diamond",
-      "episode_number": 85,
-      "aired": "Aug 17, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "86. Bölüm",
-      "title": "Be Careful About Buying From the Future / Doreamon is Really Sick?",
-      "episode_number": 86,
-      "aired": "Aug 31, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "87. Bölüm",
-      "title": "Don't Take My Jack / Nobita raises Princess Kaguya",
-      "episode_number": 87,
-      "aired": "Sep 14, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "88. Bölüm",
-      "title": "Monkey King is a Runner, Cinderella is a Helper / Nobita Becomes a Hermit!?",
-      "episode_number": 88,
-      "aired": "Sep 21, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "89. Bölüm",
-      "title": "Fuko, The Typhoon",
-      "episode_number": 89,
-      "aired": "Oct 26, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "90. Bölüm",
-      "title": "Pinocchio's Flower / Fedual Lord of the 21st Century",
-      "episode_number": 90,
-      "aired": "Nov 2, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "91. Bölüm",
-      "title": "The Gourmet Table Cloth / The Snowman's Part-time Job",
-      "episode_number": 91,
-      "aired": "Nov 16, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "92. Bölüm",
-      "title": "I'm Mini Doraemon / Looks, Strength, or IQ?",
-      "episode_number": 92,
-      "aired": "Nov 30, 2007",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "93. Bölüm",
-      "title": "Electric Shock Trade / The Goodie Farm",
-      "episode_number": 93,
-      "aired": "Jan 11, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "94. Bölüm",
-      "title": "The Stop Being Late Plan / Defeat Gian! The Magic Spell",
-      "episode_number": 94,
-      "aired": "Jan 18, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "95. Bölüm",
-      "title": "Nobita + Pigeon =? / Strong Stone",
-      "episode_number": 95,
-      "aired": "Jan 25, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "96. Bölüm",
-      "title": "Suneo, Goes to the Beauty Salon / Goodbye, Suneo...",
-      "episode_number": 96,
-      "aired": "Feb 1, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "97. Bölüm",
-      "title": "Nobita: Gunfighter of the Cosmos (Part One)",
-      "episode_number": 97,
-      "aired": "Feb 8, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "98. Bölüm",
-      "title": "Nobita: Gunfighter of the Cosmos (Part Two)",
-      "episode_number": 98,
-      "aired": "Feb 15, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "99. Bölüm",
-      "title": "Stand to Sergeant Nobita's Attention! / Dekisugi's Genius Rocket Operation",
-      "episode_number": 99,
-      "aired": "Feb 22, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "100. Bölüm",
-      "title": "The Invincible, Ultra-Special-Mighty-Strong-Super Armor / The Ghost Nobita Loved",
-      "episode_number": 100,
-      "aired": "Feb 29, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "101. Bölüm",
-      "title": "The Forest is Alive",
-      "episode_number": 101,
-      "aired": "Mar 14, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "102. Bölüm",
-      "title": "The Day When I Was Born",
-      "episode_number": 102,
-      "aired": "Apr 25, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "103. Bölüm",
-      "title": "Goodbye to You",
-      "episode_number": 103,
-      "aired": "May 2, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "104. Bölüm",
-      "title": "Doraemon VS Dracula (Part 1)",
-      "episode_number": 104,
-      "aired": "May 9, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "105. Bölüm",
-      "title": "Doraemon VS Dracula (Part 2)",
-      "episode_number": 105,
-      "aired": "May 16, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "106. Bölüm",
-      "title": "Dramatic Gas / Say \"Nobita is Smart\" Again!",
-      "episode_number": 106,
-      "aired": "May 23, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "107. Bölüm",
-      "title": "Shizuka-chan's Present Is Nobita",
-      "episode_number": 107,
-      "aired": "May 30, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "108. Bölüm",
-      "title": "Real Life Video Game From the Future / Great Detective Nobita",
-      "episode_number": 108,
-      "aired": "Jun 6, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "109. Bölüm",
-      "title": "Build a Subway for Father's Day / Gian, in Love (Part 1)",
-      "episode_number": 109,
-      "aired": "Jun 13, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "110. Bölüm",
-      "title": "Gian, in Love (Part 2) / Let's Go See the Ocean in a Submarine",
-      "episode_number": 110,
-      "aired": "Jun 20, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "111. Bölüm",
-      "title": "The Space War of the Star Festival",
-      "episode_number": 111,
-      "aired": "Jul 11, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "112. Bölüm",
-      "title": "Someone Who's an Even Bigger Failure in Life Than Me Showed Up / My Spirit Bodyguard",
-      "episode_number": 112,
-      "aired": "Jul 18, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "113. Bölüm",
-      "title": "Baibain / Goodbye, Hana-chan",
-      "episode_number": 113,
-      "aired": "Jul 25, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "114. Bölüm",
-      "title": "But, I Saw a Ghost!",
-      "episode_number": 114,
-      "aired": "Aug 1, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "115. Bölüm",
-      "title": "My Birthday is the Same as Always / The Life Do-Over Machine",
-      "episode_number": 115,
-      "aired": "Aug 8, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "116. Bölüm",
-      "title": "The Stone Age Hotel",
-      "episode_number": 116,
-      "aired": "Aug 15, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "117. Bölüm",
-      "title": "Facing the Gians",
-      "episode_number": 117,
-      "aired": "Aug 22, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "118. Bölüm",
-      "title": "Let's Remake the World / Doraemon Takes the Day Off!!",
-      "episode_number": 118,
-      "aired": "Aug 29, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "119. Bölüm",
-      "title": "The Adventure Tea / Fortune Telling Through Tongue Reading",
-      "episode_number": 119,
-      "aired": "Sep 12, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "120. Bölüm",
-      "title": "Nobita Spends 3000 Days on a Deserted Island",
-      "episode_number": 120,
-      "aired": "Sep 19, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "121. Bölüm",
-      "title": "The Nobi Robot is Useless / Nobita's Encounter Catalog",
-      "episode_number": 121,
-      "aired": "Oct 17, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "122. Bölüm",
-      "title": "The Rumors of Love Just Won't Stop / Time, Keep Going!",
-      "episode_number": 122,
-      "aired": "Oct 31, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "123. Bölüm",
-      "title": "And So, We Left on a Journey",
-      "episode_number": 123,
-      "aired": "Nov 7, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "124. Bölüm",
-      "title": "Suneo's Invisible Fort",
-      "episode_number": 124,
-      "aired": "Nov 14, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "125. Bölüm",
-      "title": "There is a Soul to Cushion",
-      "episode_number": 125,
-      "aired": "Nov 21, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "126. Bölüm",
-      "title": "I'll Make a Little Brother / Head Down to the Path of Evil!",
-      "episode_number": 126,
-      "aired": "Nov 28, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "127. Bölüm",
-      "title": "Dorami's Absolute Worst Day / The Best Melon Bread in the World",
-      "episode_number": 127,
-      "aired": "Dec 5, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "128. Bölüm",
-      "title": "Our Homemade Giant Robot Loses Control",
-      "episode_number": 128,
-      "aired": "Dec 12, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "129. Bölüm",
-      "title": "Slope Cane / Nobita's 0-Point Escape Plan",
-      "episode_number": 129,
-      "aired": "Dec 19, 2008",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "130. Bölüm",
-      "title": "Nobizaemon's Treasure",
-      "episode_number": 130,
-      "aired": "Jan 9, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "131. Bölüm",
-      "title": "Nobita's Dream Story",
-      "episode_number": 131,
-      "aired": "Jan 16, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "132. Bölüm",
-      "title": "Half of a Half of a Half Again / That Day, That Time, and That Daruma",
-      "episode_number": 132,
-      "aired": "Jan 23, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "133. Bölüm",
-      "title": "Nobita and Shizuka's House of Love / Summoning in Victory With the Cheerleader Gloves",
-      "episode_number": 133,
-      "aired": "Feb 13, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "134. Bölüm",
-      "title": "The Mystery of the Village in the Mountains",
-      "episode_number": 134,
-      "aired": "Feb 20, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "135. Bölüm",
-      "title": "Fantasy Animal Safari Park",
-      "episode_number": 135,
-      "aired": "Feb 27, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "136. Bölüm",
-      "title": "The Mysterious Person in the Future World",
-      "episode_number": 136,
-      "aired": "Mar 13, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "137. Bölüm",
-      "title": "The Day Doraemon is Reborn",
-      "episode_number": 137,
-      "aired": "Apr 3, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "138. Bölüm",
-      "title": "Welcome to the Center of the Earth (Part 1)",
-      "episode_number": 138,
-      "aired": "May 1, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "139. Bölüm",
-      "title": "Welcome to the Center of the Earth (Part 2)",
-      "episode_number": 139,
-      "aired": "May 8, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "140. Bölüm",
-      "title": "Shizuka-chan Disappeared!?",
-      "episode_number": 140,
-      "aired": "May 15, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "141. Bölüm",
-      "title": "Nobita's Proposal Plan",
-      "episode_number": 141,
-      "aired": "May 22, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "142. Bölüm",
-      "title": "Doraemon's on a Diet!? / The Nobi's Finances are in Big Trouble!",
-      "episode_number": 142,
-      "aired": "May 29, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "143. Bölüm",
-      "title": "Masked Self, Hero of Justice",
-      "episode_number": 143,
-      "aired": "Jun 5, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "144. Bölüm",
-      "title": "Gian, The Moocher / My Friend, the Topknot",
-      "episode_number": 144,
-      "aired": "Jun 12, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "145. Bölüm",
-      "title": "The Rain Man is Painful",
-      "episode_number": 145,
-      "aired": "Jun 19, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "146. Bölüm",
-      "title": "Opposite Planet",
-      "episode_number": 146,
-      "aired": "Jul 3, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "147. Bölüm",
-      "title": "The Suneo Kidnapping Case / Doraemon Gives Up",
-      "episode_number": 147,
-      "aired": "Jul 10, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "148. Bölüm",
-      "title": "Let's Ride a Bug Plane",
-      "episode_number": 148,
-      "aired": "Jul 17, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "149. Bölüm",
-      "title": "How to Walk on the Sea Floor Without Getting in the Ocean / Winter Comes on a Midsummer's Day",
-      "episode_number": 149,
-      "aired": "Jul 24, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "150. Bölüm",
-      "title": "Like I Said, A Ghost Appeared",
-      "episode_number": 150,
-      "aired": "Jul 31, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "151. Bölüm",
-      "title": "The Nobita in Nobita",
-      "episode_number": 151,
-      "aired": "Aug 7, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "152. Bölüm",
-      "title": "A Happy Mermaid Princess",
-      "episode_number": 152,
-      "aired": "Aug 14, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "153. Bölüm",
-      "title": "Doraemon, In Love",
-      "episode_number": 153,
-      "aired": "Aug 21, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "154. Bölüm",
-      "title": "Muku, the Bad Dog / The Robot Dwarfs are Hardworking",
-      "episode_number": 154,
-      "aired": "Aug 28, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "155. Bölüm",
-      "title": "Nobita is the Only Creature on Earth",
-      "episode_number": 155,
-      "aired": "Sep 4, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "156. Bölüm",
-      "title": "Big Rampage! Nobita's Baby",
-      "episode_number": 156,
-      "aired": "Sep 18, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "157. Bölüm",
-      "title": "The Nobi House Turns Into a Giant Maze!? / Violetta of the Rainbow",
-      "episode_number": 157,
-      "aired": "Oct 16, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "158. Bölüm",
-      "title": "Farewell from the Window",
-      "episode_number": 158,
-      "aired": "Oct 23, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "159. Bölüm",
-      "title": "Becoming Faceless with an Eraser / The Toy Soldiers",
-      "episode_number": 159,
-      "aired": "Oct 30, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "160. Bölüm",
-      "title": "Hot Blood! Nobita's Sports Day",
-      "episode_number": 160,
-      "aired": "Nov 6, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "161. Bölüm",
-      "title": "Follow That Alien!",
-      "episode_number": 161,
-      "aired": "Nov 13, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "162. Bölüm",
-      "title": "The Horror of Gian Dinner Show / Once in a While, Nobita Can Think, Too",
-      "episode_number": 162,
-      "aired": "Nov 20, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "163. Bölüm",
-      "title": "Fine Dog!? Chukenper",
-      "episode_number": 163,
-      "aired": "Nov 27, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "164. Bölüm",
-      "title": "A Black Hole in Nobita's Town / What is Gian's Good Point?",
-      "episode_number": 164,
-      "aired": "Dec 4, 2009",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "165. Bölüm",
-      "title": "The Long, Long, New Years",
-      "episode_number": 165,
-      "aired": "Jan 8, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "166. Bölüm",
-      "title": "Big Panic! Super Baby",
-      "episode_number": 166,
-      "aired": "Jan 15, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "167. Bölüm",
-      "title": "With the Compliments, I Can Become An Artist / Life Course, Left or Right",
-      "episode_number": 167,
-      "aired": "Jan 22, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "168. Bölüm",
-      "title": "The Wild Man Headband / The Wish Realizing Machine Has Gone Too Far!",
-      "episode_number": 168,
-      "aired": "Jan 29, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "169. Bölüm",
-      "title": "Gorgeous! Suneo's Luxuriously Poor Birthday",
-      "episode_number": 169,
-      "aired": "Feb 5, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "170. Bölüm",
-      "title": "Don't Stop the Teacher From Slipping! / Millionaire Nobita",
-      "episode_number": 170,
-      "aired": "Feb 19, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "171. Bölüm",
-      "title": "Moving with the Completely-Flat Roller / Nobita Grows Octopuses on His Ears",
-      "episode_number": 171,
-      "aired": "Mar 12, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "172. Bölüm",
-      "title": "Nobita's Survival Trip",
-      "episode_number": 172,
-      "aired": "Mar 26, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "173. Bölüm",
-      "title": "The Curse of the Laughing Doll / The Long, Slender Friend",
-      "episode_number": 173,
-      "aired": "Apr 2, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "174. Bölüm",
-      "title": "Long Ago, Mom Was Just Like Nobita!?",
-      "episode_number": 174,
-      "aired": "Apr 9, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "175. Bölüm",
-      "title": "Create Gian's Weakness / Create Dekisugi's Weakness, Too",
-      "episode_number": 175,
-      "aired": "May 14, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "176. Bölüm",
-      "title": "Shizu-chan and the Grandfather Tree",
-      "episode_number": 176,
-      "aired": "May 21, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "177. Bölüm",
-      "title": "The Opposite Arrow / The Nobita that Nobita Never Knew",
-      "episode_number": 177,
-      "aired": "May 28, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "178. Bölüm",
-      "title": "Where'd Cinderella Go",
-      "episode_number": 178,
-      "aired": "Jun 4, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "179. Bölüm",
-      "title": "Grandpa, In the Midst of a Dream",
-      "episode_number": 179,
-      "aired": "Jun 11, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "180. Bölüm",
-      "title": "I'm Honekawa Doraemon / Going for a Vacuum Cleaner Drive",
-      "episode_number": 180,
-      "aired": "Jul 2, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "181. Bölüm",
-      "title": "I Caught a Sea Monster / The House Became a Robot",
-      "episode_number": 181,
-      "aired": "Jul 9, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "182. Bölüm",
-      "title": "The Story of Taking Off Your Body's Skin / Jaiko and Dorami Have Boyfriends!?",
-      "episode_number": 182,
-      "aired": "Jul 16, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "183. Bölüm",
-      "title": "Welcome to Monster Inn!",
-      "episode_number": 183,
-      "aired": "Jul 30, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "184. Bölüm",
-      "title": "Nobita's Birthday Adventure Journal",
-      "episode_number": 184,
-      "aired": "Aug 6, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "185. Bölüm",
-      "title": "Swapping Bodies With Everyone / Swimming Powder",
-      "episode_number": 185,
-      "aired": "Aug 13, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "186. Bölüm",
-      "title": "The Treasure of Skull Island",
-      "episode_number": 186,
-      "aired": "Aug 20, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "187. Bölüm",
-      "title": "Transform, Transform, Transform Again / Little House on the Big Iceberg",
-      "episode_number": 187,
-      "aired": "Aug 27, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "188. Bölüm",
-      "title": "Going Through the Sky on the Character \"Wa\" / Transform! The Dracula Set",
-      "episode_number": 188,
-      "aired": "Sep 10, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "189. Bölüm",
-      "title": "A Real 3D TV / On That Day, Everything Turned Into a Mouse",
-      "episode_number": 189,
-      "aired": "Sep 17, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "190. Bölüm",
-      "title": "The Mystery of Goodieland",
-      "episode_number": 190,
-      "aired": "Oct 15, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "191. Bölüm",
-      "title": "The Country of Ichi the Puppy: Bonding",
-      "episode_number": 191,
-      "aired": "Oct 22, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "192. Bölüm",
-      "title": "The Country of Ichi the Puppy: Hope",
-      "episode_number": 192,
-      "aired": "Oct 29, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "193. Bölüm",
-      "title": "Let's Go to a Hot Spring with Shizuka-chan / But Doraemon Wants a Mom",
-      "episode_number": 193,
-      "aired": "Nov 12, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "194. Bölüm",
-      "title": "I'll Be the King of String Finger World",
-      "episode_number": 194,
-      "aired": "Nov 19, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "195. Bölüm",
-      "title": "The Terror of Jaiko's Curry / Procrastinating With the Sooner-or-Later Chestnut",
-      "episode_number": 195,
-      "aired": "Dec 3, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "196. Bölüm",
-      "title": "Nobita's Big Radish Battle",
-      "episode_number": 196,
-      "aired": "Dec 10, 2010",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "197. Bölüm",
-      "title": "Flying Through the Sky! The Nobi Family`s Kotatsu",
-      "episode_number": 197,
-      "aired": "Jan 14, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "198. Bölüm",
-      "title": "Nobita's Pet is a Paper Dog!?",
-      "episode_number": 198,
-      "aired": "Jan 21, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "199. Bölüm",
-      "title": "Nobita's Town Becomes a Snowy Mountain",
-      "episode_number": 199,
-      "aired": "Jan 28, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "200. Bölüm",
-      "title": "Gian's House's Extreme Makeover / Nobita Becomes a Sticker!?",
-      "episode_number": 200,
-      "aired": "Feb 4, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "201. Bölüm",
-      "title": "Running Away to the Cretaceous Period",
-      "episode_number": 201,
-      "aired": "Feb 18, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "202. Bölüm",
-      "title": "Doraemon, Squared / Vote for da Boss wo' da Brats!",
-      "episode_number": 202,
-      "aired": "Feb 25, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "203. Bölüm",
-      "title": "Nobita's Confusing School Entrance Ceremony",
-      "episode_number": 203,
-      "aired": "Mar 25, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "204. Bölüm",
-      "title": "Welcome! To the Nobi Hotel / I Can Only Speak the Truth",
-      "episode_number": 204,
-      "aired": "Apr 29, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "205. Bölüm",
-      "title": "I Don't Like Shizuka-chan Being Like This!",
-      "episode_number": 205,
-      "aired": "May 6, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "206. Bölüm",
-      "title": "The Fishing Pond for Things You Dropped / The Understanding and Thankfulness Machine",
-      "episode_number": 206,
-      "aired": "May 13, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "207. Bölüm",
-      "title": "The Troublesome Gulliver / The Rumored Nobita",
-      "episode_number": 207,
-      "aired": "May 20, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "208. Bölüm",
-      "title": "River Otter Nobita's Great Adventure",
-      "episode_number": 208,
-      "aired": "May 27, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "209. Bölüm",
-      "title": "The Wishing Star / The Big Popularity Pheromone Plan",
-      "episode_number": 209,
-      "aired": "Jun 3, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "210. Bölüm",
-      "title": "Debut of a New Song! Gian the Great?",
-      "episode_number": 210,
-      "aired": "Jun 10, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "211. Bölüm",
-      "title": "Shizuka is Acting All Goofy? / The Nobita That Stopped Me",
-      "episode_number": 211,
-      "aired": "Jun 17, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "212. Bölüm",
-      "title": "Memories of Grandma",
-      "episode_number": 212,
-      "aired": "Jun 24, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "213. Bölüm",
-      "title": "The Tanabata Sky Came Falling Down",
-      "episode_number": 213,
-      "aired": "Jul 1, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "214. Bölüm",
-      "title": "The Nobi Family's Giant Tunafish / I've Got a Spare Fourth Dimensional Pocket",
-      "episode_number": 214,
-      "aired": "Jul 8, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "215. Bölüm",
-      "title": "Riding a Cloud to School / My House is a Night Train",
-      "episode_number": 215,
-      "aired": "Jul 15, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "216. Bölüm",
-      "title": "Ultra Ring / It's Solved! The Dekisugi Case",
-      "episode_number": 216,
-      "aired": "Jul 22, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "217. Bölüm",
-      "title": "Nobita Becomes a Ghost / Pilark of the Puddle",
-      "episode_number": 217,
-      "aired": "Aug 5, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "218. Bölüm",
-      "title": "The Gian Battery Is Infinite / The Cute Rock Story",
-      "episode_number": 218,
-      "aired": "Aug 12, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "219. Bölüm",
-      "title": "Gian Makes an Appearance on TV! / Story Badges for a Hot Summer",
-      "episode_number": 219,
-      "aired": "Aug 19, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "220. Bölüm",
-      "title": "That Lie Is True / I Wanna Give You My Everything",
-      "episode_number": 220,
-      "aired": "Aug 26, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    },
-    {
-      "turkanime_title": "221. Bölüm",
-      "title": "Doraemon's One-Day-Only Love",
-      "episode_number": 221,
-      "aired": "Sep 2, 2011",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:39.791690"
-    }
-  ],
   "tmdb": {
     "id": 65733,
     "type": "tv",

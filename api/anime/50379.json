@@ -4,7 +4,130 @@
     "puan": "0.00",
     "bolum_durumu": "4/13",
     "ozet": "Atsushi Kamiya, Kagewa Lisesi'nin eski kaptanı ve ünlü bir İtalyan futbol takımının dünyaca ünlü \"korkusuz kaptan\"ıdır. Aynı lisede okuyan Hideto Tsuji ise, artık zayıflamış olan futbol takımına ilgisi olmayan bir gençtir. Ancak karşılaşmaları yeni bir efsanenin başlangıcı olacaktır...",
-    "slug": "shoot-goal-to-the-future"
+    "slug": "shoot-goal-to-the-future",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Shoot! Goal to the Future 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1NNnqN_6vSQU1Q4ddYdk1WJM7n_EPzJWF/preview"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4775767"
+          }
+        ],
+        "added_date": "2026-07-29T10:08:47.824479"
+      },
+      {
+        "episode_number": 2,
+        "title": "Shoot! Goal to the Future 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MXYu6O7EldANMDQQp0Cs7dCij2c6cYyq/preview"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7801974450152276053"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4785057"
+          },
+          {
+            "fansub_id": 100,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/98xkikm6gex7"
+          },
+          {
+            "fansub_id": 100,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0kuo6vj9vn43.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1324,
+            "end": 1416
+          }
+        },
+        "added_date": "2026-07-29T10:08:47.824479"
+      },
+      {
+        "episode_number": 3,
+        "title": "Shoot! Goal to the Future 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1z1adwmrJzI-NpxlevlSJ2OQLTDw1csbH/preview"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7801974450152276058"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4794349"
+          },
+          {
+            "fansub_id": 100,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ycop39vqotdn"
+          },
+          {
+            "fansub_id": 100,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vlhx76dd21k4.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1324,
+            "end": 1414
+          }
+        },
+        "added_date": "2026-07-29T10:08:47.824479"
+      },
+      {
+        "episode_number": 4,
+        "title": "Shoot! Goal to the Future 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7801974450152276069"
+          },
+          {
+            "fansub_id": 100,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/wh6afarci8rr"
+          },
+          {
+            "fansub_id": 100,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vtywk88tm2pe.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-29T10:08:47.824479"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 50379,
@@ -54,149 +177,43 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 141775,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shoot! Goal to the Future 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 100,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NNnqN_6vSQU1Q4ddYdk1WJM7n_EPzJWF/preview"
-        },
-        {
-          "fansub_id": 100,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4775767"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:08:47.824479",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Shoot! Goal to the Future 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 100,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MXYu6O7EldANMDQQp0Cs7dCij2c6cYyq/preview"
-        },
-        {
-          "fansub_id": 100,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7801974450152276053"
-        },
-        {
-          "fansub_id": 100,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4785057"
-        },
-        {
-          "fansub_id": 100,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/98xkikm6gex7"
-        },
-        {
-          "fansub_id": 100,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0kuo6vj9vn43.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1324,
-          "end": 1416
-        }
-      },
-      "added_date": "2026-07-29T10:08:47.824479",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Shoot! Goal to the Future 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 100,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1z1adwmrJzI-NpxlevlSJ2OQLTDw1csbH/preview"
-        },
-        {
-          "fansub_id": 100,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7801974450152276058"
-        },
-        {
-          "fansub_id": 100,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4794349"
-        },
-        {
-          "fansub_id": 100,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ycop39vqotdn"
-        },
-        {
-          "fansub_id": 100,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vlhx76dd21k4.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1324,
-          "end": 1414
-        }
-      },
-      "added_date": "2026-07-29T10:08:47.824479",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Shoot! Goal to the Future 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 100,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7801974450152276069"
-        },
-        {
-          "fansub_id": 100,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/wh6afarci8rr"
-        },
-        {
-          "fansub_id": 100,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vtywk88tm2pe.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-29T10:08:47.824479",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 138882,
     "type": "tv",

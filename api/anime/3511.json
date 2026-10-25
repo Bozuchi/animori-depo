@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Riki-OH OVA Wall of Destruction’ın devamı olan Child of Destruction OVA’sında Riki’nin geçmişi hakkındaki bazı sır perdeleri aralanıyor. Hapishaneden çıkan Riki, çocukluktan beridir ayrı olduğu ikiz kardeşi Nachi’yi bulmak için yasa dışı organizasyonların kontrolündeki Misaki şehrine geliyor. Misaki şehrinde neler oluyor? İki kardeşin buluşmasında neler yaşanacak?",
-    "slug": "riki-oh-2-horobi-no-ko"
+    "slug": "riki-oh-2-horobi-no-ko",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3511,
@@ -54,61 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3511,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3511-TfCF4g9wPwFD.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Riki-Oh 2: Horobi no Ko OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vHtMP3_KrBgL5XLu3XrOV4FJNcMejMcI/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-ifukohuScbSmedHLA8UJvVWqJLHVxdb/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RRn4wxLoRSuq69Qj5n15bHz7HxVxV5pd/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661091"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660871"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-j6i1k0oj3vir.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vb8d2dpwibjz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T04:38:53.489255",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 308810,
     "type": "movie",

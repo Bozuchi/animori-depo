@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Trilojideki ilk film, Takahashi kardeşler ile olan yarışa odaklanıyor.",
-    "slug": "new-initial-d-movie-legend-1-kakusei"
+    "slug": "new-initial-d-movie-legend-1-kakusei",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 19613,
@@ -66,51 +67,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20842,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20842-vDMcrym7TbEv.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20842.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "New Initial D Movie: Legend 1 - Kakusei",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 152,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JO2aHC9cGTUe2y_2D-SiRAIQNnQ1yrM1/preview"
-        },
-        {
-          "fansub_id": 152,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4494224"
-        },
-        {
-          "fansub_id": 152,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ayf9fmey"
-        },
-        {
-          "fansub_id": 152,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nrb7i6kotunc.html"
-        },
-        {
-          "fansub_id": 152,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ipg63f49aaui.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T15:55:39.871876",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 40424,
     "type": "tv",

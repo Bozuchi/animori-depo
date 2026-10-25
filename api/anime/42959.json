@@ -4,7 +4,51 @@
     "puan": "0.00",
     "bolum_durumu": "1/12",
     "ozet": "Yatogame-chan Kansatsu Nikki Sansatsume 3. sezon.",
-    "slug": "yatogame-chan-kansatsu-nikki-sansatsume"
+    "slug": "yatogame-chan-kansatsu-nikki-sansatsume",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Yatogame-chan Kansatsu Nikki Sansatsume 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wOD5nk7RMQtjkyoDtmiL_kGdQAF1sdhu/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/2078"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666200"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4208241"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9z3jjaa2yj3u.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ad0vqsyoyabp.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-l32xrf90zucz.html"
+          }
+        ],
+        "added_date": "2026-07-30T18:03:55.627668"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 42959,
@@ -59,61 +103,22 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 124394,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124394-MDapMYhSwngJ.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yatogame-chan Kansatsu Nikki Sansatsume 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wOD5nk7RMQtjkyoDtmiL_kGdQAF1sdhu/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/2078"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666200"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4208241"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9z3jjaa2yj3u.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ad0vqsyoyabp.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-l32xrf90zucz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:03:55.627668",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 87473,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Orjinal manga serisinden 6 ay sonrasında, Yugi Muto ve arkadaşları nihayet liseden olmak üzeredirler ve gelecek planları hakkında konuşurlar. Bu sırada, Seto Kaiba, Milenyum Odasında daha önce parçalarına ayrılmış olan Milenyum Bulmacasına ait parçaları aramaktadır. Bu eşya daha önce en değerli rakibinin, Atem'in, ruhuna ev sahipliği yapıyordu.İntikamını alabilmek için onu diriltmekte kararlıydı. Kazı sırasında gizemli bir adamın dikkatini çeker. Bunun sonucunda düello yaparlar ve o kişi parçayı alıp ortadan kaybolur. Bulmacayı çalmasındaki amaç acaba ne olabilir?",
-    "slug": "yu-gi-oh-the-dark-side-of-dimensions"
+    "slug": "yu-gi-oh-the-dark-side-of-dimensions",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 28771,
@@ -53,51 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21265,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21265-Wj2beAb8j1HT.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21265-KN6KhEtx81wc.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yu-Gi-Oh!: The Dark Side of Dimensions - İng Dub",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 80,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UWLy7x3Z0nvzKTyKoq45zkeT4i25ISK8/preview"
-        },
-        {
-          "fansub_id": 80,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4527784"
-        },
-        {
-          "fansub_id": 80,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4343844"
-        },
-        {
-          "fansub_id": 80,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kjo724zb6tfw.html"
-        },
-        {
-          "fansub_id": 80,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-km027u4hdzit.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T19:13:25.409455",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 902,
     "type": "tv",

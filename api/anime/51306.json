@@ -4,7 +4,112 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "\"Housing Complex C\", sahil kasabası Kurosaki'de bulunan küçük, düşük maliyetli bir konut kompleksinde yaşayan Kimi'nin etrafında dönüyor. Gittiği her yerde bela onu takip ediyor gibi görünmektedir ve korkunç olaylar meydana gelmeye başlar. C Sitesi sakinlerinin peşinde kadim bir kötülük mü var?",
-    "slug": "c-danchi"
+    "slug": "c-danchi",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "C Danchi 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5223875"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/b9luzpwfj8ik"
+          }
+        ],
+        "added_date": "2026-07-23T07:25:29.848730"
+      },
+      {
+        "episode_number": 2,
+        "title": "C Danchi 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370490"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5233001"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/2a3cwnfeh6x8"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0vtsdqx7ml6s.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-k58f0jcst8sm.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:25:29.848730"
+      },
+      {
+        "episode_number": 3,
+        "title": "C Danchi 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370632"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5244245"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/miucxtldp5ws"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kcx2b7gvg4zf.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lfgr7oy00q2y.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 14,
+            "end": 102
+          },
+          "ed": {
+            "start": 1413,
+            "end": 1507
+          }
+        },
+        "added_date": "2026-07-23T07:25:29.848730"
+      },
+      {
+        "episode_number": 4,
+        "title": "C Danchi 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/8xxtx9f7hzim"
+          }
+        ],
+        "added_date": "2026-07-23T07:25:29.848730"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 51306,
@@ -36,133 +141,43 @@
       2034
     ],
     "relations": [],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 146475,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146475-KD8dtGs096JA.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146475-eyjcHtYccmDC.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "C Danchi 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5223875"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/b9luzpwfj8ik"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:25:29.848730",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "C Danchi 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370490"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5233001"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/2a3cwnfeh6x8"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-0vtsdqx7ml6s.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-k58f0jcst8sm.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:25:29.848730",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "C Danchi 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370632"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5244245"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/miucxtldp5ws"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kcx2b7gvg4zf.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lfgr7oy00q2y.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 14,
-          "end": 102
-        },
-        "ed": {
-          "start": 1413,
-          "end": 1507
-        }
-      },
-      "added_date": "2026-07-23T07:25:29.848730",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "C Danchi 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/8xxtx9f7hzim"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:25:29.848730",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 195382,
     "type": "tv",

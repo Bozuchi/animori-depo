@@ -4,7 +4,8 @@
     "puan": "9.04",
     "bolum_durumu": "1/1",
     "ozet": "Overlord animesini konu alan film.",
-    "slug": "overlord-movie-1-fushisha-no-ou"
+    "slug": "overlord-movie-1-fushisha-no-ou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 34161,
@@ -60,51 +61,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 98873,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98873-XAcxAF1rXuyM.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Overlord Movie 1: Fushisha no Ou",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 133,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1w_yfudMkAvB9gAQPm3g4cBxGmu_F3uPl/preview"
-        },
-        {
-          "fansub_id": 133,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/260"
-        },
-        {
-          "fansub_id": 133,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158070447"
-        },
-        {
-          "fansub_id": 133,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/y0fohgv6"
-        },
-        {
-          "fansub_id": 133,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1sjm2v9xkhny.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:59:50.381844",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 64196,
     "type": "tv",

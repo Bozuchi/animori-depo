@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hajimete no Gal serisine ait OVA bölümdür.",
-    "slug": "hajimete-no-gal-hajimete-no-bunkasai"
+    "slug": "hajimete-no-gal-hajimete-no-bunkasai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 35237,
@@ -56,51 +57,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 98878,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98878-WDjC1iYEjE45.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98878-jmrheWUkd7IA.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hajimete no Gal OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 37,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16ukI6NqqzlyUUL4Yy3kf-eY_ght8nDlt/preview"
-        },
-        {
-          "fansub_id": 37,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3449148"
-        },
-        {
-          "fansub_id": 37,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-19ljn34rbw40.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3259659"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/cohbopqo"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:48:29.480106",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 72296,
     "type": "tv",

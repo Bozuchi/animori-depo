@@ -4,7 +4,41 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Mini Toji animesinin 0. bölümüdür.",
-    "slug": "mini-toji-kanami-mihono-no"
+    "slug": "mini-toji-kanami-mihono-no",
+    "episodes": [
+      {
+        "episode_number": 0,
+        "title": "Mini Toji 0. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 96,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Uh3GDGXQQjHWakwiQx58xyNOfbRKHuHE/preview"
+          },
+          {
+            "fansub_id": 96,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1LINgOO9uRUBHVci5oEh9BR4KjZuGL8sH/preview"
+          },
+          {
+            "fansub_id": 96,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849362"
+          },
+          {
+            "fansub_id": 96,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4427640"
+          },
+          {
+            "fansub_id": 96,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qd6atdo4hc0z.html"
+          }
+        ],
+        "added_date": "2026-07-27T12:12:19.627609"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38981,
@@ -53,45 +87,8 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
-  "anilist": null,
-  "episodes": [
-    {
-      "turkanime_title": "Mini Toji 0. Bölüm",
-      "episode_number": 0,
-      "videos": [
-        {
-          "fansub_id": 96,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Uh3GDGXQQjHWakwiQx58xyNOfbRKHuHE/preview"
-        },
-        {
-          "fansub_id": 96,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1LINgOO9uRUBHVci5oEh9BR4KjZuGL8sH/preview"
-        },
-        {
-          "fansub_id": 96,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849362"
-        },
-        {
-          "fansub_id": 96,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4427640"
-        },
-        {
-          "fansub_id": 96,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qd6atdo4hc0z.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:12:19.627609",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  "anilist": null
 }

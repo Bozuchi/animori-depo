@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Başrolümüz Prenses Scarlett, babasının katilinden intikam almayı başaramayıp hayatını kaybedince gözlerini hiç beklemediği bir yerde açıyor: \"Ölüler Diyarı\". Ama burası öyle huzurlu bir dinlenme yeri değil; her köşesi delilik ve kaos dolu bir kabus!\n\nScarlett’in durumu biraz \"Ya hep ya hiç\" tadında:\n\nTek Görev: Ezeli düşmanından öbür dünyada intikamını almak.\n\nBüyük Risk: Eğer intikamını alıp \"Sonsuz Mekan\" denilen o gizemli yere ulaşamazsa, ruhu tamamen silinecek. Yani sadece ölmekle kalmayacak, \"hiçlik\" içinde yok olup gidecek!\n\nAtmosfer: Tam bir hayatta kalma mücadelesi; her adımda karşısına çıkan o delilik dolu varlıklar da cabası.",
-    "slug": "hateshinaki-scarlet"
+    "slug": "hateshinaki-scarlet",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 60610,
@@ -37,36 +38,14 @@
       555
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 185773,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185773-oshTxFDv12LH.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185773-N7dLeWyB14VA.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hateshinaki Scarlet Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423511"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/qo2eca86cp03"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:31:32.330417",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1406657,
     "type": "movie",

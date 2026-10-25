@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "İki genç adam, Japonya'nın kaderine yön vermeye ant içtiler. Çocukken, Kamboçya Ölüm Tarlaları'ndan beraber sağ çıktılar. Şimdi, hem Japon parlamentosunu hem de yakuza suç örgütünün liderlerini devirebilecekler mi? Gerektiğinde soğukkanlı ve ihtiyatlı olabilseler de, Hojo ve Asami meslektaşlarıyla aynı zaafları gösteriyorlar: Arkadaşlara bağlılık, ezilenlere merhamet ve kadınlara karşı koyamama. Komiser yardımcısı Ishihara onların ustaca dolaplarını ortaya çıkarmak için işe koyulur ancak çaresiz bir biçimde Hojo'ya aşık olur...",
-    "slug": "sanctuary"
+    "slug": "sanctuary",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2698,
@@ -50,56 +51,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2698,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2698-yvHMT0GMxXwS.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2698-2bBtlm0FewWP.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sanctuary OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18Ul6023B2m0Q0H8GvAWdYvwN6S9ZNXNI/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667365"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018353"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4661723"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2032825"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ws761vvcv4p1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T06:35:01.527508",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 373522,
     "type": "movie",

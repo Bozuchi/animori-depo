@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikaye Tokyo'daki Shujin Lisesi'ne nakil olan 16 yaşındaki anakarakter etrafında geçiyor. Aile dostlarıyla kalırken iki sınıf arkadaşıyla tanışır; sorunlu çocuk Ryuuji Sakomoto, çekingen An Takamaki'yle konuşkan, şekil değiştiren kedimsi yaratığı Morgana ile tanışır. Oradaki zamanında, çevreleri tarafından baskılandıklarını hissederek, dördü \"Hayalet Hırsızlar\" olarak bilinen ekibi oluşturur ve birlikte soygunlar düzenleyip gizemli olaylarla karşılaşırlar.",
-    "slug": "persona-5-the-animation-the-day-breakers"
+    "slug": "persona-5-the-animation-the-day-breakers",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31645,
@@ -51,56 +52,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21432,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21432-FddasbpBL9o4.png",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21432-Cedi86Cv5hOS.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Persona 5 the Animation: THE DAY BREAKERS - Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17nqcx1wYvGKpOPVYZLO-3DQRKBcOBuYf/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzlef2016/_myvideo/33.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849237"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2682890"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4426130"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/grvvemgt"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:31:16.246907",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 77701,
     "type": "tv",

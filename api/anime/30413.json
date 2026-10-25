@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Liselerarası bitmesiyle birlikte yazın sonu yaklaşırken, neredeyse mezun olacak üçüncü yıllıklardan Kinjou Shingo, Makishima Yusuke ve Tadokoro Jin’le birbirlerine emanet ettikleri destekleyici Takım Sohoku ruhunu sürdürebilsin diye Sakamichi Imaizumi Shunsuke ve Naruko Shoukichi’yle birlikte yoğun biçimde antrenman yapmaktadırlar. Bir gün Takım Sohoku, liselerarasında iyi performans sergileyen takımlar için davetli yarış olan Kumamoto Ateş Ülkesi Dağ Yarışı’na bir davetiye alırlar ve kaptanları Kinjou ana liselerarası takımının katılmasına karar verir.",
-    "slug": "yowamushi-pedal-movie"
+    "slug": "yowamushi-pedal-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 30413,
@@ -53,25 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21114,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21114-QQ8N1KbQrSQ6.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yowamushi Pedal: The Movie",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:46:40.367672",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 334372,
     "type": "movie",

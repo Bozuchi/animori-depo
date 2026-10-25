@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yokho Asagiri okul takımındaki bir oyuncuya aşıkıtır. Bununla birlikte duygularını sevdiği erkeğe ifade edemez. Onun için bir şarkı yazar. Müziği dinleyerek yürdüğü gün bambaşka bir evrene yolculuk eder. Melodi, alternatıf bir Dünya olan Ashanti'ye geçiş yapmasına neden olmuştur. Leda efsanesini öğrenen Yokho, kendi dunyasına geçişin de anahtarı durumundadır. Bu her iki evreni de tehlikeye açık hale getirmektedir. Yokho, istilacı düşmalanlara karşı edindiği yeni dostlarla mücadele etmek ve her iki Dünya'ya da eski dengesini getirmek zorundadır.",
-    "slug": "genmu-senki-leda"
+    "slug": "genmu-senki-leda",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2196,
@@ -41,39 +42,12 @@
       288
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2196,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2196-OQqBDWerI1D5.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2196-VxPEMgvBEx3c.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Genmu Senki Leda OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 62,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vVeu6zZ42APXdzZtKmUhp5uKsSG-AEe3/preview"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658800"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271197217"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:54:27.869203",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin dokuzuncu filmidir.",
-    "slug": "pokemon-movie-09-pokemon-ranger-to-umi-no-ouji-manaphy"
+    "slug": "pokemon-movie-09-pokemon-ranger-to-umi-no-ouji-manaphy",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2201,
@@ -54,25 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2201,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2201-AaINJqkO5zge.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2201-1B1dS0NLJ3g5.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon Movie 9 - Pokemon Ranger and The Temple of The Sea",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:26:44.547331",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 60572,
     "type": "tv",

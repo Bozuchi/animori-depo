@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Toaru Anbu no Item",
-    "slug": "toaru-anbu-no-item"
+    "slug": "toaru-anbu-no-item",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 61014,
@@ -52,6 +53,22 @@
           4654
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Item",
+        "aired": "Oct 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Saiai Kinuhata: Newcomer",
+        "aired": "Oct 16, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -66,27 +83,5 @@
     "episode_offset": 0,
     "name": "A Certain Dark Item"
   },
-  "synopsis_tr": "Doğaüstü yeteneklerin günlük bilimin bir parçası olduğu Akademi Şehri'nde şehrin huzuru, görünmeyen bir güç olan karanlık taraf tarafından desteklenmektedir. Gizli ajanlar arasında dört üyeli elit bir birim olan ITEM de var. Rikou Takitsubo'nun takip yetenekleri, Frenda Seivelun'un patlayıcı uzmanlığı, Saiai Kinuhata'nın aşılmaz savunması ve Academy City'nin yedi Seviye 5 esper'ından biri olan Shizuri Mugino'nun ezici gücüyle, asla manşetlere çıkmayan gizli görevleri üstlenerek şehrin alt kısmında geziniyorlar. Son görevleri ortaya çıktıkça ekip, yaptıklarının bağlarını test edecek bir trajediye zemin hazırladığının farkında olmadan hassas bir şekilde hareket ediyor. Akademi Şehri'nin affetmez karanlığında güven, dostluk ve hayatta kalma mücadelesi.(Kaynak: MAL Haberleri)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Item",
-      "episode_number": 1,
-      "aired": "Oct 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:38:06.181511"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Saiai Kinuhata: Newcomer",
-      "episode_number": 2,
-      "aired": "Oct 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:45:48.766943"
-    }
-  ]
+  "synopsis_tr": "Doğaüstü yeteneklerin günlük bilimin bir parçası olduğu Akademi Şehri'nde şehrin huzuru, görünmeyen bir güç olan karanlık taraf tarafından desteklenmektedir. Gizli ajanlar arasında dört üyeli elit bir birim olan ITEM de var. Rikou Takitsubo'nun takip yetenekleri, Frenda Seivelun'un patlayıcı uzmanlığı, Saiai Kinuhata'nın aşılmaz savunması ve Academy City'nin yedi Seviye 5 esper'ından biri olan Shizuri Mugino'nun ezici gücüyle, asla manşetlere çıkmayan gizli görevleri üstlenerek şehrin alt kısmında geziniyorlar. Son görevleri ortaya çıktıkça ekip, yaptıklarının bağlarını test edecek bir trajediye zemin hazırladığının farkında olmadan hassas bir şekilde hareket ediyor. Akademi Şehri'nin affetmez karanlığında güven, dostluk ve hayatta kalma mücadelesi.(Kaynak: MAL Haberleri)"
 }

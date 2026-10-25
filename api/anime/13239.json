@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Paragon Lost, Mass Effect 2 oyununun hemen öncesinde geçmektedir. Yapım, Alliance askeri olan James Vega'nın Collector isimli gizemli bir ırka karşı takımı ile mücadesini konu almaktadır. Collector'lar bilinmeyen bir nedenden ötürü insan kolonilerini kaçırmaktadır. Saldırıdan sonra Vega'nın komutanı hayatını kaybeder ve bu olay Vega'yı kendi takımının lideri olmaya zorlar. Vega, sadece takımının hayatta kalmasını sağlamakla değil, tüm koloninin hayatta kalmasını sağlamakla sorumludur. Bundan sonra vereceği her karar takımı ve kolonide bulunan siviller için yaşamla ölüm arasındaki sınırını belirleyecektir. Vega, macerası boyunca kahramanlığa giden yolun ve zaferin, ağır bir bedeli olduğunu farkedecektir.",
-    "slug": "mass-effect-paragon-lost"
+    "slug": "mass-effect-paragon-lost",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 13239,
@@ -38,51 +39,14 @@
       10
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 13239,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13239-1tLXQBgDTTae.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mass Effect: Paragon Lost",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YHUhiqkxtCsfqs5I0KybE2Jc1eVrX8KY/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13eQAQyu02pGL_RghsN8o95ijrdLsq3eq/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121551"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016739"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1zcyzk2zf4p7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:21:26.761032",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 119685,
     "type": "movie",

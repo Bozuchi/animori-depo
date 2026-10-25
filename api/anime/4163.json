@@ -4,7 +4,108 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Seto no Hanayome serisine ait OVA bölümlerdir.",
-    "slug": "seto-no-hanayome-ova"
+    "slug": "seto-no-hanayome-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Seto No Hanayome OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1y22PaDS1o5E5zLI1M1nm0ly-4fyuSpux/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985848000"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718133"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1419720"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4086638"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4474147"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nqq0l62lik7q.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7ehm85cgat0m.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9wqk5sj4"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5aam23cgu3fi.html"
+          }
+        ],
+        "added_date": "2026-07-29T08:09:22.588074"
+      },
+      {
+        "episode_number": 2,
+        "title": "Seto No Hanayome OVA 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18wrwPLIF_tJ8qgsdmsW9RY2k63vqbk6Y/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845652"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4063971"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4447801"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-92txa5era9aa.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jx5xpzvdq1sn.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/uk2pborf"
+          }
+        ],
+        "added_date": "2026-07-29T08:09:22.588074"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4163,
@@ -64,122 +165,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 4163,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4163.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Seto No Hanayome OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1y22PaDS1o5E5zLI1M1nm0ly-4fyuSpux/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985848000"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718133"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1419720"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4086638"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4474147"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nqq0l62lik7q.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7ehm85cgat0m.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/9wqk5sj4"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5aam23cgu3fi.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:09:22.588074",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Seto No Hanayome OVA 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18wrwPLIF_tJ8qgsdmsW9RY2k63vqbk6Y/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845652"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4063971"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4447801"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-92txa5era9aa.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jx5xpzvdq1sn.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/uk2pborf"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:09:22.588074",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 56834,
     "type": "tv",

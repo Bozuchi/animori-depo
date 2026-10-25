@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Gelecekte, hem güneşten hem de terk edilmiş bir nükleer santralden gelen yoğun radyasyon nedeniyle insanlık artık yerde yaşayamaz duruma geldi. Bir gün, bir grup polis dini bir kült yerleşkesine baskın düzenledi ve şiddetli bir çatışmanın ardından iki polis, kollarında zincirler olan kanatlı bir mutant kızı zar zor canlı buldu. Ancak, tehlikeli madde kıyafetleri giymiş hükumet bilim adamları hemen müdahale ederek onu bir araştırma tesisine geri getirdi. Onu yalnızca bir hapishaneden diğerine naklettiklerini anlayan bu iki polis, onu sonsuza kadar serbest bırakmak için cüretkâr bir plan hazırladı.",
-    "slug": "on-your-mark"
+    "slug": "on-your-mark",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1047,
@@ -39,71 +40,14 @@
       21
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1047,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1047-1yCzlnrxMc2o.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1047-iA6ZiXDPb23C.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "On Your Mark Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10w9kfT0lxZ1FmJUPA-KJqPJ6X3XQbCWC/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jZThhSofrGphgkLmI99kILALydz25cRa/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366283"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715945"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4465644"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-6b0p8akkc8mt.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hvfx96xo"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/st911jkf"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-aawfozabczzi.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T19:28:09.911088",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 10840,
     "type": "movie",

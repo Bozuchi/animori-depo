@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "İnsanlık, warp teknolojisi sayesinde evrenin dört bir yanına yayılıp gelişmiştir. Lakin onca gelişmeye rağmen türlü türlü sorunlar ilen de yüz yüze kalınmaktadır. Çeşitli konularda gezegenlere hizmetlerde bulunan WWWA Şirketi, casusluk ve gizemli olaylar ilen ilgilenmesi için \"Lovely Angels\" kod adlı iki genç ve güzel kadın ajanı kullanmaktadır.\n\nBu iki dilber, her ne kadar yetenekli olursa olsunlar, karşılaştıkları meseleleri çözme yöntemleri bir hayli zararı da beraberinde getirmektedir. Yaşanan maddi zarar ve yaralanmalar sonucu onlara takılan isim ise \"Dirty Pair\"dir. Bu takma isme her ne kadar kızıyor bile olsalar; yaşadıkları ve yaşayacakları pek çok serüven, bu ismi daha da bilinir hale getirecektir...",
-    "slug": "dirty-pair-the-movie"
+    "slug": "dirty-pair-the-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1796,
@@ -46,41 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1796,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1796-1B48gaPB27C0.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1796-g0msTUQ8Y1zN.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Dirty Pair: The Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1T4uESkalZeCdIqdCzhV0fpNC0itRKU8G/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/86.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2757851"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T21:46:06.995295",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 9161,
     "type": "tv",

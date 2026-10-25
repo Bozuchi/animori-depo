@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yawara, bir grup ilkokul çocuğunun korkularını yenmesine destek verir ve bir judo yarışmasında rekabet etmelerine yardımcı olur. Çocuklardan biri Hanazono'nun kuzeni iken, bir diğeri de Yawara'ya çok benzeyen bir kızdır.",
-    "slug": "yawara-sore-yuke-koshinuke-kids"
+    "slug": "yawara-sore-yuke-koshinuke-kids",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2008,
@@ -55,46 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2008,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2008.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yawara! Movie: Sore Yuke Koshinuke Kids!!",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1y3FDWBSRQNYzO5rfIK03jLud2yGgtWBk/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/1456ha/video/embed/_myvideo/106"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018533"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3748273"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:10:07.176245",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30395,
     "type": "tv",

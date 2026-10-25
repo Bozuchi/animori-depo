@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Altı yaşında bir kazadan sonra hafızasını kaybeden Toshiaki, \nkendi geleceğinden bir kız tarafından ziyaret edildiğinde \nkendisini yeni bir gizemin içinde bulur.",
-    "slug": "sequence"
+    "slug": "sequence",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2096,
@@ -46,59 +47,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2096,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2096-6nfsO4SzesGr.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2096-OBzw4h7eZBNv.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Sequence",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 66,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Yyt0USxTLl9_2LyJfXHBHEke-I3_DszV/preview"
-        },
-        {
-          "fansub_id": 66,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847384"
-        },
-        {
-          "fansub_id": 66,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4460742"
-        },
-        {
-          "fansub_id": 66,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4079138"
-        },
-        {
-          "fansub_id": 66,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-cyopbpb23lie.html"
-        },
-        {
-          "fansub_id": 66,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-aizsrf1qlk4z.html"
-        },
-        {
-          "fansub_id": 66,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/nwhjqask"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:04:32.318610",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "9.26",
     "bolum_durumu": "1/1",
     "ozet": "Nisan'da bahar zamanı kiraz ağaçlarının son çiçekleri açmaya devam eder. Başkalarına ilgisi olmayan kitap kurdu soğuk oğlan, hastanenin bekleme odasında üstünde el yazısıyla ''Ölümle Yaşamak'' yazan bir kitapla karşılaşır. Oğlan fark eder ki bunu yazan kişi popüler ve neşe dolu sınıf arkadaşı Sakura Yamauchi'dir. Sakura pankreas hastalığı yüzünden kısıtlı ömrü kaldığı sırrını oğlana söyler. Ve böylece bu sırrını paylaştığı bir kişi daha vardır artık.\nNormal hayatını devam ettirmeye çalışan Sakura, son gününe kadar dolu dolu yaşamak konusunda kararlıdır. Özgür ruhu ve beklenmedik hareketleri oğlanı şok eder ve yüreğini yavaş yavaş değiştirmeye başlar.",
-    "slug": "kimi-no-suizou-wo-tabetai"
+    "slug": "kimi-no-suizou-wo-tabetai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 36098,
@@ -47,51 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 99750,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99750-KPFW2Jv03b2B.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-pNyly9d3MEgV.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kimi no Suizou wo Tabetai",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 193,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/143KwURoHZpVahn0ZnNkhtYaZSA6L1vI-/preview"
-        },
-        {
-          "fansub_id": 193,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_3Tr0oCHvucE_LgdsZpRzFRIHQDZxCR_/preview"
-        },
-        {
-          "fansub_id": 193,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/zphlx698"
-        },
-        {
-          "fansub_id": 193,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8jeoqyrd1chg.html"
-        },
-        {
-          "fansub_id": 193,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bue64edqk77j.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:30:14.626789",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 504253,
     "type": "movie",

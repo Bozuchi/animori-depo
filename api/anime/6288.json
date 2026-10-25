@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Özet: Mobile Suit Gundam 00'ın movie bölümüdür.",
-    "slug": "mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer"
+    "slug": "mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 6288,
@@ -52,46 +53,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 6288,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6288-k4KStko4OMfg.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6288-I4jOmHgNyOvg.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jwuLfXFvfO6dIcBYnQlZrH7f4dx9ewk6/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12_vbkxsWZMzCy0e1nO8drGx2v3cSPvN_/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/172"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vypevfmx47ze.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:40:11.428446",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 21732,
     "type": "tv",

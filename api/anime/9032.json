@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Inazuma Eleven Go Serisinin Filmidir.",
-    "slug": "inazuma-eleven-saikyou-gundan-ogre-shuurai"
+    "slug": "inazuma-eleven-saikyou-gundan-ogre-shuurai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9032,
@@ -46,56 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9032,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9032-GYseH3yrOCCE.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9032-lV20OIXWzh0Y.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Inazuma Eleven Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Q7AluxhfaqeZD-NdjL6QLUgcQ4t1N8qM/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359653194"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850103"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4020225"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hue88gq1"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ixspx0fmom3b.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:26:44.531165",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 42912,
     "type": "tv",

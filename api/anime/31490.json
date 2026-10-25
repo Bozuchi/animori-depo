@@ -4,7 +4,8 @@
     "puan": "9.39",
     "bolum_durumu": "1/1",
     "ozet": "Hasır Şapka Tayfasının, dünyanın en zengin adamlarından biri olan Gild Tesoro ile karşılaşmasını konu alır.",
-    "slug": "one-piece-film-gold"
+    "slug": "one-piece-film-gold",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31490,
@@ -62,41 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21335,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21335-ps20iVSGUXbD.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "One Piece Film: Gold",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BHd6E_kr6cmjZ4EkKx_BUUp0db4AqY4D/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/8275262434374059000"
-        },
-        {
-          "fansub_id": 118,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1LZmqPYJsTzIbACtdhHTC62IGwnpEQ_d9/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T20:54:37.881257",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 374205,
     "type": "movie",

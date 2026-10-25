@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Sevilen el yapımı bir oyuncak olan Daru. Bir gün havaalanında kaybolur ve sahibinden ayrılır. Onu tekrar bulmaya kararlı olan Daru, onu aramak için dünya çapında bir yolculuğa çıkar. Zaman geçtikçe kız Daru'yu unutmaya başlar. Daru, sevgili sahibini tekrar bulabilecek ve görebilecek mi?",
-    "slug": "tabisuru-nuigurumi-traveling-daru"
+    "slug": "tabisuru-nuigurumi-traveling-daru",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 15077,
@@ -36,7 +37,8 @@
       291
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 15077,

@@ -4,7 +4,69 @@
     "puan": "0.00",
     "bolum_durumu": "8/53",
     "ozet": "Perrine, Fransız bir babanın ve yarı Hintli bir annenin tek kızıdır. \nPerrine’nin babası, ölmeden önce, ailesinin Fransa’daki kasabalarına dönmelerini ister. \nAncak yolculuk masrafını karşılayacak paraları yoktur. \nBu problemi, ellerinde bulunan eski fotoğraf makinesini kullanarak halletmeye \nkarar verirler ve köpekleri Baron ve eşekleri Palikare’yi de yanlarına alarak Fransa’nın kuzeyine doğru yolculuklarına başlarlar.",
-    "slug": "perrine-monogatari"
+    "slug": "perrine-monogatari",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Perrine Monogatari 1. Bölüm",
+        "videos": [],
+        "skip_times": {
+          "ed": {
+            "start": 1477,
+            "end": 1543
+          }
+        },
+        "added_date": "2026-07-29T01:26:35.957244"
+      },
+      {
+        "episode_number": 2,
+        "title": "Perrine Monogatari 2. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T01:26:35.957244"
+      },
+      {
+        "episode_number": 3,
+        "title": "Perrine Monogatari 3. Bölüm",
+        "videos": [],
+        "skip_times": {
+          "ed": {
+            "start": 1478,
+            "end": 1542
+          }
+        },
+        "added_date": "2026-07-29T01:26:35.957244"
+      },
+      {
+        "episode_number": 4,
+        "title": "Perrine Monogatari 4. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T01:26:35.957244"
+      },
+      {
+        "episode_number": 5,
+        "title": "Perrine Monogatari 5. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T01:26:35.957244"
+      },
+      {
+        "episode_number": 6,
+        "title": "Perrine Monogatari 6. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T01:26:35.957244"
+      },
+      {
+        "episode_number": 7,
+        "title": "Perrine Monogatari 7. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T01:26:35.957244"
+      },
+      {
+        "episode_number": 8,
+        "title": "Perrine Monogatari 8. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T01:26:35.957244"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2549,
@@ -51,105 +113,71 @@
         ]
       }
     ],
-    "episodes": 53
+    "episodes": 53,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 2549,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2549-jCHHQYRPfF8d.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2549-WDtJc8bdvgrC.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Perrine Monogatari 1. Bölüm",
-      "episode_number": 1,
-      "videos": [],
-      "skip_times": {
-        "ed": {
-          "start": 1477,
-          "end": 1543
-        }
-      },
-      "added_date": "2026-07-29T01:26:35.957244",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Perrine Monogatari 2. Bölüm",
-      "episode_number": 2,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:26:35.957244",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Perrine Monogatari 3. Bölüm",
-      "episode_number": 3,
-      "videos": [],
-      "skip_times": {
-        "ed": {
-          "start": 1478,
-          "end": 1542
-        }
-      },
-      "added_date": "2026-07-29T01:26:35.957244",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Perrine Monogatari 4. Bölüm",
-      "episode_number": 4,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:26:35.957244",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Perrine Monogatari 5. Bölüm",
-      "episode_number": 5,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:26:35.957244",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Perrine Monogatari 6. Bölüm",
-      "episode_number": 6,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:26:35.957244",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Perrine Monogatari 7. Bölüm",
-      "episode_number": 7,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:26:35.957244",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Perrine Monogatari 8. Bölüm",
-      "episode_number": 8,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:26:35.957244",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 43951,
     "type": "tv",

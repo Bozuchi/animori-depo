@@ -4,7 +4,56 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Working!!! Serisinin special bölümüdür",
-    "slug": "working-lord-of-the-takanashi"
+    "slug": "working-lord-of-the-takanashi",
+    "episodes": [
+      {
+        "episode_number": 14,
+        "title": "Working 3 14. Bölüm Special",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19pFuhd5Zw2dQNUhA-B6bANZisFxmEbJ2/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659146"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359654059"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4456509"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4063027"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pp5mv56i"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4unr0h76"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ipr607ks"
+          }
+        ],
+        "added_date": "2026-07-30T16:34:10.518102"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31715,
@@ -49,64 +98,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21384,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21384-T3fvQNSQvpy1.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21384-YR0hAau5UHAB.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Working 3 14. Bölüm Special",
-      "episode_number": 14,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/19pFuhd5Zw2dQNUhA-B6bANZisFxmEbJ2/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659146"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359654059"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4456509"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4063027"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pp5mv56i"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4unr0h76"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ipr607ks"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T16:34:10.518102",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

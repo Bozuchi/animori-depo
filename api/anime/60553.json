@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Nonohara Yuzuka no Himitsu no Haishin",
-    "slug": "nonohara-yuzuka-no-himitsu-no-haishin"
+    "slug": "nonohara-yuzuka-no-himitsu-no-haishin",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 60553,
@@ -40,13 +41,13 @@
           195612
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 185506,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185506-qYsK2nLRalpJ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185506-e6BT2M2TFz3i.png"
   },
-  "synopsis_tr": "Bu başlığa özet bilgisi eklenmemiştir. Buraya bir özet ekleyerek veritabanımızın geliştirilmesine yardımcı olun.",
-  "episodes": []
+  "synopsis_tr": "Bu başlığa özet bilgisi eklenmemiştir. Buraya bir özet ekleyerek veritabanımızın geliştirilmesine yardımcı olun."
 }

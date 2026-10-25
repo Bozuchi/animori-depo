@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Sarajevo'nun el yapımı nükleer bomba ile patlatıldığı gün kelimenin tam anlamıyla bir terör savaşı patlak verdi. Baştaki hükümetler tam gözetim durumuna geçtiler ve gelişen dünya genocide dalgaları altında boğuldu. Dünya sisteminin çöküşünün arkasındaki isim Gizemli Amerikalı John Paul. Yıkılan medeniyetlerin enkazında John Paul'ü takip etmek ve karanlığın gerçek kalbini— genocidal organ'ı bulmak zeki ajan Clavis Shepherd'a kalıyor.",
-    "slug": "gyakusatsu-kikan"
+    "slug": "gyakusatsu-kikan",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 23279,
@@ -48,71 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20919,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20919-DtSU5heNhEey.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20919-2gAgdEKPWl6E.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Gyakusatsu Kikan",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NbSufE22BcNwTNxPHfnzjetfUv2bsH2W/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/akfsub/video/embed/_myvideo/46"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-n62gccx7xccw.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1krEnfgZ42dN-72tVY5SQ37KqQhWdsW2P/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7068"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3820804"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4460990"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/fpusznbr"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-4j6ziqdu7r9d.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:09:36.484664",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 357407,
     "type": "movie",

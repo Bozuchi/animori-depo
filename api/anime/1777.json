@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yolculukları sırasında efsanevi ölüler şehri olan Azec Sistra'nın hazinesi peşinde olan tehlikeli hazine avcılarından geri kalanlara rastlarlar. Su bulmak umuduyla girdikleri şehrin Azec Sistra olduğunu farkederler. Ne yazık ki, vahşetten sorumlu hazine avcıları da şehrin yolunu bulmuştur. Ama onlardan daha endişe verici olan orada kalan ruhları rahatsız edenleri cezalandıran Azec Sistra'nın lanetidir.",
-    "slug": "kaze-no-tairiku"
+    "slug": "kaze-no-tairiku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1777,
@@ -45,46 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1777,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1777-LGZ4cfW0aNFP.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1777-O4bzZO1KgLKl.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kaze no Tairiku",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 235,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1StrQMk0TUc4H3YnFlwVcLZ83x5r7vvRB/preview"
-        },
-        {
-          "fansub_id": 235,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017810"
-        },
-        {
-          "fansub_id": 235,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1638130"
-        },
-        {
-          "fansub_id": 235,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-4kbkiup26oxn.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T01:53:01.884847",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 39690,
     "type": "movie",

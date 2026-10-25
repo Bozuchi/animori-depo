@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/12",
     "ozet": "Savaş lordu Oda Nobunaga, tarihte yaşandığı gibi Honno-ji Olayı'nda ölür ve günümüz Japonya'sında Tarçın isimli bir köpek olarak yeniden doğar. Savaşan Devletler Çağı savaş lordu Takeda Shingen de nihayetinde köpek olarak reankarne olur ve ona katılır.",
-    "slug": "oda-cinnamon-nobunaga"
+    "slug": "oda-cinnamon-nobunaga",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40136,
@@ -49,7 +50,8 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 110613,

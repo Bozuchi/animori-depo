@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yıl 1999, Birleşmiş Milletler görevlisi bir grup bilimadamı terk edilmiş Sansara Adası'nda yeni bir enerji kaynağı araştırması yaparken başka bir boyuta açılan bir geçit yaratırlar ve biyomekanik varlıkların Dünya'ya geçişini sağlarlar. Bundan 3 yıl sonra, Takuya Goroza Sansara adasına okul arkadaşı olan Haruka Alfrod'un gizemli isteği üzerine zorla da olsa geri döner. Olay hakkındaki bilgisi azdır ki eski arkadaşı aslında bildiği arkadaşı değildir...",
-    "slug": "daimajuu-gekitou-hagane-no-oni"
+    "slug": "daimajuu-gekitou-hagane-no-oni",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1819,
@@ -39,44 +40,12 @@
       48
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1819,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1819-uj42NIrhoUqd.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Daimajuu Gekitou Hagane no Oni",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oInWZ1DRahaBeQTjYCsAduf8wMAPowDx/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377703"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4507033"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mxwqyxkakk21.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:18.258698",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

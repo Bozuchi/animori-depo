@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Üniversiteye giriş töreni sırasında, Ushino Hayama adında genç bir çocuk, Sara'yı on yıl önce tanıştığı bir kızla bulur. Bu günden itibaren kendisinde bir değişim meydana geldi ve artık bir miktar suyu kontrol edebildiğini fark ediyor. Yüzme şampiyonasını kazandıktan sonra derin deniz dalışını keşfeder.",
-    "slug": "b-b-fish"
+    "slug": "b-b-fish",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 5904,
@@ -46,51 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 5904,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5904-vMpmY57PtEJm.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "B.B. Fish OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 113,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TmG87x9Cz8-rnT2BqEFAPC8FKOFR7hYl/preview"
-        },
-        {
-          "fansub_id": 113,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368055"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4395990"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4396067"
-        },
-        {
-          "fansub_id": 113,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1gpa15du8gim.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:24:32.366011",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 73710,
     "type": "movie",

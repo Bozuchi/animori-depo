@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Gravitation serisine ait OVA seridir.",
-    "slug": "gravitation-lyrics-of-love"
+    "slug": "gravitation-lyrics-of-love",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 507,
@@ -56,77 +57,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 507,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b507-s9nQha2rCidZ.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Gravitation OVA 1",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XP2J8ZPRyA0M2LyDV8eRmjflbpjBCr_0/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3794235"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-q8b1wlbeqha8.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-znyxgx6bu6yj.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:47.803352",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Gravitation OVA 2",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wEDC1X13FJuuRTEbinyVf9z1WNppaTn1/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3794236"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-sy9dmh3eivap.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-d5jrnh5wil0o.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:47.803352",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30979,
     "type": "tv",

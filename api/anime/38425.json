@@ -4,7 +4,101 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Ikkitousen animesinin OVA bölümlerdir.",
-    "slug": "ikkitousen-western-wolves"
+    "slug": "ikkitousen-western-wolves",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ikkitousen: Western Wolves 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10SSOkA-JQ385-ew8PFSHgYR5JMadvETn/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1296"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3583419"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1566,
+            "end": 1658
+          }
+        },
+        "added_date": "2026-07-26T05:16:36.116819"
+      },
+      {
+        "episode_number": 2,
+        "title": "Ikkitousen: Western Wolves 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mI8dFVmojd5hx4OIVQhZQGfonwrasC9p/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1777"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4y935zia"
+          }
+        ],
+        "added_date": "2026-07-26T05:16:36.116819"
+      },
+      {
+        "episode_number": 3,
+        "title": "Ikkitousen: Western Wolves 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1l42xFcbjz8qCTCTARRoM8BThRkKOJK96/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sVtZEeivArxBiWqDUvclzjs_in1o8s3R/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/384"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359665006"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3637475"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4619440"
+          },
+          {
+            "fansub_id": 34,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1vemmc00woka.html"
+          }
+        ],
+        "added_date": "2026-07-26T05:16:36.116819"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38425,
@@ -56,118 +150,36 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 105391,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n105391-rnFdbnjElRN8.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105391-j3FGJWjN9smU.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ikkitousen: Western Wolves 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 34,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10SSOkA-JQ385-ew8PFSHgYR5JMadvETn/preview"
-        },
-        {
-          "fansub_id": 34,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1296"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3583419"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1566,
-          "end": 1658
-        }
-      },
-      "added_date": "2026-07-26T05:16:36.116819",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ikkitousen: Western Wolves 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 34,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mI8dFVmojd5hx4OIVQhZQGfonwrasC9p/preview"
-        },
-        {
-          "fansub_id": 34,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1777"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4y935zia"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:16:36.116819",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ikkitousen: Western Wolves 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 34,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1l42xFcbjz8qCTCTARRoM8BThRkKOJK96/preview"
-        },
-        {
-          "fansub_id": 34,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sVtZEeivArxBiWqDUvclzjs_in1o8s3R/preview"
-        },
-        {
-          "fansub_id": 34,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/384"
-        },
-        {
-          "fansub_id": 34,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359665006"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3637475"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4619440"
-        },
-        {
-          "fansub_id": 34,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1vemmc00woka.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:16:36.116819",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 37584,
     "type": "tv",

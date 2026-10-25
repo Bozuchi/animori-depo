@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/2",
     "ozet": "Granblue Fantasy The Animation Season 2 animesinin specails bölümüdür.",
-    "slug": "granblue-fantasy-the-animation-season-2-djeeta-hen"
+    "slug": "granblue-fantasy-the-animation-season-2-djeeta-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40873,
@@ -44,59 +45,12 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 116968,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116968-hVZKqWiJ6vfr.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Granblue Fantasy The Animation Season 2: Djeeta-hen",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ebA_R6komtMVhluff2__s7n7qNTsjy7O/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140717817"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4472891"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-atuauytvgrvw.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-4bw4s195mw7q.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/zqd3j21f"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nfhwbay2vjbj.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:30:26.221547",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

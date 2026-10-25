@@ -4,7 +4,394 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Büyükannesinin vefatından sonra sahildeki kafeye ve ona bağlı eve dönen Hayato, kendini 5 yarı çıplak hatunun ortasında bulur.\nOlaylar aydınlandığında anlaşılır ki bu kızlar kafede büyükanneye yarı zamanlı olarak yardım etmektedir.\nAklında kafe ve evi yıktırmak olarak dönen Hayato, plana 1 sene ara verir ve ne olacağını görmek ister.",
-    "slug": "megami-no-cafe-terrace"
+    "slug": "megami-no-cafe-terrace",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Megami no Café Terrace 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369737"
+          },
+          {
+            "fansub_id": 94,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5107307"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/up8ynkhqa5uy"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zdi4u3jdz9rc.html"
+          }
+        ],
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 2,
+        "title": "Megami no Café Terrace 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369770"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/au43w9cll0oc"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-z8d9smg2vyci.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 77.542,
+            "end": 168.186
+          },
+          "ed": {
+            "start": 1332.25,
+            "end": 1422.862
+          }
+        },
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 3,
+        "title": "Megami no Café Terrace 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369798"
+          },
+          {
+            "fansub_id": 94,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5120638"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/1wogskh0qutt"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-h9bftn4zjfal.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 73.125,
+            "end": 163.083
+          }
+        },
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 4,
+        "title": "Megami no Café Terrace 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369828"
+          },
+          {
+            "fansub_id": 94,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5126984"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/dzx3xx0nw6jw"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-g7s1bftxjjq7.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 65.83702,
+            "end": 155.2706
+          }
+        },
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 5,
+        "title": "Megami no Café Terrace 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369837"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/h6cnuv98hn16"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fuhlx340tj91.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 88.73516,
+            "end": 178.22679
+          },
+          "ed": {
+            "start": 1332,
+            "end": 1421
+          }
+        },
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 6,
+        "title": "Megami no Café Terrace 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369965"
+          },
+          {
+            "fansub_id": 94,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5144855"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/t4j8wgglkt25"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-z9qkkej15cme.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 58.353985,
+            "end": 147.41576
+          },
+          "ed": {
+            "start": 1332,
+            "end": 1421
+          }
+        },
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 7,
+        "title": "Megami no Café Terrace 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369974"
+          },
+          {
+            "fansub_id": 94,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5146897"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/51nwru01vzhi"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wk6jijkoo4in.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1422,
+            "end": 1437
+          }
+        },
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 8,
+        "title": "Megami no Café Terrace 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370143"
+          },
+          {
+            "fansub_id": 94,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5167852"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/4iwgrtp4csyb"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-na949jj55edj.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 149.53622,
+            "end": 239.20908
+          },
+          "ed": {
+            "start": 1290.336,
+            "end": 1380.167
+          }
+        },
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 9,
+        "title": "Megami no Café Terrace 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370144"
+          },
+          {
+            "fansub_id": 94,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5167856"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/3dyzmsta4j0u"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wwpdvh7bqi0e.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 91.927864,
+            "end": 181.17792
+          }
+        },
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 10,
+        "title": "Megami no Café Terrace 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370352"
+          },
+          {
+            "fansub_id": 94,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5213581"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/aotqy9u292jq"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jijqmdwbgb25.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 87.40965,
+            "end": 177.09581
+          }
+        },
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 11,
+        "title": "Megami no Café Terrace 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370353"
+          },
+          {
+            "fansub_id": 94,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5213584"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/vx2givnuiknu"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xkwndw61mcgb.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 47.780666,
+            "end": 137.39334
+          }
+        },
+        "added_date": "2026-07-27T11:38:46.308780"
+      },
+      {
+        "episode_number": 12,
+        "title": "Megami no Café Terrace 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370471"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/qtw016u7odnf"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l8mkzgmrb4hi.html"
+          }
+        ],
+        "added_date": "2026-07-27T11:38:46.308780"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 52973,
@@ -63,438 +450,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 154412,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154412-xecstCsfPLIe.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154412-bEMQkJWOStDR.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Megami no Café Terrace 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369737"
-        },
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5107307"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/up8ynkhqa5uy"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zdi4u3jdz9rc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369770"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/au43w9cll0oc"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-z8d9smg2vyci.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 77.542,
-          "end": 168.186
-        },
-        "ed": {
-          "start": 1332.25,
-          "end": 1422.862
-        }
-      },
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369798"
-        },
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5120638"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/1wogskh0qutt"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-h9bftn4zjfal.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 73.125,
-          "end": 163.083
-        }
-      },
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369828"
-        },
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5126984"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/dzx3xx0nw6jw"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-g7s1bftxjjq7.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 65.83702,
-          "end": 155.2706
-        }
-      },
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369837"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/h6cnuv98hn16"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-fuhlx340tj91.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 88.73516,
-          "end": 178.22679
-        },
-        "ed": {
-          "start": 1332,
-          "end": 1421
-        }
-      },
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369965"
-        },
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5144855"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/t4j8wgglkt25"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-z9qkkej15cme.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 58.353985,
-          "end": 147.41576
-        },
-        "ed": {
-          "start": 1332,
-          "end": 1421
-        }
-      },
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369974"
-        },
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5146897"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/51nwru01vzhi"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wk6jijkoo4in.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1422,
-          "end": 1437
-        }
-      },
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370143"
-        },
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5167852"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/4iwgrtp4csyb"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-na949jj55edj.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 149.53622,
-          "end": 239.20908
-        },
-        "ed": {
-          "start": 1290.336,
-          "end": 1380.167
-        }
-      },
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370144"
-        },
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5167856"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/3dyzmsta4j0u"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wwpdvh7bqi0e.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 91.927864,
-          "end": 181.17792
-        }
-      },
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370352"
-        },
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5213581"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/aotqy9u292jq"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jijqmdwbgb25.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 87.40965,
-          "end": 177.09581
-        }
-      },
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370353"
-        },
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5213584"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/vx2givnuiknu"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xkwndw61mcgb.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 47.780666,
-          "end": 137.39334
-        }
-      },
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Megami no Café Terrace 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370471"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/qtw016u7odnf"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-l8mkzgmrb4hi.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:38:46.308780",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 209707,
     "type": "tv",

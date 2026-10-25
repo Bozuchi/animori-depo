@@ -4,7 +4,531 @@
     "puan": "0.00",
     "bolum_durumu": "10/10",
     "ozet": "Sousou no Frieren animesinin ikinci sezonudur.",
-    "slug": "sousou-no-frieren-2nd-season"
+    "slug": "sousou-no-frieren-2nd-season",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Sousou no Frieren 2nd Season 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6101808"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4bz0tfod"
+          },
+          {
+            "fansub_id": 109,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tMqCcEJwxQWocsrydrnBdNjJU1ItAC6G/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1T1SHbG8FNzROTS4dmn91_irj5HH59jwv/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/g1ud9kwf"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dqCOtznPG2KExjByUVQ-Xh2_oMdGYoK_/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9186183023140277624"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 117,
+            "end": 207
+          }
+        },
+        "added_date": "2026-07-29T11:58:42.437968"
+      },
+      {
+        "episode_number": 2,
+        "title": "Sousou no Frieren 2nd Season 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6107603"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5m1tgd72"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1aDhLweG78BR38TvagqSvv8cfJFu6bSSv/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fbabjutk"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZjIQ4VtGPcn2GjkEY5ovWEqjMk-nxj2n/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9186183023140277657"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 92
+          },
+          "ed": {
+            "start": 1340,
+            "end": 1430
+          }
+        },
+        "added_date": "2026-07-29T11:58:42.437968"
+      },
+      {
+        "episode_number": 3,
+        "title": "Sousou no Frieren 2nd Season 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6111768"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/70bf7k9s"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mGedb25GDBnTF5XFpft0BWaYNDEB24M7/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/15u1obwq"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18oOkAP07bZiNtAZlu7x8H0bcB0YLnuE0/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6120153"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/47f1wtvw"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          },
+          "ed": {
+            "start": 1340,
+            "end": 1440
+          }
+        },
+        "added_date": "2026-07-29T11:58:42.437968"
+      },
+      {
+        "episode_number": 4,
+        "title": "Sousou no Frieren 2nd Season 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TJ1PCNMFEeJqVqfJYKFw2jtdKz-SzaDj/preview"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6118283"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/l7zpx653"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1kDn3Ai3TBe9QmR2PXymB9NqoD0EPmxxw/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hflxxisr"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZJEfXOUAJLAhJbyasB5fHVZz_2djq2Aw/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6128375"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1kb6e5be"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          },
+          "ed": {
+            "start": 1340,
+            "end": 1430
+          }
+        },
+        "added_date": "2026-07-29T11:58:42.437968"
+      },
+      {
+        "episode_number": 5,
+        "title": "Sousou no Frieren 2nd Season 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6126410"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1v9sis80"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uixPPxBmuZgNPbqu4oxovvBpUEh_BuML/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6126647"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6e5cpn4f"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Gs5cpUManZmBxrPmshlj7ylEAu-HTPya/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6137729"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/bd38mb9w"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          },
+          "ed": {
+            "start": 1340,
+            "end": 1440
+          }
+        },
+        "added_date": "2026-07-29T11:58:42.437968"
+      },
+      {
+        "episode_number": 6,
+        "title": "Sousou no Frieren 2nd Season 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6135608"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ay5fimls"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1nU2i35LDGT4Wbz-zBo_bKiJ8PX-IZ8Mj/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qkv6vnnl"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13SNY1MDblxdAJ0YUsTnhB8Tc4vshoZxB/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6146996"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/27eu0vpg"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 94,
+            "end": 181
+          },
+          "ed": {
+            "start": 1342,
+            "end": 1440
+          }
+        },
+        "added_date": "2026-07-29T11:58:42.437968"
+      },
+      {
+        "episode_number": 7,
+        "title": "Sousou no Frieren 2nd Season 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6142604"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6wuquu1i"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1V_LYhwEYIjI4Mww3lVj_32sM8ZBzZXVM/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5ewkmes2"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1UBgQvFVHc9vTV8xUa4Brx8KbVPSxeUDd/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6157288"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/x1d9lcxp"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90.409
+          },
+          "ed": {
+            "start": 1340.07,
+            "end": 1430.07
+          }
+        },
+        "added_date": "2026-07-29T11:58:42.437968"
+      },
+      {
+        "episode_number": 8,
+        "title": "Sousou no Frieren 2nd Season 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6146424"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1iq9ag13"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11BfOw2sYSFaf6DaybvDEL5k8xW_yXhmm/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/zoxt0pfs"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lTw5XE3I-M7_1Pxe2D1Duyn73BZsLJMp/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6166116"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4t17n5z4"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          },
+          "ed": {
+            "start": 1340.01,
+            "end": 1430.01
+          }
+        },
+        "added_date": "2026-07-29T11:58:42.437968"
+      },
+      {
+        "episode_number": 9,
+        "title": "Sousou no Frieren 2nd Season 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6152137"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/b01gup8a"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lODjNLUW6f_qY6uRiBjXm3joS9P-skj9/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6151589"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/cb1yf6ha"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1umVSC8J4XP5WseY1rKfXC2TnnmMYWttO/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6173772"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/c3nmf99r"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 61.02,
+            "end": 151.02
+          },
+          "ed": {
+            "start": 1340.08,
+            "end": 1430.08
+          }
+        },
+        "added_date": "2026-07-29T11:58:42.437968"
+      },
+      {
+        "episode_number": 10,
+        "title": "Sousou no Frieren 2nd Season 10. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6158566"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/yhl1efse"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ReNLdxttarzya7Y9oG9zxA8bJaiHDkus/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q0n7ys2h"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PVB49thAkfJwvVPjDICEZ_Qd1FoIu0Cw/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6177666"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6f9iqmmb"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0.5,
+            "end": 90.41
+          }
+        },
+        "added_date": "2026-07-29T11:58:42.437968"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59978,
@@ -59,567 +583,85 @@
         ]
       }
     ],
-    "episodes": 10
+    "episodes": 10,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 182255,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182255-wyHvp6zJbWsO.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sousou no Frieren 2nd Season 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6101808"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4bz0tfod"
-        },
-        {
-          "fansub_id": 109,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tMqCcEJwxQWocsrydrnBdNjJU1ItAC6G/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1T1SHbG8FNzROTS4dmn91_irj5HH59jwv/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/g1ud9kwf"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dqCOtznPG2KExjByUVQ-Xh2_oMdGYoK_/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9186183023140277624"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 117,
-          "end": 207
-        }
-      },
-      "added_date": "2026-07-29T11:58:42.437968",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sousou no Frieren 2nd Season 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6107603"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5m1tgd72"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1aDhLweG78BR38TvagqSvv8cfJFu6bSSv/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/fbabjutk"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZjIQ4VtGPcn2GjkEY5ovWEqjMk-nxj2n/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9186183023140277657"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 92
-        },
-        "ed": {
-          "start": 1340,
-          "end": 1430
-        }
-      },
-      "added_date": "2026-07-29T11:58:42.437968",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sousou no Frieren 2nd Season 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6111768"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/70bf7k9s"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mGedb25GDBnTF5XFpft0BWaYNDEB24M7/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/15u1obwq"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18oOkAP07bZiNtAZlu7x8H0bcB0YLnuE0/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6120153"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/47f1wtvw"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        },
-        "ed": {
-          "start": 1340,
-          "end": 1440
-        }
-      },
-      "added_date": "2026-07-29T11:58:42.437968",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sousou no Frieren 2nd Season 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TJ1PCNMFEeJqVqfJYKFw2jtdKz-SzaDj/preview"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6118283"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/l7zpx653"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1kDn3Ai3TBe9QmR2PXymB9NqoD0EPmxxw/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hflxxisr"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZJEfXOUAJLAhJbyasB5fHVZz_2djq2Aw/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6128375"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1kb6e5be"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        },
-        "ed": {
-          "start": 1340,
-          "end": 1430
-        }
-      },
-      "added_date": "2026-07-29T11:58:42.437968",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sousou no Frieren 2nd Season 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6126410"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1v9sis80"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uixPPxBmuZgNPbqu4oxovvBpUEh_BuML/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6126647"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/6e5cpn4f"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Gs5cpUManZmBxrPmshlj7ylEAu-HTPya/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6137729"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/bd38mb9w"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        },
-        "ed": {
-          "start": 1340,
-          "end": 1440
-        }
-      },
-      "added_date": "2026-07-29T11:58:42.437968",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sousou no Frieren 2nd Season 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6135608"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ay5fimls"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nU2i35LDGT4Wbz-zBo_bKiJ8PX-IZ8Mj/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qkv6vnnl"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13SNY1MDblxdAJ0YUsTnhB8Tc4vshoZxB/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6146996"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/27eu0vpg"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 94,
-          "end": 181
-        },
-        "ed": {
-          "start": 1342,
-          "end": 1440
-        }
-      },
-      "added_date": "2026-07-29T11:58:42.437968",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sousou no Frieren 2nd Season 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6142604"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/6wuquu1i"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1V_LYhwEYIjI4Mww3lVj_32sM8ZBzZXVM/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5ewkmes2"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UBgQvFVHc9vTV8xUa4Brx8KbVPSxeUDd/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6157288"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/x1d9lcxp"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90.409
-        },
-        "ed": {
-          "start": 1340.07,
-          "end": 1430.07
-        }
-      },
-      "added_date": "2026-07-29T11:58:42.437968",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sousou no Frieren 2nd Season 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6146424"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1iq9ag13"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11BfOw2sYSFaf6DaybvDEL5k8xW_yXhmm/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/zoxt0pfs"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lTw5XE3I-M7_1Pxe2D1Duyn73BZsLJMp/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6166116"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4t17n5z4"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        },
-        "ed": {
-          "start": 1340.01,
-          "end": 1430.01
-        }
-      },
-      "added_date": "2026-07-29T11:58:42.437968",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sousou no Frieren 2nd Season 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6152137"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/b01gup8a"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lODjNLUW6f_qY6uRiBjXm3joS9P-skj9/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6151589"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/cb1yf6ha"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1umVSC8J4XP5WseY1rKfXC2TnnmMYWttO/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6173772"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/c3nmf99r"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 61.02,
-          "end": 151.02
-        },
-        "ed": {
-          "start": 1340.08,
-          "end": 1430.08
-        }
-      },
-      "added_date": "2026-07-29T11:58:42.437968",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sousou no Frieren 2nd Season 10. Bölüm Final",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6158566"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/yhl1efse"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ReNLdxttarzya7Y9oG9zxA8bJaiHDkus/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/q0n7ys2h"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PVB49thAkfJwvVPjDICEZ_Qd1FoIu0Cw/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6177666"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/6f9iqmmb"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0.5,
-          "end": 90.41
-        }
-      },
-      "added_date": "2026-07-29T11:58:42.437968",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 209867,
     "type": "tv",

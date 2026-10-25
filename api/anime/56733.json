@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Magical★Explorer",
-    "slug": "magical-explorer"
+    "slug": "magical-explorer",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 56733,
@@ -46,6 +47,36 @@
           137259
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Reincarnated as a Sidekick Character in an Eroge, but I'll Use My Game Knowledge to Do What I Want",
+        "aired": "Oct 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Greetings From the Land of the Elves",
+        "aired": "Oct 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Staples of Any Eroge",
+        "aired": "Oct 18, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Determination",
+        "aired": "Oct 25, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -60,47 +91,5 @@
     "episode_offset": 0,
     "name": "Magical Explorer"
   },
-  "synopsis_tr": "Efsanevi erotik oyun \"Sihirli Kaşif\"te bir karakter olarak yeniden doğan kahramanımızın, oyunun kadın katili kahramanı yerine şanssız yan karakter olarak seçildiğini keşfetmesi uzun sürmez. Yine de endişelenmeyin! Oyun hakkındaki engin bilgisi (ve birkaç hile) ile oyunun kahramanlarının kalbini kazanmak ve Sihirbaz Akademisi'nin en başarılı öğrencisi olarak ortaya çıkmak için ne gerekiyorsa yapacak!(Kaynak: Yen Press)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Reincarnated as a Sidekick Character in an Eroge, but I'll Use My Game Knowledge to Do What I Want",
-      "episode_number": 1,
-      "aired": "Oct 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:59.848048"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Greetings From the Land of the Elves",
-      "episode_number": 2,
-      "aired": "Oct 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:59.848048"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Staples of Any Eroge",
-      "episode_number": 3,
-      "aired": "Oct 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-11T09:55:19.792558"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "Determination",
-      "episode_number": 4,
-      "aired": "Oct 25, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-20T08:26:04.748885"
-    }
-  ]
+  "synopsis_tr": "Efsanevi erotik oyun \"Sihirli Kaşif\"te bir karakter olarak yeniden doğan kahramanımızın, oyunun kadın katili kahramanı yerine şanssız yan karakter olarak seçildiğini keşfetmesi uzun sürmez. Yine de endişelenmeyin! Oyun hakkındaki engin bilgisi (ve birkaç hile) ile oyunun kahramanlarının kalbini kazanmak ve Sihirbaz Akademisi'nin en başarılı öğrencisi olarak ortaya çıkmak için ne gerekiyorsa yapacak!(Kaynak: Yen Press)"
 }

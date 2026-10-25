@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Manganın yedinci cildinde bulunan \"Don't Stay Gold\" adlı kısa öykünün anime uyarlamasıdır.",
-    "slug": "saezuru-tori-wa-habatakanai-don-t-stay-gold"
+    "slug": "saezuru-tori-wa-habatakanai-don-t-stay-gold",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 41290,
@@ -53,49 +54,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 115567,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115567-8hMWE9NCRS0e.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115567-iVP26dCe4Vwo.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Saezuru Tori wa Habatakanai: Don't Stay Gold",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 85,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qm8Zzpn6KnYraO7GGw3gVqLkhxxmNZD8/preview"
-        },
-        {
-          "fansub_id": 85,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656435"
-        },
-        {
-          "fansub_id": 85,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4441725"
-        },
-        {
-          "fansub_id": 85,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ns7lamw5pmuj.html"
-        },
-        {
-          "fansub_id": 85,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-w44g5npipvhy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T05:30:49.028275",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

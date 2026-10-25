@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/5",
     "ozet": "Bir gün Mori Kogoro'nun özel dedektiflik bürosu bir şantaj çağrısı alır. Arayanın yanlış numara olduğu fark eder. Conan telefondaki sesi tanımlayabiliyor, aynı zamanda bir lise dedektifi olan ama Osaka'daki eski arkadaşı Heiji'ninkine benziyor. Davayı çözmek ve çalınan mücevheri bulmak için bir kez daha güçlerini birleştiriyorlar. \n\nAma mücevherden sonra olanlar sadece onlar değil. Ünlü usta hırsız Kaitou Kid, 100.000.000 Yen değerinde olan bu parçaya ilgi duydu ve şimdi suçluyu bulan ve mücevheri ilk alan Heiji ve Conan'a kalmış.",
-    "slug": "detective-conan-ova-06-follow-the-vanished-diamond-conan-heiji-vs-kid"
+    "slug": "detective-conan-ova-06-follow-the-vanished-diamond-conan-heiji-vs-kid",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1368,
@@ -48,66 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1368,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1368.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan OVA 6",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 65,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MpRKsl84yhd66_xA3ENjZBKFtP4zpNsw/preview"
-        },
-        {
-          "fansub_id": 65,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pCewICthHgr8HnVQrM7rZ-eEyrADiSuc/preview"
-        },
-        {
-          "fansub_id": 65,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388378364"
-        },
-        {
-          "fansub_id": 65,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4516483"
-        },
-        {
-          "fansub_id": 65,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4252569"
-        },
-        {
-          "fansub_id": 65,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-yliubaox8rru.html"
-        },
-        {
-          "fansub_id": 65,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/9tgr1q9n"
-        },
-        {
-          "fansub_id": 65,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ar29wdc0kh9p.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:57:39.049997",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1041790,
     "type": "movie",

@@ -4,7 +4,552 @@
     "puan": "8.13",
     "bolum_durumu": "13/13",
     "ozet": "Hibiki Amami, çevresinde hayaletleri görebilen bir kızdır. Onun ve arkadaşlarının günlük hayatını gösterir.",
-    "slug": "re-kan"
+    "slug": "re-kan",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Re-Kan! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/197faoaaRr5wa1wNtRu3UtrfYX5KcLdY7/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069143"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4506210"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1758229"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2yfihmh9ctux.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ahgvkophfn6c.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4ru7cpp5nh2c.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 2,
+        "title": "Re-Kan! 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IhMrJj3flL1fnYWhurzrI41Oc4Hw3KD4/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069148"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4506214"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1770129"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-uoij8mor1zao.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ttaqldfai09m.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fw49dtekjnpu.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 3,
+        "title": "Re-Kan! 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GkE6AsTK2jb3xH7PlcV7Kduitlx8Njod/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069149"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4506217"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1770280"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gjd7xe5eub40.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-dfvzxtear5li.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 4,
+        "title": "Re-Kan! 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18LojTeFsH1KBXJc1HIFdZK42hG1Aw50L/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069150"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4506221"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1773695"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-z2uwg7ptsrvi.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-r7jklwr314sx.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 5,
+        "title": "Re-Kan! 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OgKU5NJPWSSh5JusWJTvlGbTm7aP2Omk/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069151"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1777313"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511913"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dh8fnkxq3w1s.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-futlmn5vsxcz.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ig32c1ofg1rd.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 6,
+        "title": "Re-Kan! 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qbm2U6JuCNTVCeL3qvcVPsY1JnKHDmPM/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069152"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1786117"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511920"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vubfkbxhzju4.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-owalzz858ylq.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-84hwpwo4odcs.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 7,
+        "title": "Re-Kan! 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QGOwnjQPFTVdXDmMaLUc56hPTX8KCnIN/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069153"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511926"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1786122"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-slv6yj4m1j3w.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xr1x1727hjlx.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cwm015eivgxz.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 8,
+        "title": "Re-Kan! 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069154"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1790960"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4541564"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b11zpcugsafh.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pzle2v3qo7p5.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-jhcd8cg7podp.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 9,
+        "title": "Re-Kan! 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CC46wTnt6BAsRWyCWHpbhpT0TzvpELhW/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069155"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511934"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1843064"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nytx7vz2n48g.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hgqjuy9kxl6e.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ijkb1fwfggzg.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 10,
+        "title": "Re-kan! 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1E0mD6IG_gJdVHmVkk8Fxt-Bu4IECL7Co/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069144"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7417.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511942"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1843068"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9bq2idgy8krw.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9jr9wrekgjst.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2fj1u5xkoz7q.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 11,
+        "title": "Re-kan! 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SBrUaxwhsfDMuhsKOQvG6T97oAvcOggj/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069145"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511949"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1843071"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-iks1vs1ma0y9.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-yq3aad0gy56d.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-n9u3jamomuu1.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 12,
+        "title": "Re-kan! 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mEk_cRJyQP3D9-rDIwH0dQncd85OFcGV/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069146"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511953"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1843072"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-yu3xckbo7poq.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-10f9sth8n3mx.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1mpk3rea66mi.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 28,
+            "end": 118
+          }
+        },
+        "added_date": "2026-07-29T03:51:07.433941"
+      },
+      {
+        "episode_number": 13,
+        "title": "Re-kan! 13. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DTov4H4SuOapYl2aUhGsfhBMAwgkjo-x/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158069147"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4529504"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1843073"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fcvloezpig89.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qxcs52y1pt6b.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1330,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-29T03:51:07.433941"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 25859,
@@ -47,608 +592,106 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20814,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20814-oeexuguid4QQ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20814-fNcQcAFZwDTV.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Re-Kan! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/197faoaaRr5wa1wNtRu3UtrfYX5KcLdY7/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069143"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4506210"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1758229"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2yfihmh9ctux.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ahgvkophfn6c.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-4ru7cpp5nh2c.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-Kan! 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1IhMrJj3flL1fnYWhurzrI41Oc4Hw3KD4/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069148"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4506214"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1770129"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-uoij8mor1zao.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ttaqldfai09m.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fw49dtekjnpu.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-Kan! 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GkE6AsTK2jb3xH7PlcV7Kduitlx8Njod/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069149"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4506217"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1770280"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gjd7xe5eub40.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-dfvzxtear5li.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-Kan! 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18LojTeFsH1KBXJc1HIFdZK42hG1Aw50L/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069150"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4506221"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1773695"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-z2uwg7ptsrvi.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-r7jklwr314sx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-Kan! 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1OgKU5NJPWSSh5JusWJTvlGbTm7aP2Omk/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069151"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1777313"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4511913"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-dh8fnkxq3w1s.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-futlmn5vsxcz.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ig32c1ofg1rd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-Kan! 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qbm2U6JuCNTVCeL3qvcVPsY1JnKHDmPM/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069152"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1786117"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4511920"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-vubfkbxhzju4.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-owalzz858ylq.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-84hwpwo4odcs.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-Kan! 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1QGOwnjQPFTVdXDmMaLUc56hPTX8KCnIN/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069153"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4511926"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1786122"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-slv6yj4m1j3w.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xr1x1727hjlx.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cwm015eivgxz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-Kan! 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069154"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1790960"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4541564"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-b11zpcugsafh.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pzle2v3qo7p5.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-jhcd8cg7podp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-Kan! 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CC46wTnt6BAsRWyCWHpbhpT0TzvpELhW/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069155"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4511934"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1843064"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nytx7vz2n48g.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hgqjuy9kxl6e.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ijkb1fwfggzg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-kan! 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1E0mD6IG_gJdVHmVkk8Fxt-Bu4IECL7Co/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069144"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7417.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4511942"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1843068"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9bq2idgy8krw.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9jr9wrekgjst.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2fj1u5xkoz7q.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-kan! 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SBrUaxwhsfDMuhsKOQvG6T97oAvcOggj/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069145"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4511949"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1843071"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-iks1vs1ma0y9.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-yq3aad0gy56d.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-n9u3jamomuu1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-kan! 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mEk_cRJyQP3D9-rDIwH0dQncd85OFcGV/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069146"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4511953"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1843072"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-yu3xckbo7poq.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-10f9sth8n3mx.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1mpk3rea66mi.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 28,
-          "end": 118
-        }
-      },
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re-kan! 13. Bölüm Final",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DTov4H4SuOapYl2aUhGsfhBMAwgkjo-x/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158069147"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4529504"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1843073"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-fcvloezpig89.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qxcs52y1pt6b.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1330,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-29T03:51:07.433941",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 76117,
     "type": "tv",

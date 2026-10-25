@@ -4,7 +4,107 @@
     "puan": "0.00",
     "bolum_durumu": "5/5",
     "ozet": "Serinin 3. sezonudur.",
-    "slug": "kimi-ni-todoke-3rd-season"
+    "slug": "kimi-ni-todoke-3rd-season",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Kimi ni Todoke 3rd Season 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371845"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/77eachx2gkje"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 3756,
+            "end": 3862
+          }
+        },
+        "added_date": "2026-07-27T03:27:27.673742"
+      },
+      {
+        "episode_number": 2,
+        "title": "Kimi ni Todoke 3rd Season 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371849"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ghrkbsya7su9"
+          }
+        ],
+        "added_date": "2026-07-27T03:27:27.673742"
+      },
+      {
+        "episode_number": 3,
+        "title": "Kimi ni Todoke 3rd Season 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371863"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/n101hc4tr76d"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 3727,
+            "end": 3877
+          }
+        },
+        "added_date": "2026-07-27T03:27:27.673742"
+      },
+      {
+        "episode_number": 4,
+        "title": "Kimi ni Todoke 3rd Season 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371865"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ij1u1dua7jri"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 4226,
+            "end": 4375
+          }
+        },
+        "added_date": "2026-07-27T03:27:27.673742"
+      },
+      {
+        "episode_number": 5,
+        "title": "Kimi ni Todoke 3rd Season 5. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371866"
+          }
+        ],
+        "added_date": "2026-07-27T03:27:27.673742"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 56538,
@@ -54,130 +154,50 @@
         ]
       }
     ],
-    "episodes": 5
+    "episodes": 5,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 168872,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/168872-g1B5csKvadeG.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168872-ls6UwxFAw212.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kimi ni Todoke 3rd Season 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371845"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/77eachx2gkje"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 3756,
-          "end": 3862
-        }
-      },
-      "added_date": "2026-07-27T03:27:27.673742",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi ni Todoke 3rd Season 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371849"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ghrkbsya7su9"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:27:27.673742",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi ni Todoke 3rd Season 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371863"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/n101hc4tr76d"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 3727,
-          "end": 3877
-        }
-      },
-      "added_date": "2026-07-27T03:27:27.673742",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi ni Todoke 3rd Season 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371865"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ij1u1dua7jri"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 4226,
-          "end": 4375
-        }
-      },
-      "added_date": "2026-07-27T03:27:27.673742",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi ni Todoke 3rd Season 5. Bölüm Final",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371866"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:27:27.673742",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 68854,
     "type": "tv",

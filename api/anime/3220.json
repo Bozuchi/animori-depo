@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Güzel Jeanne, Jean adında bir adamla evlenir ve yeni evli çift bir inek değerindeki paraları ile Lord’un lütfunu almak için şatoya gelir. Fakat kötü ruhlu Lord onların teklifinden hoşlanmaz ve çaresizce kısıtlı imkânlarına rağmen sundukları ricalarını görmezden gelir. O esnada Lord’un karısı bir çıkar yol önerir: Jeanne, Lord’un bir gece ganimeti olacak ve bekâretini bozmasına izin verecektir. Bu deneyimden korkmuş ve sarsılmış Jeanne kocasından herhangi bir sempati göremez, aksine görmezden gelinir. Lakin uykuya daldığında tanıştığı garip bir ruh, Jeanne’i ona yanlış yapan herkesten öcünü alması için cesaretlendirir. Jeanne, aniden kabaran haz ve söndürülmemiş bir libido ile ruh ile anlaşır. Kanashi no Belladonna, Orta Çağ Fransa’sının küçük ve yoksul bir köyünde geçen Cunning Folk ve karşılıksız batıl inançlar üzerine büyüleyici ve psikoseksüel bir macera.",
-    "slug": "kanashimi-no-belladonna"
+    "slug": "kanashimi-no-belladonna",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3220,
@@ -47,39 +48,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3220,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3220-ZdjakVJ2qKyb.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3220-dnEUsdWopxiU.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kanashimi no Belladonna",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Os8f5Xk_-hDHDFVAZAigObdw6dAeuQ8p/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656187"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4438834"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T23:47:46.018628",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

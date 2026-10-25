@@ -4,7 +4,8 @@
     "puan": "8.60",
     "bolum_durumu": "1/1",
     "ozet": "Karanlıkta pusuya yatan yaratıklar, bir gün ve diğer gün arasında yatan Karanlık Zaman da dolaşanları avlarken. SEES olarak bilinen gizli bir okul klubü Karanlık Zaman da insanlık için felaketleri çözmeye çalışıyor.\n \nPersona 3 RPG Oyununa dayalı filmdir.",
-    "slug": "persona-3-the-movie-1-spring-of-birth"
+    "slug": "persona-3-the-movie-1-spring-of-birth",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 14407,
@@ -72,44 +73,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 14407,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14407-uhju1oqI26dU.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b14407-MgkKNW85qOot.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Persona 3 the Movie 1: Spring of Birth",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15ERCbfUhstHGEWPs8jg8ZJ1m_viXMzUC/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JsMfFrTyKj9RRmnLW1tQhcwhNknyU8Xq/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931910773"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gd4bnyqbgxb2.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:26:46.527957",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

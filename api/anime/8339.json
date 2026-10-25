@@ -4,7 +4,8 @@
     "puan": "8.48",
     "bolum_durumu": "1/1",
     "ozet": "Hikayenin ana karakteri olan Odakara Kazuhiko, otuz üç yaşına\nkadar tek bir kız arkadaşı bile olmamış bir adamdır. Şirketindeki hemen\nherkes onun eşcinsel olduğunu düşünse de kendisi bunu sürekli\nreddetmektedir. Fakat yeni işe giren Harada isimli genç sayesinde\ngerçeklerin farkına varacaktır.",
-    "slug": "kachou-no-koi"
+    "slug": "kachou-no-koi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8339,
@@ -45,74 +46,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 8339,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8339.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kachou no Koi",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tTkVEiIwpytzSdO0XAPna3IQmr3ABjG7/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3796137"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4504348"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1990089"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2av4mq1rt1yt.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qu8kfc4wchud.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8mnluh3d"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5zxtxuni"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/j99u523p"
-        },
-        {
-          "fansub_id": 52,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-x5lsid1qxeby.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T22:29:22.480273",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,94 @@
     "puan": "0.00",
     "bolum_durumu": "5/5",
     "ozet": "Üç lise öğrencisinin hikâyesini anlatan bu dizide, karakterlerin isimleri Tek Parça’daki karakterlerle aynı. Bu isim benzerliği de aralarındaki ilişkileri şekillendiren temel unsur oluyor.",
-    "slug": "koisuru-one-piece"
+    "slug": "koisuru-one-piece",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Koisuru One Piece 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1cjmgivZjfcGGUmM4pXcPLD8_VuvB16wC/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5873531"
+          }
+        ],
+        "added_date": "2026-07-27T04:33:13.343327"
+      },
+      {
+        "episode_number": 2,
+        "title": "Koisuru One Piece 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SgG6JKVEK-o2DFUdgF7kkS8DfdpAfitb/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5873542"
+          }
+        ],
+        "added_date": "2026-07-27T04:33:13.343327"
+      },
+      {
+        "episode_number": 3,
+        "title": "Koisuru One Piece 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Q44T8WLQ2sO0UuCxsewFG3Lyg4V7kHq1/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5873532"
+          }
+        ],
+        "added_date": "2026-07-27T04:33:13.343327"
+      },
+      {
+        "episode_number": 4,
+        "title": "Koisuru One Piece 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1n3SFM6Cm5p2sheh_sadeG3HKPm598nSU/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5873533"
+          }
+        ],
+        "added_date": "2026-07-27T04:33:13.343327"
+      },
+      {
+        "episode_number": 5,
+        "title": "Koisuru One Piece 5. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JLAkcYbmk1bXwXyPCLKkbKMO55La5ReK/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5873534"
+          }
+        ],
+        "added_date": "2026-07-27T04:33:13.343327"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 61293,
@@ -60,120 +147,14 @@
         ]
       }
     ],
-    "episodes": 5
+    "episodes": 5,
+    "episode_list": []
   },
   "anilist": {
     "id": 188668,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Koisuru One Piece 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1cjmgivZjfcGGUmM4pXcPLD8_VuvB16wC/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5873531"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:33:13.343327",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Koisuru One Piece 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SgG6JKVEK-o2DFUdgF7kkS8DfdpAfitb/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5873542"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:33:13.343327",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Koisuru One Piece 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Q44T8WLQ2sO0UuCxsewFG3Lyg4V7kHq1/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5873532"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:33:13.343327",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Koisuru One Piece 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1n3SFM6Cm5p2sheh_sadeG3HKPm598nSU/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5873533"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:33:13.343327",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Koisuru One Piece 5. Bölüm Final",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JLAkcYbmk1bXwXyPCLKkbKMO55La5ReK/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5873534"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:33:13.343327",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 287202,
     "type": "tv",

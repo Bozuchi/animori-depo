@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "İyi kim? Kötü kim? Aralarındaki sınır ne? İyi kalpli birinin yalan konuşmasını ve kötü huylu birinin gerçeği konuşmasını konu alan gerilim animesidir.",
-    "slug": "saibi"
+    "slug": "saibi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 21027,
@@ -37,56 +38,14 @@
     "demographics": [],
     "studios": [],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 100931,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100931-zX8uxjCEfkZ6.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Saibi",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Zq7ZDD6Q-yV8EqteFe79Yum-lb_vlnfH/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018757"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/4015"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fz80ufku1oxs.html"
-        },
-        {
-          "fansub_id": 160,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/919.html"
-        },
-        {
-          "fansub_id": 160,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-b62e22n1ovqn.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T05:30:57.455125",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 211247,
     "type": "movie",

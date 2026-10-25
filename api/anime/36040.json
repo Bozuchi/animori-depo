@@ -4,7 +4,449 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Knights of the Zodiac: Saint Seiya, yeniden doğan Yunan tanrıçası Athena’nın yeminli koruyucuları olan “Knights” denen genç savaşçıların maceralarını konu alıyor. Şövalyeler, seçtikleri burç takımyıldızlarına dayanan güçlü zırhlar giyer ve kendilerine Knights of the Zodiac denir. Şövalyeler, insanlığı yok etmeye çalışan güçlü Olimpos tanrılarına karşı savaşında Athena’ya yardım ederler.",
-    "slug": "knights-of-the-zodiac-saint-seiya"
+    "slug": "knights-of-the-zodiac-saint-seiya",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Knights of the Zodiac: Saint Seiya 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11dwsarqBfTdAXG7jONYf0MUsFuLIBa_n/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5021"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3653447"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1300,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 2,
+        "title": "Knights of the Zodiac: Saint Seiya 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15win3uIzDMAkrSiz-ez6x58fvqkZFEA4/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5022"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3653452"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 19,
+            "end": 125
+          },
+          "ed": {
+            "start": 1301,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 3,
+        "title": "Knights of the Zodiac: Saint Seiya 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dvYHld20d9kG2Bri4vKmuO7Hu5LuYmcl/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5026"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3653927"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 20,
+            "end": 124
+          },
+          "ed": {
+            "start": 1296,
+            "end": 1416
+          }
+        },
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 4,
+        "title": "Knights of the Zodiac: Saint Seiya 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BOJXyueg3g6blQxIMq9ullpfHejJkROd/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5027"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3653929"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 20,
+            "end": 124
+          },
+          "ed": {
+            "start": 1301,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 5,
+        "title": "Knights of the Zodiac: Saint Seiya 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WMoPn_InUpO-zAKrOt8ymdEWy7U6Rx_d/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5031"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3654273"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 20,
+            "end": 125
+          },
+          "ed": {
+            "start": 1302,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 6,
+        "title": "Knights of the Zodiac: Saint Seiya 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1q-47yVzLq4dvOo0DsJ-2h7xDYkkaBWqO/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5032"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3654277"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 20,
+            "end": 125
+          },
+          "ed": {
+            "start": 1302,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 7,
+        "title": "Knights of the Zodiac: Saint Seiya 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XUTBRYfD8Y0uBdHYOMqZn_DI9tCHUqRm/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850360"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7095"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4433132"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3840053"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ccn54q6x99w0.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 20,
+            "end": 125
+          },
+          "ed": {
+            "start": 1302,
+            "end": 1422
+          }
+        },
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 8,
+        "title": "Knights of the Zodiac: Saint Seiya 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10ZdyBtDfTf4bRWQbFZFrfOr1Q2aU4nkz/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850600"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7096"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3840236"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4434470"
+          }
+        ],
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 9,
+        "title": "Knights of the Zodiac: Saint Seiya 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1amagaNNZEbteFgpKY-7wn0Pmej4y58j6/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850601"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7097"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4434474"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3840246"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 40,
+            "end": 126
+          },
+          "ed": {
+            "start": 1302,
+            "end": 1422
+          }
+        },
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 10,
+        "title": "Knights of the Zodiac: Saint Seiya 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10Kn13ByWUNawLE41k7dQtRA9p_m7EUMj/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718806"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7098"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4477396"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3840264"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2p6z3j1xqjrg.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 40,
+            "end": 126
+          },
+          "ed": {
+            "start": 1302,
+            "end": 1426
+          }
+        },
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 11,
+        "title": "Knights of the Zodiac: Saint Seiya 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EBp0fmcJdkqHP79Iv_TG_V3Mq0pCHQd5/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7099"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718807"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3840286"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4477418"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-tq3jbrh5q3zs.html"
+          }
+        ],
+        "added_date": "2026-07-27T04:14:00.210178"
+      },
+      {
+        "episode_number": 12,
+        "title": "Knights of the Zodiac: Saint Seiya 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Dao0gQJKrBEtD8o75pxsqkPQMaEiCnM8/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7100"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718808"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3840313"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4477437"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-almpjshdafyd.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 20,
+            "end": 133
+          },
+          "ed": {
+            "start": 1281,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-27T04:14:00.210178"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36040,
@@ -62,493 +504,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 102427,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102427-3YF0nznHEDr0.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102427-r2oTRWE3rVuv.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11dwsarqBfTdAXG7jONYf0MUsFuLIBa_n/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5021"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3653447"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1300,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15win3uIzDMAkrSiz-ez6x58fvqkZFEA4/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5022"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3653452"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 19,
-          "end": 125
-        },
-        "ed": {
-          "start": 1301,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dvYHld20d9kG2Bri4vKmuO7Hu5LuYmcl/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5026"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3653927"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 20,
-          "end": 124
-        },
-        "ed": {
-          "start": 1296,
-          "end": 1416
-        }
-      },
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BOJXyueg3g6blQxIMq9ullpfHejJkROd/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5027"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3653929"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 20,
-          "end": 124
-        },
-        "ed": {
-          "start": 1301,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WMoPn_InUpO-zAKrOt8ymdEWy7U6Rx_d/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5031"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3654273"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 20,
-          "end": 125
-        },
-        "ed": {
-          "start": 1302,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1q-47yVzLq4dvOo0DsJ-2h7xDYkkaBWqO/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5032"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3654277"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 20,
-          "end": 125
-        },
-        "ed": {
-          "start": 1302,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XUTBRYfD8Y0uBdHYOMqZn_DI9tCHUqRm/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850360"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7095"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4433132"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3840053"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ccn54q6x99w0.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 20,
-          "end": 125
-        },
-        "ed": {
-          "start": 1302,
-          "end": 1422
-        }
-      },
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10ZdyBtDfTf4bRWQbFZFrfOr1Q2aU4nkz/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850600"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7096"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3840236"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4434470"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1amagaNNZEbteFgpKY-7wn0Pmej4y58j6/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850601"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7097"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4434474"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3840246"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 40,
-          "end": 126
-        },
-        "ed": {
-          "start": 1302,
-          "end": 1422
-        }
-      },
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10Kn13ByWUNawLE41k7dQtRA9p_m7EUMj/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718806"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7098"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4477396"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3840264"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2p6z3j1xqjrg.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 40,
-          "end": 126
-        },
-        "ed": {
-          "start": 1302,
-          "end": 1426
-        }
-      },
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EBp0fmcJdkqHP79Iv_TG_V3Mq0pCHQd5/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7099"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718807"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3840286"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4477418"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-tq3jbrh5q3zs.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Knights of the Zodiac: Saint Seiya 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Dao0gQJKrBEtD8o75pxsqkPQMaEiCnM8/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7100"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718808"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3840313"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4477437"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-almpjshdafyd.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 20,
-          "end": 133
-        },
-        "ed": {
-          "start": 1281,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-27T04:14:00.210178",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 90855,
     "type": "tv",

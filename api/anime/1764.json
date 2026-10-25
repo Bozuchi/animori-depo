@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bu OVA Shokuku basketbol takımı ile Takezona basketbol takımı arasında yapılan antreman maçını anlatmaktadır. Takezona takımının yıldızı olan Oda, Sakuragi'yle aynı ortaokuldan mezun olmustur ve Sakuragi'yi reddenen 50. kız olan Yohko'nun sevgilisidir. Oda hırslı ve iyi basketbolcu olmak en büyük hayali olan birisidir. \n\nİlk baslarda Sakuragi'yi basketbol formalarıyla gören Oda Sakuragi'yi küçümser, çünkü Sakuragi'yi ortaokuldan sadece kavgacı bir çocuk olarak biliyordur. İlk başlarda her zamanki gibi kendine güldüren Sakuragi daha sonraları hırsı ve azmi ile bütün taraftarların alkışını alır.",
-    "slug": "slam-dunk-movie"
+    "slug": "slam-dunk-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1764,
@@ -48,61 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1764,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1764-43njOimRHeyO.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1764-8AxfOVdCcMr0.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Slam Dunk Movie 1",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rFi7HbFkMHdlZ3ZrmN1ZGPe_MdPxjbB7/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MIUPjGURIj9fn19tjkGEVl4GRqpZ0svZ/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931909033"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4526958"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-72rk87ua3bbq.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bgm2kivkc6fd.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-763l3b3ugz80.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T11:07:44.174935",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 338379,
     "type": "movie",

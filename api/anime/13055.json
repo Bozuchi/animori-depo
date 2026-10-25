@@ -4,7 +4,68 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Sankarea serisine ait OVA bölümlerdir.",
-    "slug": "sankarea-ova"
+    "slug": "sankarea-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Sankarea OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11CNqHxrkA7ycZb1cWSFRH-8HlmTxuMgN/preview"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-71pvkd8fhxlv.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-32i8a5a9xpsq.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/gxnvdgqu"
+          }
+        ],
+        "added_date": "2026-07-29T06:38:19.435675"
+      },
+      {
+        "episode_number": 2,
+        "title": "Sankarea OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pse-QV3nUzKAG_nnZ0jdWV9rKEWS2RyL/preview"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-rbidukan49sj.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7gvo534fzzgc.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 210.958,
+            "end": 304.086
+          },
+          "ed": {
+            "start": 1330.292,
+            "end": 1421
+          }
+        },
+        "added_date": "2026-07-29T06:38:19.435675"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13055,
@@ -57,81 +118,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 13055,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13055-1LLVjYZXtsaf.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13055-IckRpUES0oDD.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sankarea OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11CNqHxrkA7ycZb1cWSFRH-8HlmTxuMgN/preview"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-71pvkd8fhxlv.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-32i8a5a9xpsq.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/gxnvdgqu"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T06:38:19.435675",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sankarea OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pse-QV3nUzKAG_nnZ0jdWV9rKEWS2RyL/preview"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rbidukan49sj.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7gvo534fzzgc.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 210.958,
-          "end": 304.086
-        },
-        "ed": {
-          "start": 1330.292,
-          "end": 1421
-        }
-      },
-      "added_date": "2026-07-29T06:38:19.435675",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 62742,
     "type": "tv",

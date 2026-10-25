@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Manganın 10. cildi ile birlikte olan OVA.",
-    "slug": "minami-ke-omatase"
+    "slug": "minami-ke-omatase",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 14575,
@@ -53,56 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 14575,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14575-31piZjHw9293.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Minami-ke Omatase",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846927"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4532770"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4073257"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-z8ln3age1jp5.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7g1gdyg4hg6a.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zpqrtintvebc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:10:02.674143",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 56354,
     "type": "tv",

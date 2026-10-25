@@ -4,7 +4,140 @@
     "puan": "7.01",
     "bolum_durumu": "3/3",
     "ozet": "Üç sınıf arkadaşı, \"The World: Dünya\" ya giriş yaparak online bir oyunu beraber oynamaya başlarlar. Bu dünyada, ödül için çıktıkları eski kolezyumda birçok loncanın büyük bir canavarı öldürmeyi deneyip ödül puanı kazanmaya çalıştıklarını görürler. Onları izlerken yanlışlıkla kolezyumun tuzaklarından birini harekete geçirirler. Bu yüzden savaşçılar düşerek yaşam puanı yitirirler. Bu kazada Hermit: Keşiş adında bir çocukla tanışırlar. Peki bu çocuk kimdir? Ve hayatlarını nasıl etkileyecektir?",
-    "slug": "hack-quantum"
+    "slug": "hack-quantum",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": ".hack//Quantum 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qITbXkfHHjNc2TvMT3PCe18JiBVFi4if/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359657005"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1218"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4089154"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4449685"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6vxgpsty59mv.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/bj5bxl2r"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/if6wjxp8"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xvzimcnmyub6.html"
+          }
+        ],
+        "added_date": "2026-07-17T04:53:03.582197"
+      },
+      {
+        "episode_number": 2,
+        "title": ".hack//Quantum 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-0xGImgnfX_STgnxlo2s8C9mrkAu09R8/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1219"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4089156"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4494866"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xvo5xbox"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-h3eiaoqdtbs4.html"
+          }
+        ],
+        "added_date": "2026-07-17T04:53:03.582197"
+      },
+      {
+        "episode_number": 3,
+        "title": ".hack//Quantum 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JLTi0QQhDp5wRhq1gBPuByDLDy0ahS5q/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1220"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4089160"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4494877"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mwri6mt88wh2.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/gwz8s2c7"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gwkeze717z84.html"
+          }
+        ],
+        "added_date": "2026-07-17T04:53:03.582197"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9332,
@@ -61,158 +194,36 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 9332,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9332.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": ".hack//Quantum 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qITbXkfHHjNc2TvMT3PCe18JiBVFi4if/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359657005"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1218"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4089154"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4449685"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-6vxgpsty59mv.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/bj5bxl2r"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/if6wjxp8"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xvzimcnmyub6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-17T04:53:03.582197",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": ".hack//Quantum 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-0xGImgnfX_STgnxlo2s8C9mrkAu09R8/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1219"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4089156"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4494866"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/xvo5xbox"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-h3eiaoqdtbs4.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-17T04:53:03.582197",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": ".hack//Quantum 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JLTi0QQhDp5wRhq1gBPuByDLDy0ahS5q/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1220"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4089160"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4494877"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mwri6mt88wh2.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/gwz8s2c7"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gwkeze717z84.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-17T04:53:03.582197",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 8864,
     "type": "tv",

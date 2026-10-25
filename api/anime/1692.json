@@ -4,7 +4,73 @@
     "puan": "7.31",
     "bolum_durumu": "2/2",
     "ozet": "Okul gezisindeyken arkadaşı tarafından, hikayenin kahramanı olan, Kaizu Takumi'ye sorulan bu soruyla, Kaizu, karşı cinse karşı olan duygularını fark etmeye başlar.\n\n\n\nTabii ki, etrafında da bir sürü kız vardır. Mesela, çocukluk arkadaşı Hatano Konami, sınıf arkadaşı, Ebizuka Shino, okul idolü olan Shimazu Kakana, Vs.\n\n\n\nAncak ''Hoşladığın biri var mı?'' sorusu sorulasaya kadar bunun farkında değildir.\n\n\n\nTabii ki bu durum en yakın arkadaşı olan Osamu'nun (soruyu soran oğlan) kendine kız arkadaş bulmaya çalışmasına kadar sürer.\n\n\n\nOsamu'nun kız arkadaş bulma çabası Kaizu'da da lisedeki son yaz aylarında bir kız arkadaş bulma istetiği uyandırır.",
-    "slug": "summer"
+    "slug": "summer",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "_Summer 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/433"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682365819"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3025325"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1228087"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4ce7v5p8"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9riqydzgnb14.html"
+          }
+        ],
+        "added_date": "2026-07-17T04:52:44.192639"
+      },
+      {
+        "episode_number": 2,
+        "title": "_Summer 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682365820"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/434"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3025326"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/riy6ksay"
+          }
+        ],
+        "added_date": "2026-07-17T04:52:44.192639"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1692,
@@ -46,87 +112,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1692,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1692.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "_Summer 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/433"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682365819"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3025325"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1228087"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4ce7v5p8"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9riqydzgnb14.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-17T04:52:44.192639",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "_Summer 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682365820"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/434"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3025326"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/riy6ksay"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-17T04:52:44.192639",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 78430,
     "type": "tv",

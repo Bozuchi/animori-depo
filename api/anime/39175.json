@@ -4,7 +4,8 @@
     "puan": "9.25",
     "bolum_durumu": "1/1",
     "ozet": "Bu \"oğlan kızla tanışır\" hikayesi; kelimelerin ve müziğin, iletişim kurmakta zorluk çeken haiku sever genç Cherry ve diş tellerinden utanarak maskenin arkasına saklanan Smile'ın hayatlarını nasıl kesiştirdiğine odaklanıyor. Şans eseri bir alışveriş merkezinde karşılaşan gençler; kelimeler ve müzikten ilham alarak, sosyal medya aracılığıyla ilişkilerini derinleştirmeye başlarlar.",
-    "slug": "cider-no-you-ni-kotoba-ga-wakiagaru"
+    "slug": "cider-no-you-ni-kotoba-ga-wakiagaru",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39175,
@@ -47,46 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 107625,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107625-hwUyT33A6UK9.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107625-2UIAI4TRwXz0.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Cider no You ni Kotoba ga Wakiagaru Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sMTN2gK2BabCRpFEWep21g-C1TxT5tNx/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931909866"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4365036"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/jhfqqkzh"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:59:08.602766",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 579741,
     "type": "movie",

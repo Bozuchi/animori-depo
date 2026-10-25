@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Koukaku Kidoutai: SAC_2045'in yeni sahnelerin bulunduğu uzu metrajlı derleme filmidir.",
-    "slug": "koukaku-kidoutai-sac-2045-jizoku-kanou-sensou"
+    "slug": "koukaku-kidoutai-sac-2045-jizoku-kanou-sensou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 49402,
@@ -59,41 +60,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 138899,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138899-mtjPqyGw7Yxf.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rrx96Hgi3jjTxIw1g45BVduh5Mz6r7mk/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667691"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vxr97dg7w33t.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T05:11:16.954601",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 965244,
     "type": "movie",

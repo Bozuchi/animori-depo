@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Fate/Grand Order",
-    "slug": "fate-grand-order"
+    "slug": "fate-grand-order",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 36064,
@@ -60,13 +61,13 @@
           64802
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 101184,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101184-DAX3YdU5vCeA.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101184-WXr7zfS6aqNY.jpg"
   },
-  "synopsis_tr": "Fate/Grand Order mobil RPG'si için çeşitli reklamlar ve işbirlikleri. Bu kısa animasyonlar Type-Moon'un resmi YouTube kanalında yayınlanır ve oyunun kendisinin reklamını yapar veya yeni bir oyun etkinliğinin tanıtımını yapar (örn. 2017 yazında Dead Heat Yaz Yarışı!). Animasyon bu reklamlara özeldir ve mobil oyunda veya Fate/Grand Order'ın TV özel programında mevcut değildir.",
-  "episodes": []
+  "synopsis_tr": "Fate/Grand Order mobil RPG'si için çeşitli reklamlar ve işbirlikleri. Bu kısa animasyonlar Type-Moon'un resmi YouTube kanalında yayınlanır ve oyunun kendisinin reklamını yapar veya yeni bir oyun etkinliğinin tanıtımını yapar (örn. 2017 yazında Dead Heat Yaz Yarışı!). Animasyon bu reklamlara özeldir ve mobil oyunda veya Fate/Grand Order'ın TV özel programında mevcut değildir."
 }

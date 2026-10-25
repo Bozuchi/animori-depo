@@ -4,7 +4,150 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Tsubomi Tachibama, annesinin hamileliği ile birlikte yaşadığı ona tanıdık gelmeyen duyguları ve hassas konularla uğraşan beşinci sınıf öğrencisidir.",
-    "slug": "naisho-no-tsubomi"
+    "slug": "naisho-no-tsubomi",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Naisho no Tsubomi 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 142,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16rsrPStcfcfT-WgAlYUP2BYQivhmX8PC/preview"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/emreboyacioglu38/video/embed/_myvideo/260"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271187899"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359662302"
+          },
+          {
+            "fansub_id": 142,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3124467"
+          },
+          {
+            "fansub_id": 142,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4602937"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gb71j7uiyseh.html"
+          },
+          {
+            "fansub_id": 142,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qni52tnucz4d.html"
+          }
+        ],
+        "added_date": "2026-07-27T14:09:08.832967"
+      },
+      {
+        "episode_number": 2,
+        "title": "Naisho no Tsubomi 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 142,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Ex81pf9UCYrCEysrMhoQuwXeCPApZb6X/preview"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666270"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271187874"
+          },
+          {
+            "fansub_id": 142,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4161762"
+          },
+          {
+            "fansub_id": 142,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4161764"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-31lxqsgp8fs7.html"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vb14g60cmde6.html"
+          },
+          {
+            "fansub_id": 142,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qamedh459dbx.html"
+          }
+        ],
+        "added_date": "2026-07-27T14:09:08.832967"
+      },
+      {
+        "episode_number": 3,
+        "title": "Naisho no Tsubomi 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 142,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1vcTtqGpJ1Y4-lW45K4NQGkazBdSngl86/preview"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666271"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271188780"
+          },
+          {
+            "fansub_id": 142,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4176882"
+          },
+          {
+            "fansub_id": 142,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4176929"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-08e9rwbiarc9.html"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-75mt7mcshmzl.html"
+          },
+          {
+            "fansub_id": 142,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-eyos3c18vbv1.html"
+          }
+        ],
+        "added_date": "2026-07-27T14:09:08.832967"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3641,
@@ -47,168 +190,36 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 3641,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3641.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Naisho no Tsubomi 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 142,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16rsrPStcfcfT-WgAlYUP2BYQivhmX8PC/preview"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/emreboyacioglu38/video/embed/_myvideo/260"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271187899"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359662302"
-        },
-        {
-          "fansub_id": 142,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3124467"
-        },
-        {
-          "fansub_id": 142,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4602937"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gb71j7uiyseh.html"
-        },
-        {
-          "fansub_id": 142,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qni52tnucz4d.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T14:09:08.832967",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Naisho no Tsubomi 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 142,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Ex81pf9UCYrCEysrMhoQuwXeCPApZb6X/preview"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666270"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271187874"
-        },
-        {
-          "fansub_id": 142,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4161762"
-        },
-        {
-          "fansub_id": 142,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4161764"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-31lxqsgp8fs7.html"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-vb14g60cmde6.html"
-        },
-        {
-          "fansub_id": 142,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qamedh459dbx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T14:09:08.832967",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Naisho no Tsubomi 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 142,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vcTtqGpJ1Y4-lW45K4NQGkazBdSngl86/preview"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666271"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271188780"
-        },
-        {
-          "fansub_id": 142,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4176882"
-        },
-        {
-          "fansub_id": 142,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4176929"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-08e9rwbiarc9.html"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-75mt7mcshmzl.html"
-        },
-        {
-          "fansub_id": 142,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-eyos3c18vbv1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T14:09:08.832967",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 216127,
     "type": "tv",

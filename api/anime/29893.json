@@ -4,7 +4,46 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Aria serisinin Ova bölümüdür.",
-    "slug": "aria-the-avvenire"
+    "slug": "aria-the-avvenire",
+    "episodes": [
+      {
+        "episode_number": 3,
+        "title": "Aria The Avvenire OVA 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1l2-kkoVlGPFYtMBofjQ5WscWegMFKlFw/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660946"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/bcykn/_myvideo/7.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4090853"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5c1cnztxs2un.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-52ub23berxcb.html"
+          }
+        ],
+        "added_date": "2026-07-23T02:38:04.096950"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 29893,
@@ -66,138 +105,22 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21043,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21043-tFLGFDhVvA4Y.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21043-nkFhFISXKXHR.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Aria The Avvenire OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_fgcTT_M86mQ-yondl9-gfvoNIhPW23S/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzlesyo/_myvideo/64.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4529348"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4090850"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gckoq0kcmw8i.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-n4g8zqkpbnmb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:38:04.096950",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Aria The Avvenire OVA 2",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1enZRlo9FcDPa0WgVaQNoqyYnCAjb5V3h/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/eren.puzzle/_myvideo/59.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660945"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4090852"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2vjxsgh00mla.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zhpcfidhkeal.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:38:04.096950",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Aria The Avvenire OVA 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1l2-kkoVlGPFYtMBofjQ5WscWegMFKlFw/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660946"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/bcykn/_myvideo/7.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4090853"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5c1cnztxs2un.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-52ub23berxcb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:38:04.096950",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 53787,
     "type": "tv",

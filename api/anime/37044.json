@@ -4,7 +4,51 @@
     "puan": "0.00",
     "bolum_durumu": "1/12",
     "ozet": "Guomin Laogong Dai Huijia animesinin ikinci sezonudur.",
-    "slug": "guomin-laogong-dai-huijia-2nd-season"
+    "slug": "guomin-laogong-dai-huijia-2nd-season",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Guomin Laogong Dai Huijia 2nd season 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 157,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15xGWug-litgE5O-ei7b_qMEsSigtzuTh/preview"
+          },
+          {
+            "fansub_id": 157,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933014306"
+          },
+          {
+            "fansub_id": 157,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3616845"
+          },
+          {
+            "fansub_id": 157,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-afa0zth4guul.html"
+          },
+          {
+            "fansub_id": 157,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-rx94u0qji33c.html"
+          },
+          {
+            "fansub_id": 157,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/eqfpxsre"
+          },
+          {
+            "fansub_id": 157,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nimsl821mvus.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:07:02.579328"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37044,
@@ -58,59 +102,12 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 103022,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103022-1KgwJV0nHiCz.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Guomin Laogong Dai Huijia 2nd season 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 157,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15xGWug-litgE5O-ei7b_qMEsSigtzuTh/preview"
-        },
-        {
-          "fansub_id": 157,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933014306"
-        },
-        {
-          "fansub_id": 157,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3616845"
-        },
-        {
-          "fansub_id": 157,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-afa0zth4guul.html"
-        },
-        {
-          "fansub_id": 157,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rx94u0qji33c.html"
-        },
-        {
-          "fansub_id": 157,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/eqfpxsre"
-        },
-        {
-          "fansub_id": 157,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nimsl821mvus.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:07:02.579328",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

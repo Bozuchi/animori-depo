@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin onuncu filmidir.",
-    "slug": "pokemon-movie-10-dialga-vs-palkia-vs-darkrai"
+    "slug": "pokemon-movie-10-dialga-vs-palkia-vs-darkrai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2847,
@@ -55,25 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2847,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2847-ECBicyDxMRYa.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2847-BBQFXVTiy6H7.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon Movie 10 - The Rise of Darkrai",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:26:45.842398",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 60572,
     "type": "tv",

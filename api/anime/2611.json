@@ -4,7 +4,78 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Küçük bir kız çocuğu olan Mimiko'nun büyükannesi kısa bir yolculuğa çıkmak zorunda kalır. Bu da, Mimiko'nun evde tek başına kalacağı ve kendi başının çaresine bakmak zorunda olduğu anlamına gelmektedir. Neyseki Panny adında bebek bir panda ile baba pandanın yolları, Mimiko ile kesişir. Baba panda, Mimiko'ya, küçük bir çocuğun anne ve babası olmadan büyümesinin doğru bir şey olmadığını söyler ve Mimiko'ya babalık yapmaya başlar. Bu arada bebek panda Panny'nin de annesi yoktur ve Mimiko'da ona annelik yapma görevini üstlenecektir. \n\nPanda Kopanda; Hayao Miyazaki'nin 1988 yılında hikayesini kendi yazıp yönettiği My Neighbor Totoro'nun prototipi olarak görülür.",
-    "slug": "panda-kopanda"
+    "slug": "panda-kopanda",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Panda Kopanda Movie 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tk7iQPNsZS-UmN8YriYBbklTBwPtrgwW/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4915"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3642782"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-njcxk1ltdzds.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:13:39.412353"
+      },
+      {
+        "episode_number": 2,
+        "title": "Panda Kopanda Movie 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-m_L_dyRKRqYkoOmPF2vlKqm-PDzqYIp/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1C-fJGpZ0mKPM7Lj8yuoZX-SfVqZg57uW/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666069"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4916"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4632276"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3642786"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-u6ycqp58ko9e.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:13:39.412353"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2611,
@@ -40,92 +111,29 @@
       65
     ],
     "relations": [],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 2611,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2611-TOgt2E3Natug.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2611-ZF5KS3QolIse.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Panda Kopanda Movie 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tk7iQPNsZS-UmN8YriYBbklTBwPtrgwW/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4915"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3642782"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-njcxk1ltdzds.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:13:39.412353",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Panda Kopanda Movie 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-m_L_dyRKRqYkoOmPF2vlKqm-PDzqYIp/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1C-fJGpZ0mKPM7Lj8yuoZX-SfVqZg57uW/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666069"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4916"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4632276"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3642786"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-u6ycqp58ko9e.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:13:39.412353",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 21036,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Sora no Otoshimono serisine ait OVA bölümdür.",
-    "slug": "sora-no-otoshimono-project-pink"
+    "slug": "sora-no-otoshimono-project-pink",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 7858,
@@ -62,46 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 7858,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7858-4uhiYXL9ZlOq.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7858-C9CsqYxmzhvc.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sora no Otoshimono OVA: Project Pink",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uRan4yDPHcTyc_OLrrzhoW71DoovPUcw/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/list/schneizel/video/embed/_myvideo/53"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015399"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3431572"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T11:27:59.818809",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 37437,
     "type": "tv",

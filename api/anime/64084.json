@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Sekai Saikyou no Majo, Hajimemashita",
-    "slug": "sekai-saikyou-no-majo-hajimemashita"
+    "slug": "sekai-saikyou-no-majo-hajimemashita",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 64084,
@@ -44,6 +45,22 @@
           180195
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "I Tried Using the Internet!",
+        "aired": "Oct 7, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "I Tried Becoming an Adventurer!",
+        "aired": "Oct 14, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -58,27 +75,5 @@
     "episode_offset": 0,
     "name": "The World's Strongest Witch"
   },
-  "synopsis_tr": "Lorna tamamen işe yaramaz bir yetenek sergilediğinde ailesini utandırır ve evden atılır. Parası ya da yiyeceği olmadığı için dibe vurmak üzere. Ama sonra, sözde değersiz SSS Sıralaması becerisi \"İnternet\"i nasıl kullanacağını buluyor. Bu hile düzeyindeki yetenek, ona sınırsız miktarda değerli eşya toplama ve nadir ekipmanları kolayca edinme becerisini verir. Tanrısal bilgiyle donanmış olan Lorna, istediği her şeyi yapmakta özgür! Keşke \"lmfao\"nun ne anlama geldiğini anlayabilseydi...(Kaynak: Yen Press)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "I Tried Using the Internet!",
-      "episode_number": 1,
-      "aired": "Oct 7, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:40:34.686015"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "I Tried Becoming an Adventurer!",
-      "episode_number": 2,
-      "aired": "Oct 14, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-17T07:46:11.366521"
-    }
-  ]
+  "synopsis_tr": "Lorna tamamen işe yaramaz bir yetenek sergilediğinde ailesini utandırır ve evden atılır. Parası ya da yiyeceği olmadığı için dibe vurmak üzere. Ama sonra, sözde değersiz SSS Sıralaması becerisi \"İnternet\"i nasıl kullanacağını buluyor. Bu hile düzeyindeki yetenek, ona sınırsız miktarda değerli eşya toplama ve nadir ekipmanları kolayca edinme becerisini verir. Tanrısal bilgiyle donanmış olan Lorna, istediği her şeyi yapmakta özgür! Keşke \"lmfao\"nun ne anlama geldiğini anlayabilseydi...(Kaynak: Yen Press)"
 }

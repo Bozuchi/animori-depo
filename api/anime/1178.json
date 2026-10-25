@@ -4,7 +4,90 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "İnsanüstü güçlere ve silahlara sahip uzaylı yaratık Orgun; kendi ırkından kaçarak, kökenlerine dair cevaplar bulmak üzere Dünya’ya gelir. Tomoru adında bir genç ile işbirliği içerisinde Dünya’yı; tek amaçları diğer uygarlıkları yok etmek olan Evoluderlara karşı korumak için mücadeleye başlarlar.",
-    "slug": "detonator-orgun"
+    "slug": "detonator-orgun",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Detonator Orgun 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pS_YhQqo4FJLK0_Q28n2W-tJ3dR4PWzG/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017612"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1772949"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-h2w7sptfgdgz.html"
+          }
+        ],
+        "added_date": "2026-07-24T20:58:06.570087"
+      },
+      {
+        "episode_number": 2,
+        "title": "Detonator Orgun 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1n9y1ZCwDQ5x52V8iHgGnzut-51nGALHj/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017613"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1772952"
+          }
+        ],
+        "added_date": "2026-07-24T20:58:06.570087"
+      },
+      {
+        "episode_number": 3,
+        "title": "Detonator Orgun 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1w0iXB5pVid0QZZC9YnxzxRHJLEf2RnUc/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekai2/576/599.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017614"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1772954"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-bc7ns5tlp881.html"
+          }
+        ],
+        "added_date": "2026-07-24T20:58:06.570087"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1178,
@@ -39,108 +122,14 @@
       72
     ],
     "relations": [],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 1178,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1178-N9OZDipcLEnd.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1178-xDFrCRoakv83.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detonator Orgun 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pS_YhQqo4FJLK0_Q28n2W-tJ3dR4PWzG/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017612"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1772949"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-h2w7sptfgdgz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:58:06.570087",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Detonator Orgun 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1n9y1ZCwDQ5x52V8iHgGnzut-51nGALHj/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017613"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1772952"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:58:06.570087",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Detonator Orgun 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1w0iXB5pVid0QZZC9YnxzxRHJLEf2RnUc/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekai2/576/599.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017614"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1772954"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bc7ns5tlp881.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:58:06.570087",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 80239,
     "type": "tv",

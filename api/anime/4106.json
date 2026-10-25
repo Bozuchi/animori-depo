@@ -4,7 +4,8 @@
     "puan": "7.56",
     "bolum_durumu": "1/1",
     "ozet": "Vash ya da halk arasındaki lakabı ile Vash the Stampede, kafasına 60.000.000.000$$ ödül konmuş bir kanun kaçağıdır. Adım attığı her yer, peşindeki ödül avcıları tarafından harabeye çevirilmektedir. İşin garip olan tarafı Vash'ın neden olduğu bu olayların hiçbirisinde tek bir insanın bile ölmemesidir. Ancak, Vash nedeniyle oluşan maddi zararlar inanılmaz boyutlara ulaşmıştır ve sigorta şirketlerinin olaya müdahale kararı gecikmemiştir. Bu vesileyle, Meryl ve Milli, Vash'ı daha fazla zarara yol açmaması için tutuklamak üzere görevlendirilmiştir. Meryl ve Milli, Vash'ı bulduklarında ise tahmin ettiklerinden çok farklı bir insanla karşılaşırlar. Karşılarındaki, şiddet ile alakası olmayan, pasifist bir adamdır.",
-    "slug": "trigun-badlands-rumble"
+    "slug": "trigun-badlands-rumble",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4106,
@@ -49,36 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4106,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4106-nYrMeODefMQL.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4106-CXXSDuA4PgAu.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Trigun : Badlands Rumble",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 114,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/mirusubs/video/embed/_myvideo/1624"
-        },
-        {
-          "fansub_id": 114,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1j2vlshr"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:22:38.196760",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 26453,
     "type": "tv",

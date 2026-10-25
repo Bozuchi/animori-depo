@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "4 film olarak planlanan Tamayura: Sotsugyou Shashin filmlerinin üçüncüsüdür.",
-    "slug": "tamayura-sotsugyou-shashin-part-3-akogare"
+    "slug": "tamayura-sotsugyou-shashin-part-3-akogare",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 29830,
@@ -52,44 +53,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21324,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21324-VvmFeOXLtRmg.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21324-aJ2iuzAKmsWU.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Tamayura: Sotsugyou Shashin Part 3. - Akogare",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1N69FCgGoz6eNLGHlh_BrV2Fiw1iKW55w/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/384"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3694378"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-03dz5vi0m4ur.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:05:18.825927",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

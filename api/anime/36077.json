@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/7",
     "ozet": "Flim TV animesinden farklı bir hikayeyi konu alacaktır.",
-    "slug": "macross-movie-gekijou-no-walkure"
+    "slug": "macross-movie-gekijou-no-walkure",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 36077,
@@ -60,51 +61,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101126,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101126-EkTBTjUhjsfH.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Macross Δ Movie: Gekijou no Walküre",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 39,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1a1CFi_zMGfd7oqQsY7KGgUGF6UBLd1uf/preview"
-        },
-        {
-          "fansub_id": 39,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-KgPKPhGzDt-NABmUD-5AeQqg8uZiTKU/preview"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140717822"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1030"
-        },
-        {
-          "fansub_id": 39,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-tvbokn0p7kpm.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:12:48.978863",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 66111,
     "type": "tv",

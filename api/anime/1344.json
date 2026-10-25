@@ -4,7 +4,92 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Özel dedektif Hazama Itsuru, Profesör Tani tarafından bir cyborg parça hırsızlığını araştırması için tutulur ve sonunda onu orijinal 8 Man'in aşkı olan Sachiko Yokogawa ile tanışmaya yönlendirilir. Biotecho Corp. için çalışarak yeni hayatını sürdüren Sachiko, Hazama'nın bilinmeyen bir cyborg tarafından ölümcül bir şekilde yaralanmasından sonra ortaya çıkan yeni bir 8 Man ile ilişki içinde bulur. Siber bağımlıların şehirde kaos yarattığı şiddetli bir kentsel arka planın orasında, bu diğer 8Man, suçlularla daha agresif bir şekilde savaşacak.",
-    "slug": "eightman-after"
+    "slug": "eightman-after",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Eightman After 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1X9zX8jikFGf0_Dz8b0oxfnNG5Qw-X3qr/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5045043"
+          }
+        ],
+        "added_date": "2026-07-24T23:57:24.394675"
+      },
+      {
+        "episode_number": 2,
+        "title": "Eightman After 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1c3TmGFrlu7J5Q3XZas4g31tZ3aWVHEGL/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5079079"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/h1bqi8ls7ub1"
+          }
+        ],
+        "added_date": "2026-07-24T23:57:24.394675"
+      },
+      {
+        "episode_number": 3,
+        "title": "Eightman After 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1nMmSmppIE6mCL1G2lHkpiY1l9kG12xt_/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5094152"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/mkenjlzj021e"
+          }
+        ],
+        "added_date": "2026-07-24T23:57:24.394675"
+      },
+      {
+        "episode_number": 4,
+        "title": "Eightman After 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5201249"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/1o914rr97qtk"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.co/embed-u8idmzhyzqrl.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:57:24.394675"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1344,
@@ -52,114 +137,43 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1344,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1344-YvBdtYorP6M3.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1344-IyomWaPtcmbM.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Eightman After 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1X9zX8jikFGf0_Dz8b0oxfnNG5Qw-X3qr/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5045043"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:57:24.394675",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Eightman After 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1c3TmGFrlu7J5Q3XZas4g31tZ3aWVHEGL/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5079079"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/h1bqi8ls7ub1"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:57:24.394675",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Eightman After 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nMmSmppIE6mCL1G2lHkpiY1l9kG12xt_/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5094152"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/mkenjlzj021e"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:57:24.394675",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Eightman After 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5201249"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/1o914rr97qtk"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.co/embed-u8idmzhyzqrl.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:57:24.394675",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 67104,
     "type": "tv",

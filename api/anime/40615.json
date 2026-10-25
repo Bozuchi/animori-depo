@@ -4,7 +4,8 @@
     "puan": "9.19",
     "bolum_durumu": "1/1",
     "ozet": "İki delikanlı, Okinawa'nın kıyılarındaki bir adadanın sahilinde tanışırlar. Hashimoto Shun yazar olmak isteyen eşcinsel bir adamdır. Lise öğrencisi Chibana Mio'ya ilgi duymaktadır ve onunla flörtleşmeye başlar. İkili günden güne yakınlaşır ama Mio adadan ayrılarak bir yetimhaneye gider. Üç yıl sora Mio adaya döner ve Shun'a şu sözleri sarf eder \"Üç yıl boyunca çok düşündüm. Sen erkek olmana rağmen senden hoşlanıyorum.\" Ancak Mio ile sevgili olan Shun, bir sonraki adımı atmaya çekinmektedir.",
-    "slug": "umibe-no-etranger"
+    "slug": "umibe-no-etranger",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40615,
@@ -43,36 +44,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 112788,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112788-stKeBgPcY7l2.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112788-yzq8eEwO6wan.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Umibe no Étranger Film",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461599218"
-        },
-        {
-          "fansub_id": 29,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7395618278493651112"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:27:17.268782",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 642121,
     "type": "movie",

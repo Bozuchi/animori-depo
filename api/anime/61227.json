@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Girls & Panzer: Motto Love Love Sakusen desu!",
-    "slug": "girls-panzer-motto-love-love-sakusen-desu"
+    "slug": "girls-panzer-motto-love-love-sakusen-desu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 61227,
@@ -57,7 +58,8 @@
           14131
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 188034,
@@ -71,6 +73,5 @@
     "episode_offset": 0,
     "name": "Girls & Panzer: Motto Love Love Sakusen desu!"
   },
-  "synopsis_tr": "Girls & Panzer: Motto Love Love Sakusen desu!, sensha-dou'ya (tankçılık hayatı) adanmış tutkulu öğrencilerin görünmeyen günlük yaşamlarına derinlemesine bir dalış yapıyor. Ooarai'li kızlardan rakiplerine ve müttefiklerine kadar bu dizi, onların arkadaşlıklarını, okul etkileşimlerini ve savaş alanının ötesindeki beklenmedik anları, bol mizah ve içtenlikle keşfediyor!(Kaynak: MAL Haberleri)",
-  "episodes": []
+  "synopsis_tr": "Girls & Panzer: Motto Love Love Sakusen desu!, sensha-dou'ya (tankçılık hayatı) adanmış tutkulu öğrencilerin görünmeyen günlük yaşamlarına derinlemesine bir dalış yapıyor. Ooarai'li kızlardan rakiplerine ve müttefiklerine kadar bu dizi, onların arkadaşlıklarını, okul etkileşimlerini ve savaş alanının ötesindeki beklenmedik anları, bol mizah ve içtenlikle keşfediyor!(Kaynak: MAL Haberleri)"
 }

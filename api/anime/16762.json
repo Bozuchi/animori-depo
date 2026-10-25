@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Mirai Nikki animesinin OVA bölümüdür.",
-    "slug": "mirai-nikki-redial"
+    "slug": "mirai-nikki-redial",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 16762,
@@ -54,46 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 16762,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16762-OSYknXvwmKxI.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16762.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mirai Nikki OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eGsC1dnzU6rVntMqG3gZzdkRjDAq9Uz8/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015696"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1150604"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rlo6zpslzlzn.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:15:12.420075",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 46671,
     "type": "tv",

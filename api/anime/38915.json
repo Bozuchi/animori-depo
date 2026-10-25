@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Okul gezisi sırasında bir uçak kazası yaşanır, Oribe Mutsumi ve sınıf arkadaşları ilk bakışta terk edilmiş bir adada mahsur kalmış görünüyorlardır. Mutsumi, diğer kurtulanları bulur ve vahşi doğa bilgisini kullanarak onlara yardımcı olur. Üç gün içinde kurtarma ekiplerinin geleceğini düşünüyordur ki bu fazlasıyla uzun bir süredir. Ancak, adanın devasa katil böceklere ev sahipliği gerçeğini hesaba katmamıştır. Mutsumi'nin kelebekler, eşek arıları ve daha fazlası hakkındaki bilgisi, sınıf arkadaşlarının hayatta kalmalarına yardım edecek tek şey olabilir!",
-    "slug": "kyochuu-rettou"
+    "slug": "kyochuu-rettou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 38915,
@@ -53,41 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 106750,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106750-MowDF4jsTpnZ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106750-R3njaL8buS1F.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kyochuu Rettou OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uH45Sm8B8nz3oceaWFGynb4FyyHZcX39/preview"
-        },
-        {
-          "fansub_id": 305,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iOM88Pqj6ltAKnXEW012jztRHxhfq3Rj/preview"
-        },
-        {
-          "fansub_id": 305,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bq5tht74xonl.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T07:17:12.147225",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 576617,
     "type": "movie",

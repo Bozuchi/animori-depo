@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Harada Kusuko, sınıfın playboyu Mishima Takeshi'ye gizliden gizliye aşık olan liseli bir kızdır. En son kız arkadaşından ayrıldıktan sonra, Mishima, Kusuko'dan Kyoto'ya yapılacak okul gezisinde onunla çıkmasını ister. Kusuko'nun mutluluktan ayakları yerden kesilmiştir, ama işin aslı, Mishima hala Shouko, ortaokul öğretmenine aşıktır. Aradaki yaş farkına rağmen (ilişkinin uygunsuzluğu da dahil olmak üzere), Mishima hala evliliği bozulmakta olan, Shouko ile görüşmektedir. Arkadaşı ve sadık yancısı, Kotaro, açık bir şekilde bu ilişkiyi doğru bulmadığını söylemektedir. Duygusal gerginlik arttıkça, Mishima okulda diğer erkeklerle kavgaya tutuşur, ve sonuç olarak okuldan atılmıştır. Kendini tamamen bir pislik gibi hissederken, Mishima Kusuko'dan ayrılır ve onun hayatından çıkar. Gerçek aşk yolunu bulacak mıdır?",
-    "slug": "pops"
+    "slug": "pops",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2093,
@@ -55,61 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2093,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2093.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pops",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WGnmy36ouk2LGdLGRqu0w1qidkH86GrZ/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658804"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/6412852675095824105"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4455264"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-26mnkry0lpio.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/rr75nwd1"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hjm59g63"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:36:16.258071",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 555689,
     "type": "movie",

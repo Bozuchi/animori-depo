@@ -4,7 +4,76 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Özel bölüm",
-    "slug": "wonder-egg-priority-special"
+    "slug": "wonder-egg-priority-special",
+    "episodes": [
+      {
+        "episode_number": 13,
+        "title": "Wonder Egg Priority 13. Bölüm (Özel Bölüm)",
+        "videos": [
+          {
+            "fansub_id": 31,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5081244996078667148"
+          },
+          {
+            "fansub_id": 31,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5081244996078666232"
+          },
+          {
+            "fansub_id": 31,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4989757"
+          },
+          {
+            "fansub_id": 31,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/nyzsmjt8q6wj"
+          },
+          {
+            "fansub_id": 31,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/y7d0t862"
+          },
+          {
+            "fansub_id": 31,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/x1z4rni9"
+          },
+          {
+            "fansub_id": 31,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rhcxhcl7xxnw.html"
+          },
+          {
+            "fansub_id": 87,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ruAWfRWcI2AuF8xKhA8MMxL5_E7pjoT0/preview"
+          },
+          {
+            "fansub_id": 87,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1x_Ykf7n2U9i1V-NG_iG7EqdLVPqj5twR/preview"
+          },
+          {
+            "fansub_id": 87,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4347214"
+          },
+          {
+            "fansub_id": 87,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/dns09918"
+          },
+          {
+            "fansub_id": 87,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-29pl7i405ipt.html"
+          }
+        ],
+        "added_date": "2026-07-30T16:29:23.271053"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 48614,
@@ -47,84 +116,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 131773,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131773-sDCTYEVSwL8T.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131773-pgtzQtbqU2nQ.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Wonder Egg Priority 13. Bölüm (Özel Bölüm)",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 31,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5081244996078667148"
-        },
-        {
-          "fansub_id": 31,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5081244996078666232"
-        },
-        {
-          "fansub_id": 31,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4989757"
-        },
-        {
-          "fansub_id": 31,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/nyzsmjt8q6wj"
-        },
-        {
-          "fansub_id": 31,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/y7d0t862"
-        },
-        {
-          "fansub_id": 31,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/x1z4rni9"
-        },
-        {
-          "fansub_id": 31,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rhcxhcl7xxnw.html"
-        },
-        {
-          "fansub_id": 87,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ruAWfRWcI2AuF8xKhA8MMxL5_E7pjoT0/preview"
-        },
-        {
-          "fansub_id": 87,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1x_Ykf7n2U9i1V-NG_iG7EqdLVPqj5twR/preview"
-        },
-        {
-          "fansub_id": 87,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4347214"
-        },
-        {
-          "fansub_id": 87,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/dns09918"
-        },
-        {
-          "fansub_id": 87,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-29pl7i405ipt.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T16:29:23.271053",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

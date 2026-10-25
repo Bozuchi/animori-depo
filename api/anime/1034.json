@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "\"Kraliyet Uzay Gücü\", bir çok işgüzar politikacı tarafından tam bir para israfı olarak halka lanse edilmektedir. Shirotsugh Lhadat, Kraliyet Uzay Gücü'nde eğitim alan bir astonot adayıdır. Bir astronot arkadaşının ölümünden sonra, hepten bu işten soğumuştur. Ama cana yakın ve genç bir bayanla karşılaştıktan sonra uzaya gidecek ilk insan olmak için aday olur. Suikast girişimleri ve komşu ülkeden yükselen savaş çığlıklarına rağmen, ekip destansı bu olayı gerçekleştirmeye kararlı olduklarını gösterirler.",
-    "slug": "ouritsu-uchuugun-honneamise-no-tsubasa"
+    "slug": "ouritsu-uchuugun-honneamise-no-tsubasa",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1034,
@@ -49,61 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1034,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1034-YlFs9a9ENOPR.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1034-MaTXyGHuFvbu.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Oritsu Uchuugun - Honneamise no Tsubasa",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18oB3o5aMbO3qoQNgyiPVUuwB-Ab8hhsI/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359654419"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4501649"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pjj7d2bo"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/iee17a4a"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-n7nk9gvdal8c.html"
-        },
-        {
-          "fansub_id": 62,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1srG43bQUId6fm_U7zYK376nBhtVu1HWe/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:44:09.416680",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 20043,
     "type": "movie",

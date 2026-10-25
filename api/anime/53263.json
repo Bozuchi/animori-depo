@@ -4,7 +4,36 @@
     "puan": "0.00",
     "bolum_durumu": "1/12",
     "ozet": "Bu beyaz yakalı işçi, zamansız ölümünün ardından hayatında bir şans daha yakaladı! Büyülü ve yeni bir diyarda tekrar dünyaya geldiğinde Luciel, sakin bir yaşam sürme umuduyla şifacı olmuştu. Ancak hemen sonra, bir şifacı olmanın tahmin ettiğinden daha zorlu olduğunu öğrendi. Gelecekteki katı ve sıkı eğitimiyle birlikte hayatında huzurdan başka her şey olacaktı.",
-    "slug": "seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi"
+    "slug": "seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/lz23mn3060pi"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5dao45idoey6.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 78.61,
+            "end": 168.61
+          },
+          "ed": {
+            "start": 1346.001,
+            "end": 1435.023
+          }
+        },
+        "added_date": "2026-07-29T07:05:16.038440"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53263,
@@ -50,45 +79,22 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 155418,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155418-vLNaZP4ZecdW.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155418-wLWulAHYVrE5.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/lz23mn3060pi"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5dao45idoey6.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 78.61,
-          "end": 168.61
-        },
-        "ed": {
-          "start": 1346.001,
-          "end": 1435.023
-        }
-      },
-      "added_date": "2026-07-29T07:05:16.038440",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 220779,
     "type": "tv",

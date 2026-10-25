@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ran annesinin öldüğüne dair bir kabus görür. Kendisini, annesini ve babasını ilgilendiren 10 yıl önceki kazada gerçekten ne olduğunu hatırlamaya başlar. Bu arada insanlar belirli bir suçlu tarafından yaralanmaya başlamıştır. Conan tüm bu insanların bir şekilde Mouri ile bağlantısı olduğunu keşfeder. Hepsinin isminde iskambil kartlarına denk gelen numaralar vardır ve papazdan asa kadar sırayla hedef alınmaktadırlar. Çok zaman geçmeden polis, hapisten yeni çıkan ve Mouri'den intikam almak isteyen tehlikeli kart oyuncusunun tüm bu olanların arkasında olduğunu anlar. Fakat yaralamalar cinayete dönüştükçe olay bir sonraki kurbanın kim olduğunu tahmin etme yarışına dönüşür. Conan 10 yıl önceki kazayı öğrenirken gerçeğin tamamen farklı bir şey olduğunu anlamaya başlayacaktır.",
-    "slug": "detective-conan-movie-02-the-fourteenth-target"
+    "slug": "detective-conan-movie-02-the-fourteenth-target",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 780,
@@ -49,61 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 780,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n780-QYieD3ITbwFE.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b780-hxqAnXzg8DX4.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan Movie 02: The Fourteenth Target",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1djwR0x-uKLHpOISHVWSVuYq_a1VbE-w_/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZffZlnwsvwDqke3z5dAC76ZKbL4CW7KM/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388378339"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4505913"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1789129"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7ixviuct"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xdq7z82oe4ig.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:56:06.596018",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30983,
     "type": "tv",

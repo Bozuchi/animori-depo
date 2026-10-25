@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Büyük iş adamı Leonard Dawson'ın oğlununun suikasti sonrası Golgo 13 kendini, Dawson'ın bizzat suikastiçiyi öldürmeleri için kiraladığı, CIA ve ABD Ordusunun hedefi olarak bulur. Zaman ilerledikçe Dawson yavaş yavaş akıl sağlığını yitirerek, Golgo 13'ü oğlunu öldürmesi kimin kiraladığını önemsemeden, her fırsatta Golgo 13'ü öldürmek için planlar düzenlemeye devam etmektedir.",
-    "slug": "golgo-13"
+    "slug": "golgo-13",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1760,
@@ -57,61 +58,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1760,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1760-yg3ToxFd2qus.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1760-PmH18u0MQNPB.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Golgo 13 The Professional",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hginNQ7BoDVRwjjOC_z5ETMtIUgXSfe6/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015540"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/525.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2614884"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2614580"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-87tfroy8h0r2.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hc5tt0zcpvel.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:24:43.414346",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 42395,
     "type": "tv",

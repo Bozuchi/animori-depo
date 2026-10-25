@@ -4,7 +4,68 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "-Güncellenecek-",
-    "slug": "gintama-aizome-kaori-hen"
+    "slug": "gintama-aizome-kaori-hen",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Gintama°: Aizome Kaori-hen OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ozSEaMl8xZxq9KwsuSZ8uNtvnNV3s2Dd/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzlef2016/_myvideo/18.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2671474"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3u8xcjvg"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4exfq4c6jd8g.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:52:59.739994"
+      },
+      {
+        "episode_number": 2,
+        "title": "Gintama°: Aizome Kaori-hen OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XcNrxxDPcsbVztrB55rVEDwKVNKFmd30/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/yunusemresuser/_myvideo/265.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/d13bb2li"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7ynqekek214n.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:52:59.739994"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32366,
@@ -54,82 +115,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21588,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21588-4stDE0RbC9jL.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Gintama°: Aizome Kaori-hen OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ozSEaMl8xZxq9KwsuSZ8uNtvnNV3s2Dd/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzlef2016/_myvideo/18.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2671474"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/3u8xcjvg"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-4exfq4c6jd8g.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:52:59.739994",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gintama°: Aizome Kaori-hen OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XcNrxxDPcsbVztrB55rVEDwKVNKFmd30/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/yunusemresuser/_myvideo/265.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/d13bb2li"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7ynqekek214n.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:52:59.739994",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 57041,
     "type": "tv",

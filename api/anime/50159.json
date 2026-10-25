@@ -4,7 +4,42 @@
     "puan": "0.00",
     "bolum_durumu": "2/1+",
     "ozet": "Tam bir uzaylı-zombi hesaplaşması! Zombi idol grubu Franchouchou, yaklaşmakta olan Saga Expo'yu sallamaya hazırdır—ta ki bir uzay gemisi ortaya çıkıp ortalığı yakıp yıkana kadar. İşler daha da kötüye gidemezmiş gibi, efsanevi Tae Yamada bilincini geri kazanır ve istilayı durdurmak için tek başına (solo) hareket edeceğini açıklar. Franchouchou dağılmış ve Dünya tehlikedeyken, grup Saga'yı kurtarmak için zamanında yeniden bir araya gelmeyi başarabilecek midir?",
-    "slug": "zombieland-saga-movie-yumeginga-paradise"
+    "slug": "zombieland-saga-movie-yumeginga-paradise",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Zombieland Saga Movie: Yumeginga Paradise 1. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/agprbu14to4h"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/v7la1gsrm94c"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2xhuu9z012e6.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3gi3p115z2zv.html"
+          }
+        ],
+        "added_date": "2026-07-30T21:21:02.363104"
+      },
+      {
+        "episode_number": 2,
+        "title": "Zombieland Saga Movie: Yumeginga Paradise 2. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-30T21:21:02.363104"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 50159,
@@ -48,56 +83,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 140337,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140337-4bbYMgRfHPEe.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140337-8EtbiPurofcC.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Zombieland Saga Movie: Yumeginga Paradise 1. Bölüm Final",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/agprbu14to4h"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/v7la1gsrm94c"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2xhuu9z012e6.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3gi3p115z2zv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T21:21:02.363104",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Zombieland Saga Movie: Yumeginga Paradise 2. Bölüm",
-      "episode_number": 2,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-30T21:21:02.363104",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 959646,
     "type": "movie",

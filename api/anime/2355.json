@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Şeytanlar vardır ve güçleri, insanların kavrayabileceğinin ötesindedir. Aslında o kadar güçlüler ki, insanların onlara karşı bir kavgada şansı yok.\n\nBir şeytanı yenecek kadar güçlü olan tek şey başka bir iblistir ve bu mantık sayesinde Ryo Asuka, iyi kalpli arkadaşı Akira Fudo'nun bir iblis tarafından ele geçirilmesi planını gerçekleştirir. Bir kişi saf kalpliyse, ona sahip olan şeytanı kontrol edebilir ve böylece bir şeytana eşit bir güç elde edebilir. Bir kulüpte cehennem yükseldikten sonra plan işe yarar ve Akira, Amon olarak bilinen güçlü iblis tarafından ele geçirilir.\n\nŞimdi Akira, zamanın başlangıcından beri insanlığı rahatsız eden gizli şeytan tehdidine karşı beşeri bilimlerin tek adalet şampiyonudur.\n\nBir Devilman filmidir.",
-    "slug": "devilman-yochou-sirene-hen"
+    "slug": "devilman-yochou-sirene-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2355,
@@ -69,61 +70,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2355,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2355-NSbzMIJm6UGg.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2355-OiUU6AhqJ4jR.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Devilman: Yochou Sirene-hen",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EsuR52N8Z7KJjFgR9F8f7ZLFrxR4Umsg/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271191409"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/fisekevo/video/embed/_myvideo/20"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140719435"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4485935"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qjuenq2e"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/clnlz5p1"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T21:05:03.730375",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 68586,
     "type": "tv",

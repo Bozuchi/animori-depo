@@ -4,7 +4,43 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Bir felaket, dünyayı uykuya daldırmıştır. Kalan insan nüfusu, medeniyetin günbatımında sessiz ve huzurlu bir şekilde hayatlarını sürdürmektedir. Hatsuseno Alpha, Yokohama sınırında çalışan ve sahibinin dönmesini bekleyen bir androiddir.\nBir gün başka bir android, kurye Kokone Takatsu, Alpha'ya sahibinden bir paket getirir. İçerisinde, hatıralarını ölümsüzleştirmesi için sahibinin Alpha'ya gönderdiği bir kamera vardır.",
-    "slug": "yokohama-kaidashi-kikou"
+    "slug": "yokohama-kaidashi-kikou",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Yokohama Kaidashi Kikou 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5017021353669166621"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wbw46abp35zb.html"
+          }
+        ],
+        "added_date": "2026-07-30T18:22:09.286226"
+      },
+      {
+        "episode_number": 2,
+        "title": "Yokohama Kaidashi Kikou 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5017021353669166620"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qe9huij8uwvo.html"
+          }
+        ],
+        "added_date": "2026-07-30T18:22:09.286226"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 975,
@@ -54,57 +90,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 975,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/975-6Fcen4DGT5vD.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/975-EDNYnBJCctSD.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yokohama Kaidashi Kikou 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5017021353669166621"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wbw46abp35zb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:22:09.286226",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yokohama Kaidashi Kikou 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5017021353669166620"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qe9huij8uwvo.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:22:09.286226",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 79287,
     "type": "tv",

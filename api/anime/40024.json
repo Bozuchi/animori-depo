@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Tam güneş tutulmasının ardından korkutucu bir sirk topluluğu ortaya çıkar. Mamoru gizemli bir hastalıkla boğuşurken şehrin her yerinde kötü şeyler olmaya başlar.",
-    "slug": "bishoujo-senshi-sailor-moon-eternal-movie-1"
+    "slug": "bishoujo-senshi-sailor-moon-eternal-movie-1",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40024,
@@ -66,29 +67,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 103713,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103713-ByoON5HEfvc7.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103713-GZ5LKEkW7Lz2.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Bishoujo Senshi Sailor Moon Eternal Movie Part 1",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-u8vqjkteg2pd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T04:54:55.051085",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

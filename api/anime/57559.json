@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/12",
     "ozet": "MFG turnuvasının ikinci yarışı, zorluğuyla nam salmış Ashinoko Gölü pistinde tüm hızıyla devam ediyor. Kanata Katagiri, beygir gücü bakımından rakiplerinin çok gerisinde olsa da, Toyota 86 GT’sine yapılan modifiyelerle hızla üst sıralara tırmanmayı başarır. Ancak yarışın final gününde bastıran şiddetli yağmur, tüm sürücüler için çekiş kaybı ve aşırı riskli bir pist ortamı yaratır.\n\nBüyüdüğü ortam ve aldığı disiplinli eğitim sayesinde Kanata, tehlikeli manevralarla herkesi şaşırtarak gruptan sıyrılmayı başarır. Ancak önünde hala iki büyük engel vardır: Önceki yarışın şampiyonu Michael Beckenbauer ve Ashinoko pist rekorunun sahibi Kouki Sawatari. Kanata, aradaki farkı kapatsa bile arkasındaki rakiplerin en ufak hatasını kolladığı bu kurtlar sofrasında hayatta kalmak zorundadır.",
-    "slug": "mf-ghost-2nd-season"
+    "slug": "mf-ghost-2nd-season",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 57559,
@@ -59,7 +60,8 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 171642,

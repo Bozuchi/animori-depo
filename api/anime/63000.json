@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/18",
     "ozet": "Sarı Nehir, Yangtze ve Lancang nehirlerinin tek bir kaynaktan doğduğu topraklarda, kıyı boyunca üç efsanevi \"Su Hayaleti\" klanı yaşar: Ding, Jiang ve Yi. Su Hayaletleri nedir? Onlar suyun içinde karadaymışçasına rahat hareket edebilen, jeomansi (yer falı/geomancy) sanatında ustalaşmış ve su altındaki kadim hazineleri bulma konusunda uzmanlaşmış varlıklardır. Kendi soyunun son temsilcisi olan Yi Sa, Lancang nehri kıyısında gizemli bir \"su altı bankası\" işletmektedir. Tehlikeli bir \"Golden Soup\" (Altın Çorba - su altındaki kutsal/tehlikeli alanlar için kullanılan bir tabir) dalışı sırasında Zong Hang'ı kurtarır. Yi Sa, hem kendi kaderindeki laneti çözmek hem de saklı gerçeklere ulaşmak için Zong Hang'ı bir Su Hayaleti olarak eğitir. Ding klanından Ding Yu Die'nin de katılımıyla bu üçlü, her şeyin başladığı ilkel \"Ancestral Golden Soup\" (Ataların Altın Çorbası) derinliklerine doğru tehlikeli bir yolculuğa çıkar.",
-    "slug": "sanxian-lun-hui"
+    "slug": "sanxian-lun-hui",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63000,
@@ -38,7 +39,8 @@
       2048
     ],
     "relations": [],
-    "episodes": 18
+    "episodes": 18,
+    "episode_list": []
   },
   "anilist": {
     "id": 153458,

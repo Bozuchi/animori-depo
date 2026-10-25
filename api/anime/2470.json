@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yıldızlar denizinde yüzerken, Kaptan Harlock tuhaf bir ses duyar; hemen arkasından da Arcadia, gizemli bir şekilde kontrolden çıkar ve Dünya’ya doğru ilerlemeye başlar.\n\nTV serisinin 13. bölümünden uyarlanmıştır.",
-    "slug": "uchuu-kaizoku-captain-herlock-arcadia-gou-no-nazo"
+    "slug": "uchuu-kaizoku-captain-herlock-arcadia-gou-no-nazo",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2470,
@@ -48,56 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2470,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2470-t0BnhV4HTPeU.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Captain Harlock: Mystery Of The Arcadia",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bl_X1iM3XoYRvbwV27RMnbOaKGqMPNtO/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359657458"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7670"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4450991"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3932402"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/mq4uyeqc"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:02:53.401219",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 394253,
     "type": "movie",

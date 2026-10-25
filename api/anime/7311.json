@@ -4,7 +4,8 @@
     "puan": "7.93",
     "bolum_durumu": "1/1",
     "ozet": "Romanların The Disappearance of Haruhi Suzumiya (涼宮ハルヒの消失) hikâyesini işleyecek olan ve 2010'da geleceği açıklanan bir filmdir.\n\nRomana göre hikâye 17-24 Aralık tarihleri arasında, kültür festivalinden bir ay sonra geçer. 17 Aralık son derece normaldir ve SOS ekibi bir yılbaşı partisi planlamaktadır. Ancak 18 Aralık'ta okula gelen Kyon, her şeyin bir anda değiştiğini fark eder: Haruhi Suzumiya ortadan kaybolmuştur ve Ryoko Asakura normal bir öğrenci gibi okuldadır, dahası bu değişikliklerin tek farkında olan kişi Kyon'dur. Nagato Yuki sıradan bir insandır ve Asakura Mikuru kendisini tanımamaktadır. Kyon'un elindeki tek ipucu Yuki'nin uzaylı formundan geriye bıraktığı bir kitap ayracıdır ve Kyon zamanda geriye giderek \"Bamboo Leaf Rhapsody\" (2. sezon) hikâyesinin geçtiği zamana döner. Kyon'un buradaki zamanda olan bir gizemi çözerek her şeyi eski haline getirmesi ve kendi zamanına dönmesi gereklidir",
-    "slug": "suzumiya-haruhi-no-shoushitsu"
+    "slug": "suzumiya-haruhi-no-shoushitsu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 7311,
@@ -61,61 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 7311,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7311-LkdBCThgXouS.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7311-9Mfc1YRHwCCW.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "The Melancholy of Haruhi Suzumiya Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TT8WP35H0tlNAtrGKmo1zlhHC_C5OGLl/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1IPwTWh2JT_WYYFFfm5YW1X5XF37yj684/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/630.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015639"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4518311"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vu8o1d2uk7ir.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-18szk7iqr0ii.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:46:51.391074",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 42511,
     "type": "tv",

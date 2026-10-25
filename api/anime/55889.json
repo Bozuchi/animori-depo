@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "8. Watashi no Shiawase na Kekkon light novel cildinin özel baskısında yer alan yayınlanmamış bir bölüm.",
-    "slug": "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi"
+    "slug": "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 55889,
@@ -60,46 +61,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 167486,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167486-EVz4sqKjf7W4.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Watashi no Shiawase na Kekkon OVA: Watashi no Shiawase na Katachi",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 93,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xJhlc8Rwm3jSRtIu7sQt38kkK2KLRE4m/preview"
-        },
-        {
-          "fansub_id": 93,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7432059985078518293"
-        },
-        {
-          "fansub_id": 93,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ijl8xcia9q2h"
-        },
-        {
-          "fansub_id": 93,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/9n298rgg"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T16:01:39.672757",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 196944,
     "type": "tv",

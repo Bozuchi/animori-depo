@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Misaki, evlenmek üzere olan 25 yaşında bir bayandır. Bir gün Tokyo İstasyonu'na ait eski bir fotoğraf ve babasından kalma kırık, eski bir saat bulur. Babası hayatı boyunca Tokyo İstasyonu'nda çalışmıştır ve hafızasında katı birisi olarak kalmıştır. Ama o bulduğu ve daha önceden görmediği fotoğrafta babasını gülümserken görmüştür. Misaki eski cep saatini tamir ettirmeye çalışırken Tokyo İstasyonu'nda uzun süredir bulunan bir saat dükkanı olduğunu keşfeder.",
-    "slug": "toki-wa-meguru-tokyo-station"
+    "slug": "toki-wa-meguru-tokyo-station",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 23439,
@@ -36,54 +37,12 @@
       56
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21061,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21061-EgxRCSM2b78h.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21061-CNmHayOGNBLq.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Toki wa Meguru: Tokyo Station",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 108,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1r2Ps_nLe8aHo3sE3EqNNWdgn2Q_cg8Sy/preview"
-        },
-        {
-          "fansub_id": 108,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tfC4pyHCrMVzpz5eqO0Q0YNw1mIennYy/preview"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931910838"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4525717"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1531334"
-        },
-        {
-          "fansub_id": 108,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kuxnz6ggeuvj.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T17:02:50.909200",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

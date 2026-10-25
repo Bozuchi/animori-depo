@@ -4,7 +4,281 @@
     "puan": "0.00",
     "bolum_durumu": "13/13",
     "ozet": "En iyi oteller, yalnızca en kaliteli mutfağı, dinlenme yollarını ve eğlenceyi sunmakla yetinmez. Aynı zamanda en iyi silah seçeneklerine, kimlik sahtekarlığı için güvenilir yöntemlere ve kanıtları ortadan kaldırma yollarına da sahip olmalıdır. Ölüm sınırındaki bu otelde, konsiyerjler Ikuro Hoshi ve Sara Haizaki görev başında. Suikastçilerin onlardan bir sonraki talebi ne olacak?",
-    "slug": "hotel-inhumans"
+    "slug": "hotel-inhumans",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Hotel Inhumans 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Cxl4oSGRfBcEdp3D-M-wLiVNfhQfo6AJ/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5978963"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 2,
+        "title": "Hotel Inhumans 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SQmfE1h5_Ak4Uz45DhaV4oTt5TKZzrkW/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5978965"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 3,
+        "title": "Hotel Inhumans 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MoIkC_XSRdV2O4CG1RwL7H6iXMJHvvTl/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5982582"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1320,
+            "end": 1400
+          }
+        },
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 4,
+        "title": "Hotel Inhumans 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WtvwSlUTH4JalFdJHQIKPDtfodFPdLA-/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5982585"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 5,
+        "title": "Hotel Inhumans 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1aQGef0cln1jm1MGa9XMt0EPSWhCW3lHF/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5982588"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 6,
+        "title": "Hotel Inhumans 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-QyE8mV4J3qMB_prNPqdxx5Ai8z2qsDC/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5988145"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 7,
+        "title": "Hotel Inhumans 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17AHlZTAxUVvS32DoY0vUfb9htDIKwDP2/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5997667"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 8,
+        "title": "Hotel Inhumans 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YByxSfUa34H9_NmYVvEkZG5EPoDDRG8h/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5997698"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 9,
+        "title": "Hotel Inhumans 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1D7GcPn9uo1AEUXgX3KSMxLrgQ5PPgTwC/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6016056"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-327d8zh1gd3u.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/u08nlx3h"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 10,
+        "title": "Hotel Inhumans 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xbvn383qRLTZui2mJBAv6omcs3cwAQFt/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-j3dk6n5fzoh4.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4w42t4q7"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 11,
+        "title": "Hotel Inhumans 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EnIBS-2AWQltOjM-O3AGaOLywM7DyXy9/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6016058"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2tvrk2r71yq9.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/in74cw9e"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 12,
+        "title": "Hotel Inhumans 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xw5XrGb_tnSVhsRlvYPyzGMM6TCS0ZiZ/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6038080"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-p7gkv9w8xevb.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/irlqhmf5"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      },
+      {
+        "episode_number": 13,
+        "title": "Hotel Inhumans 13. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_JZGetzBdfEia9v15dp06WNa7mUK0jjU/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6040987"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vcdtyze369sg.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ziwrvcdd"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:49.204294"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 60260,
@@ -52,338 +326,106 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 184034,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184034-iqhrtWaMTlwA.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184034-gjIi5TIHJpZv.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hotel Inhumans 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Cxl4oSGRfBcEdp3D-M-wLiVNfhQfo6AJ/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5978963"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SQmfE1h5_Ak4Uz45DhaV4oTt5TKZzrkW/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5978965"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MoIkC_XSRdV2O4CG1RwL7H6iXMJHvvTl/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5982582"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1320,
-          "end": 1400
-        }
-      },
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WtvwSlUTH4JalFdJHQIKPDtfodFPdLA-/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5982585"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1aQGef0cln1jm1MGa9XMt0EPSWhCW3lHF/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5982588"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-QyE8mV4J3qMB_prNPqdxx5Ai8z2qsDC/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5988145"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17AHlZTAxUVvS32DoY0vUfb9htDIKwDP2/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5997667"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YByxSfUa34H9_NmYVvEkZG5EPoDDRG8h/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5997698"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1D7GcPn9uo1AEUXgX3KSMxLrgQ5PPgTwC/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6016056"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-327d8zh1gd3u.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/u08nlx3h"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xbvn383qRLTZui2mJBAv6omcs3cwAQFt/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-j3dk6n5fzoh4.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4w42t4q7"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EnIBS-2AWQltOjM-O3AGaOLywM7DyXy9/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6016058"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2tvrk2r71yq9.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/in74cw9e"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xw5XrGb_tnSVhsRlvYPyzGMM6TCS0ZiZ/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6038080"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-p7gkv9w8xevb.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/irlqhmf5"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hotel Inhumans 13. Bölüm",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_JZGetzBdfEia9v15dp06WNa7mUK0jjU/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6040987"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-vcdtyze369sg.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ziwrvcdd"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:49.204294",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 276288,
     "type": "tv",

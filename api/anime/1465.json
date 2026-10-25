@@ -4,7 +4,36 @@
     "puan": "0.00",
     "bolum_durumu": "1/10",
     "ozet": "Sadamitsu, liseli bir çıkıntıyken güçlü ana kadın karakterle sallantıdaki ilişkisiyle ilgilenmek yerine motorcu kaskı görünümlü maskesini yüzüne geçirip yarı-mekanik bir süper kahramana dönüşen bir gençtir. Sadamitsu'yu merkezine alan bu hikayede mekanik gibi duran yaratıklar da kendisine 20 milyon firari uzaylı suçlunun Dünya'yı istilasını engellemek amacıyla yardım edecektirler.",
-    "slug": "hakaima-sadamitsu"
+    "slug": "hakaima-sadamitsu",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Hakaima Sadamitsu 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Za_gm1OCetbxmqsAcE0Tr0HMjdwFLxLf/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4959979"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wukuwrmycb6a.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-s3lc9646p29o.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:48:58.505950"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1465,
@@ -48,46 +77,22 @@
         ]
       }
     ],
-    "episodes": 10
+    "episodes": 10,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1465,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1465-D9E8kFYvpI6j.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hakaima Sadamitsu 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Za_gm1OCetbxmqsAcE0Tr0HMjdwFLxLf/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4959979"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wukuwrmycb6a.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-s3lc9646p29o.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:48:58.505950",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 34111,
     "type": "tv",

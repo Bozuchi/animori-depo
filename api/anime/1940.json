@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bilinmeyen yabancı güçler tarafından Dünya'nın şiddetli bir istilasının ortasında, foto muhabiri Wakatsuki Tetsuya, kılıcıyla Terran saflarında bir katliama sebep olan, yarı giyinik uzaylı bir kadınla karşılaşır. Kaotik bir mücadelenin ardından Tetsuya bir yıldız gemisinde uyanmak üzere bayılır. Onun şaşkınlığına, O işgalcilerin prensesi Kahm'dır- ve yaklaşan düğününde başrol olarak Tetsuya'yı seçti. Damadı olarak...",
-    "slug": "outlanders"
+    "slug": "outlanders",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1940,
@@ -48,36 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1940,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1940-Jdithp7ltyBI.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1940-YnTDiD43H3mI.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Outlanders OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tJlJNSEuYMRWSX2-luwIn9RSb5OvkIGR/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5043710"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:48:42.086306",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 68828,
     "type": "movie",

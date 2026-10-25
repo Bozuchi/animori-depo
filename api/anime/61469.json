@@ -4,7 +4,21 @@
     "puan": "0.00",
     "bolum_durumu": "1/23",
     "ozet": "Amerikan Vahşi Batısı'nda, dünyanın en büyük yarışı başlamak üzere. Binlerce kişi, elli milyon dolarlık büyük ödülü kazanma şansı için altı bin kilometreden fazla yol katetmek üzere San Diego'da sıraya giriyor. At çağının sonuna yaklaşılmasıyla birlikte, yarışmacıların istedikleri her türlü aracı kullanmalarına izin veriliyor. Yarışmacılar, haritası çıkarılmamış çorak arazilerde günde yüz kilometreye kadar yolculuk yaparak zorlu koşullara göğüs germek zorunda kalacaklar. \n\nSteel Ball Run gerçekten de eşi benzeri olmayan bir etkinlik. Sakat bir eski at yarışçısı olan genç Johnny Joestar, yarışın başlangıcını izlemek için San Diego'ya gelmiştir. Orada, belinde silah yerine iki çelik top taşıyan bir yarışçı olan Gyro Zeppeli ile karşılaşır. Johnny, Gyro'nun çelik toplarından birini kullanarak fantastik bir gücü açığa çıkardığına ve bir adamı düello sırasında kendi silahını kendisine ateşlemeye zorladığına tanık olur. Olayların karmaşası içinde Johnny tesadüfen çelik topa dokunur ve bacaklarında bir gücün dalga dalga dolaştığını hissederek iki yıl aradan sonra ilk kez ayağa kalkmayı başarır. Çelik topların sırrını çözmeye yemin eden Johnny yarışa katılmaya karar verir ve böylece Steel Ball Run'da Amerika boyunca sürecek olan o tuhaf macerası başlar.",
-    "slug": "steel-ball-run-jojo-no-kimyou-na-bouken"
+    "slug": "steel-ball-run-jojo-no-kimyou-na-bouken",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Steel Ball Run: JoJo no Kimyou na Bouken 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 307,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15PQB-GTzjTkPc_7jyUiVKtHSpQuCr6H_/preview"
+          }
+        ],
+        "added_date": "2026-07-29T13:02:54.742699"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 61469,
@@ -58,7 +72,51 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Steel Ball Run",
+        "aired": "Mar 19, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Sheriff's Request to Mountain Tim",
+        "aired": "Sep 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Desert-Born Outlaws",
+        "aired": "Oct 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Devil's Palm",
+        "aired": "Oct 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Terrorist from a Faraway Country",
+        "aired": "Oct 16, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Gyro Zeppeli's Destiny",
+        "aired": "Oct 23, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 190327,
@@ -72,75 +130,5 @@
     "episode_offset": 0,
     "name": "JoJo no Kimyou na Bouken (TV)"
   },
-  "synopsis_tr": "Amerika'nın Eski Batı'sında dünyanın en büyük yarışı başlamak üzere. Binlerce kişi, elli milyon dolarlık büyük ödülü kazanma şansı yakalamak için altı bin kilometreden fazla yol kat etmek üzere San Diego'da sıraya giriyor. At döneminin sona ermesiyle birlikte yarışmacılara diledikleri her türlü aracı kullanma hakkı tanınıyor. Yarışmacılar, keşfedilmemiş çorak arazilerde günde yüz kilometreye kadar yolculuk yaparak zorlu koşullara katlanmak zorunda kalacaklar. Steel Ball Run gerçekten türünün tek örneği olan bir etkinliktir. Eski bir at yarışçısı olan sakat Johnny Joestar, yarışın başlangıcını izlemek için San Diego'ya geldi. Orada belinde silah yerine iki çelik top bulunan yarışçı Gyro Zeppeli ile karşılaşır. Johnny, Gyro'nun çelik toplarından birini kullanarak fantastik bir gücü açığa çıkardığına ve bir adamı düello sırasında silahını kendine ateşlemeye zorladığına tanık olur. Aksiyonun ortasında Johnny çelik topa dokunur ve iki yıldır ilk kez ayağa kalkmasına olanak tanıyan bir gücün bacaklarından geçtiğini hisseder. Çelik topların sırrını bulmaya yemin eden Johnny, yarışta yarışmaya karar verir ve böylece Çelik Top Koşusu ile Amerika'yı dolaşan tuhaf macerasına başlar.[MAL Rewrite tarafından yazılmıştır]",
-  "episodes": [
-    {
-      "turkanime_title": "Steel Ball Run: JoJo no Kimyou na Bouken 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 307,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15PQB-GTzjTkPc_7jyUiVKtHSpQuCr6H_/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:02:54.742699",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false,
-      "title": "Steel Ball Run",
-      "aired": "Mar 19, 2026"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "The Sheriff's Request to Mountain Tim",
-      "episode_number": 2,
-      "aired": "Sep 25, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:51.889030"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "The Desert-Born Outlaws",
-      "episode_number": 3,
-      "aired": "Oct 2, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:51.889030"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "The Devil's Palm",
-      "episode_number": 4,
-      "aired": "Oct 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-13T10:26:29.627567"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "The Terrorist from a Faraway Country",
-      "episode_number": 5,
-      "aired": "Oct 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-24T08:04:01.943629"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "Gyro Zeppeli's Destiny",
-      "episode_number": 6,
-      "aired": "Oct 23, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-24T08:04:01.943629"
-    }
-  ]
+  "synopsis_tr": "Amerika'nın Eski Batı'sında dünyanın en büyük yarışı başlamak üzere. Binlerce kişi, elli milyon dolarlık büyük ödülü kazanma şansı yakalamak için altı bin kilometreden fazla yol kat etmek üzere San Diego'da sıraya giriyor. At döneminin sona ermesiyle birlikte yarışmacılara diledikleri her türlü aracı kullanma hakkı tanınıyor. Yarışmacılar, keşfedilmemiş çorak arazilerde günde yüz kilometreye kadar yolculuk yaparak zorlu koşullara katlanmak zorunda kalacaklar. Steel Ball Run gerçekten türünün tek örneği olan bir etkinliktir. Eski bir at yarışçısı olan sakat Johnny Joestar, yarışın başlangıcını izlemek için San Diego'ya geldi. Orada belinde silah yerine iki çelik top bulunan yarışçı Gyro Zeppeli ile karşılaşır. Johnny, Gyro'nun çelik toplarından birini kullanarak fantastik bir gücü açığa çıkardığına ve bir adamı düello sırasında silahını kendine ateşlemeye zorladığına tanık olur. Aksiyonun ortasında Johnny çelik topa dokunur ve iki yıldır ilk kez ayağa kalkmasına olanak tanıyan bir gücün bacaklarından geçtiğini hisseder. Çelik topların sırrını bulmaya yemin eden Johnny, yarışta yarışmaya karar verir ve böylece Çelik Top Koşusu ile Amerika'yı dolaşan tuhaf macerasına başlar.[MAL Rewrite tarafından yazılmıştır]"
 }

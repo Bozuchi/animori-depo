@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Miyu'nun Illya ve diğerleri ile tanışmadan önceki hayatını konu alıyor.",
-    "slug": "fate-kaleid-liner-prisma-illya-movie-sekka-no-chikai"
+    "slug": "fate-kaleid-liner-prisma-illya-movie-sekka-no-chikai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 34100,
@@ -62,41 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 97757,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97757-NAbK3w90qKOq.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97757-BWFRkX81LpGS.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 101,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1c-Ysqp85HYxAY4sd2vNL0R5GLM9euNBF/preview"
-        },
-        {
-          "fansub_id": 101,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lue8w448la3a.html"
-        },
-        {
-          "fansub_id": 193,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271189587"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T01:23:12.989646",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 63576,
     "type": "tv",

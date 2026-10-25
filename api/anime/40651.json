@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kandagawa Jet Girls serisinin ilk dört bölümünün özetidir.",
-    "slug": "kandagawa-jet-girls-recap"
+    "slug": "kandagawa-jet-girls-recap",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40651,
@@ -46,30 +47,8 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
-  "anilist": null,
-  "episodes": [
-    {
-      "turkanime_title": "Kandagawa Jet Girls Recap",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 218,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1gJ5EjFWPA3Ls4mPVA_71jbiqyrVKhYVm/preview"
-        },
-        {
-          "fansub_id": 218,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685365234"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T23:49:36.323325",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  "anilist": null
 }

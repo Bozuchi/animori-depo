@@ -4,7 +4,8 @@
     "puan": "9.03",
     "bolum_durumu": "1/1",
     "ozet": "Mucize Nesil ve Seirin'in Kış Kupası sonrası belirli bir günü anlatacaktır.",
-    "slug": "kuroko-no-basket-saikou-no-present-desu"
+    "slug": "kuroko-no-basket-saikou-no-present-desu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31051,
@@ -48,64 +49,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21235,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21235-XTGPhgyRVlY4.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kuroko no Basket: Saikou no Present Desu",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1HQ0mIIKZKvW869waZUxWipJKIWWW5KMr/preview"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359657934"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/psikonevroz/video/embed/_myvideo/289"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4452228"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2956234"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-yqzr9qin7ild.html"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/wgw5q60a"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/eymnx6y1"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:59:42.518385",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

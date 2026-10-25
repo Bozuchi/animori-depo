@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Gizli bir görevin yolunda gitmemesi yüzünden Mobile Takım pilotu Amuro Ray ve yoldaşları uzak bir adada mahsur kalır. Birlik, düşman kuvvetlerini temizlemek için Dönülmez Ada adı verilen bir yere gönderilmiştir, ancak burada bir grup çocuk ve bir düşman Mobil Takımının saldırısıyla karşılaşırlar. Amuro hepsinin bu gizemli adadan kaçması için bir yol bulmalıydı ancak bu, Cucuruz Doan adında tuhaf bir adamla tanışmadan önce gerçekleşmeyecekti.",
-    "slug": "kidou-senshi-gundam-cucuruz-doan-no-shima"
+    "slug": "kidou-senshi-gundam-cucuruz-doan-no-shima",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 49827,
@@ -49,25 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 139273,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139273-RqQnM3GHxitJ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139273-kbmCBAROf7r7.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kidou Senshi Gundam: Cucuruz Doan no Shima",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T02:59:13.103985",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 883768,
     "type": "movie",

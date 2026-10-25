@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ejder Topu Z: Tehlikeli İkili! Süper Savaşçı Uyumaz. Goku'ya kaybettikten sonra Broli karaya iner ve Dünya'da kış uykusuna yatar. Bir süre sonra Broli'yi Kakarot'la karıştıran Tranks ve Goten onu uyandırır. Broli öfkeden çılgına döner ve onları öldürmeye çalışır. Bu sırada Gohan, Efsanevi Süper Sayyan'a tek başına meydan okumaya doğru uygun adımlarla ilerlemektedir.",
-    "slug": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai"
+    "slug": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 903,
@@ -62,51 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 903,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/903-5svBMULsJJ9c.png",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/903.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Dragon Ball Z: Kiken na Futari! Super Senshi wa Nemurenai Movie 10",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iTL950hUMrgiT8lVkd1H4aOKnLoGfZys/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1776647"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4501570"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ergmurgz"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8g3ooc0m8bfb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:14:49.985729",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 12971,
     "type": "tv",

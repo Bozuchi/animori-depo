@@ -4,7 +4,105 @@
     "puan": "6.44",
     "bolum_durumu": "3/3",
     "ozet": "Gelecek zamanda geçe bu yeni macerada, Dünya'nın büyük çoğunluğu sular altında kalmıştır. 19 yaşındaki Aika Sumeragi ise bir yandan okula giderken, bir yandan da ajan olabilmek için eğitim görmektedir.",
-    "slug": "aika-zero"
+    "slug": "aika-zero",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "AIKa Zero 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pIydr8K6YWcpvDuDn_g-7zM23P-EgHXU/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3775976"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-60x193zvr2ty.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wtudbh2axx2q.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fvi7rj9bvu50.html"
+          }
+        ],
+        "added_date": "2026-07-20T03:33:40.805717"
+      },
+      {
+        "episode_number": 2,
+        "title": "AIKa Zero 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15LIXzulawo_mPysQ6UsAv8hvqL9U5vnk/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3775978"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u3d6guluokdi.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-yrkfnx79ksmd.html"
+          }
+        ],
+        "added_date": "2026-07-20T03:33:40.805717"
+      },
+      {
+        "episode_number": 3,
+        "title": "AIKa Zero 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Bf0hFyw6Wda45Ydt7ZdeYyfuTgMC1xXo/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3775980"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wz9zubent86m.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-f71tp6rgu2l1.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8f5q27of"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3zk4kjuo71zy.html"
+          }
+        ],
+        "added_date": "2026-07-20T03:33:40.805717"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6443,
@@ -58,123 +156,36 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 6443,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n6443-g3j8pEmxOaPt.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx6443-BIUWdiztRIFb.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "AIKa Zero 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pIydr8K6YWcpvDuDn_g-7zM23P-EgHXU/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3775976"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-60x193zvr2ty.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wtudbh2axx2q.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fvi7rj9bvu50.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:33:40.805717",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "AIKa Zero 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15LIXzulawo_mPysQ6UsAv8hvqL9U5vnk/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3775978"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-u3d6guluokdi.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-yrkfnx79ksmd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:33:40.805717",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "AIKa Zero 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Bf0hFyw6Wda45Ydt7ZdeYyfuTgMC1xXo/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3775980"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wz9zubent86m.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-f71tp6rgu2l1.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8f5q27of"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3zk4kjuo71zy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:33:40.805717",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 43249,
     "type": "tv",

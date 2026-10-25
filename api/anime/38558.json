@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kumi Honamanuma büyükannesinin dükkanını devralmak için Kyoto'ya taşınır. Burada boş olması gereken dükkanda yaşayan Harami Mino, K Kusanagi, Mai Haisaka ve bir köpekle karşılaşır. Kumi, iblis kralın peşinden gelip çağdaş döneme reenkarne olmuş kahramanlar olduklarını iddia eden bu kızlarla yaşamaya başlar. İblis kral Ran reenkarne olurken aksilik yaşar ve bir ilkokul öğrencisine reenkarne olur. Hikaye Ran'in iblis kralın parçalarını toplamak istemesiyle başlar.",
-    "slug": "laidbackers"
+    "slug": "laidbackers",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 38558,
@@ -37,56 +38,14 @@
       418
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 104721,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104721-AtxD7cz2KZ6b.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104721-vIRWxpXZv4Gi.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Laidbackers Film",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TBXp96k8Tc2XBwpkTp1zdwZ6djesUV7r/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nsjUqbSd_gbPbs-qAgzEAOwRRSOfx8bE/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718196"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hh1lu46u"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vhpks5e6svgw.html"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-c0itru6vtjw6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T07:50:04.084538",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 572647,
     "type": "movie",

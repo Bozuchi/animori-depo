@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ejder Topu Z: Çarpışma!! 100 Milyon Güçlü Savaşçılar. Büyük Gete Yıldızı olarak bilinen gizemli bir varlık, enerjisini emmek için Yeni Namek Gezegeni'ne yapuışır ve tüm Nameklileri ciddi bir tehlikeye sokar. Dünya'nın yeni Tanrısı Dende, anavatanındaki durumu öğrenir ve hızla Goku Son ve arkadaşlarından yardım ister. Yeni Namek'e vardıklarında Nameklilerin, liderleri Kula olan güçlü robotlar tarafından esir tutulduğunu öğrenirler. Büyük Gete Yıldızı'nın ileri teknolojisinin onu, ölümden kurtardığını açıklar. Kula, mekanik ordusuyla birlikte Goku ve arkadaşlarından sonsuza kadar kurtulmak için saldırmaya başlar.",
-    "slug": "dragon-ball-z-movie-06-gekitotsu-100-oku-power-no-senshi-tachi"
+    "slug": "dragon-ball-z-movie-06-gekitotsu-100-oku-power-no-senshi-tachi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 899,
@@ -61,56 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 899,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/899-SWU7Sor2l91N.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx899-iFXl5a1uH0IV.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Dragon Ball Z: Gekitotsu!! 100-oku Power no Senshi-tachi Movie 06",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JAri2_SgzOlja5TtX0XqfKdynpx_MfRy/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4450573"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1776600"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5b8o2dku"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/k0phbr9p"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-x5bd7xhvk0we.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:14:32.476743",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 12971,
     "type": "tv",

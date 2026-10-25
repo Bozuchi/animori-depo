@@ -4,7 +4,41 @@
     "puan": "0.00",
     "bolum_durumu": "1/12",
     "ozet": "İnsanlar, dünyayı harap eden dev canavarlara karşı onlarca yıldır süren bir savaş vermektedir. Canavarlarla savaş verenler kannagi'nin yıkıcı gücünü kullanan ve kontrol edilemeyen büyülü güçlerle donatılmış nagimori adı verilen kahramanlardır. Eski bir nagimori olan Jiiro, ortağının yasını tutarken gücü yeni uyanmış, genç bir kadın olan Kuumi ile yolları kesişir. Şehre saldıran canavarı yenmek için bir sözleşme yapan ikili, birbirlerini atıldıkları maceralarla tanımaya başlayacaklardır.",
-    "slug": "ars-no-kyojuu"
+    "slug": "ars-no-kyojuu",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ars no Kyojuu 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 126,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zuSU1O8YshbgFo-fHKcF6kKq6wC_CUkk/preview"
+          },
+          {
+            "fansub_id": 126,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5506414"
+          },
+          {
+            "fansub_id": 126,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5506415"
+          },
+          {
+            "fansub_id": 126,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/w79g3u705que"
+          },
+          {
+            "fansub_id": 126,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/dyggvaymqdii"
+          }
+        ],
+        "added_date": "2026-07-23T02:46:39.792029"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53179,
@@ -38,51 +72,22 @@
       406
     ],
     "relations": [],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 155089,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155089-OHYMaQRLIqVP.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155089-I5zYFNvWua57.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ars no Kyojuu 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 126,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zuSU1O8YshbgFo-fHKcF6kKq6wC_CUkk/preview"
-        },
-        {
-          "fansub_id": 126,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5506414"
-        },
-        {
-          "fansub_id": 126,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5506415"
-        },
-        {
-          "fansub_id": 126,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/w79g3u705que"
-        },
-        {
-          "fansub_id": 126,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/dyggvaymqdii"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:46:39.792029",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 211093,
     "type": "tv",

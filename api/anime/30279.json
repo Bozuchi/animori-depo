@@ -4,7 +4,504 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Yuru Yuri serisinin üçüncü sezonu.",
-    "slug": "yuru-yuri-san-hai"
+    "slug": "yuru-yuri-san-hai",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Yuru Yuri San☆Hai! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fIGWEJH8FTedVSDUzoxO3A3dgTR7rZ9D/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800442"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4504701"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1tuh14xn2smv.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-tc1lxontp15m.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1326"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600298"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 2,
+        "title": "Yuru Yuri San☆Hai! 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800451"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fse9vtt449ud.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1327"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600308"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1311,
+            "end": 1401
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 3,
+        "title": "Yuru Yuri San☆Hai! 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800473"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-n6kdy7235csv.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1328"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600311"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 4,
+        "title": "Yuru Yuri San☆Hai! 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800495"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qavda7u4asq6.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1329"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600344"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 5,
+        "title": "Yuru Yuri San☆Hai! 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800513"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gxf2c8jfq30d.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1330"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600359"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 6,
+        "title": "Yuru Yuri San☆Hai! 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800570"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1990275"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-647xs9sa5z3v.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/f2oo2qmd"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1331"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600402"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 7,
+        "title": "Yuru Yuri San☆Hai! 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800584"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1990276"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zgk4y6w6pl4f.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/mo9jadgo"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1332"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600437"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 25,
+            "end": 114
+          },
+          "ed": {
+            "start": 1368,
+            "end": 1410
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 8,
+        "title": "Yuru Yuri San☆Hai! 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800601"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8lfjt8274b11.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/f2picqgw"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1333"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600459"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4982004"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-cew4d5mi2fpy.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6mhr1aaobi7q.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1309,
+            "end": 1399
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 9,
+        "title": "Yuru Yuri San☆Hai! 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800670"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gviavhyf6kon.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19_8j1a-GfUlO-pGjW3dr5sN-0SIKHEyH/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1334"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359664211"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600485"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4616152"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xjb72045lr0q.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-it7qxpvraobz.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1315,
+            "end": 1405
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 10,
+        "title": "Yuru Yuri San☆Hai! 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800688"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2013506"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ock66eztb9le.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1335"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600492"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1318,
+            "end": 1385
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 11,
+        "title": "Yuru Yuri San☆Hai! 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2032420"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800702"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gc4wrivlmd1o.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1336"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600496"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      },
+      {
+        "episode_number": 12,
+        "title": "Yuru Yuri San☆Hai! 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800725"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2044292"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-64vggiwcjubm.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1337"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600529"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1320,
+            "end": 1393
+          }
+        },
+        "added_date": "2026-07-30T20:18:24.414222"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30279,
@@ -60,546 +557,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21088,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21088-9ZJIOWGApSmO.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21088-T5qFaSe9ohRK.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fIGWEJH8FTedVSDUzoxO3A3dgTR7rZ9D/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800442"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4504701"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1tuh14xn2smv.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-tc1lxontp15m.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1326"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600298"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800451"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-fse9vtt449ud.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1327"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600308"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1311,
-          "end": 1401
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800473"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-n6kdy7235csv.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1328"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600311"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800495"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qavda7u4asq6.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1329"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600344"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800513"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gxf2c8jfq30d.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1330"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600359"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800570"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1990275"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-647xs9sa5z3v.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/f2oo2qmd"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1331"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600402"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800584"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1990276"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zgk4y6w6pl4f.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/mo9jadgo"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1332"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600437"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 25,
-          "end": 114
-        },
-        "ed": {
-          "start": 1368,
-          "end": 1410
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800601"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-8lfjt8274b11.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/f2picqgw"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1333"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600459"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4982004"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-cew4d5mi2fpy.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6mhr1aaobi7q.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1309,
-          "end": 1399
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800670"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gviavhyf6kon.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/19_8j1a-GfUlO-pGjW3dr5sN-0SIKHEyH/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1334"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359664211"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600485"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4616152"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xjb72045lr0q.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-it7qxpvraobz.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1315,
-          "end": 1405
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800688"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2013506"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ock66eztb9le.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1335"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600492"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1318,
-          "end": 1385
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2032420"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800702"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gc4wrivlmd1o.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1336"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600496"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuru Yuri San☆Hai! 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3800725"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2044292"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-64vggiwcjubm.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1337"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600529"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1320,
-          "end": 1393
-        }
-      },
-      "added_date": "2026-07-30T20:18:24.414222",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 52891,
     "type": "tv",

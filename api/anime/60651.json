@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Yu-Gi-Oh! Card Game: The Chronicles",
-    "slug": "yu-gi-oh-card-game-the-chronicles"
+    "slug": "yu-gi-oh-card-game-the-chronicles",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 60651,
@@ -43,6 +44,134 @@
           58018
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Sky Striker Ace I: \"Sky Striker Ace - Raye\"",
+        "aired": "Apr 21, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Sky Striker Ace Ⅱ: \"Sky Striker Ace - Roze\"",
+        "aired": "May 23, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Fallen & The Virtuous I: \"Dogmatika Ecclesia, the Virtuous\"",
+        "aired": "Jun 20, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Fallen & The Virtuous II: \"Dogmatika Fleurdelis, the Knighted\"",
+        "aired": "Jul 25, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Fallen & The Virtuous III: \"Tri-Brigade Shuraig the Ominous Omen\"",
+        "aired": "Aug 22, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Fallen & The Virtuous IV: \"Fallen of Albaz\"",
+        "aired": "Sep 19, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Fallen & The Virtuous V: \"Tri-Brigade Kitt\"",
+        "aired": "Oct 24, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Fallen & The Virtuous VI: \"Albion the Branded Dragon\"",
+        "aired": "Nov 21, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Spirit Charmers I: \"Eria the Water Charmer\"",
+        "aired": "Dec 20, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Spirit Charmers II: \"Hiita the Fire Charmer\"",
+        "aired": "Jan 23, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Spirit Charmers III: \"Wynn the Wind Charmer\"",
+        "aired": "Feb 20, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Spirit Charmers IV: \"Aussa the Earth Charmer\"",
+        "aired": "Mar 20, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Magistus Ⅰ: \"Aleister the Invoker\"",
+        "aired": "Apr 24, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Magistus II: \"Endymion, the Master Magician\"",
+        "aired": "May 22, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Magistus III: \"Witchcrafter Madame Verre\"",
+        "aired": "Jun 19, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Magistus IV: \"Zoroa, the Magistus of Flame\"",
+        "aired": "Jul 24, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Seeker of the Sinful Spoils I: \"Diabellstar the Black Witch\"",
+        "aired": "Aug 21, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Seeker of the Sinful Spoils II: \"Snake-Eyes Poplar\"",
+        "aired": "Sep 25, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -50,187 +179,5 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186151-oUFvXQXVBMMP.png"
   },
-  "synopsis_tr": "Kartların içindeki hikayeler hayat buluyor...",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Sky Striker Ace I: \"Sky Striker Ace - Raye\"",
-      "episode_number": 1,
-      "aired": "Apr 21, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Sky Striker Ace Ⅱ: \"Sky Striker Ace - Roze\"",
-      "episode_number": 2,
-      "aired": "May 23, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "The Fallen & The Virtuous I: \"Dogmatika Ecclesia, the Virtuous\"",
-      "episode_number": 3,
-      "aired": "Jun 20, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "The Fallen & The Virtuous II: \"Dogmatika Fleurdelis, the Knighted\"",
-      "episode_number": 4,
-      "aired": "Jul 25, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "The Fallen & The Virtuous III: \"Tri-Brigade Shuraig the Ominous Omen\"",
-      "episode_number": 5,
-      "aired": "Aug 22, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "The Fallen & The Virtuous IV: \"Fallen of Albaz\"",
-      "episode_number": 6,
-      "aired": "Sep 19, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "The Fallen & The Virtuous V: \"Tri-Brigade Kitt\"",
-      "episode_number": 7,
-      "aired": "Oct 24, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "The Fallen & The Virtuous VI: \"Albion the Branded Dragon\"",
-      "episode_number": 8,
-      "aired": "Nov 21, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "Spirit Charmers I: \"Eria the Water Charmer\"",
-      "episode_number": 9,
-      "aired": "Dec 20, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "Spirit Charmers II: \"Hiita the Fire Charmer\"",
-      "episode_number": 10,
-      "aired": "Jan 23, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "Spirit Charmers III: \"Wynn the Wind Charmer\"",
-      "episode_number": 11,
-      "aired": "Feb 20, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "Spirit Charmers IV: \"Aussa the Earth Charmer\"",
-      "episode_number": 12,
-      "aired": "Mar 20, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "13. Bölüm",
-      "title": "Magistus Ⅰ: \"Aleister the Invoker\"",
-      "episode_number": 13,
-      "aired": "Apr 24, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "14. Bölüm",
-      "title": "Magistus II: \"Endymion, the Master Magician\"",
-      "episode_number": 14,
-      "aired": "May 22, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "15. Bölüm",
-      "title": "Magistus III: \"Witchcrafter Madame Verre\"",
-      "episode_number": 15,
-      "aired": "Jun 19, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "16. Bölüm",
-      "title": "Magistus IV: \"Zoroa, the Magistus of Flame\"",
-      "episode_number": 16,
-      "aired": "Jul 24, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "17. Bölüm",
-      "title": "Seeker of the Sinful Spoils I: \"Diabellstar the Black Witch\"",
-      "episode_number": 17,
-      "aired": "Aug 21, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    },
-    {
-      "turkanime_title": "18. Bölüm",
-      "title": "Seeker of the Sinful Spoils II: \"Snake-Eyes Poplar\"",
-      "episode_number": 18,
-      "aired": "Sep 25, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:16.357488"
-    }
-  ]
+  "synopsis_tr": "Kartların içindeki hikayeler hayat buluyor..."
 }

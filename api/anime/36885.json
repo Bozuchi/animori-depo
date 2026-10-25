@@ -4,7 +4,8 @@
     "puan": "9.07",
     "bolum_durumu": "1/1",
     "ozet": "Saenai Heroine no Sodatekata animesinin filmidir.",
-    "slug": "saenai-heroine-no-sodatekata-fine"
+    "slug": "saenai-heroine-no-sodatekata-fine",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 36885,
@@ -56,61 +57,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 100675,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n100675-etOKnpVfpxCQ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100675-Ut2Qyi9gYOKT.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Saenai Heroine no Sodatekata Fine",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 121,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bBYj0kVFQAWjRJPQpfZ1zFyVYWOoTvft/preview"
-        },
-        {
-          "fansub_id": 121,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718058"
-        },
-        {
-          "fansub_id": 121,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/sld6gwmd"
-        },
-        {
-          "fansub_id": 121,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/e1mgi782"
-        },
-        {
-          "fansub_id": 121,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fp3465dn4u44.html"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/2026"
-        },
-        {
-          "fansub_id": 39,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-h8gt4eh63tqp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T05:30:45.677549",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 69367,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "İki araştırmacı kızları Amitie ve Kyrie'yle ölmek üzere olan gezegenleri Eltria'yı tekrar canlandırmanın bir yolunu bulmak umuduyla gezegende kalırlar. Ama koca Granz hastalığa yakalanınca gezegeni canlandırma hayalleri suya düşer. Kyrie ablasına karşı çıkarak çocukluk arkadaşı Iris'le uzak bir alternatif dünyaya çare bulmaya gider. Gezegenlerini canlandıracak anahtarı aramak için Dünyadaki Japonya'ya varırlar. Orada Nanoha, Fate ve Hayate'yle tanışırlar.",
-    "slug": "mahou-shoujo-lyrical-nanoha-reflection"
+    "slug": "mahou-shoujo-lyrical-nanoha-reflection",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 17947,
@@ -59,41 +60,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 17947,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17947-TACbDdG8uJcq.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mahou Shoujo Lyrical Nanoha: Reflection",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EO2zwPGYL_70o4uOeplu665TCMW3wNVR/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658814"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363220"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:42:50.610406",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 432057,
     "type": "movie",

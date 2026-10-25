@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Given adlı serinin devam filmidir.",
-    "slug": "given-movie-2-hiiragi-mix"
+    "slug": "given-movie-2-hiiragi-mix",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 54791,
@@ -64,41 +65,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 162987,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162987-c4X86HS2UYnP.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162987-gRFCJagC9bm2.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Given Movie 2: Hiiragi Mix",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 242,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/arceusfansub/video/embed/_myvideo/75"
-        },
-        {
-          "fansub_id": 242,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/x9vg3agiree6"
-        },
-        {
-          "fansub_id": 242,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ofc5k9va1b9b"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:58:48.974624",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1230477,
     "type": "movie",

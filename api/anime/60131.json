@@ -4,7 +4,109 @@
     "puan": "0.00",
     "bolum_durumu": "5/5",
     "ozet": "Selamlar anime severler! Ben yine buralardayım. Bugün önünüze öyle bir seri getirdim ki, hani bazen \"Bu iki karakter nasıl bir araya gelmiş?\" dersiniz ya, tam olarak öyle bir durum. Japonya’nın o disiplinli koro kültürü ile yer altı dünyasının, yani Yakuza’nın o ağır abileri aynı mikrofona uzanıyor.\n\nİşte \"Karaoke\" temalı bu ilginç hikayemizin özeti:\n\nSeri Özeti: Korist ve Kabadayı\nOrtaokul öğrencisi Satomi Oka, korosunun ulusal yarışmada ikinci olmasını kutlamak yerine, bunu kendi yetersizliği olarak görüp karalar bağlamaktadır. Mezuniyet kapıya dayanmış, koro liderliği vasfı sona ermek üzeredir.\n\nSatomi bu içsel bunalımlarla boğuşurken, karşısına Kyouji Narita adında, ağzı iyi laf yapan bir Yakuza çıkar. Kyouji’nin derdi başkadır: Bağlı olduğu suç örgütü her yıl karaoke yarışması düzenlemekte ve en kötü şarkı söyleyene bizzat patronları tarafından \"korkunç\" bir dövme hediye edilmektedir! Bu cezadan kurtulmak isteyen Kyouji, Satomi’den kendisine sesine uygun en iyi şarkıyı bulması için öğretmenlik yapmasını ister.\n\nİstemeyerek de olsa bu teklifi kabul eden Satomi, korkularını bir kenara bırakıp kabadayı öğrencisiyle karaoke odalarına kapanır. Bu zıt ikilinin hedeflerine ulaşıp ulaşamayacağı ise tam bir muamma.\n\nJaponya'da \"Karaoke\" sadece bir eğlence değil, bir hayatta kalma meselesidir derlerdi de inanmazdım! Bir yanda ergenlik sancıları çeken bir koro lideri, diğer yanda tenine kazınacak rüküş bir dövmeden kaçan bir mafya üyesi... Aralarındaki o tuhaf ama samimi bağ, klasik \"Sensei\" (Öğretmen) kavramına bambaşka bir boyut kazandırıyor.",
-    "slug": "karaoke-iko"
+    "slug": "karaoke-iko",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Karaoke Iko! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322424530"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/ia8fgshvch32"
+          }
+        ],
+        "added_date": "2026-07-27T00:50:56.146462"
+      },
+      {
+        "episode_number": 2,
+        "title": "Karaoke Iko! 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322424573"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/69g2ny650arp"
+          }
+        ],
+        "added_date": "2026-07-27T00:50:56.146462"
+      },
+      {
+        "episode_number": 3,
+        "title": "Karaoke Iko! 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322424575"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/48e57vd4nwi2"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1q9649j6e3ro.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6ppbuwabk37x.html"
+          }
+        ],
+        "added_date": "2026-07-27T00:50:56.146462"
+      },
+      {
+        "episode_number": 4,
+        "title": "Karaoke Iko! 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322424576"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/3n58kik2gu2h"
+          }
+        ],
+        "added_date": "2026-07-27T00:50:56.146462"
+      },
+      {
+        "episode_number": 5,
+        "title": "Karaoke Iko! 5. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322424569"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/cegesemj1f2b"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-88np1o00sx02.html"
+          }
+        ],
+        "added_date": "2026-07-27T00:50:56.146462"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 60131,
@@ -46,135 +148,50 @@
         ]
       }
     ],
-    "episodes": 5
+    "episodes": 5,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 183127,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183127-zk2PgOnqzcAv.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183127-NuhBFFae2NYe.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Karaoke Iko! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322424530"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/ia8fgshvch32"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:50:56.146462",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Karaoke Iko! 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322424573"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/69g2ny650arp"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:50:56.146462",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Karaoke Iko! 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322424575"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/48e57vd4nwi2"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1q9649j6e3ro.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6ppbuwabk37x.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:50:56.146462",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Karaoke Iko! 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322424576"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/3n58kik2gu2h"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:50:56.146462",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Karaoke Iko! 5. Bölüm Final",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322424569"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/cegesemj1f2b"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-88np1o00sx02.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:50:56.146462",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 274546,
     "type": "tv",

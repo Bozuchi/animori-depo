@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ore dake Level Up na Ken serisinin 7.5'uncu bölümüdür.",
-    "slug": "ore-dake-level-up-na-ken-how-to-get-stronger"
+    "slug": "ore-dake-level-up-na-ken-how-to-get-stronger",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 58224,
@@ -48,65 +49,8 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
-  "anilist": null,
-  "episodes": [
-    {
-      "turkanime_title": "Ore dake Level Up na Ken 7.5. Bölüm",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mENixPpgz2CysvHt3noxROPiUw85aCNv/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5481990"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5481989"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ef9imb19g4dn"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/wymjqtneje0t"
-        },
-        {
-          "fansub_id": 15,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mfOcJy-oyQiqi_Wo2BvPUbD6zR2v-drg/preview"
-        },
-        {
-          "fansub_id": 15,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7432059985078518223"
-        },
-        {
-          "fansub_id": 15,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/c8u2vfr5cghr"
-        },
-        {
-          "fansub_id": 15,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5g360qm6"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:00:20.338605",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  "anilist": null
 }

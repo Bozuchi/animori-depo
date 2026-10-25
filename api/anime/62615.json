@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Tetsuryou! Meet with Tetsudou Musume",
-    "slug": "tetsuryou-meet-with-tetsudou-musume"
+    "slug": "tetsuryou-meet-with-tetsudou-musume",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 62615,
@@ -36,7 +37,23 @@
     "studios": [
       2455
     ],
-    "relations": []
+    "relations": [],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Where Should I Go?",
+        "aired": "Oct 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "What Is the Tetsuryo Club?",
+        "aired": "Oct 16, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 199594,
@@ -50,27 +67,5 @@
     "episode_offset": 0,
     "name": "TETSURYO! Meet with Tetsudou Musume"
   },
-  "synopsis_tr": "Günlük hayatın ağırlığını hisseden ve geleceğinden emin olmayan bir üniversite öğrencisi olan Misaki, maceraya ve gerçekten tutkulu olabileceği bir şeye özlem duymaktadır. Kampüsteki yeni günün başlangıcında, Travel Train Club (genelde Tetsuryo Club olarak da bilinir) üyeleri Misaki'yi kendilerine katılmaya davet eder. Misaki demiryolları dünyasına adım atarken, Misaki'nin kalbi onu bekleyen yolculuğun heyecanıyla atar.(Kaynak: MAL Haber)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Where Should I Go?",
-      "episode_number": 1,
-      "aired": "Oct 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:39:33.556436"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "What Is the Tetsuryo Club?",
-      "episode_number": 2,
-      "aired": "Oct 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-17T07:44:19.002140"
-    }
-  ]
+  "synopsis_tr": "Günlük hayatın ağırlığını hisseden ve geleceğinden emin olmayan bir üniversite öğrencisi olan Misaki, maceraya ve gerçekten tutkulu olabileceği bir şeye özlem duymaktadır. Kampüsteki yeni günün başlangıcında, Travel Train Club (genelde Tetsuryo Club olarak da bilinir) üyeleri Misaki'yi kendilerine katılmaya davet eder. Misaki demiryolları dünyasına adım atarken, Misaki'nin kalbi onu bekleyen yolculuğun heyecanıyla atar.(Kaynak: MAL Haber)"
 }

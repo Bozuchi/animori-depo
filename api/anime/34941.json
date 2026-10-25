@@ -4,7 +4,46 @@
     "puan": "0.00",
     "bolum_durumu": "1/2",
     "ozet": "Queen's Blade serisinin OVA bölümleridir.",
-    "slug": "queen-s-blade-unlimited"
+    "slug": "queen-s-blade-unlimited",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Queen's Blade: Unlimited 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 179,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YeKIcCq3nE6WvGUReXmIaiAtBODnuK5B/preview"
+          },
+          {
+            "fansub_id": 179,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ttg8FvfYlzHLSLPTZfsqdqt5JjdOvGKk/preview"
+          },
+          {
+            "fansub_id": 179,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661977"
+          },
+          {
+            "fansub_id": 179,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4594687"
+          },
+          {
+            "fansub_id": 179,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/sb6m5koo"
+          },
+          {
+            "fansub_id": 179,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-yelyd7cro0rs.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:27:28.569186"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34941,
@@ -46,56 +85,22 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 98319,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98319-20C08s3lc4Dc.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Queen's Blade: Unlimited 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 179,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YeKIcCq3nE6WvGUReXmIaiAtBODnuK5B/preview"
-        },
-        {
-          "fansub_id": 179,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ttg8FvfYlzHLSLPTZfsqdqt5JjdOvGKk/preview"
-        },
-        {
-          "fansub_id": 179,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661977"
-        },
-        {
-          "fansub_id": 179,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4594687"
-        },
-        {
-          "fansub_id": 179,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/sb6m5koo"
-        },
-        {
-          "fansub_id": 179,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-yelyd7cro0rs.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:27:28.569186",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 45502,
     "type": "tv",

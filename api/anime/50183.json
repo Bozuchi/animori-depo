@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Dai, sıcak yaz günleri ve yağmurlu gecelerle dolu bir şehir olan Sendai'de normal bir lise hayatı yaşadı. Basketbol, ​​yarı zamanlı işler ve belirsiz gelecek arasında bir şeyler eksikti. Ve o şey müzikti. Son sınıftaki günleri tükenirken Dai, içten bir yemin eder: \"Dünyanın en iyi caz sanatçısı olacağım.\"",
-    "slug": "blue-giant"
+    "slug": "blue-giant",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 50183,
@@ -47,41 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 140499,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140499-QbMmQ1krg6TV.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140499-Yr7YLk6suS0K.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Blue Giant",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 93,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1F7Ii0am2WiF9X6Zi-spuUjkK7qtz8UY7/preview"
-        },
-        {
-          "fansub_id": 93,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7432059985078518093"
-        },
-        {
-          "fansub_id": 93,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/xif5mm7tnzzb"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T05:57:09.629469",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 887870,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Evangelion Animesinin 3. Filmidir.",
-    "slug": "evangelion-movie-3-q"
+    "slug": "evangelion-movie-3-q",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3785,
@@ -69,61 +70,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3785,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3785-UyfunULvn6PQ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3785-a28lDzqtlfjB.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Neon Genesis Evangelion : You Can [Not] Redo",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_9NM2yIhcgU9gYRRZgGvSJHnjXUVt8aw/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xZW56KmlUaIx_uc_FHiMa6l8GPxujtrL/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5039"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015928"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/rdxyno7o"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mf4nn8hpvt5d.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fbvk9wrcemqp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T00:29:52.411423",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 890,
     "type": "tv",

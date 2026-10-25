@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikaye, 2. Dünya Savaşı’ndan önce bir tepenin üzerindeki fotoğraf stüdyosunda geçmektedir. Birçok kişi fotoğraflarını çektirmek için bu stüdyoyu ziyaret etmektedir. Bir gün, bir çift fotoğraf çekimine gelir ama kadın o kadar utangaçtır ki her zaman başını eğerek poz verir. Fotoğrafçı onu gülümsetmek için her türlü numarayı dener ve sonunda başarılı olur.\n\nBir yıl sonra çift tekrar gelir ama bu sefer kızlarını da yanlarında getirmişlerdir. Kız, sürekli huysuzdur ve yine fotoğrafçı onu gülümsetmek için her şeyi denemek zorundadır. Böylece kız ile fotoğrafçı arasındaki uzun soluklu ilişki başlar ve on yıllarca zaman geçer…",
-    "slug": "shashinkan"
+    "slug": "shashinkan",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 20671,
@@ -38,54 +39,12 @@
       1033
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20469,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20469-VShAkHIi4gOq.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20469.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Shashinkan (The Portrait Studio)",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 158,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YVjr9g9Ze5g_DV_9TicEAi7IDY7_E99q/preview"
-        },
-        {
-          "fansub_id": 158,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/mirusubs/video/embed/_myvideo/1654"
-        },
-        {
-          "fansub_id": 158,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4187178"
-        },
-        {
-          "fansub_id": 158,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4515873"
-        },
-        {
-          "fansub_id": 158,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3q0mjkdje7jh.html"
-        },
-        {
-          "fansub_id": 158,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qtgwnwhrumee.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:36:53.619507",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

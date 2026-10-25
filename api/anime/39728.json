@@ -4,7 +4,147 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Robotlar tarafından gizlice büyütülen bir kız çocuğu, insanlığın neredeyse tamamen yok olduğu ütopik dünyasının ardındaki karanlık sırları ortaya çıkarmaya başlar.",
-    "slug": "eden-ona"
+    "slug": "eden-ona",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Eden (ONA) 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366117"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4533979"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gk2yxumw3j7l.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4gg8fw0h"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rje3vlx96j3k.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:50:48.309425"
+      },
+      {
+        "episode_number": 2,
+        "title": "Eden (ONA) 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Gk5UETNmRQR5nkfgZXyFSGe-n8674oNz/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366118"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4515542"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-bionxrrg0yb1.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/97zpm2xw"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-70lc6jfthkgb.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:50:48.309425"
+      },
+      {
+        "episode_number": 3,
+        "title": "Eden (ONA) 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1u5-EtkCdwLtD9dj5j0-Gg8k-MrBJtR2r/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366119"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4515548"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5i5sek7r3eeb.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/dpjbr4so"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-w3213j6nq3fh.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:50:48.309425"
+      },
+      {
+        "episode_number": 4,
+        "title": "Eden (ONA) 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366120"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4533983"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zimaxg8of5nw.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/trs66gg8"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-okutld9wchyi.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:50:48.309425"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39728,
@@ -46,169 +186,14 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": []
   },
   "anilist": {
     "id": 109217,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109217-OiLwNMKMP4Dv.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109217-VZ0m6KhY3dHg.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Eden (ONA) 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366117"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4533979"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gk2yxumw3j7l.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4gg8fw0h"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rje3vlx96j3k.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:50:48.309425",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Eden (ONA) 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Gk5UETNmRQR5nkfgZXyFSGe-n8674oNz/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366118"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4515542"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bionxrrg0yb1.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/97zpm2xw"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-70lc6jfthkgb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:50:48.309425",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Eden (ONA) 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1u5-EtkCdwLtD9dj5j0-Gg8k-MrBJtR2r/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366119"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4515548"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5i5sek7r3eeb.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/dpjbr4so"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-w3213j6nq3fh.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:50:48.309425",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Eden (ONA) 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366120"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4533983"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zimaxg8of5nw.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/trs66gg8"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-okutld9wchyi.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:50:48.309425",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 92584,
     "type": "tv",

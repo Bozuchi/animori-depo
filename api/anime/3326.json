@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Psikolojik öykü yazarı Franz Kafka'nın Ein Landarzt ( Bir Köy Hekimi) isimli kitabından uyarlama seri. Karlı bir kış gecesi gece acil çağrılan bir hekimin hasta çocuğa gitmesini ve bu süreçte başından geçenleri sürrealist biçimde anlatan seri aslında içsel benlik çatışmalarına değinmektedir.",
-    "slug": "inaka-isha"
+    "slug": "inaka-isha",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3326,
@@ -42,56 +43,14 @@
       1055
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3326,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3326-fdLiqE964xpA.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3326-lD1YFIekCahK.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Inaka Isha",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361947"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/282.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2740011"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4099761"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rt92lgwiidbd.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/98zzrhs6"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:21:41.724443",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 73714,
     "type": "movie",

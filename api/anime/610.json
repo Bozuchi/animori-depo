@@ -4,7 +4,95 @@
     "puan": "0.00",
     "bolum_durumu": "2/12",
     "ozet": "Güzel kız kardeşler Ai, Mai, Mii, onların android hizmetçisi Mea ve kaypak evcil gelincikleri Unagi sevgili köşklerini hiç arkada bırakmadan birlikte zaman ve uzayda harika bir yolculuk yaparlar. Garip karahindiba benzeri “Popotan”ın ipuçlarını takip ederken, kızlar teoride en kişisel sorularına cevap verebilecek olan kişiyi arıyorlar ancak görünen o ki yan yollara sapmak, yeni arkadaşlar edinmek, kaplıcaları ziyaret etmek ve yol boyunca evde bulunan Noel dükkanını işletmek için gerekenden fazla zamanları var.\nAncak, kızların nihai kaderinde birkaç sürprizden daha fazlası var. Zamanda gezinmek arkadaşları arkada bırakmak anlamına da geldiği için her an neşeyle dolu değil.",
-    "slug": "popotan"
+    "slug": "popotan",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Popotan 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1I4VjEYTK1InS1xIZ0f4JqnPcqimsczi0/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1U8Vq38BdT81yxcgbsaIFpH4mbRVcM2xM/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368677"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4703935"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-671vmxqhc96i.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1p9gc2fvg9pp.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1406,
+            "end": 1494
+          }
+        },
+        "added_date": "2026-07-29T02:36:10.931245"
+      },
+      {
+        "episode_number": 2,
+        "title": "Popotan 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Z0MiYhrDMqXV3IorHNY7R3mdIhR2dbad/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10sXWIq4TCHZ1GXNzfdPFwM2Vt9xMYn5s/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368680"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4704075"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-uph7iq1hqx4t.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mg6koj6ox3n5.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1316,
+            "end": 1404
+          }
+        },
+        "added_date": "2026-07-29T02:36:10.931245"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 610,
@@ -48,107 +136,29 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 610,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/610-wej4UMHdSxc2.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx610-wWsIgl5dWqPs.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Popotan 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1I4VjEYTK1InS1xIZ0f4JqnPcqimsczi0/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1U8Vq38BdT81yxcgbsaIFpH4mbRVcM2xM/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368677"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4703935"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-671vmxqhc96i.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1p9gc2fvg9pp.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1406,
-          "end": 1494
-        }
-      },
-      "added_date": "2026-07-29T02:36:10.931245",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Popotan 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Z0MiYhrDMqXV3IorHNY7R3mdIhR2dbad/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10sXWIq4TCHZ1GXNzfdPFwM2Vt9xMYn5s/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368680"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4704075"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-uph7iq1hqx4t.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mg6koj6ox3n5.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1316,
-          "end": 1404
-        }
-      },
-      "added_date": "2026-07-29T02:36:10.931245",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 35129,
     "type": "tv",

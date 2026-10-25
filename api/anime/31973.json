@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Uzay Çağı 0079. Federasyon birlikleri ve Zeon kuvvetleri, eskiden Side 4 \"Mua\" diye bilinen Thunderbolt Sektörü'nde şiddetli bir çarpışma içindedirler. İmha edilmiş uzay kolonilerinin ve savaş gemilerinin enkazlarıyla dolu olan Thunderbolt Sektörü, etrafa dağılmış metal parçaların oluşturduğu elektriksel boşalım yüzünden böyle isimlendirilmiştir. Bu bölgeye sevk edilen Federasyon askerlerinden biri olan MS pilotu Io Flemming'i, Zeon keskin nişancısı Daryl Lorenz savaş alanında bekliyordur.",
-    "slug": "mobile-suit-gundam-thunderbolt"
+    "slug": "mobile-suit-gundam-thunderbolt",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31973,
@@ -68,174 +69,14 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": []
   },
   "anilist": {
     "id": 21458,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21458-UG0Jr1F5XP7Z.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21458-ZsdVYYdDiGAF.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mobile Suit Gundam Thunderbolt 1. ONA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KUxwykoUm6Ix1PdhEw6C6DO1dX4o-8fg/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/185.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849199"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2783032"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4425935"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9kxdraxlu1bp.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5trxvif4"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:44:31.812788",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Mobile Suit Gundam Thunderbolt 2. ONA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14YRhaagjdIyro7aSFx3Kc9nbJGT0nLwO/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/186.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849200"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4425940"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2783034"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:44:31.812788",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Mobile Suit Gundam Thunderbolt 3. ONA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17fBbD-JwKfHGCKOSqAuKBRJosemPWhAg/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/187.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018343"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2783040"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7jyca4piwxnm.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:44:31.812788",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Mobile Suit Gundam Thunderbolt 4. ONA Final",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WpIRcPUCOLcVQV_39Mw5M8mRuGMOJnE4/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/189.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018344"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2783042"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-x60mpxcn1o01.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-h9jjouo54kge.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:44:31.812788",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 64809,
     "type": "tv",

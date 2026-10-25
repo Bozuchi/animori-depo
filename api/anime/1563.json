@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/29",
     "ozet": "Magic Knight Rayearth Animesinin İkinci Sezonudur.",
-    "slug": "magic-knight-rayearth-ii"
+    "slug": "magic-knight-rayearth-ii",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1563,
@@ -57,7 +58,8 @@
         ]
       }
     ],
-    "episodes": 29
+    "episodes": 29,
+    "episode_list": []
   },
   "anilist": {
     "id": 1563,

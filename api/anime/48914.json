@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Serinin filmidir.",
-    "slug": "zhen-dao-ge-chenshi-hang"
+    "slug": "zhen-dao-ge-chenshi-hang",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 48914,
@@ -46,39 +47,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 133661,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133661-jphnjEq5Ufio.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Zhen Dao Ge: Chenshi Hang Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 144,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_lnsQRGvLgGPrpBqbfZUS1l7kc_o7je6/preview"
-        },
-        {
-          "fansub_id": 144,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667500"
-        },
-        {
-          "fansub_id": 144,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mbsdqypo41kd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T21:10:21.242017",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

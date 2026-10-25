@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "5 film olarak planlanan Code Geass: Boukoku no Akito filmlerinin dördüncüsüdür.",
-    "slug": "code-geass-boukoku-no-akito-4-nikushimi-no-kioku-kara"
+    "slug": "code-geass-boukoku-no-akito-4-nikushimi-no-kioku-kara",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 15201,
@@ -62,54 +63,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 15201,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15201-B681oTkvmflE.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15201-JqRtOF8UH3P5.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 10,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1duwn6Cu5svczH8BZaqwWfE5p8bOv92_q/preview"
-        },
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847162"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4074456"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3434470"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hsbpu313"
-        },
-        {
-          "fansub_id": 10,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-pdextuzf40py.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:17:33.149051",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

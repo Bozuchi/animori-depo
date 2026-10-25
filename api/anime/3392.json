@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kiniro no Corda: Primo Passo Animesinin Special 26. Bölümüdür.",
-    "slug": "kiniro-no-corda-primo-passo-hitonatsu-no-encore"
+    "slug": "kiniro-no-corda-primo-passo-hitonatsu-no-encore",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3392,
@@ -49,64 +50,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3392,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3392.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "La Corda D'Oro Özel Bölüm (Final)",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pEyVVDWrmfY6USjfKJ9Bpu75gjKtQ-r_/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/yunusemresuser/_myvideo/223.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271189257"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4517281"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2893361"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-b58xq1njya4j.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/s7xujnm1"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-31g812brx5ov.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:55:30.878315",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

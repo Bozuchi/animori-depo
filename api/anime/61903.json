@@ -4,7 +4,83 @@
     "puan": "0.00",
     "bolum_durumu": "2/1+",
     "ozet": "Kaguya-sama wa Kokurasetai TV özel bölümü",
-    "slug": "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan"
+    "slug": "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 88,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6099183"
+          },
+          {
+            "fansub_id": 88,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qfesar2164rt.html"
+          },
+          {
+            "fansub_id": 214,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KYBcOFTGRVC629rwFWF3pSpLlFmW6hG8/preview"
+          },
+          {
+            "fansub_id": 214,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6090276"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1X-u30kB-tA4DeXvvMmA_7JlK73Lce24v/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6090312"
+          }
+        ],
+        "added_date": "2026-07-26T22:40:46.529039"
+      },
+      {
+        "episode_number": 2,
+        "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 88,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6099187"
+          },
+          {
+            "fansub_id": 88,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0v67vrpv97t1.html"
+          },
+          {
+            "fansub_id": 214,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sCTaYErG09sLiNGxolS_aLg1xotufyr_/preview"
+          },
+          {
+            "fansub_id": 214,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6090336"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1z1x4_prodJHYJfwZQqSXH-pH3lwZrxj6/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6090352"
+          }
+        ],
+        "added_date": "2026-07-26T22:40:46.529039"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 61903,
@@ -60,97 +136,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 194884,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194884-PwYRWyOUEwZI.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194884-rHgGAzKSCEWz.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 88,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6099183"
-        },
-        {
-          "fansub_id": 88,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qfesar2164rt.html"
-        },
-        {
-          "fansub_id": 214,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KYBcOFTGRVC629rwFWF3pSpLlFmW6hG8/preview"
-        },
-        {
-          "fansub_id": 214,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6090276"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1X-u30kB-tA4DeXvvMmA_7JlK73Lce24v/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6090312"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T22:40:46.529039",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 88,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6099187"
-        },
-        {
-          "fansub_id": 88,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-0v67vrpv97t1.html"
-        },
-        {
-          "fansub_id": 214,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sCTaYErG09sLiNGxolS_aLg1xotufyr_/preview"
-        },
-        {
-          "fansub_id": 214,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6090336"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1z1x4_prodJHYJfwZQqSXH-pH3lwZrxj6/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6090352"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T22:40:46.529039",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 83121,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "8.99",
     "bolum_durumu": "1/1",
     "ozet": "Fuutaro beşizleri mezun olup hayallerini takip edebilecekleri bir noktaya getirdi. Şimdi de son okul festivalleri başladı. Bu festivali unutamayacakları bir şeye dönüştürmek isteyen Fuutaro, beşizlere olan hislerini aramaktadır.",
-    "slug": "5-toubun-no-hanayome-movie"
+    "slug": "5-toubun-no-hanayome-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 48548,
@@ -65,41 +66,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 131520,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131520-0zIxc7ANJThw.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131520-89Qfo8JnGHI3.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "The Quintessential Quintuplets Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 39,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13SwZ70Y_ZBnbj3FIiHV1XnxZcZh0voeE/preview"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7317328059844002501"
-        },
-        {
-          "fansub_id": 39,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kxkmtrmg1jy5.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-19T03:11:30.775630",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 820067,
     "type": "movie",

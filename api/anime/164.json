@@ -4,7 +4,8 @@
     "puan": "8.51",
     "bolum_durumu": "1/1",
     "ozet": "Köyünde huzur dolu bir yaşamı olan Ashitaka, bir gün ormandan kötü bir \nvarlığın gelmekte olduğu fark eder. Ormanın sınırından hızla çıkan Orman\n Tanrısı, değdiği her şeyi yok ederek ilerlemektedir. Köyünden küçük bir\n kızı kurtarmak için, canavara dönüşmüş olan Orman Tanrısı'na saldıran \nAshitaka, mücadele sonunda canavarı öldürür ama ölümcül bir yara alarak \nlanetlenir.\n \nBu lanetten kurtulmak için bir yol aramak üzere köyden ayrılan Ashitaka,\n kendisine yardım edebileceğini umduğu Ormanın Ruhu'nu aramaya başlar. \nAncak Ormanın Ruhu'nu arayan başkaları da vardır: Lady Eboshi ve \nIrontown sakinleri. Lady Eboshi ve Prenses Mononoke arasındaki savaşta \nkazanan olmadığını ve hem insanların hem de doğanın zarar gördüğünü fark\n eden Ashitaka, onları durdurmaya çalışacaktır.",
-    "slug": "mononoke-hime"
+    "slug": "mononoke-hime",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 164,
@@ -39,61 +40,14 @@
       21
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 164,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164-Aj6MINy7VTfs.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164-ySuGzCWVw2cL.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Princess Mononoke",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KYFXkejRGprlrj5UfuFCyfNW5XLSyq4S/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271188564"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1183"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656854"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/t5a551nn"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/oa28hmpf"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-i7zjjk0h6j05.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:02:23.263630",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 128,
     "type": "movie",

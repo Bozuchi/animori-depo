@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bir günlük izin... Uzun süren antrenmanlardan sonra Reno artık boş zamanını nasıl değerlendireceğini bilemez hâle gelmiştir. Ancak Hoşina’nın bir işler çevirdiğini fark edince, İharu’yu da yanına alıp onu gizlice izlemeye koyulur",
-    "slug": "kaijuu-8-gou-hoshina-no-kyuujitsu"
+    "slug": "kaijuu-8-gou-hoshina-no-kyuujitsu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 59490,
@@ -53,29 +54,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 179999,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179999-8FuSR5TlOCD1.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kaijuu 8-gou: Hoshina no Kyuujitsu OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 109,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nu6f1USaZSOyE_l53ofME5rgDHogtFPv/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T22:57:19.020004",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

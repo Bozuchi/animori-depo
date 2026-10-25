@@ -4,7 +4,93 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Liseli Mari, okula geç kalan başka bir öğrenciyle çarpıştığında büyük bir şaşkınlık yaşar; çünkü onun, kendi okuluna devam edecek bir yarı insan (beastfolk) olduğunu öğrenir! Sonuçta yarı insanların insanlarla birlikte yaşaması nadir değildir, ama yine de önyargılar yüzünden pek de yaygın sayılmaz. İlk başta biriyle tanışma fikri Mari’yi gerse de kısa sürede onun tüylü dış görünüşünden çok daha fazlası olduğunu fark eder. Hatta onu tanıdıkça, kararlılığına, iyi kalpliliğine ve bedenine giderek daha çok çekildiğini hisseder.",
-    "slug": "kimi-to-koete-koi-ni-naru"
+    "slug": "kimi-to-koete-koi-ni-naru",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Kimi to Koete Koi ni Naru 1. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 2,
+        "title": "Kimi to Koete Koi ni Naru 2. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 3,
+        "title": "Kimi to Koete Koi ni Naru 3. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 4,
+        "title": "Kimi to Koete Koi ni Naru 4. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 5,
+        "title": "Kimi to Koete Koi ni Naru 5. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 6,
+        "title": "Kimi to Koete Koi ni Naru 6. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 7,
+        "title": "Kimi to Koete Koi ni Naru 7. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 8,
+        "title": "Kimi to Koete Koi ni Naru 8. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 9,
+        "title": "Kimi to Koete Koi ni Naru 9. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 10,
+        "title": "Kimi to Koete Koi ni Naru 10. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 11,
+        "title": "Kimi to Koete Koi ni Naru 11. Bölüm",
+        "videos": [],
+        "skip_times": {
+          "op": {
+            "start": 210,
+            "end": 300
+          }
+        },
+        "added_date": "2026-07-27T03:33:38.868261"
+      },
+      {
+        "episode_number": 12,
+        "title": "Kimi to Koete Koi ni Naru 12. Bölüm Final",
+        "videos": [],
+        "skip_times": {
+          "op": {
+            "start": 148,
+            "end": 238
+          }
+        },
+        "added_date": "2026-07-27T03:33:38.868261"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 60765,
@@ -48,145 +134,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 186161,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186161-KYfFUJEVLB1W.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 1. Bölüm",
-      "episode_number": 1,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 2. Bölüm",
-      "episode_number": 2,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 3. Bölüm",
-      "episode_number": 3,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 4. Bölüm",
-      "episode_number": 4,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 5. Bölüm",
-      "episode_number": 5,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 6. Bölüm",
-      "episode_number": 6,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 7. Bölüm",
-      "episode_number": 7,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 8. Bölüm",
-      "episode_number": 8,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 9. Bölüm",
-      "episode_number": 9,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 10. Bölüm",
-      "episode_number": 10,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 11. Bölüm",
-      "episode_number": 11,
-      "videos": [],
-      "skip_times": {
-        "op": {
-          "start": 210,
-          "end": 300
-        }
-      },
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kimi to Koete Koi ni Naru 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [],
-      "skip_times": {
-        "op": {
-          "start": 148,
-          "end": 238
-        }
-      },
-      "added_date": "2026-07-27T03:33:38.868261",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 282662,
     "type": "tv",

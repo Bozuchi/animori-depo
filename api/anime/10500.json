@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Küçük bir çocuk saklambaç oynarken değişik bir nesne bulur. Bu bulduğu eşyanın üstüne, dedesi gençliğini ve fenerin bir zamanlar ne kadar önemli olduğunu anlatır.",
-    "slug": "ojiisan-no-lamp"
+    "slug": "ojiisan-no-lamp",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10500,
@@ -47,69 +48,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10500,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n10500-jmcqLz2iGNO0.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ojisan no Lamp Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1k-qZxeTEr42_-TzksJcGDanEVCEzBZyS/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qA6dRQpJ9bzr7J2hvJydf7jUuKka13YX/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667560"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4682039"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-sdcatxw6m1ro.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-crugo51dr0y3.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359652038"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3969331"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xqlv446fpm6b.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T19:16:47.371415",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

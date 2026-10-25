@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bölüm; Luffy, Ace ve Sabo'nun korsan olmayı düşledikleri geçmişe götürüyor. Ayrıca Sabo'nun Dressrosa Krallığı'na gelip Luffy ile tekrardan bir araya gelmesini de kendi gözünden gösteriyor.",
-    "slug": "one-piece-episode-of-sabo-3-kyoudai-no-kizuna-kiseki-no-saikai-to-uketsugareru-ishi"
+    "slug": "one-piece-episode-of-sabo-3-kyoudai-no-kizuna-kiseki-no-saikai-to-uketsugareru-ishi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31289,
@@ -47,49 +48,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21230,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21230-5yju21iK6aMW.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21230-rfoUZud1Jn0L.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 99,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TOsSAK21G7Uj7lPAJa2tk5MIDKNTl-9o/preview"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366925"
-        },
-        {
-          "fansub_id": 99,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4527591"
-        },
-        {
-          "fansub_id": 99,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3ptxri2igcf7.html"
-        },
-        {
-          "fansub_id": 99,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-sr5al2k3mj0t.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T20:56:21.203423",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

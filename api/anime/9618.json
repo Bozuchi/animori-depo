@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Seriye bağlı OVA bölümüdür.",
-    "slug": "asobi-ni-iku-yo-asobi-ni-oide"
+    "slug": "asobi-ni-iku-yo-asobi-ni-oide",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9618,
@@ -61,61 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9618,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9618-vIGNdkdb40Yd.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Asobi ni Iku Yo OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZOjPPL66e74wFY7aJxJnTuBHlAJLNrCg/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/inbox/workingpuzzle/video/embed/_myvideo/36"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7852876293715527973"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4519332"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-vuhwatnscjxl.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/itckgkql"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-smwz6sswdzuw.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:05:34.277512",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 37806,
     "type": "tv",

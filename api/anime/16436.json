@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Botan ve Shinobu çocukluk arkadaşlarıdır, yeni girmiş oldukları kız lisesinde söylenenlere göre melekler yaşarmış. Gerçekten de onlardan biri ile karşılaşıyorlar ve meleğimiz Botan'a bir teklifte bulunuyor, aceba nedir?..",
-    "slug": "tenshi-no-drop"
+    "slug": "tenshi-no-drop",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 16436,
@@ -44,44 +45,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 16436,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16436-NV4i46wmecmU.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16436.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Tenshi no Drop",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TRLrTsBNbOHJmu1tRbmQhJ9nUvqLq2vw/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3799388"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nmf9u5oxmph2.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-meu7jcldpajy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T16:07:40.457459",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

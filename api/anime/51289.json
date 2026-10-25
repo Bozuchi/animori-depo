@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Zhe Tian",
-    "slug": "zhe-tian"
+    "slug": "zhe-tian",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 51289,
@@ -52,6 +53,71 @@
           62715
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 33,
+        "title": "Lingxu Paradise: I'm Back Again, Elder Wu Qingfeng!",
+        "aired": "Nov 29, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Ye Fan is Here to \"Grab\" Back His Stuff",
+        "aired": "Dec 6, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "Nangong Zheng vs Peacock King. Mighty Human Race vs Mighty Demon Race. Who is Stronger?",
+        "aired": "May 29, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 65,
+        "title": "Ye Fan's Sea of Bitterness Sealed by Moon Palace",
+        "aired": "Jul 10, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 66,
+        "title": "Ye Fan Embarks On A New Dungeon of Yaoguang Holy Land In Northern Region",
+        "aired": "Jul 17, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 145,
+        "title": "Episode 145",
+        "aired": "Jan 20, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 167,
+        "title": "Episode 167",
+        "aired": "Jun 17, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 170,
+        "title": "Episode 170",
+        "aired": "Jul 8, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 181,
+        "title": "Episode 181",
+        "aired": "Sep 16, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -59,97 +125,5 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137671-Ifs5ZdWoDusy.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137671-PzYKwpStSLIF.png"
   },
-  "synopsis_tr": "Karanlık ve donmuş evrenin uzak köşelerinde, dokuz devasa ejderha cesedi eski bir bronz tabuta bağlanmıştı. Görünüşe göre evrenin doğuşundan beri orada bulunuyorlar. Böylesine hayret verici bir sahne, uzayda süzülen bir uzay sondası tarafından yakalandı. Dokuz ejderha ve gizemli bronz tabut, insanlarda bunların antik çağlara mı geri döndüğünü yoksa evrenin diğer kıyısına mı ulaştığını merak ettirdi. Ölümsüzlüğün yavaş yavaş ortaya çıktığı, paranormal olayların sürekli yaşandığı dev bir mitolojik dünya gözler önüne serildi. Böylesine efsanevi bir dünyada sayısız insan kendi yolunu bulmaya başladı. Tutkuları asla dinmeyecek çalkantılı bir okyanus dalgası gibiydi. Kanlarındaki sıcaklık patlayan volkanlar gibiydi. Güç ve ölümsüzlük arzuları onları farkında olmadan uçuruma sürükledi. Otuz üç sınıf arkadaşı mezun olduktan sonra bir araya geldi. Bronz tabut onları dünyadan alıp bilinmeyen başka bir gezegene götürdüğünde dostlukları sınandı. Yaşama arzusu onları eski tanrıların yolunu izlemeye zorladı. Yeni bir yetiştirme dünyasına girenlerden herhangi biri ölümsüzlüğe ulaşacak mı, yoksa hepsi bu yolda ölecek mi?",
-  "episodes": [
-    {
-      "turkanime_title": "33. Bölüm",
-      "title": "Lingxu Paradise: I'm Back Again, Elder Wu Qingfeng!",
-      "episode_number": 33,
-      "aired": "Nov 29, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:15.709712"
-    },
-    {
-      "turkanime_title": "34. Bölüm",
-      "title": "Ye Fan is Here to \"Grab\" Back His Stuff",
-      "episode_number": 34,
-      "aired": "Dec 6, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:15.709712"
-    },
-    {
-      "turkanime_title": "59. Bölüm",
-      "title": "Nangong Zheng vs Peacock King. Mighty Human Race vs Mighty Demon Race. Who is Stronger?",
-      "episode_number": 59,
-      "aired": "May 29, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:15.709712"
-    },
-    {
-      "turkanime_title": "65. Bölüm",
-      "title": "Ye Fan's Sea of Bitterness Sealed by Moon Palace",
-      "episode_number": 65,
-      "aired": "Jul 10, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:15.709712"
-    },
-    {
-      "turkanime_title": "66. Bölüm",
-      "title": "Ye Fan Embarks On A New Dungeon of Yaoguang Holy Land In Northern Region",
-      "episode_number": 66,
-      "aired": "Jul 17, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:15.709712"
-    },
-    {
-      "turkanime_title": "145. Bölüm",
-      "title": "Episode 145",
-      "episode_number": 145,
-      "aired": "Jan 20, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:15.709712"
-    },
-    {
-      "turkanime_title": "167. Bölüm",
-      "title": "Episode 167",
-      "episode_number": 167,
-      "aired": "Jun 17, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:15.709712"
-    },
-    {
-      "turkanime_title": "170. Bölüm",
-      "title": "Episode 170",
-      "episode_number": 170,
-      "aired": "Jul 8, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:15.709712"
-    },
-    {
-      "turkanime_title": "181. Bölüm",
-      "title": "Episode 181",
-      "episode_number": 181,
-      "aired": "Sep 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:15.709712"
-    }
-  ]
+  "synopsis_tr": "Karanlık ve donmuş evrenin uzak köşelerinde, dokuz devasa ejderha cesedi eski bir bronz tabuta bağlanmıştı. Görünüşe göre evrenin doğuşundan beri orada bulunuyorlar. Böylesine hayret verici bir sahne, uzayda süzülen bir uzay sondası tarafından yakalandı. Dokuz ejderha ve gizemli bronz tabut, insanlarda bunların antik çağlara mı geri döndüğünü yoksa evrenin diğer kıyısına mı ulaştığını merak ettirdi. Ölümsüzlüğün yavaş yavaş ortaya çıktığı, paranormal olayların sürekli yaşandığı dev bir mitolojik dünya gözler önüne serildi. Böylesine efsanevi bir dünyada sayısız insan kendi yolunu bulmaya başladı. Tutkuları asla dinmeyecek çalkantılı bir okyanus dalgası gibiydi. Kanlarındaki sıcaklık patlayan volkanlar gibiydi. Güç ve ölümsüzlük arzuları onları farkında olmadan uçuruma sürükledi. Otuz üç sınıf arkadaşı mezun olduktan sonra bir araya geldi. Bronz tabut onları dünyadan alıp bilinmeyen başka bir gezegene götürdüğünde dostlukları sınandı. Yaşama arzusu onları eski tanrıların yolunu izlemeye zorladı. Yeni bir yetiştirme dünyasına girenlerden herhangi biri ölümsüzlüğe ulaşacak mı, yoksa hepsi bu yolda ölecek mi?"
 }

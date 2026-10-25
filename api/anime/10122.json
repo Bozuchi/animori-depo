@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kowarekake no Orgel animesinin özel OVA bölümüdür.",
-    "slug": "kowarekake-no-orgel-special"
+    "slug": "kowarekake-no-orgel-special",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10122,
@@ -48,79 +49,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10122,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10122.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kowarekake no Orgel Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 27,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oykVl1F8cigCi7e1lRYx7Z4FFJwMD8YT/preview"
-        },
-        {
-          "fansub_id": 27,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EEae9lIP6ttiMCNLeAIS8gAiSrQgZt4J/preview"
-        },
-        {
-          "fansub_id": 27,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/eksenceviri/video/embed/_myvideo/1"
-        },
-        {
-          "fansub_id": 27,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715973"
-        },
-        {
-          "fansub_id": 27,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4285238"
-        },
-        {
-          "fansub_id": 27,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4465832"
-        },
-        {
-          "fansub_id": 27,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-sp149afnqp6i.html"
-        },
-        {
-          "fansub_id": 27,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-4u82oko573gj.html"
-        },
-        {
-          "fansub_id": 27,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/lmg69cxd"
-        },
-        {
-          "fansub_id": 27,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-uk0d07nrxqhe.html"
-        },
-        {
-          "fansub_id": 27,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qslvx6pklomb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T06:35:54.414003",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

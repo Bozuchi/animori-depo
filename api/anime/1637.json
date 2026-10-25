@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bir zamanlar babasının okuduğu yatılı Lacombrade Akademisine\nnakil olan Serge, okulun en sorunlu çocuklarından birisi olan Gilbert'in\noda arkadaşı olmuştur. Güzelliğini kullanarak erkekleri baştan çıkaran\nGilbert'e karşı başlarda sert bir tavır takınan Serge, zamanla ona\nyakınlaştığını fark edecektir.",
-    "slug": "kaze-to-ki-no-uta-sanctus-sei-naru-kana"
+    "slug": "kaze-to-ki-no-uta-sanctus-sei-naru-kana",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1637,
@@ -49,71 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1637,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1637-niAzUo3mHS1D.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1637-tvLm2NJfmuid.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kaze to Ki no Uta Sanctus: Sei Naru Kana",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1k1509zmq4ZwWK2YX1xITbSmpid5aQYLa/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985853181"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4445593"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3796468"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1990257"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-su05rgl00euw.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-eibsso8vjec0.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/0hp9hwwf"
-        },
-        {
-          "fansub_id": 52,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-g9nu17ckjajt.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T01:54:11.679038",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 44454,
     "type": "movie",

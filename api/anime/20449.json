@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Manganın 7. sayısına özel olarak çıkan OVA bölümüdür.",
-    "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-motenaishi-nazomeite-miru"
+    "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-motenaishi-nazomeite-miru",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 20449,
@@ -45,41 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20453,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20453-fk98PPESvktm.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20453-qLyo3mXA5t4V.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KgDmkHJ4vJQB6fVSuNR_aVm0AtS2kwq-/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931910915"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ongej18o5fai.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:56:05.888423",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 61755,
     "type": "tv",

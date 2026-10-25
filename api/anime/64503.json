@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
-    "slug": "yozakura-san-chi-no-daisakusen-2nd-season-part-2"
+    "slug": "yozakura-san-chi-no-daisakusen-2nd-season-part-2",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 64503,
@@ -49,7 +50,8 @@
           121426
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 213657,
@@ -63,6 +65,5 @@
     "episode_offset": 12,
     "name": "Yozakura-san Chi no Daisakusen"
   },
-  "synopsis_tr": "Yozakura-san Chi no Daisakusen 2. Sezonun ikinci bölümü.",
-  "episodes": []
+  "synopsis_tr": "Yozakura-san Chi no Daisakusen 2. Sezonun ikinci bölümü."
 }

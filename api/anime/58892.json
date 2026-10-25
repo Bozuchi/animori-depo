@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Bubble de House de *** The Animation",
-    "slug": "bubble-de-house-de-the-animation"
+    "slug": "bubble-de-house-de-the-animation",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 58892,
@@ -33,13 +34,13 @@
     "studios": [
       541
     ],
-    "relations": []
+    "relations": [],
+    "episode_list": []
   },
   "anilist": {
     "id": 177149,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177149-m1aT7SdzvbLc.png"
   },
-  "synopsis_tr": "Genç öğrenci Daisuke, yanlışlıkla kadınlara özel bir daireye başvurur ve evrakları kendisini kız sanacak şekilde doldurur. Orada yaşayan diğer dört kız, daha önceki evinden taşındığı için onun kalmasına izin vermeyi kabul ediyor. Daisuke yanlışlıkla banyodaki kızlardan birinin yanına girdiğinde onu birlikte yıkanmaya davet eder.",
-  "episodes": []
+  "synopsis_tr": "Genç öğrenci Daisuke, yanlışlıkla kadınlara özel bir daireye başvurur ve evrakları kendisini kız sanacak şekilde doldurur. Orada yaşayan diğer dört kız, daha önceki evinden taşındığı için onun kalmasına izin vermeyi kabul ediyor. Daisuke yanlışlıkla banyodaki kızlardan birinin yanına girdiğinde onu birlikte yıkanmaya davet eder."
 }

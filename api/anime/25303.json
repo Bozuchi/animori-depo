@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Nekoma Lisesi'nin voleybol takımı yarı Japon, yarı Rus Lev Haiba'yı kadrosuna katar. Kendi kendini as ilan eden oyuncu, boy avantajına sahip olsa da temel voleybol tekniklerinden yoksundur. Bu, takımın pasörü Kenma Kozume'ye zor anlar yaşatacaktır.",
-    "slug": "haikyuu-lev-genzan"
+    "slug": "haikyuu-lev-genzan",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 25303,
@@ -47,79 +48,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20884,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20884-Zg7MCFhTQx2I.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20884-5U9SNWxDJBeT.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Haikyuu!! Lev Genzan! OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_3GhGwzNhK7D213fuKfwYRUnjBkxnGP5/preview"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019213"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/6940.html"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1757931"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xd0ponlq5r4d.html"
-        },
-        {
-          "fansub_id": 46,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-sppku2g47l7z.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/uploadpuzz7/_myvideo/59.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667970"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762256"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3j9kp8qxj3mz.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-upzr96aszj7p.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:28:06.065125",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

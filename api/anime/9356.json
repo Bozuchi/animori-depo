@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "İki kardeş, havada duran motorlarıyla dolaşırken, aniden dev bir metal kale yollarına çıkar. Kısa bir savaşın ardından ikili, kaleyi ağır şekilde yaralamayı başarır. Geri çekilir ve kahraman çiftimizi bir çorak araziye atar. Fakat bu çorak arazide, kalenin bir dağın içine gizlendiğini gösteren göçebeler yaşıyordur. Göçebeler, ikilinin işi bitirmesi için yalvarır. Yerlilerden ikisi rehber olarak onlarla birlikte gider ve yol boyunca bir yerlerde mekanik savaşçı bir kadına dönüşebilen bir perinin yardımını alır.",
-    "slug": "cool-cool-bye"
+    "slug": "cool-cool-bye",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9356,
@@ -38,36 +39,14 @@
       2765
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9356,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9356-ccTkPWwMnxcN.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9356-QUpq1jpkhpIq.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Cool Cool Bye OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14YrHlAbpA-7lkdQE4xzcRlVPP2dW4t3w/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5049963"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:27:22.864180",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 603694,
     "type": "movie",

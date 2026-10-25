@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Psyren",
-    "slug": "psyren"
+    "slug": "psyren",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63098,
@@ -51,6 +52,29 @@
           3438
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Urban Legend",
+        "aired": "Oct 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Tavoo",
+        "aired": "Oct 12, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Psi",
+        "aired": "Oct 19, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -65,37 +89,5 @@
     "episode_offset": 0,
     "name": "PSYREN"
   },
-  "synopsis_tr": "Ageha Yoshina, başkalarına bir ücret karşılığında yardım eden, kendine güvenen bir lise öğrencisidir. İşten dönerken, bir telefon kulübesinde bırakılmış, üzerinde \"Psyren\" yazan garip bir kartvizit bulur ve amacından habersiz onu saklamaya karar verir. Hemen ertesi gün Ageha, sınıf arkadaşı Sakurako Amamiya'nın da aynı arama kartına sahip olduğunu keşfeder. Sakurako onu sorguladığında, onu kurtarmasını ister ve sorunlarının başlayacağı günün sinyalini verir. Bu karşılaşmanın koşulları karşısında kafası karışan Ageha, Sakurako kaybolunca bir şeylerin ters gittiğini fark eder. Neler olduğunu anlamak amacıyla, arama kartında belirtilen numarayı aramaya karar verir ve gizemli bir ses tarafından bir dizi soru sorulur ve son, şifreli bir soruyla biter: \"Psyren'e gitmek ister misiniz?\" Böylece iki gencin, Tabu adı verilen canavarların yaşadığı garip bir dünyada bir ölüm kalım oyununa katılımı başlar. PSI olarak bilinen psişik güçleri kullanma yeteneği verilen ikili, ev dedikleri yere dönmek için savaşır.[MAL Rewrite tarafından yazılmıştır]",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Urban Legend",
-      "episode_number": 1,
-      "aired": "Oct 5, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:10.419503"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Tavoo",
-      "episode_number": 2,
-      "aired": "Oct 12, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-15T08:14:45.537702"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Psi",
-      "episode_number": 3,
-      "aired": "Oct 19, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-21T08:31:45.365346"
-    }
-  ]
+  "synopsis_tr": "Ageha Yoshina, başkalarına bir ücret karşılığında yardım eden, kendine güvenen bir lise öğrencisidir. İşten dönerken, bir telefon kulübesinde bırakılmış, üzerinde \"Psyren\" yazan garip bir kartvizit bulur ve amacından habersiz onu saklamaya karar verir. Hemen ertesi gün Ageha, sınıf arkadaşı Sakurako Amamiya'nın da aynı arama kartına sahip olduğunu keşfeder. Sakurako onu sorguladığında, onu kurtarmasını ister ve sorunlarının başlayacağı günün sinyalini verir. Bu karşılaşmanın koşulları karşısında kafası karışan Ageha, Sakurako kaybolunca bir şeylerin ters gittiğini fark eder. Neler olduğunu anlamak amacıyla, arama kartında belirtilen numarayı aramaya karar verir ve gizemli bir ses tarafından bir dizi soru sorulur ve son, şifreli bir soruyla biter: \"Psyren'e gitmek ister misiniz?\" Böylece iki gencin, Tabu adı verilen canavarların yaşadığı garip bir dünyada bir ölüm kalım oyununa katılımı başlar. PSI olarak bilinen psişik güçleri kullanma yeteneği verilen ikili, ev dedikleri yere dönmek için savaşır.[MAL Rewrite tarafından yazılmıştır]"
 }

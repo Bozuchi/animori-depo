@@ -4,7 +4,8 @@
     "puan": "9.16",
     "bolum_durumu": "1/1",
     "ozet": "Yashiro Shinseikai'nin genç lideri ve Shinseikai Yatırım'ın başkanıdır, ama çoğu güçlü adam gibi o da sapkın ve mazoşist biri olarak çifte hayat yaşayan birisidir. Doumeki Chikara Yashiro'nun koruması olarak çalışmaya gelir ve Yashiro kendi adamlarına asla elini sürmeyeceğine karar vermiş olsa bile, Doumeki de karşı koyamadığı bir şeyler bulur. Yashiro Doumeki'ye asılmaya çalışsa bile Doumeki'nin onu reddetmek için gizemli bir sebebi vardı. Güçünü kendine zarar vermek için kullanan Yashiro ve onun her emrine sadık bir şekilde uyan Doumeki, iki erkeğin kalplerindeki müziği ve uçacak kanatları olmadan çalkantılı bir ilişkiye başlarlar.",
-    "slug": "saezuru-tori-wa-habatakanai-the-clouds-gather"
+    "slug": "saezuru-tori-wa-habatakanai-the-clouds-gather",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39761,
@@ -60,64 +61,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 109171,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109171-EhGBzwDvN3ZT.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109171-gJ51P8kLDxgt.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Saezuru Tori wa Habatakanai: The Clouds Gather",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1spq8ANwOyXeuOf5NmZ0T4Az_5sgJcxr5/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140716738"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/nkvcon4o"
-        },
-        {
-          "fansub_id": 52,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lguntvrkmsi3.html"
-        },
-        {
-          "fansub_id": 29,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668934"
-        },
-        {
-          "fansub_id": 29,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/nepenthefansub/video/embed/_myvideo/5"
-        },
-        {
-          "fansub_id": 29,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4770144"
-        },
-        {
-          "fansub_id": 29,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-owvvl7tmvn2r.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T05:30:53.531323",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

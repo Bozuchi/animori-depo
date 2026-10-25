@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Sasaki to Pii-chan Season 2",
-    "slug": "sasaki-to-pii-chan-season-2"
+    "slug": "sasaki-to-pii-chan-season-2",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 58518,
@@ -50,7 +51,8 @@
           142012
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 176314,
@@ -64,6 +66,5 @@
     "episode_offset": 0,
     "name": "Sasaki and Peeps"
   },
-  "synopsis_tr": "Sasaki'den Pii-chan'a ikinci sezonu.",
-  "episodes": []
+  "synopsis_tr": "Sasaki'den Pii-chan'a ikinci sezonu."
 }

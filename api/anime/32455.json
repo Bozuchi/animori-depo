@@ -4,7 +4,444 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Bir şehrin gizemli bir şekilde ortadan kaybolmasından beş yıl sonra 3D hologramlarının kullanıldığı \"Theatrical Material System\"e hayran kalan bir grup kız felaket sonrası şehrin toparlanması sırasında sahneyi canlandırmayı hedefler.",
-    "slug": "gekidol"
+    "slug": "gekidol",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Gekidol 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IT1-hbpnoZHtr49Eg_IicvOG9QLRq10J/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019560"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363384"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1304,
+            "end": 1428
+          }
+        },
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 2,
+        "title": "Gekidol 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-X9YyIT7YW3N9U8RcL2mXwjPpe2V_SxB/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363385"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 3,
+        "title": "Gekidol 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19L8xyTLg5b6EozV0vdXtV_WlhefUIo5h/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363386"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850865"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4435677"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/s9f3uqf7"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 4,
+        "title": "Gekidol 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1seYvelBdeJitRn_CtbmdI6MurYKugPfj/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363387"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140716788"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4469646"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/d2x87kah"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4frxywpr"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-40x9ms5wj04m.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 5,
+        "title": "Gekidol 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qkvX8j9zmpOs7ejEoWs5w4n2vrjhIa4E/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363390"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4515766"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-chth9sdv6vf3.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/s1903nni"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nbgbw0dwd2mo.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 6,
+        "title": "Gekidol 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18XYMdIl4ssHjRzLmZufpeURY_KfPhuRF/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363391"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140716307"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4467764"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/emfg06aw"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1vlhj15d"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5o9acg2zhe9x.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 7,
+        "title": "Gekidol 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13izjgKcRtVVILywAYOfmW72lmRq4fUKq/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140716311"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363413"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4467791"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/lf14h2xu"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/mawyrx8v"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-f9xm8fgxciyr.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 8,
+        "title": "Gekidol 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363414"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4532510"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-77hotduscinn.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3f3m3eac"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cbi2ul1ri86p.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 9,
+        "title": "Gekidol 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JVLThm7jFQTjis3RhY2h4KG815TYiaUX/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TdFzRzm6dOVjllIfU8pJG48CzQQrGY6A/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363517"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4515771"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jlmbd6ik3k0h.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/zbpgdef9"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-22x67xghatkw.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 10,
+        "title": "Gekidol 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QXS0qKZXtAZv4aLSXFLAeNCBtjEyQ732/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1c04eiDSy2oxpI2SzFcleMvJK6WMc90lA/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140716315"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363573"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4467813"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/anhhgcx3"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q70dhfdd"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-baap5qdn9wzr.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 11,
+        "title": "Gekidol 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Tq2dkD3faRzwZI5wBtfu45F61ukOnoCO/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363613"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4532514"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l09uja5opx98.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wnserrek"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3ryls785929l.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      },
+      {
+        "episode_number": 12,
+        "title": "Gekidol 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wPTltMiwEmINaWpH1sefkibVt4C5HTPN/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Lm2LSbXjBJGMLB8t-1-KPQJ7KjSgH2Va/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363614"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660831"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6296k4sk"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-frfee8j6kzot.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:48:39.398237"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32455,
@@ -48,497 +485,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 124131,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/124131-kcN3OgjqFS7d.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124131-lLxOgvF6jgu9.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Gekidol 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1IT1-hbpnoZHtr49Eg_IicvOG9QLRq10J/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019560"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363384"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1304,
-          "end": 1428
-        }
-      },
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-X9YyIT7YW3N9U8RcL2mXwjPpe2V_SxB/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363385"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/19L8xyTLg5b6EozV0vdXtV_WlhefUIo5h/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363386"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850865"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4435677"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/s9f3uqf7"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1seYvelBdeJitRn_CtbmdI6MurYKugPfj/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363387"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140716788"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4469646"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/d2x87kah"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4frxywpr"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-40x9ms5wj04m.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qkvX8j9zmpOs7ejEoWs5w4n2vrjhIa4E/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363390"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4515766"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-chth9sdv6vf3.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/s1903nni"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nbgbw0dwd2mo.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18XYMdIl4ssHjRzLmZufpeURY_KfPhuRF/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363391"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140716307"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4467764"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/emfg06aw"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1vlhj15d"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5o9acg2zhe9x.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13izjgKcRtVVILywAYOfmW72lmRq4fUKq/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140716311"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363413"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4467791"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/lf14h2xu"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/mawyrx8v"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-f9xm8fgxciyr.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363414"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4532510"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-77hotduscinn.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/3f3m3eac"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cbi2ul1ri86p.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JVLThm7jFQTjis3RhY2h4KG815TYiaUX/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TdFzRzm6dOVjllIfU8pJG48CzQQrGY6A/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363517"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4515771"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jlmbd6ik3k0h.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/zbpgdef9"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-22x67xghatkw.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1QXS0qKZXtAZv4aLSXFLAeNCBtjEyQ732/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1c04eiDSy2oxpI2SzFcleMvJK6WMc90lA/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140716315"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363573"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4467813"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/anhhgcx3"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/q70dhfdd"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-baap5qdn9wzr.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Tq2dkD3faRzwZI5wBtfu45F61ukOnoCO/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363613"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4532514"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-l09uja5opx98.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/wnserrek"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3ryls785929l.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gekidol 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wPTltMiwEmINaWpH1sefkibVt4C5HTPN/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Lm2LSbXjBJGMLB8t-1-KPQJ7KjSgH2Va/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685363614"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660831"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/6296k4sk"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-frfee8j6kzot.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:48:39.398237",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 110207,
     "type": "tv",

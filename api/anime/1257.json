@@ -4,7 +4,56 @@
     "puan": "0.00",
     "bolum_durumu": "1/13",
     "ozet": "Saint Seiya serisinin devam sezonudur.\nHades dünyayı ele geçirmeyi planlamakta, bu hedefe ulaşmak ve Athena'nın kafasını almak için merhum Altın Azizleri gönderir. Seiya ve diğer Bronz Azizler yardıma gelirler, ancak yardımları hâlâ hayatta kalan Altın Azizler tarafından takdir edilmez.",
-    "slug": "saint-seiya-meiou-hades-juuni-kyuu-hen"
+    "slug": "saint-seiya-meiou-hades-juuni-kyuu-hen",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Saint Seiya: Meiou Hades Juuni Kyuu-hen 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 118,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1NuqnH9ZIfwlfFrg6Ih8yPq6niK07vQMB/preview"
+          },
+          {
+            "fansub_id": 118,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715253"
+          },
+          {
+            "fansub_id": 118,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4462179"
+          },
+          {
+            "fansub_id": 118,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-h7iuayjkycyt.html"
+          },
+          {
+            "fansub_id": 118,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qknrwulq"
+          },
+          {
+            "fansub_id": 118,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/n2jf7cbt"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 3.434,
+            "end": 124.434
+          },
+          "ed": {
+            "start": 1348.803,
+            "end": 1438.803
+          }
+        },
+        "added_date": "2026-07-29T06:00:00.963652"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1257,
@@ -68,65 +117,22 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1257,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1257-VzGNktNWGzF0.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1257-tZuA879PQLZe.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Saint Seiya: Meiou Hades Juuni Kyuu-hen 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 118,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NuqnH9ZIfwlfFrg6Ih8yPq6niK07vQMB/preview"
-        },
-        {
-          "fansub_id": 118,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715253"
-        },
-        {
-          "fansub_id": 118,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4462179"
-        },
-        {
-          "fansub_id": 118,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-h7iuayjkycyt.html"
-        },
-        {
-          "fansub_id": 118,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qknrwulq"
-        },
-        {
-          "fansub_id": 118,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/n2jf7cbt"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 3.434,
-          "end": 124.434
-        },
-        "ed": {
-          "start": 1348.803,
-          "end": 1438.803
-        }
-      },
-      "added_date": "2026-07-29T06:00:00.963652",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 42444,
     "type": "tv",

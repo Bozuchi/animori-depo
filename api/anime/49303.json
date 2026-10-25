@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bir fabrikadaki patlama, küçük bir kasabada zamanın durmasına yol açarken, 14 yaşındaki Masamune ve arkadaşları her şeyi altüst eden bu yeni gerçeklikle başa çıkmaya çalışır.",
-    "slug": "alice-to-therese-no-maboroshi-koujou"
+    "slug": "alice-to-therese-no-maboroshi-koujou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 49303,
@@ -44,41 +45,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 136149,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136149-p8EcrlUdaanh.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136149-jUxwgmQ5Rite.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Alice to Therese no Maboroshi Koujou Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370982"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/899592uaraty"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ky3uc9odi13e.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T06:26:50.427393",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 845387,
     "type": "movie",

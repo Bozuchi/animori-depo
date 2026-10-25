@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kasahara Iku ve Dojo Atsushi, randevuları sırasında, Japonya'nın bir terör saldırısı sonucu sallandığı sebebiyle acil durum çağrısı alırlar.\nYeni görevleri, Touma Kurato adında bir yazarın korunmasıdır.\nBu sırada, Kütüphaneciler ve Medya Temizleme Komisyonu'nun arasındaki ilişki de gittikçe bozulmaktadır.",
-    "slug": "toshokan-sensou-kakumei-no-tsubasa"
+    "slug": "toshokan-sensou-kakumei-no-tsubasa",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 11001,
@@ -47,61 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 11001,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11001-FWTU4CQpu22s.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11001-hiWkp5cRDi1n.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Toshokan Sensou: Kakumei no Tsubasa",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 49,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12oU1BPmzr7XK6KQmAc_bMl0J5-VxpMS2/preview"
-        },
-        {
-          "fansub_id": 49,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1gJgTrd-BrqX1SAlYVCVbLUPyqgN6vggh/preview"
-        },
-        {
-          "fansub_id": 49,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5727601449156739521"
-        },
-        {
-          "fansub_id": 49,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/t5s3z5hlywna"
-        },
-        {
-          "fansub_id": 49,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1uwyi0xn8rie.html"
-        },
-        {
-          "fansub_id": 49,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-q7wfislv8jdh.html"
-        },
-        {
-          "fansub_id": 49,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-tca75hhcq5kv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:00:07.190773",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 89742,
     "type": "tv",

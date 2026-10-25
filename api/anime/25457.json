@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Gizli bir SHIELD operasyonuna müdahele eden Punisher, SHIELD ajanları ve Black Widow tarafından gözaltına alınır. Punisher'ın savaş potansiyelinin farkında olan Nick Fury ise ona bir seçim hakkı sunar. Leviathan adlı bir terörist organizasyon SHIELD teknolojisini kaçırarak en yüksek fiyatı verene satmaktadır ve şu yada bu şekilde durdurulması gerekmektedir. Şimdi kaçak kahraman Punisher özgürlüğü karşısında SHIELD ile işbirliği yapmalı ve azalan zamana karşı bu tehdidi kesin şekilde durdurmalıdır.",
-    "slug": "avengers-confidential-black-widow-to-punisher"
+    "slug": "avengers-confidential-black-widow-to-punisher",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 25457,
@@ -51,56 +52,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 108815,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108815-VV6kFhrZZ8ma.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Avengers Confidential: Black Widow to Punisher Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BvTUHyD7o9Ls0oNPPgkbsQnORZzUfaOl/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661622"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wetewpcqn7gw.html"
-        },
-        {
-          "fansub_id": 62,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jtvwJFUFP39mqLg540tl0yEReFoqdyfU/preview"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661625"
-        },
-        {
-          "fansub_id": 62,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1cauwrjiyojz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:14:15.974599",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 257346,
     "type": "movie",

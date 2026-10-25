@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Link Joker-hen olaylarından sonra Aichi ve Kai ekibi yeni kazandıkları barışı tehdit eden bir düşmanla yüzleşirler. Film, Aichi'nin Legion Mate-hen'de ortadan kaybolmasına yol açan olayları da kapsıyor.",
-    "slug": "cardfight-vanguard-movie-neon-messiah"
+    "slug": "cardfight-vanguard-movie-neon-messiah",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 23991,
@@ -57,46 +58,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20810,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20810-Fqhm9p7sABkt.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20810-aAT74eTZJbpg.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Cardfight!! Vanguard Movie: Neon Messiah",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qoIaMvPBE-0dnZw4MwAzqzOE4q4b9TrM/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MdAohVfipsJe4noKyveBkurHsC9NG0Vj/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/16"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-l3fe0wb9f7xf.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T08:10:49.767700",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 287098,
     "type": "movie",

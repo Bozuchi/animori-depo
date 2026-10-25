@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Princess Principal: Crown Handler serisinin ikinci filmidir.",
-    "slug": "princess-principal-crown-handler-movie-2"
+    "slug": "princess-principal-crown-handler-movie-2",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 41140,
@@ -58,44 +59,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 129759,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129759-4ZQ5MPyE52Py.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Princess Principal: Movie 2",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 328,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16HoZVT40uvqhVHiwzqaUJKUPPXYxPHCd/preview"
-        },
-        {
-          "fansub_id": 328,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667494"
-        },
-        {
-          "fansub_id": 328,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4674218"
-        },
-        {
-          "fansub_id": 328,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-yok4dimfu5sj.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:54:37.193962",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

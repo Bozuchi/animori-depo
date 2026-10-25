@@ -4,7 +4,36 @@
     "puan": "0.00",
     "bolum_durumu": "1/13",
     "ozet": "Clevatess Animesinin 2. Sezonu",
-    "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou"
+    "slug": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/dcnja7sadwqn"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fc0dl2kdlwzs.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6237309"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/n0b0c82d"
+          }
+        ],
+        "added_date": "2026-07-23T16:13:41.499386"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 62513,
@@ -52,7 +81,100 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Solsein, the Divine Academy",
+        "aired": "Jul 8, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Another World",
+        "aired": "Jul 15, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Hero Legend and the Village of Origin",
+        "aired": "Jul 22, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Dark Tower",
+        "aired": "Jul 29, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Battle Against Oneself",
+        "aired": "Aug 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Whispering Voice",
+        "aired": "Aug 12, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Surface World and the Hidden World",
+        "aired": "Aug 19, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Memories of a Friend",
+        "aired": "Aug 26, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Mirror Labyrinth",
+        "aired": "Sep 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Second Trial",
+        "aired": "Sep 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "What's Reflected in the Mirror",
+        "aired": "Sep 16, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "The Millennium of a Dark Beast Lord",
+        "aired": "Sep 23, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "True Hero",
+        "aired": "Sep 30, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 198946,
@@ -60,161 +182,6 @@
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg"
   },
   "synopsis_tr": "Clevatess'in ikinci sezonu.",
-  "episodes": [
-    {
-      "turkanime_title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/dcnja7sadwqn"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fc0dl2kdlwzs.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6237309"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/n0b0c82d"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:13:41.499386",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false,
-      "title": "Solsein, the Divine Academy",
-      "aired": "Jul 8, 2026"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Another World",
-      "episode_number": 2,
-      "aired": "Jul 15, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "The Hero Legend and the Village of Origin",
-      "episode_number": 3,
-      "aired": "Jul 22, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "The Dark Tower",
-      "episode_number": 4,
-      "aired": "Jul 29, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "Battle Against Oneself",
-      "episode_number": 5,
-      "aired": "Aug 5, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "Whispering Voice",
-      "episode_number": 6,
-      "aired": "Aug 12, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "The Surface World and the Hidden World",
-      "episode_number": 7,
-      "aired": "Aug 19, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Memories of a Friend",
-      "episode_number": 8,
-      "aired": "Aug 26, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "The Mirror Labyrinth",
-      "episode_number": 9,
-      "aired": "Sep 2, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "Second Trial",
-      "episode_number": 10,
-      "aired": "Sep 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "What's Reflected in the Mirror",
-      "episode_number": 11,
-      "aired": "Sep 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "The Millennium of a Dark Beast Lord",
-      "episode_number": 12,
-      "aired": "Sep 23, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    },
-    {
-      "turkanime_title": "13. Bölüm",
-      "title": "True Hero",
-      "episode_number": 13,
-      "aired": "Sep 30, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:26.404870"
-    }
-  ],
   "tmdb": {
     "id": 258348,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "7 film olarak planlanan Kara no Kyoukai filmlerinin beşincisidir.",
-    "slug": "kara-no-kyoukai-5-mujun-rasen"
+    "slug": "kara-no-kyoukai-5-mujun-rasen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4282,
@@ -75,54 +76,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4282,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4282-2UcZq3DUNH9G.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4282-R19YmET0glSZ.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kara no Kyoukai 5: Mujun Rasen",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XXtpwW8W90DmTBMuHzPSEgXcd8Pt0Wnv/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wO46uIT4hrSa6LsPXyWeOZMeyOUxGLLZ/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/doruk.n/12/120.html "
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019440"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3swx3bhi2i6o.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fd1iv13teabn.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:14:21.247601",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

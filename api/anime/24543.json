@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "“Şimdi anlıyorum… Bir şeyleri kaybetmekten korkuyorsun değil mi?”\nPersona 3 the Movie serisinin 3. filmidir.",
-    "slug": "persona-3-the-movie-3-falling-down"
+    "slug": "persona-3-the-movie-3-falling-down",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 24543,
@@ -52,54 +53,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20737,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20737-wfXXnkKd0Xrv.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20737-6FybEDNF0P6u.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Persona 3 the Movie 3: Falling Down",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GSZzT8FtMNaAI3Zc2Jr1kEcWb4jZ8HCZ/preview"
-        },
-        {
-          "fansub_id": 97,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EkRAEsRjcpMfgc6uHNduNkI60qMC6T0M/preview"
-        },
-        {
-          "fansub_id": 97,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911289"
-        },
-        {
-          "fansub_id": 97,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/adonisfansub/_myvideo/174.html"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/xlx2oqo5"
-        },
-        {
-          "fansub_id": 97,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wwwa41yh3oye.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:26:54.313261",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

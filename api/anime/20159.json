@@ -4,7 +4,203 @@
     "puan": "7.91",
     "bolum_durumu": "4/4",
     "ozet": "Bir Nintendo oyunu olan Pokemon Red ve Pokemon Green (Kuzey Amerika’da Pokemon Blue)’nin hikayesini anlatan 4 bölümlük bir anime.",
-    "slug": "pokemon-the-origin"
+    "slug": "pokemon-the-origin",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Pokemon: The Origin 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PXyw8BEHqxrnF8JuxK_Z6PGGV382Sp2n/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Gg3-nPTa89DEAZ9pLNL7sEHdvxM-bgzE/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-rwh1s64p54nq.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mq57zjnevynl.html"
+          },
+          {
+            "fansub_id": 337,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ACIB3ndhMG4VfzI-nToGuP96zRG-F6Ve/preview"
+          },
+          {
+            "fansub_id": 337,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660979"
+          },
+          {
+            "fansub_id": 337,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4572647"
+          },
+          {
+            "fansub_id": 337,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1tfmlad6jgvg.html"
+          },
+          {
+            "fansub_id": 337,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-iyxdcjnjfeei.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/xsiyahbeyazx31/_myvideo/9.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nwdl7xxxm2sh.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-szba45kqupbb.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:50:39.940164"
+      },
+      {
+        "episode_number": 2,
+        "title": "Pokemon: The Origin 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17fdlj26myiQxSBXu0kvhvVpyJ6TEUU-4/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-81esx5tgaupu.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1o10N6CjRgqQhCNiS0tfCccl90FU5C5nE/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4506249"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-z4s61pxadl7n.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/kyudfsjr"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9am7e55gxtn1.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1276,
+            "end": 1368
+          }
+        },
+        "added_date": "2026-07-29T12:50:39.940164"
+      },
+      {
+        "episode_number": 3,
+        "title": "Pokemon: The Origin 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ojdbjrpu3pi6.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-eqpwffrcp5o5.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Iv9ZxW-m15anVNTI3He1Bmb5jKsDkDA5/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685364430"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1293228"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lfxckkja3ia0.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:50:39.940164"
+      },
+      {
+        "episode_number": 4,
+        "title": "Pokemon: The Origin 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12mmd9b4msviMtm0Gk6MHud912Tzdv5os/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Xf6hsu0Q8Xk-sXuoVqcmHMwGr3SgjIqX/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852659"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4443793"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-k4q7bhyzj69m.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6xls7sf1z2qm.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-p3c18vjvdpk3.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:50:39.940164"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 20159,
@@ -50,224 +246,43 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20159,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20159-hlRzN7QIuZhT.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20159-Q4VpDs7q2j3O.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon: The Origin 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PXyw8BEHqxrnF8JuxK_Z6PGGV382Sp2n/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Gg3-nPTa89DEAZ9pLNL7sEHdvxM-bgzE/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rwh1s64p54nq.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mq57zjnevynl.html"
-        },
-        {
-          "fansub_id": 337,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ACIB3ndhMG4VfzI-nToGuP96zRG-F6Ve/preview"
-        },
-        {
-          "fansub_id": 337,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660979"
-        },
-        {
-          "fansub_id": 337,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4572647"
-        },
-        {
-          "fansub_id": 337,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1tfmlad6jgvg.html"
-        },
-        {
-          "fansub_id": 337,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-iyxdcjnjfeei.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/xsiyahbeyazx31/_myvideo/9.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nwdl7xxxm2sh.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-szba45kqupbb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:50:39.940164",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Pokemon: The Origin 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17fdlj26myiQxSBXu0kvhvVpyJ6TEUU-4/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-81esx5tgaupu.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1o10N6CjRgqQhCNiS0tfCccl90FU5C5nE/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4506249"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-z4s61pxadl7n.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/kyudfsjr"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9am7e55gxtn1.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1276,
-          "end": 1368
-        }
-      },
-      "added_date": "2026-07-29T12:50:39.940164",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Pokemon: The Origin 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ojdbjrpu3pi6.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-eqpwffrcp5o5.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Iv9ZxW-m15anVNTI3He1Bmb5jKsDkDA5/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685364430"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1293228"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lfxckkja3ia0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:50:39.940164",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Pokemon: The Origin 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12mmd9b4msviMtm0Gk6MHud912Tzdv5os/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Xf6hsu0Q8Xk-sXuoVqcmHMwGr3SgjIqX/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852659"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4443793"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-k4q7bhyzj69m.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-6xls7sf1z2qm.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-p3c18vjvdpk3.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:50:39.940164",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 61295,
     "type": "tv",

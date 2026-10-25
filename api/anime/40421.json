@@ -4,7 +4,8 @@
     "puan": "9.29",
     "bolum_durumu": "1/1",
     "ozet": "TV Animesi Grup Given'ın gitaristi ve onun liseden sınıf arkadaşı Mafuyu Sato'ya yoğunlaşırken, film grubun bas gitaristi Haruki Nakama'nın baterist Akihiko Kaji ve Akihiko'nun oda arkadaşı ve eski erkek arkadaşı Ugetsu Murata ile olan aşk ilişkisi çevresinde dönüyor.",
-    "slug": "given-movie"
+    "slug": "given-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40421,
@@ -64,161 +65,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 111734,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/111734-e9qFEmADPAzs.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111734-82sWJBotlzE8.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Given Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VJiHnkrTN_oi0KgvD6S7VeUc5fhy9ubx/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/571224138646/video/embed/_myvideo/660"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/a9bafita"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668211"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461599042"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4763921"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hb2bax5dflcf.html"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-sog1uiabwexw.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5727601449156739578"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/6412852675095823142"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4876092"
-        },
-        {
-          "fansub_id": 25,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/1a5pym3yh6v9"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7aiavyox"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-k2pwaffwnxjd.html"
-        },
-        {
-          "fansub_id": 243,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668212"
-        },
-        {
-          "fansub_id": 243,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4763938"
-        },
-        {
-          "fansub_id": 243,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-10o0xlt15tqg.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668213"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4763960"
-        },
-        {
-          "fansub_id": 52,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-h7exfi7omaiq.html"
-        },
-        {
-          "fansub_id": 29,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TrBLSTku_QUTD9wn8FbYu57yAoC3Mpqg/preview"
-        },
-        {
-          "fansub_id": 29,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/nepenthesubs/video/embed/17/52"
-        },
-        {
-          "fansub_id": 29,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/cntwm5ug"
-        },
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1LvAAD4Cdn1XIOJkp9NAOU4vm_5CpYgVq/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/canluthien27789/video/embed/_myvideo/104"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4227796"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/k0mvxipx"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:58:47.051835",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 632632,
     "type": "movie",

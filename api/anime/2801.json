@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Serinin baharı konu alan moviesidir.",
-    "slug": "candy-candy-haru-no-yobigoe"
+    "slug": "candy-candy-haru-no-yobigoe",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2801,
@@ -64,41 +65,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2801,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2801-DolWQZD9UscB.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Candy Candy OVA - Baharın Sesleri",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682367523"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-y0b99ickse6n.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7fq6rdc6"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:36:24.748030",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 9160,
     "type": "tv",

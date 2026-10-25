@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikâye Quon ve Cezbediciler isimli arkadaşlarını konu almaktadır. Cezbediciler uyanmakta olan ve özel güçlere sahip insanlardır. Quon ise güçlerini yeni kazanan, uyanmakta olan kişilerin hepsini kurtarmakta kararlıdır. Ancak Quon'un aksine onlara İnsania ismi veren ve onları avlayan bir organizasyon da vardır. Peki ya Quon ne yapacak?",
-    "slug": "towa-no-quon-1-utakata-no-kaben"
+    "slug": "towa-no-quon-1-utakata-no-kaben",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10294,
@@ -52,44 +53,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10294,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10294.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Towa no Quon Movie 1: Utakata no Kaben",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1knzskJeyVTTqJK6iACtDrBMLl7a2Z6QL/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016565"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1832187"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7vnro5w34kgz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:14:16.223461",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

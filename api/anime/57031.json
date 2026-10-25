@@ -4,7 +4,42 @@
     "puan": "0.00",
     "bolum_durumu": "1/12",
     "ozet": "Evsiz ve işinden yeni çıkmış Mito Yamamoto, tanıdık yalnızlık ve umutsuzlukla karşı karşıyadır. Şans kesinlikle Mito'nun yanında değil; Bir kafeye rastlayıp elini kestiğinde, Ruka Saotome adındaki garip bir sunucu yarasındaki kanı yalıyor ve hatta bariz iğrenç tadı karşısında dramatik bir şekilde öğürüyor. Kırılan ve morali bozulan Mito, sefaletine bir son vermeyi umarak bir köprüye koşar.\n\nAncak Mito yanlışlıkla kayanca, onun bir vampir olduğunu ortaya çıkaran Ruka tarafından mucizevi bir şekilde kurtarılır. Gizemli nedenlerden dolayı herhangi bir kadından kan içemeyen Ruka, Mito'nun bir vampirin insan hizmetkarı ve temel besin kaynağı olan esareti olmasını önerir. Bu anlaşmayla Ruka, Mito'ya sevgi yağdırarak kanını tatlandıracak ve Mito, evi diyebileceği sıcak bir yere kavuşacaktır.\n\nAncak bir sorun vardır: Mito bir kızdır! Uzun, dalgalı saçlarını ve kadınsı vücudunu gizleyen Mito, bu şansı hemen değerlendirir ve Ruka ile birlikte kafede yarı zamanlı çalışırken Hijirigaoka Erkek Lisesi'ne kaydolur. Ancak Mito'nun Ruka'yla bağı derinleştikçe sırrını saklamakta daha çok zorlanır.",
-    "slug": "vampire-dormitory"
+    "slug": "vampire-dormitory",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Vampire Dormitory 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 15,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DvIF4_LoOLa4xPWiF6F03vxCD_RWjsor/preview"
+          },
+          {
+            "fansub_id": 15,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7432059985078518319"
+          },
+          {
+            "fansub_id": 15,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/0w6v2davfjiw"
+          },
+          {
+            "fansub_id": 15,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/k1hs3xpu"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1293,
+            "end": 1382
+          }
+        },
+        "added_date": "2026-07-30T15:02:12.325565"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 57031,
@@ -50,51 +85,22 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 170604,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170604-2Ljw3APzUY4z.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170604-VwLdBL8Gip9Z.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Vampire Dormitory 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 15,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DvIF4_LoOLa4xPWiF6F03vxCD_RWjsor/preview"
-        },
-        {
-          "fansub_id": 15,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7432059985078518319"
-        },
-        {
-          "fansub_id": 15,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/0w6v2davfjiw"
-        },
-        {
-          "fansub_id": 15,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/k1hs3xpu"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1293,
-          "end": 1382
-        }
-      },
-      "added_date": "2026-07-30T15:02:12.325565",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 238903,
     "type": "tv",

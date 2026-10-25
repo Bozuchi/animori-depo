@@ -4,7 +4,36 @@
     "puan": "0.00",
     "bolum_durumu": "1/104",
     "ozet": "Kozue hevesli bir voleybol oyuncusudur ve hayali Japon milli voleybol takımında oynamaktır. Seri lise voleybol turnuvasından uluslararası voleybol turnuvasına kadar adım adım ilerliyor. Kozue kariyer basamaklarını hızlı bir şekilde tırmanır ama aynı zamanda başarının karanlık tarafı ile karşılaşır. Büyük beklentiler, kibir ve kıskançlık gibi ciddi sorunlarla karşı karşıyadır.",
-    "slug": "attack-no-1"
+    "slug": "attack-no-1",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Attack No.1 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 66,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eYQbd3-kz7L9Gq9E7u9MmwUkopimQVE5/preview"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7019"
+          },
+          {
+            "fansub_id": 66,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3811110"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-t75qf339chux.html"
+          }
+        ],
+        "added_date": "2026-07-23T03:14:09.041610"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1550,
@@ -58,46 +87,22 @@
         ]
       }
     ],
-    "episodes": 104
+    "episodes": 104,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1550,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1550-UWVAdQvlFnQ0.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1550-bhaPXtT9dk2h.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Attack No.1 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 66,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eYQbd3-kz7L9Gq9E7u9MmwUkopimQVE5/preview"
-        },
-        {
-          "fansub_id": 66,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7019"
-        },
-        {
-          "fansub_id": 66,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3811110"
-        },
-        {
-          "fansub_id": 66,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-t75qf339chux.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:14:09.041610",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 46348,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Aşırı sıcak bir gün, Yoriko ve Aoi görev sırasında yaşlı bir bayanın ihbarı ile park halindeki bir aracı kontrol ederler. Araç resmen hurda halindedir ancak içerisinden çıkan çalıntı silahlar bütün işi değiştirmiştir. Natsumi, özel birlikten daha yeni gelmiştir ancak bir hoş geldin partisi yapılmadan göreve çıkar. Miyuki ile devriye gezmeyi çok özlemiş anlaşılan, sıkışık trafikte ilerlerken birden trafik ışıklarındaki sorun yüzünden feci bir kazadan kıl payı kurtulurlar.\nBulunan özel tim (S.W.A.T) silahları, karışan trafik ışıları, gelen bir telefon ve ardından da havaya uçurulan bir köprü",
-    "slug": "taiho-shichau-zo-the-movie"
+    "slug": "taiho-shichau-zo-the-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2013,
@@ -71,71 +72,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2013,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2013-E5l2Xf9KTAgk.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "You're Under Arrest! The",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eOm_T76A5yVi1Pl4XA0TUWg7AthrgMm6/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1gilNq-IjUq4gJjmxajLB9Ko0Dj0NXpUP/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359663842"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015654"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845346"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4614870"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4060681"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-euz7vj9fgjl2.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gas0ibf6o2i4.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:46:26.028211",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 43032,
     "type": "tv",

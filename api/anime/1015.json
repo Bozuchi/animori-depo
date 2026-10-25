@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Full Metal Panic! The Second Raid serisine ait OVA bölümdür.",
-    "slug": "full-metal-panic-the-second-raid-wari-to-hima-na-sentaichou-no-ichinichi"
+    "slug": "full-metal-panic-the-second-raid-wari-to-hima-na-sentaichou-no-ichinichi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1015,
@@ -49,59 +50,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1015,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1015-GKd8zzF8I3H7.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Full Metal Panic! : The Second Raid OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1j3lly-y7EvYLENpKHsWMaQExUfR539L-/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359654893"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4519300"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4067808"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ety86o8ruo0z.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kum7e88jcoyb.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-g83kli611uqy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T21:39:00.652424",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

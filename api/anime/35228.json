@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikaye çok küçük yaşta annesini kaybettiği için Japon ordusunda yüksek rütbeli bir memur olan babası tarafından büyütülen Benio \"Haikara-san\" Hanamura'nın etrafında geçiyor. Bunun sonucunda, Haikara-san erkek gibi bir kız olur. Japonyada kadınlara karşı olan geleneksel tutumun aksine, kendo çalışır, sake içer, geleneksel kimono yerine sıklıkla acayip görünümlü Batı tarzında giyinir ve fıtratında olmasına rağmen ev işlerine eğilimli değildir. Ayrıca görücü usulü evlilik fikrine de karşı çıkan ve kadınların kariyer yapma haklarına sahip olduğunu aşık olarak evlenmeleri gerektiğine inanan bir kızdır.",
-    "slug": "haikara-san-ga-tooru-movie-2-hana-no-tokyo-dai-roman"
+    "slug": "haikara-san-ga-tooru-movie-2-hana-no-tokyo-dai-roman",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 35228,
@@ -60,49 +61,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 100652,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100652-eRomTXnXdfNh.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman Film",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 101,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NIbanAZrG4OZdxQoQtvgKZ128l4UdRWF/preview"
-        },
-        {
-          "fansub_id": 101,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MFnsgczWTcVeHZ5UDcrqeQOrMr1e5Gpf/preview"
-        },
-        {
-          "fansub_id": 101,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qz9t7lnq"
-        },
-        {
-          "fansub_id": 101,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-stqmoyyhcmko.html"
-        },
-        {
-          "fansub_id": 101,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-llmy2tswjcu7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:26:33.309472",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

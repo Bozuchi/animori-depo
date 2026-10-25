@@ -4,7 +4,8 @@
     "puan": "8.89",
     "bolum_durumu": "1/1",
     "ozet": "Natsume Yuujinchou'nun mangakası Midorikawa Yuki'nin aynı adlı One-Shot mangasından uyarlanan anime",
-    "slug": "hotarubi-no-mori-e"
+    "slug": "hotarubi-no-mori-e",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10408,
@@ -49,96 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10408,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10408-kZhXe0uVrAd2.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10408-PlKJ6DAyvMk2.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hotarubi no Mori e",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271190062"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/22/132.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1881226"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/y0aukhvp"
-        },
-        {
-          "fansub_id": 247,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xUSpaZGDWxOxndb07Try6iOmIFZNw85z/preview"
-        },
-        {
-          "fansub_id": 247,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4074073"
-        },
-        {
-          "fansub_id": 247,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4074106"
-        },
-        {
-          "fansub_id": 247,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/goytse2h"
-        },
-        {
-          "fansub_id": 247,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-q5bshkbutzg5.html"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271190063"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3064244"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5fkgah6q"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15KAFjxvPuqpnHUJoqs7IO2nYC0ijkRrK/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5799882"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:22:33.375811",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 92321,
     "type": "movie",

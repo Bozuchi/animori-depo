@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Ao no Hako Season 2",
-    "slug": "ao-no-hako-season-2"
+    "slug": "ao-no-hako-season-2",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 61323,
@@ -53,6 +54,29 @@
           135545
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Déjà Vu",
+        "aired": "Oct 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Admiration",
+        "aired": "Oct 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "They're One and the Same",
+        "aired": "Oct 18, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -67,37 +91,5 @@
     "episode_offset": 0,
     "name": "Blue Box"
   },
-  "synopsis_tr": "Ao no Hako'nun ikinci sezonu.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Déjà Vu",
-      "episode_number": 1,
-      "aired": "Oct 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:36.911116"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Admiration",
-      "episode_number": 2,
-      "aired": "Oct 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:38:11.316753"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "They're One and the Same",
-      "episode_number": 3,
-      "aired": "Oct 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-22T08:32:26.402722"
-    }
-  ]
+  "synopsis_tr": "Ao no Hako'nun ikinci sezonu."
 }

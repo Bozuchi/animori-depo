@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yawara Inokuma, Atlanta Olimpiyat Oyunları'nda Japonya'yı temsil ederken turnuva boyunca birkaç tanıdık yüze rastlar.",
-    "slug": "yawara-zutto-kimi-no-koto-ga"
+    "slug": "yawara-zutto-kimi-no-koto-ga",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2009,
@@ -55,46 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2009,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2009.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yawara! Special: Zutto Kimi no Koto ga...",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KgnYq0eReSSA2xtGY1JRoiRKit3QggYC/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1894_W_3vNzfvI5N6IbETweF1FsgW9nfj/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931912118"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qwi2t3v6ilim.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:10:10.274800",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30395,
     "type": "tv",

@@ -4,7 +4,168 @@
     "puan": "0.00",
     "bolum_durumu": "6/12",
     "ozet": "Hikâyemiz Tsunehiro Sasaki hakkında, borç içinde yüzen ve yalnızca iki yıllık ömrü kaldığını öğrenen depresif bir üniversite öğrencisi. Borç tahsildarlarından kaçarken denize düşen Tsunehiro, Hana ve Takaaki isimli arkadaşlar tarafından kurtarılır ve kendisi de onlar gibi balıkçılığa tutulur.",
-    "slug": "negaposi-angler"
+    "slug": "negaposi-angler",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "NegaPosi Angler 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 18,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11nnDtuK4CiA51nd7FaOb8a35u8s3evy-/preview"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7725655522707244767"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-c8687li7j458.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 61.886,
+            "end": 151.886
+          }
+        },
+        "added_date": "2026-07-27T15:37:24.598760"
+      },
+      {
+        "episode_number": 2,
+        "title": "NegaPosiAngler 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 18,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fIdrCvPRQO9EUJhuOLACTgxEXGhNGIpQ/preview"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7725655522707244776"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-npne5vu094zd.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 93.93,
+            "end": 183.93
+          }
+        },
+        "added_date": "2026-07-27T15:37:24.598760"
+      },
+      {
+        "episode_number": 3,
+        "title": "NegaPosi Angler 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 18,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1c3nX6KTRZ-XoWA8d9WoLYo8YsunJASUv/preview"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7725655522707244799"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-k2w7g6kthlp3.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 57.437,
+            "end": 147.437
+          },
+          "ed": {
+            "start": 1330,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-27T15:37:24.598760"
+      },
+      {
+        "episode_number": 4,
+        "title": "NegaPosi Angler 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 18,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pZSr3WF38b2mOb0Ysi8nCl0ean4oBVVz/preview"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7725655522707244802"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-x9ezchpaml86.html"
+          }
+        ],
+        "added_date": "2026-07-27T15:37:24.598760"
+      },
+      {
+        "episode_number": 5,
+        "title": "NegaPosiAngler 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 18,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-PaIB0rLVmi2wbvhLNhmXnnWXB1i92vT/preview"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7725655522707244873"
+          }
+        ],
+        "added_date": "2026-07-27T15:37:24.598760"
+      },
+      {
+        "episode_number": 6,
+        "title": "NegaPosi Angler 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 18,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Q3l0uAl9drr23_k9tQGGSwGijeCfSkoG/preview"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7725655522707244875"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dv3yb1vgnp1q.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 43,
+            "end": 133
+          },
+          "ed": {
+            "start": 1330,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-27T15:37:24.598760"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59425,
@@ -38,194 +199,57 @@
       1567
     ],
     "relations": [],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 179919,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179919-TbOS7rwx2P60.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179919-KLuGsnqnhkPb.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "NegaPosi Angler 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 18,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11nnDtuK4CiA51nd7FaOb8a35u8s3evy-/preview"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7725655522707244767"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-c8687li7j458.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 61.886,
-          "end": 151.886
-        }
-      },
-      "added_date": "2026-07-27T15:37:24.598760",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "NegaPosiAngler 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 18,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fIdrCvPRQO9EUJhuOLACTgxEXGhNGIpQ/preview"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7725655522707244776"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-npne5vu094zd.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 93.93,
-          "end": 183.93
-        }
-      },
-      "added_date": "2026-07-27T15:37:24.598760",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "NegaPosi Angler 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 18,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1c3nX6KTRZ-XoWA8d9WoLYo8YsunJASUv/preview"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7725655522707244799"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-k2w7g6kthlp3.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 57.437,
-          "end": 147.437
-        },
-        "ed": {
-          "start": 1330,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-27T15:37:24.598760",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "NegaPosi Angler 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 18,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pZSr3WF38b2mOb0Ysi8nCl0ean4oBVVz/preview"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7725655522707244802"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-x9ezchpaml86.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T15:37:24.598760",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "NegaPosiAngler 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 18,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-PaIB0rLVmi2wbvhLNhmXnnWXB1i92vT/preview"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7725655522707244873"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T15:37:24.598760",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "NegaPosi Angler 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 18,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Q3l0uAl9drr23_k9tQGGSwGijeCfSkoG/preview"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7725655522707244875"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-dv3yb1vgnp1q.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 43,
-          "end": 133
-        },
-        "ed": {
-          "start": 1330,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-27T15:37:24.598760",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 260689,
     "type": "tv",

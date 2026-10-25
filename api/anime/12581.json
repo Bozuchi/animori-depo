@@ -4,7 +4,61 @@
     "puan": "7.31",
     "bolum_durumu": "1/1",
     "ozet": "Kagami Yuki Elit bir lisede okumak için burs kazanmıştır.Ne yazık ki isminin kız ismine benzemesinden dolayı öğretmen Kakinozaki Ayana onu kız olarak kaydetmiştir. Kız yurdunda yaşamak zorundadır. Buna itiraz etsede okul müdüresi başka şans bırakmaz. Öğretmen Kakinozaki Ayana'yı da ona göz kulak olması için iki kişilik bir oda ayarlar. Eğer yurtta bir sorun çıkartırlarsa ikiside okuldan ve yurttan atılacaktırlar.Bu yüzden Yuki yurtta kız kılığında gezmektedir.Yurttan kız kılığında çıktıktan sonra elbiselerini değiştirip okula erkek olarak devam etmektedir.Acaba Yuki bu zor şartlara ve sexy öğretmeniyle birlikte yaşamaya dayanabilecekmidir.",
-    "slug": "asa-made-jugyou-chu"
+    "slug": "asa-made-jugyou-chu",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Asa Made Jugyou Chu! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AnP0PkIII3rI9JFcqmvvLYjPWwNTvsdN/preview"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/sweetparade/_myvideo/191.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271190245"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2726060"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4522097"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-217tgtaz8cbb.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8qkdhart"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/y9rdsvzy"
+          },
+          {
+            "fansub_id": 46,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-eve59bp19djk.html"
+          }
+        ],
+        "added_date": "2026-07-23T02:54:41.723160"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 12581,
@@ -51,71 +105,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 12581,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12581-mfhxWi9fUVHJ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12581-zuxlLTXGltfU.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Asa Made Jugyou Chu! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AnP0PkIII3rI9JFcqmvvLYjPWwNTvsdN/preview"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/sweetparade/_myvideo/191.html"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271190245"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2726060"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4522097"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-217tgtaz8cbb.html"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8qkdhart"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/y9rdsvzy"
-        },
-        {
-          "fansub_id": 46,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-eve59bp19djk.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:54:41.723160",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 288737,
     "type": "movie",

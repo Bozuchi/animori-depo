@@ -4,7 +4,8 @@
     "puan": "9.09",
     "bolum_durumu": "1/1",
     "ozet": "Film dünyanın en kötü şöhretli büyü loncası Faiy Tail'in önüne çıkan Eclair isimli gizemli bir kız etrafında döner. O iki Phoenix taşını bir yere götürmesi gerekliliği dışında tüm hafızasını kaybetmiştir. Taşlar tüm büyü dünyasının yıkımına sebep olabilecek güçtedir ve Natsu, Lucy ve diğer Fairy Tail loncası üyeleri bu olayların ortasında kalmıştır.",
-    "slug": "fairy-tail-movie-1-houou-no-miko"
+    "slug": "fairy-tail-movie-1-houou-no-miko",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 12049,
@@ -54,41 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 12049,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n12049-kyR6RCH0IAgo.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12049-FIx0K2s81SPa.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Fairy Tail Movie 1: Houou no Miko",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 76,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366281"
-        },
-        {
-          "fansub_id": 76,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5pad9gus"
-        },
-        {
-          "fansub_id": 76,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-g8mzrkn43ctf.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T01:02:23.279411",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 135531,
     "type": "movie",

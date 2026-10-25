@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Serinin parodi OVA bölümüdür.",
-    "slug": "tono-to-issho"
+    "slug": "tono-to-issho",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 7591,
@@ -62,56 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 7591,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7591-iLgQjOYSqTE3.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7591-1SBLDks2XkWn.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tono to Issho OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1aFCnhUNks8_vTUHG1E_-smy2Ex3iUCiN/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Id-NSHypdMFv5ewwbF8vaJWsqu5ARGyM/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661784"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4589915"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-0bgscc2mwf4e.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-w8memgrm49b9.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T17:44:53.717812",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 36729,
     "type": "tv",

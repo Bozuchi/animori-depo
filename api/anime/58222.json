@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Given serisinin 3. filmi, Hiiragi Mix filminin devamıdır.",
-    "slug": "given-movie-3-umi-e"
+    "slug": "given-movie-3-umi-e",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 58222,
@@ -52,29 +53,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 175199,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175199-WxlBkrVGK8Fg.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Given Movie 3: Umi e",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 242,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/69"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:58:55.591496",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,60 @@
     "puan": "0.00",
     "bolum_durumu": "2/13",
     "ozet": "Ryo Hazuki, babasının öldürülmesine tanık olduktan sonra hayatını babasının ölümünden sorumlu adamı bulmaya adar. Bu görev onu Japonya'nın Yokosuka sokaklarında büyümesinden, Hong Kong metropolüne ve ötesine götürür. İntikam arayışında nihai dövüş sanatçısı olmak için eğitilirken çok geçmeden daha büyük, mistik güçlerin oyunda olduğunu öğrenecektir. İlk olarak 1999 yılında piyasaya sürülen ''Shenmue'' isimli video oyunundan esinlenilmiştir.",
-    "slug": "shenmue-the-animation"
+    "slug": "shenmue-the-animation",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Shenmue the Animeation 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 346,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TqZ8Rw6TbGoYHeLPDDmRBI2vipJZUH4u/preview"
+          },
+          {
+            "fansub_id": 346,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ootHcXMIrxpe-tD7Pw_TRqhhOG3E202A/preview"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1424
+          }
+        },
+        "added_date": "2026-07-29T12:58:10.619687"
+      },
+      {
+        "episode_number": 2,
+        "title": "Shenmue the Animeation 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 346,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VYbN5V91Dt5C_vIFHWvwlUXT03XUKgZ_/preview"
+          },
+          {
+            "fansub_id": 346,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AYUQrBReL29CYhktnZUFSW5gLgGBWrsm/preview"
+          },
+          {
+            "fansub_id": 346,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-uqp2yo9yyca7.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1330,
+            "end": 1426
+          }
+        },
+        "added_date": "2026-07-29T12:58:10.619687"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 42808,
@@ -46,72 +99,29 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 123752,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123752-T6yktnBk8AeY.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shenmue the Animeation 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 346,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TqZ8Rw6TbGoYHeLPDDmRBI2vipJZUH4u/preview"
-        },
-        {
-          "fansub_id": 346,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ootHcXMIrxpe-tD7Pw_TRqhhOG3E202A/preview"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1424
-        }
-      },
-      "added_date": "2026-07-29T12:58:10.619687",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Shenmue the Animeation 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 346,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VYbN5V91Dt5C_vIFHWvwlUXT03XUKgZ_/preview"
-        },
-        {
-          "fansub_id": 346,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AYUQrBReL29CYhktnZUFSW5gLgGBWrsm/preview"
-        },
-        {
-          "fansub_id": 346,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-uqp2yo9yyca7.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1330,
-          "end": 1426
-        }
-      },
-      "added_date": "2026-07-29T12:58:10.619687",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 108891,
     "type": "tv",

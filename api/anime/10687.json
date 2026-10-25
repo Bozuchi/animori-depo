@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Güncellenecektir.",
-    "slug": "saint-seiya-legend-of-sanctuary"
+    "slug": "saint-seiya-legend-of-sanctuary",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10687,
@@ -47,41 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10687,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10687-FTzLIQSolcQF.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10687-iDNjbDXrZQ2U.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Saint Seiya: Legend of Sanctuary",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hU-ckBeH6muURkZszM33J8I4UGUmE3eW/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850030"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847360"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T05:59:56.616661",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 42444,
     "type": "tv",

@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Keroro Gunsou☆",
-    "slug": "keroro-gunsou"
+    "slug": "keroro-gunsou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63157,
@@ -51,6 +52,15 @@
           516
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Keroro's Dreamland",
+        "aired": "Oct 3, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -65,17 +75,5 @@
     "episode_offset": 0,
     "name": "KERORO☆"
   },
-  "synopsis_tr": "Sıfırdan yeni bir Keroro Gunsou.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Keroro's Dreamland",
-      "episode_number": 1,
-      "aired": "Oct 3, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:47.541455"
-    }
-  ]
+  "synopsis_tr": "Sıfırdan yeni bir Keroro Gunsou."
 }

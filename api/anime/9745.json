@@ -4,7 +4,41 @@
     "puan": "7.22",
     "bolum_durumu": "1/1",
     "ozet": "Film, Toyotomi Hideyoshi tarafından başlatılan savaştan sonra, ancak Japonya'nın Shogun'unu belirleyecek olan Sekigahara savaşını konu alıyor.",
-    "slug": "sengoku-basara-movie-the-last-party"
+    "slug": "sengoku-basara-movie-the-last-party",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Sengoku Basara: The Last Party 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DT4-RlOfNM4i-GFt5wqVNxiPfOzHtaM7/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845719"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852271"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4064532"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3urqipwxieam.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:42:21.116753"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9745,
@@ -60,51 +94,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9745,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9745-2IUfJems8Asg.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sengoku Basara: The Last Party 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DT4-RlOfNM4i-GFt5wqVNxiPfOzHtaM7/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845719"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852271"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4064532"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3urqipwxieam.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:42:21.116753",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 25492,
     "type": "tv",

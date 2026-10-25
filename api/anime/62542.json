@@ -4,7 +4,41 @@
     "puan": "0.00",
     "bolum_durumu": "1/12",
     "ozet": "Iori Kitahara ve Kouhei Imamura, üniversite hayatının tadını (ve bolca alkolünü) çıkarmaya devam ederken, dalış kulübünün çılgın kıdemlileriyle birlikte yeni sahil maceralarına, adalara yapılan çılgın yolculuklara ve bitmek bilmeyen çıplak parti geleneklerine yelken açarlar. Bu sezonda ekip, nihayet \"gerçekten\" daha fazla su altı dalışı yapmaya odaklanmaya çalışsa da, kıskançlık krizleri, yanlış anlaşılmalarla dolu aşk üçgenleri ve sınavları geçme çabaları her zamanki gibi işleri çığırından çıkarır. Iori’nin kuzenleri Chisa ve Nanaka ile olan ilişkileri, kulübün diğer üyelerinin de dahil olduğu devasa ve komik kaoslarla test edilmeye devam eder.",
-    "slug": "grand-blue-season-3"
+    "slug": "grand-blue-season-3",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Grand Blue Season 3 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/58b2kfe6cf1h"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-eunuf369t1q8.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/54wuvjwt"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 10.178,
+            "end": 100.178
+          },
+          "ed": {
+            "start": 2416.247,
+            "end": 2811
+          }
+        },
+        "added_date": "2026-07-26T00:33:13.345651"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 62542,
@@ -55,7 +89,93 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Unfinished Business",
+        "aired": "Jul 7, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Homecoming",
+        "aired": "Jul 14, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Saving Private Passport",
+        "aired": "Jul 21, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Oceans of Palau",
+        "aired": "Jul 28, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "TV Special",
+        "aired": "Aug 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Assist",
+        "aired": "Aug 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Mother",
+        "aired": "Aug 18, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Mixer, Round 2",
+        "aired": "Aug 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Ordeals",
+        "aired": "Sep 1, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Lottery",
+        "aired": "Sep 8, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Back in Okinawa (A-Side)",
+        "aired": "Sep 15, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Back in Okinawa (B-Side)",
+        "aired": "Sep 22, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 199111,
@@ -69,154 +189,5 @@
     "episode_offset": 0,
     "name": "Grand Blue"
   },
-  "synopsis_tr": "Grand Blue'nun üçüncü sezonu.",
-  "episodes": [
-    {
-      "turkanime_title": "Grand Blue Season 3 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/58b2kfe6cf1h"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-eunuf369t1q8.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/54wuvjwt"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 10.178,
-          "end": 100.178
-        },
-        "ed": {
-          "start": 2416.247,
-          "end": 2811
-        }
-      },
-      "added_date": "2026-07-26T00:33:13.345651",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false,
-      "title": "Unfinished Business",
-      "aired": "Jul 7, 2026"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Homecoming",
-      "episode_number": 2,
-      "aired": "Jul 14, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Saving Private Passport",
-      "episode_number": 3,
-      "aired": "Jul 21, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "The Oceans of Palau",
-      "episode_number": 4,
-      "aired": "Jul 28, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "TV Special",
-      "episode_number": 5,
-      "aired": "Aug 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "Assist",
-      "episode_number": 6,
-      "aired": "Aug 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "Mother",
-      "episode_number": 7,
-      "aired": "Aug 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Mixer, Round 2",
-      "episode_number": 8,
-      "aired": "Aug 25, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "Ordeals",
-      "episode_number": 9,
-      "aired": "Sep 1, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "Lottery",
-      "episode_number": 10,
-      "aired": "Sep 8, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "Back in Okinawa (A-Side)",
-      "episode_number": 11,
-      "aired": "Sep 15, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "Back in Okinawa (B-Side)",
-      "episode_number": 12,
-      "aired": "Sep 22, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:25:00.428046"
-    }
-  ]
+  "synopsis_tr": "Grand Blue'nun üçüncü sezonu."
 }

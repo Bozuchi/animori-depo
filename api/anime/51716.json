@@ -4,7 +4,43 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Her şeyi yok edip evrene hükmetmek isteyen yeni ve korkunç bir düşman, Ay Savaşçısı'nın arkadaşlarını ve sevdiklerini teker teker hedef almaya başlar.",
-    "slug": "bishoujo-senshi-sailor-moon-cosmos-movie"
+    "slug": "bishoujo-senshi-sailor-moon-cosmos-movie",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Bishoujo Senshi Sailor Moon Cosmos Movie 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372134"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/3feh7qg7yclo"
+          }
+        ],
+        "added_date": "2026-07-23T04:51:45.064970"
+      },
+      {
+        "episode_number": 2,
+        "title": "Bishoujo Senshi Sailor Moon Cosmos Movie 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372135"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ixok7hxhraj0"
+          }
+        ],
+        "added_date": "2026-07-23T04:51:45.064970"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 51716,
@@ -66,57 +102,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 148149,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148149-dVUcKlezzLG0.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148149-BevkRzKDtNIx.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Bishoujo Senshi Sailor Moon Cosmos Movie 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372134"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/3feh7qg7yclo"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T04:51:45.064970",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Bishoujo Senshi Sailor Moon Cosmos Movie 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372135"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ixok7hxhraj0"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T04:51:45.064970",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 968868,
     "type": "movie",

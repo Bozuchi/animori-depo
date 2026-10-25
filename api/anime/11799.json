@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikaye gizemli bir yeşil kedi ve onun nereden geldiğini araştıran özel bir dedektif hakkında. Kedinin iyi şans getirdiği düşünülse de aslında ilişki kurduğu herkese şanssızlık getirmiştir.",
-    "slug": "midori-no-neko"
+    "slug": "midori-no-neko",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 11799,
@@ -53,46 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 11799,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11799.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Midori no Neko",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RssCT7d8wPQoEQyy8eoqBIHauW1kvOyh/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271189319"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1770281"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gw86g7fesp3b.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:01:56.769273",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 400139,
     "type": "movie",

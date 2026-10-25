@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "U.A. öğrencileri ve Pro Hero'lar, giderek büyüyen bir krizle karşı karşıya. Yeni düşmanlar, toplumun huzurunu bozmak için harekete geçerken, Deku ve arkadaşları bir kez daha kahramanlıklarını kanıtlamak zorunda kalıyor. “You're Next” ismiyle dikkat çeken bu yeni macera, kahramanların en büyük sınavını gözler önüne seriyor.",
-    "slug": "boku-no-hero-academia-the-movie-4-you-re-next"
+    "slug": "boku-no-hero-academia-the-movie-4-you-re-next",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 56196,
@@ -66,41 +67,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 168013,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/168013-QWt9yFzOj4BY.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168013-eeyN5L8tmYKI.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Boku no Hero Academia: You're Next Movie 4",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xsQ3f0h78o3NKs3BVX4LPAEyFQ97bLTQ/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/8320106634588200881"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/qfvy5bt9xlkd"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T06:23:52.787000",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1159311,
     "type": "movie",

@@ -4,7 +4,144 @@
     "puan": "0.00",
     "bolum_durumu": "7/10",
     "ozet": "Hikari no Ou animesinin 2. sezonu",
-    "slug": "hikari-no-ou-2nd-season"
+    "slug": "hikari-no-ou-2nd-season",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Hikari no Ou 2nd Season 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371671"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/9s3j6ticzu57"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1337,
+            "end": 1430
+          }
+        },
+        "added_date": "2026-07-26T03:34:04.647953"
+      },
+      {
+        "episode_number": 2,
+        "title": "Hikari no Ou 2nd Season 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371672"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/riuio6dbzy0l"
+          }
+        ],
+        "added_date": "2026-07-26T03:34:04.647953"
+      },
+      {
+        "episode_number": 3,
+        "title": "Hikari no Ou 2nd Season 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371673"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/mf590npttkvr"
+          }
+        ],
+        "added_date": "2026-07-26T03:34:04.647953"
+      },
+      {
+        "episode_number": 4,
+        "title": "Hikari no Ou 2nd Season 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371840"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/tbfc24whv3on"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-4r8viozemsun.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:34:04.647953"
+      },
+      {
+        "episode_number": 5,
+        "title": "Hikari no Ou 2nd Season 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372273"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/41nehzkzdb84"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pbuucuwo50o4.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:34:04.647953"
+      },
+      {
+        "episode_number": 6,
+        "title": "Hikari no Ou 2nd Season 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372274"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-bg57qfmmgwqg.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:34:04.647953"
+      },
+      {
+        "episode_number": 7,
+        "title": "Hikari no Ou 2nd Season 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372275"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jbz07qghzn6z.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:34:04.647953"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 54754,
@@ -51,177 +188,64 @@
         ]
       }
     ],
-    "episodes": 10
+    "episodes": 10,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 162842,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162842-zs6SfZgw6SYL.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hikari no Ou 2nd Season 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371671"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/9s3j6ticzu57"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1337,
-          "end": 1430
-        }
-      },
-      "added_date": "2026-07-26T03:34:04.647953",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hikari no Ou 2nd Season 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371672"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/riuio6dbzy0l"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:34:04.647953",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hikari no Ou 2nd Season 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371673"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/mf590npttkvr"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:34:04.647953",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hikari no Ou 2nd Season 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371840"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/tbfc24whv3on"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-4r8viozemsun.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:34:04.647953",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hikari no Ou 2nd Season 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372273"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/41nehzkzdb84"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pbuucuwo50o4.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:34:04.647953",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hikari no Ou 2nd Season 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372274"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bg57qfmmgwqg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:34:04.647953",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hikari no Ou 2nd Season 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372275"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jbz07qghzn6z.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:34:04.647953",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 156688,
     "type": "tv",

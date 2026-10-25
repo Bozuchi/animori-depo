@@ -4,7 +4,8 @@
     "puan": "9.09",
     "bolum_durumu": "1/1",
     "ozet": "Trinity Seven serisinin 2. filmidir.",
-    "slug": "trinity-seven-movie-2-heavens-library-to-crimson-lord"
+    "slug": "trinity-seven-movie-2-heavens-library-to-crimson-lord",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37986,
@@ -58,51 +59,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 103631,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103631-LUdp603NQ36A.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Trinity Seven Movie 2: Tenkuu Toshokan to Shinku no Maou",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xmzbkZK3Kx1TY9TT4Lr7e9VMQozE59tq/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ztivxo70i8ry.html"
-        },
-        {
-          "fansub_id": 34,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1305"
-        },
-        {
-          "fansub_id": 34,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8sa51fkil0xw.html"
-        },
-        {
-          "fansub_id": 179,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ih0ar99uwnk3.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:26:20.548111",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 570269,
     "type": "movie",

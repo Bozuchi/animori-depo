@@ -4,7 +4,8 @@
     "puan": "6.93",
     "bolum_durumu": "1/1",
     "ozet": "Dünya uzaylıların saldırısına uğramıştır. Uzaylılarla Mücadele Örgütünden Arikawa bir gün, hafızasını kaybetmiş olan Kakashi ile karşılaşır. Uzaylılarla savaşabilen Kakashi, Arikawa ve Shiro ile birlikte yaşamaya başlayacaktır.",
-    "slug": "kono-danshi-uchuujin-to-tatakaemasu"
+    "slug": "kono-danshi-uchuujin-to-tatakaemasu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 11355,
@@ -49,64 +50,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 11355,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11355-Jyx651oiiskI.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kono Danshi, Uchuujin to Tatakaemasu",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nSGCrZTMjvhR6thikowhXDPBFT3QbQ5d/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3796501"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-s0lftkot1oli.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-m47ig284sumi.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1t6qb0gwopmc.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/651/652.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2ucog2iefh39.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1jtrrri0lhki.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:51:56.596515",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

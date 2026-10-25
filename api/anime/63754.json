@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Shiotaiou no Satou-san ga Ore ni dake Amai",
-    "slug": "shiotaiou-no-satou-san-ga-ore-ni-dake-amai"
+    "slug": "shiotaiou-no-satou-san-ga-ore-ni-dake-amai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63754,
@@ -42,6 +43,22 @@
           135563
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Cold Sato-san",
+        "aired": "Oct 6, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "A Second First Love",
+        "aired": "Oct 13, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -56,27 +73,5 @@
     "episode_offset": 0,
     "name": "The Cold Sato-san Is Only Sweet to Me"
   },
-  "synopsis_tr": "Koharu Satou, sınıf arkadaşları tarafından \"ulaşılamaz çiçek\" olarak tanınır; gülümsemeyi reddetmesi herkesi kendinden uzak tutan soğuk ve mesafeli bir kızdır. Ancak Souta Oshio, ailesinin kafesinde yanlışlıkla Satou'nun sırrına rastlar. \"Buz gibi Satou-san\"ın aslında inanılmaz derecede utangaç ve beceriksiz bir kız olduğu ve kafenin sosyal medyası için tatlıların fotoğrafını çekmek kadar basit bir şeyle bile mücadele ettiği ortaya çıktı. Kameralara ve tatlılara olan ortak sevgileri nedeniyle ikilinin arasındaki mesafe giderek daralıyor. Bu büyüleyici romantik komedi, sevimli olduğu kadar tatlı da olan bir hikayede, sosyal açıdan garip iki insanın duygularını yönlendirmesini konu alıyor.(Kaynak: MAL Haberleri)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "The Cold Sato-san",
-      "episode_number": 1,
-      "aired": "Oct 6, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:40:10.866571"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "A Second First Love",
-      "episode_number": 2,
-      "aired": "Oct 13, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-16T08:07:38.647008"
-    }
-  ]
+  "synopsis_tr": "Koharu Satou, sınıf arkadaşları tarafından \"ulaşılamaz çiçek\" olarak tanınır; gülümsemeyi reddetmesi herkesi kendinden uzak tutan soğuk ve mesafeli bir kızdır. Ancak Souta Oshio, ailesinin kafesinde yanlışlıkla Satou'nun sırrına rastlar. \"Buz gibi Satou-san\"ın aslında inanılmaz derecede utangaç ve beceriksiz bir kız olduğu ve kafenin sosyal medyası için tatlıların fotoğrafını çekmek kadar basit bir şeyle bile mücadele ettiği ortaya çıktı. Kameralara ve tatlılara olan ortak sevgileri nedeniyle ikilinin arasındaki mesafe giderek daralıyor. Bu büyüleyici romantik komedi, sevimli olduğu kadar tatlı da olan bir hikayede, sosyal açıdan garip iki insanın duygularını yönlendirmesini konu alıyor.(Kaynak: MAL Haberleri)"
 }

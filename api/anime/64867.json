@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Umayuru: Full Gate!",
-    "slug": "umayuru-full-gate"
+    "slug": "umayuru-full-gate",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 64867,
@@ -48,6 +49,15 @@
           35249
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Seven Heads Are Better than One",
+        "aired": "Sep 27, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -55,17 +65,5 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx215835-B0seSw93V5qM.png"
   },
-  "synopsis_tr": "Yeni bir Umayuru sezonu.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Seven Heads Are Better than One",
-      "episode_number": 1,
-      "aired": "Sep 27, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:29.683855"
-    }
-  ]
+  "synopsis_tr": "Yeni bir Umayuru sezonu."
 }

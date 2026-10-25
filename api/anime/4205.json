@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kimikiss Pure Rouge Animesinin OVA Bölümüdür.",
-    "slug": "kimikiss-pure-rouge-love-fighter"
+    "slug": "kimikiss-pure-rouge-love-fighter",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4205,
@@ -45,54 +46,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4205,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4205.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kimi Kiss Pure Rouge OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CjTFyh-cynrSnGNoUOhill4YYjhojZIU/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851855"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2735951"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4440555"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-izgu87qg99d7.html"
-        },
-        {
-          "fansub_id": 75,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-vfmemcwmvnzt.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:36:36.659843",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

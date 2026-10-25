@@ -4,7 +4,8 @@
     "puan": "7.27",
     "bolum_durumu": "1/1",
     "ozet": "Bu \"gizemli okul komedisi\" lise edebiyat kulübünün sıradışı üyelerinden bahsetmektedir. Üst sınıf lise öğrencisi, kulüp başkanı Tōko Amano, hikâye yiyen bir youkai olmasına rağmen, kendine \"edebiyat kızı\" demektedir. Kitaplardan yemek için sayfalarını koparır. Kulüpte yardımcısı Konoha Inoue, Amano'nun her gün yemesi için hikâye yazan bir lise 2 öğrencisidir. Bir zamanlar ödül kazana bir roman yazmıştır, ama bunu Miu Inoue adıyla yazdığından okuyucuları yazarının 14 yaşında gizemli bir bishoujo yazarı olduğunu düşünmektedir. Romanın ünü, filmi ve televizyon dizisi planları stresi, Inoue'yi içine kapanık birisine dönüştürmüştür.",
-    "slug": "bungaku-shoujo-movie"
+    "slug": "bungaku-shoujo-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 6408,
@@ -61,46 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 6408,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6408-UsXM2RcYTCZd.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Bungaku Shoujo",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1B2t8EAKv-5suPzGOjiTMNcCXPCwyoiyC/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//mail/sweetparade/_myvideo/1027.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016415"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2804544"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-17T05:14:01.727481",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 96737,
     "type": "tv",

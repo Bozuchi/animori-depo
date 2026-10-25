@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/3",
     "ozet": "To Heart 2'nin kızlarını anlatan ve her bölümü ayrı bir karaktere odaklanan hikaye koleksiyonu.",
-    "slug": "to-heart-2-ova"
+    "slug": "to-heart-2-ova",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1720,
@@ -54,7 +55,8 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 1720,

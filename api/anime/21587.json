@@ -4,7 +4,115 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "KDDI R&D laboratuvarında kısa yer alan bu seri, bilim insanlarının geleceği için aramasını mümkün kılan icadı yaratmasını anlatıyor. Ama telefonu kullanırken bir olay olur ve macera başlar.",
-    "slug": "mou-hitotsu-no-mirai-wo"
+    "slug": "mou-hitotsu-no-mirai-wo",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Mou Hitotsu no Mirai wo. 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 228,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1beOwt-lYQlAGjge1sSEWs7c0D9X8dlLa/preview"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/yoichigremory/_myvideo/4.html"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017416"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1594"
+          },
+          {
+            "fansub_id": 228,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1452693"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ydb040gx3a87.html"
+          }
+        ],
+        "added_date": "2026-07-27T13:24:04.191512"
+      },
+      {
+        "episode_number": 2,
+        "title": "Mou Hitotsu no Mirai wo. 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 228,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1N79LVTBTAQbF-SPgVN1QasMT1YKV0vOe/preview"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/yoichigremory/_myvideo/7.html"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017417"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1595"
+          },
+          {
+            "fansub_id": 228,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1452694"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-yef6qod7bgl3.html"
+          }
+        ],
+        "added_date": "2026-07-27T13:24:04.191512"
+      },
+      {
+        "episode_number": 3,
+        "title": "Mou Hitotsu no Mirai wo. 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 228,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-OMSO_EjLV5fS8a0n6JDPMP1XXgXmK7h/preview"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/yoichigremory/_myvideo/8.html"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017418"
+          },
+          {
+            "fansub_id": 228,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1596"
+          },
+          {
+            "fansub_id": 228,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1452702"
+          }
+        ],
+        "added_date": "2026-07-27T13:24:04.191512"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 21587,
@@ -37,133 +145,14 @@
       1197
     ],
     "relations": [],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 20557,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20557.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mou Hitotsu no Mirai wo. 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 228,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1beOwt-lYQlAGjge1sSEWs7c0D9X8dlLa/preview"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/yoichigremory/_myvideo/4.html"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017416"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1594"
-        },
-        {
-          "fansub_id": 228,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1452693"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ydb040gx3a87.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:24:04.191512",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Mou Hitotsu no Mirai wo. 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 228,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1N79LVTBTAQbF-SPgVN1QasMT1YKV0vOe/preview"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/yoichigremory/_myvideo/7.html"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017417"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1595"
-        },
-        {
-          "fansub_id": 228,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1452694"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-yef6qod7bgl3.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:24:04.191512",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Mou Hitotsu no Mirai wo. 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 228,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-OMSO_EjLV5fS8a0n6JDPMP1XXgXmK7h/preview"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/yoichigremory/_myvideo/8.html"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017418"
-        },
-        {
-          "fansub_id": 228,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1596"
-        },
-        {
-          "fansub_id": 228,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1452702"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:24:04.191512",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 116058,
     "type": "tv",

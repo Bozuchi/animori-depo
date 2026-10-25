@@ -4,7 +4,61 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Sıcak bir yaz gününde beş üniversite öğrencisi hazine aramak adına kütüphane deposuna sızarlar. İtalya'dan gelmiş olan 14-20 yaşları arasında olan iki adet kadın mumya bulurlar. Öğrencilerden biri olan Sayaka lahidin kapağını açar ve ''Yaşam taşı'' denilen, mumyalara büyük güç veren ve sonsuz yaşam sağlayan bir taşı çıkartır. Mumya kızlar yüz yılın ardından uyanır ve taşı geri almak adına önlerine geleni güç için öldürürler, cesetleri yerler. Öğrencilerin tek kurtuluşu zombi kızları öldürmektir. Kurtulabilecekler midir?",
-    "slug": "aru-zombie-shoujo-no-sainan"
+    "slug": "aru-zombie-shoujo-no-sainan",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Aru Zombie Shoujo no Sainan (ONA) 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 104,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/inbox/kreyiz/video/embed/_myvideo/77"
+          },
+          {
+            "fansub_id": 104,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4879051"
+          },
+          {
+            "fansub_id": 104,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3386179"
+          },
+          {
+            "fansub_id": 104,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-edf16wexdwug.html"
+          },
+          {
+            "fansub_id": 37,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EXGTlTR5kSE_9j_RwfCDJV5dUHiyNhmz/preview"
+          },
+          {
+            "fansub_id": 37,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1nwUuP2C-NQ-GBFMglG5nZcTXwICPwJIv/preview"
+          },
+          {
+            "fansub_id": 37,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140719730"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1qzauvna"
+          },
+          {
+            "fansub_id": 37,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5020tgmn6atk.html"
+          }
+        ],
+        "added_date": "2026-07-23T02:54:34.630988"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37735,
@@ -54,71 +108,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101525,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101525-XGGpR242xpbG.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101525-ftZuzvzcQBSF.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Aru Zombie Shoujo no Sainan (ONA) 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 104,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/inbox/kreyiz/video/embed/_myvideo/77"
-        },
-        {
-          "fansub_id": 104,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4879051"
-        },
-        {
-          "fansub_id": 104,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3386179"
-        },
-        {
-          "fansub_id": 104,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-edf16wexdwug.html"
-        },
-        {
-          "fansub_id": 37,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EXGTlTR5kSE_9j_RwfCDJV5dUHiyNhmz/preview"
-        },
-        {
-          "fansub_id": 37,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nwUuP2C-NQ-GBFMglG5nZcTXwICPwJIv/preview"
-        },
-        {
-          "fansub_id": 37,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140719730"
-        },
-        {
-          "fansub_id": 37,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1qzauvna"
-        },
-        {
-          "fansub_id": 37,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5020tgmn6atk.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:54:34.630988",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 534515,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Sihirli Ağaç Evi\n\nİki kardeşin gizemli ağaç evi bulmaları sonrasında zaman ve mekanın dışındaki mecerası başlıyor.\n\nJack, ağabey, kitap okumayı ve ders çalışmayı seven çelimsiz bir çocuktur. Diğer yandan kız kardeşi Annie ise neşeli ve cesur bir kişiliğe sahip, hayvanlara ilgi duyan ve macerayı seven bir tiptir. Farklı kişiliklere sahip olsalar da abi-kardeş iyi geçinmektedirler. Bir gün Jack ve Annie ormanın içinde ağacın tepesine yapılmış tuhaf bir kulübe bulurlar. Bu kulübe Sihrli Ağaç Evi'nin bir parçası olup zaman ve mekanın dışında yolculuk edebilmektedir.\n\nKulübenin içinde Jack ve Annie Morgan ile karşılaşırlar. Ona yardım etmek isteyen kardeşler, kitaptaki ipuçlarından yola çıkıp 4 farklı yerde saklanan madalyonları bulup \"mucize\" gerçekleştirmek zorundadırlar.",
-    "slug": "magic-tree-house"
+    "slug": "magic-tree-house",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10690,
@@ -38,46 +39,14 @@
       30
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10690,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10690-TspMYnHVVB3B.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10690-WgEwXgZjRkNE.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Magic Tree House Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qC4paFdkey5y3xrCt7OUfldx6z0Ax1Qx/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849769"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121548"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4430466"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:33:08.875076",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 126710,
     "type": "movie",

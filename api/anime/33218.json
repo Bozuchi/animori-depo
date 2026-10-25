@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikâye sahil şehrinde yaşayan liseli kız Nagisa Yukiai'ye odaklanır. Büyükannesinin hikâyesindeki kelimelerin içinde \"Kotodama\" (Kelime Ruhu) denilen ruhların yaşadığına inanır. Bir gün, yıllardır kullanılmayan mini FM istasyonunun içine girer. Anlık bir dürtü olarak, istasyonu kullanan bir DJ gibi davranmaya çalışır. Ama sesi tesadüfen yayınlanıp hiç beklemediği birine ulaşır.",
-    "slug": "kimi-no-koe-wo-todoketai"
+    "slug": "kimi-no-koe-wo-todoketai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 33218,
@@ -36,46 +37,14 @@
       11
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21683,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21683-XBeis4e7Qmeu.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21683-aEvZcmtN7Wtt.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kimi no Koe wo Todoketai",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 105,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1QcYAgr-094bvzF_EbyItQwZ4dh2q6_sg/preview"
-        },
-        {
-          "fansub_id": 105,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140719818"
-        },
-        {
-          "fansub_id": 105,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/2aqmjttw"
-        },
-        {
-          "fansub_id": 105,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hsgzn8b8o8of.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:28:31.828702",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 461078,
     "type": "movie",

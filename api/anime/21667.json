@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Non Non Biyori animesinin OVA bölümüdür.",
-    "slug": "non-non-biyori-okinawa-e-ikukoto-ni-natta"
+    "slug": "non-non-biyori-okinawa-e-ikukoto-ni-natta",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 21667,
@@ -55,56 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20497,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20497.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20497-pVKkeqqNWhDs.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Non Non Biyori OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 76,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-MNysjzA2t1OUa8tGYm_HP5ewQkgnvVl/preview"
-        },
-        {
-          "fansub_id": 76,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FRnl6uk4HoDJNiorovijKz8949DbkcbR/preview"
-        },
-        {
-          "fansub_id": 76,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931908232"
-        },
-        {
-          "fansub_id": 76,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931908233"
-        },
-        {
-          "fansub_id": 76,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5670.html"
-        },
-        {
-          "fansub_id": 76,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1523904"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:50:58.891181",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 66875,
     "type": "tv",

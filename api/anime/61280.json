@@ -4,7 +4,101 @@
     "puan": "0.00",
     "bolum_durumu": "7/12",
     "ozet": "Izu-Oshima'da yaşayan ve lise birinci sınıf öğrencisi olan Ai Yasumi, mangaları her şeyden çok sevmektedir. Uzun zamandır hayranı olduğu ancak uzun süredir sessizliğini koruyan favori manga sanatçısı Hoshi no Rei'nin COMITIA festivalinde bir sergi açacağını öğrendiğinde, heyecanla Tokyo'ya doğru yola çıkar.\n\nAncak bu etkinlikte yaşayacağı kader kilitli bir karşılaşmanın, hayatını sonsuza dek değiştireceğinden tamamen habersizdir.\n\n\"Bir insan nasıl manga sanatçısı olur?\" Ai, anladığını sandığı ama aslında hakkında çok az şey bildiği manga üretim dünyasına ilk adımını atar. Bu hikaye, bir genç kızın profesyonel bir mangaka olma yolunda attığı o ilk cesur adımları konu alıyor.",
-    "slug": "kore-kaite-shine"
+    "slug": "kore-kaite-shine",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Kore Kaite Shine 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/5ajfebncbsui"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9unz5mauyjwm.html"
+          }
+        ],
+        "added_date": "2026-07-27T05:03:12.135302"
+      },
+      {
+        "episode_number": 2,
+        "title": "Kore Kaite Shine 2. Bölüm",
+        "videos": [],
+        "added_date": "2026-08-13T02:08:22.951679"
+      },
+      {
+        "episode_number": 3,
+        "title": "Kore Kaite Shine 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/gbzpnj4mwk2h"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fkrohsmyde3k.html"
+          }
+        ],
+        "added_date": "2026-08-13T02:08:22.951679"
+      },
+      {
+        "episode_number": 4,
+        "title": "Kore Kaite Shine 4. Bölüm",
+        "videos": [],
+        "added_date": "2026-08-13T02:08:22.951679"
+      },
+      {
+        "episode_number": 5,
+        "title": "Kore Kaite Shine 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/80silz9bg0eo"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-72yzl209gux1.html"
+          }
+        ],
+        "added_date": "2026-08-13T02:08:22.951679"
+      },
+      {
+        "episode_number": 6,
+        "title": "Kore Kaite Shine 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/ysax6sgplkeb"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-dcbvkhjkngqa.html"
+          }
+        ],
+        "added_date": "2026-08-13T02:08:22.951679"
+      },
+      {
+        "episode_number": 7,
+        "title": "Kore Kaite Shine 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/bjbdnzc91z1k"
+          }
+        ],
+        "added_date": "2026-08-23T01:26:33.168297"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 61280,
@@ -47,7 +141,93 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Magic House: What Would a Manga Protagonist Do Here?",
+        "aired": "Jul 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "You Are Brilliant: Drawing Manga Is Hard",
+        "aired": "Jul 10, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Kokoro's Heart: Draw This, Then Die!!!!",
+        "aired": "Jul 17, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Utopia: Making Manga's Better with Others",
+        "aired": "Jul 24, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Let's All Go Together! Put Your Feelings into Manga",
+        "aired": "Jul 31, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Comitia: Let's Make Manga That's Even More Interesting!",
+        "aired": "Aug 7, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Lost World: Draw as If You Mean to Kill",
+        "aired": "Aug 21, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Touch: 100 Things I Want to Draw for Manga!!!",
+        "aired": "Aug 28, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Surfing the Cyber Seas: Draw for Yourself, Not for Others",
+        "aired": "Sep 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "90% of Everything is Crap: I Need Friends to Become Stronger than Mama",
+        "aired": "Sep 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "The Two of Us: Partners Who Complement Each Other Are Precious!",
+        "aired": "Sep 18, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Next World ~ Draw What You Love. Now and Forever...",
+        "aired": "Sep 25, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 188525,
@@ -55,192 +235,6 @@
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg"
   },
   "synopsis_tr": "Izu-Oshima'da yaşayan lise birinci sınıf öğrencisi Ai Yasumi, mangayı her şeyden çok seviyor. Uzun süredir hayranlık duyduğu ancak uzun süredir aktif olmayan en sevdiği manga sanatçısı Hoshi no Rei'nin COMITIA'da sergi açacağını öğrendiğinde Tokyo'ya bir yolculuğa çıkar. Ancak beklemediği şey, etkinlikteki önemli bir karşılaşmanın hayatını sonsuza dek değiştireceğidir. \"İnsan nasıl manga sanatçısı olur?\" Ai, manga oluşturma dünyasına adım atıyor; anladığını düşündüğü ama hakkında çok az şey bildiği bir yol. Bu, mangaka olma yolunda ilk adımlarını atan bir kızın hikayesidir.(Kaynak: MAL Haberleri)",
-  "episodes": [
-    {
-      "turkanime_title": "Kore Kaite Shine 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/5ajfebncbsui"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9unz5mauyjwm.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T05:03:12.135302",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false,
-      "title": "Magic House: What Would a Manga Protagonist Do Here?",
-      "aired": "Jul 3, 2026"
-    },
-    {
-      "turkanime_title": "Kore Kaite Shine 2. Bölüm",
-      "episode_number": 2,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-08-13T02:08:22.951679",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false,
-      "title": "You Are Brilliant: Drawing Manga Is Hard",
-      "aired": "Jul 10, 2026"
-    },
-    {
-      "turkanime_title": "Kore Kaite Shine 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/gbzpnj4mwk2h"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fkrohsmyde3k.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-13T02:08:22.951679",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false,
-      "title": "Kokoro's Heart: Draw This, Then Die!!!!",
-      "aired": "Jul 17, 2026"
-    },
-    {
-      "turkanime_title": "Kore Kaite Shine 4. Bölüm",
-      "episode_number": 4,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-08-13T02:08:22.951679",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false,
-      "title": "Utopia: Making Manga's Better with Others",
-      "aired": "Jul 24, 2026"
-    },
-    {
-      "turkanime_title": "Kore Kaite Shine 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/80silz9bg0eo"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-72yzl209gux1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-13T02:08:22.951679",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false,
-      "title": "Let's All Go Together! Put Your Feelings into Manga",
-      "aired": "Jul 31, 2026"
-    },
-    {
-      "turkanime_title": "Kore Kaite Shine 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/ysax6sgplkeb"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-dcbvkhjkngqa.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-13T02:08:22.951679",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false,
-      "title": "Comitia: Let's Make Manga That's Even More Interesting!",
-      "aired": "Aug 7, 2026"
-    },
-    {
-      "turkanime_title": "Kore Kaite Shine 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/bjbdnzc91z1k"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-23T01:26:33.168297",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false,
-      "title": "Lost World: Draw as If You Mean to Kill",
-      "aired": "Aug 21, 2026"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Touch: 100 Things I Want to Draw for Manga!!!",
-      "episode_number": 8,
-      "aired": "Aug 28, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:46.718474"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "Surfing the Cyber Seas: Draw for Yourself, Not for Others",
-      "episode_number": 9,
-      "aired": "Sep 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:46.718474"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "90% of Everything is Crap: I Need Friends to Become Stronger than Mama",
-      "episode_number": 10,
-      "aired": "Sep 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:46.718474"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "The Two of Us: Partners Who Complement Each Other Are Precious!",
-      "episode_number": 11,
-      "aired": "Sep 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:46.718474"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "Next World ~ Draw What You Love. Now and Forever...",
-      "episode_number": 12,
-      "aired": "Sep 25, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:46.718474"
-    }
-  ],
   "tmdb": {
     "id": 287028,
     "type": "tv",

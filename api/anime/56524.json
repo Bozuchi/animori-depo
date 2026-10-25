@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Tunshi Xingkong 4th Season",
-    "slug": "tunshi-xingkong-4th-season"
+    "slug": "tunshi-xingkong-4th-season",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 56524,
@@ -59,6 +60,71 @@
           64458
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Episode 86",
+        "aired": "Oct 3, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Episode 95",
+        "aired": "Nov 28, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 88,
+        "title": "Episode 173",
+        "aired": "May 27, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 90,
+        "title": "Episode 175",
+        "aired": "Jun 10, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 100,
+        "title": "Episode 185",
+        "aired": "Aug 19, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 115,
+        "title": "Episode 200",
+        "aired": "Dec 2, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 120,
+        "title": "Episode 205",
+        "aired": "Jan 6, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 140,
+        "title": "Episode 225",
+        "aired": "May 26, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 156,
+        "title": "Episode 241",
+        "aired": "Sep 15, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -66,97 +132,5 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166219-tREIb5l5huVe.png"
   },
-  "synopsis_tr": "Tunshi Xingkong'un dördüncü sezonu.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Episode 86",
-      "episode_number": 1,
-      "aired": "Oct 3, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:18.139574"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "Episode 95",
-      "episode_number": 10,
-      "aired": "Nov 28, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:18.139574"
-    },
-    {
-      "turkanime_title": "88. Bölüm",
-      "title": "Episode 173",
-      "episode_number": 88,
-      "aired": "May 27, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:18.139574"
-    },
-    {
-      "turkanime_title": "90. Bölüm",
-      "title": "Episode 175",
-      "episode_number": 90,
-      "aired": "Jun 10, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:18.139574"
-    },
-    {
-      "turkanime_title": "100. Bölüm",
-      "title": "Episode 185",
-      "episode_number": 100,
-      "aired": "Aug 19, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:18.139574"
-    },
-    {
-      "turkanime_title": "115. Bölüm",
-      "title": "Episode 200",
-      "episode_number": 115,
-      "aired": "Dec 2, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:18.139574"
-    },
-    {
-      "turkanime_title": "120. Bölüm",
-      "title": "Episode 205",
-      "episode_number": 120,
-      "aired": "Jan 6, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:18.139574"
-    },
-    {
-      "turkanime_title": "140. Bölüm",
-      "title": "Episode 225",
-      "episode_number": 140,
-      "aired": "May 26, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:18.139574"
-    },
-    {
-      "turkanime_title": "156. Bölüm",
-      "title": "Episode 241",
-      "episode_number": 156,
-      "aired": "Sep 15, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:18.139574"
-    }
-  ]
+  "synopsis_tr": "Tunshi Xingkong'un dördüncü sezonu."
 }

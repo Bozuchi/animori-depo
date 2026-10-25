@@ -4,7 +4,62 @@
     "puan": "0.00",
     "bolum_durumu": "4/7",
     "ozet": "Zamana geri dönmek için çaresiz bir arayışa giren Guan Chao, Zaman Silahı'na (Time Gun) güç verebilecek enerji kaynağı \"Pyrolite\"ın peşinde tüm dünyayı altüst eder. Ancak bu arayış, kaza eseri Hafıza Bürosu'na (Memory Bureau) düşmesiyle beklenmedik bir yön kazanır.\n\nGerçek dünyaya dönmenin bir yolunu bulabilmek için Guan Chao; hafıza yöneticileri Fangtang, Bai Zhong ve diğerleriyle güçlerini birleştirmek ve hafıza katmanlarındaki \"BUG\" varlıklarını kat kat temizlemek zorundadır. Yine de savaş üstüne savaş sona ererken, onu bekleyen şey bozulmuş verilerden çok daha fazlasıdır… Hafızanın derinliklerine gömülmüş en büyük gerçek, yavaş yavaş uyanmaya başlamaktadır.",
-    "slug": "jiyi-guanli-ju-2026"
+    "slug": "jiyi-guanli-ju-2026",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Jiyi Guanli Ju (2026) 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/hruwpg87owjw"
+          }
+        ],
+        "added_date": "2026-08-14T02:06:37.011929"
+      },
+      {
+        "episode_number": 2,
+        "title": "Jiyi Guanli Ju (2026) 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/pvt90zf3727z"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-tl5wmpg2q6wf.html"
+          }
+        ],
+        "added_date": "2026-08-15T01:20:38.128155"
+      },
+      {
+        "episode_number": 3,
+        "title": "Jiyi Guanli Ju (2026) 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/hij8866cmo04"
+          }
+        ],
+        "added_date": "2026-08-15T01:20:38.128155"
+      },
+      {
+        "episode_number": 4,
+        "title": "Jiyi Guanli Ju (2026) 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/9x0mjrlyjgj1"
+          }
+        ],
+        "added_date": "2026-08-15T01:20:38.128155"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 60568,
@@ -48,82 +103,20 @@
         ]
       }
     ],
-    "episodes": 7
+    "episodes": 7,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 141953,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141953-5o87aOKuZf8c.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141953-S3RozQSOxzrw.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Jiyi Guanli Ju (2026) 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/hruwpg87owjw"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-14T02:06:37.011929",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Jiyi Guanli Ju (2026) 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/pvt90zf3727z"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-tl5wmpg2q6wf.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-15T01:20:38.128155",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Jiyi Guanli Ju (2026) 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/hij8866cmo04"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-15T01:20:38.128155",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Jiyi Guanli Ju (2026) 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/9x0mjrlyjgj1"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-15T01:20:38.128155",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

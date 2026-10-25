@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Dark Machine: The Animation",
-    "slug": "dark-machine-the-animation"
+    "slug": "dark-machine-the-animation",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 59415,
@@ -34,13 +35,13 @@
     "studios": [
       2157
     ],
-    "relations": []
+    "relations": [],
+    "episode_list": []
   },
   "anilist": {
     "id": 179876,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179876-Wg62CAzp5WQ1.jpg"
   },
-  "synopsis_tr": "Yakın gelecekte e-spor Dark Machine, toplumu ve hatta Japonya ekonomisini yeniden şekillendiren küresel bir fenomen haline geldi. Japonya'da Dark Machine için özel ekonomik bölge olarak belirlenen tek bölge, oyundaki en güçlü oyuncu olan Senki unvanını alan yedinci kişi olan, en iyi oyuncusu Ajima'nın hakim olduğu bir şehir olan Golden Valley'dir. Rahmetli büyükbabasının son sözleri olan \"Senki'yi Bul\"un ardından Kairi, Altın Vadi'ye gider. Orada, beklenmedik bir şekilde Ajima'nın grubu Aldabil tarafından avlanan Rudra adlı kızla tanışır. Kendi sorunlarının içine çekilen Kairi, bir Dark Machine oyuncusu olur. Birbiri ardına gelen yoğun savaşlarla kendi gizli yeteneğini geliştirmeye başlar. Kairi rütbeleri yükseldikçe Senki ile yüzleşmeye ve büyükbabasının son mesajının ardındaki gerçeği keşfetmeye yaklaşır. Dark Machine'in zirvesine ulaşma mücadelesi başlamak üzere.(Kaynak: MAL Haberleri)",
-  "episodes": []
+  "synopsis_tr": "Yakın gelecekte e-spor Dark Machine, toplumu ve hatta Japonya ekonomisini yeniden şekillendiren küresel bir fenomen haline geldi. Japonya'da Dark Machine için özel ekonomik bölge olarak belirlenen tek bölge, oyundaki en güçlü oyuncu olan Senki unvanını alan yedinci kişi olan, en iyi oyuncusu Ajima'nın hakim olduğu bir şehir olan Golden Valley'dir. Rahmetli büyükbabasının son sözleri olan \"Senki'yi Bul\"un ardından Kairi, Altın Vadi'ye gider. Orada, beklenmedik bir şekilde Ajima'nın grubu Aldabil tarafından avlanan Rudra adlı kızla tanışır. Kendi sorunlarının içine çekilen Kairi, bir Dark Machine oyuncusu olur. Birbiri ardına gelen yoğun savaşlarla kendi gizli yeteneğini geliştirmeye başlar. Kairi rütbeleri yükseldikçe Senki ile yüzleşmeye ve büyükbabasının son mesajının ardındaki gerçeği keşfetmeye yaklaşır. Dark Machine'in zirvesine ulaşma mücadelesi başlamak üzere.(Kaynak: MAL Haberleri)"
 }

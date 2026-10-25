@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/2",
     "ozet": "Serinin Special bölümleridir.",
-    "slug": "angel-beats-specials"
+    "slug": "angel-beats-specials",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9062,
@@ -46,44 +47,12 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 9062,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9062-zjqULNv5aHsL.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9062-x3XnEGxK4eqh.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Angel Beats! Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 101,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4411308"
-        },
-        {
-          "fansub_id": 101,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-i92yvpw0dmgg.html"
-        },
-        {
-          "fansub_id": 101,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hvjjm46mmc9o.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1103079"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:36:28.832766",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

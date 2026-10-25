@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "2/1+",
     "ozet": "Yumeiro Pâtissière'nin 1 bölümlük OVA Serisidir.",
-    "slug": "yume-iro-patissiere-mune-kyun-tropical-island"
+    "slug": "yume-iro-patissiere-mune-kyun-tropical-island",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8894,
@@ -45,41 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 8894,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8894.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yume-iro Pâtissière: Mune Kyun Tropical Island OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 142,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682367465"
-        },
-        {
-          "fansub_id": 142,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4381081"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-e2ne3lwqgpp4.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:08:35.936162",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 45999,
     "type": "tv",

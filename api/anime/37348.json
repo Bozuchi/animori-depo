@@ -4,7 +4,8 @@
     "puan": "9.14",
     "bolum_durumu": "1/1",
     "ozet": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka serisinin filmidir.",
-    "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya"
+    "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37348,
@@ -45,61 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101166,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101166-PWizjkwXdZGR.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101166-aF8tzfuui6Bp.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 213,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VJKdv-kid0dSVApJGYfvlbyn5kK5uLZA/preview"
-        },
-        {
-          "fansub_id": 213,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1aqG0mSvf2DQ3Q-a6CFCmF0CcNMwvNwUs/preview"
-        },
-        {
-          "fansub_id": 213,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659804"
-        },
-        {
-          "fansub_id": 213,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/ashikagafansub/video/embed/_myvideo/9"
-        },
-        {
-          "fansub_id": 213,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pi0nssew"
-        },
-        {
-          "fansub_id": 213,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0vr84bon0r5k.html"
-        },
-        {
-          "fansub_id": 34,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-g921sh3hnndx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:42:03.192181",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 553835,
     "type": "movie",

@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-    "slug": "yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta"
+    "slug": "yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 62753,
@@ -46,6 +47,29 @@
           188793
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "I Was a Faceless, Evil NPC Heiress",
+        "aired": "Oct 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Tea Party with the Love Interests",
+        "aired": "Oct 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Enrolling on the Set of an Otome Game?!",
+        "aired": "Oct 18, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -60,37 +84,5 @@
     "episode_offset": 0,
     "name": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé"
   },
-  "synopsis_tr": "Ters harem otome oyununda kötü niyetli bir kız olarak yeniden doğdum. Pia Rockwell, 10 yaşındayken yüksek ateşle hastalandıktan sonra aniden Japonya'da bir üniversite öğrencisi olarak geçirdiği geçmiş yaşamını hatırladı. Ama kötülük yoluna gitmek şöyle dursun, bu süper çekingen kızın istediği tek şey, paleontoloji alanında doktora yapmak için okuyan yüksek lisans öğrencisiyken edindiği bilgileri nihayet kullanmaktır. Nihai hedefi halktan biri olmak, fosil çıkarmak, müze inşa etmek ve ardından küratör olmaktır. Pia, kötülük yolundan kaçmak ve mezuniyet balosu sırasında nişanlısı tarafından sınır dışı edilmekten kaçınmak için yaklaşan acıdan ve acıdan kaçınmaya karar verir ve Başbakan'ın oğlu Rufus'la olan nişanını bozmak ister. Peki kurnaz nişanlısı onu bu kadar kolay bırakabilecek mi?(Kaynak: MU)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "I Was a Faceless, Evil NPC Heiress",
-      "episode_number": 1,
-      "aired": "Oct 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:31.638627"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Tea Party with the Love Interests",
-      "episode_number": 2,
-      "aired": "Oct 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-13T10:27:04.218774"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Enrolling on the Set of an Otome Game?!",
-      "episode_number": 3,
-      "aired": "Oct 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-22T08:33:53.533288"
-    }
-  ]
+  "synopsis_tr": "Ters harem otome oyununda kötü niyetli bir kız olarak yeniden doğdum. Pia Rockwell, 10 yaşındayken yüksek ateşle hastalandıktan sonra aniden Japonya'da bir üniversite öğrencisi olarak geçirdiği geçmiş yaşamını hatırladı. Ama kötülük yoluna gitmek şöyle dursun, bu süper çekingen kızın istediği tek şey, paleontoloji alanında doktora yapmak için okuyan yüksek lisans öğrencisiyken edindiği bilgileri nihayet kullanmaktır. Nihai hedefi halktan biri olmak, fosil çıkarmak, müze inşa etmek ve ardından küratör olmaktır. Pia, kötülük yolundan kaçmak ve mezuniyet balosu sırasında nişanlısı tarafından sınır dışı edilmekten kaçınmak için yaklaşan acıdan ve acıdan kaçınmaya karar verir ve Başbakan'ın oğlu Rufus'la olan nişanını bozmak ister. Peki kurnaz nişanlısı onu bu kadar kolay bırakabilecek mi?(Kaynak: MU)"
 }

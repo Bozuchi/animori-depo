@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Boku wa Tomodachi ga Sukunai animesinin 0. Bölümü olan OVA'sıdır.",
-    "slug": "boku-wa-tomodachi-ga-sukunai-yaminabe-wa-bishoujo-ga-zannen-na-nioi"
+    "slug": "boku-wa-tomodachi-ga-sukunai-yaminabe-wa-bishoujo-ga-zannen-na-nioi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10897,
@@ -46,61 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10897,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10897-GpnInUF9C7Zy.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10897.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15347bTpaOdpG3VlrjNOXzFtszFgKyFnY/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7852876293715528048"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/458.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1358681"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1140670"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4520202"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-sknw9x5eal2u.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T06:29:20.684220",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 60730,
     "type": "tv",

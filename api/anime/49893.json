@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "5. Blu-ray diski ile yayınlanmış özel bölüm",
-    "slug": "kobayashi-san-chi-no-maid-dragon-s-nippon-no-omotenashi-attend-wa-dragon-desu"
+    "slug": "kobayashi-san-chi-no-maid-dragon-s-nippon-no-omotenashi-attend-wa-dragon-desu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 49893,
@@ -44,64 +45,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 136436,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136436-Pirva3Ad2uWc.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon Desu OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 51,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1up-gkng2ON4pgqOO_Rle4vaAZ-mJxppg/preview"
-        },
-        {
-          "fansub_id": 51,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5081244996078666821"
-        },
-        {
-          "fansub_id": 51,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4737459"
-        },
-        {
-          "fansub_id": 51,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qr7naqgd"
-        },
-        {
-          "fansub_id": 51,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-s8xv6sislduu.html"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667849"
-        },
-        {
-          "fansub_id": 62,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4738462"
-        },
-        {
-          "fansub_id": 62,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qguh8eycf5zn.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:17:57.328759",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

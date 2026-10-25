@@ -4,7 +4,424 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Serinin üçüncü sezonudur.",
-    "slug": "enen-no-shouboutai-san-no-shou"
+    "slug": "enen-no-shouboutai-san-no-shou",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Enen no Shouboutai: San no Shou 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XTXaF1QWxzj7BgQzLDmJmtUJF4Ao4p44/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461602205"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5869007"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/0sg3ex3ij1tn"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qd4hp4qbjmw1.html"
+          },
+          {
+            "fansub_id": 15,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/lwiq6s9o"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MnYCXW-bWYJnzFONMxE72CjqPPbRZkdB/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5868317"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 3.973,
+            "end": 93.973
+          },
+          "ed": {
+            "start": 1372.139,
+            "end": 1462.139
+          }
+        },
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 2,
+        "title": "Enen no Shouboutai: San no Shou 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EDHvSgBMuHrDEHUxOKhlpcW42WcJzsqJ/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461602207"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5876181"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/quzy1rcxivng"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-e3qy99uyb3pc.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Sbfm7PMLP6nyUygUTNq0948ajEPDgPFH/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5882844"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 92,
+            "end": 182
+          }
+        },
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 3,
+        "title": "Enen no Shouboutai: San no Shou 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zQbRFyOcjwl9bSNq2nulqimaqwbyALZ0/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461602211"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5898675"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/dd4l0hcw3ys1"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1i3Z1URf6UYLznK4ZpZJOEgVe8wutppyQ/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//xmail.ru/seicodesubs/video/embed/_myvideo/23"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5884346"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 120,
+            "end": 203
+          }
+        },
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 4,
+        "title": "Enen no Shouboutai: San no Shou 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-_NI0faIEdwtkVFIqS3QZ8iECHG1iuFj/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461602212"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5898679"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/onybhakf0r92"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Bw1iFgmPJYuy_bEFJbZp3hfe6JhfqQkT/preview"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 120,
+            "end": 213
+          }
+        },
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 5,
+        "title": "Enen no Shouboutai: San no Shou 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rQH_0aVg7gZ9rDmE4QKQqQYxOaIxqSuf/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461602214"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5909226"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ocye5tliqeup"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AJjQnfxJHcljmuiqvz03WyHTax_uOjsf/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5899363"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 6,
+        "title": "Enen no Shouboutai: San no Shou 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14AgF9QFl1FkjegO9pvXb6iaFLUPOK6J8/preview"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5907552"
+          },
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CMqHgIs_vZ3JrNlvqgbuHmJhJHYa4Nu4/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461602215"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5909228"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/13xdmmdrzsc5"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tjBxvZD3aF9cJyRQCovt5tPcEo-PSzwL/preview"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 77,
+            "end": 167
+          }
+        },
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 7,
+        "title": "Enen no Shouboutai: San no Shou 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1cQkjWf-pomurgkj5TyJsjmnqtxTwT0gC/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461602217"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5916195"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oaEcnB7UbH1QxX_0vuM5z6iLwBcorkSY/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5913447"
+          }
+        ],
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 8,
+        "title": "Enen no Shouboutai: San no Shou 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13V-CkdvnduzY_Xpnp6VGWqx4VsNoKPWc/preview"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 150
+          },
+          "ed": {
+            "start": 1362,
+            "end": 1448
+          }
+        },
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 9,
+        "title": "Enen no Shouboutai: San no Shou 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17UtP08Lrohk6S5025diQfXNBF4_LeNlN/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5925901"
+          }
+        ],
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 10,
+        "title": "Enen no Shouboutai: San no Shou 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AOt71vsqQbv7cm5MgwoPgB5QLDPuk9tB/preview"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1359.998,
+            "end": 1451.901
+          }
+        },
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 11,
+        "title": "Enen no Shouboutai: San no Shou 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Hkmo3MD19Odr2M5PQC8uBmti2XB6E3Ke/preview"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 100,
+            "end": 190
+          },
+          "ed": {
+            "start": 1357.473,
+            "end": 1453.018
+          }
+        },
+        "added_date": "2026-07-25T00:18:35.562823"
+      },
+      {
+        "episode_number": 12,
+        "title": "Enen no Shouboutai: San no Shou 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bYjTVntuOr-wJ8dpGux3WKSbZuxCNazJ/preview"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 102.006,
+            "end": 189.584
+          },
+          "ed": {
+            "start": 1238.41,
+            "end": 1333.034
+          }
+        },
+        "added_date": "2026-07-25T00:18:35.562823"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 51818,
@@ -61,468 +478,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 149118,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/149118-neeUO11QUL0R.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149118-AOQb0xuTssGl.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XTXaF1QWxzj7BgQzLDmJmtUJF4Ao4p44/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461602205"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5869007"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/0sg3ex3ij1tn"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qd4hp4qbjmw1.html"
-        },
-        {
-          "fansub_id": 15,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/lwiq6s9o"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MnYCXW-bWYJnzFONMxE72CjqPPbRZkdB/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5868317"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 3.973,
-          "end": 93.973
-        },
-        "ed": {
-          "start": 1372.139,
-          "end": 1462.139
-        }
-      },
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EDHvSgBMuHrDEHUxOKhlpcW42WcJzsqJ/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461602207"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5876181"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/quzy1rcxivng"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-e3qy99uyb3pc.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Sbfm7PMLP6nyUygUTNq0948ajEPDgPFH/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5882844"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 92,
-          "end": 182
-        }
-      },
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zQbRFyOcjwl9bSNq2nulqimaqwbyALZ0/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461602211"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5898675"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/dd4l0hcw3ys1"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1i3Z1URf6UYLznK4ZpZJOEgVe8wutppyQ/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//xmail.ru/seicodesubs/video/embed/_myvideo/23"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5884346"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 120,
-          "end": 203
-        }
-      },
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-_NI0faIEdwtkVFIqS3QZ8iECHG1iuFj/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461602212"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5898679"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/onybhakf0r92"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Bw1iFgmPJYuy_bEFJbZp3hfe6JhfqQkT/preview"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 120,
-          "end": 213
-        }
-      },
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rQH_0aVg7gZ9rDmE4QKQqQYxOaIxqSuf/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461602214"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5909226"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ocye5tliqeup"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AJjQnfxJHcljmuiqvz03WyHTax_uOjsf/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5899363"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 97,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14AgF9QFl1FkjegO9pvXb6iaFLUPOK6J8/preview"
-        },
-        {
-          "fansub_id": 97,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5907552"
-        },
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CMqHgIs_vZ3JrNlvqgbuHmJhJHYa4Nu4/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461602215"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5909228"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/13xdmmdrzsc5"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tjBxvZD3aF9cJyRQCovt5tPcEo-PSzwL/preview"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 77,
-          "end": 167
-        }
-      },
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1cQkjWf-pomurgkj5TyJsjmnqtxTwT0gC/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461602217"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5916195"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oaEcnB7UbH1QxX_0vuM5z6iLwBcorkSY/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5913447"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13V-CkdvnduzY_Xpnp6VGWqx4VsNoKPWc/preview"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 150
-        },
-        "ed": {
-          "start": 1362,
-          "end": 1448
-        }
-      },
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17UtP08Lrohk6S5025diQfXNBF4_LeNlN/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5925901"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AOt71vsqQbv7cm5MgwoPgB5QLDPuk9tB/preview"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1359.998,
-          "end": 1451.901
-        }
-      },
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Hkmo3MD19Odr2M5PQC8uBmti2XB6E3Ke/preview"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 100,
-          "end": 190
-        },
-        "ed": {
-          "start": 1357.473,
-          "end": 1453.018
-        }
-      },
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Enen no Shouboutai: San no Shou 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bYjTVntuOr-wJ8dpGux3WKSbZuxCNazJ/preview"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 102.006,
-          "end": 189.584
-        },
-        "ed": {
-          "start": 1238.41,
-          "end": 1333.034
-        }
-      },
-      "added_date": "2026-07-25T00:18:35.562823",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 88046,
     "type": "tv",

@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Kusuriya no Hitorigoto 3rd Season",
-    "slug": "kusuriya-no-hitorigoto-3rd-season"
+    "slug": "kusuriya-no-hitorigoto-3rd-season",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 61987,
@@ -64,6 +65,29 @@
           65119
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Locusts",
+        "aired": "Oct 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Fire-Rat Cloak",
+        "aired": "Oct 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Let Them Eat Cake",
+        "aired": "Oct 16, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -78,37 +102,5 @@
     "episode_offset": 48,
     "name": "Kusuriya no Hitorigoto"
   },
-  "synopsis_tr": "Shi Klanının isyanının ardından işler nihayet sakinleşti ve Maomao, zevk bölgesindeki eczacı olarak eski hayatına geri döndü. Bir gün Verdigris Evi'nde servis edilen kahvaltının tetiklediği Maomao, bir anormallik hisseder ve bunun gerçek doğasını araştırmaya başlar. Bu arada, İmparatorluk kardeşi olarak gerçek kimliğini ortaya çıkaran ve ağır sorumluluklarıyla yüzleşmeye başlayan Jinshi, Loulan'ın bıraktığı son mesajdan derinden rahatsız oluyor: yaklaşan \"ulusu vuracak bir felaket\" uyarısı. Daha da kötüsü, insanları aldatan gizemli bir tapınak kızının söylentileri yayılmaya başlar ve Li ülkesine bir kez daha karanlık bir gölge düşürür. İç avlunun derinliklerinden şehrin sokaklarına ve yabancı sınırların ötesine kadar dünya genişliyor ve Maomao ile Jinshi için riskler daha da artıyor.(Kaynak: Crunchyroll)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Locusts",
-      "episode_number": 1,
-      "aired": "Oct 2, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:27.415082"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "The Fire-Rat Cloak",
-      "episode_number": 2,
-      "aired": "Oct 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-10T09:44:25.929445"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Let Them Eat Cake",
-      "episode_number": 3,
-      "aired": "Oct 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:46:06.712127"
-    }
-  ]
+  "synopsis_tr": "Shi Klanının isyanının ardından işler nihayet sakinleşti ve Maomao, zevk bölgesindeki eczacı olarak eski hayatına geri döndü. Bir gün Verdigris Evi'nde servis edilen kahvaltının tetiklediği Maomao, bir anormallik hisseder ve bunun gerçek doğasını araştırmaya başlar. Bu arada, İmparatorluk kardeşi olarak gerçek kimliğini ortaya çıkaran ve ağır sorumluluklarıyla yüzleşmeye başlayan Jinshi, Loulan'ın bıraktığı son mesajdan derinden rahatsız oluyor: yaklaşan \"ulusu vuracak bir felaket\" uyarısı. Daha da kötüsü, insanları aldatan gizemli bir tapınak kızının söylentileri yayılmaya başlar ve Li ülkesine bir kez daha karanlık bir gölge düşürür. İç avlunun derinliklerinden şehrin sokaklarına ve yabancı sınırların ötesine kadar dünya genişliyor ve Maomao ile Jinshi için riskler daha da artıyor.(Kaynak: Crunchyroll)"
 }

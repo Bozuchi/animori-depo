@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Yasei no Last Boss ga Arawareta! 2nd Season",
-    "slug": "yasei-no-last-boss-ga-arawareta-2nd-season"
+    "slug": "yasei-no-last-boss-ga-arawareta-2nd-season",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63140,
@@ -51,6 +52,36 @@
           109032
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Mobile Capital Blutgang Has Appeared!",
+        "aired": "Oct 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "A Rampant Scorpius Appeared!",
+        "aired": "Oct 10, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "A Flying, Handsome Man Appeared!",
+        "aired": "Oct 17, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Blacksmith King Mizar Appeared!",
+        "aired": "Oct 24, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -65,47 +96,5 @@
     "episode_offset": 0,
     "name": "A Wild Last Boss Appeared!"
   },
-  "synopsis_tr": "Yasei no Last Boss ga Arawareta!'nın ikinci sezonu.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Mobile Capital Blutgang Has Appeared!",
-      "episode_number": 1,
-      "aired": "Oct 3, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:50.322530"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "A Rampant Scorpius Appeared!",
-      "episode_number": 2,
-      "aired": "Oct 10, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:50.322530"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "A Flying, Handsome Man Appeared!",
-      "episode_number": 3,
-      "aired": "Oct 17, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-11T09:56:44.512992"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "The Blacksmith King Mizar Appeared!",
-      "episode_number": 4,
-      "aired": "Oct 24, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:46:44.238623"
-    }
-  ]
+  "synopsis_tr": "Yasei no Last Boss ga Arawareta!'nın ikinci sezonu."
 }

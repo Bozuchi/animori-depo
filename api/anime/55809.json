@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Xian Ni",
-    "slug": "xian-ni"
+    "slug": "xian-ni",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 55809,
@@ -62,6 +63,1149 @@
           64444
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Leaving Home",
+        "aired": "Sep 25, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Entering Hengyue Sect and Getting Started",
+        "aired": "Sep 25, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Competition: Hengyue vs Xuandao",
+        "aired": "Sep 25, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Robbery: Piao Nanzi Winning and Sun Dazhu Loss",
+        "aired": "Oct 2, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Old Friends",
+        "aired": "Oct 9, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Teng Clan",
+        "aired": "Oct 16, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Seize The Foundation",
+        "aired": "Oct 23, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Dead Ruins",
+        "aired": "Oct 30, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Enter The Sect",
+        "aired": "Nov 6, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Mourning",
+        "aired": "Nov 13, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Destruction Of The Body",
+        "aired": "Nov 20, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Possession",
+        "aired": "Nov 27, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "Law",
+        "aired": "Dec 4, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Refining",
+        "aired": "Dec 11, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Fire Beast",
+        "aired": "Dec 18, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Relocation",
+        "aired": "Dec 25, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "Civil War",
+        "aired": "Jan 1, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Sea Of Fog",
+        "aired": "Jan 8, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Killing The Dragon",
+        "aired": "Jan 15, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "Spirit Furnace",
+        "aired": "Jan 22, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "Dan",
+        "aired": "Jan 29, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Evil Cultivator",
+        "aired": "Feb 5, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Dragon Fight",
+        "aired": "Feb 12, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "Headmaster",
+        "aired": "Feb 19, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Leverage",
+        "aired": "Feb 26, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Demons",
+        "aired": "Mar 4, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Breakthrough",
+        "aired": "Mar 11, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Demonic Chaos",
+        "aired": "Mar 18, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "Killing God",
+        "aired": "Mar 25, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "No Return",
+        "aired": "Apr 1, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "Forbidden Mountain",
+        "aired": "Apr 8, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "Breaking The Ban",
+        "aired": "Apr 15, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Dominate",
+        "aired": "Apr 22, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Metamorphosis",
+        "aired": "Apr 29, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Wang Lin Takes A Risk and Drinks Wild Beast Marrow Fluid Without Preparation",
+        "aired": "May 6, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "Memory Heritage and Physical Reshaping Process",
+        "aired": "May 13, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Yun Fei",
+        "aired": "May 20, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "Wang Lin Survives Heaven Calamity And Reaches Perfect Stage Core Formation",
+        "aired": "May 27, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Wang Lin Refines His Clone, Admits Into Yuntian Sect",
+        "aired": "Jun 3, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "Cultivation Bottleneck, Seeks Help From Zhou Lin's Master. Befriends Cheng Xian & Great Apes",
+        "aired": "Jun 10, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "Wang Lin and Clone Merge to Save Cheng Xian. Big Ape Becomes His Demon #3",
+        "aired": "Jun 17, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Clone Achieves Early Stage of Core Formation. Wang Lin Breaks Into Yuntian Scripture Library Pavilion Pinnacle For Furnace Talisman",
+        "aired": "Jun 24, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "Wang Lin Successfully Forms Nascent Soul But Never Expects His Master To Die",
+        "aired": "Jul 1, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Congratulations To Wang Lin for Saving The Day By Grabbing The Wedding & Yuntian Sect",
+        "aired": "Jul 8, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "Devil Cultivators Sea in Turmoil. Wang Lin in Search for Ancient Teleportal to Return to Zhao Country. Mosquito Beast",
+        "aired": "Jul 15, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Wang Lin Meets 4th Uncle's Descendants and Old Acquaintance Zhang Kuang in Zhao Kingdom",
+        "aired": "Jul 22, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Wang Lin's Revenge on Teng Family Begins! Meets Old Friend at Tiandaomen to Solve Mystery of Spiritual Vein, and to Settle New & Old Grudges!",
+        "aired": "Jul 29, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Wang Lin Bravely Breaks into Wufeng Valley, Kills Teng Jiu & Removes the Spiritual Vein. The Power Behind The Scenes Hides in the Teng Family. Where Does The Mysterious Messenger Come From?",
+        "aired": "Aug 5, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "Wang Lin Arrives at Tianyin City, Meets Three Nascent Teng Family Core & Brother Wang Zhuo with His Wife Xiu Xiu",
+        "aired": "Aug 12, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "Wang Lin Goes To Black Mud Marsh To Eliminate Teng Yi",
+        "aired": "Aug 19, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Teng HuaYuan Sacrifices All Living Beings In Teng City So As To Kill Wang Lin. Xuandao Piao Nanzi Tries To Stop Wang From Killing Teng",
+        "aired": "Aug 26, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "Heavenly Tower Envoy Lin Yi Puts Piao Infront To Die In His Place But Piao Stops Him From Fleeing. Wang Strikes Envoy. Wang Drags Teng To The Center To Be Devoured By His People's Souls. Piaomiao Sect Gao Ziming Commits Suicide & Begs Wang Not To Harm His Sect",
+        "aired": "Sep 2, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Five Element Planet Naduo Chases Wang Lin For Storage Bag. Alliance of Four Sect Streams. Lu Xing Approaches Mortal Wang For Medicine. Weird Old Man Claims He Can Guide Wang To Reach Deity Transformation Stage. Besides Understanding Heavenly Taoism, Wang Needs To Produce Intent Realm",
+        "aired": "Sep 9, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "Mortal Woodcraftsman Wang Lin & Mystic Statues Live in Nan Guo. Fascinated Little Da Niu Brings In His First Customer Xu Tao. His Killing Energy Finally Dissipated. Wang Tells Da Niu His Faraway Wife Awaits His Return",
+        "aired": "Sep 16, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "Da Niu Jumps For Joy On Getting Huge Ya Sui Qian. Shopkeeper Wang Meets Weird Old Man Again at Teahouse. First Experience With Intent Realm. Teleports to Baiyun Sect \"To Kick The Clan\"!",
+        "aired": "Sep 23, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "After First-Hand Experience with Intent Realms - Ruthless, Delirium & Aging, Wang Lin Continues Integrating into the Secular World to Understand the Life of Ordinary People. Xu Tao Seeks Help!",
+        "aired": "Sep 30, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "Yu Ding: Baiyun Zhou Wutai Challenges Wang Lin But Fails To See His Intent Realm. Lao Zheng Passes On. Early Winter Arrival Brings Killing Energy!",
+        "aired": "Oct 7, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "Rank 4 Snowland Invades 4-Faction Alliance With Nonstop Snowfall. A War Is About To Break Out! Wang Lin Easily Crushes Two Late Yuanying. Weird Old Man Drops In With Info & Warns Wang Lin To Act With Caution!",
+        "aired": "Oct 14, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "The War Begins! Hongdie Leads Xueyu Invasion. Four Factions Alliance Counters Attack with Nine Sons Killing Formation. Wang Lin Steals Earth Spirit!",
+        "aired": "Oct 21, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "Real Hongdie Appears! Vermillion Sect Elder Destroys Zhou Wutai's Dragon Bloodline. Wang Lin Escapes Captivity with Divine Retribution",
+        "aired": "Oct 28, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "New Xueyu is Filled with Death Intent. Wang Lin Secretly Studies Xueyu Secret Technique \"Bingqing Jue\". Tries to Help Heihun Elder Zhou Yun and Disciple. His Mortal Journey Coming to an End!",
+        "aired": "Nov 4, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 62,
+        "title": "Zeng Niu Meets Mo Zhi, Gains Insight and Enlightenment on His Life and Death Domain. Ancient God Wang Lin Cultivates in Solitude while Soul Formation Wang Lin Enters Foreign Battleground to Retrieve His Bag of Holding",
+        "aired": "Nov 11, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 63,
+        "title": "Mosquito Beast's Cultivation Enhanced wtih Aurora Fire. Thunder Frog and Mosquito Beast Stand Guard as Wang Lin Cultivates. Carves Time Sculptures Before Opening of Rain Celestial Realm",
+        "aired": "Nov 18, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 64,
+        "title": "Rain Celestial Realm Already Destroyed by Palm Print. Daluo Hong Wen Stops Wang Lin from Collecting Spirit Stones and Celestial Energy",
+        "aired": "Nov 25, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 65,
+        "title": "First Battle to Death with Hong Die at Rain Celestial. Chanced upon Daluo Sword Sect Disciples (#3 Zheng Hao and #6 Sun Lei) at Celestial Beasts Residence Palace",
+        "aired": "Dec 2, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 66,
+        "title": "Sly Sun Lei's Scheme Backfires. Wang Lin Gains Purification Wood and Celestial Metal Piece",
+        "aired": "Dec 9, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 67,
+        "title": "Giant Demon Clan Chi Hu Invites Zeng Niu to Join His Treasure Hunting Team. Encounters Kuishui Sima Yun on His Way to Tianbao Shangren Residence Cave on Mt. Tiger Fragment. Wang Lin Gains Three God Slaying Chariots",
+        "aired": "Dec 16, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 68,
+        "title": "Another Instantaneous Attack by Hong Die. Chi Hu Stops Fight but Hong Die Challenges Zeng Niu to Battle on Suzaku. Corpse Lover Five Elements Zhou Yi Appears!",
+        "aired": "Dec 23, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 69,
+        "title": "Crazed Zhou Yi Burns Origin Soul to Stop Shiyin Sun Tai from Leaving with Ting Er!",
+        "aired": "Dec 30, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 70,
+        "title": "\"Ceng Niu, You Dare to Kill Me!\" | Wang Lin Gains: Celestial Jades, Ascendant Crystal and a Late Stage Soul Formation Slave!",
+        "aired": "Jan 6, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 71,
+        "title": "Tian Mozi Snatches Celestial Sword from Sword Saint Ling Tianhou. 'Ting Er' Collapses After Failing to Shield Off Ling Tianhou Attacks",
+        "aired": "Jan 13, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 72,
+        "title": "Wang Yi Makes Breakthrough in Life and Death Intent Realm. Sword Spirit Zhou Yi Pursues Ling Tianhou. Shiyin Sun Tai Kills All!",
+        "aired": "Jan 20, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 73,
+        "title": "Insect Demon Zhan Bai Exterminated 12 Sects in Chu Country within a Week, and Attacks Yuntian Sect",
+        "aired": "Jan 27, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 74,
+        "title": "Wan Er Revisits Sea of Devils",
+        "aired": "Feb 3, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 75,
+        "title": "Meeting Old Friend at Treasure Refining Pavilion, and Wang Lin Not Giving Up",
+        "aired": "Feb 10, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 76,
+        "title": "Wang Lin Battles Against the Heavens for Li Muwan's Nascent Soul",
+        "aired": "Feb 17, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 77,
+        "title": "Duel with Hong Die Set to 10 Years Later. Tie Yan Tasked to Protect Baby Zhou Ru while Wang Lin Enters Immortal Remnant Land",
+        "aired": "Feb 24, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 78,
+        "title": "Forsaken Immortal Clan: Shaman and Warriors; and Reincarnation Tree",
+        "aired": "Mar 3, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 79,
+        "title": "Divine War Chariot Power Against 6-Leaf Warrior; Cat and Mouse Game with 7-Leaf Shaman",
+        "aired": "Mar 10, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 80,
+        "title": "True Ancient God, Situ Nan, and Seven Peaceful Years with Zhou Ru",
+        "aired": "Mar 17, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 81,
+        "title": "Hongdie Begins Her 10 Year Battle Appointment with Ice God, Soul Lasher, Soul Separation Change and Emotionless Intent Domain",
+        "aired": "Mar 24, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 82,
+        "title": "Liu Mei and Qian Feng in Zhuque Conspiracy and Hong Die Becomes Jueqing, While Xueyu Li Yuanfeng Sets Up Ambush",
+        "aired": "Mar 31, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 83,
+        "title": "Big Calamity: Nascent Soul Collapsed, Spiritual Power Sealed by Li Yuanfeng and Sun Tai",
+        "aired": "Apr 7, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 84,
+        "title": "Mortal in Water Cage in Fire Cloud Village",
+        "aired": "Apr 14, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 85,
+        "title": "Soul Refining Sect: Crazy Recovery",
+        "aired": "Apr 21, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 86,
+        "title": "Wang Lin Dries Up A Spirit Vein and Shuns Liu Mei. Qing Mu Becomes Inner Disciple",
+        "aired": "Apr 28, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 87,
+        "title": "Guodong Jian Loses Golden Soul Flag. Qingmu Collects Qilin Soul Flag, Barters with Su Jingshi for Soul Extracting Jade, and Sees Through Liu Mei's Hidden Ruthlessness",
+        "aired": "May 5, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 88,
+        "title": "Three Amazing Gifts from Soul Refining Sect Ancestor Du Tian, and Yunque Zi's Identity Revealed",
+        "aired": "May 12, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 89,
+        "title": "The Power of One Word and the Real Wang Lin | 1-Bil-Soul Soul Flag | Most Talented Person on Planet Suzaku",
+        "aired": "May 19, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 90,
+        "title": "Giant Demon Ancestor and Xu Liguo || Liu Mei and Zhou Wutai",
+        "aired": "May 26, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 91,
+        "title": "Mei Ji Appears | Zhou Ru and Xiao Bai | Wang Lin's Dilemma",
+        "aired": "Jun 2, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 92,
+        "title": "Fate's Cruel Teasing || Dao Heart",
+        "aired": "Jun 9, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 93,
+        "title": "Forsaken Immortal Clan Invades Vermillion Nation | Ancestor of Zhao Nation",
+        "aired": "Jun 16, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 94,
+        "title": "Soul Refining Sect Forbidden Land and Tradition | True Power of One-Billion Soul Flag",
+        "aired": "Jun 23, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 95,
+        "title": "Qian Feng Hongdie | Du Tian Battling Zhuque Zi while Wang Lin Undergoes Last Stage of Soul Transformation",
+        "aired": "Jun 30, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 96,
+        "title": "2nd Gen Suzaku Situ Nan & Demonic Boy in Jiuli Fog | Secret of Cultivation Planet Crystal",
+        "aired": "Jul 7, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 97,
+        "title": "Catchup with Zhou Wutai | Yunque Zi's Ultimatum to Zhuque Zi | Lei Ji's Blood",
+        "aired": "Jul 14, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 98,
+        "title": "Mei Ji | Situ Nan's Ascendant Body | Zhuque Zi Breaks Star Cultivation Heart & Opens Suzaku Tomb | Tuosen",
+        "aired": "Jul 21, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 99,
+        "title": "Entering Suzaku Tomb | Murong Yun and Mo Yunhai | Liu Mei's 1000 Illusions Emotionless Dao",
+        "aired": "Jul 28, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 100,
+        "title": "Wan Er's Soul Piece | Half-Moon Blade & Xu Liguo | Hongdie's Last Wish | Tuosen's Messenger",
+        "aired": "Aug 4, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 101,
+        "title": "Qian Feng's Killing Intent | Ye Wuyou and Yunque Zi",
+        "aired": "Aug 11, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 102,
+        "title": "Suzaku Inheritance | Battling Qian Feng | Tousen's Killing Intent | Zhuque Zi Terminated",
+        "aired": "Aug 18, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 103,
+        "title": "Mo Zhi & 15th Gen Suzaku | 1-Yr Later: Situ Nan & 3-Killing Techniques | Tianyun Bai Wei | Parting Ways",
+        "aired": "Aug 25, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 104,
+        "title": "You've Picked on the Wrong Guy | Let All Know I'm Not Someone To Be Humiliated | Zilin Pavilion | True Disciple of Purple Lineage",
+        "aired": "Sep 1, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 105,
+        "title": "Zhou Yi's Sword Intent | Cultivating While Trapped in Stone Forest | Mid Stage Soul Transformation Crashing Birthday Celebration!",
+        "aired": "Sep 8, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 106,
+        "title": "Settling Scores: Zhou Wan, Zhao Xingsha | Cultivation Alliance Envoy Sun Zhongan Attends Dao Discussion | Sword Saint Ling Tianhou Loses Disciples!",
+        "aired": "Sep 15, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 107,
+        "title": "Title Battle with Zhao Xinmeng | Chen Tao Returns with 7-Colored Glaze | Battling an Ascendant",
+        "aired": "Sep 22, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 108,
+        "title": "27 Steps! Grey-Robed All-Seer's Celestial Slaughter Art",
+        "aired": "Sep 29, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 109,
+        "title": "Tidal Force",
+        "aired": "Oct 6, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 110,
+        "title": "Huanglong",
+        "aired": "Oct 13, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 111,
+        "title": "Foundation",
+        "aired": "Oct 20, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 112,
+        "title": "Demonic Possession",
+        "aired": "Oct 27, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 113,
+        "title": "Commander",
+        "aired": "Nov 3, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 114,
+        "title": "Breaking the Ban",
+        "aired": "Nov 10, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 115,
+        "title": "Storming the Palace",
+        "aired": "Nov 17, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 116,
+        "title": "Chaos in the Capital",
+        "aired": "Nov 24, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 117,
+        "title": "Emperor Sword",
+        "aired": "Dec 1, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 118,
+        "title": "Sound of the Zither",
+        "aired": "Dec 8, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 119,
+        "title": "Rebellious Cultivation",
+        "aired": "Dec 15, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 120,
+        "title": "Clinging Heart",
+        "aired": "Dec 22, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 121,
+        "title": "Treading on Heaven",
+        "aired": "Dec 29, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 122,
+        "title": "Rogue Demon",
+        "aired": "Jan 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 123,
+        "title": "Slaying the Demon",
+        "aired": "Jan 12, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 124,
+        "title": "Ancient Demon",
+        "aired": "Jan 19, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 125,
+        "title": "Illusion and Truth",
+        "aired": "Jan 26, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 126,
+        "title": "Immortal Cong",
+        "aired": "Feb 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 127,
+        "title": "Devouring Demons",
+        "aired": "Feb 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 128,
+        "title": "Burning Soul",
+        "aired": "Feb 16, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 129,
+        "title": "Rising Abyss",
+        "aired": "Feb 23, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 130,
+        "title": "No Way Out",
+        "aired": "Mar 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 131,
+        "title": "Unsealing the Mark",
+        "aired": "Mar 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 132,
+        "title": "All Evils",
+        "aired": "Mar 16, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 133,
+        "title": "Cosmic Star",
+        "aired": "Mar 23, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 134,
+        "title": "Entering the Game",
+        "aired": "Mar 30, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 135,
+        "title": "Karma",
+        "aired": "Apr 6, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 136,
+        "title": "Shattering the Illusion",
+        "aired": "Apr 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 137,
+        "title": "Secret Treasure",
+        "aired": "Apr 20, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 138,
+        "title": "Clouds Scatter",
+        "aired": "Apr 27, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 139,
+        "title": "Wang Ping",
+        "aired": "May 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 140,
+        "title": "Leaving Home",
+        "aired": "May 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 141,
+        "title": "Origins",
+        "aired": "May 18, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 142,
+        "title": "Return to Dust",
+        "aired": "May 25, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 143,
+        "title": "Lightning Immortal Envoy",
+        "aired": "Jun 1, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 144,
+        "title": "Hunting the Moon",
+        "aired": "Jun 8, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 145,
+        "title": "A Glimpse of the Dao",
+        "aired": "Jun 15, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 146,
+        "title": "Commanding Thunder",
+        "aired": "Jun 22, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 147,
+        "title": "Self-Declared Territory",
+        "aired": "Jun 29, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 148,
+        "title": "Devouring Thunder",
+        "aired": "Jul 6, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 149,
+        "title": "A Game of Strategy",
+        "aired": "Jul 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 150,
+        "title": "The Dao Servant",
+        "aired": "Jul 20, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 151,
+        "title": "Kindred Spirits",
+        "aired": "Jul 27, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 152,
+        "title": "Protector",
+        "aired": "Aug 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 153,
+        "title": "Entering the Pavilion",
+        "aired": "Aug 10, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 154,
+        "title": "Wind Summoning",
+        "aired": "Aug 17, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 155,
+        "title": "Qing Shui",
+        "aired": "Aug 24, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 156,
+        "title": "The Scheme Revealed",
+        "aired": "Aug 31, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 157,
+        "title": "The Past",
+        "aired": "Sep 7, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 158,
+        "title": "Helping Others",
+        "aired": "Sep 14, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 159,
+        "title": "Xianxuan",
+        "aired": "Sep 21, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 160,
+        "title": "Metamorphosis",
+        "aired": "Sep 28, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 161,
+        "title": "Honored Immortal",
+        "aired": "Oct 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 162,
+        "title": "Immortal Slaying",
+        "aired": "Oct 12, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 163,
+        "title": "The Skyvault Decree",
+        "aired": "Oct 19, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -69,1637 +1213,5 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137653-1wHbCVvABGOr.png"
   },
-  "synopsis_tr": "Wang Lin, sevgi dolu ebeveynleri olan çok akıllı bir çocuk. Kendisi ve ebeveynleri diğer akrabaları tarafından dışlanmış olsa da, ebeveynleri onun bir gün büyük bir başarıya ulaşacağına dair her zaman büyük umutlar beslemişlerdir. Bir gün, Wang Lin aniden bir ölümsüzün yolunda yürüme şansını yakaladı ama en iyi ihtimalle sadece vasat bir yeteneğe sahip olduğunu fark etti. Wang Lin'in yetenek eksikliğini kırmasını ve gerçek bir ölümsüz olma yolunda yürümesini izleyin!(Kaynak: Xian Ni Wiki)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Leaving Home",
-      "episode_number": 1,
-      "aired": "Sep 25, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Entering Hengyue Sect and Getting Started",
-      "episode_number": 2,
-      "aired": "Sep 25, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Competition: Hengyue vs Xuandao",
-      "episode_number": 3,
-      "aired": "Sep 25, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "Robbery: Piao Nanzi Winning and Sun Dazhu Loss",
-      "episode_number": 4,
-      "aired": "Oct 2, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "Old Friends",
-      "episode_number": 5,
-      "aired": "Oct 9, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "Teng Clan",
-      "episode_number": 6,
-      "aired": "Oct 16, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "Seize The Foundation",
-      "episode_number": 7,
-      "aired": "Oct 23, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Dead Ruins",
-      "episode_number": 8,
-      "aired": "Oct 30, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "Enter The Sect",
-      "episode_number": 9,
-      "aired": "Nov 6, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "Mourning",
-      "episode_number": 10,
-      "aired": "Nov 13, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "Destruction Of The Body",
-      "episode_number": 11,
-      "aired": "Nov 20, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "Possession",
-      "episode_number": 12,
-      "aired": "Nov 27, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "13. Bölüm",
-      "title": "Law",
-      "episode_number": 13,
-      "aired": "Dec 4, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "14. Bölüm",
-      "title": "Refining",
-      "episode_number": 14,
-      "aired": "Dec 11, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "15. Bölüm",
-      "title": "Fire Beast",
-      "episode_number": 15,
-      "aired": "Dec 18, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "16. Bölüm",
-      "title": "Relocation",
-      "episode_number": 16,
-      "aired": "Dec 25, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "17. Bölüm",
-      "title": "Civil War",
-      "episode_number": 17,
-      "aired": "Jan 1, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "18. Bölüm",
-      "title": "Sea Of Fog",
-      "episode_number": 18,
-      "aired": "Jan 8, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "19. Bölüm",
-      "title": "Killing The Dragon",
-      "episode_number": 19,
-      "aired": "Jan 15, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "20. Bölüm",
-      "title": "Spirit Furnace",
-      "episode_number": 20,
-      "aired": "Jan 22, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "21. Bölüm",
-      "title": "Dan",
-      "episode_number": 21,
-      "aired": "Jan 29, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "22. Bölüm",
-      "title": "Evil Cultivator",
-      "episode_number": 22,
-      "aired": "Feb 5, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "23. Bölüm",
-      "title": "Dragon Fight",
-      "episode_number": 23,
-      "aired": "Feb 12, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "24. Bölüm",
-      "title": "Headmaster",
-      "episode_number": 24,
-      "aired": "Feb 19, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "25. Bölüm",
-      "title": "Leverage",
-      "episode_number": 25,
-      "aired": "Feb 26, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "26. Bölüm",
-      "title": "Demons",
-      "episode_number": 26,
-      "aired": "Mar 4, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "27. Bölüm",
-      "title": "Breakthrough",
-      "episode_number": 27,
-      "aired": "Mar 11, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "28. Bölüm",
-      "title": "Demonic Chaos",
-      "episode_number": 28,
-      "aired": "Mar 18, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "29. Bölüm",
-      "title": "Killing God",
-      "episode_number": 29,
-      "aired": "Mar 25, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "30. Bölüm",
-      "title": "No Return",
-      "episode_number": 30,
-      "aired": "Apr 1, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "31. Bölüm",
-      "title": "Forbidden Mountain",
-      "episode_number": 31,
-      "aired": "Apr 8, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "32. Bölüm",
-      "title": "Breaking The Ban",
-      "episode_number": 32,
-      "aired": "Apr 15, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "33. Bölüm",
-      "title": "Dominate",
-      "episode_number": 33,
-      "aired": "Apr 22, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "34. Bölüm",
-      "title": "Metamorphosis",
-      "episode_number": 34,
-      "aired": "Apr 29, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "35. Bölüm",
-      "title": "Wang Lin Takes A Risk and Drinks Wild Beast Marrow Fluid Without Preparation",
-      "episode_number": 35,
-      "aired": "May 6, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "36. Bölüm",
-      "title": "Memory Heritage and Physical Reshaping Process",
-      "episode_number": 36,
-      "aired": "May 13, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "37. Bölüm",
-      "title": "Yun Fei",
-      "episode_number": 37,
-      "aired": "May 20, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "38. Bölüm",
-      "title": "Wang Lin Survives Heaven Calamity And Reaches Perfect Stage Core Formation",
-      "episode_number": 38,
-      "aired": "May 27, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "39. Bölüm",
-      "title": "Wang Lin Refines His Clone, Admits Into Yuntian Sect",
-      "episode_number": 39,
-      "aired": "Jun 3, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "40. Bölüm",
-      "title": "Cultivation Bottleneck, Seeks Help From Zhou Lin's Master. Befriends Cheng Xian & Great Apes",
-      "episode_number": 40,
-      "aired": "Jun 10, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "41. Bölüm",
-      "title": "Wang Lin and Clone Merge to Save Cheng Xian. Big Ape Becomes His Demon #3",
-      "episode_number": 41,
-      "aired": "Jun 17, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "42. Bölüm",
-      "title": "Clone Achieves Early Stage of Core Formation. Wang Lin Breaks Into Yuntian Scripture Library Pavilion Pinnacle For Furnace Talisman",
-      "episode_number": 42,
-      "aired": "Jun 24, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "43. Bölüm",
-      "title": "Wang Lin Successfully Forms Nascent Soul But Never Expects His Master To Die",
-      "episode_number": 43,
-      "aired": "Jul 1, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "44. Bölüm",
-      "title": "Congratulations To Wang Lin for Saving The Day By Grabbing The Wedding & Yuntian Sect",
-      "episode_number": 44,
-      "aired": "Jul 8, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "45. Bölüm",
-      "title": "Devil Cultivators Sea in Turmoil. Wang Lin in Search for Ancient Teleportal to Return to Zhao Country. Mosquito Beast",
-      "episode_number": 45,
-      "aired": "Jul 15, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "46. Bölüm",
-      "title": "Wang Lin Meets 4th Uncle's Descendants and Old Acquaintance Zhang Kuang in Zhao Kingdom",
-      "episode_number": 46,
-      "aired": "Jul 22, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "47. Bölüm",
-      "title": "Wang Lin's Revenge on Teng Family Begins! Meets Old Friend at Tiandaomen to Solve Mystery of Spiritual Vein, and to Settle New & Old Grudges!",
-      "episode_number": 47,
-      "aired": "Jul 29, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "48. Bölüm",
-      "title": "Wang Lin Bravely Breaks into Wufeng Valley, Kills Teng Jiu & Removes the Spiritual Vein. The Power Behind The Scenes Hides in the Teng Family. Where Does The Mysterious Messenger Come From?",
-      "episode_number": 48,
-      "aired": "Aug 5, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "49. Bölüm",
-      "title": "Wang Lin Arrives at Tianyin City, Meets Three Nascent Teng Family Core & Brother Wang Zhuo with His Wife Xiu Xiu",
-      "episode_number": 49,
-      "aired": "Aug 12, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "50. Bölüm",
-      "title": "Wang Lin Goes To Black Mud Marsh To Eliminate Teng Yi",
-      "episode_number": 50,
-      "aired": "Aug 19, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "51. Bölüm",
-      "title": "Teng HuaYuan Sacrifices All Living Beings In Teng City So As To Kill Wang Lin. Xuandao Piao Nanzi Tries To Stop Wang From Killing Teng",
-      "episode_number": 51,
-      "aired": "Aug 26, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "52. Bölüm",
-      "title": "Heavenly Tower Envoy Lin Yi Puts Piao Infront To Die In His Place But Piao Stops Him From Fleeing. Wang Strikes Envoy. Wang Drags Teng To The Center To Be Devoured By His People's Souls. Piaomiao Sect Gao Ziming Commits Suicide & Begs Wang Not To Harm His Sect",
-      "episode_number": 52,
-      "aired": "Sep 2, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "53. Bölüm",
-      "title": "Five Element Planet Naduo Chases Wang Lin For Storage Bag. Alliance of Four Sect Streams. Lu Xing Approaches Mortal Wang For Medicine. Weird Old Man Claims He Can Guide Wang To Reach Deity Transformation Stage. Besides Understanding Heavenly Taoism, Wang Needs To Produce Intent Realm",
-      "episode_number": 53,
-      "aired": "Sep 9, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "54. Bölüm",
-      "title": "Mortal Woodcraftsman Wang Lin & Mystic Statues Live in Nan Guo. Fascinated Little Da Niu Brings In His First Customer Xu Tao. His Killing Energy Finally Dissipated. Wang Tells Da Niu His Faraway Wife Awaits His Return",
-      "episode_number": 54,
-      "aired": "Sep 16, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "55. Bölüm",
-      "title": "Da Niu Jumps For Joy On Getting Huge Ya Sui Qian. Shopkeeper Wang Meets Weird Old Man Again at Teahouse. First Experience With Intent Realm. Teleports to Baiyun Sect \"To Kick The Clan\"!",
-      "episode_number": 55,
-      "aired": "Sep 23, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "56. Bölüm",
-      "title": "After First-Hand Experience with Intent Realms - Ruthless, Delirium & Aging, Wang Lin Continues Integrating into the Secular World to Understand the Life of Ordinary People. Xu Tao Seeks Help!",
-      "episode_number": 56,
-      "aired": "Sep 30, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "57. Bölüm",
-      "title": "Yu Ding: Baiyun Zhou Wutai Challenges Wang Lin But Fails To See His Intent Realm. Lao Zheng Passes On. Early Winter Arrival Brings Killing Energy!",
-      "episode_number": 57,
-      "aired": "Oct 7, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "58. Bölüm",
-      "title": "Rank 4 Snowland Invades 4-Faction Alliance With Nonstop Snowfall. A War Is About To Break Out! Wang Lin Easily Crushes Two Late Yuanying. Weird Old Man Drops In With Info & Warns Wang Lin To Act With Caution!",
-      "episode_number": 58,
-      "aired": "Oct 14, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "59. Bölüm",
-      "title": "The War Begins! Hongdie Leads Xueyu Invasion. Four Factions Alliance Counters Attack with Nine Sons Killing Formation. Wang Lin Steals Earth Spirit!",
-      "episode_number": 59,
-      "aired": "Oct 21, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "60. Bölüm",
-      "title": "Real Hongdie Appears! Vermillion Sect Elder Destroys Zhou Wutai's Dragon Bloodline. Wang Lin Escapes Captivity with Divine Retribution",
-      "episode_number": 60,
-      "aired": "Oct 28, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "61. Bölüm",
-      "title": "New Xueyu is Filled with Death Intent. Wang Lin Secretly Studies Xueyu Secret Technique \"Bingqing Jue\". Tries to Help Heihun Elder Zhou Yun and Disciple. His Mortal Journey Coming to an End!",
-      "episode_number": 61,
-      "aired": "Nov 4, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "62. Bölüm",
-      "title": "Zeng Niu Meets Mo Zhi, Gains Insight and Enlightenment on His Life and Death Domain. Ancient God Wang Lin Cultivates in Solitude while Soul Formation Wang Lin Enters Foreign Battleground to Retrieve His Bag of Holding",
-      "episode_number": 62,
-      "aired": "Nov 11, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "63. Bölüm",
-      "title": "Mosquito Beast's Cultivation Enhanced wtih Aurora Fire. Thunder Frog and Mosquito Beast Stand Guard as Wang Lin Cultivates. Carves Time Sculptures Before Opening of Rain Celestial Realm",
-      "episode_number": 63,
-      "aired": "Nov 18, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "64. Bölüm",
-      "title": "Rain Celestial Realm Already Destroyed by Palm Print. Daluo Hong Wen Stops Wang Lin from Collecting Spirit Stones and Celestial Energy",
-      "episode_number": 64,
-      "aired": "Nov 25, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "65. Bölüm",
-      "title": "First Battle to Death with Hong Die at Rain Celestial. Chanced upon Daluo Sword Sect Disciples (#3 Zheng Hao and #6 Sun Lei) at Celestial Beasts Residence Palace",
-      "episode_number": 65,
-      "aired": "Dec 2, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "66. Bölüm",
-      "title": "Sly Sun Lei's Scheme Backfires. Wang Lin Gains Purification Wood and Celestial Metal Piece",
-      "episode_number": 66,
-      "aired": "Dec 9, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "67. Bölüm",
-      "title": "Giant Demon Clan Chi Hu Invites Zeng Niu to Join His Treasure Hunting Team. Encounters Kuishui Sima Yun on His Way to Tianbao Shangren Residence Cave on Mt. Tiger Fragment. Wang Lin Gains Three God Slaying Chariots",
-      "episode_number": 67,
-      "aired": "Dec 16, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "68. Bölüm",
-      "title": "Another Instantaneous Attack by Hong Die. Chi Hu Stops Fight but Hong Die Challenges Zeng Niu to Battle on Suzaku. Corpse Lover Five Elements Zhou Yi Appears!",
-      "episode_number": 68,
-      "aired": "Dec 23, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "69. Bölüm",
-      "title": "Crazed Zhou Yi Burns Origin Soul to Stop Shiyin Sun Tai from Leaving with Ting Er!",
-      "episode_number": 69,
-      "aired": "Dec 30, 2024",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "70. Bölüm",
-      "title": "\"Ceng Niu, You Dare to Kill Me!\" | Wang Lin Gains: Celestial Jades, Ascendant Crystal and a Late Stage Soul Formation Slave!",
-      "episode_number": 70,
-      "aired": "Jan 6, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "71. Bölüm",
-      "title": "Tian Mozi Snatches Celestial Sword from Sword Saint Ling Tianhou. 'Ting Er' Collapses After Failing to Shield Off Ling Tianhou Attacks",
-      "episode_number": 71,
-      "aired": "Jan 13, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "72. Bölüm",
-      "title": "Wang Yi Makes Breakthrough in Life and Death Intent Realm. Sword Spirit Zhou Yi Pursues Ling Tianhou. Shiyin Sun Tai Kills All!",
-      "episode_number": 72,
-      "aired": "Jan 20, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "73. Bölüm",
-      "title": "Insect Demon Zhan Bai Exterminated 12 Sects in Chu Country within a Week, and Attacks Yuntian Sect",
-      "episode_number": 73,
-      "aired": "Jan 27, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "74. Bölüm",
-      "title": "Wan Er Revisits Sea of Devils",
-      "episode_number": 74,
-      "aired": "Feb 3, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "75. Bölüm",
-      "title": "Meeting Old Friend at Treasure Refining Pavilion, and Wang Lin Not Giving Up",
-      "episode_number": 75,
-      "aired": "Feb 10, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "76. Bölüm",
-      "title": "Wang Lin Battles Against the Heavens for Li Muwan's Nascent Soul",
-      "episode_number": 76,
-      "aired": "Feb 17, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "77. Bölüm",
-      "title": "Duel with Hong Die Set to 10 Years Later. Tie Yan Tasked to Protect Baby Zhou Ru while Wang Lin Enters Immortal Remnant Land",
-      "episode_number": 77,
-      "aired": "Feb 24, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "78. Bölüm",
-      "title": "Forsaken Immortal Clan: Shaman and Warriors; and Reincarnation Tree",
-      "episode_number": 78,
-      "aired": "Mar 3, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "79. Bölüm",
-      "title": "Divine War Chariot Power Against 6-Leaf Warrior; Cat and Mouse Game with 7-Leaf Shaman",
-      "episode_number": 79,
-      "aired": "Mar 10, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "80. Bölüm",
-      "title": "True Ancient God, Situ Nan, and Seven Peaceful Years with Zhou Ru",
-      "episode_number": 80,
-      "aired": "Mar 17, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "81. Bölüm",
-      "title": "Hongdie Begins Her 10 Year Battle Appointment with Ice God, Soul Lasher, Soul Separation Change and Emotionless Intent Domain",
-      "episode_number": 81,
-      "aired": "Mar 24, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "82. Bölüm",
-      "title": "Liu Mei and Qian Feng in Zhuque Conspiracy and Hong Die Becomes Jueqing, While Xueyu Li Yuanfeng Sets Up Ambush",
-      "episode_number": 82,
-      "aired": "Mar 31, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "83. Bölüm",
-      "title": "Big Calamity: Nascent Soul Collapsed, Spiritual Power Sealed by Li Yuanfeng and Sun Tai",
-      "episode_number": 83,
-      "aired": "Apr 7, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "84. Bölüm",
-      "title": "Mortal in Water Cage in Fire Cloud Village",
-      "episode_number": 84,
-      "aired": "Apr 14, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "85. Bölüm",
-      "title": "Soul Refining Sect: Crazy Recovery",
-      "episode_number": 85,
-      "aired": "Apr 21, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "86. Bölüm",
-      "title": "Wang Lin Dries Up A Spirit Vein and Shuns Liu Mei. Qing Mu Becomes Inner Disciple",
-      "episode_number": 86,
-      "aired": "Apr 28, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "87. Bölüm",
-      "title": "Guodong Jian Loses Golden Soul Flag. Qingmu Collects Qilin Soul Flag, Barters with Su Jingshi for Soul Extracting Jade, and Sees Through Liu Mei's Hidden Ruthlessness",
-      "episode_number": 87,
-      "aired": "May 5, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "88. Bölüm",
-      "title": "Three Amazing Gifts from Soul Refining Sect Ancestor Du Tian, and Yunque Zi's Identity Revealed",
-      "episode_number": 88,
-      "aired": "May 12, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "89. Bölüm",
-      "title": "The Power of One Word and the Real Wang Lin | 1-Bil-Soul Soul Flag | Most Talented Person on Planet Suzaku",
-      "episode_number": 89,
-      "aired": "May 19, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "90. Bölüm",
-      "title": "Giant Demon Ancestor and Xu Liguo || Liu Mei and Zhou Wutai",
-      "episode_number": 90,
-      "aired": "May 26, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "91. Bölüm",
-      "title": "Mei Ji Appears | Zhou Ru and Xiao Bai | Wang Lin's Dilemma",
-      "episode_number": 91,
-      "aired": "Jun 2, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "92. Bölüm",
-      "title": "Fate's Cruel Teasing || Dao Heart",
-      "episode_number": 92,
-      "aired": "Jun 9, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "93. Bölüm",
-      "title": "Forsaken Immortal Clan Invades Vermillion Nation | Ancestor of Zhao Nation",
-      "episode_number": 93,
-      "aired": "Jun 16, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "94. Bölüm",
-      "title": "Soul Refining Sect Forbidden Land and Tradition | True Power of One-Billion Soul Flag",
-      "episode_number": 94,
-      "aired": "Jun 23, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "95. Bölüm",
-      "title": "Qian Feng Hongdie | Du Tian Battling Zhuque Zi while Wang Lin Undergoes Last Stage of Soul Transformation",
-      "episode_number": 95,
-      "aired": "Jun 30, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "96. Bölüm",
-      "title": "2nd Gen Suzaku Situ Nan & Demonic Boy in Jiuli Fog | Secret of Cultivation Planet Crystal",
-      "episode_number": 96,
-      "aired": "Jul 7, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "97. Bölüm",
-      "title": "Catchup with Zhou Wutai | Yunque Zi's Ultimatum to Zhuque Zi | Lei Ji's Blood",
-      "episode_number": 97,
-      "aired": "Jul 14, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "98. Bölüm",
-      "title": "Mei Ji | Situ Nan's Ascendant Body | Zhuque Zi Breaks Star Cultivation Heart & Opens Suzaku Tomb | Tuosen",
-      "episode_number": 98,
-      "aired": "Jul 21, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "99. Bölüm",
-      "title": "Entering Suzaku Tomb | Murong Yun and Mo Yunhai | Liu Mei's 1000 Illusions Emotionless Dao",
-      "episode_number": 99,
-      "aired": "Jul 28, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "100. Bölüm",
-      "title": "Wan Er's Soul Piece | Half-Moon Blade & Xu Liguo | Hongdie's Last Wish | Tuosen's Messenger",
-      "episode_number": 100,
-      "aired": "Aug 4, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "101. Bölüm",
-      "title": "Qian Feng's Killing Intent | Ye Wuyou and Yunque Zi",
-      "episode_number": 101,
-      "aired": "Aug 11, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "102. Bölüm",
-      "title": "Suzaku Inheritance | Battling Qian Feng | Tousen's Killing Intent | Zhuque Zi Terminated",
-      "episode_number": 102,
-      "aired": "Aug 18, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "103. Bölüm",
-      "title": "Mo Zhi & 15th Gen Suzaku | 1-Yr Later: Situ Nan & 3-Killing Techniques | Tianyun Bai Wei | Parting Ways",
-      "episode_number": 103,
-      "aired": "Aug 25, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "104. Bölüm",
-      "title": "You've Picked on the Wrong Guy | Let All Know I'm Not Someone To Be Humiliated | Zilin Pavilion | True Disciple of Purple Lineage",
-      "episode_number": 104,
-      "aired": "Sep 1, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "105. Bölüm",
-      "title": "Zhou Yi's Sword Intent | Cultivating While Trapped in Stone Forest | Mid Stage Soul Transformation Crashing Birthday Celebration!",
-      "episode_number": 105,
-      "aired": "Sep 8, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "106. Bölüm",
-      "title": "Settling Scores: Zhou Wan, Zhao Xingsha | Cultivation Alliance Envoy Sun Zhongan Attends Dao Discussion | Sword Saint Ling Tianhou Loses Disciples!",
-      "episode_number": 106,
-      "aired": "Sep 15, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "107. Bölüm",
-      "title": "Title Battle with Zhao Xinmeng | Chen Tao Returns with 7-Colored Glaze | Battling an Ascendant",
-      "episode_number": 107,
-      "aired": "Sep 22, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "108. Bölüm",
-      "title": "27 Steps! Grey-Robed All-Seer's Celestial Slaughter Art",
-      "episode_number": 108,
-      "aired": "Sep 29, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "109. Bölüm",
-      "title": "Tidal Force",
-      "episode_number": 109,
-      "aired": "Oct 6, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "110. Bölüm",
-      "title": "Huanglong",
-      "episode_number": 110,
-      "aired": "Oct 13, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "111. Bölüm",
-      "title": "Foundation",
-      "episode_number": 111,
-      "aired": "Oct 20, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "112. Bölüm",
-      "title": "Demonic Possession",
-      "episode_number": 112,
-      "aired": "Oct 27, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "113. Bölüm",
-      "title": "Commander",
-      "episode_number": 113,
-      "aired": "Nov 3, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "114. Bölüm",
-      "title": "Breaking the Ban",
-      "episode_number": 114,
-      "aired": "Nov 10, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "115. Bölüm",
-      "title": "Storming the Palace",
-      "episode_number": 115,
-      "aired": "Nov 17, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "116. Bölüm",
-      "title": "Chaos in the Capital",
-      "episode_number": 116,
-      "aired": "Nov 24, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "117. Bölüm",
-      "title": "Emperor Sword",
-      "episode_number": 117,
-      "aired": "Dec 1, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "118. Bölüm",
-      "title": "Sound of the Zither",
-      "episode_number": 118,
-      "aired": "Dec 8, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "119. Bölüm",
-      "title": "Rebellious Cultivation",
-      "episode_number": 119,
-      "aired": "Dec 15, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "120. Bölüm",
-      "title": "Clinging Heart",
-      "episode_number": 120,
-      "aired": "Dec 22, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "121. Bölüm",
-      "title": "Treading on Heaven",
-      "episode_number": 121,
-      "aired": "Dec 29, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "122. Bölüm",
-      "title": "Rogue Demon",
-      "episode_number": 122,
-      "aired": "Jan 5, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "123. Bölüm",
-      "title": "Slaying the Demon",
-      "episode_number": 123,
-      "aired": "Jan 12, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "124. Bölüm",
-      "title": "Ancient Demon",
-      "episode_number": 124,
-      "aired": "Jan 19, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "125. Bölüm",
-      "title": "Illusion and Truth",
-      "episode_number": 125,
-      "aired": "Jan 26, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "126. Bölüm",
-      "title": "Immortal Cong",
-      "episode_number": 126,
-      "aired": "Feb 2, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "127. Bölüm",
-      "title": "Devouring Demons",
-      "episode_number": 127,
-      "aired": "Feb 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "128. Bölüm",
-      "title": "Burning Soul",
-      "episode_number": 128,
-      "aired": "Feb 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "129. Bölüm",
-      "title": "Rising Abyss",
-      "episode_number": 129,
-      "aired": "Feb 23, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "130. Bölüm",
-      "title": "No Way Out",
-      "episode_number": 130,
-      "aired": "Mar 2, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "131. Bölüm",
-      "title": "Unsealing the Mark",
-      "episode_number": 131,
-      "aired": "Mar 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "132. Bölüm",
-      "title": "All Evils",
-      "episode_number": 132,
-      "aired": "Mar 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "133. Bölüm",
-      "title": "Cosmic Star",
-      "episode_number": 133,
-      "aired": "Mar 23, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "134. Bölüm",
-      "title": "Entering the Game",
-      "episode_number": 134,
-      "aired": "Mar 30, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "135. Bölüm",
-      "title": "Karma",
-      "episode_number": 135,
-      "aired": "Apr 6, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "136. Bölüm",
-      "title": "Shattering the Illusion",
-      "episode_number": 136,
-      "aired": "Apr 13, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "137. Bölüm",
-      "title": "Secret Treasure",
-      "episode_number": 137,
-      "aired": "Apr 20, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "138. Bölüm",
-      "title": "Clouds Scatter",
-      "episode_number": 138,
-      "aired": "Apr 27, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "139. Bölüm",
-      "title": "Wang Ping",
-      "episode_number": 139,
-      "aired": "May 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "140. Bölüm",
-      "title": "Leaving Home",
-      "episode_number": 140,
-      "aired": "May 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "141. Bölüm",
-      "title": "Origins",
-      "episode_number": 141,
-      "aired": "May 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "142. Bölüm",
-      "title": "Return to Dust",
-      "episode_number": 142,
-      "aired": "May 25, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "143. Bölüm",
-      "title": "Lightning Immortal Envoy",
-      "episode_number": 143,
-      "aired": "Jun 1, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "144. Bölüm",
-      "title": "Hunting the Moon",
-      "episode_number": 144,
-      "aired": "Jun 8, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "145. Bölüm",
-      "title": "A Glimpse of the Dao",
-      "episode_number": 145,
-      "aired": "Jun 15, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "146. Bölüm",
-      "title": "Commanding Thunder",
-      "episode_number": 146,
-      "aired": "Jun 22, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "147. Bölüm",
-      "title": "Self-Declared Territory",
-      "episode_number": 147,
-      "aired": "Jun 29, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "148. Bölüm",
-      "title": "Devouring Thunder",
-      "episode_number": 148,
-      "aired": "Jul 6, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "149. Bölüm",
-      "title": "A Game of Strategy",
-      "episode_number": 149,
-      "aired": "Jul 13, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "150. Bölüm",
-      "title": "The Dao Servant",
-      "episode_number": 150,
-      "aired": "Jul 20, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "151. Bölüm",
-      "title": "Kindred Spirits",
-      "episode_number": 151,
-      "aired": "Jul 27, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "152. Bölüm",
-      "title": "Protector",
-      "episode_number": 152,
-      "aired": "Aug 3, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "153. Bölüm",
-      "title": "Entering the Pavilion",
-      "episode_number": 153,
-      "aired": "Aug 10, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "154. Bölüm",
-      "title": "Wind Summoning",
-      "episode_number": 154,
-      "aired": "Aug 17, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "155. Bölüm",
-      "title": "Qing Shui",
-      "episode_number": 155,
-      "aired": "Aug 24, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "156. Bölüm",
-      "title": "The Scheme Revealed",
-      "episode_number": 156,
-      "aired": "Aug 31, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "157. Bölüm",
-      "title": "The Past",
-      "episode_number": 157,
-      "aired": "Sep 7, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "158. Bölüm",
-      "title": "Helping Others",
-      "episode_number": 158,
-      "aired": "Sep 14, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "159. Bölüm",
-      "title": "Xianxuan",
-      "episode_number": 159,
-      "aired": "Sep 21, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "160. Bölüm",
-      "title": "Metamorphosis",
-      "episode_number": 160,
-      "aired": "Sep 28, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:44.068482"
-    },
-    {
-      "turkanime_title": "161. Bölüm",
-      "title": "Honored Immortal",
-      "episode_number": 161,
-      "aired": "Oct 5, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-07T01:44:48.980411"
-    },
-    {
-      "turkanime_title": "162. Bölüm",
-      "title": "Immortal Slaying",
-      "episode_number": 162,
-      "aired": "Oct 12, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-13T10:25:49.480077"
-    },
-    {
-      "turkanime_title": "163. Bölüm",
-      "title": "The Skyvault Decree",
-      "episode_number": 163,
-      "aired": "Oct 19, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-20T08:25:59.348117"
-    }
-  ]
+  "synopsis_tr": "Wang Lin, sevgi dolu ebeveynleri olan çok akıllı bir çocuk. Kendisi ve ebeveynleri diğer akrabaları tarafından dışlanmış olsa da, ebeveynleri onun bir gün büyük bir başarıya ulaşacağına dair her zaman büyük umutlar beslemişlerdir. Bir gün, Wang Lin aniden bir ölümsüzün yolunda yürüme şansını yakaladı ama en iyi ihtimalle sadece vasat bir yeteneğe sahip olduğunu fark etti. Wang Lin'in yetenek eksikliğini kırmasını ve gerçek bir ölümsüz olma yolunda yürümesini izleyin!(Kaynak: Xian Ni Wiki)"
 }

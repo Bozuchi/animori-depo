@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Tonikaku Kawaii serisinin tüm bölümlerinin özetidir.",
-    "slug": "tonikaku-kawaii-kaisou"
+    "slug": "tonikaku-kawaii-kaisou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 45598,
@@ -46,45 +47,8 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
-  "anilist": null,
-  "episodes": [
-    {
-      "turkanime_title": "Tonikaku Kawaii: Kaisou Special (12.5)",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SBs-FdEc6k52VCis1RdDOC-impqMS65M/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ulBlxhkdcSlKDKp3Z9C5W7dlaz7MDrZx/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4434627"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4197783"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/gfye1yxo"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T17:43:56.106195",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  "anilist": null
 }

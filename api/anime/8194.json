@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/42",
     "ozet": "Bir iblis tarafından büyütülen Akuma-kun ve yarı insan ortağı Üçüncü Mephisto, paranormal dedektifler olarak çalışarak çeşitli cinayetleri ve gizemleri çözerler.",
-    "slug": "akuma-kun"
+    "slug": "akuma-kun",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8194,
@@ -63,7 +64,8 @@
         ]
       }
     ],
-    "episodes": 42
+    "episodes": 42,
+    "episode_list": []
   },
   "anilist": {
     "id": 8194,

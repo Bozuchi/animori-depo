@@ -4,7 +4,93 @@
     "puan": "6.87",
     "bolum_durumu": "2/2",
     "ozet": "Mizumura Shinta sıradan pek dikkat çekmeyen bir öğrencidir. Bir gün Romanyadan gelen Kishimoto Lilith adlı bir değişim öğrencisiyle tanışır. Bu kız yarı insan yarı vampirdir. Ve Lilith Shintanın hakkındaki karanlık gerçeği ,onun büyük vampir avcısı klan Romuald'ın soyundan geldiğini bilmektedir.",
-    "slug": "holy-knight"
+    "slug": "holy-knight",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Holy Knight Ova 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11V2POWo4gsC65gkziMPDQA1-KMyz08ST/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TdhB5fVEfPZN1HXf8LflHijX0ElqPqD7/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909621"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909622"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1061719"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b0dgfz4vqwbi.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-rxv6it5xmcbs.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:02:49.552726"
+      },
+      {
+        "episode_number": 2,
+        "title": "Holy Knight Ova 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1U2rpO8oEwpihdFjcVG3kz6agm_X4Fb6u/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jIQ9ZaY9zRiq90XbGbKqqZdNBUlpKD0i/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909829"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521992"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ivqm06nyaorq.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-c3xlrdu1czpb.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2grh0nqmd68g.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:02:49.552726"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11005,
@@ -49,107 +135,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 11005,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11005-xSkwQg5teObI.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Holy Knight Ova 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11V2POWo4gsC65gkziMPDQA1-KMyz08ST/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TdhB5fVEfPZN1HXf8LflHijX0ElqPqD7/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931909621"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931909622"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1061719"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-b0dgfz4vqwbi.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rxv6it5xmcbs.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:02:49.552726",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Holy Knight Ova 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1U2rpO8oEwpihdFjcVG3kz6agm_X4Fb6u/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jIQ9ZaY9zRiq90XbGbKqqZdNBUlpKD0i/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931909829"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521992"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ivqm06nyaorq.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-c3xlrdu1czpb.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2grh0nqmd68g.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:02:49.552726",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 44883,
     "type": "tv",

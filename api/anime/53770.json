@@ -4,7 +4,239 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Savaşçı D, Yumeko’yla Kırmızı Garnizon’a sızmaya karar verir ama kendini zor durumda bulur.",
-    "slug": "sentai-daishikkaku"
+    "slug": "sentai-daishikkaku",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Sentai Daishikkaku 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5518996"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/2cpwa2jlfdj2"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371585"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ydjke2gbra0p"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1322,
+            "end": 1411
+          }
+        },
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 2,
+        "title": "Sentai Daishikkaku 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5519000"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/s3isb6xtik3f"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371587"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/t6zfsfq1wgpf"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 3,
+        "title": "Sentai Daishikkaku 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371586"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/9rzp33lzeiw4"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 4,
+        "title": "Sentai Daishikkaku 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371588"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/bbimtalnghws"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 5,
+        "title": "Sentai Daishikkaku 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371589"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/zv9gckzhxbqw"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 6,
+        "title": "Sentai Daishikkaku 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371590"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/oz19p1awj573"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 7,
+        "title": "Sentai Daishikkaku 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371591"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/leqvbx6434ij"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 8,
+        "title": "Sentai Daishikkaku 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371592"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/31x1f4mdm01x"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 9,
+        "title": "Sentai Daishikkaku 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371593"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/6y3ht3l510m8"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 10,
+        "title": "Sentai Daishikkaku 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371654"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/gpt778f2gu8o"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 11,
+        "title": "Sentai Daishikkaku 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371655"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/7hhapnhmld6c"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      },
+      {
+        "episode_number": 12,
+        "title": "Sentai Daishikkaku 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371656"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/o5zgf2hq5o11"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:07.652196"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53770,
@@ -54,292 +286,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 158417,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158417-9oit16KQM4l7.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158417-Ii0DOFwNim0A.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sentai Daishikkaku 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5518996"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/2cpwa2jlfdj2"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371585"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ydjke2gbra0p"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1322,
-          "end": 1411
-        }
-      },
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5519000"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/s3isb6xtik3f"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371587"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/t6zfsfq1wgpf"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371586"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/9rzp33lzeiw4"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371588"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/bbimtalnghws"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371589"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/zv9gckzhxbqw"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371590"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/oz19p1awj573"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371591"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/leqvbx6434ij"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371592"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/31x1f4mdm01x"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371593"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/6y3ht3l510m8"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371654"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/gpt778f2gu8o"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371655"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/7hhapnhmld6c"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371656"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/o5zgf2hq5o11"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:07.652196",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 215799,
     "type": "tv",

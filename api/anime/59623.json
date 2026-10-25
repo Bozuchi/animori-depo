@@ -4,7 +4,290 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Kaboku Kotani liseye yeni başlamıştır ve her zamanki gibi davranmayı planlar: arkadaşlarının peşinden gitmek, sessiz kalmak ve dikkat çekmemek. Sonuçta kekemeliğiyle yaşamak zaten yeterince zordur—neden kalabalığın arasından sıyrılıp işleri daha da zorlaştırsın ki? Ancak bir gün, başka bir birinci sınıf öğrencisi olan Hikari Wanda’yı, sanki kimse izlemiyormuş gibi—ya da kimin gördüğünü umursamıyormuş gibi—dans ederken görür. Bu, Kaboku’nun aklına bir soru getirir: O da böyle bir özgürlüğe ulaşabilir mi? Wanda’ya yaklaşabilmek için asla yapabileceğini düşünmediği bir şey yapar: Dans kulübüne katılır. Sonuçta her koreografi tek bir adımla başlamaz mı? Kaboku ve Wanda’nın hayat ve aşka doğru özgürce dans edişlerine siz de katılın!",
-    "slug": "wandance"
+    "slug": "wandance",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Wandance 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372961"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid="
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097838"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/s30rvrdptfuu"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 2.344,
+            "end": 111.038
+          }
+        },
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 2,
+        "title": "Wandance 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372962"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097839"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/5c3hbcrx2lo5"
+          }
+        ],
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 3,
+        "title": "Wandance 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372963"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097841"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/6jw84vxfz98j"
+          }
+        ],
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 4,
+        "title": "Wandance 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372964"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097843"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/0kxgpck6eudr"
+          }
+        ],
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 5,
+        "title": "Wandance 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372965"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097846"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/7fk8gg1ingmv"
+          }
+        ],
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 6,
+        "title": "Wandance 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372966"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097849"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/tvjjs40fkbtb"
+          }
+        ],
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 7,
+        "title": "Wandance 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372967"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097851"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/2p376krnkdx3"
+          }
+        ],
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 8,
+        "title": "Wandance 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372968"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097853"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/len1qjxa6a68"
+          }
+        ],
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 9,
+        "title": "Wandance 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372969"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097856"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/37h9grjupw3u"
+          }
+        ],
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 10,
+        "title": "Wandance 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372970"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097857"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/btqn10b5sdmr"
+          }
+        ],
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 11,
+        "title": "Wandance 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372971"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097860"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/2y8v8d7s3ofj"
+          }
+        ],
+        "added_date": "2026-07-30T15:50:11.796278"
+      },
+      {
+        "episode_number": 12,
+        "title": "Wandance 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372972"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6097861"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/b158mj0y8cnn"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 4,
+            "end": 94
+          }
+        },
+        "added_date": "2026-07-30T15:50:11.796278"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59623,
@@ -49,342 +332,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 180436,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180436-0PzS0oDWs24p.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180436-zR0dJuKGZNOK.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Wandance 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372961"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid="
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097838"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/s30rvrdptfuu"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 2.344,
-          "end": 111.038
-        }
-      },
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372962"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097839"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/5c3hbcrx2lo5"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372963"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097841"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/6jw84vxfz98j"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372964"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097843"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/0kxgpck6eudr"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372965"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097846"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/7fk8gg1ingmv"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372966"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097849"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/tvjjs40fkbtb"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372967"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097851"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/2p376krnkdx3"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372968"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097853"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/len1qjxa6a68"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372969"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097856"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/37h9grjupw3u"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372970"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097857"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/btqn10b5sdmr"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372971"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097860"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/2y8v8d7s3ofj"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Wandance 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372972"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6097861"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/b158mj0y8cnn"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 4,
-          "end": 94
-        }
-      },
-      "added_date": "2026-07-30T15:50:11.796278",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 262259,
     "type": "tv",

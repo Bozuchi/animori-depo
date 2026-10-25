@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikaye terk edilmiş bir hapishanede geçiyor. Genç bir adam, seksi bir kadın, orta yaşlı eski bir asker, hacker bir kız, gizemli bir yaşlı adam ve bir kedi buraya tıkılıp kalmışlardır. Bir gün, bir elektrik kesintisinden sonra, herbiri hücrelerinden çıkabilmiştir. Fakat garip olan, hiçbir gardiyan ortada yoktur ve çıkışı bir türlü bulamazlar.",
-    "slug": "norageki"
+    "slug": "norageki",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9782,
@@ -39,56 +40,14 @@
       14
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9782,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9782.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Norageki!",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1c5s88Y3M7ZnONmHVazSSAVwQeQKK7RDq/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271187888"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4513286"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1623277"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-n3k94xx1hvm2.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rmii6zx8ueq0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:55:41.745011",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 111608,
     "type": "movie",

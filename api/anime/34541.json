@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikâyemizin kahramanı Kırmızı Konak Köyüne yeni taşınan kırmızı saçlı Mary isimli bir kızdır. Mary okulun başlamasına daha bir hafta olması sebebiyle sıkılıyordu. Ve bir gün Tib isimli siyah bir kedinin peşinde ormana gider. Orada ilginç bir çiçek bulan Mary, o çiçeğin onu hayal bile edemeyeceği bir dünyaya götüreceğinden habersizdir.",
-    "slug": "mary-to-majo-no-hana"
+    "slug": "mary-to-majo-no-hana",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 34541,
@@ -44,51 +45,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 97981,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97981-5jloV5Tbp3rG.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97981-NAxfFerdKo5I.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mary to Majo no Hana",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 153,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uqoTAYi397tWM31_hUo3XoBnAgFN-4jH/preview"
-        },
-        {
-          "fansub_id": 153,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Ly5jeCeSWFUCmAYvxCwvpqZ5BnR_8Sdd/preview"
-        },
-        {
-          "fansub_id": 153,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-KSRVN9lB252kqNZrOP2e4zcCCwJrflK/preview"
-        },
-        {
-          "fansub_id": 153,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KXZr1YlGPIT4p2ViS6AH_jMHYDAws4-N/preview"
-        },
-        {
-          "fansub_id": 153,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-j2jvaqikf0dk.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:13:29.701254",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 430447,
     "type": "movie",

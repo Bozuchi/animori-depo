@@ -4,7 +4,8 @@
     "puan": "9.32",
     "bolum_durumu": "1/1",
     "ozet": "Yuna ile Akari aşk konusunda tamamen zıt görüşlere sahip iki liseli kızdır. Yuna masallardan fırlama bir romantizm hayal ederken, Akari gerçekçi ve pratiktir. Aynı anda liseli oğlanlar Kazuomi ve Rio'nun da aşk konusunda görüşleri bambaşkadır. Rio, kız güzel olduğu sürece herhangi bir açılmayı fırsata çevirirken Kazuomi, aşk konseptini kavrayamayan bir mankafadır. Bu dört sınıf arkadaşı, beklentilerini karşılayacak bir aşk ve gençlik hikayesine sahip olabilecekler mi?",
-    "slug": "omoi-omoware-furi-furare"
+    "slug": "omoi-omoware-furi-furare",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39753,
@@ -49,51 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 109125,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109125-npZ3STlicS3a.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109125-LRhTuc4RMct7.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Omoi, Omoware, Furi, Furare (Love Me, Love Me Not)",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 329,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1inF56lc7fiaOwFRMdPTEc5sAKH3OWXDo/preview"
-        },
-        {
-          "fansub_id": 329,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682365815"
-        },
-        {
-          "fansub_id": 329,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715975"
-        },
-        {
-          "fansub_id": 329,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-esl13wub7yen.html"
-        },
-        {
-          "fansub_id": 329,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xii0kpx0qr9i.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T19:27:56.324652",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 624812,
     "type": "movie",

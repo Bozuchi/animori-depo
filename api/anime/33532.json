@@ -4,7 +4,138 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Haruka Minazuki ve Aoi Kannazuki lise 1'e giden çok samimi iki arkadaştır. Gündüzleri okul etkinliklerine yardım eden ikili geceleriyse birçok farklı düşmana karşı birlikte çarpışmaktadır. 2008 yılında çıkan ‘Kaitou Tenshi Twin Angel’ animesinin farklı stüdyo ile yeniden yayınlanmış halidir.",
-    "slug": "twin-angel-break"
+    "slug": "twin-angel-break",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Twin Angel Break 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 70,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rzpTGyy5ytQvq_peuhU3D98Wg4vsRFQS/preview"
+          },
+          {
+            "fansub_id": 70,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4498700"
+          },
+          {
+            "fansub_id": 70,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4038437"
+          },
+          {
+            "fansub_id": 70,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nbx337j1kfay.html"
+          },
+          {
+            "fansub_id": 70,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0vl5n0fnbucb.html"
+          },
+          {
+            "fansub_id": 70,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4jrkvncb"
+          },
+          {
+            "fansub_id": 70,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-glqgoco065sl.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1359"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3031714"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4905265"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dpe0eif7tr1u.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-q7vk9m7ixz83.html"
+          }
+        ],
+        "added_date": "2026-07-29T18:55:10.834438"
+      },
+      {
+        "episode_number": 2,
+        "title": "Twin Angel Break 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 70,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dmkxzVf9Gzrly2WR4AUM3nuFnItNTNHV/preview"
+          },
+          {
+            "fansub_id": 70,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661697"
+          },
+          {
+            "fansub_id": 70,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4038438"
+          },
+          {
+            "fansub_id": 70,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4589195"
+          },
+          {
+            "fansub_id": 70,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-cqxkg3m60ta9.html"
+          },
+          {
+            "fansub_id": 70,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-v8mqo383vxad.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1360"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4905270"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3031720"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wfukgza1rqlr.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-45rwef1ms7qi.html"
+          }
+        ],
+        "added_date": "2026-07-29T18:55:10.834438"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33532,
@@ -50,452 +181,29 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21865,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21865-kpWbdcDTIUtU.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21865-F4OmEzHSkVJK.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Twin Angel Break 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rzpTGyy5ytQvq_peuhU3D98Wg4vsRFQS/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4498700"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038437"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nbx337j1kfay.html"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-0vl5n0fnbucb.html"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4jrkvncb"
-        },
-        {
-          "fansub_id": 70,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-glqgoco065sl.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1359"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3031714"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4905265"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-dpe0eif7tr1u.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-q7vk9m7ixz83.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Twin Angel Break 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dmkxzVf9Gzrly2WR4AUM3nuFnItNTNHV/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661697"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038438"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4589195"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-cqxkg3m60ta9.html"
-        },
-        {
-          "fansub_id": 70,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-v8mqo383vxad.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1360"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4905270"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3031720"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wfukgza1rqlr.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-45rwef1ms7qi.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Twin Angel Break 3",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1d7U4zamrmYeFdOiGWFXN9amhqhh9Iu6p/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038440"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-40yxnswac6pd.html"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-79w49m8xl3ae.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Twin Angel Break 4",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TLK3zKIxgmpGekijwaC9uenRyx4RY0DF/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038441"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ob608qecs8e1.html"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-o5pl4tzjx82v.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Twin Angel Break 5",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vhcrB9U9FWZUBbe4S_myHWi1x1n-_jKF/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038443"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-4gp675dxwaao.html"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rh4ig6cb7ldk.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Twin Angel Break 6",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TGN3FjQxsegAupeudAstkS_uemgncae0/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038444"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4041001"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-y08k5ie5qax0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Twin Angel Break 7",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NtkZknaXqzdYa4TZElSSg3DDFn5za5Js/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038446"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gk58kvag8dn7.html"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-roznsm2m95eo.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Twin Angel Break 8",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zYG5OH7a_doRA9wnc-QqHyyeEE0lfOJo/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038448"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bnl002f1nl38.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Twin Angel Break 9",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bt28DXaGKm4PAvdMfwFq0ChOJb86tozy/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038450"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-325mn1btkehu.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Twin Angel Break 10",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vFmqdTdt3UkTc6thytPdWDKJebdV8yU7/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038451"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-su2wp7n6jfc8.html"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wtuf213vuf2w.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Twin Angel Break 11",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10SN-WxAGZ0ufnzb-vwIWMPAKb7uVl-X3/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038452"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-c3hsyg4amagy.html"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ix1ctb707jmf.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Twin Angel Break 12 Final",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ss3I6DBquvlc8ZnF0VaMzD15Lgvd-0mv/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4038453"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mb45d4opmuzg.html"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wtqn4nnpnhxt.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:55:10.834438",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 71021,
     "type": "tv",

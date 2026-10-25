@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bu kısa hikaye Jim'in denizdeki yolculuğundan.",
-    "slug": "takarajima-memorial-yuunagi-to-yobareta-otoko"
+    "slug": "takarajima-memorial-yuunagi-to-yobareta-otoko",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 11685,
@@ -48,34 +49,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 11685,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11685.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Takarajima Memorial: Yuunagi to Yobareta Otoko",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XA_TRP_sbW-KgYfRfi_TbeRngL3bDkfc/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojina/video/embed/11/4030"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:55:14.511695",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

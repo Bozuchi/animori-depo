@@ -4,7 +4,346 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Tsue to Tsurugi no Wistoria Animesinin 2. Sezonu",
-    "slug": "tsue-to-tsurugi-no-wistoria-season-2"
+    "slug": "tsue-to-tsurugi-no-wistoria-season-2",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 214,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18LU9AeEXkdgX3AQ096G1a2zboIpMTlkg/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1cminn0k4LspwQ0m8e8c2Y8YE5eY-SO06/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6170466"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/supulqup"
+          },
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-bTMbv4wyQDW7UjRiKSv6zvYIIBHIfMs/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6171462"
+          },
+          {
+            "fansub_id": 112,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8v59h2eoq0oj.html"
+          },
+          {
+            "fansub_id": 112,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/djl7jfht"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 96.13,
+            "end": 186.04
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 2,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 214,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zyWop2D87pfq1Fd30WN6lXB_1fy3Pv8m/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wUoAhshCYVyCSueerp8Io7-IJt6B_aD9/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6175778"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/tvmjyeui"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 325.08,
+            "end": 414.99
+          },
+          "ed": {
+            "start": 1320.78,
+            "end": 1410.68
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 3,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1vjjgi_Lt-LdwX2qGSBSb3fVtnsIGfGBW/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6179941"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/lauh078j"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 225,
+            "end": 314
+          },
+          "ed": {
+            "start": 1322,
+            "end": 1426
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 4,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 214,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6186530"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fA87xfmtYUJZGUcPtqH_WA86g_VlRwOg/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6184484"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qey0bowv"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 137,
+            "end": 217
+          },
+          "ed": {
+            "start": 1175.6,
+            "end": 1255.6
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 5,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 214,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6190987"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 122,
+            "end": 212
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 6,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 214,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6195389"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 60.40337,
+            "end": 149.51443
+          },
+          "ed": {
+            "start": 1322.9222,
+            "end": 1424.22
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 7,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 214,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6201539"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 240,
+            "end": 324
+          },
+          "ed": {
+            "start": 1322,
+            "end": 1408
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 8,
+        "title": "Tsue To Tsurugi no Wistoria Season 2 8.Bölüm",
+        "videos": [
+          {
+            "fansub_id": 214,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6212163"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 17,
+            "end": 106
+          },
+          "ed": {
+            "start": 1320,
+            "end": 1416
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 9,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 214,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6214180"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 296,
+            "end": 386
+          },
+          "ed": {
+            "start": 1320,
+            "end": 1409
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 10,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1NP46MgN3w0m2iFHnpy42fJrLkywGFn5R/preview"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 267,
+            "end": 356
+          },
+          "ed": {
+            "start": 1219.443,
+            "end": 1302.613
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 11,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JnIFMRer0Cm1b6Ayy7MpDcj00nx2SlHs/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6225371"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 190.40215,
+            "end": 279.45166
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      },
+      {
+        "episode_number": 12,
+        "title": "Tsue to Tsurugi no Wistoria Season 2 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PDIfJj8jIKPzYRgt0_Uisz8xRSpcu2S3/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8sawfv8c"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 16,
+            "end": 105
+          },
+          "ed": {
+            "start": 1215.629,
+            "end": 1304.743
+          }
+        },
+        "added_date": "2026-07-29T18:31:58.551506"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59983,
@@ -62,388 +401,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 182300,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 214,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18LU9AeEXkdgX3AQ096G1a2zboIpMTlkg/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1cminn0k4LspwQ0m8e8c2Y8YE5eY-SO06/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6170466"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/supulqup"
-        },
-        {
-          "fansub_id": 112,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-bTMbv4wyQDW7UjRiKSv6zvYIIBHIfMs/preview"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6171462"
-        },
-        {
-          "fansub_id": 112,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-8v59h2eoq0oj.html"
-        },
-        {
-          "fansub_id": 112,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/djl7jfht"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 96.13,
-          "end": 186.04
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 214,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zyWop2D87pfq1Fd30WN6lXB_1fy3Pv8m/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wUoAhshCYVyCSueerp8Io7-IJt6B_aD9/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6175778"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/tvmjyeui"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 325.08,
-          "end": 414.99
-        },
-        "ed": {
-          "start": 1320.78,
-          "end": 1410.68
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vjjgi_Lt-LdwX2qGSBSb3fVtnsIGfGBW/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6179941"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/lauh078j"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 225,
-          "end": 314
-        },
-        "ed": {
-          "start": 1322,
-          "end": 1426
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 214,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6186530"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fA87xfmtYUJZGUcPtqH_WA86g_VlRwOg/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6184484"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qey0bowv"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 137,
-          "end": 217
-        },
-        "ed": {
-          "start": 1175.6,
-          "end": 1255.6
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 214,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6190987"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 122,
-          "end": 212
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 214,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6195389"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 60.40337,
-          "end": 149.51443
-        },
-        "ed": {
-          "start": 1322.9222,
-          "end": 1424.22
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 214,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6201539"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 240,
-          "end": 324
-        },
-        "ed": {
-          "start": 1322,
-          "end": 1408
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue To Tsurugi no Wistoria Season 2 8.Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 214,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6212163"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 17,
-          "end": 106
-        },
-        "ed": {
-          "start": 1320,
-          "end": 1416
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 214,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6214180"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 296,
-          "end": 386
-        },
-        "ed": {
-          "start": 1320,
-          "end": 1409
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NP46MgN3w0m2iFHnpy42fJrLkywGFn5R/preview"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 267,
-          "end": 356
-        },
-        "ed": {
-          "start": 1219.443,
-          "end": 1302.613
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JnIFMRer0Cm1b6Ayy7MpDcj00nx2SlHs/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6225371"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 190.40215,
-          "end": 279.45166
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsue to Tsurugi no Wistoria Season 2 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PDIfJj8jIKPzYRgt0_Uisz8xRSpcu2S3/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8sawfv8c"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 16,
-          "end": 105
-        },
-        "ed": {
-          "start": 1215.629,
-          "end": 1304.743
-        }
-      },
-      "added_date": "2026-07-29T18:31:58.551506",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 245842,
     "type": "tv",

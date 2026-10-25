@@ -4,7 +4,8 @@
     "puan": "8.89",
     "bolum_durumu": "1/1",
     "ozet": "Televizyon serisinde geçen olayları Mirai Kuriyama'yı merkez alarak anlatan film.",
-    "slug": "kyoukai-no-kanata-movie-i-ll-be-here-kako-hen"
+    "slug": "kyoukai-no-kanata-movie-i-ll-be-here-kako-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 25015,
@@ -52,54 +53,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20768,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20768-XaSSBUJpLqNy.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20768-xwQobWzMYTd4.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kyoukai no Kanata Movie: I'll Be Here - Kako-hen",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wMuLe0yL10GvgLPYpQTzBWPLF2gZbg7p/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sMXLdMVlF1kmYLlFTwtummzpbcqu8lnC/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/368.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911067"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/j3yp5dvt"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-owf1lx2w6a4y.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T07:32:03.361619",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

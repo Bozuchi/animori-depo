@@ -4,7 +4,63 @@
     "puan": "0.00",
     "bolum_durumu": "2/1+",
     "ozet": "Messina'lı Melos iyi bir çocuk, kız kardeşinin evlilik töreni için geleneksel bir kılıç satın almaya, görkemli bir tapınak şehri olan Syracuse'ye geldi. Çok yetenekli bir heykeltıraş ile tanıştı, ve arkadaş oldular. Daha sonra, kralın muhafızları kalenin bahçesinde yürüyüşe çıkmış olan Melos'u tutukladılar ve Syracuse Kralı, suikastçılar ile onu öldürmeyi kafasına koydu ve onu ölüm ile cezalandırdı. Melos çaresiz hissediyor, fakat kız kardeşinin töreninde bulunmayı her şeyden çok istiyor. Kraldan 3 günlüğüne Messina'ya gidip kutlamalara katılması ve ardından infaz için Syracuse'ye geri dönmesi üzerine izin istedi. Kral, Melos'a güvenmedi, ama onun güvenilmez birisi olduğunu herkese kanıtlamak için, ondan sözünü tutmadığı taktirde yerine geçecek bir gönüllü bulmasını istedi. Heykeltıraş, böyle bir durumda Melos'un yerine geçmeyi kabul etti.",
-    "slug": "hashire-melos-movie"
+    "slug": "hashire-melos-movie",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Hashire Melos (Movie) 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/158IgwGsRMN9j6VKagygF74PnMdeZHg64/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656347"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439701"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-k26beu9tm9ue.html"
+          }
+        ],
+        "added_date": "2026-07-26T02:23:43.664680"
+      },
+      {
+        "episode_number": 2,
+        "title": "Hashire Melos (Movie) 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rQJcon6sXWePWSK3_qXD2E4a52r7-Leq/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656348"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439704"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1ihxbn0uw33r.html"
+          }
+        ],
+        "added_date": "2026-07-26T02:23:43.664680"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4876,
@@ -49,75 +105,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4876,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4876-5aYxqPVwYXoc.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Hashire Melos (Movie) 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/158IgwGsRMN9j6VKagygF74PnMdeZHg64/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656347"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439701"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-k26beu9tm9ue.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:23:43.664680",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Hashire Melos (Movie) 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rQJcon6sXWePWSK3_qXD2E4a52r7-Leq/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656348"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439704"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1ihxbn0uw33r.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:23:43.664680",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

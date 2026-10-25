@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Aoyama yaşıtlarına göre çok zeki ve meraklı bir çocuktur. Üstelik meşgul olduğu çok iş vardır. Sonuçta birkaç bin gün içerisinde yetişkin olacaktır.\n\nYaz gelmiş ve okullar kapanmaya yaklaşmışken nereden geldiği belirsiz bir şekilde Aoyama'nın küçük kasabasının ortasında penguenler belirmeye başlar. Aoyama ve arkadaşları ise bilimsel yöntem ve metotlarla bu konuda bir araştırma yürütmeye karar verir. Ne var ki bir şeyler öğrendikçe işler daha da karmaşık bir hal almaya başlar.",
-    "slug": "penguin-highway"
+    "slug": "penguin-highway",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37407,
@@ -46,66 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101249,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n101249-Na2nTHjoNACh.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101249-GN52PNw4RiM6.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Penguin Highway Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 34,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1791"
-        },
-        {
-          "fansub_id": 34,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-25dtfr29oovg.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VxkjiJWRfGdr4JtNE7S6wP3ymxaStx36/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oaxcPsHQw7HpH2ETakNxK52EIlfvqQDB/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6264"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1vpj0c0wp0l5.html"
-        },
-        {
-          "fansub_id": 175,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sBIIUdgkDd-1IjUoeHIgKIQxhb5aQ-ia/preview"
-        },
-        {
-          "fansub_id": 175,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/k1yzeblqpiyy"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:24:40.554327",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 508422,
     "type": "movie",

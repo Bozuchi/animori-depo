@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Efsanevi kılıç ustası Miyamoto Musashi'nin (1584-1645) hayat hikâyesini konu almaktadır.",
-    "slug": "miyamoto-musashi-souken-ni-haseru-yume"
+    "slug": "miyamoto-musashi-souken-ni-haseru-yume",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 5386,
@@ -40,51 +41,14 @@
       10
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 5386,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5386.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Miyamoto Musashi: Souken ni Haseru Yume",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Aq5idYjwc-HUgp9_8mfCw7Yx4hNjQiRI/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846753"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017297"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4071846"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bfd0th3vtmty.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:24:16.337056",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 53012,
     "type": "movie",

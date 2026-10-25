@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "7 film olarak planlanan Kara no Kyoukai filmlerinin altıncısıdır.",
-    "slug": "kara-no-kyoukai-6-boukyaku-rokuon"
+    "slug": "kara-no-kyoukai-6-boukyaku-rokuon",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 5204,
@@ -74,59 +75,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 5204,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5204-09vEnPmj98Ba.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5204-6PdYdIXswcEo.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kara no Kyoukai 6: Boukyaku Rokuon",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KwBvkPrOZDmOLfxpaar76yR2dHVJOX6B/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658659"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/doruk.n/12/121.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4454751"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2667828"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ilhiozk5"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3183158"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:14:26.723628",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

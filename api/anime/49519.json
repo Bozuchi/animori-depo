@@ -4,7 +4,561 @@
     "puan": "0.00",
     "bolum_durumu": "13/13",
     "ozet": "Kadın polis memuru Kawai, aslında umurunda bile olmayan mesleğinden usandığı için istifasını vermek üzereyken inanılmaz bir şey gerçekleşti: Karakolunun yeni kadın yöneticisiyle tanıştı! Kawai göz kamaştırıcı rol modeliyle biraz zaman geçirince, polis memuru olmaktan o kadar da usanmadığını fark etti.",
-    "slug": "hakozume-kouban-joshi-no-gyakushuu"
+    "slug": "hakozume-kouban-joshi-no-gyakushuu",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1nekePyRrXWiIWvkapwULZN9x4kuKMxN9/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/1627"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4569271"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bkvb11wfw7v7.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1340,
+            "end": 1430
+          }
+        },
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 2,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ktqmFuDHwOunHQJcZ1c05SJPxMMtXhzK/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/1632"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4574841"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-olyhprjk5taw.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 10.577,
+            "end": 100.577
+          },
+          "ed": {
+            "start": 1340,
+            "end": 1430
+          }
+        },
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 3,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1r8_gerTIu6IEs_Cahn2m8tWwWI21rg5s/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/1692"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4582235"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9gzxaqlb2i6r.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 10.61,
+            "end": 100.61
+          },
+          "ed": {
+            "start": 1341.178,
+            "end": 1430
+          }
+        },
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 4,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13PSY--2WlU62vM0Hpghrw_C79_awAQfi/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/1745"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4589546"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3kmmmtrvpskt.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 10.545,
+            "end": 93.718
+          },
+          "ed": {
+            "start": 1340,
+            "end": 1429
+          }
+        },
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 5,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GVp4spJL7UExqL8e_RtxAxgaTHBzZhVL/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2016"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4595229"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3opy57vm0z0o.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 1,
+            "end": 100
+          },
+          "ed": {
+            "start": 1340,
+            "end": 1429
+          }
+        },
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 6,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10Xlmvy4o0nfho3zyU92gi6EL7ISWB7Bz/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2111"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4602626"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-k3momycw5a2f.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 7,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bm_FnDEmX483hC75p6xs1hegDGzpBdKJ/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1B6QrMvpWibV8_UfUKsHLFGdvcoZK3L0_/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2122"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359662619"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4607413"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4607608"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wdf8zgs8lfn9.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9lh7pywnx7h0.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 10.752,
+            "end": 100.752
+          }
+        },
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 8,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_Ic6NNBFMe-EdFZ2FT_uP_kLVupiiZBm/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1i6wbcDjRLkucinmq4oNmne7xl_Yf7TXs/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2139"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359664831"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4618475"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4618643"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1x57le6to26e.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kfghm73n1qrg.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 9,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TiOsSQYh9WohtL007wQC4-rJQ6ikh05K/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ljeha1UgD1K92CRDa7EFwfpjm5_qcBOl/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359665672"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2149"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4625914"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4625350"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-d5mcac3ax5e6.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ab8mk2r98yjo.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 1.886,
+            "end": 91.886
+          }
+        },
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 10,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Uf-0h3YP4wRNHKEIbDkUSY0MhKm7iKY_/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MyhxC3w_CaNKHoasQ0bnxVCKQ1uD7HMs/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2159"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666075"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4632172"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4632330"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5mjajam1nlkv.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-i5uevk3in9x0.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 12.928,
+            "end": 102.928
+          }
+        },
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 11,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KNnOdUKzzAfbpaIaa96-3kQllRLD_OhT/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2176"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7317328059844001883"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4640476"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5t1dobgplfn6.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/eplx1phh"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0cqirevtode9.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 10.599,
+            "end": 100.599
+          }
+        },
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 12,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1yirj6vumRkFIofTJR50wvweufIoejVOc/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2196"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7317328059844002096"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4681132"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dpm4cs1xtpcl.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/0ftm8zxm"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kjw0jgqg02j7.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:52:04.516261"
+      },
+      {
+        "episode_number": 13,
+        "title": "Hakozume: Kouban Joshi no Gyakushuu 13. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1t2KbTFF4Uk_tIJVAq1lLdO4pwuk609-z/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2197"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7317328059844002097"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4681135"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nvyf7vgnou3m.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qbp29r69"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-sd3qq2j7nquw.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 10.805,
+            "end": 100.805
+          }
+        },
+        "added_date": "2026-07-26T01:52:04.516261"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49519,
@@ -48,609 +602,106 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 137312,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137312-fwV7VHcESHuA.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137312-hlWRtCt25oMg.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nekePyRrXWiIWvkapwULZN9x4kuKMxN9/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/1627"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4569271"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bkvb11wfw7v7.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1340,
-          "end": 1430
-        }
-      },
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ktqmFuDHwOunHQJcZ1c05SJPxMMtXhzK/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/1632"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4574841"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-olyhprjk5taw.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 10.577,
-          "end": 100.577
-        },
-        "ed": {
-          "start": 1340,
-          "end": 1430
-        }
-      },
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1r8_gerTIu6IEs_Cahn2m8tWwWI21rg5s/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/1692"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4582235"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9gzxaqlb2i6r.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 10.61,
-          "end": 100.61
-        },
-        "ed": {
-          "start": 1341.178,
-          "end": 1430
-        }
-      },
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13PSY--2WlU62vM0Hpghrw_C79_awAQfi/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/1745"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4589546"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3kmmmtrvpskt.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 10.545,
-          "end": 93.718
-        },
-        "ed": {
-          "start": 1340,
-          "end": 1429
-        }
-      },
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GVp4spJL7UExqL8e_RtxAxgaTHBzZhVL/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2016"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4595229"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3opy57vm0z0o.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 1,
-          "end": 100
-        },
-        "ed": {
-          "start": 1340,
-          "end": 1429
-        }
-      },
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10Xlmvy4o0nfho3zyU92gi6EL7ISWB7Bz/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2111"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4602626"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-k3momycw5a2f.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bm_FnDEmX483hC75p6xs1hegDGzpBdKJ/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1B6QrMvpWibV8_UfUKsHLFGdvcoZK3L0_/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2122"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359662619"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4607413"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4607608"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wdf8zgs8lfn9.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9lh7pywnx7h0.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 10.752,
-          "end": 100.752
-        }
-      },
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_Ic6NNBFMe-EdFZ2FT_uP_kLVupiiZBm/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1i6wbcDjRLkucinmq4oNmne7xl_Yf7TXs/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2139"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359664831"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4618475"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4618643"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1x57le6to26e.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kfghm73n1qrg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TiOsSQYh9WohtL007wQC4-rJQ6ikh05K/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ljeha1UgD1K92CRDa7EFwfpjm5_qcBOl/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359665672"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2149"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4625914"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4625350"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-d5mcac3ax5e6.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ab8mk2r98yjo.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 1.886,
-          "end": 91.886
-        }
-      },
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Uf-0h3YP4wRNHKEIbDkUSY0MhKm7iKY_/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MyhxC3w_CaNKHoasQ0bnxVCKQ1uD7HMs/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2159"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666075"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4632172"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4632330"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5mjajam1nlkv.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-i5uevk3in9x0.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 12.928,
-          "end": 102.928
-        }
-      },
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KNnOdUKzzAfbpaIaa96-3kQllRLD_OhT/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2176"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7317328059844001883"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4640476"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5t1dobgplfn6.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/eplx1phh"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0cqirevtode9.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 10.599,
-          "end": 100.599
-        }
-      },
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yirj6vumRkFIofTJR50wvweufIoejVOc/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2196"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7317328059844002096"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4681132"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-dpm4cs1xtpcl.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/0ftm8zxm"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kjw0jgqg02j7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hakozume: Kouban Joshi no Gyakushuu 13. Bölüm Final",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1t2KbTFF4Uk_tIJVAq1lLdO4pwuk609-z/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2197"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7317328059844002097"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4681135"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nvyf7vgnou3m.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qbp29r69"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-sd3qq2j7nquw.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 10.805,
-          "end": 100.805
-        }
-      },
-      "added_date": "2026-07-26T01:52:04.516261",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 130266,
     "type": "tv",

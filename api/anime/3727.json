@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Nobita şans eseri fosilleşmiş bir dinozor yumurtası bulur ve Doraemon'un aletleri yardımıyla yumurtadan çıkarıp dinozoru büyütmeye başlarlar. Dinozoru sonsuza kadar tutamayacaklarını bilen Nobita, gelecekten gelen bir grup dinozor avcının dinozoru istemesiyle birlikte dinozoru tarih öncesi zamanlara göndermek zorunda kalır. Dinozorları avcıların pençelerinden kurtarmaya kararlı olan Doraemon ve arkadaşları geçmişe dönüp tarih öncesi bir maceraya atılır.",
-    "slug": "doraemon-movie-01-nobita-no-kyouryuu"
+    "slug": "doraemon-movie-01-nobita-no-kyouryuu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3727,
@@ -58,41 +59,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3727,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3727-0qBzwF50fvA5.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3727-idWMbFqsVI8X.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Doraemon: Nobita no Kyouryuu Movie 01",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 91,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1l8KXAAwh7-bL2j3eeukjgoLP8FrWUy0Q/preview"
-        },
-        {
-          "fansub_id": 91,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7906189306148945987"
-        },
-        {
-          "fansub_id": 91,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/qj6x8we0wp50"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T21:57:58.493118",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 57911,
     "type": "tv",

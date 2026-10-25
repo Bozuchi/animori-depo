@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Eroriman",
-    "slug": "eroriman"
+    "slug": "eroriman",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 51088,
@@ -40,13 +41,13 @@
           53070
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 142229,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142229-ux7lcdcfJhN1.jpg"
   },
-  "synopsis_tr": "Orta yaşlı, bekar bir adam, özellikle lise öğrencilerinin arzularını tatmin etmek için bir tanışma sitesi kullanıyor ancak kızlardan birinin yeğeni olmasını beklemiyordu.",
-  "episodes": []
+  "synopsis_tr": "Orta yaşlı, bekar bir adam, özellikle lise öğrencilerinin arzularını tatmin etmek için bir tanışma sitesi kullanıyor ancak kızlardan birinin yeğeni olmasını beklemiyordu."
 }

@@ -4,7 +4,71 @@
     "puan": "8.95",
     "bolum_durumu": "1/1",
     "ozet": "Violet Evergarden Gaiden animesinin filmidir.",
-    "slug": "violet-evergarden-gaiden-eien-to-jidou-shuki-ningyou"
+    "slug": "violet-evergarden-gaiden-eien-to-jidou-shuki-ningyou",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 128,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Gn35HiARbFXRT6gVJ9X6rGlQI4Y0f_25/preview"
+          },
+          {
+            "fansub_id": 128,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659313"
+          },
+          {
+            "fansub_id": 128,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7444"
+          },
+          {
+            "fansub_id": 128,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/gwnt42an"
+          },
+          {
+            "fansub_id": 128,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/sx5id4x2"
+          },
+          {
+            "fansub_id": 128,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-pzu9ajya7ln8.html"
+          },
+          {
+            "fansub_id": 18,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14gyfEErWdtJxK9OMiS5fH8_LjrRtznQ7/preview"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7725655522707244719"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359670337"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359652751"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9jqxn0iz4z16.html"
+          }
+        ],
+        "added_date": "2026-07-30T15:24:25.048763"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39741,
@@ -49,81 +113,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 109190,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109190-SpM8A4w83FnR.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 128,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Gn35HiARbFXRT6gVJ9X6rGlQI4Y0f_25/preview"
-        },
-        {
-          "fansub_id": 128,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659313"
-        },
-        {
-          "fansub_id": 128,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7444"
-        },
-        {
-          "fansub_id": 128,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/gwnt42an"
-        },
-        {
-          "fansub_id": 128,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/sx5id4x2"
-        },
-        {
-          "fansub_id": 128,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-pzu9ajya7ln8.html"
-        },
-        {
-          "fansub_id": 18,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14gyfEErWdtJxK9OMiS5fH8_LjrRtznQ7/preview"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7725655522707244719"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359670337"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359652751"
-        },
-        {
-          "fansub_id": 62,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9jqxn0iz4z16.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:24:25.048763",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 610892,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Eskiden Side 4 \"Mua\" olarak bilinen Thunderbolt Sektörü'nde, Federasyon birlikleriyle Zeon Kuvvetleri arasında şiddetli bir savaş meydana gelmektedir. Thunderbolt Sektörü, imha edilmiş uzay kolonilerinin enkazlarıyla dolu; elektriksel boşalımın sıkça görüldüğü bir bölgedir. Buraya gönderilen Federasyon askerlerinden biri olan MS pilotu İo Flemming'i, Zeon keskin nişancısı Daryl Lorenz savaş alanında beklemektedir.",
-    "slug": "mobile-suit-gundam-thunderbolt-december-sky"
+    "slug": "mobile-suit-gundam-thunderbolt-december-sky",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 33221,
@@ -62,41 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21893,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21893-UYCpw0NbnTFf.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21893-iuu8D51Go2oI.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mobile Suit Gundam Thunderbolt: December Sky",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PEQS7UH_5HNcFyw_7pA-QkT-9Xa8MMRb/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359662015"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-yy24wuc4ppa8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:44:49.136131",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 64809,
     "type": "tv",

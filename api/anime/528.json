@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin ilk filmidir.",
-    "slug": "pokemon-movie-01-mewtwo-no-gyakushuu"
+    "slug": "pokemon-movie-01-mewtwo-no-gyakushuu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 528,
@@ -73,25 +74,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 528,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/528-8wAm08dANFi8.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx528-HIz7955MvEnN.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon Movie 1 - The First Movie",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:26:31.387376",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 60572,
     "type": "tv",

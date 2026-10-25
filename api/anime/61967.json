@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Black Clover 2nd Season",
-    "slug": "black-clover-2nd-season"
+    "slug": "black-clover-2nd-season",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 61967,
@@ -49,6 +50,29 @@
           86337
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Battle Begins",
+        "aired": "Oct 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Door to Hell",
+        "aired": "Oct 10, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Black Guardian",
+        "aired": "Oct 17, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -63,37 +87,5 @@
     "episode_offset": 0,
     "name": "Black Clover"
   },
-  "synopsis_tr": "Black Clover'ın ikinci sezonu.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "The Battle Begins",
-      "episode_number": 1,
-      "aired": "Oct 3, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:29.877934"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "The Door to Hell",
-      "episode_number": 2,
-      "aired": "Oct 10, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:46:04.937154"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "The Black Guardian",
-      "episode_number": 3,
-      "aired": "Oct 17, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:46:04.937154"
-    }
-  ]
+  "synopsis_tr": "Black Clover'ın ikinci sezonu."
 }

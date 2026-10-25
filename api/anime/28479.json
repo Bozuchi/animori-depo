@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "New York'da dünyaca ünlü bir resim müzayede edilecektir. Japonya'da yok olduğu düşünülen Van Gogh'un \"Sunflowers\" serisinden bir parça. Jirokichi Suzuki diğer tüm teklif verenlerden 300 milyon dolar daha fazla teklif sunarak dünya genelinde dağılan tüm \"Sunflowers\" serisini tamamlayacağını belirtir. Conan ve Ran da izlerken tüm dünyanın gözü önünde sert güvenliğiyle övünen japon \"Lake Rock\" müzesinde şimdiye kadarki en harika sergiyi açacağını açıklar. Resimleri koruması için \"Seven Samurai\" olarak bilinen yedi kişiyi toplar ancak tam onların ortaya çıkacağı anda Kaito Kid kendini gösterir. Tekrar yok olmadan önce ne olursa olsun o resimleri çalacağının duyurusunu yapar. Normalde büyük mücevherlerin peşinde olan Kid neden böyle bir şey yapmıştır? Herkesin panik yaptığı sırada Kid'in ortaya çıktığını öğrenen liseli dedektif ortaya çıkar:Shinichi Kudo.",
-    "slug": "detective-conan-movie-19-the-hellfire-sunflowers"
+    "slug": "detective-conan-movie-19-the-hellfire-sunflowers",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 28479,
@@ -60,61 +61,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21646,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21646-5OEYC0jBD6n2.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21646-N6cVkCIx9KsP.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan Movie 19: The Hellfire Sunflowers",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 56,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271196898"
-        },
-        {
-          "fansub_id": 56,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2195810"
-        },
-        {
-          "fansub_id": 56,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5evfl601"
-        },
-        {
-          "fansub_id": 65,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DGmUgINC0YksAZb5GuRqElGtpcBpVh_I/preview"
-        },
-        {
-          "fansub_id": 65,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388378356"
-        },
-        {
-          "fansub_id": 65,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4252464"
-        },
-        {
-          "fansub_id": 65,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/9iubn4gc"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:57:04.834272",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30983,
     "type": "tv",

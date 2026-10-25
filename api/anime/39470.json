@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Tsugumomo animesinin OVA bölümüdür.",
-    "slug": "tsugumomo-ova"
+    "slug": "tsugumomo-ova",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39470,
@@ -56,46 +57,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 108267,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108267-g157NqAC24xP.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108267-x0xwGxioqKbh.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tsugu Tsugumomo Ova",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1K2NYyzD3kCqIhAqrQmR0CNHYZ3JUrSKj/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3902649"
-        },
-        {
-          "fansub_id": 39,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3993789"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-82w3jm13expb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:34:03.923540",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 71000,
     "type": "tv",

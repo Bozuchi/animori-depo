@@ -4,7 +4,380 @@
     "puan": "0.00",
     "bolum_durumu": "13/12+",
     "ozet": "Grand Blue animesinin 2.sezonudur.",
-    "slug": "grand-blue-season-2"
+    "slug": "grand-blue-season-2",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Grand Blue Season 2 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1it_nk6o-kRGZTxN1t5eEeIPY7aO3uTtE/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461602258"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5969904"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/z1xy0xl3mune"
+          },
+          {
+            "fansub_id": 201,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1c4G3Q8nXwYNj4EpEln50KmjIRONGU1a8/preview"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322424326"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/pdzwrsknne8t"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-g751b4psv13g.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9m2l88gt0508.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ekJyKCfv8mDuslSYl1VsIUExSegyn9l3/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5956590"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 21.055,
+            "end": 111.055
+          }
+        },
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 2,
+        "title": "Grand Blue Season 2 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AyiYmxBY3RA5jii8k-ehoXrbbPXvemHw/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461602259"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5969907"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ky81g7bk257k"
+          },
+          {
+            "fansub_id": 201,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18r4ByfehB94MyymCdAsN57wM310mCAEf/preview"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322424447"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/hd9hk1cmde57"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-e0z11obu22t8.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fo5ircrru9dz.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13rXTY8c1FWiDxo1ekyG3dGjW1uf6WB0R/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5964266"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 3,
+        "title": "Grand Blue Season 2 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 201,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bjGCntX3f_scI-BoNHlGwfbNNGjQcdqa/preview"
+          },
+          {
+            "fansub_id": 201,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5992296"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PxnB3tZXC5xtFry97Uloty96BTHHOK5k/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5971135"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 4,
+        "title": "Grand Blue Season 2 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eI4NJjKEyGL4vDddvPNW0hMSddKBwBJJ/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5977344"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 5,
+        "title": "Grand Blue Season 2 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PMgW2JDJO42NLjARhj3HOoC8sFOX8scS/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//xmail.ru/seicodesubs/video/embed/_myvideo/109"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5982970"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 5.217,
+            "end": 95.297
+          }
+        },
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 6,
+        "title": "Grand Blue Season 2 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OczBnsUFD1GQcCOiAZvUyU4s89XgYw4v/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5988711"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 7,
+        "title": "Grand Blue Season 2 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/103mfMy7Tts2ZB1K8bk6Ta7hiQR_I57Nh/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5993198"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 8,
+        "title": "Grand Blue Season 2 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uqDvA6JjQoJ80Zdv_WgxWBybfrRdu7XX/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5998295"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 9,
+        "title": "Grand Blue Season 2 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/129EgAxRpar5EwYA72JyYjfHRUiK26Q-5/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6013897"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-s3p7liyqitf5.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/u86tawg2"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 10,
+        "title": "Grand Blue Season 2 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322424336"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/eknnynvdjonn"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zpnyecvbyjjs.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CSRSQrTSZ1_79j7o81YHZhNWebz8UyPR/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6014140"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-f74au0guezlp.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/t0b5dxt8"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 11,
+        "title": "Grand Blue Season 2 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1A8yUp3ZlvqlFWmK656y71TY_OnMEbTKZ/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6041000"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qsk2gvli6p14.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3ddol1q5"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:03.647173"
+      },
+      {
+        "episode_number": 12,
+        "title": "Grand Blue Season 2 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322424338"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/n75k9n4c9mgs"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kjc959qnn35l.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:03.647173"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59986,
@@ -61,432 +434,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 182309,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182309-kvcHexJjshIV.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182309-IfrR8sgHIczv.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Grand Blue Season 2 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1it_nk6o-kRGZTxN1t5eEeIPY7aO3uTtE/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461602258"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5969904"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/z1xy0xl3mune"
-        },
-        {
-          "fansub_id": 201,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1c4G3Q8nXwYNj4EpEln50KmjIRONGU1a8/preview"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322424326"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/pdzwrsknne8t"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-g751b4psv13g.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9m2l88gt0508.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ekJyKCfv8mDuslSYl1VsIUExSegyn9l3/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5956590"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 21.055,
-          "end": 111.055
-        }
-      },
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AyiYmxBY3RA5jii8k-ehoXrbbPXvemHw/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461602259"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5969907"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ky81g7bk257k"
-        },
-        {
-          "fansub_id": 201,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18r4ByfehB94MyymCdAsN57wM310mCAEf/preview"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322424447"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/hd9hk1cmde57"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-e0z11obu22t8.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fo5ircrru9dz.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13rXTY8c1FWiDxo1ekyG3dGjW1uf6WB0R/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5964266"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 201,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bjGCntX3f_scI-BoNHlGwfbNNGjQcdqa/preview"
-        },
-        {
-          "fansub_id": 201,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5992296"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PxnB3tZXC5xtFry97Uloty96BTHHOK5k/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5971135"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eI4NJjKEyGL4vDddvPNW0hMSddKBwBJJ/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5977344"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PMgW2JDJO42NLjARhj3HOoC8sFOX8scS/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//xmail.ru/seicodesubs/video/embed/_myvideo/109"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5982970"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 5.217,
-          "end": 95.297
-        }
-      },
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1OczBnsUFD1GQcCOiAZvUyU4s89XgYw4v/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5988711"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/103mfMy7Tts2ZB1K8bk6Ta7hiQR_I57Nh/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5993198"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uqDvA6JjQoJ80Zdv_WgxWBybfrRdu7XX/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5998295"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/129EgAxRpar5EwYA72JyYjfHRUiK26Q-5/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6013897"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-s3p7liyqitf5.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/u86tawg2"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322424336"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/eknnynvdjonn"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zpnyecvbyjjs.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CSRSQrTSZ1_79j7o81YHZhNWebz8UyPR/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6014140"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-f74au0guezlp.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/t0b5dxt8"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1A8yUp3ZlvqlFWmK656y71TY_OnMEbTKZ/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6041000"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qsk2gvli6p14.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/3ddol1q5"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Grand Blue Season 2 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322424338"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/n75k9n4c9mgs"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kjc959qnn35l.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:33:03.647173",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 79166,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Milattan sonra 2040 yılı, ilk Zentradi saldırısı gerçekleşeli 30 yıl olmuş ve insanoğlu gerek asi zentradilere karşı savunma hattını güçlendirmek gerekse kendine yeni ufuklar açmak için uzayda kolonileşmeye başlamıştır. Guld Goa Bowman Eden Kolonisi'ndeki New Edward üssünde test pilotu olarak çalışmaktadır. Bir sınır devriyesi olan Isamu Dyson ise sorumsuzca ve başıboş hareketlerine artık dayanamayan komutanı tarafından Eden Kolonisi'ndeki SuperNova projesi için test pilotu olarak gönderilir. Bu sırada galaksinin en büyük süperstarı olan Sharon Apple da konser vermek amacıyla Eden Kolonisi'ne gelir.",
-    "slug": "macross-plus-movie-edition"
+    "slug": "macross-plus-movie-edition",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1211,
@@ -49,51 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1211,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1211-aLC0Cqskws4E.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1211-0HhVts22SYvB.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Macross : Plus Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1q2vYY52xqwKadAgurMSE5oa1oEx0HMfG/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359654369"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4065348"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/o69bfd8f"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hmyj0tc69n2k.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:12:25.655561",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 18837,
     "type": "movie",

@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Seitokai ni mo Ana wa Aru!",
-    "slug": "seitokai-ni-mo-ana-wa-aru"
+    "slug": "seitokai-ni-mo-ana-wa-aru",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 61578,
@@ -51,6 +52,29 @@
           59276
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Even High School Boys Have Their Holes... / Ume Takes Responsibility",
+        "aired": "Oct 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Savior Tan / The Seven Mysteries of the Academy and the Council's Night Patrol / Komaro Is Here!",
+        "aired": "Oct 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Pool Cleaning and the Swimsuit Episode / I'm Happy for You",
+        "aired": "Oct 18, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -65,37 +89,5 @@
     "episode_offset": 0,
     "name": "Even the Student Council Has Its Holes!"
   },
-  "synopsis_tr": "Prestijli Fujinari Akademisi'nin birinci sınıf öğrencisi Ume Mizunoe, Japon edebiyatında başarılıdır ancak bilimde o kadar kötü mücadele eder ki ilerleme şansı riske girer. Akademik kaydını yükseltme umuduyla öğrenci konseyine katılır ancak kendisini ilginç karakterlerle çevrili bulur: karizmatik ama gizlice utangaç bir başkan, nazik ama korkutucu bir mali işler sorumlusu, hayranlık uyandıracak derecede arsız bir çocuk ve minik, başıboş kedi benzeri bir sekreter. Kaotik günlük yaşamın kasırgasına sürüklenen Ume'nin okul günleri çok daha öngörülemez ve çok daha canlı olmak üzere!(Kaynak: MAL) Haberler)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Even High School Boys Have Their Holes... / Ume Takes Responsibility",
-      "episode_number": 1,
-      "aired": "Oct 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:44.925149"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Savior Tan / The Seven Mysteries of the Academy and the Council's Night Patrol / Komaro Is Here!",
-      "episode_number": 2,
-      "aired": "Oct 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-11T09:56:06.183431"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Pool Cleaning and the Swimsuit Episode / I'm Happy for You",
-      "episode_number": 3,
-      "aired": "Oct 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-20T08:26:46.965547"
-    }
-  ]
+  "synopsis_tr": "Prestijli Fujinari Akademisi'nin birinci sınıf öğrencisi Ume Mizunoe, Japon edebiyatında başarılıdır ancak bilimde o kadar kötü mücadele eder ki ilerleme şansı riske girer. Akademik kaydını yükseltme umuduyla öğrenci konseyine katılır ancak kendisini ilginç karakterlerle çevrili bulur: karizmatik ama gizlice utangaç bir başkan, nazik ama korkutucu bir mali işler sorumlusu, hayranlık uyandıracak derecede arsız bir çocuk ve minik, başıboş kedi benzeri bir sekreter. Kaotik günlük yaşamın kasırgasına sürüklenen Ume'nin okul günleri çok daha öngörülemez ve çok daha canlı olmak üzere!(Kaynak: MAL) Haberler)"
 }

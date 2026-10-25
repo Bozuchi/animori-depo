@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Eiichiro Oda'nın kaleminden çıkan MONSTERS: 103 Mercies Dragon Damnation serisinin uyarlaması olarak Wano Ülkesi'nden gelen efsanevi kılıç ustası Ryuma'nın hikayesini anlatıyor.\nBir samurayın yolu onu, memleketi bir ejderha tarafından yok edilen genç bir garsona götürür. Beladan uzak kalmak istese de bir şekilde bazı olaylara karışır.",
-    "slug": "monsters-ippyaku-sanjou-hiryuu-jigoku"
+    "slug": "monsters-ippyaku-sanjou-hiryuu-jigoku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 56055,
@@ -51,46 +52,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 167404,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167404-Hhvbg3APdan0.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Monsters: Ippyaku Sanjou Hiryuu Jigoku ONA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZnuUbEsMBMt0iYeu3q4ChjIt5ZQ__tMU/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5407630"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-m6fl9t4qld4h.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-inqdp35hscgr.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:17:45.048724",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1230393,
     "type": "movie",

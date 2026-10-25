@@ -4,7 +4,56 @@
     "puan": "8.87",
     "bolum_durumu": "12/12",
     "ozet": "İsimsiz ana karakterimiz, iş yerine doğru trenle giderken Ai adlı bir kızla karşılaşır. Bu tesadüf eseri tanışmadan sonra her pazartesi trende buluşmaya başlarlar, ana karakterimiz Ai'yi kalabalıktan korur ve birlikte sohbet ederler.",
-    "slug": "getsuyoubi-no-tawawa"
+    "slug": "getsuyoubi-no-tawawa",
+    "episodes": [
+      {
+        "episode_number": 14,
+        "title": "Getsuyoubi no Tawawa 1 - 14. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bd7phLGPP2I1tZEbqXP2NBLP1gYKeGs3/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14sFxgxzBgbM_ZyFSN0NYPGUhCskO1DqJ/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4527995"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3511611"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1n4fhjm6"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6r0ckl1g"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-jc6aj67i6nyg.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mp7mc2g1ra01.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:03:29.027565"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34213,
@@ -56,66 +105,14 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 97716,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97716-zGMPA4A8GOuc.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97716-KEnqtszrv2vw.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Getsuyoubi no Tawawa 1 - 14. Bölüm",
-      "episode_number": 14,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bd7phLGPP2I1tZEbqXP2NBLP1gYKeGs3/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14sFxgxzBgbM_ZyFSN0NYPGUhCskO1DqJ/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4527995"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3511611"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1n4fhjm6"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/6r0ckl1g"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-jc6aj67i6nyg.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mp7mc2g1ra01.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:03:29.027565",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 68455,
     "type": "tv",

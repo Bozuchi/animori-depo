@@ -4,7 +4,8 @@
     "puan": "6.75",
     "bolum_durumu": "1/1",
     "ozet": "Denzel in Babası Shinra adında bir şirkkette çalışmaktadır,bu şirket dünyada büyük bir kaosa neden olur.Denzel bu kaos nedeniyle Anne ve babasını kaybeder.Denzel yalnız kalınca yaşlı bir kadınla tanışır ve bu yaşlı kadınla yaşamaya başlar.Yaşlı kadın da saldırı sırasında ölünce, Denzel sokak çetesinin eline düşer.Final Fantasy VII serisinin Denzel isimli bir çocuğun hayatını anlatan bir OVA dır.",
-    "slug": "final-fantasy-vii-on-the-way-to-a-smile-episode-denzel"
+    "slug": "final-fantasy-vii-on-the-way-to-a-smile-episode-denzel",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 6151,
@@ -53,64 +54,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 6151,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6151.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Final Fantasy VII A Way to A Smile Denzel",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1i7nqxwoOnWtGyeIn2ayx84iUMosXwp2O/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359654337"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4065302"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4501581"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kvwvmkszqedv.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hdg6qm1rgs3s.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/n9ojl5fw"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-w5p3iv0hi7pe.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T01:34:16.052742",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

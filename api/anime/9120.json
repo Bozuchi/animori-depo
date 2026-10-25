@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikaye Ishiyama Lisesi'nde 1.sınıf olan en güçlü serseri Oga Tatsumi etrafında şekillenir. Bir gün nehir kenarında uzanırken nehirde bir adamın sürüklendiğini görür ve onu kurtarır. Daha sonra kurtardığı adam ikiye bölünür ve içinden bir bebek çıkar. O bebek şeytan kralın oğludur ve Oga Tatsumi şeytan hizmetçi Hilda ile birlikte onu büyütmek için seçilmiştir. Hikaye Oga'nın bebekle ve okuldaki serseri hayatıyla olanları konu alır.",
-    "slug": "beelzebub-hirotta-akachan-wa-daimaou"
+    "slug": "beelzebub-hirotta-akachan-wa-daimaou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9120,
@@ -57,51 +58,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9120,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9120.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Beelzebub: Hirotta Akachan wa Daimaou!?",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Qx3x4-Acq5OZNY9Y_8xfwSOqzNaD-dGP/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845354"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4060926"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-459eulga6ohp.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zkugt9u7lyi2.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T04:37:10.807437",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 38603,
     "type": "tv",

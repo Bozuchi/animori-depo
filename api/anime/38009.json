@@ -4,7 +4,68 @@
     "puan": "0.00",
     "bolum_durumu": "2/12",
     "ozet": "Hikaye, birinci sınıf öğrencisi Mana Shikimiya'nın etrafında ki, Prizma Sahnesi'nde, en iyi ortaokul idolünü belirleyen yarışmada kazanma hayallerini sürdürmeye odaklanıyor.",
-    "slug": "re-stage-dream-days"
+    "slug": "re-stage-dream-days",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Re:Stage! Dream Days♪ 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1NqvG98jzASdYTkoYkj0PAT9g9Ht0gq4x/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659593"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3722327"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4458261"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8y2uu46u"
+          }
+        ],
+        "added_date": "2026-07-29T03:57:05.341815"
+      },
+      {
+        "episode_number": 2,
+        "title": "Re:Stage! Dream Days♪ 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1k4pJvaa1P075Ami3ehtwjOgvdPQYYQX0/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659600"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4458269"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/yr0li4r0"
+          }
+        ],
+        "added_date": "2026-07-29T03:57:05.341815"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38009,
@@ -41,82 +102,29 @@
       894
     ],
     "relations": [],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 103048,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103048-mFYhQgN3Fn6r.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103048-f3hrT5ZmVPKr.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Re:Stage! Dream Days♪ 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NqvG98jzASdYTkoYkj0PAT9g9Ht0gq4x/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659593"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3722327"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4458261"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8y2uu46u"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:57:05.341815",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Re:Stage! Dream Days♪ 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1k4pJvaa1P075Ami3ehtwjOgvdPQYYQX0/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659600"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4458269"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/yr0li4r0"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:57:05.341815",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 88809,
     "type": "tv",

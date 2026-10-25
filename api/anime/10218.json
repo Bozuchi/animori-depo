@@ -4,7 +4,8 @@
     "puan": "8.79",
     "bolum_durumu": "1/1",
     "ozet": "Guts, kılıç kullanan son derece güçlü kiralık bir savaşçıdır. Hayata dair beklentisi pek olmadığı için bir savaştan diğerine koşturur. Ancak bu durum, Hawk paralı lejyon birliğine önderlik eden ve Guts'ı hezimete uğratan Griffith ile karşılaşmasıyla değişir. Guts, lejyona katıldıktan sonra bu iki adam arasındaki bağ kuvvetlenir. Ancak lejyondaki tek kılıç ustası olan Casca bu durumu ve Guts'ın dikkatleri ve ilgiyi üzerine çekmesini kabullenmekte zorluk çeker. Bu iki adam birlikte savaşırken, Griffith kendisine vadedilmiş olan gizemli amaçları uğruna gücünü artırmaya devam eder. Ne zamana kadar Guts ve Girffith bu amaçlar uğruna savaşmaya devam edeceklerdir ve ne zaman kader bu iki adamı ayıracaktır?",
-    "slug": "berserk-ougon-jidai-hen-i-haou-no-tamago"
+    "slug": "berserk-ougon-jidai-hen-i-haou-no-tamago",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10218,
@@ -66,81 +67,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10218,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10218-dzK2H746bXEZ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10218-QJgUwiua9tB0.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4880701"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ey9bvlglx9ci.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-w72lfam68dp4.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1s6kiKgq1jY8fR84StFTJKllZOXPrPj8X/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715174"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/574.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2004"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4461819"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3048433"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/oezhjxdr"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8kl6u8m4mawp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T04:42:44.218302",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 113082,
     "type": "movie",

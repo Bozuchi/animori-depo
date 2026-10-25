@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Dünya nüfusunun büyük bir kısmı yok olduktan sonra insanlık canavarlara karşı hayat mücadelesini sürdürebilmek adına yeni yollar arayışına girer.",
-    "slug": "phantom-of-the-kill-zero-kara-no-hangyaku"
+    "slug": "phantom-of-the-kill-zero-kara-no-hangyaku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31927,
@@ -38,46 +39,14 @@
       10
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21449,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21449-btqxsUBS1pnD.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Phantom of the Kill: Zero kara no Hangyaku",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1G49nmwxyQzptVQGRmD2ViYzZFPOH1nFo/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/_myvideo/809"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2876798"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/wclcpl6h"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:39:17.039977",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 413126,
     "type": "movie",

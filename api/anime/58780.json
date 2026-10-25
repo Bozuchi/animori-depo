@@ -4,7 +4,31 @@
     "puan": "0.00",
     "bolum_durumu": "1/3",
     "ozet": "Sıkıntıya, hayatın darlamasına gelemeyen Haru, kaykayıyla bir işten daha kovulduğu günlerden birinde, içecek otomatının yanında oturan bir adamla tanışır ve o adam Haru'ya, Bahçe'nin kapısını açar.",
-    "slug": "enter-the-garden"
+    "slug": "enter-the-garden",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Enter The Garden 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5905899"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/609godyw7oka"
+          },
+          {
+            "fansub_id": 94,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-eu5lumgr78v6.html"
+          }
+        ],
+        "added_date": "2026-07-25T00:21:27.857907"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 58780,
@@ -32,52 +56,28 @@
     "demographics": [],
     "studios": [],
     "relations": [],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Waiting Man",
+        "aired": "May 1, 2024",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Fractured Reflections",
+        "aired": "Feb 28, 2025",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 204762,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204762-5TGKxC1rY63P.jpg"
   },
-  "synopsis_tr": "Özgür ruhlu bir patenci olan Haru, kendisine sürekli nasıl davranması gerektiğinin söylendiği bir dünyada kendini her zaman uyumsuz biri gibi hissetmiştir. Bir gün Haru, bir otomatın yanında oturan ve birisinin gelmesini bekleyen gizemli bir adam olan T.K. ile tanışır.(Kaynak: Azuki YouTube Kanalı)",
-  "episodes": [
-    {
-      "turkanime_title": "Enter The Garden 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5905899"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/609godyw7oka"
-        },
-        {
-          "fansub_id": 94,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-eu5lumgr78v6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T00:21:27.857907",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false,
-      "title": "The Waiting Man",
-      "aired": "May 1, 2024"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Fractured Reflections",
-      "episode_number": 2,
-      "aired": "Feb 28, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:05:12.388433"
-    }
-  ]
+  "synopsis_tr": "Özgür ruhlu bir patenci olan Haru, kendisine sürekli nasıl davranması gerektiğinin söylendiği bir dünyada kendini her zaman uyumsuz biri gibi hissetmiştir. Bir gün Haru, bir otomatın yanında oturan ve birisinin gelmesini bekleyen gizemli bir adam olan T.K. ile tanışır.(Kaynak: Azuki YouTube Kanalı)"
 }

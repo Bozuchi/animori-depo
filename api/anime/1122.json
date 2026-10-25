@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin yedinci filmidir.",
-    "slug": "pokemon-movie-07-rekkuu-no-houmonsha-deoxys"
+    "slug": "pokemon-movie-07-rekkuu-no-houmonsha-deoxys",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1122,
@@ -55,25 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1122,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1122-hGrRYfEr0Nrd.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon Movie 7 - Destiny Deoxys",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:26:42.078715",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 60572,
     "type": "tv",

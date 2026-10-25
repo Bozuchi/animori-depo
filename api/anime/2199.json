@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yavru bir kuzu olan Chirin, annesiyle birlikte çiftlikte mutlu bir yaşam sürmektedir. Bir gece çiftlik bir kurdun saldırısına uğrar ve Chirin’in annesi kurt tarafından öldürülür. Annesinin intikamını almak isteyen Chirin çiftlikten kaçarak güçlü bir kurt olmaya karar verir.",
-    "slug": "chirin-no-suzu"
+    "slug": "chirin-no-suzu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2199,
@@ -38,51 +39,14 @@
       14
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2199,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2199-XYIRm3yao5LQ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2199-hVNhx6t9mHb0.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Chirin no Suzu",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1LqitkVaMQxX7mMieZpj1-nFC9vz3yjlN/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019305"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/6324.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1689105"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-tmw8kf8pzcmq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:35:33.076802",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 77859,
     "type": "movie",

@@ -4,7 +4,206 @@
     "puan": "0.00",
     "bolum_durumu": "6/6",
     "ozet": "Seireitsukai no Blade Dance animesinin kısa özel bölümleridir.",
-    "slug": "seireitsukai-no-blade-dance-specials"
+    "slug": "seireitsukai-no-blade-dance-specials",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Seireitsukai no Blade Dance Specials 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_d7WYfMKhk7By_CNym0wIS5WEyiY21BY/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3793244"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/614"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3820245"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-iddj84ucp17h.html"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/osah69gp"
+          }
+        ],
+        "added_date": "2026-07-29T07:20:09.063640"
+      },
+      {
+        "episode_number": 2,
+        "title": "Seireitsukai no Blade Dance Specials 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tVBqaVh8LzoK1P6drVm_DdzoJe03cHkX/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3793488"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4786553"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6kt16f5wru4l.html"
+          },
+          {
+            "fansub_id": 30,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ddp2zqmz08gz.html"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/615"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3820246"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-sv62xoi0dhnc.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:20:09.063640"
+      },
+      {
+        "episode_number": 3,
+        "title": "Seireitsukai no Blade Dance Specials 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/183aYyd-kuwYVlfj195lz2ivQvuVkZzB-/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/c9bf4ael"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/616"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3820247"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-um07ldveo7iv.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:20:09.063640"
+      },
+      {
+        "episode_number": 4,
+        "title": "Seireitsukai no Blade Dance Specials 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 32,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3985289"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/617"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3820248"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xsijxrx44w17.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:20:09.063640"
+      },
+      {
+        "episode_number": 5,
+        "title": "Seireitsukai no Blade Dance Specials 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 32,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3985315"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/618"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3820249"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mokjpy0wic9v.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:20:09.063640"
+      },
+      {
+        "episode_number": 6,
+        "title": "Seireitsukai no Blade Dance Specials 6. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 32,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3985332"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/619"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3820243"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lpwph1nzgvsp.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:20:09.063640"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 25285,
@@ -48,234 +247,55 @@
         ]
       }
     ],
-    "episodes": 6
+    "episodes": 6,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20871,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20871.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Seireitsukai no Blade Dance Specials 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_d7WYfMKhk7By_CNym0wIS5WEyiY21BY/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3793244"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/614"
-        },
-        {
-          "fansub_id": 39,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3820245"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-iddj84ucp17h.html"
-        },
-        {
-          "fansub_id": 39,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/osah69gp"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:20:09.063640",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Seireitsukai no Blade Dance Specials 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tVBqaVh8LzoK1P6drVm_DdzoJe03cHkX/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3793488"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4786553"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-6kt16f5wru4l.html"
-        },
-        {
-          "fansub_id": 30,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ddp2zqmz08gz.html"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/615"
-        },
-        {
-          "fansub_id": 39,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3820246"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-sv62xoi0dhnc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:20:09.063640",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Seireitsukai no Blade Dance Specials 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/183aYyd-kuwYVlfj195lz2ivQvuVkZzB-/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/c9bf4ael"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/616"
-        },
-        {
-          "fansub_id": 39,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3820247"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-um07ldveo7iv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:20:09.063640",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Seireitsukai no Blade Dance Specials 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 32,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3985289"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/617"
-        },
-        {
-          "fansub_id": 39,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3820248"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xsijxrx44w17.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:20:09.063640",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Seireitsukai no Blade Dance Specials 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 32,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3985315"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/618"
-        },
-        {
-          "fansub_id": 39,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3820249"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mokjpy0wic9v.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:20:09.063640",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Seireitsukai no Blade Dance Specials 6. Bölüm Final",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 32,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3985332"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/619"
-        },
-        {
-          "fansub_id": 39,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3820243"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-lpwph1nzgvsp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:20:09.063640",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

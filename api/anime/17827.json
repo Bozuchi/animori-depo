@@ -4,7 +4,444 @@
     "puan": "8.78",
     "bolum_durumu": "12/12",
     "ozet": "Shiomi Akademisi'nde Kütüphane Kulübü'ne üye olan Kyatoro Kakei, bu kulübün tek üyesidir. Bir gün \"Kılavuz\" (hitsujikai) dan bir e-posta alır. E-postada yazanlara göre Kyatoro'nun hayatı başına gelecek bir olay ile değişecektir. Sonraki günlerde 2. sınıf öğrencisi Tsugumi Shirasaki'nin katılımıyla birlikte sevimli kızlar da kulübe katılır ve Kyatoro'nun hayatındaki değişim de başlamış olur.",
-    "slug": "daitoshokan-no-hitsujikai"
+    "slug": "daitoshokan-no-hitsujikai",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Daitoshokan no Hitsujikai 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377116"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186789"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/25syna2i"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/lcd90tym"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 2,
+        "title": "Daitoshokan no Hitsujikai 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377117"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186795"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/cwx9rwe5"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qovfnj9j"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 3,
+        "title": "Daitoshokan no Hitsujikai 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377118"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186798"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hruiioqv"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/tk7roqq6"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1291,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 4,
+        "title": "Daitoshokan no Hitsujikai 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/156ACPelJnfOZWW2LCULSoKK3mbYFYdX-/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377119"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186804"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4526003"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vlkkph2tiyl2.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/daxryzzn"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5rl52830"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-spbjyxpfk1ej.html"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 5,
+        "title": "Daitoshokan no Hitsujikai 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377120"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186809"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/nj8qkita"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 6,
+        "title": "Daitoshokan no Hitsujikai 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Jkf25GtJsWPhymdUw59sZwXK8ElDc7bg/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377121"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186814"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4507425"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/h3mjor7f"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fli36sfy97fq.html"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 7,
+        "title": "Daitoshokan no Hitsujikai 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Am9ruAL5amhKEryYb1caVbfPwtyywKU1/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377122"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186821"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4507427"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fz2770vqo051.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/j2bz3ql6"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ea40vmrvh1h1.html"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 8,
+        "title": "Daitoshokan no Hitsujikai 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16FJTcolqNvPABglFBqK9mDqpumY6yz5J/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377123"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4507429"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186829"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7r34c7yzzdz1.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9u2oblwg"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hh7jdlwb"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-r3lz95t8gk8d.html"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 9,
+        "title": "Daitoshokan no Hitsujikai 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fq3r1w_nTWkEN9_VIsjOB0UgAIW7p6cc/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377124"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186832"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4526005"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-eispwzjieu9d.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jkqjzoqs"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/dg4j8yae"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ovx29ikuv3rc.html"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 10,
+        "title": "Daitoshokan no Hitsujikai 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1vdj9y5H0_G4eDl2EGNAD7FSywPowh9Hk/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377125"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186839"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4526007"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-aoggmwq5vt5c.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jb83zo2d"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6nirv1h85sh2.html"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 11,
+        "title": "Daitoshokan no Hitsujikai 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wItQgLuasDdzIGSv0sFeEPbxAYr90V1K/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377126"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3191131"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4507432"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-19z4tf3dfnln.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/rg20uh7t"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-d4dui02p6beg.html"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      },
+      {
+        "episode_number": 12,
+        "title": "Daitoshokan no Hitsujikai 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682367519"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l3jts0x6e5is.html"
+          },
+          {
+            "fansub_id": 100,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-i9yykmfh7vrx.html"
+          }
+        ],
+        "added_date": "2026-07-24T09:52:44.350549"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 17827,
@@ -53,497 +490,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 17827,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/17827-imoKcqdpKAUy.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17827-glAvrjSWSoWS.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377116"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186789"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/25syna2i"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/lcd90tym"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377117"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186795"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/cwx9rwe5"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qovfnj9j"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377118"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186798"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hruiioqv"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/tk7roqq6"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1291,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/156ACPelJnfOZWW2LCULSoKK3mbYFYdX-/preview"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377119"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186804"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4526003"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-vlkkph2tiyl2.html"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/daxryzzn"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5rl52830"
-        },
-        {
-          "fansub_id": 8,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-spbjyxpfk1ej.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377120"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186809"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/nj8qkita"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Jkf25GtJsWPhymdUw59sZwXK8ElDc7bg/preview"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377121"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186814"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4507425"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/h3mjor7f"
-        },
-        {
-          "fansub_id": 8,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fli36sfy97fq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Am9ruAL5amhKEryYb1caVbfPwtyywKU1/preview"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377122"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186821"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4507427"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-fz2770vqo051.html"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/j2bz3ql6"
-        },
-        {
-          "fansub_id": 8,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ea40vmrvh1h1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16FJTcolqNvPABglFBqK9mDqpumY6yz5J/preview"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377123"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4507429"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186829"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7r34c7yzzdz1.html"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/9u2oblwg"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hh7jdlwb"
-        },
-        {
-          "fansub_id": 8,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-r3lz95t8gk8d.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fq3r1w_nTWkEN9_VIsjOB0UgAIW7p6cc/preview"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377124"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186832"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4526005"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-eispwzjieu9d.html"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/jkqjzoqs"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/dg4j8yae"
-        },
-        {
-          "fansub_id": 8,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ovx29ikuv3rc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vdj9y5H0_G4eDl2EGNAD7FSywPowh9Hk/preview"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377125"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186839"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4526007"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-aoggmwq5vt5c.html"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/jb83zo2d"
-        },
-        {
-          "fansub_id": 8,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6nirv1h85sh2.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wItQgLuasDdzIGSv0sFeEPbxAYr90V1K/preview"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377126"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3191131"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4507432"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-19z4tf3dfnln.html"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/rg20uh7t"
-        },
-        {
-          "fansub_id": 8,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-d4dui02p6beg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Daitoshokan no Hitsujikai 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 100,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682367519"
-        },
-        {
-          "fansub_id": 100,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-l3jts0x6e5is.html"
-        },
-        {
-          "fansub_id": 100,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-i9yykmfh7vrx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:44.350549",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 65851,
     "type": "tv",

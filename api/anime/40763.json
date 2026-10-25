@@ -4,7 +4,46 @@
     "puan": "0.00",
     "bolum_durumu": "1/12",
     "ozet": "Bir mucizeyle tanışmış olabilirsiniz. Kuzeyde küçük bir kasabada doğup büyüyen beyaz tilki kız Howan müzik seçmelerine katılmak için Kuzey Zawa şehrine gider. Burada Masashima Himeko, Delmin ve Ruhuyu'yla tanışır. Grup kurulacak mı? Parıltılı bir rock müziği macerası başlamak üzere.",
-    "slug": "show-by-rock-mashumairesh"
+    "slug": "show-by-rock-mashumairesh",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Show By Rock!! Mashumairesh!! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 27,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mClJU1xKAhE1VNznVfIeGTrIuDbYzZ9L/preview"
+          },
+          {
+            "fansub_id": 27,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368745"
+          },
+          {
+            "fansub_id": 27,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4772891"
+          },
+          {
+            "fansub_id": 27,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/km7j93a8g6wv"
+          },
+          {
+            "fansub_id": 27,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8okj1yw0274g.html"
+          },
+          {
+            "fansub_id": 27,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kkm7o3attax1.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:25:38.946920"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40763,
@@ -52,56 +91,22 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 113470,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113470-WNIVHuI8DfDb.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113470-Ecw16VC6b2V2.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Show By Rock!! Mashumairesh!! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 27,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mClJU1xKAhE1VNznVfIeGTrIuDbYzZ9L/preview"
-        },
-        {
-          "fansub_id": 27,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368745"
-        },
-        {
-          "fansub_id": 27,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4772891"
-        },
-        {
-          "fansub_id": 27,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/km7j93a8g6wv"
-        },
-        {
-          "fansub_id": 27,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-8okj1yw0274g.html"
-        },
-        {
-          "fansub_id": 27,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kkm7o3attax1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:25:38.946920",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 95766,
     "type": "tv",

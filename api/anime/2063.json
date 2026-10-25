@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Solnoid ırkı çoktan yer yüzünden silindi. Sigma Narse'deki son savaşta düşmanlarıyla birlikte yok edildi. Ancak onların torunları Dünya'da hayatta kaldılar ve şimdi, yıllar önce tahmin edilen üzücü kaderi miras aldılar.\n\nYıl 2085.\n\nDoğu ile Batı arasındaki üçüncü dünya savaşı, Dünya şehirlerini moloz yığınlarına çevirdi. Her iki tarafın yarattığı mekanik ölüm makineleri artık insanlıktan geriye kalanları acımasızca avlıyorlar. İnsan grupları arasındaki eski nefret, etkili bir direnişi engellemektedir ve sağ kalmak için tek umut, umutsuz bir plana bağlıdır: hayatta kalanları Mars Üssü'ne tahliye etmek. Orada ana dünyanın kurtuluşunu yeniden inşa edebilir ve planlayabilirler.\n\nBunların arasında genç bir kadın, medeniyetin yok edilmesinde babasının parmağının olmasının suçunu omuzlarında taşıyor. Kendisinin bilmediği, olası bir kurtuluşun anahtarını da taşıyor. Kader, ona yeni dostlar ve müttefikler çekerken, yaklaşan yıkıma karşı ayaklanmak için yeni bir Gall Force doğar...",
-    "slug": "rhea-gall-force"
+    "slug": "rhea-gall-force",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2063,
@@ -60,34 +61,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2063,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2063-iQkYEFMrr2kE.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Rhea Gall Force Ova",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GtFakzPO0okMw9bv_7e6cjPhhpDWaQAB/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hq93y9z9b567.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T04:35:57.504627",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

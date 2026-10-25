@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Granzreich Krallığı'nın dört prensi, sıradaki kral olmaya gözünü dikmiştir. Kraliyet öğretmeni Heine Wittgenstein rehberliğindeki bu dörtlü, çeşitli olayların üstesinden gelerek yavaş yavaş gelişmektedir. \nNe var ki Romano Krallığı'ndan ikiz prenslerin ortaya çıkmasıyla işler karışır. Bu iki prens, dıştan çok tatlı gözükse aslında sadistin önde gidenidir. Bu beklenmedik kriz karşısında Heine ve dört prens ne yapacaktır?",
-    "slug": "oushitsu-kyoushi-heine-movie"
+    "slug": "oushitsu-kyoushi-heine-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 38313,
@@ -53,59 +54,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 104286,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104286-1PcHf85lFQYR.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Oushitsu Kyoushi Heine Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wIPujvBVoygaREN8bxjt0HOQhsPACXNm/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sAg265wsV6PLoNssEy5fGB97LkuBc8Zr/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1230"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718948"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/mif86l5c"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8b3driw6cfud.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vysbj5ve4g8s.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:47:51.973470",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

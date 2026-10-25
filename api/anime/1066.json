@@ -4,7 +4,137 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Shakugan no Shana animesinin dört bölümlük özel serisidir.",
-    "slug": "shakugan-no-shana-tan"
+    "slug": "shakugan-no-shana-tan",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Shakugan no Shana-tan 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1FT7x83iC7oyDRrq6uizuEmHyC6op4BeS/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5565362"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5565361"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2zp93ll9iayb.html"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kfhzkh63jyf5.html"
+          }
+        ],
+        "added_date": "2026-07-29T08:21:33.301560"
+      },
+      {
+        "episode_number": 2,
+        "title": "Shakugan no Shana-tan 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1u6y6k7tk1BYbvVDYg2rJnBA9dS__4TLi/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5565364"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5565363"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mzhro4mxz9ic.html"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-c1elv89pqf7e.html"
+          }
+        ],
+        "added_date": "2026-07-29T08:21:33.301560"
+      },
+      {
+        "episode_number": 3,
+        "title": "Shakugan no Shana-tan 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13GBVeWbdPfjEduAht3F-kw6TIlvUauZt/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5565366"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5565365"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-i4k4hv1ys3s3.html"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-try6aneq955b.html"
+          }
+        ],
+        "added_date": "2026-07-29T08:21:33.301560"
+      },
+      {
+        "episode_number": 4,
+        "title": "Shakugan no Shana-tan 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-S2y96YNe1KIoYFgHvZS1kSqKS1mRhcc/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5565368"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5565367"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-cdf866w40j58.html"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-n1r5g6wzdh54.html"
+          }
+        ],
+        "added_date": "2026-07-29T08:21:33.301560"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1066,
@@ -51,157 +181,41 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1066,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1066.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Shakugan no Shana-tan 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FT7x83iC7oyDRrq6uizuEmHyC6op4BeS/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5565362"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5565361"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2zp93ll9iayb.html"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kfhzkh63jyf5.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:21:33.301560",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Shakugan no Shana-tan 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1u6y6k7tk1BYbvVDYg2rJnBA9dS__4TLi/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5565364"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5565363"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mzhro4mxz9ic.html"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-c1elv89pqf7e.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:21:33.301560",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Shakugan no Shana-tan 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13GBVeWbdPfjEduAht3F-kw6TIlvUauZt/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5565366"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5565365"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-i4k4hv1ys3s3.html"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-try6aneq955b.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:21:33.301560",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Shakugan no Shana-tan 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-S2y96YNe1KIoYFgHvZS1kSqKS1mRhcc/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5565368"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5565367"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-cdf866w40j58.html"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-n1r5g6wzdh54.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:21:33.301560",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

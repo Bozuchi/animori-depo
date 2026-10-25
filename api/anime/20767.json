@@ -4,7 +4,93 @@
     "puan": "9.01",
     "bolum_durumu": "2/2",
     "ozet": "Noragami serisinin özel bölümleridir.",
-    "slug": "noragami-ova"
+    "slug": "noragami-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Noragami OAD 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mOivcpwu5ViWc8RSd9n0CCuVz1wZnwVL/preview"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1388360"
+          },
+          {
+            "fansub_id": 46,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3ahsyio55jnl.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 54.573,
+            "end": 144.573
+          },
+          "ed": {
+            "start": 1345.417,
+            "end": 1435.42
+          }
+        },
+        "added_date": "2026-07-27T16:55:36.372728"
+      },
+      {
+        "episode_number": 2,
+        "title": "Noragami OAD 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1THaYAHivYUvRjVLkMT5LE0J96bUkygXU/preview"
+          },
+          {
+            "fansub_id": 46,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZpDdPMlNP6heIikD0jgYIoiCgeHaXWhL/preview"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4523329"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-skgeb0bir2go.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5ulaq80a"
+          },
+          {
+            "fansub_id": 46,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ltgtgk962i3y.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hfz31f4vt51h.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 98.54,
+            "end": 188.54
+          },
+          "ed": {
+            "start": 1345.5,
+            "end": 1438
+          }
+        },
+        "added_date": "2026-07-27T16:55:36.372728"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 20767,
@@ -56,105 +142,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20494,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20494-Kwq9S4Q3m66B.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20494-HllvnQ1mRIxe.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Noragami OAD 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mOivcpwu5ViWc8RSd9n0CCuVz1wZnwVL/preview"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1388360"
-        },
-        {
-          "fansub_id": 46,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3ahsyio55jnl.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 54.573,
-          "end": 144.573
-        },
-        "ed": {
-          "start": 1345.417,
-          "end": 1435.42
-        }
-      },
-      "added_date": "2026-07-27T16:55:36.372728",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Noragami OAD 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1THaYAHivYUvRjVLkMT5LE0J96bUkygXU/preview"
-        },
-        {
-          "fansub_id": 46,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZpDdPMlNP6heIikD0jgYIoiCgeHaXWhL/preview"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4523329"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-skgeb0bir2go.html"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5ulaq80a"
-        },
-        {
-          "fansub_id": 46,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ltgtgk962i3y.html"
-        },
-        {
-          "fansub_id": 46,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hfz31f4vt51h.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 98.54,
-          "end": 188.54
-        },
-        "ed": {
-          "start": 1345.5,
-          "end": 1438
-        }
-      },
-      "added_date": "2026-07-27T16:55:36.372728",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 64710,
     "type": "tv",

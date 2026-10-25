@@ -4,7 +4,36 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "BanG Dream! animesinin OVA bölümüdür.",
-    "slug": "bang-dream-asonjatta"
+    "slug": "bang-dream-asonjatta",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "BanG Dream!: Asonjatta! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 153,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1L3juhFRcA_NdmlPJvHZSGQt7WlyoG7F-/preview"
+          },
+          {
+            "fansub_id": 153,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1NxoGP-Fb5dSECrOd6esYWtOWjMtlCyLU/preview"
+          },
+          {
+            "fansub_id": 153,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3431595"
+          },
+          {
+            "fansub_id": 153,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-v1s885okg9fc.html"
+          }
+        ],
+        "added_date": "2026-07-23T04:09:45.642111"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34870,
@@ -47,44 +76,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 98847,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98847-ofEtg2yJkcxS.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "BanG Dream!: Asonjatta! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 153,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1L3juhFRcA_NdmlPJvHZSGQt7WlyoG7F-/preview"
-        },
-        {
-          "fansub_id": 153,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NxoGP-Fb5dSECrOd6esYWtOWjMtlCyLU/preview"
-        },
-        {
-          "fansub_id": 153,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3431595"
-        },
-        {
-          "fansub_id": 153,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-v1s885okg9fc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T04:09:45.642111",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

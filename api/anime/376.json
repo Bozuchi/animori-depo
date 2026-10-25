@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Elfen Lied animesinin özel bölümüdür.",
-    "slug": "elfen-lied-tooriame-nite-arui-wa-shoujo-wa-ikani-shite-sono-shinjou-ni-itatta-ka-regenschauer"
+    "slug": "elfen-lied-tooriame-nite-arui-wa-shoujo-wa-ikani-shite-sono-shinjou-ni-itatta-ka-regenschauer",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 376,
@@ -51,139 +52,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 376,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n376-ZdqcrHPJBCqz.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b376-BWSoURbn8HZR.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461599191"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ihi08o0hhhsu.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667949"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/mert-mert-bulut/15/375.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2710589"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762142"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3r8pzqr73nhs.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/jgdb4nx5"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-niztpvqjh41f.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/doruk.n/44/454.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667950"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2720114"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762149"
-        },
-        {
-          "fansub_id": 120,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6kt1sqgys3tv.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/6412852675095823529"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/aoifansubguncel1/video/embed/_myvideo/358"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3912497"
-        },
-        {
-          "fansub_id": 139,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nof08OZ89EyIwJ1Dbg1dzB3rQU_N8d_S/preview"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5666009"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5666010"
-        },
-        {
-          "fansub_id": 139,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/0dsyb0d3vpxr"
-        },
-        {
-          "fansub_id": 139,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wmgnycw00odw.html"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/jp2u2tof"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T00:08:06.405089",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

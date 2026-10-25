@@ -4,7 +4,43 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Anne tanrıça ve cennetin hükümdarı olan Mama Megami, emekliye ayrılıyor. Onun varisi Lilith isimli genç büyücüyü, kendi muhafızlarından biri olarak atar. Lilith'in ilk görevi, Mama Megami'ye lâyık iki muhafız daha bulmaktır. Kolay bir görev değil, Stashia, Lilith'in kısa listesindeki ilk aday muhafız olmak istemez. Lilith listedeki ikinci kişiye sormak için fırsat bulamaz çünkü Stashia'nın küçük kız kardeşi Rurubell yüzünden Juliana ismindeki savaşçıyla bir yanlış anlaşılma meydana gelir. Rurubell bir muhafız olmak ister ama çok genç ve deneyimsiz olmasından dolayı Lilith tarafından geri çevrildi. Bu sırada Cennet, oraya hakim olmak isteyen şeytani bir tanrıça tarafından saldırı altındadır, saldırıyı engellemek ise Lilith, Stashia, Rurubell ve Juliana'ya bağlıdır.",
-    "slug": "megami-paradise"
+    "slug": "megami-paradise",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Megami Paradise 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12ShLl0t7Xu6VjZZ3sEDo6m7PFb7Cr0yQ/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5042191"
+          }
+        ],
+        "added_date": "2026-07-27T11:38:59.961329"
+      },
+      {
+        "episode_number": 2,
+        "title": "Megami Paradise 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OXs7HfJY451-5LkdIhk-CxM0W76bNXun/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5042205"
+          }
+        ],
+        "added_date": "2026-07-27T11:38:59.961329"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2528,
@@ -38,57 +74,14 @@
       155
     ],
     "relations": [],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 2528,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2528-v4NwzZHIL6wk.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Megami Paradise 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12ShLl0t7Xu6VjZZ3sEDo6m7PFb7Cr0yQ/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5042191"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:38:59.961329",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Megami Paradise 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1OXs7HfJY451-5LkdIhk-CxM0W76bNXun/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5042205"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:38:59.961329",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 45454,
     "type": "tv",

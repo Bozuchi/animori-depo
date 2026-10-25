@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Suu, Dört Yapraklı Yonca'dır. Suu'nun gücü eşsizdir, ancak bildiği bütün hayatı boyunca yalnızdır. Bir gün, Kazuhiko adında bir adam ortaya çıkar, Suu'nun mutluluğu bulacağı ilk ve son yolculuğunda, ona eşlik eder.",
-    "slug": "clover"
+    "slug": "clover",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1890,
@@ -49,66 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1890,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1890-Z8toXAOF16yb.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1890-nVdU69aiw4nX.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Clover",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 103,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sFJ2hryCazXbA3tPMG4QQ9xDiAKMTqcN/preview"
-        },
-        {
-          "fansub_id": 103,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MyYXR5ZtXvnnJNL_wPhEC4nbPTPw0A9K/preview"
-        },
-        {
-          "fansub_id": 103,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666861"
-        },
-        {
-          "fansub_id": 103,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017479"
-        },
-        {
-          "fansub_id": 103,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4642601"
-        },
-        {
-          "fansub_id": 103,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1634831"
-        },
-        {
-          "fansub_id": 103,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zeqiv6h6lz0q.html"
-        },
-        {
-          "fansub_id": 103,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ez2j5kg1uhcc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:16:14.275779",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 404508,
     "type": "movie",

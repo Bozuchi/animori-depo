@@ -4,7 +4,781 @@
     "puan": "6.92",
     "bolum_durumu": "26/26",
     "ozet": "Altus tarafından geliştirilen PlayStation 2 oyunundan uyarlanmıştır. \nOyunun hikâyesinden 10 yıl sonra geçer.",
-    "slug": "persona-trinity-soul"
+    "slug": "persona-trinity-soul",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Persona Trinity Soul 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1RpazymAdzMric8PM2I5ldaFOHPyJzI7c/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015004"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847450"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hdwiqycoeeot.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 2,
+        "title": "Persona Trinity Soul 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wb276zhTjqNfbeWz8hEyFoQ3zOuuXV63/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015005"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847453"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 3,
+        "title": "Persona Trinity Soul 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dvZcYCjkHSkwbS7nb2ABKgGLOiTT-5CP/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015006"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847456"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ndnetmghg6ld.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nxae0stw00ls.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 4,
+        "title": "Persona Trinity Soul 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ydKrk1I9zA9jByHYfsF_MOSkJ_0zEIt0/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015007"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847457"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-a73k6utollia.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-e4bstip96o6w.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 5,
+        "title": "Persona Trinity Soul 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-uKXFeyrkZuo4i79mUOHBdeHnQtyrmYb/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015008"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847459"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 6,
+        "title": "Persona Trinity Soul 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dt2eBxsZTR-nUncXSjelp0RpRvqCcajo/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015009"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847461"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 7,
+        "title": "Persona Trinity Soul 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sg2FyK0Z1gh85bRimV61ZtP0mymt-OLK/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015010"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847462"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-95do256bofvd.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 8,
+        "title": "Persona Trinity Soul 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_ehaygq0ZeUSII7kfILsPvh4atsCjXvw/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015011"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847464"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ag67i75q35pt.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 9,
+        "title": "Persona Trinity Soul 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Y5cRmrFqQaKPX7Rsyk90pPAkgvTfk_NJ/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015012"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847466"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-x5435bat627h.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 10,
+        "title": "Persona Trinity Soul 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1g8sYy3xGhfHycKzIGcfGm-lu1-KhWxqc/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015013"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847467"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3x8oi0pavl8l.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 11,
+        "title": "Persona Trinity Soul 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1a16huJZBM1ccbwzLU-zjQ_2SgfA--T-m/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015014"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847471"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6d4qm21gt6z8.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 12,
+        "title": "Persona Trinity Soul 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14CyqAf6clr0aI19En56EPd1I3qBDdKKQ/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851552"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847474"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439853"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-eghs8x3x3a6y.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 13,
+        "title": "Persona Trinity Soul 13. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1szzEUC7aqZqMpqPV8quYE0h_nsJvC4Vw/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015015"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847476"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lwoupf7zl1fy.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 14,
+        "title": "Persona Trinity Soul 14. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1N2H95-vAovsob1oVigYyjXRYgQDzc4w_/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015016"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847478"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tza33p0d15ad.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 15,
+        "title": "Persona Trinity Soul 15. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eIYBSQSYAiSolhTYXyhbUmWE_MKvYek6/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015017"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847480"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-4we9mcpyt17b.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 16,
+        "title": "Persona Trinity Soul 16. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tmFQF1GpwgPoFHJDJmGSEOrpyPp0laOz/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015018"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847481"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-r3rs2adgd3l3.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 17,
+        "title": "Persona Trinity Soul 17. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1I5MdNz2d-h7wcGIYT9YzE5ohKKOMVq41/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015019"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847482"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3oy69o0o0cew.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 18,
+        "title": "Persona Trinity Soul 18. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1P3hRkwoEXo9L6KMM6MRYcYGG-CcvziaL/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015020"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847484"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1553538"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-len0v1vcqo37.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 19,
+        "title": "Persona Trinity Soul 19. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oKuEHxuVGsbhXponOt3uDOZtUGcGkiZi/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015021"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847485"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1553539"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u0p919ro8ip1.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 20,
+        "title": "Persona Trinity Soul 20. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uQk5RVNt0A6NxgfWaiCtKIb2b95A42lt/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015022"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847486"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1553541"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vfctqrmnl3ud.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 21,
+        "title": "Persona Trinity Soul 21. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1i5QpniEH3k5_Hwu45Pk5qDOfZcwklPZa/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015023"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847488"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1553542"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-bs06a7vuxhj6.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 22,
+        "title": "Persona Trinity Soul 22. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MySjovcvksZyK6vq--iNVxX9hRJMS0RM/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851553"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1700503"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847489"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439854"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-sbw0q56457ob.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 23,
+        "title": "Persona Trinity Soul 23. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1r4HJ_vm9y0GABe1fCnbD314qXwnzWjYx/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851554"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1700505"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847491"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439855"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5e380o7jeww7.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 24,
+        "title": "Persona Trinity Soul 24. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QQq8OurGO-_pKfL4uI7n1oicdZ1H6tFg/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851555"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1700508"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847493"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439856"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zlkisodchpxi.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 25,
+        "title": "Persona Trinity Soul 25. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jjscZ7jDgiZKMhGKj-RKB7twCF9XgIcH/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851556"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1700510"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847494"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439857"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-c3vetymxcxu9.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      },
+      {
+        "episode_number": 26,
+        "title": "Persona Trinity Soul 26. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1RTgvGNxC9R9fwtbm82B_zOb7bx6WLzW2/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851557"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1700511"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1847496"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439858"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-n7g0zi821l0v.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:32:03.376501"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3366,
@@ -67,891 +841,197 @@
         ]
       }
     ],
-    "episodes": 26
+    "episodes": 26,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "14. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "15. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "16. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "17. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "18. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "19. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "20. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "21. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "22. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "23. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "24. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "25. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "26. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 3366,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3366.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Persona Trinity Soul 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RpazymAdzMric8PM2I5ldaFOHPyJzI7c/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015004"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847450"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hdwiqycoeeot.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wb276zhTjqNfbeWz8hEyFoQ3zOuuXV63/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015005"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847453"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dvZcYCjkHSkwbS7nb2ABKgGLOiTT-5CP/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015006"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847456"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ndnetmghg6ld.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nxae0stw00ls.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ydKrk1I9zA9jByHYfsF_MOSkJ_0zEIt0/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015007"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847457"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-a73k6utollia.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-e4bstip96o6w.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-uKXFeyrkZuo4i79mUOHBdeHnQtyrmYb/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015008"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847459"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dt2eBxsZTR-nUncXSjelp0RpRvqCcajo/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015009"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847461"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sg2FyK0Z1gh85bRimV61ZtP0mymt-OLK/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015010"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847462"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-95do256bofvd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_ehaygq0ZeUSII7kfILsPvh4atsCjXvw/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015011"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847464"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ag67i75q35pt.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Y5cRmrFqQaKPX7Rsyk90pPAkgvTfk_NJ/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015012"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847466"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-x5435bat627h.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1g8sYy3xGhfHycKzIGcfGm-lu1-KhWxqc/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015013"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847467"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3x8oi0pavl8l.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1a16huJZBM1ccbwzLU-zjQ_2SgfA--T-m/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015014"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847471"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-6d4qm21gt6z8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14CyqAf6clr0aI19En56EPd1I3qBDdKKQ/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851552"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847474"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439853"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-eghs8x3x3a6y.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 13. Bölüm",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1szzEUC7aqZqMpqPV8quYE0h_nsJvC4Vw/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015015"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847476"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-lwoupf7zl1fy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 14. Bölüm",
-      "episode_number": 14,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1N2H95-vAovsob1oVigYyjXRYgQDzc4w_/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015016"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847478"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-tza33p0d15ad.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 14,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 15. Bölüm",
-      "episode_number": 15,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eIYBSQSYAiSolhTYXyhbUmWE_MKvYek6/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015017"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847480"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-4we9mcpyt17b.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 15,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 16. Bölüm",
-      "episode_number": 16,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tmFQF1GpwgPoFHJDJmGSEOrpyPp0laOz/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015018"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847481"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-r3rs2adgd3l3.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 16,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 17. Bölüm",
-      "episode_number": 17,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1I5MdNz2d-h7wcGIYT9YzE5ohKKOMVq41/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015019"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847482"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3oy69o0o0cew.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 17,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 18. Bölüm",
-      "episode_number": 18,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1P3hRkwoEXo9L6KMM6MRYcYGG-CcvziaL/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015020"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847484"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1553538"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-len0v1vcqo37.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 18,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 19. Bölüm",
-      "episode_number": 19,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oKuEHxuVGsbhXponOt3uDOZtUGcGkiZi/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015021"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847485"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1553539"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-u0p919ro8ip1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 19,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 20. Bölüm",
-      "episode_number": 20,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uQk5RVNt0A6NxgfWaiCtKIb2b95A42lt/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015022"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847486"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1553541"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-vfctqrmnl3ud.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 20,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 21. Bölüm",
-      "episode_number": 21,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1i5QpniEH3k5_Hwu45Pk5qDOfZcwklPZa/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015023"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847488"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1553542"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bs06a7vuxhj6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 21,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 22. Bölüm",
-      "episode_number": 22,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MySjovcvksZyK6vq--iNVxX9hRJMS0RM/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851553"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1700503"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847489"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439854"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-sbw0q56457ob.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 22,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 23. Bölüm",
-      "episode_number": 23,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1r4HJ_vm9y0GABe1fCnbD314qXwnzWjYx/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851554"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1700505"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847491"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439855"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5e380o7jeww7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 23,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 24. Bölüm",
-      "episode_number": 24,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1QQq8OurGO-_pKfL4uI7n1oicdZ1H6tFg/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851555"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1700508"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847493"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439856"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zlkisodchpxi.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 24,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 25. Bölüm",
-      "episode_number": 25,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jjscZ7jDgiZKMhGKj-RKB7twCF9XgIcH/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851556"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1700510"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847494"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439857"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-c3vetymxcxu9.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 25,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona Trinity Soul 26. Bölüm Final",
-      "episode_number": 26,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RTgvGNxC9R9fwtbm82B_zOb7bx6WLzW2/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851557"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1700511"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1847496"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439858"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-n7g0zi821l0v.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:32:03.376501",
-      "jikan_mal_id": 26,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 86123,
     "type": "tv",

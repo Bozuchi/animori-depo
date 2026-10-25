@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Cimri bir adam, kiraz tohumları yediğinden \nkafasında bir kiraz ağacı büyür \nve bundan dolayı bir çok sorun yaşar.",
-    "slug": "atama-yama"
+    "slug": "atama-yama",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1370,
@@ -43,66 +44,14 @@
       1055
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1370,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1370-LE3i3DKLVfz3.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Atama Yama",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 66,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ScAQhv0YVrFkZQfRQmvfzbLciDrPF3za/preview"
-        },
-        {
-          "fansub_id": 66,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1364"
-        },
-        {
-          "fansub_id": 66,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658694"
-        },
-        {
-          "fansub_id": 66,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4454828"
-        },
-        {
-          "fansub_id": 66,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4091320"
-        },
-        {
-          "fansub_id": 66,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-h3quefk7199p.html"
-        },
-        {
-          "fansub_id": 66,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/2vphfqvu"
-        },
-        {
-          "fansub_id": 66,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qib65984"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:12:26.957316",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 36072,
     "type": "movie",

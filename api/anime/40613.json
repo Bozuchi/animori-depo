@@ -4,7 +4,36 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Latimer gezegeninde her şey geçici, onur ise kalıcıdır. Takeshi Kovacs, Latimer’de bulunan bir dövmeciyi korumak ve aynı zamanda bir yakuza liderinin ölümünü araştırmak zorundadır.",
-    "slug": "altered-carbon-resleeved"
+    "slug": "altered-carbon-resleeved",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Altered Carbon: Resleeved OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/114ib81_x7zdQqJZ0paYh1m4s_qlgUyRj/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1f8ZkFt_CPRplUbbO4wLLD0xEA52e3vU6/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7434"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-eco178j210b3.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:19:21.378581"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40613,
@@ -38,46 +67,14 @@
       298
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 115715,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115715-8vtVT74WLjlK.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Altered Carbon: Resleeved OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/114ib81_x7zdQqJZ0paYh1m4s_qlgUyRj/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1f8ZkFt_CPRplUbbO4wLLD0xEA52e3vU6/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7434"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-eco178j210b3.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:19:21.378581",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 665251,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Nube'nin öğrencilerinden biri olan Kumiko İjima, parkta resim çizerken cinayetten aranan bir suçluyu tanır ve polise ihbar eder. Suçlu bunu farkeder, takibe koyulur. Kumiko'nun isminin baş harflerinin K.I olarak yazılı olduğu çizim defterini görür ve Kumiko'nun kırmızı bir kurdele taktığını farkeder. Polislerden kaçarken iblisin mühürlenmiş olduğu bir anıta çarparak kaza yapar. Kırılan mühürle birlikte ruhu ele geçirilir. Suçlu, iblisin gücüyle birlikte ismi K.I olan ve kırmızı kurdele takan kızın peşine düşer.",
-    "slug": "jigoku-sensei-nube-movie"
+    "slug": "jigoku-sensei-nube-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8208,
@@ -49,56 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 8208,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8208.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Jigoku Sensei Nube (Movie)",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 9,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BmTbr6ET2AjslqEXpvc59rKvoXgrrdaG/preview"
-        },
-        {
-          "fansub_id": 9,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FLZRHrLnm10Ikw-fj3xnf2uemqbenlV6/preview"
-        },
-        {
-          "fansub_id": 9,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/1452"
-        },
-        {
-          "fansub_id": 9,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3238748"
-        },
-        {
-          "fansub_id": 9,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3527734"
-        },
-        {
-          "fansub_id": 9,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ze06usrow2y4.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T06:41:38.667330",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 23787,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikâye, sinema sektörünün başkenti \"Nyallywood\"da yetenekli bir film yapımcısı olan Joelle Davidovich Pomponette’in (Pompo-san) film yapımı sırasındaki yaşadıkları olaylarını anlatıyor. Pompo-san oyuncu ve stüdyo ekibi seçme potansiyeli ve yeteneklerini sonuna kadar ortaya çıkarma konusundaki hünerlerine rağmen, yalnızca B-sınıfı aksiyon ve erotik filmler çekiyor. Bir gün, Pompo-san, seçmelere gelen bir oyuncu adayından etkilenerek yazdığı senaryoyu Gene Fini isimli asistanına gösterir ve ondan bu filmin yönetmenliğini yapmasını ister.",
-    "slug": "eiga-daisuki-pompo-san-movie"
+    "slug": "eiga-daisuki-pompo-san-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 41361,
@@ -53,66 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 99900,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99900-RE4la37rcBkQ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99900-YpWbTgc4wr7A.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Eiga Daisuki Pompo-san The Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eS-zWHt5mQSP2giGjJ5W--Lbwy7-JK_G/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/124T_5EPdpiTOvOd25TZUHRz2I4OaQBYl/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660647"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//ok/571224138646/video/embed/_myvideo/769"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-h16oxfw9fge6.html"
-        },
-        {
-          "fansub_id": 77,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Lu2ZNxyg8GYsD1osFMGBRi_DjWaWuY7i/preview"
-        },
-        {
-          "fansub_id": 77,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368720"
-        },
-        {
-          "fansub_id": 77,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1cnyyxc3bh0n.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:57:14.898704",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 678458,
     "type": "movie",

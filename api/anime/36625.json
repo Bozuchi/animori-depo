@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ajin 2nd Season animesine ait OVA bölümüdür.",
-    "slug": "ajin-2nd-season-ova"
+    "slug": "ajin-2nd-season-ova",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 36625,
@@ -48,50 +49,8 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
-  "anilist": null,
-  "episodes": [
-    {
-      "turkanime_title": "Ajin 2nd Season OVA Final",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TWj16jk5qJFw0N_NWmtyfgGw5XLdmq9P/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4529354"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-j9l8rskgjcnd.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/h4bov6de"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-u0kumcbd684v.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8v8hwwwaa07e.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T04:32:07.755532",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  "anilist": null
 }

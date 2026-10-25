@@ -4,7 +4,93 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Teekyuu 2 serisinin special bölümleridir.",
-    "slug": "teekyuu-2-specials"
+    "slug": "teekyuu-2-specials",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Teekyuu 2 Special 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 99,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1yJV5L8N0hB-LOcIjIofsfxUY5_M_5uBX/preview"
+          },
+          {
+            "fansub_id": 99,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846678"
+          },
+          {
+            "fansub_id": 99,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852695"
+          },
+          {
+            "fansub_id": 99,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4071706"
+          },
+          {
+            "fansub_id": 99,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4443914"
+          },
+          {
+            "fansub_id": 99,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-317ommvmvjo0.html"
+          },
+          {
+            "fansub_id": 99,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pqnylulugp4s.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:29:17.021760"
+      },
+      {
+        "episode_number": 2,
+        "title": "Teekyuu 2 Special 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 99,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11E0fJkZ6OcOqXUgQ_aaYufGmOGQyJvFt/preview"
+          },
+          {
+            "fansub_id": 99,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846679"
+          },
+          {
+            "fansub_id": 99,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852696"
+          },
+          {
+            "fansub_id": 99,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4071707"
+          },
+          {
+            "fansub_id": 99,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4443915"
+          },
+          {
+            "fansub_id": 99,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ety00vsw5m9c.html"
+          },
+          {
+            "fansub_id": 99,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tm97nrgunmpn.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:29:17.021760"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 21201,
@@ -48,105 +134,27 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": true,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": true,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20450,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20450.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20450.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Teekyuu 2 Special 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 99,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yJV5L8N0hB-LOcIjIofsfxUY5_M_5uBX/preview"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846678"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852695"
-        },
-        {
-          "fansub_id": 99,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4071706"
-        },
-        {
-          "fansub_id": 99,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4443914"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-317ommvmvjo0.html"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pqnylulugp4s.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:29:17.021760",
-      "jikan_mal_id": 1,
-      "filler": true,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 2 Special 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 99,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11E0fJkZ6OcOqXUgQ_aaYufGmOGQyJvFt/preview"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846679"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852696"
-        },
-        {
-          "fansub_id": 99,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4071707"
-        },
-        {
-          "fansub_id": 99,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4443915"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ety00vsw5m9c.html"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-tm97nrgunmpn.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:29:17.021760",
-      "jikan_mal_id": 2,
-      "filler": true,
-      "recap": false
-    }
-  ]
+  }
 }

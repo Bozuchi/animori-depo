@@ -4,7 +4,112 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Pokémon'lara eğlenceli ve huzurlu bir kaçamak sunan Pokémon Tatil Köyü'ne hoş geldiniz. Bakalım yeni konsiyerj Haru, önce hangi konukla arkadaş olacak ve ona yardım edecek?",
-    "slug": "pokemon-concierge"
+    "slug": "pokemon-concierge",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Pokemon Concierge 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370887"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5388735"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-t8gpu5oi5f79.html"
+          }
+        ],
+        "added_date": "2026-07-29T02:24:50.728862"
+      },
+      {
+        "episode_number": 2,
+        "title": "Pokemon Concierge 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370888"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5388737"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-uih3xp9o1k4w.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-8t7lu00hxhbw.html"
+          }
+        ],
+        "added_date": "2026-07-29T02:24:50.728862"
+      },
+      {
+        "episode_number": 3,
+        "title": "Pokemon Concierge 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370889"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5388742"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3rftvkjfy79m.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-zpt3ypvqabk2.html"
+          }
+        ],
+        "added_date": "2026-07-29T02:24:50.728862"
+      },
+      {
+        "episode_number": 4,
+        "title": "Pokemon Concierge 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370890"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5388743"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m3rfl0l4oi6r.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-im7on4o3z2rx.html"
+          }
+        ],
+        "added_date": "2026-07-29T02:24:50.728862"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 54633,
@@ -53,134 +158,43 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 162147,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162147-fQ1wNM1CQ7gE.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-90IXqW7pehgw.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon Concierge 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370887"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5388735"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-t8gpu5oi5f79.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:24:50.728862",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Pokemon Concierge 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370888"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5388737"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-uih3xp9o1k4w.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8t7lu00hxhbw.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:24:50.728862",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Pokemon Concierge 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370889"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5388742"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3rftvkjfy79m.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zpt3ypvqabk2.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:24:50.728862",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Pokemon Concierge 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370890"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5388743"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-m3rfl0l4oi6r.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-im7on4o3z2rx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:24:50.728862",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 221301,
     "type": "tv",

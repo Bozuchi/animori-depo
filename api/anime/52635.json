@@ -4,7 +4,434 @@
     "puan": "0.00",
     "bolum_durumu": "13/13",
     "ozet": "Kami no Tou animesinin ikinci sezonudur.",
-    "slug": "kami-no-tou-ouji-no-kikan"
+    "slug": "kami-no-tou-ouji-no-kikan",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Kami no Tou: Ouji no Kikan 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10rKCQXTtlDJrzzvHA4usLLBxiwID6P8j/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461602145"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5589276"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/iyxxgoap6r59"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gf60q529fxcr.html"
+          },
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18o_Ag06XRGA7akNjuA4UWO7RTdYKBplD/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6294"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5593055"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/v7ajoqgtw1zf"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/c84rll7a"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 60.719,
+            "end": 150.719
+          },
+          "ed": {
+            "start": 1331,
+            "end": 1421
+          }
+        },
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 2,
+        "title": "Kami no Tou: Ouji no Kikan 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1c472PySIpPlLmzGzbtvQreTa3l4XdtyS/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6340"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5599066"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/dlq8xv5zkzjf"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ksf0oh0j"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 181.8,
+            "end": 268.8
+          }
+        },
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 3,
+        "title": "Kami no Tou: Ouji no Kikan 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YPExcdiccwPDxM2LJF-X4plhiARLt5YV/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6376"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5608105"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/rkmv52icwj1k"
+          }
+        ],
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 4,
+        "title": "Kami no Tou: Ouji no Kikan 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1j-_kpVXCtz4YQz5g6gjxWTZXCL8g7pv6/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6398"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5615999"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/rmhdrp82y6b4"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/aw2uje0n"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 187.6,
+            "end": 277.6
+          },
+          "ed": {
+            "start": 1326.7,
+            "end": 1411.7
+          }
+        },
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 5,
+        "title": "Kami no Tou: Ouji no Kikan 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EotoEt1tZekSAQMbGAO_16w2PDY71t6q/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6418"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5625101"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/62sfkwcy6gro"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 113.6,
+            "end": 209.3
+          },
+          "ed": {
+            "start": 1325.8,
+            "end": 1416.3
+          }
+        },
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 6,
+        "title": "Kami no Tou: Ouji no Kikan 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14i2g5miE7pdt2PDufKyfVU6LJTvCAFFl/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5642581"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ksq07qjrdc0l"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 98.7,
+            "end": 194.7
+          },
+          "ed": {
+            "start": 1325.9,
+            "end": 1416.9
+          }
+        },
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 7,
+        "title": "Kami no Tou: Ouji no Kikan 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wwaOV1QIA_gA6oAPkm2JwBwnGha7pnoa/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5664439"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/68nzdmrjy4z0"
+          }
+        ],
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 8,
+        "title": "Kami no Tou: Ouji no Kikan 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CLGGF_-ozmHPBjul6mvvSoLx1s00b2wL/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5664447"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/8w7ppx33avid"
+          }
+        ],
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 9,
+        "title": "Kami no Tou: Ouji no Kikan 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IRSpdWdxmk8lReGYX5E6WUE8TVB_9mDr/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5671171"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ro9tt7ly22v2"
+          }
+        ],
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 10,
+        "title": "Kami no Tou: Ouji no Kikan 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11eN5ENoAp7ifC7ntyrAheYn4md_MWxIV/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5671172"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/7dwtpxwhs2un"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 51,
+            "end": 141
+          },
+          "ed": {
+            "start": 1325,
+            "end": 1416
+          }
+        },
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 11,
+        "title": "Kami no Tou: Ouji no Kikan 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ywffsvPDD86krwP5mUM9q1lA-9-myN8Q/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5682598"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/mi0ljubye7pl"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1326,
+            "end": 1416
+          }
+        },
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 12,
+        "title": "Kami no Tou: Ouji no Kikan 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EkE2EEbXM62lKrbDMVH5-2nfcWgJNg2i/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5690759"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ds6fk2boxibx"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1416
+          }
+        },
+        "added_date": "2026-07-26T23:18:39.597842"
+      },
+      {
+        "episode_number": 13,
+        "title": "Kami no Tou: Ouji no Kikan 13. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13Fu9r5Eq7vCTjTB-TgogshTAHZ6aP17p/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5704959"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/i2tyx4dqnkos"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1294,
+            "end": 1385
+          }
+        },
+        "added_date": "2026-07-26T23:18:39.597842"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 52635,
@@ -59,481 +486,104 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 153406,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153406-wP0TEqBVxY0V.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10rKCQXTtlDJrzzvHA4usLLBxiwID6P8j/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461602145"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5589276"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/iyxxgoap6r59"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gf60q529fxcr.html"
-        },
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18o_Ag06XRGA7akNjuA4UWO7RTdYKBplD/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6294"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5593055"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/v7ajoqgtw1zf"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/c84rll7a"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 60.719,
-          "end": 150.719
-        },
-        "ed": {
-          "start": 1331,
-          "end": 1421
-        }
-      },
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1c472PySIpPlLmzGzbtvQreTa3l4XdtyS/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6340"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5599066"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/dlq8xv5zkzjf"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ksf0oh0j"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 181.8,
-          "end": 268.8
-        }
-      },
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YPExcdiccwPDxM2LJF-X4plhiARLt5YV/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6376"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5608105"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/rkmv52icwj1k"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1j-_kpVXCtz4YQz5g6gjxWTZXCL8g7pv6/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6398"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5615999"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/rmhdrp82y6b4"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/aw2uje0n"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 187.6,
-          "end": 277.6
-        },
-        "ed": {
-          "start": 1326.7,
-          "end": 1411.7
-        }
-      },
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EotoEt1tZekSAQMbGAO_16w2PDY71t6q/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/aslikagan6/video/embed/_myvideo/6418"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5625101"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/62sfkwcy6gro"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 113.6,
-          "end": 209.3
-        },
-        "ed": {
-          "start": 1325.8,
-          "end": 1416.3
-        }
-      },
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14i2g5miE7pdt2PDufKyfVU6LJTvCAFFl/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5642581"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ksq07qjrdc0l"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 98.7,
-          "end": 194.7
-        },
-        "ed": {
-          "start": 1325.9,
-          "end": 1416.9
-        }
-      },
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wwaOV1QIA_gA6oAPkm2JwBwnGha7pnoa/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5664439"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/68nzdmrjy4z0"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CLGGF_-ozmHPBjul6mvvSoLx1s00b2wL/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5664447"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/8w7ppx33avid"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1IRSpdWdxmk8lReGYX5E6WUE8TVB_9mDr/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5671171"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ro9tt7ly22v2"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11eN5ENoAp7ifC7ntyrAheYn4md_MWxIV/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5671172"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/7dwtpxwhs2un"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 51,
-          "end": 141
-        },
-        "ed": {
-          "start": 1325,
-          "end": 1416
-        }
-      },
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ywffsvPDD86krwP5mUM9q1lA-9-myN8Q/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5682598"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/mi0ljubye7pl"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1326,
-          "end": 1416
-        }
-      },
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EkE2EEbXM62lKrbDMVH5-2nfcWgJNg2i/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5690759"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ds6fk2boxibx"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1416
-        }
-      },
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kami no Tou: Ouji no Kikan 13. Bölüm Final",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13Fu9r5Eq7vCTjTB-TgogshTAHZ6aP17p/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5704959"
-        },
-        {
-          "fansub_id": 43,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/i2tyx4dqnkos"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1294,
-          "end": 1385
-        }
-      },
-      "added_date": "2026-07-26T23:18:39.597842",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

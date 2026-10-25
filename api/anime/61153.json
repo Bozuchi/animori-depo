@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
-    "slug": "tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu"
+    "slug": "tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 61153,
@@ -45,6 +46,36 @@
           133336
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Great Saint Awakens",
+        "aired": "Oct 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Fia and the Knight Brigade",
+        "aired": "Oct 10, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Saints' State of Being",
+        "aired": "Oct 17, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The Fourth Monster Tamer Knight Brigade",
+        "aired": "Oct 24, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -59,47 +90,5 @@
     "episode_offset": 0,
     "name": "A Tale of the Secret Saint"
   },
-  "synopsis_tr": "Fia her zaman şövalye olmayı hayal ediyordu. Şövalyelerden oluşan bir ailenin çocuğu olarak doğmuştur ve aralarında en az yetenekli olanıdır, ancak yine de umuduna sarılıyor ve sahip olduğu her şeyle antrenman yapıyor. Küçük bir şeytanı öldürüp değerini kanıtlayacağı gün geldiğinde, kendini bir ejderhayla karşı karşıya bulur! Ölümcül bir yaralanma, hayatının gözlerinin önünden geçmesine neden olur... ve birdenbire, geçmiş bir çağda güçlü bir Aziz olduğu ve Şeytan Kral'ı yendiği eski hayatını hatırlar. Bu hayat, kim olduğu yüzünden acıyla sona erdi ve bu onun yeniden bir Aziz olma korkusuna yol açtı. Artık önceki hayatındaki büyü yeniden alevlendiğine göre, hayal ettiğinden daha güçlü bir şövalye olabilir; yeter ki yeterince uzun süre hayatta kalabilsin!(Kaynak: Seven Seas Entertainment)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "The Great Saint Awakens",
-      "episode_number": 1,
-      "aired": "Oct 3, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:12.880460"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Fia and the Knight Brigade",
-      "episode_number": 2,
-      "aired": "Oct 10, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:12.880460"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "The Saints' State of Being",
-      "episode_number": 3,
-      "aired": "Oct 17, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:38:09.607395"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "The Fourth Monster Tamer Knight Brigade",
-      "episode_number": 4,
-      "aired": "Oct 24, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-18T07:59:42.299970"
-    }
-  ]
+  "synopsis_tr": "Fia her zaman şövalye olmayı hayal ediyordu. Şövalyelerden oluşan bir ailenin çocuğu olarak doğmuştur ve aralarında en az yetenekli olanıdır, ancak yine de umuduna sarılıyor ve sahip olduğu her şeyle antrenman yapıyor. Küçük bir şeytanı öldürüp değerini kanıtlayacağı gün geldiğinde, kendini bir ejderhayla karşı karşıya bulur! Ölümcül bir yaralanma, hayatının gözlerinin önünden geçmesine neden olur... ve birdenbire, geçmiş bir çağda güçlü bir Aziz olduğu ve Şeytan Kral'ı yendiği eski hayatını hatırlar. Bu hayat, kim olduğu yüzünden acıyla sona erdi ve bu onun yeniden bir Aziz olma korkusuna yol açtı. Artık önceki hayatındaki büyü yeniden alevlendiğine göre, hayal ettiğinden daha güçlü bir şövalye olabilir; yeter ki yeterince uzun süre hayatta kalabilsin!(Kaynak: Seven Seas Entertainment)"
 }

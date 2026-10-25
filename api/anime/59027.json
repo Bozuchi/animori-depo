@@ -4,7 +4,440 @@
     "puan": "0.00",
     "bolum_durumu": "13/13",
     "ozet": "Spy x Family serisinin 3. sezonudur",
-    "slug": "spy-x-family-season-3"
+    "slug": "spy-x-family-season-3",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Spy x Family Season 3 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1imuEPMIioes8W18Kakttbz0GHcgxsM4S/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6025901"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/r10nm35n"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 6.521,
+            "end": 96.521
+          },
+          "ed": {
+            "start": 1185.82,
+            "end": 1275.82
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 2,
+        "title": "Spy x Family Season 3 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1vXoXEua1ngLlOEIOJhDwN48v6-Y2x5jk/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//xmail.ru/seicodesubs/video/embed/_myvideo/131"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6031601"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-q7sfdqks1cqm.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jav09nkh"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          },
+          "ed": {
+            "start": 1323,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 3,
+        "title": "Spy x Family Season 3 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14vs-oLrZwx8S0z0jBZel9voUIecaYQOJ/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//xmail.ru/seicodesubs/video/embed/_myvideo/133"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6037337"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-70swgrgaa9sb.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/eh26biqf"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 4,
+        "title": "Spy x Family Season 3 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1T9fenvlQZtExRdxOhpDWbJ4_w97YNg-c/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//xmail.ru/seicodesubs/video/embed/_myvideo/135"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6043112"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/00ox8u8c"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 92
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 5,
+        "title": "Spy x Family Season 3 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MxahdsAmPh4TaEeWnrhtGxVVTmXtAlD8/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6048910"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-c6rgq2wgi4hz.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5swk2e4f"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 6,
+        "title": "Spy x Family Season 3 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1htZpfDo9itUh23ywIggWJeyHLoNcT2t4/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6053404"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1q0gpyvy3p2z.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3ruiwlm3"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          },
+          "ed": {
+            "start": 1321,
+            "end": 1410
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 7,
+        "title": "Spy x Family Season 3 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_ZhwPJq9xlGcEeMq8mBPeIb7M-BKh9BJ/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6058617"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-biiyzad65e4q.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9k0ea1vx"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 8,
+        "title": "Spy x Family Season 3 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19DG-6T4B-coL1mfsgnPCnlDCCsKe53Us/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6062957"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b4j7jht6iatq.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/zm1zntp7"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 9,
+        "title": "Spy x Family Season 3 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17X35lIXGql-UThmv8SHl4enw9HaRkPEH/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6068494"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-um73sb9s4rp8.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4xib67l7"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 61,
+            "end": 151
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 10,
+        "title": "Spy x Family Season 3 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hYFWr1OeQizEUA2dkyCUEwtAIlgqF3pI/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6072946"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-rf1lkymoc1jk.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/96wjpfrz"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 11,
+        "title": "Spy x Family Season 3 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AlmlHC9oS154SHTumZERHVr3FOJf8g-U/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6077886"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 12,
+        "title": "Spy x Family Season 3 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uqU_Qih03cOgvG3Rz-u-jzVqsosERDss/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6083656"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9pvkmdw9cidb.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/lt6gp7nr"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 25,
+            "end": 115
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      },
+      {
+        "episode_number": 13,
+        "title": "Spy x Family Season 3 13. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10yTVn1MZXP8zOyE1pn976D-DcKktCQmf/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6088379"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/m1n7x1qc"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 17,
+            "end": 104
+          }
+        },
+        "added_date": "2026-07-29T12:18:44.547066"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59027,
@@ -56,485 +489,106 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 177937,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177937-jty4x7qBWG5n.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177937-Tzgg6rAdhCoH.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Spy x Family Season 3 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1imuEPMIioes8W18Kakttbz0GHcgxsM4S/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6025901"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/r10nm35n"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 6.521,
-          "end": 96.521
-        },
-        "ed": {
-          "start": 1185.82,
-          "end": 1275.82
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vXoXEua1ngLlOEIOJhDwN48v6-Y2x5jk/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//xmail.ru/seicodesubs/video/embed/_myvideo/131"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6031601"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-q7sfdqks1cqm.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/jav09nkh"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        },
-        "ed": {
-          "start": 1323,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14vs-oLrZwx8S0z0jBZel9voUIecaYQOJ/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//xmail.ru/seicodesubs/video/embed/_myvideo/133"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6037337"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-70swgrgaa9sb.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/eh26biqf"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1T9fenvlQZtExRdxOhpDWbJ4_w97YNg-c/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//xmail.ru/seicodesubs/video/embed/_myvideo/135"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6043112"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/00ox8u8c"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 92
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MxahdsAmPh4TaEeWnrhtGxVVTmXtAlD8/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6048910"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-c6rgq2wgi4hz.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5swk2e4f"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1htZpfDo9itUh23ywIggWJeyHLoNcT2t4/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6053404"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1q0gpyvy3p2z.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/3ruiwlm3"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        },
-        "ed": {
-          "start": 1321,
-          "end": 1410
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_ZhwPJq9xlGcEeMq8mBPeIb7M-BKh9BJ/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6058617"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-biiyzad65e4q.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/9k0ea1vx"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/19DG-6T4B-coL1mfsgnPCnlDCCsKe53Us/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6062957"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-b4j7jht6iatq.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/zm1zntp7"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17X35lIXGql-UThmv8SHl4enw9HaRkPEH/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6068494"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-um73sb9s4rp8.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4xib67l7"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 61,
-          "end": 151
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hYFWr1OeQizEUA2dkyCUEwtAIlgqF3pI/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6072946"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rf1lkymoc1jk.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/96wjpfrz"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AlmlHC9oS154SHTumZERHVr3FOJf8g-U/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6077886"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uqU_Qih03cOgvG3Rz-u-jzVqsosERDss/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6083656"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9pvkmdw9cidb.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/lt6gp7nr"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 25,
-          "end": 115
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Spy x Family Season 3 13. Bölüm",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10yTVn1MZXP8zOyE1pn976D-DcKktCQmf/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6088379"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/m1n7x1qc"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 17,
-          "end": 104
-        }
-      },
-      "added_date": "2026-07-29T12:18:44.547066",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 120089,
     "type": "tv",

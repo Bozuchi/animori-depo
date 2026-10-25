@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bu film Shino ve arkadaşlarının okul festivali için yaptıkları hazırlığı ve ortaokul zamanında yaşadıklarını anlatmaktadır. Youko ve Alice; Shinobu'nun her sabah uykusuz olduğunu farkederler ve hasta olup olmadığı konusunda endişelenirler.Acaba Shinobu görevlerini zamanında yerine getirebilecek mi?",
-    "slug": "kiniro-mosaic-pretty-days"
+    "slug": "kiniro-mosaic-pretty-days",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 33034,
@@ -61,51 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21753,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21753-B4gIRlaAXTnd.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kiniro Mosaic: Pretty Days",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 299,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bdjati_nG3PMF5ItLaGq9lJyJjncPM7a/preview"
-        },
-        {
-          "fansub_id": 299,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/324"
-        },
-        {
-          "fansub_id": 299,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2951657"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4903649"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-v36a6eb6h3xg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:53:20.909776",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 445475,
     "type": "movie",

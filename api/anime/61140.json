@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Gensou Suikoden",
-    "slug": "gensou-suikoden"
+    "slug": "gensou-suikoden",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 61140,
@@ -44,6 +45,29 @@
           195245
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Hometown",
+        "aired": "Oct 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Mad Prince Luca",
+        "aired": "Oct 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Runes",
+        "aired": "Oct 20, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -58,37 +82,5 @@
     "episode_offset": 0,
     "name": "Suikoden: The Anime"
   },
-  "synopsis_tr": "Hikayemizin kahramanı ve arkadaşı Jowy, Highland Krallığı ile Jowstown Şehir Devletleri arasındaki uzun süreli sınır anlaşmazlığına katılan Tek Boynuzlu At Gençlik Tugayı'nın üyeleridir. Birkaç ay önce iki güç arasında bir hakikat anlaşması imzalandı ve her ikisi de çatışmanın sona ermesinden memnundu. Ancak anlık barışın altında yeni bir savaşın ateşleri yanmaya devam ediyordu...(Kaynak: ANN)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Hometown",
-      "episode_number": 1,
-      "aired": "Oct 3, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:50.974976"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "The Mad Prince Luca",
-      "episode_number": 2,
-      "aired": "Oct 13, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-16T08:06:13.237286"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "The Runes",
-      "episode_number": 3,
-      "aired": "Oct 20, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-23T08:28:35.701640"
-    }
-  ]
+  "synopsis_tr": "Hikayemizin kahramanı ve arkadaşı Jowy, Highland Krallığı ile Jowstown Şehir Devletleri arasındaki uzun süreli sınır anlaşmazlığına katılan Tek Boynuzlu At Gençlik Tugayı'nın üyeleridir. Birkaç ay önce iki güç arasında bir hakikat anlaşması imzalandı ve her ikisi de çatışmanın sona ermesinden memnundu. Ancak anlık barışın altında yeni bir savaşın ateşleri yanmaya devam ediyordu...(Kaynak: ANN)"
 }

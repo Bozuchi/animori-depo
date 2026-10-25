@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yamaura Hiroyasu'nun mangasından esinlenerek yapılan bu hikâyede karakterimiz Seiko, kendisini bir cinayetin tam ortasında bulmaktadır.",
-    "slug": "satsujin-kippu-wa-heart-iro"
+    "slug": "satsujin-kippu-wa-heart-iro",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 16247,
@@ -45,51 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 16247,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16247-9fxp9yOUH73h.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Satsujin Kippu wa Heart-iro OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ihWsch1QdHUruu_-jrBOUWVzoXtEDwNC/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368522"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4649800"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rea5kvt7d5e8.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kjtofob8mz72.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T06:47:48.431963",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 421930,
     "type": "movie",

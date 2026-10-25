@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Gümüş Şirketi'nden su çalıp çölde yaşayan Pembe adındaki hırsız genç kızı konu alır.",
-    "slug": "pink-mizu-dorobou-ame-dorobou"
+    "slug": "pink-mizu-dorobou-ame-dorobou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 11659,
@@ -54,61 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 11659,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11659-9bJ9y6eLiUGk.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pink Mizu Dorobou Ame Dorobou",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iXFzmtjiy70DwtAb5SgUOisHcZ1FNOX0/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sQSdCTVeIOj_EtWzq0ilra0723qRYju7/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660905"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911945"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-51t809omxjpl.html"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-cf3d7yrczye1.html"
-        },
-        {
-          "fansub_id": 115,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-k1hlksacb2vw.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:52:28.326515",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 495197,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Seriye ait yayınlanmamış bölümdür. Ekibin okul gezisini anlatmaktadır.",
-    "slug": "c-rinkan-gakkou-confusion"
+    "slug": "c-rinkan-gakkou-confusion",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 12505,
@@ -49,69 +50,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 12505,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12505.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "C³ Cube x Cursed x Curious Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158070855"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1778092"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-fey3lcgel2vb.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668031"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/mugen38/48/709.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762806"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2695678"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/itm5htk6"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hsx293ygh02r.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:26:48.317110",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Sanal gerçeklik üzerine kurulu bir oyun tanıtımına içinde Conan ve arkadaşlarının da bulunduğu yüzlerce davetli katılmıştır. Fakat oyuna başlanılacağı sırada kontrol merkezinde bir cinayet işlenir. Conan, katilin kim olduğunu ortaya çıkarmak için oyuna girmeli ve ünlü dedektif karakteri olan Sherlock Holmes'u bulup ondan yardım almalıdır. Oyuna dahil olan 49 çocuğun yanında Ran'ın hayatı da onun ellerindedir. Conan, bir zamanlar İngiltere'nin en azılı katili olan Karındeşen Jack'in gerçek kimliğini bulup onu yakalayabilecek midir?",
-    "slug": "detective-conan-movie-06-the-phantom-of-baker-street"
+    "slug": "detective-conan-movie-06-the-phantom-of-baker-street",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1365,
@@ -49,66 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1365,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1365-o7WI3BxstabV.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1365-FLEpMCC8Ghhk.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan Movie 06: The Phantom of Baker Street",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1kQfcqMyaiindfT9cHjHTLA2iMksET9iM/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Atfmb_Nbsps6EpYf7kBJBeVZ02QjEOyE/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388378343"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359657865"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4252368"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4452087"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/073b0t5s"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/xcp4nscy"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:56:20.748063",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30983,
     "type": "tv",

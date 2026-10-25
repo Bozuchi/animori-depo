@@ -4,7 +4,31 @@
     "puan": "0.00",
     "bolum_durumu": "1/26",
     "ozet": "2199 yılında, Dünya, Gamilas İmparatorluğu tarafından vahşi bir bombardımanın ardından eski ihtişamının sadece bir kalıntısı olarak kalmıştır. Vatandaşlar, radyasyonla kirlenmiş yüzeyden kaçmak için yeraltına gitmeye zorlanmışlardır, ancak ölümcül radyasyon geri çekilen nüfusa giderek daha da yaklaşmaktadır. \n\n\nTamamen ve kesin bir yok olmadan sadece bir yıl uzaklıktadırlar. Şimdiye kadar kaçma veya karşı saldırı girişimleri, uzaylı imparatorluk tarafından anında yok edilmiştir - ta ki komşu bir galaksideki Iscandar gezegeninden gelen acil bir ileti, ölüme mahkum olan gezegeni kurtarma umuduyla bir parıltı sunana kadar.\n\n\nGizlice, Dünya Savunma Kuvvetleri, Iscandar'a bir yolculuk için daha hızlı bir ışık motoru inşa eder. Yeni silahlarla donatılmış ve cesur denizcilerden oluşan kararlı bir mürettebatla, II. Dünya Savaşı dönemi savaş gemisi Yamato, Uzay Savaş Gemisi Yamato olarak yeniden doğar. O ve mürettebatı, evlerini ve tüm insanlığı kurtarmak için yıldızlar arasında tehlikeli bir yolculuğa çıkar.\n\n(Eski Çeviri)",
-    "slug": "uchuu-senkan-yamato"
+    "slug": "uchuu-senkan-yamato",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Uchuu Senkan Yamato 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5243381"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/3jhdo4ds9v32"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4ao96z4mcv1n.html"
+          }
+        ],
+        "added_date": "2026-07-29T19:12:46.400050"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1650,
@@ -78,41 +102,22 @@
         ]
       }
     ],
-    "episodes": 26
+    "episodes": 26,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1650,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1650-Zge6M0RZ1Q7Q.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1650-v2eMjvOfnLCc.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Uchuu Senkan Yamato 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5243381"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/3jhdo4ds9v32"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-4ao96z4mcv1n.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:12:46.400050",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 13339,
     "type": "tv",

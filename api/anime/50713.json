@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/96",
     "ozet": "Mahouka Koukou no Rettousei animesinin 3. sezonudur.",
-    "slug": "mahouka-koukou-no-rettousei-3rd-season"
+    "slug": "mahouka-koukou-no-rettousei-3rd-season",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 50713,
@@ -73,7 +74,8 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": []
   },
   "anilist": {
     "id": 143271,

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Detective Conan animesinin 24. filmidir.",
-    "slug": "detective-conan-movie-24-the-scarlet-bullet"
+    "slug": "detective-conan-movie-24-the-scarlet-bullet",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39764,
@@ -62,36 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 113653,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113653-fBVZxVTxxNHv.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113653-HY0suLnhIlA6.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan: The Scarlet Bullet Movie 24",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 65,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17PIYkl72hxD4JYYBXHA0-HS-X32_o5qK/preview"
-        },
-        {
-          "fansub_id": 65,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-q2l076id0ax9.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:57:18.201160",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 662638,
     "type": "movie",

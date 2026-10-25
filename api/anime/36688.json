@@ -4,7 +4,8 @@
     "puan": "9.13",
     "bolum_durumu": "1/1",
     "ozet": "Shinmai Maou no Testament serinin 2.sezonunun 1 saatlik ova şeklindeki devamıdır.",
-    "slug": "shinmai-maou-no-testament-departures"
+    "slug": "shinmai-maou-no-testament-departures",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 36688,
@@ -61,81 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 100451,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100451-9pgRkvHR7ePc.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shinmai Maou no Testament Departures",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/507"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4882056"
-        },
-        {
-          "fansub_id": 10,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cb8w5mpcsin1.html"
-        },
-        {
-          "fansub_id": 37,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1c5zCz31idrQDMSIvxpx72b0ZSZtt2iWR/preview"
-        },
-        {
-          "fansub_id": 37,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3449044"
-        },
-        {
-          "fansub_id": 37,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4536238"
-        },
-        {
-          "fansub_id": 37,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-f919ai5o6w74.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3264261"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4882052"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/kckb86hg"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mks5picwstp7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T09:45:09.186066",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 507732,
     "type": "movie",

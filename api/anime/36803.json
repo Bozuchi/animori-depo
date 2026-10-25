@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Film Misono Alicein'in geçmişini anlatmaktadır.",
-    "slug": "servamp-movie-alice-in-the-garden"
+    "slug": "servamp-movie-alice-in-the-garden",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 36803,
@@ -54,39 +55,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 100537,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100537-mwl7hyhz9cEN.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Servamp Movie: Alice in the Garden",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 142,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EYV94DoYON6SyjC48ioXABhMo1YiNBjp/preview"
-        },
-        {
-          "fansub_id": 142,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1523"
-        },
-        {
-          "fansub_id": 142,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-f6z5nte0w3sq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:06:55.052729",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

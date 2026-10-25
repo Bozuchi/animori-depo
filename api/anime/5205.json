@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "7 film olarak planlanan Kara no Kyoukai filmlerinin yedincisi ve sonuncusudur.",
-    "slug": "kara-no-kyoukai-7-satsujin-kousatsu-kou"
+    "slug": "kara-no-kyoukai-7-satsujin-kousatsu-kou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 5205,
@@ -68,54 +69,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 5205,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5205-Xfnek0viLdCj.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5205-kfgpEQI8ERza.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kara no Kyoukai 7: Satsujin Kousatsu (Part 2)",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SS80hxwgNgUZysEf2MDleumaWgMBQwEX/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/doruk.n/12/122.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658660"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2667830"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/9o84k3bk"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rkfslr1je6b6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:14:31.121859",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

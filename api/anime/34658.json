@@ -4,7 +4,56 @@
     "puan": "9.29",
     "bolum_durumu": "1/1",
     "ozet": "NEKOPARA nedir? Ne mi, kedi cenneti tabii ki!\nUzun zamandan beri şekerleme yapan Japon aile soyunun oğlu Kashou Minazuki, \"La Soleil\" adında bir pastane açar. Ama taşınırken, eşyalarının arasına ailenin besleyip büyüttüğü iki kedi kız (neko) saklanır, Chocola ve Vanilla. Onları geri göndermeye çalıştığında, vazgeçene kadar kalmak için yalvarırlar ve şimdi, La Soleil'i beraber açacaklardır.\nEfendilerini gerçekten, GERÇEKTEN seven iki neko ellerinden geleni yaparken bazen hata yapacaklar—kalp dolu bir komedi hizmete hazır!",
-    "slug": "nekopara"
+    "slug": "nekopara",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Nekopara 1. Bölüm (OVA)",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YWS21huwSlIGb72bWdcXP8A6wpvSiIaR/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2lxbebu0nad0.html"
+          },
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uefUtQfl9v2PXGGVbOx3nPjsL1h05n5F/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/efegun4/video/embed/_myvideo/367"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4460919"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/glapwgoe"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8a72uext"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gdtyhs47niyg.html"
+          }
+        ],
+        "added_date": "2026-07-27T15:41:22.415655"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34658,
@@ -59,66 +108,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 99939,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99939-kDhj9oc1G79o.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99939-O1rlvaP0UdTG.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Nekopara 1. Bölüm (OVA)",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YWS21huwSlIGb72bWdcXP8A6wpvSiIaR/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2lxbebu0nad0.html"
-        },
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uefUtQfl9v2PXGGVbOx3nPjsL1h05n5F/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/efegun4/video/embed/_myvideo/367"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4460919"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/glapwgoe"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8a72uext"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gdtyhs47niyg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T15:41:22.415655",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 95317,
     "type": "tv",

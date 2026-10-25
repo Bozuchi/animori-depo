@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/?",
     "ozet": "Saku Chitose için popülerlik sadece bir ödül değil, aynı zamanda her gün giymesi gereken zırhıdır. Serinin ikinci bölümünde, Saku’nun bu zırhı neden bu kadar sıkı tuttuğuna dair ipuçları gün yüzüne çıkmaya başlar. Saku, sadece kendi itibarını değil, etrafındaki \"elmas\" grubun (Yuzuki, Haru, Yua) parlaklığını da korumak zorundadır.\n\nAncak okulun yeni döneminde, Saku’nun geçmişinden gelen bir figür veya mevcut gruptaki bir çatışma, bu kusursuz görünen \"Ramune şişesi\" dünyasını çatlatmaya başlar. Özellikle Haru Aoki ve Yuzuki Nanase gibi karakterlerin Saku’ya karşı beslediği duygular, sadece birer \"takım arkadaşlığı\" olmaktan çıkıp, Saku'nun kendi içindeki \"çirkinlikten kaçma\" dürtüsüyle çarpışır. Saku, başkalarını kurtarmaya çalışırken, aslında en çok yardıma ihtiyacı olanın kendisi olduğunu fark edeceği duygusal bir eşiğe gelir.",
-    "slug": "chitose-kun-wa-ramune-bin-no-naka-part-2"
+    "slug": "chitose-kun-wa-ramune-bin-no-naka-part-2",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 62484,
@@ -52,7 +53,30 @@
         ]
       }
     ],
-    "episodes": 11
+    "episodes": 11,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Runaway Senpai and You",
+        "aired": "Oct 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "A Distant Indigo Night, Remembered",
+        "aired": "Oct 20, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Tomorrow's Wind",
+        "aired": "Oct 27, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 198727,
@@ -66,37 +90,5 @@
     "episode_offset": 13,
     "name": "Chitose Is in the Ramune Bottle"
   },
-  "synopsis_tr": "Chitose-kun wa Ramune Bin no Naka'nın ikinci kısmı.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Runaway Senpai and You",
-      "episode_number": 1,
-      "aired": "Oct 13, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:39:29.320724"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "A Distant Indigo Night, Remembered",
-      "episode_number": 2,
-      "aired": "Oct 20, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-14T08:38:57.653296"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Tomorrow's Wind",
-      "episode_number": 3,
-      "aired": "Oct 27, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-23T08:29:12.857833"
-    }
-  ]
+  "synopsis_tr": "Chitose-kun wa Ramune Bin no Naka'nın ikinci kısmı."
 }

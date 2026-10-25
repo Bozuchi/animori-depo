@@ -4,7 +4,88 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Saishuu Heiki Kanojo animesine ait OVA bölümlerdir.",
-    "slug": "saishuu-heiki-kanojo-another-love-song"
+    "slug": "saishuu-heiki-kanojo-another-love-song",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "SaiKano OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18LX7ywpUOxuEFiej4JI0blSaowkn770-/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1d4iiL_pTrt8Ims8hwarjpPb_5rKyjQOD/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140717804"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4472866"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/exbysnnl"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bcaiqvcy4qkh.html"
+          }
+        ],
+        "added_date": "2026-07-29T06:03:35.949050"
+      },
+      {
+        "episode_number": 2,
+        "title": "SaiKano OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZzYYFqzl-w3aPJVsKP6_OVrszsl07N4q/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1078xxOt9u_dOZtRVZqCte53gwQcNhNr-/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666139"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985848508"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4423504"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6o1dwdfzz8hy.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ijutfnfe19wm.html"
+          }
+        ],
+        "added_date": "2026-07-29T06:03:35.949050"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 609,
@@ -47,102 +128,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 609,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/609-hED8zAtrrh7A.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b609-JohCZyhylmHK.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "SaiKano OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18LX7ywpUOxuEFiej4JI0blSaowkn770-/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1d4iiL_pTrt8Ims8hwarjpPb_5rKyjQOD/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140717804"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4472866"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/exbysnnl"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bcaiqvcy4qkh.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T06:03:35.949050",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "SaiKano OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZzYYFqzl-w3aPJVsKP6_OVrszsl07N4q/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1078xxOt9u_dOZtRVZqCte53gwQcNhNr-/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666139"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985848508"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4423504"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-6o1dwdfzz8hy.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ijutfnfe19wm.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T06:03:35.949050",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 34771,
     "type": "tv",

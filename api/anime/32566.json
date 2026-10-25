@@ -4,7 +4,8 @@
     "puan": "8.95",
     "bolum_durumu": "1/1",
     "ozet": "Kurtadamların lideri Muzaka; uzun bir aradan sonra dostu Raizel'i ziyaret eder. Ancak, klanının iki numarası olan Maduk; insanların savaşlarına gizliden gizliye müdahale ediyordur. Raizel'le Muzaka'nın arasındaki dostluk ilişkisi artık eskisi gibi olmayacaktır.\n\nAsilzade: Yıkımın Başlangıcı'nda, 820 yıl önceki olaylar ele alınıyor.",
-    "slug": "noblesse-pamyeol-ui-sijak"
+    "slug": "noblesse-pamyeol-ui-sijak",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 32566,
@@ -51,61 +52,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 99528,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99528-22tyfmmL1Lti.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99528-qtAUitRmxVSS.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Noblesse - The Beginning Of Destruction",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1G1ldpDOJzYU89O3iKfgv6jrZ-cOnHpsU/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271190144"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/8168.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4503137"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2285135"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9leze7unv0jf.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ahww0jc1tkse.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:31:14.262993",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 384698,
     "type": "movie",

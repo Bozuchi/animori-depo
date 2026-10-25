@@ -4,7 +4,56 @@
     "puan": "0.00",
     "bolum_durumu": "1/10",
     "ozet": "Sukitte Ii na yo animesinin kısa özel bölümleridir.",
-    "slug": "sukitte-ii-na-yo-mei-and-marshmallow"
+    "slug": "sukitte-ii-na-yo-mei-and-marshmallow",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Sukitte Ii na yo Mei and Marshmallow 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 80,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1agVWOHaZy3_t4gnHfANN-pf4bLO3jPmm/preview"
+          },
+          {
+            "fansub_id": 80,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847189"
+          },
+          {
+            "fansub_id": 80,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933014518"
+          },
+          {
+            "fansub_id": 80,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4000661"
+          },
+          {
+            "fansub_id": 80,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4074750"
+          },
+          {
+            "fansub_id": 80,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lmibmwpfxjpu.html"
+          },
+          {
+            "fansub_id": 80,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-g2ztbo35b2ii.html"
+          },
+          {
+            "fansub_id": 80,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1ujsvdav"
+          }
+        ],
+        "added_date": "2026-07-29T13:28:42.694971"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 17409,
@@ -47,64 +96,20 @@
         ]
       }
     ],
-    "episodes": 10
+    "episodes": 10,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 17409,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17409.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Sukitte Ii na yo Mei and Marshmallow 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 80,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1agVWOHaZy3_t4gnHfANN-pf4bLO3jPmm/preview"
-        },
-        {
-          "fansub_id": 80,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847189"
-        },
-        {
-          "fansub_id": 80,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933014518"
-        },
-        {
-          "fansub_id": 80,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4000661"
-        },
-        {
-          "fansub_id": 80,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4074750"
-        },
-        {
-          "fansub_id": 80,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-lmibmwpfxjpu.html"
-        },
-        {
-          "fansub_id": 80,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-g2ztbo35b2ii.html"
-        },
-        {
-          "fansub_id": 80,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1ujsvdav"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:28:42.694971",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

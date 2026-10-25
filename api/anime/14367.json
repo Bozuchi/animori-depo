@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/13",
     "ozet": "Seriye ait 33'er saniyelik speciallerin tek bölüme toplanmış hâlidir.",
-    "slug": "tenshi-na-konamaiki-specials"
+    "slug": "tenshi-na-konamaiki-specials",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 14367,
@@ -43,44 +44,12 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": []
   },
   "anilist": {
     "id": 14367,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14367.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Tenshi na Konamaiki Specials",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TmAIzKaM3lN6Lsy5Z8bOsKQGk7cYpQE0/preview"
-        },
-        {
-          "fansub_id": 78,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/797"
-        },
-        {
-          "fansub_id": 78,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1419o256oc0w.html"
-        },
-        {
-          "fansub_id": 78,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zz1gsm8xlrsq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T16:06:50.148436",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,783 @@
     "puan": "8.34",
     "bolum_durumu": "12/12",
     "ozet": "Orta okul son sınıf öğrencisi olan Mei Misaki, güzelliğiyle, zekasıyla ve kişiliğiyle okulun en popüler kızıdır. Fakat mezun olamadan bir kaza sonucu ölür. Bunun üzerine arkadaşları ve öğretmenler Misaki hala yaşıyormuş gibi hareket etmeye başlarlar. Hatta mezuniyet töreninde Misaki için de kutlama yapılır.\n\nBu olaydan 26 yıl sonra Sakikabara Kouichi aynı okula transfer öğrenci olarak gelir. Okulda yine Mei Misaki adıyla ve bir gözü bantlı esrarengiz bir kız öğrenci vardır. Diğer öğrenciler bu kız hakkında konuşmaktan kaçınırlar. \n\nKouichi, Misaki ile konuşmak için yanına gittiğinde Misaki, bu okuldaki öğrencilerin ölüme çok yakın olduğunu, yakında herşeyi öğreneceğini söyler ve uzaklaşır.",
-    "slug": "another"
+    "slug": "another",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Another 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1184"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521166"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5035473"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/96.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1906"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883036"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1111131"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047418"
+          },
+          {
+            "fansub_id": 110,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KmAZdUbmYczUz6I2pPsmy5HsyyGjxIyi/preview"
+          },
+          {
+            "fansub_id": 110,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4840373"
+          },
+          {
+            "fansub_id": 110,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lh8jfuhb717x.html"
+          },
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Uel25Qfj_ynzgUZVwINEVxe1jVEEUFKD/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7320964432559866010"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4169068"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-95ahmiasqv2f.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 90,
+            "end": 193.193
+          },
+          "ed": {
+            "start": 1389.638,
+            "end": 1500
+          }
+        },
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 2,
+        "title": "Another 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1185"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521167"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/95.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1907"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883034"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047420"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/imjswl09"
+          },
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1H0YXOo3iAkO5S40AqdvGJyt2WL_Y6Ou5/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7320964432559866011"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4169306"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-psm71wfgak4b.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 3,
+        "title": "Another 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1186"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521169"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/94.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1908"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883030"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1111135"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047422"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ema8s37x"
+          },
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tInhDrQHmzu9Deffx3aD2V3EDQG8rHnR/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7320964432559866014"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4170098"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hpcfmvvlpku7.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 25.609,
+            "end": 115.609
+          }
+        },
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 4,
+        "title": "Another 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1187"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521172"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/93.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1909"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883032"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047425"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qst0jqdl"
+          },
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12US_V0kHAKkIY8gc8nwhXg95HWWii3_C/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ybgbSiIr46GRGRrp9eHuWhQQeunJ4XZ2/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7320964432559866060"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4175892"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 93.716,
+            "end": 183.716
+          }
+        },
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 5,
+        "title": "Another 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1188"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521173"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/92.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1910"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883028"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1111137"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047428"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xwr9lfg5"
+          },
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1U_R_I7vg7hZejHEPDa0kSI2X9GVQrnzJ/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7320964432559866092"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4183122"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-iefu3lryo4ad.html"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ji2tyimm"
+          }
+        ],
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 6,
+        "title": "Another 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1189"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521174"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/91.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1911"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883026"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047432"
+          },
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Y0oIiBcwLeBhF8nYDG9rkIK9mFy3Ptvf/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7320964432559866192"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4202583"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kkcb7m05yqla.html"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/96bmmwho"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 43.584,
+            "end": 133.584
+          }
+        },
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 7,
+        "title": "Another 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1190"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521177"
+          },
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17c0AFScTTwZod3vThO8Z8WNbHYrM7CyS/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/90.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1912"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525578"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883022"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047436"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nuzmmzp5z25w.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 7.724,
+            "end": 97.724
+          }
+        },
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 8,
+        "title": "Another 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1191"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521178"
+          },
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YSBN672Zqz8Rx1Co0l-hWLJFUR8G_uUH/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/89.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1913"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525580"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883017"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047439"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fzfx5auw2qt5.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 9,
+        "title": "Another 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1192"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521180"
+          },
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1FC2m0bKHNxNwVb9svoheSwsClc3wK20y/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/88.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1914"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883014"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525581"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047441"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xsx0ghw0nhxp.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ah0gl68aooxd.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 10,
+        "title": "Another 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1193"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521183"
+          },
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1P7WMAQBRlqwa4FCy9qW33hRWbqDBTHML/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/87.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1915"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883015"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525582"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047446"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kdo31h5su2h2.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gxbwy4f6fi7g.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 11,
+        "title": "Another 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1194"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521184"
+          },
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fjwVBP6ja7A3Y59qs3IQ24KeY55WRNes/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/86.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1916"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883019"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525583"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1111143"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-shw50tbuy99h.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-e5co3mhiq1ut.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 60,
+            "end": 150
+          }
+        },
+        "added_date": "2026-07-21T21:51:17.277897"
+      },
+      {
+        "episode_number": 12,
+        "title": "Another 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1195"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521186"
+          },
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1a89bcjOj_S7b_8ML6DlSmodLJnOA8phX/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/85.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1917"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1883024"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525585"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b6xes8wg25cb.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ncf9lk2yzm01.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:51:17.277897"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11111,
@@ -60,831 +836,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 11111,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11111.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11111-gvvE5bBYsyFo.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Another 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1184"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521166"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5035473"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/96.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1906"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883036"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1111131"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3047418"
-        },
-        {
-          "fansub_id": 110,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KmAZdUbmYczUz6I2pPsmy5HsyyGjxIyi/preview"
-        },
-        {
-          "fansub_id": 110,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4840373"
-        },
-        {
-          "fansub_id": 110,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lh8jfuhb717x.html"
-        },
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Uel25Qfj_ynzgUZVwINEVxe1jVEEUFKD/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7320964432559866010"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4169068"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-95ahmiasqv2f.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 90,
-          "end": 193.193
-        },
-        "ed": {
-          "start": 1389.638,
-          "end": 1500
-        }
-      },
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1185"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521167"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/95.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1907"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883034"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3047420"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/imjswl09"
-        },
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1H0YXOo3iAkO5S40AqdvGJyt2WL_Y6Ou5/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7320964432559866011"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4169306"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-psm71wfgak4b.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1186"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521169"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/94.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1908"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883030"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1111135"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3047422"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ema8s37x"
-        },
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tInhDrQHmzu9Deffx3aD2V3EDQG8rHnR/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7320964432559866014"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4170098"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hpcfmvvlpku7.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 25.609,
-          "end": 115.609
-        }
-      },
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1187"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521172"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/93.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1909"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883032"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3047425"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qst0jqdl"
-        },
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12US_V0kHAKkIY8gc8nwhXg95HWWii3_C/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ybgbSiIr46GRGRrp9eHuWhQQeunJ4XZ2/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7320964432559866060"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4175892"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 93.716,
-          "end": 183.716
-        }
-      },
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1188"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521173"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/92.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1910"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883028"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1111137"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3047428"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/xwr9lfg5"
-        },
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1U_R_I7vg7hZejHEPDa0kSI2X9GVQrnzJ/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7320964432559866092"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4183122"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-iefu3lryo4ad.html"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ji2tyimm"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1189"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521174"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/91.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1911"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883026"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3047432"
-        },
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Y0oIiBcwLeBhF8nYDG9rkIK9mFy3Ptvf/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7320964432559866192"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4202583"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kkcb7m05yqla.html"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/96bmmwho"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 43.584,
-          "end": 133.584
-        }
-      },
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1190"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521177"
-        },
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17c0AFScTTwZod3vThO8Z8WNbHYrM7CyS/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/90.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1912"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4525578"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883022"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3047436"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nuzmmzp5z25w.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 7.724,
-          "end": 97.724
-        }
-      },
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1191"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521178"
-        },
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YSBN672Zqz8Rx1Co0l-hWLJFUR8G_uUH/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/89.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1913"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4525580"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883017"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3047439"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fzfx5auw2qt5.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1192"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521180"
-        },
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FC2m0bKHNxNwVb9svoheSwsClc3wK20y/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/88.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1914"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883014"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4525581"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3047441"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xsx0ghw0nhxp.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ah0gl68aooxd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1193"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521183"
-        },
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1P7WMAQBRlqwa4FCy9qW33hRWbqDBTHML/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/87.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1915"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883015"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4525582"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3047446"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kdo31h5su2h2.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gxbwy4f6fi7g.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1194"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521184"
-        },
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fjwVBP6ja7A3Y59qs3IQ24KeY55WRNes/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/86.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1916"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883019"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4525583"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1111143"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-shw50tbuy99h.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-e5co3mhiq1ut.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 60,
-          "end": 150
-        }
-      },
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Another 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/alperdemiroglu/video/embed/_myvideo/1195"
-        },
-        {
-          "fansub_id": 45,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521186"
-        },
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1a89bcjOj_S7b_8ML6DlSmodLJnOA8phX/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/we.are.dev.tr/_myvideo/85.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1917"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1883024"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4525585"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-b6xes8wg25cb.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ncf9lk2yzm01.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:51:17.277897",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 42589,
     "type": "tv",

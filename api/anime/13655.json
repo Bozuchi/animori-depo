@@ -4,7 +4,491 @@
     "puan": "6.89",
     "bolum_durumu": "27/26+",
     "ozet": "Hikayemiz Riki Naoe adlı genç bir lise öğrencisi etrafında geçmektedir.Ailesini çocukken kaybeden Riki umutsuzluğa kapılır ve deprasyona girer.\n\nBir gün Little Busters isimli 3 erkek ve bir kızdan oluşan bir grup onun hayatını kurtarır.Little Buster grubunun lideri Kyousuke Natsumedir ve kız kardeşi olan Rin'de bu gruba dahildir.Diğer üyeler ise Masato Inohara ve Kengo Miyazawa'dır. Riki'yide aralarına alan bu grubu harika ve eğlenceli bir gelecek beklemektedir.",
-    "slug": "little-busters"
+    "slug": "little-busters",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Little Busters! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832440"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-balu1dl81j3a.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 2,
+        "title": "Little Busters! 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832441"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0i5tkyxaqn6q.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 3,
+        "title": "Little Busters! 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832443"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-on4byc87f7qo.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 201.91,
+            "end": 291.91
+          }
+        },
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 4,
+        "title": "Little Busters! 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832444"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rlif9d5ckpft.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 222.417,
+            "end": 314.291
+          },
+          "ed": {
+            "start": 1316.125,
+            "end": 1408.61
+          }
+        },
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 5,
+        "title": "Little Busters! 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832445"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-sy8nhc7lsmbb.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 177.167,
+            "end": 269.661
+          }
+        },
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 6,
+        "title": "Little Busters! 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832447"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ctygaj49442i.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 116.25,
+            "end": 207.512
+          }
+        },
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 7,
+        "title": "Little Busters! 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832448"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6si79de5ic72.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 225.125,
+            "end": 315.739
+          }
+        },
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 8,
+        "title": "Little Busters! 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832449"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cjq0e99kee3k.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 54.125,
+            "end": 146.008
+          }
+        },
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 9,
+        "title": "Little Busters! 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832450"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-i9yfd3cifkat.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 10,
+        "title": "Little Busters! 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832451"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-zu809vvqc8ld.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 11,
+        "title": "Little Busters! 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832452"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-llspr9hhvjsn.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 12,
+        "title": "Little Busters! 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832453"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ikdjzj4gqogy.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 13,
+        "title": "Little Busters! 13. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832456"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2n65sng6ohij.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 14,
+        "title": "Little Busters! 14. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832458"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1vqg730tpbve.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 15,
+        "title": "Little Busters! 15. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832460"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-91u7chppox2b.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 16,
+        "title": "Little Busters! 16. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832465"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vku3jkcgem2f.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 17,
+        "title": "Little Busters! 17. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832472"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-11cngvv9gy7a.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 18,
+        "title": "Little Busters! 18. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832478"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5q61tl5yito9.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 19,
+        "title": "Little Busters! 19. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832482"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-paqledu0mdww.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 20,
+        "title": "Little Busters! 20. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832486"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-q924m8hqc7il.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 21,
+        "title": "Little Busters! 21. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832487"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-udqnc0wtzlgp.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 22,
+        "title": "Little Busters! 22. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832493"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lmyecceire99.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 23,
+        "title": "Little Busters! 23. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832495"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-93m9i6gl6pbc.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 24,
+        "title": "Little Busters! 24. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832497"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ke2knk9jvt8c.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 25,
+        "title": "Little Busters! 25. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832501"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-f91wiqkza6x7.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      },
+      {
+        "episode_number": 26,
+        "title": "Little Busters! 26. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832502"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-s1dchgg53mmi.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:18:35.668104"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13655,
@@ -73,616 +557,197 @@
         ]
       }
     ],
-    "episodes": 26
+    "episodes": 26,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "14. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "15. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "16. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "17. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "18. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "19. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "20. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "21. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "22. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "23. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "24. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "25. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "26. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 13655,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13655-XBJOquNEggcN.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13655-ZdAJjba0HrY6.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Little Busters! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832440"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-balu1dl81j3a.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832441"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0i5tkyxaqn6q.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832443"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-on4byc87f7qo.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 201.91,
-          "end": 291.91
-        }
-      },
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832444"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rlif9d5ckpft.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 222.417,
-          "end": 314.291
-        },
-        "ed": {
-          "start": 1316.125,
-          "end": 1408.61
-        }
-      },
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832445"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-sy8nhc7lsmbb.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 177.167,
-          "end": 269.661
-        }
-      },
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832447"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ctygaj49442i.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 116.25,
-          "end": 207.512
-        }
-      },
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832448"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6si79de5ic72.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 225.125,
-          "end": 315.739
-        }
-      },
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832449"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cjq0e99kee3k.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 54.125,
-          "end": 146.008
-        }
-      },
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832450"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-i9yfd3cifkat.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832451"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zu809vvqc8ld.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832452"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-llspr9hhvjsn.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832453"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ikdjzj4gqogy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 13. Bölüm",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832456"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2n65sng6ohij.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 14. Bölüm",
-      "episode_number": 14,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832458"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1vqg730tpbve.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 14,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 15. Bölüm",
-      "episode_number": 15,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832460"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-91u7chppox2b.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 15,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 16. Bölüm",
-      "episode_number": 16,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832465"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vku3jkcgem2f.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 16,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 17. Bölüm",
-      "episode_number": 17,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832472"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-11cngvv9gy7a.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 17,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 18. Bölüm",
-      "episode_number": 18,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832478"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5q61tl5yito9.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 18,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 19. Bölüm",
-      "episode_number": 19,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832482"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-paqledu0mdww.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 19,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 20. Bölüm",
-      "episode_number": 20,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832486"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-q924m8hqc7il.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 20,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 21. Bölüm",
-      "episode_number": 21,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832487"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-udqnc0wtzlgp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 21,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 22. Bölüm",
-      "episode_number": 22,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832493"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lmyecceire99.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 22,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 23. Bölüm",
-      "episode_number": 23,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832495"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-93m9i6gl6pbc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 23,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 24. Bölüm",
-      "episode_number": 24,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832497"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ke2knk9jvt8c.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 24,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 25. Bölüm",
-      "episode_number": 25,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832501"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-f91wiqkza6x7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 25,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! 26. Bölüm Final",
-      "episode_number": 26,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832502"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-s1dchgg53mmi.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": 26,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Little Busters! OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 223,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832565"
-        },
-        {
-          "fansub_id": 223,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8b8z4e1r557e.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:18:35.668104",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 53715,
     "type": "tv",

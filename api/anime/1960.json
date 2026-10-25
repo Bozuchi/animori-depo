@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Sore Ike! Anpanman",
-    "slug": "sore-ike-anpanman"
+    "slug": "sore-ike-anpanman",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1960,
@@ -149,7 +150,8 @@
           39109
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 1960,
@@ -157,7 +159,6 @@
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1960-ueSmUxBXWuFK.jpg"
   },
   "synopsis_tr": "Bir gece ormanın derinliklerinde bulunan bir fırının bacasından bir Hayat Yıldızı düşerek fırındaki hamurların canlanmasına neden olur. Hamur, anpan'dan (fasulye reçeli dolgulu tatlı bir rulo) yapılmış bir süper kahraman olan Anpanman'a dönüşür. Anpanman, arkadaşlarıyla birlikte rakibi Baikinman'a karşı savaşır ve yetersiz beslenenlere yardım eder.(Kaynak: ANN)",
-  "episodes": [],
   "tmdb": {
     "id": 56389,
     "type": "tv",

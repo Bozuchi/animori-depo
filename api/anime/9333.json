@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "2010 yapımı olan bu animemiz yine sizlere AMT farkıyla sunuyoruz. Animenin konusuna gelecek olursak. \n2710 yılında başkentin Nara şehrine taşınmasının 1300. üncü yıldönümünde, okulun düzenlediği bir turla Shinichi isimli bir öğrencinin şehre gelmesi ile başlıyor. Shinichi bu şehirde gezerken birden karşısına beyaz bir geyik çıkıyor ve Shinichi'yi de peşinden sürükleyerek Toto'nun yanına götürmesiyle maceramız başlıyor. Bakalım bizim ikilinin başına neler gelecek.",
-    "slug": "koi-sento"
+    "slug": "koi-sento",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9333,
@@ -38,61 +39,14 @@
       14
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9333,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9333.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Koi Sento",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yI-FiSm7e0XINMbMhF1DOjU4GdJ_u-jj/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271188612"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359662769"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1622813"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4610714"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-173qj9pcp6va.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-717q5psriq3d.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:31:52.379639",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 118026,
     "type": "movie",

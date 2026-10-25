@@ -4,7 +4,85 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Shizuku Ishiai dans etmeyi seven ikinci sınıf bir ortaokul öğrencisidir. Ama kendini ifade etmekte kötüdür, bu yüzden erkek gibi giyinip \"Smile Douga\" adlı popüler bir sitede \"Ai\" sahte ismiyle dans videolarını yükler. Ve \"Dans prensi\" Hayate'yi onun rakibi olarak eder. Ama beklenmedik birkaç olaydan ve onu yenmeye çalışmasından sonra, onunla bir idol grubuna konur, üstelik bir ERKEK idol grubu!",
-    "slug": "buddy-go"
+    "slug": "buddy-go",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Buddy Go! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-mO9UT3YVGzZ2J_GnEYzdYLa1PPS5gqs/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018556"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3266336"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2j9g81msn428.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:10:09.062523"
+      },
+      {
+        "episode_number": 2,
+        "title": "Buddy Go! 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12feroD-N6-pigG7OTO28MQNpKd_kWIAI/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018557"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3266346"
+          }
+        ],
+        "added_date": "2026-07-23T07:10:09.062523"
+      },
+      {
+        "episode_number": 3,
+        "title": "Buddy Go! 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lCHqur6cNFRCsFsgvTHiZ2-WcQRtwSzp/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018558"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3266354"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-loru8csnid0y.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:10:09.062523"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33056,
@@ -52,101 +130,12 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 21734,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21734-ljwQLbGitUf3.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21734-8b7eqYszHesj.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Buddy Go! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-mO9UT3YVGzZ2J_GnEYzdYLa1PPS5gqs/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018556"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3266336"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2j9g81msn428.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:10:09.062523",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Buddy Go! 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12feroD-N6-pigG7OTO28MQNpKd_kWIAI/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018557"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3266346"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:10:09.062523",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Buddy Go! 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lCHqur6cNFRCsFsgvTHiZ2-WcQRtwSzp/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018558"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3266354"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-loru8csnid0y.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:10:09.062523",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "9.07",
     "bolum_durumu": "1/1",
     "ozet": "Karakura Şehrinde tanımlanamayan ruhlar ortaya çıkar. Ichigo ve Rukia, bu tuhaf ruhlarla uğraşırken Senna adında gizemli bir “shinigami” ile karşılaşırlar. Senna, “blanks” adı verilen bu ruhları çok çabuk yok eder. Bu arada, Soul Society’de, dünyanın yansımaları gökyüzünde belirmiştir. Tōshirō ve Rangiku, bu tuhaf olayı araştırmak üzere dünyaya gönderilirler. Burada, Ichigo ile karşılaşırlar. Urahara’nın dükkânında olayları tartışırken Urahara onlara bu olaylara iki dünya arasında kalmış bir ruhun neden olduğunu söyler.",
-    "slug": "bleach-movie-1-memories-of-nobody"
+    "slug": "bleach-movie-1-memories-of-nobody",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1686,
@@ -53,61 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1686,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1686-dYv44wJMzT4t.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1686-oZQepxP4SRQ2.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Bleach Movie 01: Memories of Nobody",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1d8AISC3hY_4VV5Lf2-c69YMs44Yd9gnY/preview"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018126"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/feeling11d/video/embed/_myvideo/205"
-        },
-        {
-          "fansub_id": 120,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-12ok6s3vp2zb.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1929230"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4982392"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-pk14r7u5oiyg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T05:44:30.125918",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 15575,
     "type": "movie",

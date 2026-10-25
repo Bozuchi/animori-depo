@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Koori no Jouheki 2nd Season",
-    "slug": "koori-no-jouheki-2nd-season"
+    "slug": "koori-no-jouheki-2nd-season",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 64534,
@@ -49,6 +50,29 @@
           160303
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Clouds and Rain",
+        "aired": "Oct 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Stop and Go",
+        "aired": "Oct 8, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "True Feelings",
+        "aired": "Oct 15, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -63,37 +87,5 @@
     "episode_offset": 0,
     "name": "The Ramparts of Ice"
   },
-  "synopsis_tr": "Koori no Jouheki'nin ikinci sezonu.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Clouds and Rain",
-      "episode_number": 1,
-      "aired": "Oct 2, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:40.282453"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Stop and Go",
-      "episode_number": 2,
-      "aired": "Oct 8, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:26:13.153605"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "True Feelings",
-      "episode_number": 3,
-      "aired": "Oct 15, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-16T08:08:09.748001"
-    }
-  ]
+  "synopsis_tr": "Koori no Jouheki'nin ikinci sezonu."
 }

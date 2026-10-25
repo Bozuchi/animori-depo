@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Code Geass serisinin ilk üç sezonunu gösteren film üçlemesinin üçüncü filmi.",
-    "slug": "code-geass-hangyaku-no-lelouch-iii-oudou"
+    "slug": "code-geass-hangyaku-no-lelouch-iii-oudou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 34440,
@@ -60,54 +61,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101813,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101813-dZkqZAD4FOoO.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101813-ckCNyMkU2Kkc.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Code Geass: Hangyaku no Lelouch III - Oudou Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1URPqCl0K9jkLqjtcPgp4GtqZyR6_UEUI/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1LRleTL7PVxCFw3ViEVOZN_cesrWnld2F/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xWWniI_bb5u_AffnobwuVzj1uI8lfo3J/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EccKMUcBKK4Ut0wjUMhYJOPsJRgGipht/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849349"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718981"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:19:54.513608",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

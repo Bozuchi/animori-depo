@@ -233,7 +233,7 @@ def sync_anime_item(
             existing["jikan"] = jikan
 
         # Bölüm listesi kontrolü (devam eden veya yeni biten seriler için)
-        existing_eps_count = len(existing.get("episodes") or [])
+        existing_eps_count = len((existing.get("jikan") or {}).get("episode_list") or [])
         mal_episodes = mal_scraper.fetch_episodes(mal_id)
         if len(mal_episodes) > existing_eps_count:
             logger.info(f"📢 Yeni bölüm bulundu! {title}: {existing_eps_count} -> {len(mal_episodes)}")

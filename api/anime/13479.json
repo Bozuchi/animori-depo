@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Uchuu Kyoudai mangasının sınırlı sayıda basılan 17. sayısında çıkan DVD'deki OVA'dır. Biricik Apo'nun kısa maceralarını anlatır.",
-    "slug": "uchuu-kyoudai-apo-s-dream"
+    "slug": "uchuu-kyoudai-apo-s-dream",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 13479,
@@ -45,46 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20561,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20561.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Uchuu Kyoudai Apo's Dream (OVA)",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WmvtJWB06VqFLb061NINoY50W3Ep_Jyb/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656202"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4438869"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-om0vozfkxhfq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:08:17.980352",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 45209,
     "type": "tv",

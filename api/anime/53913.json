@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Tensei shitara Ken deshita II",
-    "slug": "tensei-shitara-ken-deshita-ii"
+    "slug": "tensei-shitara-ken-deshita-ii",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 53913,
@@ -52,6 +53,29 @@
           99891
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Floating Island",
+        "aired": "Oct 8, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Jean Du Vix Is Excellent",
+        "aired": "Oct 15, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "The Undead Monster Was Tough as Nails",
+        "aired": "Oct 22, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -66,37 +90,5 @@
     "episode_offset": 0,
     "name": "Tensei shitara Ken Deshita"
   },
-  "synopsis_tr": "Tensei Shitara Ken Deshita'nın ikinci sezonu.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "The Floating Island",
-      "episode_number": 1,
-      "aired": "Oct 8, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:34.593673"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Jean Du Vix Is Excellent",
-      "episode_number": 2,
-      "aired": "Oct 15, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-08T10:23:17.033928"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "The Undead Monster Was Tough as Nails",
-      "episode_number": 3,
-      "aired": "Oct 22, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-16T08:05:28.103071"
-    }
-  ]
+  "synopsis_tr": "Tensei Shitara Ken Deshita'nın ikinci sezonu."
 }

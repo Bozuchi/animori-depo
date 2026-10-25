@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Seitokai Yakuindomo animesinin 2. filmidir.",
-    "slug": "seitokai-yakuindomo-movie-2"
+    "slug": "seitokai-yakuindomo-movie-2",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40814,
@@ -54,36 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 113692,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113692-N7hUICpi9sIa.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Seitokai Yukuindomo 2 Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 175,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_XXD7OJDHwcgeIrOOXV-l2tJOCo0qh5A/preview"
-        },
-        {
-          "fansub_id": 175,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ugerq0ac35sq"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:28:53.911555",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 653858,
     "type": "movie",

@@ -4,7 +4,47 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hataroku Saibou animesinin özel bölümüdür.",
-    "slug": "hataraku-saibou-kaze-shoukougun"
+    "slug": "hataraku-saibou-kaze-shoukougun",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Hataraku Saibou: Kaze Shoukogun 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16h3xI7Pd6dLgFHnlhIDGDnjuoqPRZhrd/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3518584"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4427439"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-buduvwgpgfpr.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jjy6vyqj"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1315,
+            "end": 1406
+          }
+        },
+        "added_date": "2026-07-26T02:30:12.992844"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38733,
@@ -49,54 +89,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 105662,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n105662-nckOkQODboJB.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx105662-hQ04rdwCot6p.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Hataraku Saibou: Kaze Shoukogun 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16h3xI7Pd6dLgFHnlhIDGDnjuoqPRZhrd/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3518584"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4427439"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-buduvwgpgfpr.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/jjy6vyqj"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1315,
-          "end": 1406
-        }
-      },
-      "added_date": "2026-07-26T02:30:12.992844",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

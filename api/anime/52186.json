@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bir zamanlar birbiriyle geçinemeyen iki rakip krallık vardı. Her gün önemsiz meseleler yüzünden tartışırlardı. Sonunda köpek pisliğinin temizlenmesi üzerine çıkan bir anlaşmazlık savaşa dönüşünce, Tanrı hızla araya girer ve iki ülkenin liderlerine barışı sağlamak için en güzel kızı ve en zeki genci karşılıklı olarak gelin ve damat şeklinde değiştirmelerini emreder.\n\nA ülkesinin prensesi Saara, B ülkesinin prensi Naranbayar ile bu düzenleme sayesinde tanışır. Ülkeler arasındaki barışı korumak için evli bir çift gibi davranırken, zamanla gerçekten birbirlerine âşık olmaya başlarlar.",
-    "slug": "kin-no-kuni-mizu-no-kuni"
+    "slug": "kin-no-kuni-mizu-no-kuni",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 52186,
@@ -46,31 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 151300,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151300-wC5RkQoMYJ1e.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kin no Kuni Mizu no Kuni Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 175,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1d6_5MiVXAHLq19UbKZde2ixKvbfmwRns/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:36:41.050888",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 991190,
     "type": "movie",

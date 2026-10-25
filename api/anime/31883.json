@@ -4,7 +4,61 @@
     "puan": "0.00",
     "bolum_durumu": "1/2",
     "ozet": "Manganın 7. ve 9. cildiyle beraber gelen OVA bölümlerdir.",
-    "slug": "bakuon-ova"
+    "slug": "bakuon-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Bakuon!! OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359668033"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762817"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2600223"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7m8hgsg3mj6f.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xhh5iffm"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ixxyos025yf2.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Au7RezDaRN716V2EIGWv_2ZIBMrTKfmF/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018608"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3mu81ktj63y8.html"
+          }
+        ],
+        "added_date": "2026-07-23T03:47:53.260581"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31883,
@@ -54,71 +108,22 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21441,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21441-3q2nspBLvFTQ.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Bakuon!! OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668033"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762817"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2600223"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7m8hgsg3mj6f.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/xhh5iffm"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ixxyos025yf2.html"
-        },
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Au7RezDaRN716V2EIGWv_2ZIBMrTKfmF/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018608"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3mu81ktj63y8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:47:53.260581",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 65926,
     "type": "tv",

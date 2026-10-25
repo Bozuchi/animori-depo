@@ -4,7 +4,8 @@
     "puan": "8.13",
     "bolum_durumu": "1/1",
     "ozet": "Dr. Atsuko Chiba, alanında oldukça önemli çalışmalara sahip bir \npsikoterapisttir. Dr. Atsuko'nun çalışma arkadaşlarından Dr. Tokita \noldukça güçlü bir psikoterapi cihazı olan DC-MINI'yi icat etmiştir. \nCihaz, kullanıcısının başka insanların rüyalarına girmesine ve kişiliği \nile senkronize olarak anksiyete ve nevrozların kaynaklarını bulmasına ve\n onarmasına imkan tanımaktadır. Yüksek teknoloji ile üretilmiş bu cihaz \npsikoterapi dünyasında bir devrim olarak görülmektedir. Ancak, \ninsanların kişiliklerini değiştirebilme ve silebilme fonksiyonuna sahip \nolan DC-MINI, yanlış ellerde oldukça tehlikeli bir silaha dönüşebilme \npotansiyeli taşımaktadır.\n \nAraştırmanın son aşamasında, varolan 4 DC-MINI prototipinden birisinin \nçalınması ve Dr. Tokita'nın araştırma asistanlarından Himuro'nun \nkaybolması üzerine Dr. Atsuko olayların tesadüfi olmadığından \nşüphelenir. Laboratuvar'da bulunan araştırmacılardan bir kısmının akıl \nsağlıklarını yitirmesi ile birlikte Dr. Atsuko çalınan DC-MINI'nin \ninsanların zihinlerini yok etmek üzere kullanıldığını anlar.",
-    "slug": "paprika"
+    "slug": "paprika",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1943,
@@ -52,61 +53,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1943,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1943.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1943-jMCEYL1Ixmgc.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Paprika",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15W_mhybVf3PvgpEz_Wp1Nc0t8FhpU2au/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271187903"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4493232"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/2f6zve1c"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/p7k353kt"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/57xyobhj"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2ztugijolcnx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:18:21.665371",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 4977,
     "type": "movie",

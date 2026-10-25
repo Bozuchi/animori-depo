@@ -4,7 +4,105 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Manganın 10. yıldönümü projesinin bir parçası olan yeni OVA serisi Hayate no Gotoku! Her bir bölüm manganın 41 ila 43. ciltleriyle birlikte sunulacak.",
-    "slug": "hayate-no-gotoku-ova"
+    "slug": "hayate-no-gotoku-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Hayate no Gotoku! OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 139,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1i9az0yZ4JooncRwPo2P2CkZyyQV6j4tJ/preview"
+          },
+          {
+            "fansub_id": 139,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WP9sPtg0fm8N697sPTjItBwjbIbB6_pJ/preview"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5032447"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5032452"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/twyllig1"
+          }
+        ],
+        "added_date": "2026-07-26T02:37:45.803876"
+      },
+      {
+        "episode_number": 2,
+        "title": "Hayate no Gotoku! OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 139,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JHYG9hi0sJ_Ml_OyIK74FRQDFZLsvAs2/preview"
+          },
+          {
+            "fansub_id": 139,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CSHMosoE8KHCC8luc9SuL9Kp4jS9YmEz/preview"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5039262"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5039263"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3lm0yiuy"
+          }
+        ],
+        "added_date": "2026-07-26T02:37:45.803876"
+      },
+      {
+        "episode_number": 3,
+        "title": "Hayate no Gotoku! OVA 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 139,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EvONJcXoKuxr3Th0qvjcECpVeUDDYJps/preview"
+          },
+          {
+            "fansub_id": 139,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17785fUEmgXdvAUzJbNI6AEkyMA9CVV0j/preview"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5068159"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5068161"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/a0ct7upm"
+          }
+        ],
+        "added_date": "2026-07-26T02:37:45.803876"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 23153,
@@ -55,123 +153,36 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": true,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": true,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": true,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20651,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20651.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hayate no Gotoku! OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 139,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1i9az0yZ4JooncRwPo2P2CkZyyQV6j4tJ/preview"
-        },
-        {
-          "fansub_id": 139,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WP9sPtg0fm8N697sPTjItBwjbIbB6_pJ/preview"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5032447"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5032452"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/twyllig1"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:37:45.803876",
-      "jikan_mal_id": 1,
-      "filler": true,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hayate no Gotoku! OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 139,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JHYG9hi0sJ_Ml_OyIK74FRQDFZLsvAs2/preview"
-        },
-        {
-          "fansub_id": 139,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CSHMosoE8KHCC8luc9SuL9Kp4jS9YmEz/preview"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5039262"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5039263"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/3lm0yiuy"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:37:45.803876",
-      "jikan_mal_id": 2,
-      "filler": true,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Hayate no Gotoku! OVA 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 139,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EvONJcXoKuxr3Th0qvjcECpVeUDDYJps/preview"
-        },
-        {
-          "fansub_id": 139,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17785fUEmgXdvAUzJbNI6AEkyMA9CVV0j/preview"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5068159"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5068161"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/a0ct7upm"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:37:45.803876",
-      "jikan_mal_id": 3,
-      "filler": true,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 56355,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "9.40",
     "bolum_durumu": "1/1",
     "ozet": "Bir düzine insanın gizemli bir şekilde trende kaybolmasından sonra, İblis Avcıları Birliği bu olaya el atar fakat yapılan bütün girişimler sonuçsuz kalır. Daha fazla kayıp vermemek adına Alev Hashirası Kyoujurou Rengoku, bu durumla ilgilenmek için gönüllü olur.\nBirlik'in gelecek vadeden taze kanları; Tanjirou Kamado, Zenitsu Agatsuma ve Inosuke Hashibira, Rengoku'nun başarılarına ilk elden tanık olmak için ona eşlik eder.\nKayıplardan sorumlu olan iblis, bu olanlardan bihaber hain planını uygulamaya koyar. İblis ile karşı karşıya gelen Rengoku ve diğerleri, iradelerini toplayıp trendeki 200 yolcuyu kurtarmak için kılıçlarını kuşanır.",
-    "slug": "kimetsu-no-yaiba-movie-mugen-ressha-hen"
+    "slug": "kimetsu-no-yaiba-movie-mugen-ressha-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40456,
@@ -68,106 +69,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 112151,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 297,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1O6-1jGujt2y_T2G1thaf-k0Rtb9DXZj7/preview"
-        },
-        {
-          "fansub_id": 297,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-b6al28yzj3d5.html"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xvqhhqgi3klp.html"
-        },
-        {
-          "fansub_id": 24,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-4g6kzs1q6tbp.html"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668205"
-        },
-        {
-          "fansub_id": 22,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-eu26tgp5r453.html"
-        },
-        {
-          "fansub_id": 78,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271197611"
-        },
-        {
-          "fansub_id": 78,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-twg74rrqfb78.html"
-        },
-        {
-          "fansub_id": 31,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ub368g0c"
-        },
-        {
-          "fansub_id": 31,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/puwh38j5"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FFa1o1vLmqcz-zPNYUBVw0qt4ZbGu5jO/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kfwk065h7v3p.html"
-        },
-        {
-          "fansub_id": 87,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oCOtM4qk7fKpNpNraJXyhdPxHGmzDKI8/preview"
-        },
-        {
-          "fansub_id": 87,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jAsP1C2G80RCq8dEB4kzDBJ8bsHNvltR/preview"
-        },
-        {
-          "fansub_id": 87,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fcxs0m2djtly.html"
-        },
-        {
-          "fansub_id": 298,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/147zgVwpEr0jezaDbwTEZjPOhxu5cmkOa/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:18:26.797523",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 635302,
     "type": "movie",

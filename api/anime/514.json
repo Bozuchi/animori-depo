@@ -4,7 +4,110 @@
     "puan": "6.23",
     "bolum_durumu": "3/3",
     "ozet": "Amcasının antika dükkanında çalışan Eiri, aynı zamanda yetenekli bir resim öğrencisidir. 18. yüzyıldan kalma bir kadeh eline geçince hayatı değişir. Eiri bu kadehte kendinden başka kimsenin göremediği genç ve güzel Cossette’i görmektedir. Cossette d'Auvergne, 250 yıl önce kendisine tutkun olan ressam Marchello Orlando tarafından vahşice öldürülmüş ve bu zamana kadar kendisini kadeh üstünde fark edip aşık olacak kişiyi beklemektedir. Böylece ruhu tekrar özgür olabilecektir. Fakat Cossette’i sevecek olan kişinin O’nun özgürlüğü için aynı zamanda acı çekerek ölmesi gerekmektedir.",
-    "slug": "cossette-no-shouzou"
+    "slug": "cossette-no-shouzou",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Cossette no Shouzou 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1kZlCO5t0zCYuw_kOqftNjBuXpQzpV-To/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2091"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016557"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3051617"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1766939"
+          }
+        ],
+        "added_date": "2026-07-23T16:31:04.617831"
+      },
+      {
+        "episode_number": 2,
+        "title": "Cossette no Shouzou 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1J8vG9U9xaM80x3bN0Vanow__KLn7ZdjK/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2092"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016558"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3051618"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1766948"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-rfe5vok91dkz.html"
+          }
+        ],
+        "added_date": "2026-07-23T16:31:04.617831"
+      },
+      {
+        "episode_number": 3,
+        "title": "Cossette no Shouzou 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1P5FgB0RMLg66JEjVRgJ8ThrUelWPhi6h/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2093"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016559"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3051619"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1766957"
+          }
+        ],
+        "added_date": "2026-07-23T16:31:04.617831"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 514,
@@ -50,128 +153,14 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 514,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/514-B6Ml1EvwzFvn.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx514-CSCx3ZyVnNV6.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Cossette no Shouzou 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1kZlCO5t0zCYuw_kOqftNjBuXpQzpV-To/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2091"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016557"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3051617"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1766939"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:31:04.617831",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Cossette no Shouzou 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1J8vG9U9xaM80x3bN0Vanow__KLn7ZdjK/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2092"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016558"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3051618"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1766948"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rfe5vok91dkz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:31:04.617831",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Cossette no Shouzou 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1P5FgB0RMLg66JEjVRgJ8ThrUelWPhi6h/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2093"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016559"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3051619"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1766957"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:31:04.617831",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 73501,
     "type": "tv",

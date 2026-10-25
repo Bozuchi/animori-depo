@@ -4,7 +4,138 @@
     "puan": "9.11",
     "bolum_durumu": "2/2",
     "ozet": "Noragami Aragato serisinin özel bölümleridir.",
-    "slug": "noragami-aragoto-ova"
+    "slug": "noragami-aragoto-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Noragami Aragoto OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1986780"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2j9x0wok"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/feeling11d/video/embed/_myvideo/193"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667788"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3137630"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-v2ci5nzzwkkk.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wy3gnn4ywllv.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 59.686,
+            "end": 149.686
+          },
+          "ed": {
+            "start": 1345.542,
+            "end": 1435
+          }
+        },
+        "added_date": "2026-07-27T16:55:27.347579"
+      },
+      {
+        "episode_number": 2,
+        "title": "Noragami Aragoto OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/psikonevroz/video/embed/_myvideo/444"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3262156"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4884183"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9gahoucdm9th.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/kpuuh61k"
+          },
+          {
+            "fansub_id": 46,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5ytsdqfry0h1.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/feeling11d/video/embed/_myvideo/194"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3137631"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xhcdggh2"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzle.sub/_myvideo/41.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4884191"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rptvhsmhymwn.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 26.447,
+            "end": 116.447
+          },
+          "ed": {
+            "start": 1345.5,
+            "end": 1435
+          }
+        },
+        "added_date": "2026-07-27T16:55:27.347579"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30885,
@@ -55,150 +186,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 119941,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119941-uspTZH6EoZer.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Noragami Aragoto OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1986780"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/2j9x0wok"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/feeling11d/video/embed/_myvideo/193"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667788"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3137630"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-v2ci5nzzwkkk.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wy3gnn4ywllv.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 59.686,
-          "end": 149.686
-        },
-        "ed": {
-          "start": 1345.542,
-          "end": 1435
-        }
-      },
-      "added_date": "2026-07-27T16:55:27.347579",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Noragami Aragoto OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/psikonevroz/video/embed/_myvideo/444"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3262156"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4884183"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9gahoucdm9th.html"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/kpuuh61k"
-        },
-        {
-          "fansub_id": 46,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5ytsdqfry0h1.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/feeling11d/video/embed/_myvideo/194"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3137631"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/xhcdggh2"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzle.sub/_myvideo/41.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4884191"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rptvhsmhymwn.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 26.447,
-          "end": 116.447
-        },
-        "ed": {
-          "start": 1345.5,
-          "end": 1435
-        }
-      },
-      "added_date": "2026-07-27T16:55:27.347579",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 64710,
     "type": "tv",

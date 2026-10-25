@@ -4,7 +4,8 @@
     "puan": "9.12",
     "bolum_durumu": "1/1",
     "ozet": "Light novel'ın beşinci cildini konu alan, televizyon serisinin devam filmidir.",
-    "slug": "goblin-slayer-goblin-s-crown"
+    "slug": "goblin-slayer-goblin-s-crown",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39576,
@@ -62,46 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 108623,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108623-9FL63jABa1N9.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108623-pREPeutedpc2.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Goblin Slayer: Goblin's Crown",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359669458"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-10dxf2evn9b8.html"
-        },
-        {
-          "fansub_id": 121,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/694"
-        },
-        {
-          "fansub_id": 233,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/mirusubs/video/embed/_myvideo/1663"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:09:14.934970",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 82591,
     "type": "tv",

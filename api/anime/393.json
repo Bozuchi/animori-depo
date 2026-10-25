@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hitomi Kanzaki, derin düşüncelere dalmıştır. Daha fazla acı çekmek istemiyor, uyumak ve bu dünyadan kaybolmak istiyordur. Dileği gerçekleşir ve kendini, çok farklı bir dünya olan Gaea'da bulur. Gaea'nın insanları onun Escaflowne'nu çağırmak için gelen bir tanrıça olduğunu düşünür. Hitomi, kendisi gibi hayatın anlamsız olduğunu düşünen Van ile karşılaşır. Van, White Dragon klanındandır ve krallığını yokeden Black Dragon klanından intikam almak için yaşayan bir gençtir. Escaflowne'yi çağıracak tanrıça artık gelmiştir ama Escaflowne ve Hitomi'nin, Gaea'ya barış mı yoksa yıkım mı getireceği bilinmemektedir. Film, televizyon serisi ile aynı kurguya sahip olsa da farklı bir hikaye anlatır.\nscreen shot",
-    "slug": "escaflowne"
+    "slug": "escaflowne",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 393,
@@ -50,56 +51,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 393,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n393-0MCOvJoiF2pr.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx393-KAkauYiiSWGa.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Vision of Escaflowne : The Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sDtbMtQQSQ8p1vM0kxskatDrU56kpxlB/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851548"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985848005"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439849"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4087232"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mewelpchnk11.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T00:25:41.389425",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 16990,
     "type": "movie",

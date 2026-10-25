@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Fukutarou Tamura mahalledeki tuhaf arkadaşlarını evine güveç yemeğe davet etti. Yaşadığı binada hem insan hem şeytanlar hem de efsanevi yaratıklar ikamet ediyordu, bakalım neler olacak.",
-    "slug": "ashiaraiyashiki-no-juunin-tachi"
+    "slug": "ashiaraiyashiki-no-juunin-tachi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8064,
@@ -46,46 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 8064,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8064.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ashiaraiyashiki no Juunin-tachi.",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rnsaLnP33xF1U07Kurg6j-0jBND41qWN/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017907"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1700461"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-g8bqsyqp8jkx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:57:29.173293",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 52335,
     "type": "tv",

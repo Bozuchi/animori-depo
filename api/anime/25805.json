@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin on sekizinci filmidir.",
-    "slug": "pokemon-movie-18-ring-no-choumajin-hoopa"
+    "slug": "pokemon-movie-18-ring-no-choumajin-hoopa",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 25805,
@@ -65,46 +66,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21266,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21266-5okUsTjY5nJl.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon Movie 18 - Ring no Choumajin Hoopa",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MrxZNQJ0TtDLUYO3l3CrOm-LKNe-2JNi/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019075"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/833.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2589893"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:26:58.643831",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 350499,
     "type": "movie",

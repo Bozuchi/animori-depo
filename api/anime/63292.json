@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-    "slug": "shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku"
+    "slug": "shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63292,
@@ -44,6 +45,29 @@
           127502
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Makoto Takatsuki Becomes a Believer",
+        "aired": "Oct 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Makoto Takatsuki Embarks On a Quest",
+        "aired": "Oct 18, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Makoto Takatsuki Gains a Party Member",
+        "aired": "Oct 25, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -58,37 +82,5 @@
     "episode_offset": 0,
     "name": "Full Clearing Another World Under a Goddess with Zero Believers"
   },
-  "synopsis_tr": "Lise öğrencisi ve video oyunu aşığı Makoto Takatsuki bir kazada ölür ve sınıf arkadaşlarının yanında başka bir dünyada uyanır. Ancak hileye benzer yetenekler kazanmadığından \"Sihirli Çırak\" olmaya karar verir. Daha sonra küçük bir tanrıça olan Noa karşısına çıkar. Ona yalvarıp yalvardıktan sonra, onun ilk inananı olmaya karar verir. Bu başka dünya fantezisinde sınıfın en zayıf çocuğu, küçük tanrıçanın yanında en güçlüsü oluyor!(Kaynak: Overlap, tercüme)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Makoto Takatsuki Becomes a Believer",
-      "episode_number": 1,
-      "aired": "Oct 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:41:03.459588"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Makoto Takatsuki Embarks On a Quest",
-      "episode_number": 2,
-      "aired": "Oct 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-15T08:15:03.584241"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Makoto Takatsuki Gains a Party Member",
-      "episode_number": 3,
-      "aired": "Oct 25, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-23T08:29:35.690020"
-    }
-  ]
+  "synopsis_tr": "Lise öğrencisi ve video oyunu aşığı Makoto Takatsuki bir kazada ölür ve sınıf arkadaşlarının yanında başka bir dünyada uyanır. Ancak hileye benzer yetenekler kazanmadığından \"Sihirli Çırak\" olmaya karar verir. Daha sonra küçük bir tanrıça olan Noa karşısına çıkar. Ona yalvarıp yalvardıktan sonra, onun ilk inananı olmaya karar verir. Bu başka dünya fantezisinde sınıfın en zayıf çocuğu, küçük tanrıçanın yanında en güçlüsü oluyor!(Kaynak: Overlap, tercüme)"
 }

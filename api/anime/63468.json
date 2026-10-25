@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/12",
     "ozet": "Shizuka, hayaletleri görme yeteneğine sahip sıradan bir lise öğrencisidir. Hayaletleri kendine çekmek gibi tuhaf bir eğilimi olduğundan, ünlü bir medyum olan Kamui'nin asistanı olarak çalışmaktadır. Kamui, birinci sınıf medyum yetenekleriyle gurur duymaktadır ancak hayaletleri çıkarma (exorcism) yöntemi oldukça sıra dışıdır!",
-    "slug": "ushiro-no-shoumen-kamui-san"
+    "slug": "ushiro-no-shoumen-kamui-san",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63468,
@@ -52,7 +53,8 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 207674,

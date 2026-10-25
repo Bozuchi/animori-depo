@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Sonoko bir oyun için senaryo yazıyor. Senaryosunda bir cinayet davası var ve lise dedektifi Suzuki Sonoko bunu çözmek için orada. Haibara, arsanın kesinti bölümünde kusurlar bulur ve Ran, senaryo için yardım için Shinichi'yi aramaya karar verir.",
-    "slug": "detective-conan-ova-08-high-school-girl-detective-sonoko-suzuki-s-case-files"
+    "slug": "detective-conan-ova-08-high-school-girl-detective-sonoko-suzuki-s-case-files",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 6198,
@@ -48,51 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 6198,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6198.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan OVA 8",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 65,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16JBQfbnTTP02jSXzOJiW2vVr1jwP81jV/preview"
-        },
-        {
-          "fansub_id": 65,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368297"
-        },
-        {
-          "fansub_id": 65,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4515008"
-        },
-        {
-          "fansub_id": 65,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qvxy7l8p9joy.html"
-        },
-        {
-          "fansub_id": 65,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-m879ipsnay8a.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:57:45.641934",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30983,
     "type": "tv",

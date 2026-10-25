@@ -4,7 +4,8 @@
     "puan": "9.27",
     "bolum_durumu": "1/1",
     "ozet": "Touno Kaoru'nun ailesi dağılmıştır. Kaoru, kız kardeşinin ölümü yüzünden anne babasının boşanmasıyla artık ailesinin evinde rahat etmemektedir. Babasıyla yaşadığı çıkışmalı bir kavgadan sonra Kaoru evden kaçar ve kendini gizemli bir tünelin önünde bulur. Tünele girdiğinde gördükleri karşısında şaşkına dönen Kaoru, tünelde ölmüş olan eski muhabbet kuşunu bulur.\n\nKaoru tünelden çıktığında tünelde sadece birkaç dakika geçirmiş olmasına rağmen gerçek hayatta koca bir haftanın geçmiş olduğunu fark eder. Bu tuhaf deneyimle birlikte söylentilerdeki Urashima Tünelini bulduğunu fark eder. Bu tünel öyle bir tüneldir ki kişinin ömrü karşılığında dilekleri yerine getirdiği söylenir. Kaoru, muhabbet kuşunun dirilişini de göz önünde bulundurup belki tünele bir kere daha girerek hayatını düzeltip düzeltemeyeceğini düşünmekten kendini alıkoyamaz.\n\nAncak gizemli tünele tekrar girdiğinde Hanashiro Anzu'nun da orada olduğunu fark eder. Bu durumda Kaoru, olanları Hanashiro Anzu'ya anlatır. Hanashiro Anzu, durumu öğrendiğinde Kaoru'ya ortaklık teklif eder. Bu sayede bu ikilinin birlikte tünele girme macerası başlamış olur.",
-    "slug": "natsu-e-no-tunnel-sayonara-no-deguchi"
+    "slug": "natsu-e-no-tunnel-sayonara-no-deguchi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 50593,
@@ -47,71 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 142769,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142769-WCECHopEFbE2.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142769-kNyyqpwC9gGV.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Natsu e no Tunnel, Sayonara no Deguchi Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 293,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Sc5y4NHmIXvL3Pr4NVcALX0Zaz4tQpY2/preview"
-        },
-        {
-          "fansub_id": 293,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1cxGuiBD1UDzGG0nA06tYcMw0qQQnSzix/preview"
-        },
-        {
-          "fansub_id": 293,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/8155140694550249606"
-        },
-        {
-          "fansub_id": 293,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/jo84jgn4vh4u"
-        },
-        {
-          "fansub_id": 293,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/k81uvkfb"
-        },
-        {
-          "fansub_id": 293,
-          "player": "UQLOAD",
-          "url": "https://uqload.co/embed-6xp1nms5hhuc.html"
-        },
-        {
-          "fansub_id": 93,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15zMDSEWi9clKTS5KKoeLtNIgAubVeEgw/preview"
-        },
-        {
-          "fansub_id": 93,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7432059985078517931"
-        },
-        {
-          "fansub_id": 93,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/tkrv83oqi8uu"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T15:20:37.794208",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 916192,
     "type": "movie",

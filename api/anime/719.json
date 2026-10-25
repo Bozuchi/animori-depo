@@ -4,7 +4,128 @@
     "puan": "7.06",
     "bolum_durumu": "2/2",
     "ozet": "Amoi gezegeninde, Jüpiter adındaki bir süper-bilgisayar tarafından yönetilen teknolojik olarak gelişmiş Tanagura toplumu bulunmaktadır. Neredeyse tamamını erkeklerin oluşturduğu nüfusta, açık ten/saç rengine sahip Blondie'ler elit tabakayı oluştururken, koyu renklilerse \"melez\" olarak nitelendirilen en aşağı tabakada bulunmaktadırlar. Blondieler genç ve yakışıklı erkekleri evcil hayvan olarak, cinsel zevk için bir süre kullanabiliyor olsalar da, birebir ilişkiye girmeleri yasaktır. Fakat Iason Mink adındaki bir Blondie, Riki adlı melezi evcil hayvanı yaparak hem \"melez yasağı\" kuralını çiğnemiş, hem de onu uzun yıllar tutarak ve ilişkiye girerek konumunu tehlikeye atmıştır. Çete lideri olan Riki ise ona karşı savaşmakla, kendini tamamen teslim etmek arasında kalmıştır.",
-    "slug": "ai-no-kusabi"
+    "slug": "ai-no-kusabi",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ai no Kusabi 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1iABLW0Pq2EaySFY16NYnhPeSgQpd_gtL/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/4732/4733.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1355"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4502607"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1445939"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3792381"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m8ee12cryj8w.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/v0qmr97m"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/dfwtg05y"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/660ejtmo"
+          },
+          {
+            "fansub_id": 52,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lygpynlftc7m.html"
+          }
+        ],
+        "added_date": "2026-07-20T03:34:00.788701"
+      },
+      {
+        "episode_number": 2,
+        "title": "Ai no Kusabi 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EwVTLpJN9t51q3LSEFdp_yJxAKJbT27c/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1363"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4502618"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1445949"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3792382"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gapq5ojpbpva.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-suxvgk3pcx2p.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qbyzkeah"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6en7i050"
+          },
+          {
+            "fansub_id": 52,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-an8ocgwx25oc.html"
+          }
+        ],
+        "added_date": "2026-07-20T03:34:00.788701"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 719,
@@ -52,140 +173,12 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 719,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/719-GgAQ2P6dH8ZY.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/719.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ai no Kusabi 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iABLW0Pq2EaySFY16NYnhPeSgQpd_gtL/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/4732/4733.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1355"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4502607"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1445939"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3792381"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-m8ee12cryj8w.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/v0qmr97m"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/dfwtg05y"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/660ejtmo"
-        },
-        {
-          "fansub_id": 52,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lygpynlftc7m.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:34:00.788701",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Ai no Kusabi 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EwVTLpJN9t51q3LSEFdp_yJxAKJbT27c/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1363"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4502618"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1445949"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3792382"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gapq5ojpbpva.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-suxvgk3pcx2p.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qbyzkeah"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/6en7i050"
-        },
-        {
-          "fansub_id": 52,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-an8ocgwx25oc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:34:00.788701",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

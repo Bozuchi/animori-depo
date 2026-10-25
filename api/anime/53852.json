@@ -4,7 +4,133 @@
     "puan": "0.00",
     "bolum_durumu": "4/6",
     "ozet": "Arknights: Reimei Zensou serisine ait spin-off seridir.",
-    "slug": "li-shi-zhentan-shiwusuo-a-day-in-lungmen"
+    "slug": "li-shi-zhentan-shiwusuo-a-day-in-lungmen",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 70,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HIpJJMgg0nIds1J28gO5VLLxl_ROwhvg/preview"
+          },
+          {
+            "fansub_id": 70,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4988580"
+          },
+          {
+            "fansub_id": 70,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5g0v06ppgoxu.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 25,
+            "end": 120
+          },
+          "ed": {
+            "start": 558,
+            "end": 610
+          }
+        },
+        "added_date": "2026-07-27T08:06:23.905483"
+      },
+      {
+        "episode_number": 2,
+        "title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 70,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1RtmnfVRZnZ4ZWUZgxzCBr1S1I5bZvFKf/preview"
+          },
+          {
+            "fansub_id": 70,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4998449"
+          },
+          {
+            "fansub_id": 70,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-91g5gjcmwcij.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 25,
+            "end": 125
+          },
+          "ed": {
+            "start": 560,
+            "end": 615
+          }
+        },
+        "added_date": "2026-07-27T08:06:23.905483"
+      },
+      {
+        "episode_number": 3,
+        "title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 70,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12BkPhoPs7eMWKKnFcdIt_HYX82qjVzkF/preview"
+          },
+          {
+            "fansub_id": 70,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5000108"
+          },
+          {
+            "fansub_id": 70,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-g43ybk7zpapu.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 24,
+            "end": 124
+          },
+          "ed": {
+            "start": 561,
+            "end": 615
+          }
+        },
+        "added_date": "2026-07-27T08:06:23.905483"
+      },
+      {
+        "episode_number": 4,
+        "title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 70,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Arho8vRmd_wHfz6JjV1I1eWadbtYHWf_/preview"
+          },
+          {
+            "fansub_id": 70,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5012026"
+          },
+          {
+            "fansub_id": 70,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zmx9cb8a1yby.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 530,
+            "end": 576
+          }
+        },
+        "added_date": "2026-07-27T08:06:23.905483"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53852,
@@ -56,149 +182,41 @@
         ]
       }
     ],
-    "episodes": 6
+    "episodes": 6,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 140665,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140665-RgyxyauI22F1.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1HIpJJMgg0nIds1J28gO5VLLxl_ROwhvg/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4988580"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5g0v06ppgoxu.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 25,
-          "end": 120
-        },
-        "ed": {
-          "start": 558,
-          "end": 610
-        }
-      },
-      "added_date": "2026-07-27T08:06:23.905483",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RtmnfVRZnZ4ZWUZgxzCBr1S1I5bZvFKf/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4998449"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-91g5gjcmwcij.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 25,
-          "end": 125
-        },
-        "ed": {
-          "start": 560,
-          "end": 615
-        }
-      },
-      "added_date": "2026-07-27T08:06:23.905483",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12BkPhoPs7eMWKKnFcdIt_HYX82qjVzkF/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5000108"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-g43ybk7zpapu.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 24,
-          "end": 124
-        },
-        "ed": {
-          "start": 561,
-          "end": 615
-        }
-      },
-      "added_date": "2026-07-27T08:06:23.905483",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 70,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Arho8vRmd_wHfz6JjV1I1eWadbtYHWf_/preview"
-        },
-        {
-          "fansub_id": 70,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5012026"
-        },
-        {
-          "fansub_id": 70,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zmx9cb8a1yby.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 530,
-          "end": 576
-        }
-      },
-      "added_date": "2026-07-27T08:06:23.905483",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

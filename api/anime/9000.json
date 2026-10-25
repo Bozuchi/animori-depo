@@ -4,7 +4,8 @@
     "puan": "7.46",
     "bolum_durumu": "1/1",
     "ozet": "Soylu Del Moral ailesinin güzel kızı Fana, Levamme ülkesinin veliaht prensi olan Prens Carlo'dan evlilik teklifi alır, ancak ülkeleri, Amatsuvian ile savaş içinde olduğundan yaklaşık bir yıl sonra savaş bitiminde evlenmek üzere sözleşirler. Velhasıl savaş bitmez ve prensin gelini olacak Fana'ya düşman saldırı düzenler. Bunun üzerine Fana'yı en kısa sürede prensin yanına ulaştırmak için bir plan yaparlar.\n\nLevamme'de en düşük sınıf olan bestado sınıfından biri olan Charles en iyi savaş pilotlarından biridir ve paralı asker olarak çalışmaktadır. Fana'yı prensin yanına götürme görevini de bu yüzden Charles alır. Charles ve Fana için bu uçuş yolculuğu hem geleceklerine hem de geçmişlerine dokunacak bir bağ oluşturur.",
-    "slug": "toaru-hikuushi-e-no-tsuioku"
+    "slug": "toaru-hikuushi-e-no-tsuioku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9000,
@@ -53,51 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9000,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9000-pjbZ6oEtUACO.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Toaru Hikuushi e no Tsuioku",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WUu2K3x8O2fKVRxhXmqqWZp5fjlQNeVx/preview"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2245"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016551"
-        },
-        {
-          "fansub_id": 8,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-u2n57f6uit3s.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3di1wmij6xuf.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T16:49:59.287797",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 77437,
     "type": "tv",

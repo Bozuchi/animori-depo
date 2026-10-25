@@ -4,7 +4,140 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Eylül ayında yayınlanan Tomohiko Itou’nun “Hello World” filminin yayınlanmasıyla beraber, stüdyo “Record 2027”, “Record 2032” ve “Record 2036” isimlerinde 3 tane yan hikaye hazırladı.",
-    "slug": "another-world"
+    "slug": "another-world",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Another World 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6969"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3803553"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-p3pngibf7q9m.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4bp2emj3"
+          },
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZS6pBgnekKD3VF2M0I4bwXajwdxL_eLG/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3904610"
+          }
+        ],
+        "added_date": "2026-07-21T21:51:33.091100"
+      },
+      {
+        "episode_number": 2,
+        "title": "Another World 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qf0_clg43gjQaZTrL3DI1t2qNQBXk4TW/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VEqDxZDt7PIChDv47f2hvZjRqjXPlwWh/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7540"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718157"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3904614"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4474277"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pqrbk74x"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-w40gplxwfged.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:51:33.091100"
+      },
+      {
+        "episode_number": 3,
+        "title": "Another World 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13ueVadYz8yNrjMI-aF0VSoeCmeIIY5PC/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JdzF5NfTtOC317yulKMXYUzbEyOjg4-p/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659354"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7542"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4457555"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3904642"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q55nxo3r"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lr2dtlmjo60e.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:51:33.091100"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40295,
@@ -43,158 +176,14 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 111733,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111733-0nvIm7cJ7BGq.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Another World 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6969"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3803553"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-p3pngibf7q9m.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4bp2emj3"
-        },
-        {
-          "fansub_id": 62,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZS6pBgnekKD3VF2M0I4bwXajwdxL_eLG/preview"
-        },
-        {
-          "fansub_id": 62,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3904610"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:51:33.091100",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Another World 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qf0_clg43gjQaZTrL3DI1t2qNQBXk4TW/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VEqDxZDt7PIChDv47f2hvZjRqjXPlwWh/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7540"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718157"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3904614"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4474277"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pqrbk74x"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-w40gplxwfged.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:51:33.091100",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Another World 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13ueVadYz8yNrjMI-aF0VSoeCmeIIY5PC/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JdzF5NfTtOC317yulKMXYUzbEyOjg4-p/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659354"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7542"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4457555"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3904642"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/q55nxo3r"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lr2dtlmjo60e.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:51:33.091100",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 92710,
     "type": "tv",

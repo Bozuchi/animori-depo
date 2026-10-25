@@ -4,7 +4,338 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Yıl 2242, Avare olmak isteyen Kanata, hafızasını kaybetmiş, bozuk bir Magus olan Noir ile tanışır. Ama Noir, Bitiriciler'e karşı savaşırken çok başarılı olduğu için Kanata onunla bir ikili oluşturur ve Avare olmanın tam olarak ne olduğunu keşfeder.",
-    "slug": "synduality-noir"
+    "slug": "synduality-noir",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Synduality: Noir 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370308"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5200968"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/tw4gnivhdaiy"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.co/embed-kh33ic05onu2.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1436.316,
+            "end": 1442
+          }
+        },
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 2,
+        "title": "Synduality: Noir 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370316"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5205197"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/5nf3ltnqtkjm"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.co/embed-jjma8ckqu2zz.html"
+          }
+        ],
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 3,
+        "title": "Synduality: Noir 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370339"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5209284"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/3tcd559pea7c"
+          }
+        ],
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 4,
+        "title": "Synduality: Noir 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370391"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5216089"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/1004dyc5trwd"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 100.924,
+            "end": 190.924
+          },
+          "ed": {
+            "start": 1351,
+            "end": 1437
+          }
+        },
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 5,
+        "title": "Synduality: Noir 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370414"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5222997"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/pk5qpns15syn"
+          }
+        ],
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 6,
+        "title": "Synduality: Noir 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370450"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/z2phuk08l6h1"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 43,
+            "end": 155
+          },
+          "ed": {
+            "start": 1351,
+            "end": 1441
+          }
+        },
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 7,
+        "title": "Synduality: Noir 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370506"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/zn5wyjk4qqlu"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1355,
+            "end": 1440
+          }
+        },
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 8,
+        "title": "Synduality: Noir 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370623"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/gfci8474lcny"
+          }
+        ],
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 9,
+        "title": "Synduality: Noir 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370641"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5246899"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/9wnozxwn523j"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-h0t83a6yv2rp.html"
+          }
+        ],
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 10,
+        "title": "Synduality: Noir 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370696"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5253373"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ifm92q0sllep"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-v836fgc3xtwr.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1352,
+            "end": 1441
+          }
+        },
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 11,
+        "title": "Synduality: Noir 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370738"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5257849"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/8u9nt8g5j8p0"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rssa1n62wqdb.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1391,
+            "end": 1441
+          }
+        },
+        "added_date": "2026-07-29T14:03:53.533837"
+      },
+      {
+        "episode_number": 12,
+        "title": "Synduality: Noir 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370818"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5263100"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/cjtg0x233nnb"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-k02jq18v148v.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1356,
+            "end": 1437
+          }
+        },
+        "added_date": "2026-07-29T14:03:53.533837"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53026,
@@ -57,385 +388,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 154643,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154643-KYvDbHPAGtVd.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154643-NbuhZQCxgKMj.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Synduality: Noir 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370308"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5200968"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/tw4gnivhdaiy"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.co/embed-kh33ic05onu2.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1436.316,
-          "end": 1442
-        }
-      },
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370316"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5205197"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/5nf3ltnqtkjm"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.co/embed-jjma8ckqu2zz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370339"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5209284"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/3tcd559pea7c"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370391"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5216089"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/1004dyc5trwd"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 100.924,
-          "end": 190.924
-        },
-        "ed": {
-          "start": 1351,
-          "end": 1437
-        }
-      },
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370414"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5222997"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/pk5qpns15syn"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370450"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/z2phuk08l6h1"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 43,
-          "end": 155
-        },
-        "ed": {
-          "start": 1351,
-          "end": 1441
-        }
-      },
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370506"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/zn5wyjk4qqlu"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1355,
-          "end": 1440
-        }
-      },
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370623"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/gfci8474lcny"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370641"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5246899"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/9wnozxwn523j"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-h0t83a6yv2rp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370696"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5253373"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ifm92q0sllep"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-v836fgc3xtwr.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1352,
-          "end": 1441
-        }
-      },
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370738"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5257849"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/8u9nt8g5j8p0"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rssa1n62wqdb.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1391,
-          "end": 1441
-        }
-      },
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Synduality: Noir 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370818"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5263100"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/cjtg0x233nnb"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-k02jq18v148v.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1356,
-          "end": 1437
-        }
-      },
-      "added_date": "2026-07-29T14:03:53.533837",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 210181,
     "type": "tv",

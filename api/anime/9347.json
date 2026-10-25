@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Fortune Arterial serisine ait OVA bölümdür.",
-    "slug": "fortune-arterial-akai-yakusoku-tadoritsuita-basho"
+    "slug": "fortune-arterial-akai-yakusoku-tadoritsuita-basho",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9347,
@@ -55,56 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9347,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9347-Dj1hDg02Tk9I.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Fortune Arterial OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eyIEb2jbYIhUhW9hFR5tePwPk6ryXr5A/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1478"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4087239"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4503405"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/689qsd01"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-z1ynajvmsggl.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T01:41:39.421204",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 36873,
     "type": "tv",

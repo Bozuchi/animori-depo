@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Küçük sevimli bir kız ve çatıya düşürdüğü en sevdiği oyuncak ayısı, kızın evinin çatısında yaşayan bir fare ailesi, bir çınar ağacı, serseri bir güve, arızalı bir sokak lambası ve binanın dibindeki dar sokaktaki duvarlara yapıştırılmış onlarca farklı afişin müzik eşliğindeki hikâyesi anlatılmaktadır.",
-    "slug": "aru-machi-kado-no-monogatari"
+    "slug": "aru-machi-kado-no-monogatari",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1497,
@@ -41,56 +42,14 @@
       68
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1497,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1497-qivayRHBmgOZ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1497.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Aru Machi Kado no Monogatari",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DsFAckkwf_SWQ2XoGgEKM16Y7BNEPutO/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017616"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1744"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5678.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1525234"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0psq8gvb0952.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:53:37.637603",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 85802,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikaye, Nami'nin köyünün bir parçası kullanılarak One Piece'in tv'de devam eden animede Balıkadam adası bölümü ağırlıklı olmak üzere yeni bir animasyonla yeniden oluşturuldu.",
-    "slug": "one-piece-episode-of-nami-koukaishi-no-namida-to-nakama-no-kizuna"
+    "slug": "one-piece-episode-of-nami-koukaishi-no-namida-to-nakama-no-kizuna",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 15323,
@@ -47,44 +48,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 15323,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15323-zrax5OGlGepE.png",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15323.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SH15vuxnSG_KcNlhxRdMhf14F2_bThk0/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qyrMcjYZENrkt5-G_xROnIL8zAQEQUGb/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Hp1ncdolhTRf1h6EVO6bDUzNVTZJ4vkn/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xpcixkl27123.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T20:56:18.398418",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

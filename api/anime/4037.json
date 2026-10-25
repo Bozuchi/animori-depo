@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/27",
     "ozet": "Cowboy Bebop animesinin 27. bölümü olarak da geçen özel bölümüdür.",
-    "slug": "cowboy-bebop-yose-atsume-blues"
+    "slug": "cowboy-bebop-yose-atsume-blues",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4037,
@@ -46,74 +47,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4037,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n4037-1rwmIePHBzB7.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4037-zpDbjycoZhNI.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Cowboy Bebop: Yose Atsume Blues Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qptBRcZZcB1aWwc0u4LJgFc9zbI5nC1C/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659285"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7505"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4457408"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3896348"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-p979hd2bxn69.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-as4bzz3uejkz.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ple38kq6"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8fwonhf0"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-767uwhldynnl.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:27:38.868323",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bayan Iratsume Nara'nin başkentinde ünlü, güzel bir bayandır. Erkeklerin onun dikkatini çekmeye çalışmasına rağmen o odasında kalıp kutsal yazıları kopyalamayı tercih etmektedir. Bir gün, Amida Sutra'nın bininci kopyasını tamamladıktan sonra Iratsume evden sıvışıp batıya Budha'yı aramaya gider. \nÇok geçmeden kendini bir tapınakta bulur. Yaşlı bir hikaye anlatıcı kendisine Prens Otsu'nun trajik hikayesini ve Iratsume'nin kaderinin nasıl ona bağlı oldugunu anlatır. Tıpkı atası \"Mimimo no Toji\" gibi Iratsume de ölu prensin takıntısı olmuştur. Iratsume'de de prense karşı ilgi uyanmıştır.",
-    "slug": "shisha-no-sho"
+    "slug": "shisha-no-sho",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 7510,
@@ -38,46 +39,14 @@
     "demographics": [],
     "studios": [],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 7510,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n7510-L2t6xo7axD6s.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shisha no Sho",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16lluQeooBQFq0yw0GZDI_X7Z4IPE2tRO/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//mail/sweetparade/_myvideo/1047.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2806396"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-yqse3nskjknw.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:00:14.512591",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 25780,
     "type": "movie",

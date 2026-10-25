@@ -4,7 +4,469 @@
     "puan": "7.56",
     "bolum_durumu": "12/12",
     "ozet": "Kaos'un formsuz ilahi Cthulhu, kendine form olarak gümüş saçlı sıradan bir kız seçmiştir. Kızımızın adı Nyaruko'dur. Erkek karakterimiz Mahiro Yasaka'nın etrafı bir gece uzaylılar tarafından sarılır ve Nyaruko onu kurtarır. Böylece ikilinin macerası başlar...",
-    "slug": "haiyore-nyaruko-san"
+    "slug": "haiyore-nyaruko-san",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Haiyore! Nyaruko-san 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1LngN6CY729PwBKKSB489dSoSODKdlrxh/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/184.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019001"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1081032"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ug3hphc58yfz.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 77.257,
+            "end": 167.257
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 2,
+        "title": "Haiyore! Nyaruko-san 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xc_rXFkYBJ_LbTnKx4WK51Be3dxAGaMZ/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/185.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019002"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1081033"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zlvwm858f1lp.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 143.904,
+            "end": 233.904
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 3,
+        "title": "Haiyore! Nyaruko-san 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YB7VH7htbzu8ERE9e1xpFvcTa6plxyr-/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/186.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019003"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-338t94jwvbuf.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vtocwgbfz465.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 73.102,
+            "end": 163.102
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 4,
+        "title": "Haiyore! Nyaruko-san 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BncYb0j2gENElKd-FzEpkydNQvXG7icc/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019004"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/187.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1081035"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-s948ys1roaqd.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 136.564,
+            "end": 226.564
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 5,
+        "title": "Haiyore! Nyaruko-san 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1x1IRP-QC0PiKSXgtg8gIwHlomubkjRrL/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/188.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019005"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hltoey2jiasv.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 113.66,
+            "end": 203.66
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 6,
+        "title": "Haiyore! Nyaruko-san 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QzxsEh9HHg_u0oXeV4monCyO6CVgw_aO/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/189.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019006"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1081037"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-07mfcwrbachm.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-l9kxx49g7v4m.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 104.013,
+            "end": 194.013
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 7,
+        "title": "Haiyore! Nyaruko-san 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1V07UBySJUnR966c2TIEJ_7wcGtD0wuey/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/190.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019007"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1081038"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 80.485,
+            "end": 170.485
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 8,
+        "title": "Haiyore! Nyaruko-san 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14SZQk9PBelAVDKUbYkUOsa5Y9fvifSDE/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YhTlyihCiUGtOXYbcUy97qdPbN7Uq5sI/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019008"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019009"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/191.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1081039"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qr1g24yhas05.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-z00br610b3rr.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hxtvp0sl6dyt.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 89.498,
+            "end": 179.498
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 9,
+        "title": "Haiyore! Nyaruko-san 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ERylrOp9KD-OPwJ08kzl_3DJmTpCgJ-Q/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019010"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/192.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1081040"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-e5fuzuxvce2p.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 79.066,
+            "end": 169.066
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 10,
+        "title": "Haiyore! Nyaruko-san 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Jk6T1V_ChoUU83IewmPSEUK0IbKaa--p/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019011"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/193.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1081041"
+          }
+        ],
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 11,
+        "title": "Haiyore! Nyaruko-san 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13-uIR1aN466qoaeGuRqyJ_z_93R4dtcI/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019012"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/194.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1081042"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-iozunuvtz0m3.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 152.146,
+            "end": 242.146
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      },
+      {
+        "episode_number": 12,
+        "title": "Haiyore! Nyaruko-san 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-qcZSlXKt_IG098rJdPaq5zj2U6fV7lv/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019013"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/195.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1081043"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-y5nbvgd8ixmv.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 50.556,
+            "end": 140.556
+          }
+        },
+        "added_date": "2026-07-26T01:37:08.217900"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11785,
@@ -66,512 +528,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 11785,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11785-9vDMJsaDX8I9.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11785-cBfqpOetdIeF.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1LngN6CY729PwBKKSB489dSoSODKdlrxh/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/184.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019001"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1081032"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ug3hphc58yfz.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 77.257,
-          "end": 167.257
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xc_rXFkYBJ_LbTnKx4WK51Be3dxAGaMZ/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/185.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019002"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1081033"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zlvwm858f1lp.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 143.904,
-          "end": 233.904
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YB7VH7htbzu8ERE9e1xpFvcTa6plxyr-/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/186.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019003"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-338t94jwvbuf.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vtocwgbfz465.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 73.102,
-          "end": 163.102
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BncYb0j2gENElKd-FzEpkydNQvXG7icc/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019004"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/187.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1081035"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-s948ys1roaqd.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 136.564,
-          "end": 226.564
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1x1IRP-QC0PiKSXgtg8gIwHlomubkjRrL/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/188.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019005"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hltoey2jiasv.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 113.66,
-          "end": 203.66
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1QzxsEh9HHg_u0oXeV4monCyO6CVgw_aO/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/189.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019006"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1081037"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-07mfcwrbachm.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-l9kxx49g7v4m.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 104.013,
-          "end": 194.013
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1V07UBySJUnR966c2TIEJ_7wcGtD0wuey/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/190.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019007"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1081038"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 80.485,
-          "end": 170.485
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14SZQk9PBelAVDKUbYkUOsa5Y9fvifSDE/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YhTlyihCiUGtOXYbcUy97qdPbN7Uq5sI/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019008"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019009"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/191.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1081039"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qr1g24yhas05.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-z00br610b3rr.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hxtvp0sl6dyt.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 89.498,
-          "end": 179.498
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ERylrOp9KD-OPwJ08kzl_3DJmTpCgJ-Q/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019010"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/192.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1081040"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-e5fuzuxvce2p.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 79.066,
-          "end": 169.066
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Jk6T1V_ChoUU83IewmPSEUK0IbKaa--p/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019011"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/193.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1081041"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13-uIR1aN466qoaeGuRqyJ_z_93R4dtcI/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019012"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/194.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1081042"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-iozunuvtz0m3.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 152.146,
-          "end": 242.146
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Haiyore! Nyaruko-san 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-qcZSlXKt_IG098rJdPaq5zj2U6fV7lv/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019013"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekaifansub/183/195.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1081043"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-y5nbvgd8ixmv.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 50.556,
-          "end": 140.556
-        }
-      },
-      "added_date": "2026-07-26T01:37:08.217900",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 45254,
     "type": "tv",

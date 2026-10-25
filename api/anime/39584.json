@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yıl 2036. Tıbbi devrimler sonucu dahili nanomakineler ve Kabuk Sistemi'yle insanlık ölümü fethetmiştir. Ancak bu ayrıcalığa yalnızca en zenginler erişebilmektedir. Yozo Oba o kadar zengin değildir. Ancak rüyalarında arkadaşının motor çetesiyle toplumun seçkin kesiminin yaşadığı İç Kısım'a yaptığı saldırıyı görmektedir. Bu durum Yozo'nun hayatını sonsuza dek değiştirecek korkunç bir keşif silsilesini başlatır.",
-    "slug": "human-lost-ningen-shikkaku"
+    "slug": "human-lost-ningen-shikkaku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39584,
@@ -63,51 +64,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 108626,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108626-0TtoR6rqVMoI.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Human Lost: Ningen Shikkaku",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 193,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PlJwRfNSRey5eo9hxjxZ88cHo3KvbkdA/preview"
-        },
-        {
-          "fansub_id": 193,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eM1iVAHN0QHh0RDrNJVcUWNlSZ0GHTtm/preview"
-        },
-        {
-          "fansub_id": 193,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359653746"
-        },
-        {
-          "fansub_id": 193,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659147"
-        },
-        {
-          "fansub_id": 193,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140717072"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:27:59.594007",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 593240,
     "type": "movie",

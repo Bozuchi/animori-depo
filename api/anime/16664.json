@@ -4,7 +4,8 @@
     "puan": "8.64",
     "bolum_durumu": "1/1",
     "ozet": "Bir zamanlar, fakir bir orman köyünde yaşlı bir oduncu yaşarmış. Geçimini kestiği bambuları satarak kazanan oduncunun, yaşlı karısından başka kimsesi yokmuş. Yine bir gün ormanda bambu kesmekle uğraşırken yerden bir bambunun filizlendiğini ve çabucak büyüdüğünü görmüş. Merakla bambunun yanına gidince, bambunun tomurcuklanıp açıldığını ve içinden minik bir prenses çıktığını fark etmiş. Şaşkınlık içindeki oduncu bu minicik prensesi evine götürmüş. Avcunun içinde sakladığı prensesi karısına gösteren oduncu, prensesin birdenbire bir bebeğe dönüştüğünü görünce şaşkınlıktan neredeyse küçük dilini yutacakmış! Diğer bebeklerden farklı olan bu bebek, hızla büyüyerek oduncunun bambu filizinin içinde görmüş olduğu prensese dönüşmüş - ama bu kez gerçek boyutlarda! Yıllar geçerken, küçük prensese öz çocukları gibi bağlanan oduncuyla karısının aklında tek bir soru varmış: Bu güzeller güzeli kız aslında kimdir ve nereden gelmiştir?",
-    "slug": "kaguya-hime-no-monogatari"
+    "slug": "kaguya-hime-no-monogatari",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 16664,
@@ -48,51 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 16664,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16664-mVEK3raMgD9Z.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16664-Wakrc8rbBkor.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kaguya-hime no Monogatari",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1i2r8uCQaOdptL019grujo5hJobCXkbJV/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359657796"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/i6hi9hgw"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/b2vze095"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-h5ul3t8yj8r3.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T22:40:35.534863",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 149871,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Nube ve sınıfı, plajda vakit geçirmek için küçük bir adaya giderler. Oradaki yaşlı bir adamdan yasaklanmış bir efsane duyarlar. Bu efsaneye göre deniz örümceği olarak bilinen yaratık 200. yılında dolunaya ulaştığında iblise dönüşecek ve insanları yiyecekti. Aniden ortaya çıkan bir kız çocuklarla iyi geçinerek birlikte oyun oynarlar. Bu sırada tuhaflıklar başlar.",
-    "slug": "jigoku-sensei-nube-kyoufu-no-natsuyasumi-ayashi-no-umi-no-densetsu"
+    "slug": "jigoku-sensei-nube-kyoufu-no-natsuyasumi-ayashi-no-umi-no-densetsu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 5296,
@@ -49,49 +50,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 5296,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5296.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Jigoku Sensei Nube: Kyoufu no Natsu Yasumi! Asashi no Uni no Gensetsu",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 9,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VTCr9MO_HRKyKJZkY_wFySOOSSBbG5WH/preview"
-        },
-        {
-          "fansub_id": 9,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/1454"
-        },
-        {
-          "fansub_id": 9,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3251939"
-        },
-        {
-          "fansub_id": 9,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3527682"
-        },
-        {
-          "fansub_id": 9,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-13dpx0brj7w6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T06:41:53.173633",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "8.84",
     "bolum_durumu": "1/1",
     "ozet": "Lise öğrencisi Aoi Aioi, 13 sene önce ailesini trajik bir kazada kaybeder ve ablası Akane ile yaşamaya başlar. Ona yalnız başına bakan ablası Akane’nin yükünü hafifletmek ve Akane’nin eski sevgilisi Shinnosuke \"Shinno\" Kanamuro’dan esinlendiği müzik kariyerini sürdürmek isteyen Aoi, mezuniyetten sonra Tokyo’ya taşınmak ister. Shinno bir müzik grubunun üyesidir ta ki kız kardeşlerin ailesinin vefatından sonra profesyonel bir gitarist olmak için Tokyo’ya gidene dek. Daha sonra onu gören olmaz. Bir öğleden sonra, Aoi misafir evinde bas gitarıyla alıştırma yaparken 13 sene önceki 18 yaşındaki Shinno tarafından korkutulur! Tesadüf eseri, şimdiki, 31 yaşındaki Shinno da kasabaya döner, ancak tamamen bambaşka biri olarak. Şu an mevcut iki Shinno vardır, ama geçmişteki Shinno neden günümüze geldi ki? Sora no Aosa wo Shiru Hito yo, birbirlerine karşı olan iç sesleriyle yüzleşen ve bundan sonraki hayatlarını etkileyecek kararlar alan bu 4 kişi etrafında dönmektedir.",
-    "slug": "sora-no-aosa-wo-shiru-hito-yo"
+    "slug": "sora-no-aosa-wo-shiru-hito-yo",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39569,
@@ -48,66 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 108577,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108577-GxaQyxvYRBBN.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108577-plhp2UMSmEhk.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sora no Aosa wo Shiru Hito yo",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 251,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/p9kcy8uwwgcb"
-        },
-        {
-          "fansub_id": 251,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1bfsrxa1wxw0.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13pG5odsCFsFFhByNuzIlPae5aHV1i9ia/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VVfnZhgczciOcSmkCTgLZxeDBgxcffcK/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850478"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140717295"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-b266nksxz4p9.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-itkxmzaevzg0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T11:25:03.492418",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 615165,
     "type": "movie",

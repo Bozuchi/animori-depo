@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Orijinal PS2 oyununun gerçek sonunu gösteren special bölümdür.",
-    "slug": "persona-4-the-animation-no-one-is-alone"
+    "slug": "persona-4-the-animation-no-one-is-alone",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 13587,
@@ -49,54 +50,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 13587,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13587-axTfsAK4GYX0.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13587-q0lWWgrgSuej.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Persona 4 the Animation Special: No One is Alone",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_5IDT66hQ5F2GoMDa-KZDHUJ1aEniWmi/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4496670"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1796697"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qvv8b1ft"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/mbs85iws"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-l6gbua9hbgrd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:28:36.520485",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,83 @@
     "puan": "0.00",
     "bolum_durumu": "2/11",
     "ozet": "İş adamlarının siyasetin içine girmesiyle birlikte politikacılar ve hükümet yetkilileri konumları sayesinde ceplerini dolduruyor. Zaizen Jotaro, gücü kötüye kullanan bu suçluları yakalaması için yasa dışı yöntemler kullanmasına izin verilen bir dedektiftir.",
-    "slug": "naikaku-kenryoku-hanzai-kyousei-torishimarikan-zaizen-joutarou"
+    "slug": "naikaku-kenryoku-hanzai-kyousei-torishimarikan-zaizen-joutarou",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1r01K90JU9-C8hGQi6JJDkPkZoz2MYLWn/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369325"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5027164"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/dakioqyid4vq"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-he7f2l0m17ds.html"
+          }
+        ],
+        "added_date": "2026-07-27T14:08:57.439969"
+      },
+      {
+        "episode_number": 2,
+        "title": "Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1D89bbl7CxUiDeVl8phMOWxgq80t1riCZ/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EutuMOj04R1hKTv9L1GjA4YNFlUKDf3A/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369324"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5027136"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/mrelupsxf6fr"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-k5oaosw2jcxu.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rd2qhgeluzz1.html"
+          }
+        ],
+        "added_date": "2026-07-27T14:08:57.439969"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1740,
@@ -49,97 +125,14 @@
         ]
       }
     ],
-    "episodes": 11
+    "episodes": 11,
+    "episode_list": []
   },
   "anilist": {
     "id": 1740,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1740-kjIxWmL0c0qB.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1r01K90JU9-C8hGQi6JJDkPkZoz2MYLWn/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369325"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5027164"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/dakioqyid4vq"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-he7f2l0m17ds.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T14:08:57.439969",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1D89bbl7CxUiDeVl8phMOWxgq80t1riCZ/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EutuMOj04R1hKTv9L1GjA4YNFlUKDf3A/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369324"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5027136"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/mrelupsxf6fr"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-k5oaosw2jcxu.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rd2qhgeluzz1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T14:08:57.439969",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 209206,
     "type": "tv",

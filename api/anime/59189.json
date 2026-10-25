@@ -4,7 +4,255 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Sentai Daishikkaku animesinin ikinci sezonudur.",
-    "slug": "sentai-daishikkaku-2nd-season"
+    "slug": "sentai-daishikkaku-2nd-season",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Sentai Daishikkaku 2nd Season 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EpCOX9FDW3Fa_Q3OUhIoHIxdd6e--psv/preview"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1332,
+            "end": 1421
+          }
+        },
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 2,
+        "title": "Sentai Daishikkaku 2nd Season 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rrkd29GJEHkO-H4XIEjwIYmzIv7y6yRn/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5886490"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 32,
+            "end": 120
+          },
+          "ed": {
+            "start": 1331,
+            "end": 1422
+          }
+        },
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 3,
+        "title": "Sentai Daishikkaku 2nd Season 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MA70U4_bPhZfxxkkiF8fxTDD5mYPTWZ2/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5894379"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 4,
+        "title": "Sentai Daishikkaku 2nd Season 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jvmzk581s2AFgeQwS0YXKbzkhJ1SaVs7/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5901610"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 5,
+        "title": "Sentai Daishikkaku 2nd Season 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pA_kAgdKwIZA8z32cT4OaRvhwt4qPF-q/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5908795"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 18,
+            "end": 107
+          },
+          "ed": {
+            "start": 1332,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 6,
+        "title": "Sentai Daishikkaku 2nd Season 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1aWN74BQIhDTCWk82kRhhS0yLDbmBFuwP/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5915212"
+          }
+        ],
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 7,
+        "title": "Sentai Daishikkaku 2nd Season 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mAgV-14hiaSvbhfg-58pGqW2Q4zvYh25/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5924651"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1271,
+            "end": 1360
+          }
+        },
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 8,
+        "title": "Sentai Daishikkaku 2nd Season 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MDYaXxFOS9jO-hnpVcg5FKUYmyiiVJj-/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5927221"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1332,
+            "end": 1421
+          }
+        },
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 9,
+        "title": "Sentai Daishikkaku 2nd Season 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CWEFTmf1WrOo-HN7HUAg4rYq-Ho5mjl9/preview"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1285,
+            "end": 1373
+          }
+        },
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 10,
+        "title": "Sentai Daishikkaku 2nd Season 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GeeKAQO-FiN8DUo79GLFsdLYmInLUBgs/preview"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1332,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 11,
+        "title": "Sentai Daishikkaku 2nd Season 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VEw6LxVVGlbjUHZ9H7CF8JSOj5Knlc9f/preview"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1332,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-29T07:58:31.569635"
+      },
+      {
+        "episode_number": 12,
+        "title": "Sentai Daishikkaku 2nd Season 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oZ_PveQu0rXwi-27de4n6WLZyIGQl-Gf/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5948928"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1306,
+            "end": 1396
+          }
+        },
+        "added_date": "2026-07-29T07:58:31.569635"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59189,
@@ -54,300 +302,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 178781,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178781-DIZXrLSKdKXs.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178781-pbk5FgfiAJxS.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EpCOX9FDW3Fa_Q3OUhIoHIxdd6e--psv/preview"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1332,
-          "end": 1421
-        }
-      },
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rrkd29GJEHkO-H4XIEjwIYmzIv7y6yRn/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5886490"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 32,
-          "end": 120
-        },
-        "ed": {
-          "start": 1331,
-          "end": 1422
-        }
-      },
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MA70U4_bPhZfxxkkiF8fxTDD5mYPTWZ2/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5894379"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jvmzk581s2AFgeQwS0YXKbzkhJ1SaVs7/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5901610"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pA_kAgdKwIZA8z32cT4OaRvhwt4qPF-q/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5908795"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 18,
-          "end": 107
-        },
-        "ed": {
-          "start": 1332,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1aWN74BQIhDTCWk82kRhhS0yLDbmBFuwP/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5915212"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mAgV-14hiaSvbhfg-58pGqW2Q4zvYh25/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5924651"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1271,
-          "end": 1360
-        }
-      },
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MDYaXxFOS9jO-hnpVcg5FKUYmyiiVJj-/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5927221"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1332,
-          "end": 1421
-        }
-      },
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CWEFTmf1WrOo-HN7HUAg4rYq-Ho5mjl9/preview"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1285,
-          "end": 1373
-        }
-      },
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GeeKAQO-FiN8DUo79GLFsdLYmInLUBgs/preview"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1332,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VEw6LxVVGlbjUHZ9H7CF8JSOj5Knlc9f/preview"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1332,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Sentai Daishikkaku 2nd Season 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oZ_PveQu0rXwi-27de4n6WLZyIGQl-Gf/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5948928"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1306,
-          "end": 1396
-        }
-      },
-      "added_date": "2026-07-29T07:58:31.569635",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 215799,
     "type": "tv",

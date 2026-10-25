@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "İnsanoğlu kendi eliyle yine kendi sonunu getirecek. Bu kaçınılmaz bir gerçektir, nitekim tarihte ve birbirinden farklı din kitaplarında buna çeşitli örnekler mevcuttur.\n\nParçalanan ay üssünde bir deney yapılmaktadır. Ancak başarısızlıkla sona erer ve bütün Dünya'ya zarar verir.\n\nGeriye kalan çok az sayıdaki insan topluluğu, yıkıntılar arasında yaşam mücadelesi vermektedir. Bu insanlardan biri olan Agito’ya yasakları çiğnemek her zaman için cazip gelmiştir. Yine böyle yasaklı bir işe kalkışan Agito, eski bir medeniyete ait bir kalıntı bulur ve Tula’yı 300 yıllık uykusundan uyandırır. Ancak Tula yerine getirmesi gereken bir görevi olduğunu hatırlamaktadır. Görevini gerçekleştirmek için Agito’dan ve topluluktan ayrılır. Agito kolay pes edecek biri değildir ve Tula’ya yardım etmek için orman ile bir anlaşma yapar…",
-    "slug": "giniro-no-kami-no-agito"
+    "slug": "giniro-no-kami-no-agito",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1140,
@@ -47,46 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1140,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1140-pBWtFaQbzIUp.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1140-5SWhZ6CkGCZw.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Gin'iro no Kami no Agito",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1LwpZvrLZnBsu7ivdfcZ4CLdyBzPd7eNc/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1l3atuiyz6Ugn5uLoIuId7nYTFxL0axfs/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016645"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6w0uma80kufc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:33:10.911068",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 14945,
     "type": "movie",

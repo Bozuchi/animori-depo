@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikaye, Sanada kardeşlerinin gençliği etrafında geçer. Nobuyuki ve Yukimura, nüfuzlu Sanada klanını korumak için birbirlerine yemin ederler. Fakat Sanada klanını daha iyi bir şekilde korumak için Yukimura bir karar verir. Ve gittiği yerde Mitsunari Ishida ve Naoe Kanetsugu'yla tanışır. Diğer yandan, büyük kardeş Nobuyuki ise Tokugawa klanının bencil isteklerinden dolayı huzursuzdur.\n\nNot: \"Sengoku Musou\" serisinden önce çıkan bir special bölümdür. \"Sengoku Musou\"dan önceki konuyu ele alır.",
-    "slug": "sengoku-musou-sp-sanada-no-shou"
+    "slug": "sengoku-musou-sp-sanada-no-shou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 21497,
@@ -46,44 +47,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20540,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20540.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Sengoku Musou SP: Sanada no Shou",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/shimazu00/video/embed/_myvideo/55"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685362896"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1846717"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-fft6fdwnh8r5.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:45:21.483578",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

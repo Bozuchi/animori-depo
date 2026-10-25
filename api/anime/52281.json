@@ -4,7 +4,138 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Isekai Meikyuu de Harem wo animesinin özel bölümleridir.",
-    "slug": "isekai-meikyuu-de-harem-wo-specials"
+    "slug": "isekai-meikyuu-de-harem-wo-specials",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Isekai Meikyuu de Harem wo Specials 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BOv6PToai2tnegrzTpOypl2RtBV8Et5u/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374058976"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5013162"
+          },
+          {
+            "fansub_id": 92,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qxm8ihua8d2p.html"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/nk40li9a"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/j2q79cza"
+          },
+          {
+            "fansub_id": 139,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xeuqWZnsbaKgDdbL26boXGg-RaSLcP0k/preview"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5170217"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5170220"
+          },
+          {
+            "fansub_id": 139,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ke8w1tulogsl"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q5cdl0is"
+          },
+          {
+            "fansub_id": 139,
+            "player": "UQLOAD",
+            "url": "https://uqload.co/embed-p5u5py9ju3mq.html"
+          }
+        ],
+        "added_date": "2026-07-26T06:01:04.137105"
+      },
+      {
+        "episode_number": 2,
+        "title": "Isekai Meikyuu de Harem wo Specials 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1n1HtUwretLA9vuA3z3ks1DLb75f22ltG/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374058975"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5013163"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wafqvgxc"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/nvwsnzsc"
+          },
+          {
+            "fansub_id": 139,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1f2EfXUzsoabM5IPI4emYakzgAyusc3hl/preview"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5170233"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5170236"
+          },
+          {
+            "fansub_id": 139,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/28680xcer611"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/a7tmfj9i"
+          },
+          {
+            "fansub_id": 139,
+            "player": "UQLOAD",
+            "url": "https://uqload.co/embed-qmw54ad1t4r8.html"
+          }
+        ],
+        "added_date": "2026-07-26T06:01:04.137105"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 52281,
@@ -46,150 +177,27 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 151632,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151632-awVg6I4mukra.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Isekai Meikyuu de Harem wo Specials 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BOv6PToai2tnegrzTpOypl2RtBV8Et5u/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/8275262434374058976"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5013162"
-        },
-        {
-          "fansub_id": 92,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qxm8ihua8d2p.html"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/nk40li9a"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/j2q79cza"
-        },
-        {
-          "fansub_id": 139,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xeuqWZnsbaKgDdbL26boXGg-RaSLcP0k/preview"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5170217"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5170220"
-        },
-        {
-          "fansub_id": 139,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ke8w1tulogsl"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/q5cdl0is"
-        },
-        {
-          "fansub_id": 139,
-          "player": "UQLOAD",
-          "url": "https://uqload.co/embed-p5u5py9ju3mq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T06:01:04.137105",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Isekai Meikyuu de Harem wo Specials 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1n1HtUwretLA9vuA3z3ks1DLb75f22ltG/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/8275262434374058975"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5013163"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/wafqvgxc"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/nvwsnzsc"
-        },
-        {
-          "fansub_id": 139,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1f2EfXUzsoabM5IPI4emYakzgAyusc3hl/preview"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5170233"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5170236"
-        },
-        {
-          "fansub_id": 139,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/28680xcer611"
-        },
-        {
-          "fansub_id": 139,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/a7tmfj9i"
-        },
-        {
-          "fansub_id": 139,
-          "player": "UQLOAD",
-          "url": "https://uqload.co/embed-qmw54ad1t4r8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T06:01:04.137105",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

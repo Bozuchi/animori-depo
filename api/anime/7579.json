@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Happy☆Lesson (TV) serisinin special (11.5) bölümüdür.",
-    "slug": "happy-lesson-hoka-hoka-kanna-to-futari-kiri"
+    "slug": "happy-lesson-hoka-hoka-kanna-to-futari-kiri",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 7579,
@@ -44,34 +45,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 7579,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7579.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Happy☆Lesson (TV) 11,5. Bölüm",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1p6J04SVMfDumT5FX4ifGtmAt48lypA_i/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5066520"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:20:37.067361",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

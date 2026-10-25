@@ -4,7 +4,497 @@
     "puan": "0.00",
     "bolum_durumu": "21/21",
     "ozet": "Hafızasını kaybetmiş bir halde, uzayın derinliklerinde süzülen bir gemide uyanan Yuuri'nin en küçük sorunu geçmişini hatırlamamaktır. Beş kişilik mürettebatın arasında bir \"Gnosia\" saklanmaktadır: Amacı insanlığı yok etmek olan, Gnos bulaşmış bir varlık. Gnosia dışarıdan tamamen insan görünür; bu yüzden mürettebatın tek çaresi, şüphelendikleri kişiyi oylayarak \"soğuk uykuya\" (Cold Sleep) yatırmaktır. Eğer Gnosia oylamadan sağ çıkarsa, ışık hızı yolculuğu sırasında uyanık kalan tek kişi olarak birini yok edecektir.\n\nYuuri, Gnosia ile teke tek kaldığı o çaresiz anda, zamanın en başa, uyandığı ana döndüğünü fark eder. Ancak her döngüde gemideki şartlar değişir; mürettebat sayısı ve kimlikler asla aynı kalmaz. Hem uzayda hem de zamanda kısılı kalan Yuuri, bu döngülerin sırrını çözmek ve insanlığı kurtarmak için her seferinde farklı bir strateji izlemek zorundadır.",
-    "slug": "gnosia"
+    "slug": "gnosia",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Gnosia 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423226"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ctppcvrb39hj"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1m2c85a0"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 2,
+        "title": "Gnosia 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423224"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/utc684osyzgs"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/km3rwim4"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-u4nw4e5hnuez.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 3,
+        "title": "Gnosia 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423227"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/zrvedgouxzkl"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2asb3pos"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 4,
+        "title": "Gnosia 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423228"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/nr99fegdwo87"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/o7j32hr6"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9ojng0guz30m.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 5,
+        "title": "Gnosia 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423229"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/uh3n0gtt8xqu"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/927drbbc"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 6,
+        "title": "Gnosia 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423230"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ecrcl29oshr1"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/t0sal7ov"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 7,
+        "title": "Gnosia 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/tkjzth1r"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 8,
+        "title": "Gnosia 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423231"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/e0vc9lhrhupt"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/msqekcdt"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 9,
+        "title": "Gnosia 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423232"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/tsgu8dce83dj"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/moz8xn3t"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5c3x4mjx0d9u.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 10,
+        "title": "Gnosia 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423233"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/04u033l90i9p"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/mynhojfa"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 11,
+        "title": "Gnosia 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423234"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/qjy7hpgrlfle"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1tdv7bhe"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0ubbkwjg6eit.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 12,
+        "title": "Gnosia 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423235"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/qk2aqr8udp29"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/equ1g6qm"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 13,
+        "title": "Gnosia 13. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423225"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/93df1fhrm5zp"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/lsfu80k2"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 14,
+        "title": "Gnosia 14. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423238"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/sofoh6e07aw4"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/iw6taydi"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gw7ajnbkki9c.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 15,
+        "title": "Gnosia 15. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423239"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ur6zryhyziaa"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ah2ap5vw"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 16,
+        "title": "Gnosia 16. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423240"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/apc2cytu7vvz"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/cffw0fly"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 17,
+        "title": "Gnosia 17. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423241"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/0nfc4cxgd0jw"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/eoxbogb9"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 18,
+        "title": "Gnosia 18. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423242"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/tggzircmtmfw"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/j7ejqtcs"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 19,
+        "title": "Gnosia 19. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423243"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/pdpmd0ajm6xi"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/a2224r3s"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nmcjr9ssru0q.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 20,
+        "title": "Gnosia 20. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423244"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ga4nntrtfje0"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/bijmnf0k"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 694.261,
+            "end": 776.582
+          }
+        },
+        "added_date": "2026-07-26T00:05:49.337341"
+      },
+      {
+        "episode_number": 21,
+        "title": "Gnosia 21. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322423245"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/cw983iporbf8"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4u7u9nfp"
+          }
+        ],
+        "added_date": "2026-07-26T00:05:49.337341"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 60427,
@@ -48,586 +538,162 @@
         ]
       }
     ],
-    "episodes": 21
+    "episodes": 21,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "14. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "15. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "16. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "17. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "18. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "19. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "20. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "21. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 185116,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Gnosia 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423226"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ctppcvrb39hj"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1m2c85a0"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423224"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/utc684osyzgs"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/km3rwim4"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-u4nw4e5hnuez.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423227"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/zrvedgouxzkl"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/2asb3pos"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423228"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/nr99fegdwo87"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/o7j32hr6"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9ojng0guz30m.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423229"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/uh3n0gtt8xqu"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/927drbbc"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423230"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ecrcl29oshr1"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/t0sal7ov"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/tkjzth1r"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423231"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/e0vc9lhrhupt"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/msqekcdt"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423232"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/tsgu8dce83dj"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/moz8xn3t"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5c3x4mjx0d9u.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423233"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/04u033l90i9p"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/mynhojfa"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423234"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/qjy7hpgrlfle"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1tdv7bhe"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0ubbkwjg6eit.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423235"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/qk2aqr8udp29"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/equ1g6qm"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 13. Bölüm",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423225"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/93df1fhrm5zp"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/lsfu80k2"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 14. Bölüm",
-      "episode_number": 14,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423238"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/sofoh6e07aw4"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/iw6taydi"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gw7ajnbkki9c.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 14,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 15. Bölüm",
-      "episode_number": 15,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423239"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ur6zryhyziaa"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ah2ap5vw"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 15,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 16. Bölüm",
-      "episode_number": 16,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423240"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/apc2cytu7vvz"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/cffw0fly"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 16,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 17. Bölüm",
-      "episode_number": 17,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423241"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/0nfc4cxgd0jw"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/eoxbogb9"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 17,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 18. Bölüm",
-      "episode_number": 18,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423242"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/tggzircmtmfw"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/j7ejqtcs"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 18,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 19. Bölüm",
-      "episode_number": 19,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423243"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/pdpmd0ajm6xi"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/a2224r3s"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nmcjr9ssru0q.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 19,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 20. Bölüm",
-      "episode_number": 20,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423244"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ga4nntrtfje0"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/bijmnf0k"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 694.261,
-          "end": 776.582
-        }
-      },
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 20,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Gnosia 21. Bölüm",
-      "episode_number": 21,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322423245"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/cw983iporbf8"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4u7u9nfp"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:05:49.337341",
-      "jikan_mal_id": 21,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 278604,
     "type": "tv",

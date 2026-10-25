@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Dragon Ball Super: Beerus",
-    "slug": "dragon-ball-super-beerus"
+    "slug": "dragon-ball-super-beerus",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63367,
@@ -47,6 +48,15 @@
           30694
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The God Who Destroys",
+        "aired": "Oct 11, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -55,18 +65,6 @@
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg"
   },
   "synopsis_tr": "Birkaç yıl önce başlatılan bir proje olan Dragon Ball Super: Beerus, anime Dragon Ball Super'in yeni GELİŞTİRİLMİŞ sürümüdür. En son görsel ifadeyle GELİŞTİRİLEN her sahne, özellikle de savaş sahneleri daha da sürükleyicidir; Akira Toriyama'nın orijinal eserinin daha aslına sadık ve ayrıntılı bir reprodüksiyonunu sağlar ve izleyicileri kesinlikle tatmin edecek bir kalite sunar.(Kaynak: Resmi web sitesi)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "The God Who Destroys",
-      "episode_number": 1,
-      "aired": "Oct 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-17T07:44:44.210353"
-    }
-  ],
   "tmdb": {
     "id": 312359,
     "type": "tv",

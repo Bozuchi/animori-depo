@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "New York'ta Kelle Avcılığı yapmakta olan Hard, ayrıldığı eşine nafaka ödemelerinde bile sıkıntı yaşamaya başlamıştır. Son görevinde Kelle'yi Amerikalı Tyrone'ye kaptıran Hard çok üzelse de, arkadaşı Tyrone'un ölümünden haberdar olur ve bu olayın çözülmesiiçin son görevine çoktan başlamıştır bile...",
-    "slug": "bounty-hunter-the-hard"
+    "slug": "bounty-hunter-the-hard",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4522,
@@ -46,54 +47,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4522,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4522-CvCrtd13bl5L.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Bounty Hunter: The Hard",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 56,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GRsElnOsnDUVHg3yOczvwzjvMHT3HmuX/preview"
-        },
-        {
-          "fansub_id": 56,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388378185"
-        },
-        {
-          "fansub_id": 56,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4505060"
-        },
-        {
-          "fansub_id": 56,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1899649"
-        },
-        {
-          "fansub_id": 56,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rb0ss01381fi.html"
-        },
-        {
-          "fansub_id": 56,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-uu90kor8idef.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T06:59:23.115930",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

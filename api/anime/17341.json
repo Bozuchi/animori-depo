@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Aoi Yukimura ve arkadaşları yeni bir mücadeleye girişmeye karar verirler: dağ tırmanışı! Bununla birlikte duvarın görüntüsü, yüksekliği ve karmaşıklığı Aoi'yi telaşlandırır. Duvar her ne kadar korkutucu ve aşılmaz görünse de Aoi arkadaşlarından biraz yardım alarak bu zorluğun üstesinden gelebileceğini fark eder.",
-    "slug": "yama-no-susume-kabe-tte-kowakunai-no"
+    "slug": "yama-no-susume-kabe-tte-kowakunai-no",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 17341,
@@ -59,54 +60,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 17341,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17341-bhIn7JZDrtQD.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Yama no Susume OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/246.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/kuramaun2/video/embed/_myvideo/41"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1475470"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2728009"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3888639"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-awqxrsuygeeq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T17:29:54.544774",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

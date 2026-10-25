@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Gece, şehrin ışıkları kararmaya başladığında, dikkatli gözler aralarda kalmış işaretleri görebilir: O, To, Ko, Yo. İşaretler, onları takip edeni şehrin kimsenin gitmediği bir bölgesine götürecektir. Burada çocuklar saklambaç oynar ve söylendiğine göre burada oynayan çocuklardan bir daha haber alınamamıştır.\n\nBu gece oyuna 8 çocuk katılmıştır. Hepsi zorunlu olarak tilki maskeleri takan çocuklar, zamanı geldiğinde açılan kapıdan geçerek oyuna başlarlar.",
-    "slug": "kakurenbo"
+    "slug": "kakurenbo",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1192,
@@ -39,76 +40,14 @@
       381
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1192,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1192-rVDQZAHn6zxB.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kakurenbo",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/u1yds9ryzl70"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Yc_SALSwyjDcr2fIAaryRIVuiLIPE1wz/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271189701"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715106"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4461723"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1482620"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xnwjfnxdi36k.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/52xdbsbn"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/a14sxvqp"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fx8guzw7p60n.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T23:09:46.712433",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 27812,
     "type": "movie",

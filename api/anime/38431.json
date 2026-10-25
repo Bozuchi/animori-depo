@@ -4,7 +4,78 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Persona 5 The Animation'un sonrasını anlatan devam yayınıdır.",
-    "slug": "persona-5-the-animation-tv-specials"
+    "slug": "persona-5-the-animation-tv-specials",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Persona 5 the Animation TV Specials 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 24,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QvwTz8NxNWjHlmeCAZJeLBKO6nEQJAWQ/preview"
+          },
+          {
+            "fansub_id": 24,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850484"
+          },
+          {
+            "fansub_id": 24,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4434004"
+          },
+          {
+            "fansub_id": 24,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3999225"
+          },
+          {
+            "fansub_id": 24,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/807v74jc"
+          },
+          {
+            "fansub_id": 24,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-k0uygdddtllx.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:31:10.861762"
+      },
+      {
+        "episode_number": 2,
+        "title": "Persona 5 the Animation TV Specials 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 24,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1y7ql0wWzx-e__ZmhJiGW6KV8DaZ5rHFr/preview"
+          },
+          {
+            "fansub_id": 24,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850485"
+          },
+          {
+            "fansub_id": 24,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4003138"
+          },
+          {
+            "fansub_id": 24,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4434011"
+          },
+          {
+            "fansub_id": 24,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xdyuihjx"
+          }
+        ],
+        "added_date": "2026-07-29T01:31:10.861762"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38431,
@@ -53,92 +124,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 106169,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106169-jii7ZYqMJC1u.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106169-rEwOrZZvg48z.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Persona 5 the Animation TV Specials 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 24,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1QvwTz8NxNWjHlmeCAZJeLBKO6nEQJAWQ/preview"
-        },
-        {
-          "fansub_id": 24,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850484"
-        },
-        {
-          "fansub_id": 24,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4434004"
-        },
-        {
-          "fansub_id": 24,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3999225"
-        },
-        {
-          "fansub_id": 24,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/807v74jc"
-        },
-        {
-          "fansub_id": 24,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-k0uygdddtllx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:31:10.861762",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Persona 5 the Animation TV Specials 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 24,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1y7ql0wWzx-e__ZmhJiGW6KV8DaZ5rHFr/preview"
-        },
-        {
-          "fansub_id": 24,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850485"
-        },
-        {
-          "fansub_id": 24,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4003138"
-        },
-        {
-          "fansub_id": 24,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4434011"
-        },
-        {
-          "fansub_id": 24,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/xdyuihjx"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:31:10.861762",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 77701,
     "type": "tv",

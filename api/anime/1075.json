@@ -4,7 +4,31 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Netrunner dergisi ofisinde, çalışanlar uyurken teslim tarihine yetişmesi gereken işleri tamamlamak üzere BB Runner ve kız kardeşi Ranna adında iki ördek figürü (derginin orijinal maskotları) ortaya çıkar. Onlar ofiste harıl harıl çalışırken, Japonya'nın efsanevi internet forumu 2channel ve Futaba Channel gibi platformlardan doğmuş, internet kültürünün simgesi haline gelmiş çeşitli anime maskotları ve \"tan\" karakterleri bir bir hikayeye dahil olur.\n\nBaşta büyü yeteneklerine sahip 12 yaşındaki melek Chiyu olmak üzere, KFC maskotundan esinlenen Biscuit-tan, masaüstü asistan programından fırlayan Nin'i-tan gibi popüler siber figürler BB Runner'ı kendi fantastik dünyalarına çekerler. Karakterler bu dijital ve absürt evrende bir araya gelerek, \"The Master\" adındaki gizemli bir düşmanın kontrol ettiği android lise kızlarına (Junkies) karşı mücadele eder ve internet dünyasını kaostan kurtarmaya çalışırlar.",
-    "slug": "netrun-mon-the-movie"
+    "slug": "netrun-mon-the-movie",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Netrun-mon the Movie 1. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/7atowbo0pe1n"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kip54gebd8ei.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wbzlo92hctju.html"
+          }
+        ],
+        "added_date": "2026-07-27T15:51:45.080625"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1075,
@@ -39,41 +63,14 @@
       101
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1075,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1075.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Netrun-mon the Movie 1. Bölüm Final",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/7atowbo0pe1n"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kip54gebd8ei.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wbzlo92hctju.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T15:51:45.080625",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 679068,
     "type": "movie",

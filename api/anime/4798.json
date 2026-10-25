@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Druaga no Tou: The Aegis of Uruk animesinin özel bölümüdür.",
-    "slug": "druaga-no-tou-the-aegis-of-uruk-jil-no-bouken"
+    "slug": "druaga-no-tou-the-aegis-of-uruk-jil-no-bouken",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4798,
@@ -44,74 +45,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4798,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4798.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Druaga no Tou: The Aegis of Uruk - Jil no Bouken Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667956"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1549481"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762176"
-        },
-        {
-          "fansub_id": 46,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0vvr5ojpjvd4.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Scwk1bfZIqEuhqnvlJSg-qUHFax-83iR/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377782"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4496626"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-053jb64rf6tv.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/whxb7did"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bosexp1396mv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:31:03.860913",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

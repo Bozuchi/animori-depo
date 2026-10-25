@@ -4,7 +4,36 @@
     "puan": "0.00",
     "bolum_durumu": "1/12",
     "ozet": "Haru Shirogane sürekli olarak Taiga tarafından zorbalığa uğrayan zayıf kişilikli biridir. Bir gece ikisi, en güçlü XB (Extreme Baseball) oyuncusu ve Minato Çetesi'nin lideri olan Shun Kamiya ile buluşur. Karşılaştıklarında, Neo-Tokyo'ya dağılmış Kabilelerin her biri büyük bir tehditle karşı karşıya kalmak üzeredir. Neo-Tokyo Kralı'nın emriyle, gizemli Ojiro Otori liderliğindeki Chiyoda Çetesi'nden\"Houtenshin\" ülkedeki tüm çetelerin kontrolünü ele geçirmeye başlamıştır. Şeytani pençeleri Minato Çetesi'ne ulaşmak üzere...",
-    "slug": "tribe-nine"
+    "slug": "tribe-nine",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Tribe Nine 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 73,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sBnYW3MZXE1hjBasNl9JWvIkJAzeFRch/preview"
+          },
+          {
+            "fansub_id": 73,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4586596"
+          },
+          {
+            "fansub_id": 73,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8h8iug5qnh32.html"
+          },
+          {
+            "fansub_id": 73,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vchxerux4qwt.html"
+          }
+        ],
+        "added_date": "2026-07-29T18:18:15.447328"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49969,
@@ -39,46 +68,22 @@
       839
     ],
     "relations": [],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 139804,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139804-5f7jL4NIEeQQ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139804-kpZVaUQvisjl.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tribe Nine 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 73,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sBnYW3MZXE1hjBasNl9JWvIkJAzeFRch/preview"
-        },
-        {
-          "fansub_id": 73,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4586596"
-        },
-        {
-          "fansub_id": 73,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-8h8iug5qnh32.html"
-        },
-        {
-          "fansub_id": 73,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vchxerux4qwt.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:18:15.447328",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 135292,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/15",
     "ozet": "Asırlar önce Yuugi'nin yenmiş olduğu şeytani Anubis tekrar uyanmıştır. Bu sırada Seto Kaiba hâlâ Yuugi ile karşılaşmak için yanıp tutuşmaktadır. Fakat Yuugi artık üç eski Mısır Tanrı kartına da sahiptir. Bunun üzerine Kaiba kartların yaratıcısı Maximillion Pegasus'un kalesine giderek O'na meydan okur. Kaiba, Pegasus'un Tanrı kartlarını yenebilmek için başka kartlarda yarattığını düşünmektedir. Düello'yu Kaiba kazanır ve Pegasus, Yuugi'nin elinde bulunan Tanrı kartlarını yenebilmek için gereken kartı O'na vermeye razı olur. Fakat kartlardan birine şeytani Anubis de sızmıştır. Artık tek amacı Yuugi'den intikam almak ve dünyayı ele geçirmektir.",
-    "slug": "yu-gi-oh-hikari-no-pyramid"
+    "slug": "yu-gi-oh-hikari-no-pyramid",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1894,
@@ -55,41 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1894,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1894-h1wdlOMVyVBT.png",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1894-nlcjWCg67TPF.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yu☆Gi☆Oh!: Hikari no Pyramid (İngilizce Dublaj)",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10GjNADAkugbTQL9QLKzkeleCCvaoQn-F/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4516753"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-71ol5muvq7yt.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T19:25:01.574029",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 902,
     "type": "tv",

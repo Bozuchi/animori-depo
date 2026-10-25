@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/16",
     "ozet": "Ailesinin siyasi entrikalara kurban gitmesinin ardından Li Chang Ge intikam almak için kılık değiştirir ve kabile prensi Ashina Sun ile ittifak kurar.",
-    "slug": "chang-ge-xing"
+    "slug": "chang-ge-xing",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 60567,
@@ -47,7 +48,8 @@
         ]
       }
     ],
-    "episodes": 16
+    "episodes": 16,
+    "episode_list": []
   },
   "anilist": {
     "id": 141867,

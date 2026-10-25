@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Evangelion 30. Yıldönümü özel animasyonu.",
-    "slug": "evangelion-housou-30-shuunen-kinen-tokubetsu-kougyou"
+    "slug": "evangelion-housou-30-shuunen-kinen-tokubetsu-kougyou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63392,
@@ -48,39 +49,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 204270,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204270-jOPuFBm48K8s.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204270-6uMH5dFbyQPw.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Evangelion: Housou 30-shuunen Kinen Tokubetsu Kougyou Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 161,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/z6p0zfqoxtp0"
-        },
-        {
-          "fansub_id": 161,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/iipn7i6y"
-        },
-        {
-          "fansub_id": 161,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kzktkgv5vij8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T00:29:57.719654",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

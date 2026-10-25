@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Orijinal TV serisinin sıkışık yayın takvimi nedeniyle yayınlanamayan popüler manga bölümlerini bir araya getiren bu yapım, 3-E sınıfının Korosensei ile geçirdiği unutulmaz, eğlenceli ve aksiyon dolu anlara odaklanıyor. Öğrencilerin suikast eğitimleri sırasında yaşadıkları gözden kaçan komik olaylar, sınıf içi etkileşimler ve Korosensei'nin sıra dışı rehberlik yöntemleri yepyeni ve genişletilmiş sahnelerle izleyiciye sunuluyor. Ana hikayenin duygusal akışını tamamlayan bu özel film, 3-E sınıfının okul hayatına ve Korosensei ile olan benzersiz bağlarına eğlenceli bir ekstra parantez açıyor.",
-    "slug": "ansatsu-kyoushitsu-movie-minna-no-jikan"
+    "slug": "ansatsu-kyoushitsu-movie-minna-no-jikan",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 62421,
@@ -54,31 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 198373,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198373-bJ7PYyknp4ln.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ansatsu Kyoushitsu Movie: Minna no Jikan Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/af096lcxp2u5"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-13T02:06:57.247446",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1542877,
     "type": "movie",

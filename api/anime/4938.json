@@ -4,7 +4,88 @@
     "puan": "7.29",
     "bolum_durumu": "2/2",
     "ozet": "CLAMP'ın Tsubasa Chronicle serisinden uyarlanacak olan yeni OVA'dır. xxxHOLIC Shunmuki ile bağlantılıdır.",
-    "slug": "tsubasa-shunraiki"
+    "slug": "tsubasa-shunraiki",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Tsubasa Shunraiki 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13YvBm2GCjd3S9pfN5tX4ebia5NFeGEbp/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851724"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/686.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2639639"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4440203"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1630349"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-byd0ddthn7zs.html"
+          }
+        ],
+        "added_date": "2026-07-29T18:30:26.493621"
+      },
+      {
+        "episode_number": 2,
+        "title": "Tsubasa Shunraiki 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15xFagolRgSJbOut06xTbJl_nno6-I0KL/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851725"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/687.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2639641"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4440204"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1630353"
+          }
+        ],
+        "added_date": "2026-07-29T18:30:26.493621"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4938,
@@ -61,102 +142,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 4938,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4938-cfKO9S2kFuJz.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4938.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tsubasa Shunraiki 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13YvBm2GCjd3S9pfN5tX4ebia5NFeGEbp/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851724"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/686.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2639639"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4440203"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1630349"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-byd0ddthn7zs.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:30:26.493621",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tsubasa Shunraiki 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15xFagolRgSJbOut06xTbJl_nno6-I0KL/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851725"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/687.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2639641"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4440204"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1630353"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:30:26.493621",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 37565,
     "type": "tv",

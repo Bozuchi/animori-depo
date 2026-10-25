@@ -4,7 +4,88 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Hikâye 1930'ların Avrupasında, Gallia adlı bir ülkede geçer. Ragnite cevheri adlı çok güçlü bir enerji kaynağının bolca bulunduğu Gallia, bu yüzden Doğu Avrupa İmparatorluğu İttifak birliklerinin saldırısına uğramıştır. Bu birlikler bir yandan da Atlantic Federasyonu ile savaş içindedir. Tüm bunlar içinde bir grup Gallian uyruklu insan ayaklanarak istilaya karşı çıkacaktır...",
-    "slug": "senjou-no-valkyria-3-tagatame-no-juusou"
+    "slug": "senjou-no-valkyria-3-tagatame-no-juusou",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Senjou no Valkyria 3 : Tagatame no Juusou 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1RDG6T9U2YzYUH8p1VDVz5vS24Gj3azMF/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eUkVSF0m9rvc8ObJ7FR8G0gUwByWOIqo/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909558"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1414509"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521100"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5zw0uweipv9f.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0pi2eykif30t.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:50:16.731902"
+      },
+      {
+        "episode_number": 2,
+        "title": "Senjou no Valkyria 3 : Tagatame no Juusou 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OxpooXdEYh1T92r8GtAqrry5g_2Pcfr-/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845717"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852270"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4064489"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4442178"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8hwxkerknleq.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:50:16.731902"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9793,
@@ -46,102 +127,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 9793,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9793.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Senjou no Valkyria 3 : Tagatame no Juusou 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RDG6T9U2YzYUH8p1VDVz5vS24Gj3azMF/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eUkVSF0m9rvc8ObJ7FR8G0gUwByWOIqo/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931909558"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1414509"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4521100"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5zw0uweipv9f.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0pi2eykif30t.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:50:16.731902",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Senjou no Valkyria 3 : Tagatame no Juusou 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1OxpooXdEYh1T92r8GtAqrry5g_2Pcfr-/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845717"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852270"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4064489"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4442178"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-8hwxkerknleq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:50:16.731902",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 24392,
     "type": "tv",

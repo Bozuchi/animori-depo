@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Shuiro no Kamen",
-    "slug": "shuiro-no-kamen"
+    "slug": "shuiro-no-kamen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 61999,
@@ -49,6 +50,22 @@
           158881
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Peru the Mask Maker",
+        "aired": "Oct 10, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Mask of the War God",
+        "aired": "Oct 17, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -63,27 +80,5 @@
     "episode_offset": 0,
     "name": "The Vermilion Mask"
   },
-  "synopsis_tr": "Maske felaket getirir. Maske katliamdan keyif alıyor. Maskenin kendine ait bir iradesi var... Gezici bir maske tüccarı olan Peru, kullanıcılarına benzersiz güçler veren gizemli maskeler üretme yeteneğine sahip. Ürkütücü bir atmosfere bürünmüş bir şehirde gizemli bir genç kız olan Sonah ile karşılaşır. Vahiyler ortaya çıktıkça ve iç çatışmalar ortaya çıktıkça genç bir çocuk ileriye doğru ilk adımlarını atıyor! Kendinizi heyecan verici bir maske savaşı fantezisine kaptırın!(Kaynak: Orange Inc.)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Peru the Mask Maker",
-      "episode_number": 1,
-      "aired": "Oct 10, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-14T08:38:51.502765"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "The Mask of the War God",
-      "episode_number": 2,
-      "aired": "Oct 17, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-21T08:30:25.428355"
-    }
-  ]
+  "synopsis_tr": "Maske felaket getirir. Maske katliamdan keyif alıyor. Maskenin kendine ait bir iradesi var... Gezici bir maske tüccarı olan Peru, kullanıcılarına benzersiz güçler veren gizemli maskeler üretme yeteneğine sahip. Ürkütücü bir atmosfere bürünmüş bir şehirde gizemli bir genç kız olan Sonah ile karşılaşır. Vahiyler ortaya çıktıkça ve iç çatışmalar ortaya çıktıkça genç bir çocuk ileriye doğru ilk adımlarını atıyor! Kendinizi heyecan verici bir maske savaşı fantezisine kaptırın!(Kaynak: Orange Inc.)"
 }

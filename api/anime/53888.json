@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "İşinin eri bir casus olan Loid Forger, amiri tarafından Strix Operasyonu görevinden alınabileceği konusunda uyarılır. Pozisyonunu korumak için operasyonun hedefleri doğrultusunda önemli bir ilerleme kaydetmesi gerekmektedir ve bu hedefler arasında kızı Anya'nın İmparatorluk Bilgesi olmak için yeterli Stella Yıldızı kazanması da vardır. Ta ki Anya dünya barışını tehlikeye atana dek...",
-    "slug": "spy-x-family-movie-code-white"
+    "slug": "spy-x-family-movie-code-white",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 53888,
@@ -65,25 +66,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 158928,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158928-7j4JK7pGvZnZ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158928-xqE0euKlQMnY.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Spy x Family Movie: Code: White",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:16:00.087480",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1062807,
     "type": "movie",

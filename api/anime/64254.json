@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Hyouken no Majutsushi ga Sekai wo Suberu II",
-    "slug": "hyouken-no-majutsushi-ga-sekai-wo-suberu-ii"
+    "slug": "hyouken-no-majutsushi-ga-sekai-wo-suberu-ii",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 64254,
@@ -49,6 +50,22 @@
           135542
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Boy Who Is the World's Strongest Sorcerer Participates in a Large Scale Magic Battle Tournament",
+        "aired": "Oct 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Boy Who Is the World’s Strongest Sorcerer Dons a Mask",
+        "aired": "Oct 16, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -63,27 +80,5 @@
     "episode_offset": 0,
     "name": "Hyouken no Majutsushi ga Sekai wo Suberu"
   },
-  "synopsis_tr": "Hyouken no Majutsushi ga Sekai wo Suberu'nun ikinci sezonu.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "The Boy Who Is the World's Strongest Sorcerer Participates in a Large Scale Magic Battle Tournament",
-      "episode_number": 1,
-      "aired": "Oct 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-09T10:27:29.172952"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "The Boy Who Is the World’s Strongest Sorcerer Dons a Mask",
-      "episode_number": 2,
-      "aired": "Oct 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:47:38.850744"
-    }
-  ]
+  "synopsis_tr": "Hyouken no Majutsushi ga Sekai wo Suberu'nun ikinci sezonu."
 }

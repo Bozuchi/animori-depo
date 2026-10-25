@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Futuristik şehrin bir köşesine sıkışmış ninja evinde yaşayan klanının en büyük kızı Rikka, babasına çok hayranlık duyuyor. Hayatı normal bir şekilde devam ederken, eve geldiğinde birden kendisini saldırı altında bulur. Köşeye sıkışmışken bu krizi atlatmak için ne yapmalıdır? Karanlığı parçalarına ayır ve \"SİYAH\" ol!",
-    "slug": "black-fox"
+    "slug": "black-fox",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37498,
@@ -36,96 +37,14 @@
       1127
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101317,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n101317-pJFDL6aw1YpO.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101317-WZpZb6FNXF29.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Black Fox Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 165,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1D8nOfxSfx29e5-LlFKPOV2gp2tqeZ3Va/preview"
-        },
-        {
-          "fansub_id": 165,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368493"
-        },
-        {
-          "fansub_id": 165,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-imsqisqkyu0x.html"
-        },
-        {
-          "fansub_id": 31,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dUGQAKZmEm5hI5HJoddcJdRRPkFRu6e1/preview"
-        },
-        {
-          "fansub_id": 31,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/193WWnOyqFcHf77iYW43KleUNZmKoB10e/preview"
-        },
-        {
-          "fansub_id": 31,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368494"
-        },
-        {
-          "fansub_id": 31,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4646549"
-        },
-        {
-          "fansub_id": 31,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6z5onpqhnjc0.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BbT5yC_a2C5SB4njl3mhu1jL3hvhALZN/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368495"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6605"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-jg0pxhdyhpr0.html"
-        },
-        {
-          "fansub_id": 23,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271197190"
-        },
-        {
-          "fansub_id": 23,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/8275262434374058046"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T05:13:51.671688",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 609202,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Uzaktan teknolojik geleceğin medeniyeti, nihai Net tabanlı formuna ulaşmıştır. Geçmişte bir \"enfeksiyon\", otomatik sistemlerin düzensizleşmesine neden olmakta ve böylece çok yönlü bir şehir yapısı ortaya çıkmakta, bu da her yönden sonsuz derecede kendini çoğalmaktadır. Artık insanlık şehrin kontrollerine erişimi kaybetti ve Avlanma ve Korunma olarak bilinen savunma sistemi tarafından temizlendi. Şehrin küçük bir köşesinde, Electro-Fishers olarak bilinen küçük bir enklav, nihai yok oluşla karşı karşıya; Safeguard'ın tehdidi ile giderek azalan gıda kaynakları arasında sıkışıyor. \n\nZuru adlı bir kız, köyü için yiyecek bulmak için yolculuğa çıkıyor, sadece bir gözlem kulesi onu algıladığında ve kazayı ortadan kaldırmak için bir Safeguard paketini çağırdığında, yanlışlıkla yargılanmasına neden oluyor. Yoldaşları öldü ve tüm kaçış yolları engellendiğinde, şimdi onu kurtarabilecek tek şey Killy the Wanderer'ın, Net Terminal Genleri arayışı üzerine ani bir geliş olması, bu da dünyaya emri geri getirmenin anahtarıydı.",
-    "slug": "blame-movie"
+    "slug": "blame-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 32086,
@@ -57,66 +58,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21498,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21498-dlR9pRJKKicx.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21498-8GWg2HVFdShU.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Blame! Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372651"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/s46pref7idar"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dI45htUIU_cqq8z9qBncx7S4KFsm-k93/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vyWbhlr5VjMGYPQxc7PYqLemWlIGWrx1/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685364447"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/1723"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4527544"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-dgaddyg9hyau.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T05:22:44.935484",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 94936,
     "type": "tv",

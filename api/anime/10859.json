@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Anime idol bir kız topluluğu olan AGC38'i konu alıyor.Musashi Asahigaoka kızları, akademiye katılmak için hazırlar.",
-    "slug": "sorette-dakara-ne"
+    "slug": "sorette-dakara-ne",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10859,
@@ -36,23 +37,12 @@
       406
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10859,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10859.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Sorette Dakara ne! ONA",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T11:33:32.062949",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

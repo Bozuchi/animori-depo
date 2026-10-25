@@ -4,7 +4,8 @@
     "puan": "7.19",
     "bolum_durumu": "1/1",
     "ozet": "Momo 11 yaşında babasını kaybetmiştir. Babasının ölümü nedeniyle, Momo ve annesi Tokyo'dan ayrılmış ve Setouchi isimli küçük bir adada bulunan eski aile evine taşınmışlardır. Momo, rahmetli babası tarafından yazılmış ama bitmemiş bir mektup alır. Mektup sadece ''Momo'ya'' kelimesini içeriyordur. Momo'nun aklı babasının ne anlatmak istediği soruları ile doludur ve ayrıca o küçük bir adadaki hayata alışmakta zorluk çekiyordur.\n\nDaha sonra Momo kaldığı evin tavan arasında bir kitap bulur ve bu kitap onu macera dolu yeni bir dünyaya götürür.",
-    "slug": "momo-e-no-tegami"
+    "slug": "momo-e-no-tegami",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10389,
@@ -45,46 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10389,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10389-kHDDhvOUNsXm.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10389-NMYFKRxI1WwJ.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Momo e no Tegami Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 192,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rEhBTRlGO9G5_B1zPECMwgi3GZmQKCOP/preview"
-        },
-        {
-          "fansub_id": 192,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/sweetparade/video/embed/_myvideo/2044"
-        },
-        {
-          "fansub_id": 192,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016648"
-        },
-        {
-          "fansub_id": 192,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-x9htmtls7n00.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:53:33.789170",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 100271,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bu seride bol bol moe karakteri görüyoruz, seri de bir bilim kadınının yani Profesör Lamp’n yapmış olduğu icat ile o icadın başlarına neler açtıklarını göreceğiz. Tek bölümlük bu anime de, karakterlerimiz bol bol kıyafet değiştiriyor, sebebiyse bahsettiğim bilim kadını “Lamp”ın icadıdır.",
-    "slug": "ai-mai-moe-can-change"
+    "slug": "ai-mai-moe-can-change",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 12501,
@@ -37,49 +38,12 @@
       61
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 12501,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12501.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ai Mai! Moe Can Change!",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 76,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qWjcU1KyhnBZ61he6tUfimyjwbudRiBs/preview"
-        },
-        {
-          "fansub_id": 76,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366472"
-        },
-        {
-          "fansub_id": 76,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4522289"
-        },
-        {
-          "fansub_id": 76,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/65bvx3kx"
-        },
-        {
-          "fansub_id": 76,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qti0fvhyhv7n.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:33:46.074372",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

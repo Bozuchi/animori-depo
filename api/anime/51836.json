@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Douluo Dalu II: Jueshi Tangmen",
-    "slug": "douluo-dalu-ii-jueshi-tangmen"
+    "slug": "douluo-dalu-ii-jueshi-tangmen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 51836,
@@ -63,6 +64,43 @@
           63497
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Huo Yuhao",
+        "aired": "Jun 24, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "One Million Year Soul Ring",
+        "aired": "Jun 24, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 139,
+        "title": "Episode 139",
+        "aired": "Feb 7, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 157,
+        "title": "Episode 157",
+        "aired": "Jun 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 170,
+        "title": "Episode 170",
+        "aired": "Sep 12, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -70,57 +108,5 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137683-IMuvIECdZNBh.png"
   },
-  "synopsis_tr": "Bu yerde sihir yok, savaş aurası yok, dövüş sanatı yok ama Dövüş Ruhları var. Douluo Kıtasında, Tang Tarikatı'nın kuruluşundan on bin yıl sonra Tang Tarikatı geriledi. Yeni nesil dahiler ortaya çıkıyor, yeni Shrek Yedi Şeytan, Tang Tarikatını yeniden canlandırıp Tang Tarikatının destansı bir şarkısını besteleyebilecek mi? Milyon yıllık ruh canavarları, güneşi ve ayı kavrayan, gökten yıldızları toplayan Necromancer Aziz Tanrısı ve Tang Tarikatı'nın çöküşüne yol açan yepyeni bir ruh aracı sistemi. Tüm harikalar ortaya çıkacak. Tang Tarikatı'nın gizli silahları eski ihtişamına kavuşabilecek mi? Tang Tarikatı eski ihtişamıyla yeniden ortaya çıkabilecek mi?(Kaynak: Tencent, çevrildi)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Huo Yuhao",
-      "episode_number": 1,
-      "aired": "Jun 24, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:18.892830"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "One Million Year Soul Ring",
-      "episode_number": 2,
-      "aired": "Jun 24, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:18.892830"
-    },
-    {
-      "turkanime_title": "139. Bölüm",
-      "title": "Episode 139",
-      "episode_number": 139,
-      "aired": "Feb 7, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:18.892830"
-    },
-    {
-      "turkanime_title": "157. Bölüm",
-      "title": "Episode 157",
-      "episode_number": 157,
-      "aired": "Jun 13, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:18.892830"
-    },
-    {
-      "turkanime_title": "170. Bölüm",
-      "title": "Episode 170",
-      "episode_number": 170,
-      "aired": "Sep 12, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:18.892830"
-    }
-  ]
+  "synopsis_tr": "Bu yerde sihir yok, savaş aurası yok, dövüş sanatı yok ama Dövüş Ruhları var. Douluo Kıtasında, Tang Tarikatı'nın kuruluşundan on bin yıl sonra Tang Tarikatı geriledi. Yeni nesil dahiler ortaya çıkıyor, yeni Shrek Yedi Şeytan, Tang Tarikatını yeniden canlandırıp Tang Tarikatının destansı bir şarkısını besteleyebilecek mi? Milyon yıllık ruh canavarları, güneşi ve ayı kavrayan, gökten yıldızları toplayan Necromancer Aziz Tanrısı ve Tang Tarikatı'nın çöküşüne yol açan yepyeni bir ruh aracı sistemi. Tüm harikalar ortaya çıkacak. Tang Tarikatı'nın gizli silahları eski ihtişamına kavuşabilecek mi? Tang Tarikatı eski ihtişamıyla yeniden ortaya çıkabilecek mi?(Kaynak: Tencent, çevrildi)"
 }

@@ -4,7 +4,8 @@
     "puan": "8.58",
     "bolum_durumu": "1/1",
     "ozet": "Hikaye 1963 yılında Yokohama'da geçmektedir. Kokuriko malikanesi limana hakim bir tepede bulunuyordu. 16 yaşındaki bir kız, Umi, o evde yaşıyordu. Her sabah denize karşı bir işaret bayrağı dikiyordu. Bayrağın anlamı “güvenli seferler dilerim“di. 17 yaşındaki bir çocuk, Shun, bir romorkörle okula giderken her zaman bu bayrağı görüyordu.\n\nGelecek yıl yapılacak olan Tokyo Olimpiyatları için yapılan hazırlıklarda, insanlar eski olan her şeyi yok ediyor ve sadece yeni şeylerin görkemine inanıyorlardı. Bu sıralarda Yokohoma'da bir lisede küçük bir mücadele meydana geldi. Kültür kulubünün Quarter Latin lakaplı binası eskiydi ama aynı zamanda tarih ve hatıralarla doluydu. Yıkılmalı mıydı yoksa korunmalı mı? Bu olanların tam ortasında Umi ve Shun karşılaşırlar. Shun binanın korunmasını isteyen öğrencilere itiraz eder. Umi binanın güzel yanlarını ön plana çıkarmak için büyük çaplı bir temizlik yapılmasını önerir.\n\nGitgide birbirlerine yakınlaşırlar ancak aniden bir durumla karşılaşırlar. Kardeş olabilme ihtimalleri vardır. Buna rağmen gerçeklerden kaçmadan hayatlarına devam ederler. Daha sonra savaşın ortasında ve sonrasında, ebeveynlerinin nasıl tanıştıklarını, aşık olduklarını ve yaşadıklarını öğrenirler.",
-    "slug": "coquelicot-zaka-kara"
+    "slug": "coquelicot-zaka-kara",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10029,
@@ -49,66 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10029,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10029-U4tY2KezjAc5.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10029-R7iZdjWuzeYq.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Coquelicot-zaka kara",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845921"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7ml1enqg"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5uequmcdzxqz.html"
-        },
-        {
-          "fansub_id": 31,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1aR-XJt5ic1TOv7E1KCXdJo6hs0ROdDjd/preview"
-        },
-        {
-          "fansub_id": 31,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/bcykn/video/embed/_myvideo/207"
-        },
-        {
-          "fansub_id": 31,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852418"
-        },
-        {
-          "fansub_id": 31,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/81p1j6av"
-        },
-        {
-          "fansub_id": 31,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mbmtal067euf.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:30:38.835761",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 83389,
     "type": "movie",

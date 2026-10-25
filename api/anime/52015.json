@@ -4,7 +4,36 @@
     "puan": "0.00",
     "bolum_durumu": "1/22",
     "ozet": "Yofukashi no Uta animesinin Twitter'da yayımlanan kısa eğlenceli bölümleri.",
-    "slug": "yofukashi-no-uta-mini"
+    "slug": "yofukashi-no-uta-mini",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Yofukashi no Uta Mini 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1c4N_5Ly-zFjo1ROtrp3NIK979PrSOfmf/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4748163"
+          },
+          {
+            "fansub_id": 43,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/zlyeca0a"
+          },
+          {
+            "fansub_id": 43,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vl4gvs9xo8bq.html"
+          }
+        ],
+        "added_date": "2026-07-30T18:19:55.496923"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 52015,
@@ -43,44 +72,12 @@
         ]
       }
     ],
-    "episodes": 22
+    "episodes": 22,
+    "episode_list": []
   },
   "anilist": {
     "id": 150583,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Yofukashi no Uta Mini 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 43,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1c4N_5Ly-zFjo1ROtrp3NIK979PrSOfmf/preview"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4748163"
-        },
-        {
-          "fansub_id": 43,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/zlyeca0a"
-        },
-        {
-          "fansub_id": 43,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vl4gvs9xo8bq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:19:55.496923",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

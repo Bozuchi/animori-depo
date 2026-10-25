@@ -4,7 +4,8 @@
     "puan": "8.18",
     "bolum_durumu": "1/1",
     "ozet": "Bir noel arifesinde evsiz, orta yaşlı alkolik Gin, travesti Hana ve evinden kaçan lise öğrencisi Miyuki çöpleri karıştırırken bir bebek bulurlar.\n\nHer zaman anne olma hayalini kurmuş olan Hana bebeğin Tanrı tarafından kendilerine gönderilen bir hediye olduğuna inanır ve diğerlerini de bebeğe bakmak ve bebeğin annesini bulmak üzere ikna eder.\n\nÜç evsiz vaftiz babası, Tokyo'nun uçsuz bucaksız sokaklarında bebeğin ailesini aradıkları yolculuklarında kendi geçmişleri ile yüzleşecekleri olaylarla karşılaşırlar.",
-    "slug": "tokyo-godfathers"
+    "slug": "tokyo-godfathers",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 759,
@@ -41,41 +42,14 @@
       11
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 759,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/759-WE1Y5uCZ3Vv7.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx759-XSKBju6xutdR.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tokyo Godfathers",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UM1nzZYJVUsvKY0AGft2nagaqI6_dqgc/preview"
-        },
-        {
-          "fansub_id": 78,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016039"
-        },
-        {
-          "fansub_id": 78,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wvquguvey6w3.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T17:12:38.808204",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 13398,
     "type": "movie",

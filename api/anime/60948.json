@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
-    "slug": "mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai"
+    "slug": "mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 60948,
@@ -45,6 +46,29 @@
           131650
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "First Space Colony Visit",
+        "aired": "Oct 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Mimi the Girl",
+        "aired": "Oct 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Elma",
+        "aired": "Oct 18, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -59,37 +83,5 @@
     "episode_offset": 0,
     "name": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
   },
-  "synopsis_tr": "Sato Takahiro, bir uzay gemisinde uyandığı güne kadar sıradan bir ofis çalışanı ve oyun meraklısıydı; bu gemi garip bir şekilde en sevdiği uzay nişancı oyunundan bir gemiye benziyordu. Donanımlı bir gemi, bebek dolu bir mürettebat ve keşfedilecek muhteşem bir evrenle, şansını en iyi şekilde değerlendirecek ve her zaman hayalini kurduğu hayatı yaratacak!(Kaynak: Seven Seas Entertainment)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "First Space Colony Visit",
-      "episode_number": 1,
-      "aired": "Oct 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:53.693737"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Mimi the Girl",
-      "episode_number": 2,
-      "aired": "Oct 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-13T10:26:19.516334"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Elma",
-      "episode_number": 3,
-      "aired": "Oct 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-20T08:26:32.861777"
-    }
-  ]
+  "synopsis_tr": "Sato Takahiro, bir uzay gemisinde uyandığı güne kadar sıradan bir ofis çalışanı ve oyun meraklısıydı; bu gemi garip bir şekilde en sevdiği uzay nişancı oyunundan bir gemiye benziyordu. Donanımlı bir gemi, bebek dolu bir mürettebat ve keşfedilecek muhteşem bir evrenle, şansını en iyi şekilde değerlendirecek ve her zaman hayalini kurduğu hayatı yaratacak!(Kaynak: Seven Seas Entertainment)"
 }

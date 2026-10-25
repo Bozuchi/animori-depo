@@ -4,7 +4,26 @@
     "puan": "9.18",
     "bolum_durumu": "1/1",
     "ozet": "Shinmai Maou no Testament animesinin OVA bölümüdür.",
-    "slug": "shinmai-maou-no-testament-toujou-basara-no-hard-sweet-na-nichijou"
+    "slug": "shinmai-maou-no-testament-toujou-basara-no-hard-sweet-na-nichijou",
+    "episodes": [
+      {
+        "episode_number": 13,
+        "title": "Shinmai Maou no Testament 13. Bölüm OAD",
+        "videos": [
+          {
+            "fansub_id": 10,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oflUFDyX30FBP_AL-XBxWZTShJWTIpLg/preview"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911077"
+          }
+        ],
+        "added_date": "2026-07-29T09:45:10.784783"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 29027,
@@ -55,36 +74,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21247,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21247-rLeBLBb78aUQ.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shinmai Maou no Testament 13. Bölüm OAD",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 10,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oflUFDyX30FBP_AL-XBxWZTShJWTIpLg/preview"
-        },
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911077"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T09:45:10.784783",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 64163,
     "type": "tv",

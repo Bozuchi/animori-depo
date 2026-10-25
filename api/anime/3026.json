@@ -4,7 +4,83 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "2-D varlıklardan oluşan bir dünya bizim evrenimizin varlığını keşfettiğinde, tam entegrasyona hazırlanmak için dünyamıza güzel Domni-Matrix'lerden oluşan bir ekip gönderirler. Ancak, düz ve kasvetli 2 boyutlu varoluşlarından kurtulduktan sonra, Compiler ve Assembler birkaç 3 boyutlu adamla siber seksin, dünyayı fethetmekten çok daha eğlenceli olduğunu çabucak keşfettiler. Şimdi, erkek arkadaşlarıyla birlikteyken, Assembler ve Compiler, Dünya'yı eski efendileri ve bir katil programlar ordusu tarafından silinmekten korumalı.",
-    "slug": "compiler"
+    "slug": "compiler",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Compiler 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1w_BI9ZNytFhcMAAJFDjsWCLj8r4vnS8x/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14kIyXNRLRlXVGJuC8i-xF1g1wMi0svFo/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656809"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4448998"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lwumcagnrd04.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/x6cctjuq"
+          }
+        ],
+        "added_date": "2026-07-23T16:25:33.804539"
+      },
+      {
+        "episode_number": 2,
+        "title": "Compiler 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Ly_cOGBNRN4Dj6sZkAHI-Zuwc8XOXjA-/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BVA8eZFP921Gsj7qlqWEtyQ85aWo-MlI/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368400"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4546618"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6699ell6ifkx.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xynl6vqkypqs.html"
+          }
+        ],
+        "added_date": "2026-07-23T16:25:33.804539"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3026,
@@ -58,95 +134,12 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 3026,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3026-G29k40mn9KSq.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Compiler 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1w_BI9ZNytFhcMAAJFDjsWCLj8r4vnS8x/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14kIyXNRLRlXVGJuC8i-xF1g1wMi0svFo/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656809"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4448998"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-lwumcagnrd04.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/x6cctjuq"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:25:33.804539",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Compiler 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Ly_cOGBNRN4Dj6sZkAHI-Zuwc8XOXjA-/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BVA8eZFP921Gsj7qlqWEtyQ85aWo-MlI/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368400"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4546618"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-6699ell6ifkx.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xynl6vqkypqs.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:25:33.804539",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

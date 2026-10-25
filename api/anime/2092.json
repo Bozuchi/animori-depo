@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Lise öğrencisi olan Morisato Ibuki, rüyasında beyaz atlı bir prensin onu öpmesiyle ilgili bir rüya görür. Ertesi gün, rüyasında gördüğü prens Ebisu Naoto, okuluna transfer olur ve evine misafir olarak gelir. Sabah onu uyandırmak için gerçekten öptüğünü iddia eder.\n Ibuki, Naoto'ya aşıktır, ancak Kawahara Izumi adında gizemli bir kızl aralarında bir şeyler vardır. \nBu arada, Ibuki'nin sınıfındaki utangaç çocuk Nitta da, ona aşık olur. Gerçek aşk bir yolunu bulabilecek midir?",
-    "slug": "kiss-wa-hitomi-ni-shite"
+    "slug": "kiss-wa-hitomi-ni-shite",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2092,
@@ -46,44 +47,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2092,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2092-KCaWolMzyqLK.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kiss wa Hitomi ni Shite OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667823"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4728845"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qlxuutn4wt2s.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-dtry64gkjld9.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:05:25.245350",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

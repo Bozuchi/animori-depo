@@ -4,7 +4,68 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Korkunç bir savaşın ardından toprak kanla karışık bir çamur haline gelir. Savaşçılardan akan kan cehennemin kötü ruhlarını bir kez daha ortaya çıkarır. Usta bir Ninja olan Hikage, daha fazla kan akmasını engelleyebilmek için eski arkadaşı ve kardeşi gibi gördüğü Marou’yu öldürerek emrindeki ninjaları etkisiz hale getirmelidir. Ancak o zaman savaş sırasında kaybettiği ölen sevgilisinin öcünü alacaktır. Fakat Marou zaten daha önce ölmüştür ve ölü olan biri tekrar öldürülemez.",
-    "slug": "youma"
+    "slug": "youma",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Youma 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hbskKtP9u3LNcFi6k7CNtIqtk6yg04Iw/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1773"
+          }
+        ],
+        "added_date": "2026-07-30T18:42:57.411519"
+      },
+      {
+        "episode_number": 2,
+        "title": "Youma 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AwhdCmaHc6SwoF9IeZ0l4Sejfkv1s8rm/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12Kjr5uQ7rKcrdXx7xSjisHdXu11R4H5U/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1774"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666979"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4643266"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-myfano8fsrmo.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0xqhrkdg0e0v.html"
+          }
+        ],
+        "added_date": "2026-07-30T18:42:57.411519"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1484,
@@ -52,82 +113,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 1484,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1484-doDfkjX9k1Z6.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Youma 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hbskKtP9u3LNcFi6k7CNtIqtk6yg04Iw/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1773"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:42:57.411519",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Youma 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AwhdCmaHc6SwoF9IeZ0l4Sejfkv1s8rm/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12Kjr5uQ7rKcrdXx7xSjisHdXu11R4H5U/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1774"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666979"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4643266"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-myfano8fsrmo.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0xqhrkdg0e0v.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:42:57.411519",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 116269,
     "type": "tv",

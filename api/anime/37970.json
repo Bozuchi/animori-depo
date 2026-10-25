@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Mihara Shouma lise birinci sınıf öğrencisidir. Shouma, ilkokul bitince bağlantılarının koptuğu yakın arkadaşı Atsushi'yi 3.5 yıldır görmemiştir. Bir gün Atsushi, Shouma'ya ulaşır ve buluşup konuşabilmek için onu değişik bir festivale çağırır. Shouma, dağların derinliklerindeki ''Yedi Gece Tanabata Festivali'' adlı etkinliğe gider ama Atsushi orada değildir. Onun yerine Shiori isimli bir kız da biriyle buluşmak için oradadır. Festivalin organizatörü olan Kanna, Shouma ve Shiori'ye festival bitimine kadar duracağını söyleyip, kendisine yardım etmelerini önerir. Köyde, Shori ve Shouma'nın başına birtakım tuhaf olaylar gelir.",
-    "slug": "yakusoku-no-nanaya-matsuri"
+    "slug": "yakusoku-no-nanaya-matsuri",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37970,
@@ -39,56 +40,14 @@
       1687
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 103643,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103643-ZmJnBZGFmRag.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yakusoku no Nanaya Matsuri ONA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 96,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jt-dJqfeFYiCAwRXh2jl1SOH1ZwRUWSG/preview"
-        },
-        {
-          "fansub_id": 96,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13b_wRdsHWtFoCAcAC9MdkISMMOER-jGG/preview"
-        },
-        {
-          "fansub_id": 96,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Z4XDnnJ7lpHR4OfpWmj6RN8v3Wp8jSoo/preview"
-        },
-        {
-          "fansub_id": 96,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140719137"
-        },
-        {
-          "fansub_id": 96,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849338"
-        },
-        {
-          "fansub_id": 96,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-396gddkavuue.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T17:22:06.652841",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 540294,
     "type": "movie",

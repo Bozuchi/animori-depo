@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ace wo Nerae! serisine ait moviedir.",
-    "slug": "ace-wo-nerae-1979"
+    "slug": "ace-wo-nerae-1979",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 313,
@@ -55,46 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 313,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/313-0yjSKAUYG5Vo.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx313-32ZkdE5HhTBC.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ace wo Nerae! (1979) Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 62,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UNW6b8tZnNZvF7q9xz038BDd4fkeSpzz/preview"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667054"
-        },
-        {
-          "fansub_id": 62,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4655981"
-        },
-        {
-          "fansub_id": 62,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5ttta0ed91i4.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-19T03:30:41.295416",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 46419,
     "type": "tv",

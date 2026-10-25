@@ -4,7 +4,117 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "On beş yaşında genç bir erkek olan Masato Akitsu gizli bir örgüt tarafından kaçırılır. Kaçırılmasına her hangi bir açıklama getiremeyen Masato, sıradan bir öğrenci ve basit bir hayat sürmektedir. Ancak bütün hikâye on beş yıl öncesine dayanmaktadır. Hikâyeye göre de sekizinci ve son robot olan Zeorymer (Last Guardian Zeorymer) için özel olarak klonlanmış bir embriyo olarak doğmuştur. Hau Dragon on beş yıl önce yok edilmiş olan ilk yedi robota sahiptir ve egemenlik için örgüt bu son robotu da istemektedir.\n\n- Yoshiki TAKAYA’nın (Morio Chimi) olarakta bilinen mangakanın aynı isimli mangasının anime uyarlamasıdır.",
-    "slug": "meiou-project-zeorymer"
+    "slug": "meiou-project-zeorymer",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Mei Ou Project Zeorymer 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YrHMA9vxqT4ivkVv7-KqPslf7dW5l1tU/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017998"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1786103"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mmqej8r7g9cb.html"
+          }
+        ],
+        "added_date": "2026-07-27T11:42:23.780878"
+      },
+      {
+        "episode_number": 2,
+        "title": "Mei Ou Project Zeorymer 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-kBWAdtMLMlQM2YEx0lHRFs58v_e3xZE/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017999"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1786111"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-91655rctqcx4.html"
+          }
+        ],
+        "added_date": "2026-07-27T11:42:23.780878"
+      },
+      {
+        "episode_number": 3,
+        "title": "Mei Ou Project Zeorymer 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1trQ4z5vP8spLZTDdtOI6OPjaFV9fs_yj/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018000"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1786120"
+          }
+        ],
+        "added_date": "2026-07-27T11:42:23.780878"
+      },
+      {
+        "episode_number": 4,
+        "title": "Mei Ou Project Zeorymer 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1x0dz81gTzcaJpDLcQSYDsLQUegFSVQXy/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018001"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1786130"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fu7nnd2buhne.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2qrg1decddsz.html"
+          }
+        ],
+        "added_date": "2026-07-27T11:42:23.780878"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1832,
@@ -48,139 +158,43 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1832,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1832-1n0THynKNW1F.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mei Ou Project Zeorymer 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YrHMA9vxqT4ivkVv7-KqPslf7dW5l1tU/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017998"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1786103"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mmqej8r7g9cb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:42:23.780878",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mei Ou Project Zeorymer 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-kBWAdtMLMlQM2YEx0lHRFs58v_e3xZE/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017999"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1786111"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-91655rctqcx4.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:42:23.780878",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mei Ou Project Zeorymer 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1trQ4z5vP8spLZTDdtOI6OPjaFV9fs_yj/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018000"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1786120"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:42:23.780878",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mei Ou Project Zeorymer 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1x0dz81gTzcaJpDLcQSYDsLQUegFSVQXy/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018001"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1786130"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-fu7nnd2buhne.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2qrg1decddsz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:42:23.780878",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 81014,
     "type": "tv",

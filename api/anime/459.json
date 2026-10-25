@@ -4,7 +4,57 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "East Blue'da \"Büyük Altın Korsan\" diye bilinen bir adam vardı. Adı Woonan'dı. Sayısız savaşlarda Woonan, birçok düşmanın altınını çaldı. Efsane çaldığı altınların bir dağ kadar yüksek bir yığın oluşturduğunu ve geceleri okyanusu gündüz gibi aydınlattığını söyler. Bununla birlikte, birkaç yıl sonra Woonan'ın varlığı kaybolup gitti. Büyük Altın Korsan tüm hazinesini bir adaya gizledi ve öldü. Bu söylenti ise şimdi bile yaşıyor. Birçok korsan hala bu adayı bulmaya çalışıyor. Woonan'ın tayfalarından biri tarafından çizilmiş bir harita var. Her kim o haritayı ele geçirirse adanın yerini belirleyebilir. Efsanevi ada! El Drago, bu efsanevi adanın haritasını ele geçirmiş ve Woonan'ın altınlarına gözünü dikmiştir. Luffy ve arkadaşları El Drago'yu durdurmak için elinden gelini yapacaklardır.",
-    "slug": "one-piece-movie-1"
+    "slug": "one-piece-movie-1",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "One Piece Movie 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13J7Uv-x8IeFPTJUAYi38ZeHmdk7ZHzjv/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1946249"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4454474"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3858708"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/e7w8jw00"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/grq16hnn"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-v54cj8x4tbwl.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 2,
+            "end": 106
+          }
+        },
+        "added_date": "2026-07-27T20:54:55.696742"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 459,
@@ -47,66 +97,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 459,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/459-JqlCjcwxxFrr.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx459-Ivw65mUXackh.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "One Piece Movie 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13J7Uv-x8IeFPTJUAYi38ZeHmdk7ZHzjv/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1946249"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4454474"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3858708"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/e7w8jw00"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/grq16hnn"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-v54cj8x4tbwl.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 2,
-          "end": 106
-        }
-      },
-      "added_date": "2026-07-27T20:54:55.696742",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 19576,
     "type": "movie",

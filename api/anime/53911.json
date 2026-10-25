@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yaşadıkları trajik kazanın ardından Lancelot ile ilk kez tekrar bir araya gelen Tristan, annesinin hayatını kurtarmak için içindeki iblisleri yenmeyi öğrenmelidir.",
-    "slug": "nanatsu-no-taizai-ensa-no-edinburgh-part-2"
+    "slug": "nanatsu-no-taizai-ensa-no-edinburgh-part-2",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 53911,
@@ -48,34 +49,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 162291,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162291-gw8Vc73wJORZ.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Nanatsu no Taizai: Ensa no Edinburgh Part 2 ONA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370409"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/50k9vh2phr2z"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T14:20:24.775276",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

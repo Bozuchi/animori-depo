@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-    "slug": "tsuihou-sareta-cheat-fuyo-majutsushi-wa-kimama-na-second-life-wo-ouka-suru-ore-wa-buki-dake-ja-naku-arayuru-mono-ni-kyouka-point-wo-fuyo-dekiru-shi-ore-no-ishi-de-itsudemo-kouka-wo-kaijo-dekiru-kedo-nokotta-hitotachi-daijoubu"
+    "slug": "tsuihou-sareta-cheat-fuyo-majutsushi-wa-kimama-na-second-life-wo-ouka-suru-ore-wa-buki-dake-ja-naku-arayuru-mono-ni-kyouka-point-wo-fuyo-dekiru-shi-ore-no-ishi-de-itsudemo-kouka-wo-kaijo-dekiru-kedo-nokotta-hitotachi-daijoubu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63431,
@@ -43,6 +44,22 @@
           152505
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Everyone Knows What It's Like When Nothing Goes Right, but What Do I Do When That Happens? Why, It's Obvious! I Run and Scream My Head Off!",
+        "aired": "Oct 7, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Enhanced Clothes I Was Wearing Were Destroyed by a Devastating Blow, and a Traumatized Girl in Casual Clothes Hit Me with All Her Might.",
+        "aired": "Oct 14, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -57,27 +74,5 @@
     "episode_offset": 0,
     "name": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
   },
-  "synopsis_tr": "Büyüsüyle ekipmanı güçlendiren bir büyücü olan Rein, loncadaki her teçhizatın zaten yeterince geliştirilmiş olması nedeniyle aniden loncadan atılır. Bu saçma muamele karşısında öfkelenen Rein, ekipmanlarına döktüğü muazzam miktardaki manayı geri almaya karar verir. Rasgele bir şekilde rastgele bir bakır kılıca yönlendirdiğinde, 10.000 yükseltme puanına sahip hile düzeyinde bir silaha dönüşür! Sıfır savaş deneyimine sahip ancak her şeyi aşırı güçlü donanıma dönüştürebilecek büyüyle donanmış olan bu büyücü, bir maceracı olarak yeni, kaygısız bir hayatın tadını çıkarmak için yola çıkıyor!(Kaynak: Shochiku)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Everyone Knows What It's Like When Nothing Goes Right, but What Do I Do When That Happens? Why, It's Obvious! I Run and Scream My Head Off!",
-      "episode_number": 1,
-      "aired": "Oct 7, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-07T10:11:00.545243"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "The Enhanced Clothes I Was Wearing Were Destroyed by a Devastating Blow, and a Traumatized Girl in Casual Clothes Hit Me with All Her Might.",
-      "episode_number": 2,
-      "aired": "Oct 14, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-14T08:39:47.919869"
-    }
-  ]
+  "synopsis_tr": "Büyüsüyle ekipmanı güçlendiren bir büyücü olan Rein, loncadaki her teçhizatın zaten yeterince geliştirilmiş olması nedeniyle aniden loncadan atılır. Bu saçma muamele karşısında öfkelenen Rein, ekipmanlarına döktüğü muazzam miktardaki manayı geri almaya karar verir. Rasgele bir şekilde rastgele bir bakır kılıca yönlendirdiğinde, 10.000 yükseltme puanına sahip hile düzeyinde bir silaha dönüşür! Sıfır savaş deneyimine sahip ancak her şeyi aşırı güçlü donanıma dönüştürebilecek büyüyle donanmış olan bu büyücü, bir maceracı olarak yeni, kaygısız bir hayatın tadını çıkarmak için yola çıkıyor!(Kaynak: Shochiku)"
 }

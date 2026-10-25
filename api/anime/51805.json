@@ -4,7 +4,71 @@
     "puan": "0.00",
     "bolum_durumu": "3/12",
     "ozet": "Galaktik Kahramanlar Efsanesi: Yeni Tez'in 4. sezonudur.",
-    "slug": "ginga-eiyuu-densetsu-die-neue-these-sakubou"
+    "slug": "ginga-eiyuu-densetsu-die-neue-these-sakubou",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 242,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/78"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 83.651,
+            "end": 172.64
+          }
+        },
+        "added_date": "2026-07-25T23:30:19.591655"
+      },
+      {
+        "episode_number": 2,
+        "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 242,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/cm8od6gp416q"
+          },
+          {
+            "fansub_id": 242,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5hchgnpm"
+          },
+          {
+            "fansub_id": 242,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1p0ajq60y78c.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:30:19.591655"
+      },
+      {
+        "episode_number": 3,
+        "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 242,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ge86lwskzryf"
+          },
+          {
+            "fansub_id": 242,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/uudtzebg"
+          },
+          {
+            "fansub_id": 242,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-w128oe9jl6xb.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:30:19.591655"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 51805,
@@ -68,88 +132,36 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 148970,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148970-m7zWb5ywBsEd.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148970-2gLwQ9Bso5r7.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 242,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/78"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 83.651,
-          "end": 172.64
-        }
-      },
-      "added_date": "2026-07-25T23:30:19.591655",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 242,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/cm8od6gp416q"
-        },
-        {
-          "fansub_id": 242,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5hchgnpm"
-        },
-        {
-          "fansub_id": 242,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1p0ajq60y78c.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:30:19.591655",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 242,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ge86lwskzryf"
-        },
-        {
-          "fansub_id": 242,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/uudtzebg"
-        },
-        {
-          "fansub_id": 242,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-w128oe9jl6xb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:30:19.591655",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 74018,
     "type": "tv",

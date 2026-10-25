@@ -4,7 +4,89 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Marki Reinhard von Lohengramm'ın Hür Gezegenler Birliği'ni sarsma planı, hain eski Tuğamiral Arthur Lynch'in Heinessen'de bir darbe başlatmasıyla başarıya ulaşır. Demokrasiyi savunmak ve Birlik anayasasını yeniden tesis etmek isteyen Amiral Yang Wen-li, yurttaşlarıyla ve hatta ne yazık ki sadık yaveri Yüzbaşı Frederica Greenhill'in babasıyla karşı karşıya gelir.\nHür Gezegenler Birliği kendi iç meseleleriyle tamamen meşgulken, Galaktik İmparatorluk güçleri Dük Otto von Braunschweig liderliğinde yeni kurulan Lippstadt İttifakı'nı rahatça ezebilir. \nGalaksinin her iki tarafında da kan dökülmesi kaçınılmaz olsa da, Birlik'ten Yang Wen-li ve İmparatorluk'tan Reinhard von Lohengramm kendilerine aynı soruları soruyor: Tarih yaptıklarına nasıl bakacak? Sonuçlar araçları haklı çıkaracak mı?",
-    "slug": "ginga-eiyuu-densetsu-die-neue-these-seiran-2"
+    "slug": "ginga-eiyuu-densetsu-die-neue-these-seiran-2",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 242,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/32"
+          },
+          {
+            "fansub_id": 242,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/0z3fzlri21wa"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 154.005,
+            "end": 244.005
+          }
+        },
+        "added_date": "2026-07-25T23:30:35.618561"
+      },
+      {
+        "episode_number": 2,
+        "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 242,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/34"
+          },
+          {
+            "fansub_id": 242,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/90cvqy6ox6yj"
+          }
+        ],
+        "added_date": "2026-07-25T23:30:35.618561"
+      },
+      {
+        "episode_number": 3,
+        "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 242,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/35"
+          },
+          {
+            "fansub_id": 242,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/kligh6yyq91q"
+          }
+        ],
+        "added_date": "2026-07-25T23:30:35.618561"
+      },
+      {
+        "episode_number": 4,
+        "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 242,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/43"
+          },
+          {
+            "fansub_id": 242,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/9brxz4f47ezf"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 69.141,
+            "end": 159.141
+          }
+        },
+        "added_date": "2026-07-25T23:30:35.618561"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36370,
@@ -68,103 +150,37 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
-  "anilist": null,
-  "episodes": [
-    {
-      "turkanime_title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 242,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/32"
-        },
-        {
-          "fansub_id": 242,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/0z3fzlri21wa"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 154.005,
-          "end": 244.005
-        }
-      },
-      "added_date": "2026-07-25T23:30:35.618561",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 242,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/34"
-        },
-        {
-          "fansub_id": 242,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/90cvqy6ox6yj"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:30:35.618561",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 242,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/35"
-        },
-        {
-          "fansub_id": 242,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/kligh6yyq91q"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:30:35.618561",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 242,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/43"
-        },
-        {
-          "fansub_id": 242,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/9brxz4f47ezf"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 69.141,
-          "end": 159.141
-        }
-      },
-      "added_date": "2026-07-25T23:30:35.618561",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  "anilist": null
 }

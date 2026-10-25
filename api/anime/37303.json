@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kouki Zenjo, Jin Habari’nin eski sağ kolu ve Kagutsu olayında sağ çıkan kişi, SCEPTER 4’e çalışmaya geri döner, şimdi yeni Mavi Kral Reisi Munakata’nın emirleri altındadır.",
-    "slug": "k-seven-stories-movie-2-side-blue-tenrou-no-gotoku"
+    "slug": "k-seven-stories-movie-2-side-blue-tenrou-no-gotoku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37303,
@@ -63,54 +64,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 102346,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102346-mkpiYs8oodIK.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102346-cRitWZ1tLmkZ.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "K: Seven Stories Movie 2 – Side:Blue – Tenrou no Gotoku Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 283,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Gx5l0Bl0GcXirfBzwAynZuEiAf0vl9oG/preview"
-        },
-        {
-          "fansub_id": 283,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1HxofMMImEiP7wgz4Ly6y-WZJn99e-491/preview"
-        },
-        {
-          "fansub_id": 283,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140717489"
-        },
-        {
-          "fansub_id": 283,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/u398hdvz"
-        },
-        {
-          "fansub_id": 283,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zrogpq4tklzk.html"
-        },
-        {
-          "fansub_id": 283,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ic1eqen82r7t.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T22:26:14.136846",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

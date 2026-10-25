@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kimliği bilinmeyen biri tarafından iki polis öldürülmüştür. Katilin emniyet güçleriyle ilgili olabileceğini düşünen Müfettiş Megure soruşturmayı gizlilik için yürütme kararı almıştır. Polis memuru Satou katil tarafından yaralandığı sırada olaya tanık olan Ran, şoka girerek tüm hafızasını yitirmiştir. Katil, Ran'ın yüzünü gördüğü düşüncesine kapılarak onun peşini bırakmayacaktır. Conan kimliğini açığa çıkarmadan bir yandan olayı çözmeli diğer yandan da Ran'ı korumalıdır.",
-    "slug": "detective-conan-movie-04-captured-in-her-eyes"
+    "slug": "detective-conan-movie-04-captured-in-her-eyes",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1363,
@@ -49,66 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1363,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1363-rP3Ks2HcfzEJ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1363-KeaIofC3kYaZ.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan Movie 04: Captured in Her Eyes",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ynTP0p82JypMaPCewcakFEO5B6tN2d4s/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/149Gv_RYeC5Fs3BtFK0qthzuJBJXZj9Lh/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388378341"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1789182"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4505906"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/cifxj64b"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/uhzkog8h"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-49i6uq57pjrv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:56:13.906112",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30983,
     "type": "tv",

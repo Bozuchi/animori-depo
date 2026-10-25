@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Tensei shitara Slime Datta Ken serisinin 65,5. Luminous Valentine'ın bakış açısından olayların ele alındığı \"Special\" bölümüdür. Serinin 3. sezonunun 17. bölümünden hemen sonra izlenmelidir.",
-    "slug": "tensei-shitara-slime-datta-ken-kanwa-luminous-memories"
+    "slug": "tensei-shitara-slime-datta-ken-kanwa-luminous-memories",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 59493,
@@ -48,30 +49,8 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
-  "anilist": null,
-  "episodes": [
-    {
-      "turkanime_title": "Tensei shitara Slime Datta Ken 3rd Season 17,5. Bölüm",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 14,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1aemWB5F0ID68NB1OZxyo0u4KAzRyHp1n/preview"
-        },
-        {
-          "fansub_id": 14,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6177240"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T16:04:36.615139",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  "anilist": null
 }

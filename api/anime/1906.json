@@ -4,7 +4,8 @@
     "puan": "6.09",
     "bolum_durumu": "1/1",
     "ozet": "Yağmurlu bir günde, Akane'nin yolu daha önce hiç tanımadığı bir kişi ile kesişir. Akane'ye yardımcı olan bu kişi, Akane ile ikinci kez karşılaştığında, kişinin ismini bile hatırlamadığı ortaya çıkar. Ona yardımcı olmaya karar veren Akane onun kim olduğunu bulmaya çalıştıkça kişinin Sairyou adında lanetli bir dansçı tarafından lanetlendiği ortaya çıkar. Ancak Akane'nin arkadaşları onun için endişelenmeye başlamıştır. Çünkü; kendisini, hafızasını yitiren yabancıya iyice kaptıran Akane güçlerini kullanamamaktadır.",
-    "slug": "harukanaru-toki-no-naka-de-maihitoyo"
+    "slug": "harukanaru-toki-no-naka-de-maihitoyo",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1906,
@@ -55,51 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1906,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1906.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Harukanaru Toki no Naka de: Maihitoyo",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_txmyYHElP9-Z8xy3yBU2FPfgGe-kYcj/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/166"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016747"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2926699"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vwcq6m0py14s.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:23:40.129871",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 27244,
     "type": "tv",

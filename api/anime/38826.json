@@ -4,7 +4,8 @@
     "puan": "9.20",
     "bolum_durumu": "1/1",
     "ozet": "Lise öğrencisi Hodaka, izole bir adada bulunan evini terk edip Tokyo'ya yerleşir ama çok geçmeden buna pişman olur. Günlerini herkesten soyutlanarak geçiren Hodaka, nihayet gizemli bir dergide yazarlık yapmaya başlar. İşine başladıktan sonra, hava günden güne giderek daha yağışlı bir hal alır . Kalabalık ve yoğun şehrin bir köşesinde, Hodaka, küçük kardeşi ile birlikte yaşayan, ancak neşeli ve azimli bir yaşam süren Hina adında genç bir kadınla tanışır. Hina' nın bir yeteneği bulunmaktadır: Yağmuru durdurma ve gökyüzünü temizleme gücü...",
-    "slug": "tenki-no-ko"
+    "slug": "tenki-no-ko",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 38826,
@@ -53,61 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 106286,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106286-3oKwiwjd7Wkm.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tenki no Ko Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1te00b_TEAJtkL8uBmpWF-BNA0Tpb8aH6/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wahcpebvbpni.html"
-        },
-        {
-          "fansub_id": 101,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1IMMGFurVyT71etwWLLjOIQQo72oM3yBH/preview"
-        },
-        {
-          "fansub_id": 101,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-eyyow9yqgqel.html"
-        },
-        {
-          "fansub_id": 77,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-99swy22ao4kd.html"
-        },
-        {
-          "fansub_id": 51,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12rVnCfVo4HWKJn1wbOa5CdO1ibIbUbKZ/preview"
-        },
-        {
-          "fansub_id": 51,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-banss9jhdxxr.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:45:49.106176",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 568160,
     "type": "movie",

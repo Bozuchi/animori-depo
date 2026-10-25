@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Talihsiz bir yaz günü bir grup ilkokul çocuğu terk edilmiş bir apartmanla denizde sürüklenmeye başlar. Eve dönüş yolunu bulmak için kendi içlerine dönmeleri gerekecektir.",
-    "slug": "ame-wo-tsugeru-hyouryuu-danchi"
+    "slug": "ame-wo-tsugeru-hyouryuu-danchi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 49938,
@@ -43,76 +44,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 139643,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139643-vxt68qTPUNxw.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139643-HzWce7XJ2w6G.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ame wo Tsugeru Hyouryuu Danchi Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DWTxewF96hbAuS0wbl_rpTOD4MZW7E3x/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461601530"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4875623"
-        },
-        {
-          "fansub_id": 12,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/r221ag6t5wo0"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-dmgsohsqaepb.html"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-i1f0y8odyxd8.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bVv5S6BK5kAXBuceyvrnYfubLKZ_jjDK/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368910"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ylwote5ftpsr"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-g3hs9m1tydkp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:30:00.586812",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 877957,
     "type": "movie",

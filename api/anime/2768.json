@@ -4,7 +4,83 @@
     "puan": "0.00",
     "bolum_durumu": "2/1+",
     "ozet": "Clamp'ın 1995'ten 2006'ya dek yaptığı eserlerden oluşan kısa bir kliptir. İçinde bulunan eserler: Angelic Layer, Card Captor Sakura, X, Tsubasa Chronicle, Wish, RG Veda, Kobato, Duklyon: Clamp School Defenders, Gohou Drug, Clover, Chobits, Miyuki-chan in Wonderland, Shirahime-Syo: Snow Goddess Tales, CLAMP School Detectives, Suki Dakara Suki, Man of Many Faces, Legend of Chun Hyang, Tokyo Babylon, xxxHOLiC ve Magic Knight Rayearth.",
-    "slug": "clamp-in-wonderland-2"
+    "slug": "clamp-in-wonderland-2",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "CLAMP in Wonderland 2 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271188014"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1525247"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4533083"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jfpvwqwn3aca.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6pc2re4r672s.html"
+          }
+        ],
+        "added_date": "2026-07-23T16:06:46.414099"
+      },
+      {
+        "episode_number": 2,
+        "title": "CLAMP in Wonderland 2 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1khcnIlB2teJG4MIto0AYUQETMoLLoaQR/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271188015"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5689.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1525249"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4508392"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4aw6manu"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-b1ssg9zj0dy6.html"
+          }
+        ],
+        "added_date": "2026-07-23T16:06:46.414099"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2768,
@@ -49,95 +125,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2768,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2768.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "CLAMP in Wonderland 2 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271188014"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1525247"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4533083"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jfpvwqwn3aca.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6pc2re4r672s.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:06:46.414099",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "CLAMP in Wonderland 2 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1khcnIlB2teJG4MIto0AYUQETMoLLoaQR/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271188015"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5689.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1525249"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4508392"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4aw6manu"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-b1ssg9zj0dy6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:06:46.414099",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

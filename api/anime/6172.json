@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bir arkeolog ve hırslı bir gizem çözücü olan Profesör Layton ve asistanı Luke ilk davalarından birini yeniden incelemeye başlarlar… Ünlü şarkıcı Janice Quatlane küçük bir kızla yaptığı tuhaf görüşmenin ardından Layton’dan yardım ister. Küçük kız ebedi hayata sahip olduğunu ve Janice’in arkadaşı Melina’nın reenkarne olmuş hali olduğunu iddia etmektedir. Layton ve Luke Janice’in yeni opera gösterisine giderler. Gösterinin sonunda, izleyiciler opera binasının bir gemiye dönüştüğünü ve gizemli bir adam tarafından esir alındıklarını fark ederler. Adam izleyicilere bir dizi bilmece sorar. Kazanan ebedi hayatın sırrını öğrenecektir. Ama bu kaybedenlerin öleceği anlamına gelmektedir.",
-    "slug": "layton-kyouju-to-eien-no-utahime"
+    "slug": "layton-kyouju-to-eien-no-utahime",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 6172,
@@ -45,56 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 6172,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6172-ScTPjuRi5H8M.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6172-ppyKvgITQSgT.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Layton Kyouju to Eien no Utahime",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1aD5Fzn_8rIMKR8kWty9LE9wvn5bYGcOp/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846933"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4503988"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4073280"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1bml8wf6"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ybwpzkwogirs.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T07:56:03.465578",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 41066,
     "type": "movie",

@@ -4,7 +4,240 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Baccano! animesinin özel bölümleridir.",
-    "slug": "baccano-specials"
+    "slug": "baccano-specials",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Baccano! Specials 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qGxtS6tk7RdTNmgs3_MpRdFa3fIdsDM7/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715641"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/671"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158070647"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4464756"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nshmqt9ygdq3.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6bm91aaetgbj.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/nzgt1c8w"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8f04ww59"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-eu9gxhxtyibz.html"
+          },
+          {
+            "fansub_id": 75,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369266"
+          },
+          {
+            "fansub_id": 75,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/rdoxug64kh4z"
+          },
+          {
+            "fansub_id": 75,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-94swkkl0bwi9.html"
+          }
+        ],
+        "added_date": "2026-07-23T03:29:24.707017"
+      },
+      {
+        "episode_number": 2,
+        "title": "Baccano! Specials 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qriGwefVkblRpI43rLO1brcrWo9h1tax/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715643"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/672"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158070648"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4464760"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1128407"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-igz9nex2c452.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-obbmwwofc9q8.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/364e09ht"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/cox3xoru"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kkvljrfrzc9w.html"
+          },
+          {
+            "fansub_id": 75,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369267"
+          },
+          {
+            "fansub_id": 75,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5017449"
+          },
+          {
+            "fansub_id": 75,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/bpy69r0bqpsb"
+          },
+          {
+            "fansub_id": 75,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-dsf79msp0a57.html"
+          }
+        ],
+        "added_date": "2026-07-23T03:29:24.707017"
+      },
+      {
+        "episode_number": 3,
+        "title": "Baccano! Specials 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ygW1sO8l8epBytNqNZ_LFRQPXRsOCwEr/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158070649"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715644"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/673"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4464765"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hsamfl57bhrs.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-i7qt8dkap3xe.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pbipmvgb"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/yj1pkdpb"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ywq2f2oe6cav.html"
+          },
+          {
+            "fansub_id": 75,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369268"
+          },
+          {
+            "fansub_id": 75,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5017458"
+          },
+          {
+            "fansub_id": 75,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/obpqpfvw3kv5"
+          },
+          {
+            "fansub_id": 75,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-60fgpp39rvah.html"
+          }
+        ],
+        "added_date": "2026-07-23T03:29:24.707017"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3901,
@@ -57,256 +290,34 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 3901,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3901-Hxj7TT4dCmBx.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3901-uUj3GeGsebmj.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Baccano! Specials 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qGxtS6tk7RdTNmgs3_MpRdFa3fIdsDM7/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715641"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/671"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158070647"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4464756"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nshmqt9ygdq3.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-6bm91aaetgbj.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/nzgt1c8w"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8f04ww59"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-eu9gxhxtyibz.html"
-        },
-        {
-          "fansub_id": 75,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369266"
-        },
-        {
-          "fansub_id": 75,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/rdoxug64kh4z"
-        },
-        {
-          "fansub_id": 75,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-94swkkl0bwi9.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:29:24.707017",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Baccano! Specials 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qriGwefVkblRpI43rLO1brcrWo9h1tax/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715643"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/672"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158070648"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4464760"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1128407"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-igz9nex2c452.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-obbmwwofc9q8.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/364e09ht"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/cox3xoru"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kkvljrfrzc9w.html"
-        },
-        {
-          "fansub_id": 75,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369267"
-        },
-        {
-          "fansub_id": 75,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5017449"
-        },
-        {
-          "fansub_id": 75,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/bpy69r0bqpsb"
-        },
-        {
-          "fansub_id": 75,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-dsf79msp0a57.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:29:24.707017",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Baccano! Specials 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ygW1sO8l8epBytNqNZ_LFRQPXRsOCwEr/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158070649"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715644"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/673"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4464765"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hsamfl57bhrs.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-i7qt8dkap3xe.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pbipmvgb"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/yj1pkdpb"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ywq2f2oe6cav.html"
-        },
-        {
-          "fansub_id": 75,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369268"
-        },
-        {
-          "fansub_id": 75,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5017458"
-        },
-        {
-          "fansub_id": 75,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/obpqpfvw3kv5"
-        },
-        {
-          "fansub_id": 75,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-60fgpp39rvah.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:29:24.707017",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

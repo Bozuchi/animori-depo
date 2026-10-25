@@ -4,7 +4,289 @@
     "puan": "0.00",
     "bolum_durumu": "5/12",
     "ozet": "Starmyu'nun 3. sezonudur.",
-    "slug": "starmyu-3rd-season"
+    "slug": "starmyu-3rd-season",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Starmyu 3rd Season 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OhyhNfSplflFK-Lj5Vk7gzsQhed9ucNa/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11Q2ufL_Wf0dANmxiSBAlpKZ7UqXkwDGW/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667555"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4681948"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cnv899tm79hy.html"
+          },
+          {
+            "fansub_id": 174,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1j8OB1b6xGyXkk0hxaz5kDhxy6zDjAn8q/preview"
+          },
+          {
+            "fansub_id": 174,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850435"
+          },
+          {
+            "fansub_id": 174,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4433518"
+          },
+          {
+            "fansub_id": 174,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3645069"
+          },
+          {
+            "fansub_id": 174,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hegtztvch6po.html"
+          },
+          {
+            "fansub_id": 174,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/i6xtsbwg"
+          }
+        ],
+        "added_date": "2026-07-29T12:24:09.488089"
+      },
+      {
+        "episode_number": 2,
+        "title": "Starmyu 3rd Season 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12taCIHwzGqQ_3O7Y8-nQD_CflQAmZL73/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1u-BSXZagCGw3-qngU5WlVNdMAlz1en8P/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359670424"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4799434"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/q6oxy8rtkv4t"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-a4mycv0vfdph.html"
+          },
+          {
+            "fansub_id": 174,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15DIBk4TrF1knkZfndYQRVEL9Gxww7UzR/preview"
+          },
+          {
+            "fansub_id": 174,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1n9Zm_Ps4Sn9Js11HV7E_6HvlYE_HGkWo/preview"
+          },
+          {
+            "fansub_id": 174,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985848438"
+          },
+          {
+            "fansub_id": 174,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718826"
+          },
+          {
+            "fansub_id": 174,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4423132"
+          },
+          {
+            "fansub_id": 174,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4477717"
+          },
+          {
+            "fansub_id": 174,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3648186"
+          },
+          {
+            "fansub_id": 174,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-s2k2l8to6dgb.html"
+          },
+          {
+            "fansub_id": 174,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wm2rg2vwzz1s.html"
+          },
+          {
+            "fansub_id": 174,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hqgel7run4t2.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:24:09.488089"
+      },
+      {
+        "episode_number": 3,
+        "title": "Starmyu 3rd Season 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10FwG5zl-Wx2SifLd7rHfZ1yBNB5RQhpG/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16II3te5u0hPMNzMnBj1LUAaTt7yT6Vks/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359670462"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4806245"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/jodl33t6zy25"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-okanc7rdtabq.html"
+          },
+          {
+            "fansub_id": 174,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1UUeMCQBg6X79yzVdbcd1Kmql0F1-yMEx/preview"
+          },
+          {
+            "fansub_id": 174,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933014351"
+          },
+          {
+            "fansub_id": 174,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3652692"
+          },
+          {
+            "fansub_id": 174,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-iv4xm40st2pw.html"
+          },
+          {
+            "fansub_id": 174,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tt024gjuzh5u.html"
+          },
+          {
+            "fansub_id": 174,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/gea8l1vp"
+          }
+        ],
+        "added_date": "2026-07-29T12:24:09.488089"
+      },
+      {
+        "episode_number": 4,
+        "title": "Starmyu 3rd Season 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dAq2AMMiUpX4LoOdMerEdVs0Q4KxI6cb/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OqoHdTkTqG8cXKwDO0D7Y2_j0cc8QVv2/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368811"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832536"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/68t0xzrb6bth"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-szyd2c2vhs1q.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:24:09.488089"
+      },
+      {
+        "episode_number": 5,
+        "title": "Starmyu 3rd Season 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MongrsDP-rgOEtDGTsfptsv1jKAvj1dR/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4955507"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-q1dnzzhfvlko.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-d33kqeqkcxqf.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:24:09.488089"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36536,
@@ -53,315 +335,50 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 100280,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100280-ifZysb3UO5WI.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100280-QDCfgTispP0Q.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Starmyu 3rd Season 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1OhyhNfSplflFK-Lj5Vk7gzsQhed9ucNa/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11Q2ufL_Wf0dANmxiSBAlpKZ7UqXkwDGW/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667555"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4681948"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cnv899tm79hy.html"
-        },
-        {
-          "fansub_id": 174,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1j8OB1b6xGyXkk0hxaz5kDhxy6zDjAn8q/preview"
-        },
-        {
-          "fansub_id": 174,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850435"
-        },
-        {
-          "fansub_id": 174,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4433518"
-        },
-        {
-          "fansub_id": 174,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3645069"
-        },
-        {
-          "fansub_id": 174,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hegtztvch6po.html"
-        },
-        {
-          "fansub_id": 174,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/i6xtsbwg"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:24:09.488089",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Starmyu 3rd Season 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12taCIHwzGqQ_3O7Y8-nQD_CflQAmZL73/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1u-BSXZagCGw3-qngU5WlVNdMAlz1en8P/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359670424"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4799434"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/q6oxy8rtkv4t"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-a4mycv0vfdph.html"
-        },
-        {
-          "fansub_id": 174,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15DIBk4TrF1knkZfndYQRVEL9Gxww7UzR/preview"
-        },
-        {
-          "fansub_id": 174,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1n9Zm_Ps4Sn9Js11HV7E_6HvlYE_HGkWo/preview"
-        },
-        {
-          "fansub_id": 174,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985848438"
-        },
-        {
-          "fansub_id": 174,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718826"
-        },
-        {
-          "fansub_id": 174,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4423132"
-        },
-        {
-          "fansub_id": 174,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4477717"
-        },
-        {
-          "fansub_id": 174,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3648186"
-        },
-        {
-          "fansub_id": 174,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-s2k2l8to6dgb.html"
-        },
-        {
-          "fansub_id": 174,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wm2rg2vwzz1s.html"
-        },
-        {
-          "fansub_id": 174,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hqgel7run4t2.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:24:09.488089",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Starmyu 3rd Season 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10FwG5zl-Wx2SifLd7rHfZ1yBNB5RQhpG/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16II3te5u0hPMNzMnBj1LUAaTt7yT6Vks/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359670462"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4806245"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/jodl33t6zy25"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-okanc7rdtabq.html"
-        },
-        {
-          "fansub_id": 174,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UUeMCQBg6X79yzVdbcd1Kmql0F1-yMEx/preview"
-        },
-        {
-          "fansub_id": 174,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933014351"
-        },
-        {
-          "fansub_id": 174,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3652692"
-        },
-        {
-          "fansub_id": 174,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-iv4xm40st2pw.html"
-        },
-        {
-          "fansub_id": 174,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-tt024gjuzh5u.html"
-        },
-        {
-          "fansub_id": 174,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/gea8l1vp"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:24:09.488089",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Starmyu 3rd Season 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dAq2AMMiUpX4LoOdMerEdVs0Q4KxI6cb/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1OqoHdTkTqG8cXKwDO0D7Y2_j0cc8QVv2/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368811"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4832536"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/68t0xzrb6bth"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-szyd2c2vhs1q.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:24:09.488089",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Starmyu 3rd Season 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MongrsDP-rgOEtDGTsfptsv1jKAvj1dR/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4955507"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-q1dnzzhfvlko.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-d33kqeqkcxqf.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:24:09.488089",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 71003,
     "type": "tv",

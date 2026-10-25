@@ -4,7 +4,101 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Golden Kamuy 2nd Season animesinin OVA bölümleridir.",
-    "slug": "golden-kamuy-2nd-season-ova"
+    "slug": "golden-kamuy-2nd-season-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Golden Kamuy 2nd Season OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BeY5YyrPILKEkUgNar6kMIHyiy6E-jnS/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4703970"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2w7pyo1y9q43.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2l3ts3ytrf8e.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1032,
+            "end": 1122
+          }
+        },
+        "added_date": "2026-07-26T00:21:37.073257"
+      },
+      {
+        "episode_number": 2,
+        "title": "Golden Kamuy 2nd Season OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YbOUg_cxXzy5Of5xn2JRHcZGTC82wzrk/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667682"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4703973"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zx8yfuq4mwir.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-465mdohn0t02.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:21:37.073257"
+      },
+      {
+        "episode_number": 3,
+        "title": "Golden Kamuy 2nd Season OVA 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wlpPdhw-9nuvoV8JDbulhr3mup365Hh6/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4703974"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-is4uxybn13pp.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lefpejv0d1h6.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:21:37.073257"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38710,
@@ -56,116 +150,34 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 124756,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124756-4DBO8VSFaJ6Y.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Golden Kamuy 2nd Season OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BeY5YyrPILKEkUgNar6kMIHyiy6E-jnS/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4703970"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2w7pyo1y9q43.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2l3ts3ytrf8e.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1032,
-          "end": 1122
-        }
-      },
-      "added_date": "2026-07-26T00:21:37.073257",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Golden Kamuy 2nd Season OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YbOUg_cxXzy5Of5xn2JRHcZGTC82wzrk/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667682"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4703973"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zx8yfuq4mwir.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-465mdohn0t02.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:21:37.073257",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Golden Kamuy 2nd Season OVA 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wlpPdhw-9nuvoV8JDbulhr3mup365Hh6/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4703974"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-is4uxybn13pp.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lefpejv0d1h6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:21:37.073257",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

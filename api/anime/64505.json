@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Diamond no Ace: Act II Second Season Part 2",
-    "slug": "diamond-no-ace-act-ii-second-season-part-2"
+    "slug": "diamond-no-ace-act-ii-second-season-part-2",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 64505,
@@ -51,7 +52,8 @@
           92559
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 213658,
@@ -65,6 +67,5 @@
     "episode_offset": 13,
     "name": "Ace of the Diamond"
   },
-  "synopsis_tr": "Diamond no Ace: Perde II İkinci Sezon'un ikinci bölümü.",
-  "episodes": []
+  "synopsis_tr": "Diamond no Ace: Perde II İkinci Sezon'un ikinci bölümü."
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Askeri gemi Aegis'in gezisine katılan Conan ve beraberindekiler Yousuke Sasaura isimli subayın ölü bulunması sonrası bu kez deniz üzerinde yaşanan kedi fare oyununda bir yandan hayatta kalmak için mücadele ederken diğer taraftan olayın ardındaki suç ve gizemi çözmek zorundadır...",
-    "slug": "detective-conan-movie-17-private-eye-in-the-distant-sea"
+    "slug": "detective-conan-movie-17-private-eye-in-the-distant-sea",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 14735,
@@ -55,71 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 14735,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14735-RIyq7XzIIzcc.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan Movie 17: Private Eye in the Distant Sea",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Pn8ZNf5uBOLtHFdpEuzT2OiIiB6DBqoX/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1L3mRHXl2ok285D_xdJpovmbJ83MeIeMa/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_SYGHwYk86qSCGOXSDcI8mkFvCy53W_4/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388378354"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359662182"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985853116"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/cwxy3aj4"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-11lijcgy0nyt.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hyorwuvajgeu.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:56:56.518194",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30983,
     "type": "tv",

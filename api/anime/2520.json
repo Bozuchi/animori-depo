@@ -4,7 +4,86 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Goku'nun Trafik Güvenliği\nGoku, Bulma'nın doğun günü partisine katılmak için Batı Kenti'ne gider ve yolda trafikten geçme kurallarını öğrenir. Film, çocukların yaya geçidinden nasıl geçileceğini öğretmek için hazırlanmıştır.\n\nGoku'nun Yangın Söndürme Takımı\nGokuların yangın söndürme için çalıştığı ve yangınla ilgili uygulamaların anlatıldığı bölümdür.",
-    "slug": "dragon-ball-specials"
+    "slug": "dragon-ball-specials",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Dragon Ball Special 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EZCmm4Dq_nsK99Ef3WYKWWevgFWiYLXR/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/qasimoff.ferid/_myvideo/39.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271192666"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4243003"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-krhavlnu0t7y.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ugmg3uqr"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14oLEJ4GAUEKvTudNmsVZB1rTVkOJZYCP/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11tReDap3jMH66xvA0A9cKWOTdJwflD1Z/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372787"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5860524"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5870328"
+          },
+          {
+            "fansub_id": 3,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/3hci9bedpxqi"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-unskju71zhx3.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-65qen8m39vc7.html"
+          }
+        ],
+        "added_date": "2026-07-24T22:51:11.101521"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2520,
@@ -48,180 +127,20 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 2520,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2520-eqphP91bPMGQ.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Dragon Ball Special 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EZCmm4Dq_nsK99Ef3WYKWWevgFWiYLXR/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/qasimoff.ferid/_myvideo/39.html"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271192666"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4243003"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-krhavlnu0t7y.html"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ugmg3uqr"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14oLEJ4GAUEKvTudNmsVZB1rTVkOJZYCP/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11tReDap3jMH66xvA0A9cKWOTdJwflD1Z/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372787"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5860524"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5870328"
-        },
-        {
-          "fansub_id": 3,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/3hci9bedpxqi"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-unskju71zhx3.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-65qen8m39vc7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T22:51:11.101521",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Dragon Ball Special. 2 Bölüm",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yneZ8UEyPZOJINL-9N2NLQDGVqBU6OjR/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5630277"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/cpzywvir"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/qasimoff.ferid/_myvideo/40.html"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271192667"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4243006"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-foimc2tp40t0.html"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/vukiyx1a"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pV-yYk3wVU2fzVQoDp6QXZQmXcDgScsf/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682372788"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5860446"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5870326"
-        },
-        {
-          "fansub_id": 3,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/hpg4rny94d8i"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-eawhti7lqsgb.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mzde2co5c23h.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T22:51:11.101521",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

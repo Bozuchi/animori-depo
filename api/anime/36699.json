@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Çocuk ve Balıkçıl, ergenlik döneminde olan bir gencin hikayesini konu ediyor. İkinci Dünya Savaşı sırasıda geçen filmde, küçük bir çocuk olan Mahito, annesini kaybetmesinin ardından taşrada yaşayan babasının yanına taşınmak zorunda kalır. Yeni hayatına alışmaya çalışan Mahito, günlerini terk edilmiş bir kulenin civarında oynayarak geçirir. Mahito oynamak için kuleye gittiğinde, sürekli gri bir balıkçıl kuşu ile karşılaşır. Ancak çok geçmeden hiçbir şeyin aslında göründüğü gibi olmadığını anlar.",
-    "slug": "kimitachi-wa-dou-ikiru-ka"
+    "slug": "kimitachi-wa-dou-ikiru-ka",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 36699,
@@ -42,41 +43,14 @@
       21
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 109979,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109979-eeUPfBXMEflG.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109979-BRHXpBkCw4oc.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kimitachi wa Dou Ikiru ka Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KRFWe8Hs5oZ9tFzpsp3lcs_4KgevJ1kJ/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/g2z6esyy20xd"
-        },
-        {
-          "fansub_id": 264,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1n77kS49yhL0yuCwEmn_1aVkN8wFkxStT/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:36:39.624233",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 508883,
     "type": "movie",

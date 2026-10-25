@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Code Geass serisinin ilk üç sezonunu gösteren film üçlemesinin ilk filmi.",
-    "slug": "code-geass-hangyaku-no-lelouch-i-koudou"
+    "slug": "code-geass-hangyaku-no-lelouch-i-koudou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 34438,
@@ -60,44 +61,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101811,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101811-rVhAa41KlAN3.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101811-pRfRiEvgZn4T.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Code Geass: Hangyaku no Lelouch I - Koudou",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140719663"
-        },
-        {
-          "fansub_id": 62,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ih9qix2o"
-        },
-        {
-          "fansub_id": 62,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-dt3x577h54w7.html"
-        },
-        {
-          "fansub_id": 62,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kg1ommpxt9fx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:19:49.054097",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

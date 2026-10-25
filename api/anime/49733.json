@@ -4,7 +4,119 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Yuukoku no Moriarty serisine ait OVA bölümlerdir.",
-    "slug": "yuukoku-no-moriarty-ova"
+    "slug": "yuukoku-no-moriarty-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Yuukoku no Moriarty OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 198,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1usFRU6vlu95klxxTZRIpwl3JTpN6XS7E/preview"
+          },
+          {
+            "fansub_id": 198,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368788"
+          },
+          {
+            "fansub_id": 198,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4813005"
+          },
+          {
+            "fansub_id": 198,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/fdt2bapc1fw8"
+          },
+          {
+            "fansub_id": 198,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hgh878kicxua.html"
+          },
+          {
+            "fansub_id": 198,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kh52n1329jwy.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1i65RnUFEK-Dj8foNyjeBc_aYeJDd2y-C/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//ok/571224138646/video/embed/_myvideo/815"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4815433"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 26.154,
+            "end": 116.154
+          }
+        },
+        "added_date": "2026-07-30T20:37:41.998874"
+      },
+      {
+        "episode_number": 2,
+        "title": "Yuukoku no Moriarty OVA 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 198,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fmkoGyW6qC_ADJHWyNdph4wPaVohCu3E/preview"
+          },
+          {
+            "fansub_id": 198,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368789"
+          },
+          {
+            "fansub_id": 198,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4813007"
+          },
+          {
+            "fansub_id": 198,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/fxabw8c2cks9"
+          },
+          {
+            "fansub_id": 198,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-979hxrzrdlb0.html"
+          },
+          {
+            "fansub_id": 198,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vp2tq135sfgm.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MzALknh0BkOqMhK6k3cYqomOZHRxI4Xa/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//ok/571224138646/video/embed/_myvideo/817"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4821109"
+          }
+        ],
+        "added_date": "2026-07-30T20:37:41.998874"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49733,
@@ -50,132 +162,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 138700,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138700-fQTEeNFjiCgp.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yuukoku no Moriarty OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 198,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1usFRU6vlu95klxxTZRIpwl3JTpN6XS7E/preview"
-        },
-        {
-          "fansub_id": 198,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368788"
-        },
-        {
-          "fansub_id": 198,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4813005"
-        },
-        {
-          "fansub_id": 198,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/fdt2bapc1fw8"
-        },
-        {
-          "fansub_id": 198,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hgh878kicxua.html"
-        },
-        {
-          "fansub_id": 198,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kh52n1329jwy.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1i65RnUFEK-Dj8foNyjeBc_aYeJDd2y-C/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//ok/571224138646/video/embed/_myvideo/815"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4815433"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 26.154,
-          "end": 116.154
-        }
-      },
-      "added_date": "2026-07-30T20:37:41.998874",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuukoku no Moriarty OVA 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 198,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fmkoGyW6qC_ADJHWyNdph4wPaVohCu3E/preview"
-        },
-        {
-          "fansub_id": 198,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368789"
-        },
-        {
-          "fansub_id": 198,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4813007"
-        },
-        {
-          "fansub_id": 198,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/fxabw8c2cks9"
-        },
-        {
-          "fansub_id": 198,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-979hxrzrdlb0.html"
-        },
-        {
-          "fansub_id": 198,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vp2tq135sfgm.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MzALknh0BkOqMhK6k3cYqomOZHRxI4Xa/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//ok/571224138646/video/embed/_myvideo/817"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4821109"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:37:41.998874",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 100281,
     "type": "tv",

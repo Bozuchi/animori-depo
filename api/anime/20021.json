@@ -4,7 +4,8 @@
     "puan": "8.54",
     "bolum_durumu": "1/1",
     "ozet": "2022 yılında piyasaya sürülen Sword Art Online MMORPG oyunu, başa takılan bir alet aracılığıyla oyuncuları kendi dünyasına götürerek gerçek bir Role-Playing oyunu sunmaktadır.\n\nOyuna katılan 10.000 oyuncu arasında olan Kirito da SAO dünyasına giriş yapmıştır. Fakat kısa sürede bütün oyuncular oyundan çıkış olmadığını fark ederler ve herkes bir anda geniş bir alana ışınlanır.\n\nOyunun yapımcısının burada yaptığı açıklamaya göre oyundan çıkmanın tek yolu 100 katlı SAO dünyasını temizlemektir. Her katta bir boss bulunmaktadır ve 100. kattaki boss'u öldürebilen oyundan çıkabilecektir. \n\nFakat oyunda sağlığı biten kişi gerçek hayatta da ölecek, ayrıca dışarıdan biri oyuncuların başındaki aleti çıkarmak isterse alet oyuncuları öldürecektir.\n\nBütün oyuncular şaşkınlık içerisindeyken oyunlar konusunda tecrübeli olan Kirito oyunu kazanmayı kafasına koymuştur.",
-    "slug": "sword-art-online-extra-edition"
+    "slug": "sword-art-online-extra-edition",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 20021,
@@ -64,56 +65,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20021,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20021-BJZOqmANWyU7.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20021-BZA5XTwahXPj.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sword Art Online : Extra Edition",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WECad9cLYWOp9OqMIZTUx5cCjgjFBdLY/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1veblG6ZZYmCcAszOGH9KUk3eHrrcV5an/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017298"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1002"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qlkzu8gbyyat.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ake5r98xtz5l.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:01:52.240264",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 45782,
     "type": "tv",

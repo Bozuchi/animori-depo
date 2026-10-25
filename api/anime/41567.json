@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Sınıfımız başka bir büyülü dünyanın kapısını aralar. Fakat bu dünyada robotlara karşı mücadele vereceklerinden haberleri yoktur.\n\nIsekai Quartet serisinin devam filmidir.",
-    "slug": "isekai-quartet-movie-another-world"
+    "slug": "isekai-quartet-movie-another-world",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 41567,
@@ -63,41 +64,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 117074,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117074-NC4KTWOK4niT.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117074-kgucq8a1ZeOw.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Isekai Quartet Movie: Another World Film",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Vqu9nqTPYHPHJAGvWd6DhiDjjFKUPxyW/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461601791"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-j37tzg7en5r6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T06:08:56.557764",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 913612,
     "type": "movie",

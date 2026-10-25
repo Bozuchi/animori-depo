@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Persona 3 the Movie serisinin 4. filmidir.",
-    "slug": "persona-3-the-movie-4-winter-of-rebirth"
+    "slug": "persona-3-the-movie-4-winter-of-rebirth",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31149,
@@ -52,59 +53,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21248,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21248-Ai9B76YIMWDz.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21248-nze05fa3smqI.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Persona 3 the Movie 4: Winter of Rebirth",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1v7TDJTqU1G1mMIkYsWzni1-nKT7PFKdn/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UpAOLCsWekb_7ii6ikyu6eIp-0OjwC4t/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/86.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911445"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359666406"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/48j197si"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zw5rgazvy7ah.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:26:58.498160",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

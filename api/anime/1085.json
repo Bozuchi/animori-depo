@@ -4,7 +4,90 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "İsimsiz ana karakter garip rüyalar görüyor, garip şeyler görüyor ve garip insanlarla karşılaşıyor. Bu olayları araştırıyor ve Aya adında tuhaf bir kız buluyor. Onun yardımıyla dünyasının aslında gerçek olmayabileceğini ve artık tanıdığını düşündüğü insanların çoğunun var olmayabileceğini keşfediyor.",
-    "slug": "interlude"
+    "slug": "interlude",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Interlude 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hMI0UdCqpI8gwUSfab-hPMZQoN4Yi-qf/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1aFmIIddqRG74nGAeSTvCqxrCPN_ty36l/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/akfsub/video/embed/_myvideo/241"
+          }
+        ],
+        "added_date": "2026-07-26T05:33:50.738818"
+      },
+      {
+        "episode_number": 2,
+        "title": "Interlude 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sVkC1f-f7vy3Wqyk6cQx9NlX-QCy_ODZ/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OKNaqjppk6y7VmKBB4-T78jaHcCpiiLF/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/akfsub/video/embed/_myvideo/248"
+          }
+        ],
+        "added_date": "2026-07-26T05:33:50.738818"
+      },
+      {
+        "episode_number": 3,
+        "title": "Interlude 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1RefN4EdDeHM8bDKJG0gowFAjuDT2ln_W/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12lVt2b5FNwhvO7fPCa3_Iv1SdBXz_qzP/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1f5PYu93rrVlmiakwlUaimJUFrjMAgMHg/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4518399"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9hn3hca2x86c.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-micayidyy77q.html"
+          }
+        ],
+        "added_date": "2026-07-26T05:33:50.738818"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1085,
@@ -38,108 +121,36 @@
       18
     ],
     "relations": [],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1085,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1085-FuEraf1V2azp.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Interlude 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hMI0UdCqpI8gwUSfab-hPMZQoN4Yi-qf/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1aFmIIddqRG74nGAeSTvCqxrCPN_ty36l/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/akfsub/video/embed/_myvideo/241"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:33:50.738818",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Interlude 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sVkC1f-f7vy3Wqyk6cQx9NlX-QCy_ODZ/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1OKNaqjppk6y7VmKBB4-T78jaHcCpiiLF/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/akfsub/video/embed/_myvideo/248"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:33:50.738818",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Interlude 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RefN4EdDeHM8bDKJG0gowFAjuDT2ln_W/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12lVt2b5FNwhvO7fPCa3_Iv1SdBXz_qzP/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1f5PYu93rrVlmiakwlUaimJUFrjMAgMHg/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4518399"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9hn3hca2x86c.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-micayidyy77q.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:33:50.738818",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 36287,
     "type": "tv",

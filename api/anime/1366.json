@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Tokyo'da bir tapınak. Üç kişi burada gizli görüşme yapmaktadır. Ancak karanlıkların içinden Okina maskesi takan bir adam çıkagelir ve üçünü de orada öldürür. Aynı gün Osaka ve Kyoto'da da birer cinayet işlenmiştir. Polis cinayete kurban giden bu beş kişinin de \"Genjibotaru\" adı verilen Tokyo, Osaka ve Kyoto'da tarihi eser hırsızlığı yapan suç örgütünün üyesi olduğu sonucuna varır.\n\nCinayetler intikam için mi işlenmiştir? Yoksa örgüt içi bir hesaplaşma mı? Polis bu konuda hiçbir ipucuna rastlayamamıştır.\n\nDiğer yandan Kogorou, Ran ve Sonoko ile birlikte Kyoto'ya gelen Conan, Hattori Heiji ile davayı araştırmaya başlar. Ve Okina maskesi takan adamın karşılarına çıkması uzun sürmez.\n\nConan ve arkadaşları, Kyoto'nun karmaşık sokaklarında tarihin karanlık sayfalarındaki gizemi çözmek zorundadır. Zorlu bir dava ve keskin çıkarımlar, arkadaşlık ve aşk ilişkileri... Tüm bunların ötesinde Conan'ın bedenine ne olmaktadır...",
-    "slug": "detective-conan-movie-07-crossroad-in-the-ancient-capital"
+    "slug": "detective-conan-movie-07-crossroad-in-the-ancient-capital",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1366,
@@ -55,56 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1366,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1366-76LNoYLEqaxv.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan Movie 07: Crossroad in the Ancient Capital",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CVdNasq2mz4V5OL4dMj7ZijM6r1AI-TY/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11PSS2OR2f0UguWTFqa8R4TK6IlAH6UlE/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388378344"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985853114"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qo5rspr8"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1jhi7h0rtdw6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:56:23.542412",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30983,
     "type": "tv",

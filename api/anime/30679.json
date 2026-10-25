@@ -4,7 +4,88 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Bu 2 bölümlük OVA serisi Queen's Blade'in 10. yılını kutlamak için yapılmıştır.",
-    "slug": "queen-s-blade-grimoire"
+    "slug": "queen-s-blade-grimoire",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Queen's Blade: Grimoire OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 28,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GQ-1_M9RyODZ9zMqle3ThH8SQsGdr0Zk/preview"
+          },
+          {
+            "fansub_id": 28,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/uragiri.subs/_myvideo/29.html"
+          },
+          {
+            "fansub_id": 28,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658331"
+          },
+          {
+            "fansub_id": 28,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271189436"
+          },
+          {
+            "fansub_id": 28,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4453665"
+          },
+          {
+            "fansub_id": 28,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8th42n0q"
+          },
+          {
+            "fansub_id": 28,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4yry267t"
+          }
+        ],
+        "added_date": "2026-07-29T03:24:57.829708"
+      },
+      {
+        "episode_number": 2,
+        "title": "Queen's Blade: Grimoire OVA 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 28,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Rpyn05kJGH3VsRufkEoe058BPZLQEod1/preview"
+          },
+          {
+            "fansub_id": 28,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658332"
+          },
+          {
+            "fansub_id": 28,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271189437"
+          },
+          {
+            "fansub_id": 28,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4453676"
+          },
+          {
+            "fansub_id": 28,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ey6iefef"
+          },
+          {
+            "fansub_id": 28,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/l9yoj8ho"
+          }
+        ],
+        "added_date": "2026-07-29T03:24:57.829708"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30679,
@@ -47,102 +128,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21388,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21388-aeT3et1sH0nf.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Queen's Blade: Grimoire OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 28,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GQ-1_M9RyODZ9zMqle3ThH8SQsGdr0Zk/preview"
-        },
-        {
-          "fansub_id": 28,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/uragiri.subs/_myvideo/29.html"
-        },
-        {
-          "fansub_id": 28,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658331"
-        },
-        {
-          "fansub_id": 28,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271189436"
-        },
-        {
-          "fansub_id": 28,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4453665"
-        },
-        {
-          "fansub_id": 28,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8th42n0q"
-        },
-        {
-          "fansub_id": 28,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4yry267t"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:24:57.829708",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Queen's Blade: Grimoire OVA 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 28,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Rpyn05kJGH3VsRufkEoe058BPZLQEod1/preview"
-        },
-        {
-          "fansub_id": 28,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658332"
-        },
-        {
-          "fansub_id": 28,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271189437"
-        },
-        {
-          "fansub_id": 28,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4453676"
-        },
-        {
-          "fansub_id": 28,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ey6iefef"
-        },
-        {
-          "fansub_id": 28,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/l9yoj8ho"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:24:57.829708",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 45502,
     "type": "tv",

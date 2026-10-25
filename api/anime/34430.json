@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Detective Conan animesinin 21. filmidir.",
-    "slug": "detective-conan-movie-21-the-crimson-love-letter"
+    "slug": "detective-conan-movie-21-the-crimson-love-letter",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 34430,
@@ -55,61 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 98222,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98222-ZpgGg9E0KK8l.png",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98222-PT0Ob1qkGDUW.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan Movie 21: The Crimson Love Letter",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 65,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lV2rVCMweFWR-WJRmSY0_KbnDrjiNRT2/preview"
-        },
-        {
-          "fansub_id": 65,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16TB_dfrG9bUpAQVFmSRRCZgqWkVnmVyp/preview"
-        },
-        {
-          "fansub_id": 65,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659941"
-        },
-        {
-          "fansub_id": 65,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388378358"
-        },
-        {
-          "fansub_id": 65,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1j4x9x07"
-        },
-        {
-          "fansub_id": 65,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/phtjdcu2"
-        },
-        {
-          "fansub_id": 65,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ln6fdd78kin5.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:57:10.891286",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30983,
     "type": "tv",

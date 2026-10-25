@@ -4,7 +4,42 @@
     "puan": "0.00",
     "bolum_durumu": "1/13",
     "ozet": "Bu sımsıcak, hayattan kesitler sunan okul komedisi serisinde, neşeli bir aklı beş karış havada, yeni sınıfının sakini ile tanıştığında zıt kutuplar birbirini çeker!\n\nYalnız, kasvetli bir beşinci sınıf kızı, sınıf arkadaşlarının acımasız zorbalık ve sataşmalarının hedefidir ta ki sahneye yeni bir çocuk çıkana kadar. Arkadaş canlısı Takada iyi niyetli olduğu kadar bilgisizdir de ama bir şekilde \"Ölüm Meleği\" Nishimura'yı kabuğundan çıkaracak sihirli bir yeteneğe sahiptir. İlkokul öğrencileri havuza gitmekten ayçiçeği toplamaya ve havai fişekleri izlemeye kadar çocukluk yazının tüm eğlencesini birlikte yaşarken, alışılmadık bir dostluk filizlenir!",
-    "slug": "jijou-wo-shiranai-tenkousei-ga-guigui-kuru"
+    "slug": "jijou-wo-shiranai-tenkousei-ga-guigui-kuru",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru. 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369655"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5101084"
+          },
+          {
+            "fansub_id": 3,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/c4dza8zhpctw"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-f0f6qmzqr1ds.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1283,
+            "end": 1365
+          }
+        },
+        "added_date": "2026-07-26T06:48:48.648971"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53621,
@@ -49,51 +84,22 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 157295,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/157295-9gftzCCsAQ4i.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157295-vHEo07yAAF1L.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru. 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369655"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5101084"
-        },
-        {
-          "fansub_id": 3,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/c4dza8zhpctw"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-f0f6qmzqr1ds.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1283,
-          "end": 1365
-        }
-      },
-      "added_date": "2026-07-26T06:48:48.648971",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 214547,
     "type": "tv",

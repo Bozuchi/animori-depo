@@ -4,7 +4,99 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Dördüncü ve beşinci Blu-Ray/DVD ile birlikte sunulan iki bölümlük OVA.",
-    "slug": "natsume-yuujinchou-go-specials"
+    "slug": "natsume-yuujinchou-go-specials",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Natsume Yuujinchou Go Specials 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1RXrnwoeJLtTW_6eqyBspUicwElo_sITX/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZYAnB2qdyOC93irKEbnE9l2CjWQgtR6G/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4494300"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4220712"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/j68488qv"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-r09qvu03l1rr.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-27T15:25:11.308322"
+      },
+      {
+        "episode_number": 2,
+        "title": "Natsume Yuujinchou Go Specials 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ruCHEPSIRINamqNgrkMJvxp2XPeuLVBs/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1g1yBX78DNg_HqO4oUZXs-wBntEuUBmX-/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4078804"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4494305"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-99uqjg2ikfob.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qrxrtteu0nau.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/bdv9yh7g"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7qcvu2bx6vs9.html"
+          }
+        ],
+        "added_date": "2026-07-27T15:25:11.308322"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34534,
@@ -49,110 +141,27 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 99363,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99363-vFOXsEm0340k.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Natsume Yuujinchou Go Specials 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RXrnwoeJLtTW_6eqyBspUicwElo_sITX/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZYAnB2qdyOC93irKEbnE9l2CjWQgtR6G/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4494300"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4220712"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/j68488qv"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-r09qvu03l1rr.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-27T15:25:11.308322",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Natsume Yuujinchou Go Specials 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ruCHEPSIRINamqNgrkMJvxp2XPeuLVBs/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1g1yBX78DNg_HqO4oUZXs-wBntEuUBmX-/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4078804"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4494305"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-99uqjg2ikfob.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qrxrtteu0nau.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/bdv9yh7g"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7qcvu2bx6vs9.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T15:25:11.308322",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

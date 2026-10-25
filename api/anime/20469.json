@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "II. Dünya savaşı'nda Okinawa'da Himeyuri adındaki bir kız okulunun öğrencilerinin savaşa katılmasını anlatan Himeyuri'nin anısına yapılmış bir kısa film. Hikaye olayı bizzat yaşamış bir kişiden alınmıştır.",
-    "slug": "himeyuri"
+    "slug": "himeyuri",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 20469,
@@ -36,49 +37,12 @@
     "demographics": [],
     "studios": [],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20491,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20491.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Himeyuri",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/507"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361946"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2836802"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4099751"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7d5t3vohvjzd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:43:24.612369",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

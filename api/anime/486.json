@@ -4,7 +4,367 @@
     "puan": "7.32",
     "bolum_durumu": "13/13",
     "ozet": "Kino, genç bir gezgindir. Motosikleti Hermes ile sohbet ede ede, ülkeden ülkeye dolaşmaktadır. Her ülkede sadece 3 gün kalıp, oradaki insanların yaşamlarını, kültürlerini, alışkanlıklarını, hayat tarzlarını...vb gözlemlemektedirler. Kino ve Hermes seyahatlerinde neler görecekler? Tanışdıkları insanlar, onlarda nasıl izler bırakacak?",
-    "slug": "kino-no-tabi-the-beautiful-world"
+    "slug": "kino-no-tabi-the-beautiful-world",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Kino No Tabi 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371822"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/vac99aiavny5"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jv4a9rihza3o.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 8.589,
+            "end": 98.589
+          }
+        },
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 2,
+        "title": "Kino No Tabi 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371823"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/7nrw04wdlyo7"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-s6lm8k5srhbc.html"
+          }
+        ],
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 3,
+        "title": "Kino No Tabi 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371824"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/xm1rbbtr4hgo"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ywgin3u5zrw6.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          }
+        },
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 4,
+        "title": "Kino No Tabi 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371825"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/dm1w7gqcn7id"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3s58dux9erqi.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          }
+        },
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 5,
+        "title": "Kino No Tabi 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371826"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ybxag4064x98"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0x1qx28mmopu.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          },
+          "ed": {
+            "start": 1350,
+            "end": 1430
+          }
+        },
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 6,
+        "title": "Kino No Tabi 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371827"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/qmas1qlq597g"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pqkefje5oleu.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          },
+          "ed": {
+            "start": 1350,
+            "end": 1431
+          }
+        },
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 7,
+        "title": "Kino No Tabi 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371828"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/vrphoyn1uj8v"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-spcdh0le23ne.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          }
+        },
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 8,
+        "title": "Kino No Tabi 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371829"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/9ztkq5i7wuxt"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ttb3n64ekhvt.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          },
+          "ed": {
+            "start": 1350,
+            "end": 1431
+          }
+        },
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 9,
+        "title": "Kino No Tabi 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371830"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/6vwc6zgr91np"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-i2h077lq25e2.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          }
+        },
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 10,
+        "title": "Kino No Tabi 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371831"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/7peepe46kd2q"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pk6apdj12c4o.html"
+          }
+        ],
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 11,
+        "title": "Kino No Tabi 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371832"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/lvnrm1xgfv4d"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-02lvg596axa1.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          }
+        },
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 12,
+        "title": "Kino No Tabi 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371833"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/6h7cwf4syhz7"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ztuz6yyih1i7.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 91
+          }
+        },
+        "added_date": "2026-07-27T03:56:45.244220"
+      },
+      {
+        "episode_number": 13,
+        "title": "Kino No Tabi 13. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371834"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/us3psjwaoitf"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-w7k1dgv7fihc.html"
+          }
+        ],
+        "added_date": "2026-07-27T03:56:45.244220"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 486,
@@ -77,415 +437,106 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 486,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/486-cDPgzYdzHNEq.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx486-xXUgNOEBuxGs.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kino No Tabi 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371822"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/vac99aiavny5"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jv4a9rihza3o.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 8.589,
-          "end": 98.589
-        }
-      },
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371823"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/7nrw04wdlyo7"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-s6lm8k5srhbc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371824"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/xm1rbbtr4hgo"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ywgin3u5zrw6.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        }
-      },
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371825"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/dm1w7gqcn7id"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3s58dux9erqi.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        }
-      },
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371826"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ybxag4064x98"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-0x1qx28mmopu.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        },
-        "ed": {
-          "start": 1350,
-          "end": 1430
-        }
-      },
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371827"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/qmas1qlq597g"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pqkefje5oleu.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        },
-        "ed": {
-          "start": 1350,
-          "end": 1431
-        }
-      },
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371828"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/vrphoyn1uj8v"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-spcdh0le23ne.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        }
-      },
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371829"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/9ztkq5i7wuxt"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ttb3n64ekhvt.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        },
-        "ed": {
-          "start": 1350,
-          "end": 1431
-        }
-      },
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371830"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/6vwc6zgr91np"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-i2h077lq25e2.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        }
-      },
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371831"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/7peepe46kd2q"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pk6apdj12c4o.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371832"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/lvnrm1xgfv4d"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-02lvg596axa1.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        }
-      },
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371833"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/6h7cwf4syhz7"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ztuz6yyih1i7.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 91
-        }
-      },
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kino No Tabi 13. Bölüm Final",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371834"
-        },
-        {
-          "fansub_id": 47,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/us3psjwaoitf"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-w7k1dgv7fihc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:56:45.244220",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 34166,
     "type": "tv",

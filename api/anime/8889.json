@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Seki Hisashi'nin hayatı, Shinjuku'daki bir oto yedek parçası firmasında dokuz-beş çalışıp, çapkın müdüründen kaçmak, motoruyla yanlış yaşadığı daireye gitmekten ibaret. Bir sabah başına olmadık bir şey gelir. Seki, yatakta yanında uzanan çıplak bir kadınla uyanır, kız ona arzusunun onunla birlikte olmak olduğunu söylediğinde ise aklını kaçırır. Öyle olsa bile süper güçlerinden biri olan telekineziyi açıklamaz. İdeal kadınını bulmanın heyecanı ile ona hemen sarılır ve onun anlaşılmaz doğasını sorgulamaz. İşten eve dönerken, yeni bulduğu aşkının görüntüsü Seki'nin motor kazası yapmasına, ardından da polis tarafından kovalanmasına neden olur. Görünüşe göre, bu sırada apartman dairesinde bekleyen sabırsız kadın, ondan ayrı kalamıyordur. Eve birazcık geç varmasıyla birlikte, Seki, kadının ardında bir iz bırakmadan kayboluşuna tanık olur. İsimsiz ruh eşinin asla geri dönmeyeceğini bilmiyordu. Kızın asıl isteğinin ise geri dönmek olduğundan habersizdi.",
-    "slug": "majo-demo-steady"
+    "slug": "majo-demo-steady",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8889,
@@ -38,36 +39,14 @@
       403
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 8889,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8889.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Majo demo Steady OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1HiZ0uQiMFKONaP6qAWlnvJwEVFWsa0d9/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5045065"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T10:15:36.816046",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 334725,
     "type": "movie",

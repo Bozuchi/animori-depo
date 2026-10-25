@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Gizemli bir varlık Tokyo merkezinde görününce, Alta Mira Organizasyonu bu dünya dışı varlığı yok etmek ile görevlendirilir. Otsuya Funagai, kızlardan oluşan savaş robotu pilotları ile beraber her ne pahasına olursa olsun bu varlığı yok etmelidir. Fakat, Rin Ichikawa ile olan yakın ilişkisi, hem tüm takım hem de görev için sorun teşkil edecektir.",
-    "slug": "tenkuu-danzai-skelter-heaven"
+    "slug": "tenkuu-danzai-skelter-heaven",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3287,
@@ -38,56 +39,14 @@
       193
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3287,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3287-YruzuddRK7lM.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3287-d7Z2RGeVmh5T.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tenkuu Danzai Skelter+Heaven OVA ",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZZEr1AWF7SwZ1KAQHYJYMkwdyAKd359h/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tlG3ku2oC1Ls-rbs4msFYGDM0mz8OUHc/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850486"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4434018"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4003350"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-lqzsriaeft0g.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:46:06.771515",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 351512,
     "type": "movie",

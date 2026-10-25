@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Çok uzaklarda bir federasyon birliği yıldız savaşcısı olarak bilinen cesur John A. Warden tarafından korunmaktadır. Böcekler tarafından saldırıya uğrayınca Alesia Saldırı Gemisi buradakileri sağ salim dünyaya getirmek için mücadele verir...",
-    "slug": "starship-troopers-invasion"
+    "slug": "starship-troopers-invasion",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 14629,
@@ -52,51 +53,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 14629,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14629-uhfI3djJN4gk.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14629.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Starship Troopers: Invasion Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1l7j9HduYANN3INvoNBEdw76zD3ayhosq/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CevJgZ0RJZbIc5ZLd1U7P4v3x0OLn4AI/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931909900"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4522266"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ptviqtz5hy2x.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:02:47.361145",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 114478,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "8.94",
     "bolum_durumu": "1/1",
     "ozet": "Yedi Ölümcül Günah, 3.000 yıldan uzun bir süre önce mühürlenmiş uğursuz bir canavarı diriltmeye çalışan güçlü iblislere karşı Gökyüzü halkına yardım eder.",
-    "slug": "nanatsu-no-taizai-movie-tenkuu-no-torawarebito"
+    "slug": "nanatsu-no-taizai-movie-tenkuu-no-torawarebito",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 35946,
@@ -59,51 +60,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 99540,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99540-O4ey5WgXrMR8.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99540-QnY48c1oifvY.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Nanatsu no Taizai Movie: Tenkuu no Torawarebito",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 34,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/150WwPlgV59SvOLt4z7Hrg7s7gJlMgoYy/preview"
-        },
-        {
-          "fansub_id": 34,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-h06hkcook326.html"
-        },
-        {
-          "fansub_id": 301,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-a5iess0cytd4.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/828"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vtnlj40aegxl.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T14:20:06.829898",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 507569,
     "type": "movie",

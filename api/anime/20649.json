@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/2",
     "ozet": "Kimi no Iru Machi serisinin \"geldiğim köy\" adlı 26. manga sayısının adaptasyonu.",
-    "slug": "kimi-no-iru-machi-ova"
+    "slug": "kimi-no-iru-machi-ova",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 20649,
@@ -54,7 +55,8 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 20715,

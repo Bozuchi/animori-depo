@@ -4,7 +4,8 @@
     "puan": "9.11",
     "bolum_durumu": "1/1",
     "ozet": "Hayat, Karakura şehrinde her zamanki gibi olağan bir şekilde işlerken, İchigo ve dostları, günlük hayatlarına devam etmektedirler. Rukia ve Renji özel bir görev için şehre gelirken, Karakura lisesinde bir takım kazalar olmaya başlar. İchigo ve ailesi aniden cehennemden geldiklerini söyleyen maskeli yabancılar tarafından saldırıya uğramıştır. İchigo’nun kız kardeşi Karin, Kokuto adındaki yabancının yardımıyla kurtarılırken, Yuzu, maskeli yabancılar tarafından cehenneme kaçırılmıştır. İchigo, kız kardeşini kurtarabilmek için Rukia, Renji ve İshida ile birlikte Kokuto'nun rehberliğinde cehenneme yolculuk etmek zorunda kalacaktır.",
-    "slug": "bleach-movie-4-jigoku-hen"
+    "slug": "bleach-movie-4-jigoku-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8247,
@@ -53,61 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 8247,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8247-M9lIhb1pWRTn.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8247-VppsQKlgXoXr.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Bleach Movie 04: Jigoku-hen",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16PTRG8-3VeFP3yzZZZOqaZWCTVgbtLp3/preview"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018129"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/feeling11d/video/embed/_myvideo/208"
-        },
-        {
-          "fansub_id": 120,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8lnwaeawvamx.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4982340"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1929247"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2enffcx1clv7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T05:44:40.023881",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 73245,
     "type": "movie",

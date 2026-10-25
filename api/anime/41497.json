@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yedi Aykırılığın tamamındaki savaşların ardından, Chaldea Güvenlik Örgütü sonunda Son Aykırılık Ulu Zaman Tapınağı: Süleyman'nın son noktasına geldi. Şimdi bütün kötülüklerin kökü olan Büyücülerin Kralı Süleyman'ı hezimete uğratmanın ve geleceği geri almanın vakti geldi. Son muharebe yaklaşırken, Doktor Roman Archaman yakında önemli bir seçim yapması gerekiyor. Mash Kyrielight yaşamın sınırlarında duruyor ve Fujimaru yeni bir Mistik Şifre almaya hazırlanıyor. Tüm savaşlar bu anı getirirken, Fujimaru ve Mash son görevleri başlıyor.",
-    "slug": "fate-grand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon"
+    "slug": "fate-grand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 41497,
@@ -46,66 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 116756,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116756-Bb7BkeRMTpaP.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116756-jIU2HrnEsDjR.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1V_qPCa-JGHY3CI0J5y8l4hel7OHmYX9e/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461600876"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-f93lj0jl795c.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1N6MlnFBhMcC7avM3OilTDRGQN9sqkr0k/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/2014"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5xcb5zlxvml0.html"
-        },
-        {
-          "fansub_id": 233,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yoQ4yFCscVb-Zmm8lqrsd_3Z9j1es2g5/preview"
-        },
-        {
-          "fansub_id": 233,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-a12kesexap87.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T01:18:34.082947",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 829920,
     "type": "movie",

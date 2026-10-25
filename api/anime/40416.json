@@ -4,7 +4,8 @@
     "puan": "9.12",
     "bolum_durumu": "1/1",
     "ozet": "Bu Tokisaki Kuruminin anlatılmaması gereken hikayesi– komşu dünyada uyanmış olan hafızasını kaybetmiş genç kız Empty, Tokisaki Kurumi ile karşılaşır. Onun öncülüğünde ulaştığı yer okulun bir sınıfıydı. Yarı ruhlar olarak bilinen kızlar birbirlerini öldürme amacıyla toplandı. O halde– Savaşımıza Başlayalım (Randevu)",
-    "slug": "date-a-bullet-dead-or-bullet"
+    "slug": "date-a-bullet-dead-or-bullet",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40416,
@@ -59,94 +60,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 111852,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111852-W3cRNx9CO7sJ.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Date A Bullet: Dead or Bullet Part 1",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 156,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271189149"
-        },
-        {
-          "fansub_id": 156,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359669100"
-        },
-        {
-          "fansub_id": 156,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4770703"
-        },
-        {
-          "fansub_id": 156,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bm7hk19cdfso.html"
-        },
-        {
-          "fansub_id": 156,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/xy7yct3s"
-        },
-        {
-          "fansub_id": 156,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1apy33577f9s.html"
-        },
-        {
-          "fansub_id": 51,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UzLYvCI0rNFGsB9r-IW2x1nNMTTdRYHI/preview"
-        },
-        {
-          "fansub_id": 51,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5081244996078666702"
-        },
-        {
-          "fansub_id": 51,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5yvuppzy"
-        },
-        {
-          "fansub_id": 51,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-iq4zfeo4skmu.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1702"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4098159"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-vi647qnm3fmm.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ra8lsu1b"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T10:18:30.635962",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

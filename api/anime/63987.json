@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Li Xiongmao",
-    "slug": "li-xiongmao"
+    "slug": "li-xiongmao",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63987,
@@ -35,13 +36,13 @@
     "studios": [
       2175
     ],
-    "relations": []
+    "relations": [],
+    "episode_list": []
   },
   "anilist": {
     "id": 211220,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211220-fkWS8gCM2rA5.png"
   },
-  "synopsis_tr": "Hikaye, iblis ırkı tarafından büyütülmüş bir insan çocuk olan Li Xiongmao'nun, efendisi tarafından iblis ırkını yok eden üç düşmanı öldürmek üzere Siyah ve Beyaz Dağ'dan ayrılması emrini konu alıyor. Gerçeği araştırma sürecinde yavaş yavaş insanlarla iblisler arasındaki çatışmayı, hanedanın sırlarını ve kendi kaderinin gizemini ortaya çıkarır.(Kaynak: iQIYI, çevrildi)",
-  "episodes": []
+  "synopsis_tr": "Hikaye, iblis ırkı tarafından büyütülmüş bir insan çocuk olan Li Xiongmao'nun, efendisi tarafından iblis ırkını yok eden üç düşmanı öldürmek üzere Siyah ve Beyaz Dağ'dan ayrılması emrini konu alıyor. Gerçeği araştırma sürecinde yavaş yavaş insanlarla iblisler arasındaki çatışmayı, hanedanın sırlarını ve kendi kaderinin gizemini ortaya çıkarır.(Kaynak: iQIYI, çevrildi)"
 }

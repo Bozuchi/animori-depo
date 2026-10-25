@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "SK∞ animesinin OVA bölümüdür.",
-    "slug": "sk-ova-extra-part"
+    "slug": "sk-ova-extra-part",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 49363,
@@ -43,39 +44,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 136381,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136381-t6c5rfKjnqqd.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "SK∞: Extra Part OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 201,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1grzCpsXIucipUJujot8M5ZyXoJ4DaA4C/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NfRSUGWb1pyibXPD25ABVIqKDpXRrhFm/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5854895"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:50:44.967172",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

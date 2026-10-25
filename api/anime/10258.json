@@ -4,7 +4,73 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "İnsanlara yakınlaşmaya çalışan şirin mi şirin hamamböceğinin başından geçenler.Kendisinin insanlar tarafından sevilmesi için çaba harcayan bir hamamböceği ve insanların ona karşı verdiği tepkiler. Hamamböceklerinin farklı bir açıdan hayatlarını anlatan komik bir seri. CloudTsuchiya - AniTR",
-    "slug": "gokicha"
+    "slug": "gokicha",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Gokicha!! Cockroach Girl! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EGP3QacPyvg3aP5_rtL5GIl6Q6Xhpf-m/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oxFh6Zm5BQna4olLBrYfkX9zx78BYyGK/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4503174"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zwairjkerif1.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/v3g39819"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-8iklaqwnnkfo.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-k4de80twguvv.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:13:17.531503"
+      },
+      {
+        "episode_number": 2,
+        "title": "Gokicha!! Cockroach Girl! 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WiSDw2vOlhRxhdLIxdupoD8CQJj7Fb8r/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849067"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4425139"
+          }
+        ],
+        "added_date": "2026-07-26T00:13:17.531503"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10258,
@@ -46,87 +112,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 10258,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10258.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Gokicha!! Cockroach Girl! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EGP3QacPyvg3aP5_rtL5GIl6Q6Xhpf-m/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oxFh6Zm5BQna4olLBrYfkX9zx78BYyGK/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4503174"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zwairjkerif1.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/v3g39819"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8iklaqwnnkfo.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-k4de80twguvv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:13:17.531503",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Gokicha!! Cockroach Girl! 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WiSDw2vOlhRxhdLIxdupoD8CQJj7Fb8r/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849067"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4425139"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:13:17.531503",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 126583,
     "type": "tv",

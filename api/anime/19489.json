@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Shiny Chariot adlı bir büyücüden ilham alarak ve etkilenerek Akko Kagari adlı kahramanımız \"Küçük Cadı Akademisi\" 'ne girer. Amacı Shiny Chariot gibi havalı ve iyi bir büyücü olmaktır.",
-    "slug": "little-witch-academia-mahoujikake-no-parade"
+    "slug": "little-witch-academia-mahoujikake-no-parade",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 19489,
@@ -53,61 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 19489,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19489-s9aBkW2R8ei1.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19489-jOPAElIhmwmB.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Little Witch Academia: Mahoujikake no Parade",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zEHJkecLH4n7VMoPObsAhBA12uI5AkLg/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/hikigaya.fansub/_myvideo/69.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847112"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018743"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4074022"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/9nl3qbq4"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vsfys3h1t904.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:21:40.023051",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 347413,
     "type": "movie",

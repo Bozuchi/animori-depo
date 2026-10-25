@@ -4,7 +4,8 @@
     "puan": "9.01",
     "bolum_durumu": "1/1",
     "ozet": "Shinmai Maou no Testament Burst özel bölümüdür.",
-    "slug": "shinmai-maou-no-testament-burst-toujou-basara-no-shigoku-heiwa-na-nichijou"
+    "slug": "shinmai-maou-no-testament-burst-toujou-basara-no-shigoku-heiwa-na-nichijou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 30365,
@@ -53,46 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21489,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21489-mz0SQkCiXCcO.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shinmai Maou no Testament Burst OAD",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 10,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1N30k00ELY7DU0yzFuXJXwXtg6dNKp8UZ/preview"
-        },
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911294"
-        },
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/arsenik013/_myvideo/14.html"
-        },
-        {
-          "fansub_id": 10,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pt7s3x1e2dq7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T09:45:04.778542",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 64163,
     "type": "tv",

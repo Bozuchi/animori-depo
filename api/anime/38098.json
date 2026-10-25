@@ -4,7 +4,119 @@
     "puan": "0.00",
     "bolum_durumu": "2/24",
     "ozet": "Hikâye Meisei Gakuen, tıpkı Touch serileri ile aynı yerde sadece 26 yıl sonrasında geçiyor. Tıpkı Touch gibi, Mix erkek kardeşler ve beyzbol ana teması çevresinde dönüyor.",
-    "slug": "mix"
+    "slug": "mix",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Mix 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/164YWN50_1hDR61vP1OVJIPesutTGvSCK/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1gCmoFMwLH8KF3p8x3i78tNwOJwMf_Q4A/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718874"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/2210"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4478079"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3623036"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-edgo3y5p6h5p.html"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-70ndzzjpw8iv.html"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/sydlckg3"
+          },
+          {
+            "fansub_id": 30,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rowc5dd49rtg.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1308,
+            "end": 1399
+          }
+        },
+        "added_date": "2026-07-27T12:23:38.168322"
+      },
+      {
+        "episode_number": 2,
+        "title": "Mix 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1caO9tQ7Q8wwZli4qFD0bUUCsvegN1tfE/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/efegun4/video/embed/_myvideo/36"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718875"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4478080"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3624796"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1knv10p3xzxd.html"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/c9b913qk"
+          },
+          {
+            "fansub_id": 30,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-o1e4c6vn1q5w.html"
+          }
+        ],
+        "added_date": "2026-07-27T12:23:38.168322"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38098,
@@ -62,132 +174,29 @@
         ]
       }
     ],
-    "episodes": 24
+    "episodes": 24,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 103555,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103555-X53wSikiSLyh.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103555-YMLK0Feq3DmS.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mix 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/164YWN50_1hDR61vP1OVJIPesutTGvSCK/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1gCmoFMwLH8KF3p8x3i78tNwOJwMf_Q4A/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718874"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/2210"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4478079"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3623036"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-edgo3y5p6h5p.html"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-70ndzzjpw8iv.html"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/sydlckg3"
-        },
-        {
-          "fansub_id": 30,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rowc5dd49rtg.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1308,
-          "end": 1399
-        }
-      },
-      "added_date": "2026-07-27T12:23:38.168322",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mix 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1caO9tQ7Q8wwZli4qFD0bUUCsvegN1tfE/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/efegun4/video/embed/_myvideo/36"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718875"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4478080"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3624796"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1knv10p3xzxd.html"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/c9b913qk"
-        },
-        {
-          "fansub_id": 30,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-o1e4c6vn1q5w.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:23:38.168322",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 87456,
     "type": "tv",

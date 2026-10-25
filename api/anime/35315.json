@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "ChäoS;Child animesinin 13 ve 14. bölümleridir.",
-    "slug": "chaos-child-silent-sky"
+    "slug": "chaos-child-silent-sky",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 35315,
@@ -47,56 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 98576,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98576-DEb7XbyaP5qh.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "ChäoS;Child: Silent Sky Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Gmq5o5s3KQ4KZmw9H5h-ELxXYOmaSrgd/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850366"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6860"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4433141"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3778258"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8d4toi4j"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T08:55:00.260786",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 479248,
     "type": "movie",

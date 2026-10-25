@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "DVD/Blu-ray ile birlikte verilen özel bölüm.",
-    "slug": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-menma-e-no-tegami"
+    "slug": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-menma-e-no-tegami",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 38963,
@@ -44,49 +45,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 107342,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107342-CohOnqdwuycN.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 108,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dcQrUPcx6PGGWS9m3BQIkyn7A585UYhv/preview"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/3794"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3551095"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-fw0d349r3w83.html"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hiqz99wp"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:49:15.437973",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

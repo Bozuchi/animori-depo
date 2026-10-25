@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Vano öyküsünün 8. özet bölümüdür.",
-    "slug": "one-piece-dai-gekisen-tokushuu-hangeki-doumei-vs-big-mom"
+    "slug": "one-piece-dai-gekisen-tokushuu-hangeki-doumei-vs-big-mom",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 55647,
@@ -48,45 +49,8 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
-  "anilist": null,
-  "episodes": [
-    {
-      "turkanime_title": "One Piece 1065,5. Bölüm",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JIkLkrG6LxRXcRWGU_uT0W04gg3WZkf1/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/8275262434374059230"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5205579"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/mcimp7d0"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/t7zmvf4x"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T20:55:38.207973",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  "anilist": null
 }

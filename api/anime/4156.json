@@ -4,7 +4,56 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ichigo Mashimaro serisinin astronot temalı özel bölümüdür.",
-    "slug": "ichigo-mashimaro-episode-0"
+    "slug": "ichigo-mashimaro-episode-0",
+    "episodes": [
+      {
+        "episode_number": 0,
+        "title": "Ichigo Mashimaro 0. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PgOXxeUBUqijImBMxBsUcKLnu4zrjxAx/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931907960"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1296462"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4495198"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jyfrateg842n.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-o4y3blvhdsy8.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ixgfmanp"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kvo906djxuoo.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:58:48.744563"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4156,
@@ -51,64 +100,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4156,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4156.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ichigo Mashimaro 0. Bölüm",
-      "episode_number": 0,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PgOXxeUBUqijImBMxBsUcKLnu4zrjxAx/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931907960"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1296462"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4495198"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jyfrateg842n.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-o4y3blvhdsy8.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ixgfmanp"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-kvo906djxuoo.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:58:48.744563",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

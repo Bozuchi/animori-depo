@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kayıp annesini bulmak için yazın kar yağarken kendisini gizemli bir yolculuğa sürükleyen dikbaşlı bir kızla maceraya atılan utangaç bir çocuk hayır demeyi öğrenebilecek midir?",
-    "slug": "suki-demo-kirai-na-amanojaku"
+    "slug": "suki-demo-kirai-na-amanojaku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 58449,
@@ -45,36 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 148080,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148080-4FZfDfDhW7Ds.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148080-2wVRYUghiaAq.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Suki demo Kirai na Amanojaku Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371581"
-        },
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/0cddv6on1s24"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:26:26.074744",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1231574,
     "type": "movie",

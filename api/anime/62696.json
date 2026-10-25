@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Choujun! Choujou-senpai",
-    "slug": "choujun-choujou-senpai"
+    "slug": "choujun-choujou-senpai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 62696,
@@ -46,7 +47,8 @@
           167174
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 200294,
@@ -60,6 +62,5 @@
     "episode_offset": 0,
     "name": "Super Psychic Policeman Chojo"
   },
-  "synopsis_tr": "Hiç uyumayan şehir Chinjuku'da, insan kavrayışının ötesinde güçlere sahip, psişik, kıdemli bir polis memuru var! Adı Meguru Choujou! Judo uzmanı ortağı Nao Ippongi ile birlikte bu komik ikili, ne pahasına olursa olsun sokakları temiz tutacak!(Kaynak: MANGA Plus)",
-  "episodes": []
+  "synopsis_tr": "Hiç uyumayan şehir Chinjuku'da, insan kavrayışının ötesinde güçlere sahip, psişik, kıdemli bir polis memuru var! Adı Meguru Choujou! Judo uzmanı ortağı Nao Ippongi ile birlikte bu komik ikili, ne pahasına olursa olsun sokakları temiz tutacak!(Kaynak: MANGA Plus)"
 }

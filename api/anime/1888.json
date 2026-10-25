@@ -4,7 +4,90 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Ichigo Mashimaro serisine ait OVA bölümlerdir.",
-    "slug": "ichigo-mashimaro-ova"
+    "slug": "ichigo-mashimaro-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ichigo Mashimaro OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hqJWMAJMKsgoEQTuW6ytRhL2SbAy4m82/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015922"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1986050"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ttwvxmipjill.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:58:54.092779"
+      },
+      {
+        "episode_number": 2,
+        "title": "Ichigo Mashimaro OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pjW9Y8MtlEW9woCzlfYSgBXuB90Fd3aH/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015923"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1986053"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-rcx7355nu132.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:58:54.092779"
+      },
+      {
+        "episode_number": 3,
+        "title": "Ichigo Mashimaro OVA 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bUc-PUES68GaKqmA3VnwaGdVMBp6tsMe/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015924"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1986057"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9wai5w8tonak.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:58:54.092779"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1888,
@@ -59,108 +142,14 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 1888,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1888-xX0n1atmBEVp.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1888-mcnlzqIm34zD.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ichigo Mashimaro OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hqJWMAJMKsgoEQTuW6ytRhL2SbAy4m82/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015922"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1986050"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ttwvxmipjill.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:58:54.092779",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Ichigo Mashimaro OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pjW9Y8MtlEW9woCzlfYSgBXuB90Fd3aH/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015923"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1986053"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rcx7355nu132.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:58:54.092779",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Ichigo Mashimaro OVA 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bUc-PUES68GaKqmA3VnwaGdVMBp6tsMe/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015924"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1986057"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9wai5w8tonak.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:58:54.092779",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 35730,
     "type": "tv",

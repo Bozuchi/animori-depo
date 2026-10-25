@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Hotaru no Yomeiri",
-    "slug": "hotaru-no-yomeiri"
+    "slug": "hotaru-no-yomeiri",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63293,
@@ -42,6 +43,22 @@
           154679
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "An Unwanted Repayment",
+        "aired": "Oct 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Tennyo Island",
+        "aired": "Oct 16, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -56,27 +73,5 @@
     "episode_offset": 0,
     "name": "Firefly Wedding"
   },
-  "synopsis_tr": "Onurlu Kirigaya ailesinin en büyük kızı Satoko, güzelliğine ve zarafetine kapılan erkeklerden birçok evlilik teklifi almıştır. Ancak gizli kalp rahatsızlığı nedeniyle hepsini geri çevirdi. Durumuna rağmen Satoko, sevgili babasının endişelerini dindirecek bir koca bulmaya hâlâ isteklidir. Satoko, bir gezinti sırasında bir grup paralı asker tarafından kaçırılır; içlerinden biri, onu idam etmekle görevlendirilmiş efsanevi suikastçı Shinpei Gotou'dur. Satoko, Gotou'ya onu serbest bırakması için rüşvet vermeye çalışır, ancak bu başarısız olur. Seçenekleri kalmayan Satoko umutsuz bir kumar oynar: İlk görüşte aşk kisvesi altında ondan kendisiyle evlenmesini ister. Beklenmedik bir şekilde Gotou yemi yutar ve onu korumaya yemin eder. Çift özgürlüğe kaçarken Satoko, hileyi sürdürmeye ve birlikte kaçtığı gizemli adama anlam vermeye çabalar.[MAL Rewrite tarafından yazılmıştır]",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "An Unwanted Repayment",
-      "episode_number": 1,
-      "aired": "Oct 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-10T09:45:51.205061"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Tennyo Island",
-      "episode_number": 2,
-      "aired": "Oct 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:46:51.057804"
-    }
-  ]
+  "synopsis_tr": "Onurlu Kirigaya ailesinin en büyük kızı Satoko, güzelliğine ve zarafetine kapılan erkeklerden birçok evlilik teklifi almıştır. Ancak gizli kalp rahatsızlığı nedeniyle hepsini geri çevirdi. Durumuna rağmen Satoko, sevgili babasının endişelerini dindirecek bir koca bulmaya hâlâ isteklidir. Satoko, bir gezinti sırasında bir grup paralı asker tarafından kaçırılır; içlerinden biri, onu idam etmekle görevlendirilmiş efsanevi suikastçı Shinpei Gotou'dur. Satoko, Gotou'ya onu serbest bırakması için rüşvet vermeye çalışır, ancak bu başarısız olur. Seçenekleri kalmayan Satoko umutsuz bir kumar oynar: İlk görüşte aşk kisvesi altında ondan kendisiyle evlenmesini ister. Beklenmedik bir şekilde Gotou yemi yutar ve onu korumaya yemin eder. Çift özgürlüğe kaçarken Satoko, hileyi sürdürmeye ve birlikte kaçtığı gizemli adama anlam vermeye çabalar.[MAL Rewrite tarafından yazılmıştır]"
 }

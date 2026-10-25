@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kahramanımız kaçırılır ve iki arkadaşı onu aramaya karar vererek evine giderler. Orada onun kaçırıldığını öğrenirler ve bir savaş uçağı bulup binerek onu kurtarmaya giderler. Ne yazık ki rastgele yıkımlara neden olacaklarından habersizdirler.",
-    "slug": "katsugeki-shoujo-tanteidan"
+    "slug": "katsugeki-shoujo-tanteidan",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9491,
@@ -39,34 +40,12 @@
       73
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9491,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9491.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Katsugeki Shoujo Tanteidan OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 9,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1t4K86hjMbA9jlZzoHIw8p0oPRE0w6w-V/preview"
-        },
-        {
-          "fansub_id": 9,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/1584"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T01:34:14.755707",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

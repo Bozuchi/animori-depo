@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Bu arc, şehirdeki yeni hayatına giderek alışan ve ramen dükkanında çalışan Sakurashin sakinlerinden Jiang-shi yokaisi olan Rin Azuma'ya odaklanmaktadır. Bir gün eski arkadaşlarından Zakuro Kurumaki, Rin'i yakalamak için Sakurashin'i istila eder. Zakuro'nun amacı Rin'i ve Enjin Hiizumi'yi yakalayıp ve diğer yokai avcılarıyla birlikte şehri yok etmeye ikna etmektir. Enjin Hiizumi ve Hiizumi Yaşam Danışma Ofisi'nin diğer üyeleri Rin'i kurtarmak ve Zakura'ya hükmeden yokaiyi \"uyumlayarak\" şehri korumak için harekete geçerler.",
-    "slug": "yozakura-quartet-hoshi-no-umi"
+    "slug": "yozakura-quartet-hoshi-no-umi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8457,
@@ -63,113 +64,14 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 8457,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8457-iOJnFK1vWBUA.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8457-HLjTiI3nOFZs.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yozakura Quartet: Hoshi no Umi OVA-1",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SKRnrGL5ocy0UzPoNMaEUGRSFYuW9tnE/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzle52s/_myvideo/6.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018820"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2619394"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/2ptzkk70"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:53:23.196343",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Yozakura Quartet: Hoshi no Umi OVA-2",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mo1zouJCTAwFpMGCMX-3dCWwkapV0Gvn/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzle52s/_myvideo/8.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018821"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2619400"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:53:23.196343",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Yozakura Quartet: Hoshi no Umi OVA-3 Final",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fsy403xxJ-hHXoNi9wc6lLa-OZ_npk8c/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018822"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzle52s/_myvideo/12.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2621040"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:53:23.196343",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 80500,
     "type": "tv",

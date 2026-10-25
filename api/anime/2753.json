@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kayoka 1940 yılında ilkokula başlayan genç bir kızdır. Biraz sulugözdür ve bunu çevresindekilerden saklamaz. Arkadaşlarıyla oynamayı, okul bahçesinde şarkı söylemeyi seviyordur ve üç ağabeyiyle eğleniyordur. Annesi hamile olduğundan kendisi de abla olmak üzeredir ve bunun getireceği sorumluluğun da farkındadır. Bu sırada savaşın zorluğu artıyordur ve doğal olarak vatansever bir şekilde ülkeyi desteklemek gerekmektedir...\n\nKayoko favori oyuncağını patlayıcı yapmaya yardımcı malzemeler yapılması için bağışlar. Zaman geçer, Kayoko büyür ve savaşın çevrelerindeki yaşamları nasıl etkilediğini görür. Hiçbir şey onu 1945'e hazırlayamayacaktır fakat kasvetli zamanlar yaklaşıyordur. Kayoko Ebina'nın İkinci Dünya Savaşı, Showa Dönemindeki gerçek yaşam deneyimlerinden yola çıkılarak yaratılmıştır.",
-    "slug": "ushiro-no-shoumen-daare"
+    "slug": "ushiro-no-shoumen-daare",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2753,
@@ -45,61 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2753,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2753-JZjEB7d4XF2e.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ushiro no Shoumen Daare",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_AZyfpgSSgp4tz0EF0UPm94_PLWwS4Vf/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lzlM5dqZYYxmXt2Q8W7dPeHsoqv9-0HB/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931910101"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4523119"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qdung5kr7xp5.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hu43lkgkp9cs.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5b9i6j6j2fsd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:56:18.152026",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 80398,
     "type": "movie",

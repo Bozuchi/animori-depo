@@ -4,7 +4,247 @@
     "puan": "0.00",
     "bolum_durumu": "13/13",
     "ozet": "Uma Musume projesinin Cygames tarafından geliştirilen bir yan ürünü. Oguri Cap'in Kasamatsu Eğitim Merkezi Akademisi'ndeki zamanını ve efsanevi bir at kız olma yolculuğunu takip eder.",
-    "slug": "uma-musume-cinderella-gray"
+    "slug": "uma-musume-cinderella-gray",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Uma Musume: Cinderella Gray 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JOe3pqLDb3MF20UGbMy1SZVxZuHPoY2E/preview"
+          }
+        ],
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 2,
+        "title": "Uma Musume: Cinderella Gray 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14CyE-U-MML6F914WXSukw-65sTT4iiiv/preview"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1324,
+            "end": 1414
+          }
+        },
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 3,
+        "title": "Uma Musume: Cinderella Gray 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15JkKixAgXMiwTeX8ATh6QUSg_WqnTrUD/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5944097"
+          }
+        ],
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 4,
+        "title": "Uma Musume: Cinderella Gray 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1O_GRTd7obTYBGiXVe1riDuGVr2qz8JRz/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5956625"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 45,
+            "end": 131
+          },
+          "ed": {
+            "start": 1252,
+            "end": 1342
+          }
+        },
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 5,
+        "title": "Uma Musume: Cinderella Gray 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mVNzMMDGCm8PWO1XmGOZaB-J-JE-LP6v/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6001993"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 60,
+            "end": 140
+          },
+          "ed": {
+            "start": 1370,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 6,
+        "title": "Uma Musume: Cinderella Gray 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1kFhP7mmmeiWtJDNR6u1b7HDnYV4BHGm_/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6014223"
+          }
+        ],
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 7,
+        "title": "Uma Musume: Cinderella Gray 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qpkJVhnyaj-jl6g5Dxd_TTdYJ1u9JS60/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6021262"
+          }
+        ],
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 8,
+        "title": "Uma Musume: Cinderella Gray 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OAqJ7-oLkVe1W6o-kUCMAC3clAL5Rq2B/preview"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1326,
+            "end": 1417
+          }
+        },
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 9,
+        "title": "Uma Musume: Cinderella Gray 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TxWxeXBa4i0XlEzDDKJSLNZUEBrLm8sm/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4z9c68yp"
+          }
+        ],
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 10,
+        "title": "Uma Musume: Cinderella Gray 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15YftCKq_HNsxWbSWzw27f5UMg7wZy1E0/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pdjvs400"
+          }
+        ],
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 11,
+        "title": "Uma Musume: Cinderella Gray 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1O6rckmzb4vf2t-f_tw6glsfH4EhGBg06/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vesbtnro"
+          }
+        ],
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 12,
+        "title": "Uma Musume: Cinderella Gray 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1u6Rwlemu_ooDsOlm-Z3y0G7CbeGGPXSp/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5g9ma3wc"
+          }
+        ],
+        "added_date": "2026-07-29T19:23:19.208888"
+      },
+      {
+        "episode_number": 13,
+        "title": "Uma Musume: Cinderella Gray 13. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_QFWvqPpVd3B1KFYp7Q7x7OykWaKpU8Z/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/oc4xyfxi"
+          }
+        ],
+        "added_date": "2026-07-29T19:23:19.208888"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59636,
@@ -61,301 +301,106 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 180516,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180516-qxKVBsTW6Czx.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180516-lebpoKLkw6E3.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JOe3pqLDb3MF20UGbMy1SZVxZuHPoY2E/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14CyE-U-MML6F914WXSukw-65sTT4iiiv/preview"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1324,
-          "end": 1414
-        }
-      },
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15JkKixAgXMiwTeX8ATh6QUSg_WqnTrUD/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5944097"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1O_GRTd7obTYBGiXVe1riDuGVr2qz8JRz/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5956625"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 45,
-          "end": 131
-        },
-        "ed": {
-          "start": 1252,
-          "end": 1342
-        }
-      },
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mVNzMMDGCm8PWO1XmGOZaB-J-JE-LP6v/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6001993"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 60,
-          "end": 140
-        },
-        "ed": {
-          "start": 1370,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1kFhP7mmmeiWtJDNR6u1b7HDnYV4BHGm_/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6014223"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qpkJVhnyaj-jl6g5Dxd_TTdYJ1u9JS60/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6021262"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1OAqJ7-oLkVe1W6o-kUCMAC3clAL5Rq2B/preview"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1326,
-          "end": 1417
-        }
-      },
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TxWxeXBa4i0XlEzDDKJSLNZUEBrLm8sm/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/4z9c68yp"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15YftCKq_HNsxWbSWzw27f5UMg7wZy1E0/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pdjvs400"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1O6rckmzb4vf2t-f_tw6glsfH4EhGBg06/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/vesbtnro"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1u6Rwlemu_ooDsOlm-Z3y0G7CbeGGPXSp/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5g9ma3wc"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Uma Musume: Cinderella Gray 13. Bölüm",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_QFWvqPpVd3B1KFYp7Q7x7OykWaKpU8Z/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/oc4xyfxi"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:23:19.208888",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 262700,
     "type": "tv",

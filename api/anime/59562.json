@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "NieR:Automata Ver1.1a 2. Kısım'ın ilk altı bölümünün derlemesi.",
-    "slug": "nier-automata-ver1-1a-part-2-chapter-13-18-chousa-report"
+    "slug": "nier-automata-ver1-1a-part-2-chapter-13-18-chousa-report",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 59562,
@@ -45,25 +46,8 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
-  "anilist": null,
-  "episodes": [
-    {
-      "turkanime_title": "NieR:Automata Ver1.1a Part 2 6.5. Bölüm",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 161,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/witffnk84mip"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:03:03.863964",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  "anilist": null
 }

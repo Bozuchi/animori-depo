@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Suların sürekli yükseldiği bir yerde yaşayan yaşlı bir adamın gözünden geçenleri anlatan 12 dakikalık bir yapım. 12 dakika gibi kısa bir süresi olmasına rağmen fazlasıyla duygu barındırıyor.",
-    "slug": "tsumiki-no-ie"
+    "slug": "tsumiki-no-ie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 5365,
@@ -37,56 +38,14 @@
       234
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 5365,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5365-DfFzzkOzHx45.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5365-kUWu68IfUZ97.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tsumiki no Ie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 108,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/247"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4885787"
-        },
-        {
-          "fansub_id": 108,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5e14masv7w39.html"
-        },
-        {
-          "fansub_id": 38,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3590957"
-        },
-        {
-          "fansub_id": 38,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-375rrr1iic8h.html"
-        },
-        {
-          "fansub_id": 38,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/l5042uet"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:43:08.953442",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 20722,
     "type": "movie",

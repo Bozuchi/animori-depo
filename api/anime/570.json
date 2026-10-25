@@ -4,7 +4,8 @@
     "puan": "8.07",
     "bolum_durumu": "1/1",
     "ozet": "Alternatif bir gerçeklikte, Japonya baskıcı bir düzenle yönetilmektedir. Kerberos isimli özel polis birimi, çeşitli terörist örgütleri engellemek için gizli bir şekilde faaliyet göstermektedir. Kerberos kuvvetlerinin birinci hedefi Sect isimli aşırı solcu terörist örgüttür. Kerberos, operasyonlarında ağır silah gücü ve güçlü donanım ile acımasız taktikler kullanmaktadır. Birim, savaş sonrasında ülkenin siyasi dengesinin sağlanmasına önemli katkılarda bulunmuştur. Ancak, 1960lı yıllara gelindiğinde bu gizli birimin polis örgütü içindeki varlık nedeni zayıflamıştır. Polis örgütü, bünyesinde artık böyle bir gizli birim istememektedir.\n\nJin-Roh bu arka plan kurgusu içerisinde Sect bomba kuryesi Kei Amemiya ve Kerberos üyesi Kazuki Fuse'nin hikayesini anlatır. Sect, eylemlerinde kullanacağı bombaları \"kırmızı başlıklı kızlar\" adını verdiği kuryeler aracılığı ile hedeflerine yöneltmektedir. Film, bir eylem sahnesi ile açılır. Bir kırmızı başlıklı kız, elindeki bombayı eylemcilerden birisine teslim eder ve bombanın polise atılması ile birlikte polis ile eylemciler arasında çatışmalar başlar. Kırmızı başlıklı kız, diğer bombayı bir sonraki hedefine ulaştırmak için kanalizasyon sistemine iner. Ancak, karşısında Kerberos askerleri çıkar ve onlardan kaçarken bir başka askerle karşılaşır. Asker, garip bir şekilde bomba kuryesine ateş edemez, ama kız bombayı üzerinde patlatır. Asker, son anda takım arkadaşının müdahalesi ile kurtulur. Bu olayın ardından görevden alınarak tekrar eğitime yollanılan askerin adı Kazuki Fuse'dir. Fuse, daha sonra, bu trajik olayın meydana geldiği yeri tekrar ziyaret eder. Burada, bomba kuryesinin kardeşi Kei Amemiya ile tanışır.\n\nJin-Roh, karanlık bir Kırmızı Başlıklı Kız eğretilemesidir. Film kurt konumundaki Fuse ile kırmızı başlıklı kız rolündeki Kei arasındaki trajik yakınlaşmayı anlatır. Mamoru Oshii'nin Kerberos isimli mangası ile Red Spectacles ve Stray Dogs isimli filmleri üzerine inşa edilmiştir.",
-    "slug": "jin-rou"
+    "slug": "jin-rou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 570,
@@ -51,51 +52,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 570,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/570-nk4Dc162QGNT.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx570-xyP4IO7i3ua2.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Jin-Roh: The Wolf Brigade",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Tp4luBSHm6RGBZ2TxydAJC2RBnOj7gpy/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/524.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016038"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2614890"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-29oytujktjfc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T06:50:48.235015",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 823,
     "type": "movie",

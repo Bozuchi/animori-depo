@@ -4,7 +4,8 @@
     "puan": "9.31",
     "bolum_durumu": "1/1",
     "ozet": "Birinci sezondan üçüncü sezona kadar 59 bölümü özetleyen film.",
-    "slug": "shingeki-no-kyojin-chronicle"
+    "slug": "shingeki-no-kyojin-chronicle",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 42091,
@@ -54,56 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 119113,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119113-J6nd0aoRSTAA.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119113-IzVI5oZ0og8O.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shingeki no Kyojin: Chronicle Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18AfkD-2_508V8Pa69RrK3DizX0x2yhWI/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DYOSMwG_RLSHklPqpUGEzICvEz_nhHx5/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WjgkHM8CSXEfPk4gR6r3yE48J7oIkfkk/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140716601"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659051"
-        },
-        {
-          "fansub_id": 25,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/zlg93yjpr8bm"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T09:25:33.233078",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 714194,
     "type": "movie",

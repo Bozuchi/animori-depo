@@ -4,7 +4,66 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Güncellenecektir.",
-    "slug": "girls-panzer-saishuushou-part-1"
+    "slug": "girls-panzer-saishuushou-part-1",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Girls & Panzer: Saishuushou 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1I9npUT1MdvNqj_txwyqa5_yCtlZQ927L/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715180"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3294315"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4461829"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/55nai1vb"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/guvus549"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qsn491i2"
+          },
+          {
+            "fansub_id": 34,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-q2b4yt8wm6nl.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 96,
+            "end": 195
+          },
+          "ed": {
+            "start": 2751,
+            "end": 2857
+          }
+        },
+        "added_date": "2026-07-25T23:53:13.034697"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33970,
@@ -57,73 +116,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 99938,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99938-lUK9y2hvkGaS.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99938-3BNqsG0QrZOV.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Girls & Panzer: Saishuushou 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 34,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1I9npUT1MdvNqj_txwyqa5_yCtlZQ927L/preview"
-        },
-        {
-          "fansub_id": 34,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715180"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3294315"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4461829"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/55nai1vb"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/guvus549"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qsn491i2"
-        },
-        {
-          "fansub_id": 34,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-q2b4yt8wm6nl.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 96,
-          "end": 195
-        },
-        "ed": {
-          "start": 2751,
-          "end": 2857
-        }
-      },
-      "added_date": "2026-07-25T23:53:13.034697",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/?",
     "ozet": "Uchuu Senkan Yamato 2205'in devamı: Aratanaru Tabidachi.",
-    "slug": "yamato-yo-towa-ni-rebel-3199"
+    "slug": "yamato-yo-towa-ni-rebel-3199",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 50855,
@@ -55,234 +56,168 @@
         ]
       }
     ],
-    "episodes": 22
+    "episodes": 22,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Begin the Secret Operation! Head for the New Yamato!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Silent Invasion! Ginga, Take Up Your Arms!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Shocking! The Dezarium's Dark Millennium of History",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Fire the Starting Gun! The New Battleship Yamato Comes To Life",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "Fierce Clash! Destroy the Invisible Battleship!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Alphon Infiltrates! Get back Sasha!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The Terrible Orfevre Zone! Yamato, Bet It All on a Surprise Attack!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Activate the Space Battleship Arizona! Reveal the true nature of the Dezarium!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Friendship torn apart! Yamato, break through the subspace gate at all costs!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Fierce Attack of the Deusura-III! The Terrible Operation Asteroid!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Sasha, A Reunion Across Time",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Frulul's Day Off",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "All Ships, Sortie! Eliminate the Planet Destroyer Missile!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Enter the Dark Gas Clouds! Chase the Witch of Uralia!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "Fight To the Last! Protect the Immigrant Fleet!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "The Climactic Battle! Take Down the Dezarium Fortress",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "The Universe Revives, Awaken! Super Yamato!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "Chain Warp! Yamato, Cross Over Time!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Terrifying! The Black Space Battleship Yamato!!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "July 21, 2026 - The Yamato Appears in Tokyo",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "The Stolen Yamato - The Choice of 2026",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Begin the Counterattack! Revive, Ginga!",
+        "aired": "N/A",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 144779,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144779-WJ8aJbYk3o5t.png"
   },
-  "synopsis_tr": "Uchuu Senkan Yamato 2205'in devamı: Aratanaru Tabidachi.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Begin the Secret Operation! Head for the New Yamato!",
-      "episode_number": 1,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "The Silent Invasion! Ginga, Take Up Your Arms!",
-      "episode_number": 2,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Shocking! The Dezarium's Dark Millennium of History",
-      "episode_number": 3,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "Fire the Starting Gun! The New Battleship Yamato Comes To Life",
-      "episode_number": 4,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "Fierce Clash! Destroy the Invisible Battleship!",
-      "episode_number": 5,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "Alphon Infiltrates! Get back Sasha!",
-      "episode_number": 6,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "The Terrible Orfevre Zone! Yamato, Bet It All on a Surprise Attack!",
-      "episode_number": 7,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Activate the Space Battleship Arizona! Reveal the true nature of the Dezarium!",
-      "episode_number": 8,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "Friendship torn apart! Yamato, break through the subspace gate at all costs!",
-      "episode_number": 9,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "The Fierce Attack of the Deusura-III! The Terrible Operation Asteroid!",
-      "episode_number": 10,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "Sasha, A Reunion Across Time",
-      "episode_number": 11,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "Frulul's Day Off",
-      "episode_number": 12,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "13. Bölüm",
-      "title": "All Ships, Sortie! Eliminate the Planet Destroyer Missile!",
-      "episode_number": 13,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "14. Bölüm",
-      "title": "Enter the Dark Gas Clouds! Chase the Witch of Uralia!",
-      "episode_number": 14,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "15. Bölüm",
-      "title": "Fight To the Last! Protect the Immigrant Fleet!",
-      "episode_number": 15,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "16. Bölüm",
-      "title": "The Climactic Battle! Take Down the Dezarium Fortress",
-      "episode_number": 16,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "17. Bölüm",
-      "title": "The Universe Revives, Awaken! Super Yamato!",
-      "episode_number": 17,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "18. Bölüm",
-      "title": "Chain Warp! Yamato, Cross Over Time!",
-      "episode_number": 18,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "19. Bölüm",
-      "title": "Terrifying! The Black Space Battleship Yamato!!",
-      "episode_number": 19,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "20. Bölüm",
-      "title": "July 21, 2026 - The Yamato Appears in Tokyo",
-      "episode_number": 20,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "21. Bölüm",
-      "title": "The Stolen Yamato - The Choice of 2026",
-      "episode_number": 21,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    },
-    {
-      "turkanime_title": "22. Bölüm",
-      "title": "Begin the Counterattack! Revive, Ginga!",
-      "episode_number": 22,
-      "aired": "N/A",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:04:53.657896"
-    }
-  ]
+  "synopsis_tr": "Uchuu Senkan Yamato 2205'in devamı: Aratanaru Tabidachi."
 }

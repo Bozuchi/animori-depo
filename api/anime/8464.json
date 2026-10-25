@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/1",
     "ozet": "Çeşitli derecelerde sapıkça olan kısa hikayeler koleksiyonu.",
-    "slug": "pants-no-ana-mambo-de-ganbo"
+    "slug": "pants-no-ana-mambo-de-ganbo",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8464,
@@ -39,7 +40,8 @@
       48
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 8464,

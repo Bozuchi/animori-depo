@@ -4,7 +4,43 @@
     "puan": "0.00",
     "bolum_durumu": "2/12",
     "ozet": "Yaşarken kimsenin kaçamayacağı acılar: yaşamak, yaşlılık, hastalık ve ölüm. Bu acıdan kurtulmanın yolu Budist aydınlanmadan geçer. Budist aydınlanmayı elde eden bir prens, savaşın sonunda Shaka Nyorai oldu ve dünyayı kurtardı. O zamandan bu yana çok uzun bir zaman geçti ve çöküş başladı. Bir zamanlar Shaka'nın aydınlanmasına zarar vermeye çalışan endişe, Mara, Shaka'dan intikam almak için şeytanla bir sözleşme yaptı ve endişeli insanları kontrol etmeye başladı. Bu arada, On üç Buda olarak adlandırılan Shaka'nın ekibi ve Dharma'yı koruyan iki hayırsever tanrı Taishakuten ve Bonten; insanları endişelerden korumak için Mara'ya karşı savaş açtı. Mara ve Budist tanrılar arasındaki savaş, insanları da içine sürükleyerek asıl şimdi başlıyor!",
-    "slug": "namu-amida-butsu-rendai-utena"
+    "slug": "namu-amida-butsu-rendai-utena",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Namu Amida Butsu! Rendai Utena 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5228617"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/aa26pqbffvb1"
+          }
+        ],
+        "added_date": "2026-07-27T14:11:41.202902"
+      },
+      {
+        "episode_number": 2,
+        "title": "Namu Amida Butsu! Rendai Utena 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5232042"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/eabmgnma7eft"
+          }
+        ],
+        "added_date": "2026-07-27T14:11:41.202902"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38150,
@@ -45,57 +81,29 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 104212,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104212-9yezOgTRNAvM.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b104212-Pb79PmiljHwx.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Namu Amida Butsu! Rendai Utena 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5228617"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/aa26pqbffvb1"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T14:11:41.202902",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Namu Amida Butsu! Rendai Utena 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5232042"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/eabmgnma7eft"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T14:11:41.202902",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 87474,
     "type": "tv",

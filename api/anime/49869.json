@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ganbare Douki-chan serisinin 13. (Special) bölümüdür.",
-    "slug": "ganbare-douki-chan-kakusa-shakai-ni-nayamu-kaisha-no-douki"
+    "slug": "ganbare-douki-chan-kakusa-shakai-ni-nayamu-kaisha-no-douki",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 49869,
@@ -55,23 +56,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 139451,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139451-iF4Am513y84M.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ganbare Douki-chan Special: Kakusa Shakai ni Nayamu Kaisha no Douki",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:32:50.932378",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Amaenaide yo!! animesinin özel bölümüdür.",
-    "slug": "amaenaide-yo-yasumanaide-yo"
+    "slug": "amaenaide-yo-yasumanaide-yo",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1749,
@@ -50,49 +51,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1749,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1749.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Amaenaide yo!! Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 99,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RLEt4B0dJEsYv1b4VOti5-ps_URk-xaJ/preview"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685364772"
-        },
-        {
-          "fansub_id": 99,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3784689"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-8hsu429rjokh.html"
-        },
-        {
-          "fansub_id": 99,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ky3kh7jg67bx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:21:48.928911",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

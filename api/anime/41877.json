@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Tanrıların soyundan doğan 12 yaşındaki Kanna'nın hikayesi. Ailesinin görevi, Japonya'nın dört bir yanındaki adakları toplayıp, İzumi'de bir araya gelen Tanrılara ulaştırmaktır ancak annesi hayatını kaybeder ve ona Tanrıların diyarında tekrar kavuşmayı ümit eden Kanna, yarım kalan görevi bitirmek için bir maceraya atılır.",
-    "slug": "kamiarizuki-no-kodomo"
+    "slug": "kamiarizuki-no-kodomo",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 41877,
@@ -39,46 +40,14 @@
       839
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 118390,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118390-PEZaKViELb9y.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kamiarizuki no Kodomo Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gy9j58uuog4u.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FBO9cVV2RBM6ynryZ5jFlERZcPu9sQfW/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359662230"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lp4dkjoxqf1r.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T23:28:01.519796",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 628964,
     "type": "movie",

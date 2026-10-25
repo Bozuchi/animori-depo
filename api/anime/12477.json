@@ -4,7 +4,8 @@
     "puan": "8.84",
     "bolum_durumu": "1/1",
     "ozet": "Bir dünya hayal edin, uçsuz bucaksız bir karanlık ve olabildiğince uzanan tüneller! Bir de bu dünyanın tam tersi aydınlık bir gökyüzü ve ayaklarının altında uzanan yeşil çimenler… Dünyaları ne kadar karanlık olursa olsun, mütevazı ve hoş görülü insanları koydukları kurallar içerisinde hayatlarını sürdürmeye çalışmaktadır. Ancak koyulan bu kurallara pek inanmayan ve yasak bölgeleri araştırmayı seven Patema büyük bir gerçeği keşfeder. Kimin yer altında kimin yeryüzünde olduğu kavramı artık önemi yitirmiştir! Artık rollerin değişme zamanı gelmiştir…",
-    "slug": "sakasama-no-patema"
+    "slug": "sakasama-no-patema",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 12477,
@@ -52,46 +53,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 12477,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12477-RngQKNBGkEhp.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12477-KtZm8BuvrPYo.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sakasama no Patema",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682371190"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5413949"
-        },
-        {
-          "fansub_id": 120,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/u0wgd10mvpuh"
-        },
-        {
-          "fansub_id": 120,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cqhcct4dj1tu.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T06:13:52.791848",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 212167,
     "type": "movie",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "İki bilim adamı izinsiz tüm Japonyayı etkileyecek bir iblis virüs ilacı dağıtırlar.Ancak işler karmaşık hale gelir.\nBir grup insan ilaç yüzünden bulaşıcı hastalığa yakalanır.\nBu yüzden iki bilim adamının kendilerine karşı savaşı başlar. Ne kadar uğraşsalar da bu şeytani gücü kontrol edemezler.\nAma bu güç aynı zamanda diğer insanların hayatlarını kurtarmak için sahip oldukları en güçlü yönleridir.",
-    "slug": "bio-hunter"
+    "slug": "bio-hunter",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1269,
@@ -50,56 +51,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1269,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1269.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Bio Hunter Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1v2Wljv4IF2fioDyiep7gXya7ciGaFVCc/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852935"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846973"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4444551"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4073361"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-si47fjt8k68y.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T04:50:53.890045",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 57224,
     "type": "movie",

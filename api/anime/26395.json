@@ -4,7 +4,215 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Teekyuu serisinin 4. sezonudur.",
-    "slug": "teekyuu-4"
+    "slug": "teekyuu-4",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Teekyuu 4 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QxT-s1Bc9yxmQxu_eTElUOFJ16pkLqln/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017975"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1762523"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-sawec30n6jdh.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 2,
+        "title": "Teekyuu 4 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tVpHPQ-8F_xIfBVTncMJAgnF8Qz9j5rf/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985853106"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847081"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4445208"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4073684"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6ohv10gn2xq6.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2lgmvriopkm7.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 3,
+        "title": "Teekyuu 4 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ysIJQmDbt2hM2M-ba2m7pN1MdiF_RtK5/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985853107"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847082"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4445209"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4073687"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-uex0l3p4g4up.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hhp9d0axf8nk.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 4,
+        "title": "Teekyuu 4 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KO4kADlSMQk7b4Pwu-x4WMhiEgVbWjj-/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911049"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667184"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1777312"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4657568"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fis2n6ygd313.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ssf2hroddv1u.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-01lfxfbro3hd.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 5,
+        "title": "Teekyuu 4 5. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 6,
+        "title": "Teekyuu 4 6. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 7,
+        "title": "Teekyuu 4 7. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 8,
+        "title": "Teekyuu 4 8. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 9,
+        "title": "Teekyuu 4 9. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 10,
+        "title": "Teekyuu 4 10. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 11,
+        "title": "Teekyuu 4 11. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-29T15:30:21.799784"
+      },
+      {
+        "episode_number": 12,
+        "title": "Teekyuu 4 12. Bölüm Final",
+        "videos": [],
+        "added_date": "2026-07-29T15:30:21.799784"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 26395,
@@ -69,269 +277,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20833,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20833-1fDYCk5jMg2F.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20833-ucZRXykHU8FW.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Teekyuu 4 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1QxT-s1Bc9yxmQxu_eTElUOFJ16pkLqln/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017975"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1762523"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-sawec30n6jdh.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tVpHPQ-8F_xIfBVTncMJAgnF8Qz9j5rf/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985853106"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847081"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4445208"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4073684"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-6ohv10gn2xq6.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2lgmvriopkm7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ysIJQmDbt2hM2M-ba2m7pN1MdiF_RtK5/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985853107"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847082"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4445209"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4073687"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-uex0l3p4g4up.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hhp9d0axf8nk.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 25,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KO4kADlSMQk7b4Pwu-x4WMhiEgVbWjj-/preview"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911049"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667184"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1777312"
-        },
-        {
-          "fansub_id": 25,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4657568"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-fis2n6ygd313.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ssf2hroddv1u.html"
-        },
-        {
-          "fansub_id": 25,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-01lfxfbro3hd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 5. Bölüm",
-      "episode_number": 5,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 6. Bölüm",
-      "episode_number": 6,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 7. Bölüm",
-      "episode_number": 7,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 8. Bölüm",
-      "episode_number": 8,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 9. Bölüm",
-      "episode_number": 9,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 10. Bölüm",
-      "episode_number": 10,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 11. Bölüm",
-      "episode_number": 11,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Teekyuu 4 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:30:21.799784",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 53020,
     "type": "tv",

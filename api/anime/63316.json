@@ -4,7 +4,150 @@
     "puan": "0.00",
     "bolum_durumu": "7/12",
     "ozet": "Düşman hatlarının gerisinde gizli bir göreve atılan Jooheon'un, TKBM'ye acı çektirmek için hazırladığı en yeni plan, onları içeriden çökertmeyi hedefliyor! Kalıntılarını (relic) çalmak ve aralarına nifak sokup iç çatışma çıkarmak, grubun günahlarının bedelini ödetmek için yapacaklarının sadece küçük bir kısmıdır.\n\nAncak Gurur Kulesi'nin (Tower of Pride) ortaya çıkışıyla birlikte, tarihin en korkunç savaş ağalarını birbirine düşürmek zorunda kalan Jooheon'un insanları kışkırtma ve manipüle etme (rage-baiting) yetenekleri asıl büyük sınavını verecektir! Tarihin gördüğü en büyük fatihlerin bu amansız savaşında, Jooheon Suh nihayet en tepedeki isim olarak çıkmayı başarabilecek midir?",
-    "slug": "dogulwang"
+    "slug": "dogulwang",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Dogulwang 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/8k1crgs8gdkb"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-34kgb4fw6qjr.html"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6237546"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/th6ndxz5"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 202.9,
+            "end": 282.9
+          }
+        },
+        "added_date": "2026-07-24T21:52:23.290095"
+      },
+      {
+        "episode_number": 2,
+        "title": "Dogulwang 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/u4n44vge991w"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-utpj2q0h42o2.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 8.6,
+            "end": 88.6
+          }
+        },
+        "added_date": "2026-07-24T21:52:23.290095"
+      },
+      {
+        "episode_number": 3,
+        "title": "Dogulwang 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/qzmxz2qumk4s"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nxqmq0mrhg2i.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-z8kkjub1cmvd.html"
+          }
+        ],
+        "added_date": "2026-07-24T21:52:23.290095"
+      },
+      {
+        "episode_number": 4,
+        "title": "Dogulwang 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/9d5ag1bv3hxp"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 6.595558,
+            "end": 89.62046
+          },
+          "ed": {
+            "start": 1293.8926,
+            "end": 1373.8926
+          }
+        },
+        "added_date": "2026-07-30T14:58:19.363380"
+      },
+      {
+        "episode_number": 5,
+        "title": "Dogulwang 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/a4wyfylmmvs2"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mrwpa1rbgy8z.html"
+          }
+        ],
+        "added_date": "2026-08-14T02:05:44.131997"
+      },
+      {
+        "episode_number": 6,
+        "title": "Dogulwang 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/del1wszpefc2"
+          }
+        ],
+        "added_date": "2026-08-31T04:22:06.546736"
+      },
+      {
+        "episode_number": 7,
+        "title": "Dogulwang 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/vg7v4mfbt71b"
+          }
+        ],
+        "added_date": "2026-08-31T04:22:06.546736"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 63316,
@@ -47,7 +190,93 @@
         ]
       }
     ],
-    "episodes": 11
+    "episodes": 11,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Once Again from the End",
+        "aired": "Jul 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Those Who Seek to Own Relics",
+        "aired": "Jul 16, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "One Suited for Domination",
+        "aired": "Jul 23, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "The One Who Stole the Future",
+        "aired": "Jul 30, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "The Owner of the Tree of Life",
+        "aired": "Aug 6, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "The Great Tombification",
+        "aired": "Aug 13, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "Restoration of Relics",
+        "aired": "Aug 20, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "The Secret of Crows",
+        "aired": "Aug 27, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "The Ruler of Relics",
+        "aired": "Sep 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "The Curse of Relics",
+        "aired": "Sep 10, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Tian Fu's Relic",
+        "aired": "Sep 17, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Tomb Raider King",
+        "aired": "Oct 1, 2026",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 184356,
@@ -55,238 +284,6 @@
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png"
   },
   "synopsis_tr": "Düşman hatlarının arkasında gizli görev yapan Jooheon'un TKBM'ye eziyet etme yönündeki en yeni planı, onları içeriden yok etmeyi içerecek! Onların kutsal emanetlerini çalmak ve iç kavgaya neden olmak, gruba günahlarının bedelini ödetmek için yapabilecekleri konusunda buzdağının sadece görünen kısmı. Ancak Gurur Kulesi'nin ortaya çıkmasıyla birlikte Jooheon'un öfkeyi yenme becerileri gerçek anlamda test edilecek ve en korkunç savaş ağalarını birbirine düşürmek zorunda kalacak! Jooheon Suh tarihin en büyük fatihlerinin savaşında zirveye çıkacak mı?(Kaynak: Yen Press)",
-  "episodes": [
-    {
-      "turkanime_title": "Dogulwang 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/8k1crgs8gdkb"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-34kgb4fw6qjr.html"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=6237546"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/th6ndxz5"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 202.9,
-          "end": 282.9
-        }
-      },
-      "added_date": "2026-07-24T21:52:23.290095",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false,
-      "title": "Once Again from the End",
-      "aired": "Jul 9, 2026"
-    },
-    {
-      "turkanime_title": "Dogulwang 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/u4n44vge991w"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-utpj2q0h42o2.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 8.6,
-          "end": 88.6
-        }
-      },
-      "added_date": "2026-07-24T21:52:23.290095",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false,
-      "title": "Those Who Seek to Own Relics",
-      "aired": "Jul 16, 2026"
-    },
-    {
-      "turkanime_title": "Dogulwang 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/qzmxz2qumk4s"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nxqmq0mrhg2i.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-z8kkjub1cmvd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T21:52:23.290095",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false,
-      "title": "One Suited for Domination",
-      "aired": "Jul 23, 2026"
-    },
-    {
-      "turkanime_title": "Dogulwang 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/9d5ag1bv3hxp"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 6.595558,
-          "end": 89.62046
-        },
-        "ed": {
-          "start": 1293.8926,
-          "end": 1373.8926
-        }
-      },
-      "added_date": "2026-07-30T14:58:19.363380",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false,
-      "title": "The One Who Stole the Future",
-      "aired": "Jul 30, 2026"
-    },
-    {
-      "turkanime_title": "Dogulwang 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/a4wyfylmmvs2"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mrwpa1rbgy8z.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-14T02:05:44.131997",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false,
-      "title": "The Owner of the Tree of Life",
-      "aired": "Aug 6, 2026"
-    },
-    {
-      "turkanime_title": "Dogulwang 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/del1wszpefc2"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-31T04:22:06.546736",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false,
-      "title": "The Great Tombification",
-      "aired": "Aug 13, 2026"
-    },
-    {
-      "turkanime_title": "Dogulwang 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/vg7v4mfbt71b"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-08-31T04:22:06.546736",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false,
-      "title": "Restoration of Relics",
-      "aired": "Aug 20, 2026"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "The Secret of Crows",
-      "episode_number": 8,
-      "aired": "Aug 27, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:50.665460"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "The Ruler of Relics",
-      "episode_number": 9,
-      "aired": "Sep 3, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:50.665460"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "The Curse of Relics",
-      "episode_number": 10,
-      "aired": "Sep 10, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:50.665460"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "Tian Fu's Relic",
-      "episode_number": 11,
-      "aired": "Sep 17, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:50.665460"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "Tomb Raider King",
-      "episode_number": 12,
-      "aired": "Oct 1, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:06:50.665460"
-    }
-  ],
   "tmdb": {
     "id": 297826,
     "type": "tv",

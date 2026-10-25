@@ -4,7 +4,46 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Abashiri Ailesi kötülüğüyle nam salmış suç çetelerinden biridir. Baba Abashiri küçük kızının ölümcül bir çetenin üyesi olarak değil, genç bir bayan gibi daha düzgün yetiştirilmesinin zamanı geldiğine karar verir. Sevgili kızı Kukunosuke’yi seçkin bir yatılı olkula yollamaya karar verir. Sorun, bu okulun öğrencilerini mezun etme gibi bir niyetinin olmamasıdır. Sapık ve cinai eğilimleri olan deli öğretmenler, saldırgan ve arkadaş canlısı olmayan sınıf arkadaşları, hepsi Kukunosuke’yi yeni evinde karşılar. Pek yakında öğretmen-öğrenci savaşı başlayacaktır. Acaba Kukunosuke, okul onun işini bitirmeden okulu bitirebilecek midir?",
-    "slug": "abashiri-ikka"
+    "slug": "abashiri-ikka",
+    "episodes": [
+      {
+        "episode_number": 4,
+        "title": "Abashiri Ikka 1 - 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7871.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682367510"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/muobaba/video/embed/_myvideo/98"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1900429"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4381289"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2842289"
+          }
+        ],
+        "added_date": "2026-07-19T03:24:38.389203"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 305,
@@ -58,56 +97,14 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": []
   },
   "anilist": {
     "id": 305,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b305-Y7RNWKeCUoaQ.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Abashiri Ikka 1 - 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7871.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682367510"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/muobaba/video/embed/_myvideo/98"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1900429"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4381289"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2842289"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-19T03:24:38.389203",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 122517,
     "type": "tv",

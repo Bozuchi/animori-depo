@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Rilakkuma",
-    "slug": "rilakkuma"
+    "slug": "rilakkuma",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 60153,
@@ -43,6 +44,15 @@
           35777
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Episode 1",
+        "aired": "Apr 4, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -57,17 +67,5 @@
     "episode_offset": 0,
     "name": "Rilakkuma"
   },
-  "synopsis_tr": "Tembel olmayı zahmetsiz gösteren rahat ayı Rilakkuma'nın stressiz dünyasını deneyimleyin!(Kaynak: Crunchyroll)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Episode 1",
-      "episode_number": 1,
-      "aired": "Apr 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:31.999173"
-    }
-  ]
+  "synopsis_tr": "Tembel olmayı zahmetsiz gösteren rahat ayı Rilakkuma'nın stressiz dünyasını deneyimleyin!(Kaynak: Crunchyroll)"
 }

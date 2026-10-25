@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/2",
     "ozet": "Junjou Romantica Serisinin OVA Bölümleridir.",
-    "slug": "junjou-romantica-ova"
+    "slug": "junjou-romantica-ova",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 13767,
@@ -54,56 +55,14 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 13767,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13767.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Junjou Romantica OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3794960"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3795950"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-p1b7gdafogkj.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-y7jvflhe9y6s.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pkj1jhh3"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/gq6kjz8u"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T22:06:17.583362",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 37548,
     "type": "tv",

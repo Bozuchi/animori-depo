@@ -4,7 +4,93 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai anime ait special bölümler.",
-    "slug": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-specials"
+    "slug": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-specials",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Specials 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1I5SiJSevueNapWt5OZ2-gF2xvxBziX7V/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660020"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4459259"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3590874"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9hvrwm3xr5z5.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-diyrzaylnq8c.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ory2ph86"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-egpjhftntups.html"
+          }
+        ],
+        "added_date": "2026-07-29T00:02:05.190974"
+      },
+      {
+        "episode_number": 2,
+        "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Specials 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1w9RFJz_ZzBWg1Cys8k86McpuQe49sij8/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660022"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4459266"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3590883"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7p7jzy38lg5p.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/tqo0utgn"
+          }
+        ],
+        "added_date": "2026-07-29T00:02:05.190974"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39397,
@@ -47,105 +133,12 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 108062,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108062-Q469wLZv7O3k.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Specials 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1I5SiJSevueNapWt5OZ2-gF2xvxBziX7V/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660020"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4459259"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3590874"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9hvrwm3xr5z5.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-diyrzaylnq8c.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ory2ph86"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-egpjhftntups.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:02:05.190974",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Specials 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 16,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1w9RFJz_ZzBWg1Cys8k86McpuQe49sij8/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359660022"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4459266"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3590883"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7p7jzy38lg5p.html"
-        },
-        {
-          "fansub_id": 16,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/tqo0utgn"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:02:05.190974",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

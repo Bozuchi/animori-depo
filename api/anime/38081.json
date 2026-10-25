@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Girls & Panzer: Saishuushou film serisine ait ikinci filmdir.",
-    "slug": "girls-panzer-saishuushou-part-2"
+    "slug": "girls-panzer-saishuushou-part-2",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 38081,
@@ -57,44 +58,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 107208,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107208-cFNACaTprgKj.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107208-MjhBWAkUT4Yh.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Girls & Panzer: Saishuushou Part 2",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 134,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1sgiuZOl70WxqjpFWgNFgI7wSbZxbIrq-/preview"
-        },
-        {
-          "fansub_id": 134,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850617"
-        },
-        {
-          "fansub_id": 134,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4434538"
-        },
-        {
-          "fansub_id": 134,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-oo3bm3intw3l.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:53:15.783588",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,85 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Yuusha, Yamemasu animenin özel bölümleridir.",
-    "slug": "yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na"
+    "slug": "yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Ushinau no 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 15,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ceANbL8NG5oB3IAfCZZCRFRGBx46NNz4/preview"
+          },
+          {
+            "fansub_id": 15,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dvPeO57KjZR7Mtq1c5NYYf1uG5qaY0s7/preview"
+          },
+          {
+            "fansub_id": 15,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ifdtostWNoSrdcLPpMeZRjNN-1o_RG3t/preview"
+          },
+          {
+            "fansub_id": 15,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4767577"
+          },
+          {
+            "fansub_id": 15,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-06f5jz5vxas7.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 90
+          }
+        },
+        "added_date": "2026-07-30T20:45:11.913606"
+      },
+      {
+        "episode_number": 2,
+        "title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 15,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GX1j9Nc_kVFd2AsLoRa7phyNEtdLFppX/preview"
+          },
+          {
+            "fansub_id": 15,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5013091"
+          },
+          {
+            "fansub_id": 15,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/3iy7utj9ziuf"
+          },
+          {
+            "fansub_id": 15,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/edbzpohb"
+          },
+          {
+            "fansub_id": 15,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-84etez20utv6.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 552,
+            "end": 599
+          }
+        },
+        "added_date": "2026-07-30T20:45:11.913606"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 51562,
@@ -46,95 +124,12 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 151126,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151126-cyEV9s8Fz3Nu.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Ushinau no 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 15,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ceANbL8NG5oB3IAfCZZCRFRGBx46NNz4/preview"
-        },
-        {
-          "fansub_id": 15,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dvPeO57KjZR7Mtq1c5NYYf1uG5qaY0s7/preview"
-        },
-        {
-          "fansub_id": 15,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ifdtostWNoSrdcLPpMeZRjNN-1o_RG3t/preview"
-        },
-        {
-          "fansub_id": 15,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4767577"
-        },
-        {
-          "fansub_id": 15,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-06f5jz5vxas7.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 90
-        }
-      },
-      "added_date": "2026-07-30T20:45:11.913606",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 15,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GX1j9Nc_kVFd2AsLoRa7phyNEtdLFppX/preview"
-        },
-        {
-          "fansub_id": 15,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5013091"
-        },
-        {
-          "fansub_id": 15,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/3iy7utj9ziuf"
-        },
-        {
-          "fansub_id": 15,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/edbzpohb"
-        },
-        {
-          "fansub_id": 15,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-84etez20utv6.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 552,
-          "end": 599
-        }
-      },
-      "added_date": "2026-07-30T20:45:11.913606",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "9.11",
     "bolum_durumu": "1/1",
     "ozet": "Güç Turnuvası'nın ardından Dünya barış içindedir. Evrenlerde bir sürü güçlü kişinin olduğunu fark eden Goku daha da güçlenmek için tüm gününü eğitimlerine harcamaktadır. Ardından bir gün, Goku ve Vegeta daha önce görmedikleri \"Broly\" adında bir Saiyan'la karşılaşırlar. Vegeta Gezegeni'nin yıkımının ardından tüm Saiyanların yok olması gerekiyordu. Peki, bu ne anlama geliyordu? Farklı kaderleri olan bu üç Saiyan'ın karşılaşması, cehennemden dönen Freeza'yla birlikte muazzam bir mücadeleye dönüşmektedir.",
-    "slug": "dragon-ball-super-movie-broly"
+    "slug": "dragon-ball-super-movie-broly",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 36946,
@@ -62,56 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101302,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101302-2ix6Nti3Y11Q.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Dragon Ball Super Movie: Broly",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zwvxGCmM4qhiibOyLQkyAp_b9qawIcOH/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1F56q3Z5H-64yeCQtu8kkDiEZoOe-MJ2S/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368185"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17uYX4DxUsijaWBzQ4kLNB2yIFflsVq79/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685364486"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nol9etix5u62.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:01:09.968742",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 62715,
     "type": "tv",

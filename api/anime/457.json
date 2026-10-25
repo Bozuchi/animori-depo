@@ -4,7 +4,1381 @@
     "puan": "8.14",
     "bolum_durumu": "26/26",
     "ozet": "Mushiler varlıkları ya da görünümleri pek çok insan tarafından bilinmeyen güzemli varlıklardır. Değişik formlarda nadir insanlar tarafından görülebilirler. Bunlardan biri olan Ginko, çeşitli yerlerde mushileri inceleyen; yeri geldiğinde insanlara ve mushilerle problemlerinde yardımcı olan gezgin bir “mushishi”dir (mushi uzmanı).",
-    "slug": "mushishi"
+    "slug": "mushishi",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Mushishi 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4397716"
+          },
+          {
+            "fansub_id": 113,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qs2l6f5v9emf.html"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5h53n3hq"
+          },
+          {
+            "fansub_id": 113,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-445jzd3qiau1.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749706"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578158"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169540"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 29.935,
+            "end": 94.017
+          },
+          "ed": {
+            "start": 1382,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 2,
+        "title": "Mushishi 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1t5Oo9FmhcGB8azmrZptWxwnZPMPq0qdL/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MaOXhIA8brAQCurfzl6wWwRvA-lxMHRO/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359665865"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749716"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4627445"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169543"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-f5lvhuw13o0j.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-d74happhzldt.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-8k0it4y9erjp.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 9.659,
+            "end": 90.188
+          },
+          "ed": {
+            "start": 1319,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 3,
+        "title": "Mushishi 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/113RFYOFhc7aImBi8d7_7ViSGiECeiqgA/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749730"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4515632"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578175"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169544"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-sdte46qm38m2.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wzc42mw988mz.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-oaxk15n7aemu.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 1,
+            "end": 106
+          },
+          "ed": {
+            "start": 1345,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 4,
+        "title": "Mushishi 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WhxImeWFPxce3VxMd-NCvJSrD0-7kWpU/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lXGlAa9vECJtqyeVBK5ziBknuBdKkJqM/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715842"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749735"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4465429"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578176"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169545"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7nitosmompv6.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pjaqy8yl"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-h47adaq42u1w.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1325,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 5,
+        "title": "Mushishi 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1K1SUZczPq_1Tcgrew9k-dxhTP7GMz5mf/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849628"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749740"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4429970"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578177"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169546"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-isur0us71w9z.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1348,
+            "end": 1417
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 6,
+        "title": "Mushishi 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_XTFC7MRkNY8DhZ4dKSykf6IacvRuCmn/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849629"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749755"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4429974"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578178"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169547"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0do1ur5ntoxw.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fcclbrgxwr4h.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1353,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 7,
+        "title": "Mushishi 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13vuH9PEYM2_YRUjzDIZx3fe8GyPOE8su/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849630"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749760"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4429975"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578179"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169548"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-boj3d2k82ne7.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1353,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 8,
+        "title": "Mushishi 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oOLD6gNrL1A0dm9-VPObRNvel0YE6PYg/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749765"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4464287"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578181"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169550"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/sjklv5lt"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ui36otohl5dr.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1350,
+            "end": 1417
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 9,
+        "title": "Mushishi 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fzI5Naz1n4HR511GzjW6-tsj6CK-GX6D/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849631"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749769"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578182"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4429979"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169551"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pjagfhopx4e4.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mf0u4y9aqvi2.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 29,
+            "end": 109
+          },
+          "ed": {
+            "start": 1353,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 10,
+        "title": "Mushishi 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uKrHF2Xdjum1E9Qo_j0XgSFFCEIci2R5/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851174"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749773"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4438531"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578183"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169552"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1328,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 11,
+        "title": "Mushishi 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WAfkR7HJ6qFehUseWOSTGioFCjAGmcoc/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850064"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4431583"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749778"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578192"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169554"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1367,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 12,
+        "title": "Mushishi 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-ooYAxbgZMOAHuJwwjFuv0PTR_74D8q8/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849632"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749784"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578193"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4429981"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169555"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wt2k3fd3jt79.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7juyo8ilqbuz.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1367,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 13,
+        "title": "Mushishi 13. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13Asa3MSgJ36oxbcY5jCSrWywSA-OGXuN/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1M7nOsmdyu2Oo3l-7KZJkfqFzCPSJX8CA/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359662429"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749789"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578194"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169557"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4603225"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-k0b5vdtws3t4.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2cwarsrjdmjz.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vmf81v3an1k8.html"
+          }
+        ],
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 14,
+        "title": "Mushishi 14. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bE6omKbIgwbn6CYzIwJv5Bq2DWZLstIU/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qq8YKeXR9mTJfqj_JYRkR1GGF1Dtcsq3/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359665728"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4626213"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578197"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169559"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-97rp6wqlrpqq.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hyf73v1flj74.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-iyrg9sz2tgg9.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xhqvf54os6w5.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1351,
+            "end": 1417
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 15,
+        "title": "Mushishi 15. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19-rFKK-BMrtaQqf0MOB72ZBPWDDgYoUX/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1axThLYdLk52qtObOY7k8sJAkNQKYNIl3/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4515635"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578201"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169560"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-skuv9aknedpg.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/do1ium6d"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1l2seok1xljy.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9cn2ich4syhj.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1353,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 16,
+        "title": "Mushishi 16. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1A_deEn5konwDNzId1c_ntgXON4_XXK7e/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849633"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749809"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578205"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4429985"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169561"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pt5cqvy9lwvc.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ykkpylbq15es.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1352,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 17,
+        "title": "Mushishi 17. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hc4YOdRfr33uweqq5JqkZPOrH_jDy31J/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850065"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749816"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4431588"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578206"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169562"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ekvw5c2oq0c8.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rpfhls0l39bg.html"
+          }
+        ],
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 18,
+        "title": "Mushishi 18. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ug3cEqdLDn8peMrCQ-mlQe18oR9vXguQ/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850496"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749824"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578207"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169564"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4434062"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-10yngdrtikzp.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3zndlrfzdwn9.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1322,
+            "end": 1416
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 19,
+        "title": "Mushishi 19. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oweLEcH1a9_fa8NP1DcEjkBcQR6mvysk/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851175"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749830"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4438532"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578208"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169566"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ebjtohk9g68i.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rnbbbun6x2a7.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1338,
+            "end": 1413
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 20,
+        "title": "Mushishi 20. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GiOVJhHTOxE2WBURqr0G8Ub_-ZhhImAx/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849640"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4430003"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749838"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578209"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169567"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mvxrnr49hq0h.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cyjkcg2prjgk.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1353,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 21,
+        "title": "Mushishi 21. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZW9QVASg-ApWtiM58OVSOHnY8B6Z9W62/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849634"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578211"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4429989"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169568"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-x1uprg4xecl0.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0q50b46kcaq4.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1326,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 22,
+        "title": "Mushishi 22. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1a5MPLuruYBHTr4klx9IcPwjstU_WIC_L/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849635"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749849"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578213"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169570"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4429993"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-v1v302sei574.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1354,
+            "end": 1416
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 23,
+        "title": "Mushishi 23. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13wxWz8F7TFu8rAJU8j5Zap0bqSXrhHKE/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850497"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749857"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578214"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169571"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4434064"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-re11rtqqboht.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1322,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 24,
+        "title": "Mushishi 24. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-lkBskipt-MVbm-CWOfVmuc3mEWWahaX/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17AHHC8lmKBF_C431sJSDTjPrM2lTquaC/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359665640"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749862"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4624773"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578217"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169573"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fp76au91vqo4.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1krvjddeqayz.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1351,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 25,
+        "title": "Mushishi 25. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CwdajQTjlBSlcUJXiQ4BGTc6BFE0vAJV/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851176"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749865"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4438533"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578219"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169574"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ojs41u548ozt.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-q22g04w8qmsf.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1354,
+            "end": 1418
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      },
+      {
+        "episode_number": 26,
+        "title": "Mushishi 26. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xFDw949GgNMGOG8KkyyehnCyKhg9zd4h/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849636"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1749867"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1578221"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1169576"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4429996"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-q7aian72t6hp.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-97vh1rhoo5tu.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1328,
+            "end": 1415
+          }
+        },
+        "added_date": "2026-07-27T13:47:48.915687"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 457,
@@ -65,1467 +1439,197 @@
         ]
       }
     ],
-    "episodes": 26
+    "episodes": 26,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "14. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "15. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "16. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "17. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "18. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "19. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "20. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "21. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "22. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "23. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "24. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "25. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "26. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 457,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n457-sWOJfqYC7s2I.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx457-l6cTtNgI9Bi6.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mushishi 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4397716"
-        },
-        {
-          "fansub_id": 113,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qs2l6f5v9emf.html"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5h53n3hq"
-        },
-        {
-          "fansub_id": 113,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-445jzd3qiau1.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749706"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578158"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169540"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 29.935,
-          "end": 94.017
-        },
-        "ed": {
-          "start": 1382,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1t5Oo9FmhcGB8azmrZptWxwnZPMPq0qdL/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MaOXhIA8brAQCurfzl6wWwRvA-lxMHRO/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359665865"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749716"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4627445"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169543"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-f5lvhuw13o0j.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-d74happhzldt.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8k0it4y9erjp.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 9.659,
-          "end": 90.188
-        },
-        "ed": {
-          "start": 1319,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/113RFYOFhc7aImBi8d7_7ViSGiECeiqgA/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749730"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4515632"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578175"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169544"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-sdte46qm38m2.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wzc42mw988mz.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-oaxk15n7aemu.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 1,
-          "end": 106
-        },
-        "ed": {
-          "start": 1345,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WhxImeWFPxce3VxMd-NCvJSrD0-7kWpU/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lXGlAa9vECJtqyeVBK5ziBknuBdKkJqM/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140715842"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749735"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4465429"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578176"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169545"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7nitosmompv6.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/pjaqy8yl"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-h47adaq42u1w.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1325,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1K1SUZczPq_1Tcgrew9k-dxhTP7GMz5mf/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849628"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749740"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4429970"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578177"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169546"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-isur0us71w9z.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1348,
-          "end": 1417
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_XTFC7MRkNY8DhZ4dKSykf6IacvRuCmn/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849629"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749755"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4429974"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578178"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169547"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-0do1ur5ntoxw.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fcclbrgxwr4h.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1353,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13vuH9PEYM2_YRUjzDIZx3fe8GyPOE8su/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849630"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749760"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4429975"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578179"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169548"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-boj3d2k82ne7.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1353,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oOLD6gNrL1A0dm9-VPObRNvel0YE6PYg/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749765"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4464287"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578181"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169550"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/sjklv5lt"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ui36otohl5dr.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1350,
-          "end": 1417
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fzI5Naz1n4HR511GzjW6-tsj6CK-GX6D/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849631"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749769"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578182"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4429979"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169551"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pjagfhopx4e4.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mf0u4y9aqvi2.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 29,
-          "end": 109
-        },
-        "ed": {
-          "start": 1353,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uKrHF2Xdjum1E9Qo_j0XgSFFCEIci2R5/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851174"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749773"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4438531"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578183"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169552"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1328,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WAfkR7HJ6qFehUseWOSTGioFCjAGmcoc/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850064"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4431583"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749778"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578192"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169554"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1367,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-ooYAxbgZMOAHuJwwjFuv0PTR_74D8q8/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849632"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749784"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578193"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4429981"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169555"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wt2k3fd3jt79.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7juyo8ilqbuz.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1367,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 13. Bölüm",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13Asa3MSgJ36oxbcY5jCSrWywSA-OGXuN/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1M7nOsmdyu2Oo3l-7KZJkfqFzCPSJX8CA/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359662429"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749789"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578194"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169557"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4603225"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-k0b5vdtws3t4.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2cwarsrjdmjz.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vmf81v3an1k8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 14. Bölüm",
-      "episode_number": 14,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bE6omKbIgwbn6CYzIwJv5Bq2DWZLstIU/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qq8YKeXR9mTJfqj_JYRkR1GGF1Dtcsq3/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359665728"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4626213"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578197"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169559"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-97rp6wqlrpqq.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hyf73v1flj74.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-iyrg9sz2tgg9.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xhqvf54os6w5.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1351,
-          "end": 1417
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 14,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 15. Bölüm",
-      "episode_number": 15,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/19-rFKK-BMrtaQqf0MOB72ZBPWDDgYoUX/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1axThLYdLk52qtObOY7k8sJAkNQKYNIl3/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4515635"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578201"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169560"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-skuv9aknedpg.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/do1ium6d"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1l2seok1xljy.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9cn2ich4syhj.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1353,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 15,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 16. Bölüm",
-      "episode_number": 16,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1A_deEn5konwDNzId1c_ntgXON4_XXK7e/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849633"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749809"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578205"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4429985"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169561"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pt5cqvy9lwvc.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ykkpylbq15es.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1352,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 16,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 17. Bölüm",
-      "episode_number": 17,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hc4YOdRfr33uweqq5JqkZPOrH_jDy31J/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850065"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749816"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4431588"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578206"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169562"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ekvw5c2oq0c8.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rpfhls0l39bg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 17,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 18. Bölüm",
-      "episode_number": 18,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ug3cEqdLDn8peMrCQ-mlQe18oR9vXguQ/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850496"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749824"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578207"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169564"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4434062"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-10yngdrtikzp.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3zndlrfzdwn9.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1322,
-          "end": 1416
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 18,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 19. Bölüm",
-      "episode_number": 19,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1oweLEcH1a9_fa8NP1DcEjkBcQR6mvysk/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851175"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749830"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4438532"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578208"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169566"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ebjtohk9g68i.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rnbbbun6x2a7.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1338,
-          "end": 1413
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 19,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 20. Bölüm",
-      "episode_number": 20,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GiOVJhHTOxE2WBURqr0G8Ub_-ZhhImAx/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849640"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4430003"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749838"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578209"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169567"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mvxrnr49hq0h.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cyjkcg2prjgk.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1353,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 20,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 21. Bölüm",
-      "episode_number": 21,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZW9QVASg-ApWtiM58OVSOHnY8B6Z9W62/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849634"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578211"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4429989"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169568"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-x1uprg4xecl0.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0q50b46kcaq4.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1326,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 21,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 22. Bölüm",
-      "episode_number": 22,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1a5MPLuruYBHTr4klx9IcPwjstU_WIC_L/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849635"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749849"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578213"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169570"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4429993"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-v1v302sei574.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1354,
-          "end": 1416
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 22,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 23. Bölüm",
-      "episode_number": 23,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13wxWz8F7TFu8rAJU8j5Zap0bqSXrhHKE/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850497"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749857"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578214"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169571"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4434064"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-re11rtqqboht.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1322,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 23,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 24. Bölüm",
-      "episode_number": 24,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-lkBskipt-MVbm-CWOfVmuc3mEWWahaX/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17AHHC8lmKBF_C431sJSDTjPrM2lTquaC/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359665640"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749862"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4624773"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578217"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169573"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-fp76au91vqo4.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1krvjddeqayz.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1351,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 24,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 25. Bölüm",
-      "episode_number": 25,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CwdajQTjlBSlcUJXiQ4BGTc6BFE0vAJV/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851176"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749865"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4438533"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578219"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169574"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ojs41u548ozt.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-q22g04w8qmsf.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1354,
-          "end": 1418
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 25,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mushishi 26. Bölüm Final",
-      "episode_number": 26,
-      "videos": [
-        {
-          "fansub_id": 119,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xFDw949GgNMGOG8KkyyehnCyKhg9zd4h/preview"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849636"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1749867"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1578221"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1169576"
-        },
-        {
-          "fansub_id": 119,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4429996"
-        },
-        {
-          "fansub_id": 119,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-q7aian72t6hp.html"
-        },
-        {
-          "fansub_id": 119,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-97vh1rhoo5tu.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1328,
-          "end": 1415
-        }
-      },
-      "added_date": "2026-07-27T13:47:48.915687",
-      "jikan_mal_id": 26,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 26867,
     "type": "tv",

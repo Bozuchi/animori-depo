@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "3 bölümden oluşan Re:Cutie Honey'in, her bölümü farklı bir yönetmen tarafından çekilmiştir.\n\nKendine Tokyo’yu ele geçirmeyi misyon edinmiş esrarengiz bir örgüt; Panther Claw, polise karşı rahat bir şekilde karşı koyabilmekte ve eylemlerini sorunsuz bir şekilde devam ettirebilmektedir. Ancak, karşılarına çıkan Cutie Honey, Panther Claw'un tekerine çomak sokmayı başarmıştır. Görünüşe göre, Tokyo'nun tek umudu kötülüğe karşı sevgi ve adalet ile mücadele eden Cutie Honey'dir.",
-    "slug": "re-cutey-honey"
+    "slug": "re-cutey-honey",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 151,
@@ -60,148 +61,14 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 151,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151-QcgV6QRxkjQy.png",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151-QxUNuq82t7XK.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Re: Cutie Honey OVA 1",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1I3DLkdQzimvlv8OWsXShIADqRIDyQXaM/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271191691"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4501653"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1366608"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1uq38w787ni5.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/owm3c0sb"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/b9mjx1yq"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ysd6ps74sny0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:52:13.549613",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Re: Cutie Honey OVA 2",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qpafUT84usKyfMdjAwbkvQ_ly632MLio/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271191693"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4501654"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5bw5bse1i8cx.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ztm4o4qf"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-so33x7kxje5b.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:52:13.549613",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Re: Cutie Honey OVA 3 Final",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CdeSlZwQjwj12FQ6drcPDeZqlqMEf85L/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271191692"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4501655"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1366629"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/b8oafg11"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-jctywbzylnhz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:52:13.549613",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 68411,
     "type": "tv",

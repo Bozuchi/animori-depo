@@ -4,7 +4,8 @@
     "puan": "9.12",
     "bolum_durumu": "1/1",
     "ozet": "Sakura'yı kurtarmaya ant içen Emiya Shirou, alıkoyulan Illyasviel'in yardımına koştuktan sonra Süvari ve Rin'le beraber Büyük Kâse'nin olduğu yere gider. Orada onları Sakura, Kılıç ve sonradan belirecek olan Kotomine Kirei beklemektedir. Kotomine Kirei, tüm dünyadaki kötülükler olarak anılan İntikamcı'nın doğmasını istemektedir. Kutsal Kâse Savaşı'nda son gülen bu savaşta belli olacak.",
-    "slug": "fate-stay-night-movie-heaven-s-feel-iii-spring-song"
+    "slug": "fate-stay-night-movie-heaven-s-feel-iii-spring-song",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 33050,
@@ -52,49 +53,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21719,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21719-D361L20cvUXL.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21719-MSdTlkno0Z0u.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 45,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668114"
-        },
-        {
-          "fansub_id": 45,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8p925tzrm9c1.html"
-        },
-        {
-          "fansub_id": 184,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YgOKm-8Rfay3oYUFNs94PzeKZPW8yId3/preview"
-        },
-        {
-          "fansub_id": 184,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hIgArcGBRg9ozUB8bmEKgwiygc-17OaU/preview"
-        },
-        {
-          "fansub_id": 184,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2ntzerm2v8o8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T01:24:34.037824",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Inugami-san to Nekoyama-san serisine ait Special bölümdür.",
-    "slug": "inugami-san-to-nekoyama-san-nekoyama-san-to-onsen-ryokou"
+    "slug": "inugami-san-to-nekoyama-san-nekoyama-san-to-onsen-ryokou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 25861,
@@ -52,49 +53,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20846,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20846.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Inugami-san to Nekoyama-san Special: Nekoyama-san to Onsen Ryokou",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3794429"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3795006"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1990088"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zgtcxhib5rg4.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hc8lroxkmr6e.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:38:46.698585",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

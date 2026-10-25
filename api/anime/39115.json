@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/4",
     "ozet": "Uchuu Senkan Tiramisù II serisinin televizyonda yayımlanmamış olan kısa özel bölümleridir.",
-    "slug": "uchuu-senkan-tiramisu-ii-specials"
+    "slug": "uchuu-senkan-tiramisu-ii-specials",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 39115,
@@ -48,7 +49,8 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": []
   },
   "anilist": {
     "id": 107881,

@@ -4,7 +4,614 @@
     "puan": "7.72",
     "bolum_durumu": "13/12+",
     "ozet": "Lise öğrencisi Kei Kusanagi, göl kenarında bir kadının bir ışık hüzmesi içinden çıktığı görür. Bunun bir rüya olduğunu düşünür ve aldırış etmez. Ertesi gün aynı kadını kendi sınıfında üstelik bir de öğretmen olarak görünce, yaşadıklarının bir rüya olmadığı anlar. Yeni öğretmeni Mizuho bir uzaylıdır ve Kei de onun bu sırrını biliyordur. Üst üste gelişen olaylar ikilinin evlenmesine neden olacak, bundan sonra Kei için hiçbir şey eskisi gibi olmayacaktır.",
-    "slug": "onegai-teacher"
+    "slug": "onegai-teacher",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Onegai Teacher 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/550.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121191"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1935309"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-x4x5tndtcq3s.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/uj5di91d"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744033"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1243,
+            "end": 1309
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 2,
+        "title": "Onegai Teacher 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121196"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/571.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1938993"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1y3kgs4o924s.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wt4kq8ij"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744034"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1240,
+            "end": 1314
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 3,
+        "title": "Onegai Teacher 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121197"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/745.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1983210"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3a2dxjncrtis.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hz4yr8x3"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hed8aj0b"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744035"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 63,
+            "end": 135
+          },
+          "ed": {
+            "start": 1240,
+            "end": 1308
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 4,
+        "title": "Onegai Teacher 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/746.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121198"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667310"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1983219"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4657856"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lkzgwyo5fs5c.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qhnaj5o7mkek.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/zb0v1f88"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-25yco23c4ii5.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744038"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 58,
+            "end": 132
+          },
+          "ed": {
+            "start": 1240,
+            "end": 1318
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 5,
+        "title": "Onegai Teacher 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/747.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121199"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1983320"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-74vghyolss21.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/gbuga2ot"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744039"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1263,
+            "end": 1327
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 6,
+        "title": "Onegai Teacher 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/748.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121200"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667311"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1983245"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4657863"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-d72p7wth95ig.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m9h4kny57w98.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6v956mmf8keq.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744040"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1241,
+            "end": 1305
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 7,
+        "title": "Onegai Teacher 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/851.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121201"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2025815"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-rqs547oi17gy.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/h198ytqb"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744041"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 50,
+            "end": 132
+          },
+          "ed": {
+            "start": 1244,
+            "end": 1312
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 8,
+        "title": "Onegai Teacher 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BzHW1Q_G4ptj3_zxnEUAF3TdZiGADz8Q/preview"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121202"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2025819"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4512648"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-i5d7fuuddzbn.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ndo05cgjm27m.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mz80v95z9tep.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744043"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1249,
+            "end": 1314
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 9,
+        "title": "Onegai Teacher 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/854.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121203"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2025821"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m0ppfrfxhpl3.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/oxdbgd1s"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744044"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 51,
+            "end": 129
+          },
+          "ed": {
+            "start": 1240,
+            "end": 1316
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 10,
+        "title": "Onegai Teacher 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/855.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121192"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2025823"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8eyuxis800bo.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744045"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1237,
+            "end": 1314
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 11,
+        "title": "Onegai Teacher 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/856.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121193"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2025825"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-89e3umt0t8t8.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744046"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1242,
+            "end": 1317
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 12,
+        "title": "Onegai Teacher 12. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/857.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121194"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2025827"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jnmcxxfl8y9r.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744047"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1278,
+            "end": 1320
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      },
+      {
+        "episode_number": 13,
+        "title": "Onegai Teacher 13. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/858.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121195"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2025828"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ocv6u89nsq68.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744049"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1172,
+            "end": 1253
+          }
+        },
+        "added_date": "2026-07-28T23:26:08.313564"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 195,
@@ -74,659 +681,106 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "13. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 195,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195-bJP2XyNS08sG.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195-0qMiRJbg60Tc.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Onegai Teacher 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/550.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121191"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1935309"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-x4x5tndtcq3s.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/uj5di91d"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744033"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1243,
-          "end": 1309
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121196"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/571.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1938993"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1y3kgs4o924s.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/wt4kq8ij"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744034"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1240,
-          "end": 1314
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121197"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/745.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1983210"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3a2dxjncrtis.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hz4yr8x3"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hed8aj0b"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744035"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 63,
-          "end": 135
-        },
-        "ed": {
-          "start": 1240,
-          "end": 1308
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/746.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121198"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667310"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1983219"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4657856"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-lkzgwyo5fs5c.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-qhnaj5o7mkek.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/zb0v1f88"
-        },
-        {
-          "fansub_id": 120,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-25yco23c4ii5.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744038"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 58,
-          "end": 132
-        },
-        "ed": {
-          "start": 1240,
-          "end": 1318
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/747.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121199"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1983320"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-74vghyolss21.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/gbuga2ot"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744039"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1263,
-          "end": 1327
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/748.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121200"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667311"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1983245"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4657863"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-d72p7wth95ig.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-m9h4kny57w98.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6v956mmf8keq.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744040"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1241,
-          "end": 1305
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/851.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121201"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2025815"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rqs547oi17gy.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/h198ytqb"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744041"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 50,
-          "end": 132
-        },
-        "ed": {
-          "start": 1244,
-          "end": 1312
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1BzHW1Q_G4ptj3_zxnEUAF3TdZiGADz8Q/preview"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121202"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2025819"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4512648"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-i5d7fuuddzbn.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ndo05cgjm27m.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mz80v95z9tep.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744043"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1249,
-          "end": 1314
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/854.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121203"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2025821"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-m0ppfrfxhpl3.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/oxdbgd1s"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744044"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 51,
-          "end": 129
-        },
-        "ed": {
-          "start": 1240,
-          "end": 1316
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/855.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121192"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2025823"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-8eyuxis800bo.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744045"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1237,
-          "end": 1314
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/856.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121193"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2025825"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-89e3umt0t8t8.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744046"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1242,
-          "end": 1317
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 12. Bölüm",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/857.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121194"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2025827"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jnmcxxfl8y9r.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744047"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1278,
-          "end": 1320
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Onegai Teacher 13. Bölüm Final",
-      "episode_number": 13,
-      "videos": [
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/48/858.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7893414565877121195"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2025828"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ocv6u89nsq68.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1744049"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1172,
-          "end": 1253
-        }
-      },
-      "added_date": "2026-07-28T23:26:08.313564",
-      "jikan_mal_id": 13,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 19780,
     "type": "tv",

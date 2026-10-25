@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Asa ve Kame, Lord Tenshi'nin haremini barındıran görkemli zevk sarayı Ooku'daki ilk görev günlerine aynı anda geldiklerinde hemen bir dostluk kurarlar. İki genç kadın, diğer yüzlerce hizmetçiye katılmak için oradadır; erkeklerin girmesi yasaktır ve izinsiz girmenin bedeli derhal başlarının kesilmesidir. Çok geçmeden Ooku'nun lüks yaşam tarzının ve ritüelleşmiş rutinlerinin ardında sinsi planların ve alaycı rekabetlerin yattığı anlaşılır. Bu arada, sadece İlaç Satıcısı olarak bilinen gizemli bir gezgin iksir satıcısı, tekinsiz, uhrevi bir tehdit kendini göstermeye başladığı sırada, Ooku'nun içine kurnazca sızar.",
-    "slug": "mononoke-movie-karakasa"
+    "slug": "mononoke-movie-karakasa",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 52107,
@@ -64,36 +65,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 151117,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151117-6rtgumwWfoju.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151117-AOcwR3mXCDx7.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mononoke: Karakasa Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/7aaje4m74f2h"
-        },
-        {
-          "fansub_id": 149,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/l7tsno0vagqz"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:02:25.295774",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 989730,
     "type": "movie",

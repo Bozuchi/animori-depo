@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Uranüs'ün kurduğu Titan krallığı önce; Uranüs'ü öldürüp yerine geçen oğlu Kronos'a ve daha da sonrasında Kronos'u katleden oğulları Zeus, Poseydon ve Hades'e kalır.\n\nÜç kardeş, dünyayı aralarında pay ederler. Zeus karaları, Poseydon denizleri, Hades ise yeraltı dünyasını alır. Lakin bu üç Titanın ellerindeki topraklar ile yetinmeye niyetleri yok gibidir. Birbirleri arkalarından sinsi planlar çevirerek topraklarını genişletmeye uğraşmaktadırlar.\n\nBüyük savaş kapıdayken, 15 senedir Trakya'da sade bir hayat süren Demeter'in ziyaretine Yeraltı dünyasının Kralı Hades uğrar. Çıkarcı Titanın niyeti bellidir; geçmişte, Demeter'in başına gelenlerden ötürü kendisine diğer iki kardeşine karşı yardım etmesini beklemektedir. Demeter ise geçmişi unutup sade bir hayat sürmeye kararlıdır, hem bir de oğlu Arion ile kim ilgilenecektir?\n\nBunun üzerine, Demeter'den eli boş dönmeye hazırlanan Titanın aklına bir kurnazlık düşer. Annesi, geçmişte olanları unutmuş gibi davranabilir; peki ya onu çok seven oğlu, annesi için Titanlara karşı tüm yüreğini ortaya koyup savaşmaz mıdır?\n\nHades, çocuğun aklını çelerek, Arion'u kendi himayesine alır ve onu bir savaşçı gibi yetiştirerek, Zeus ve diğerlerinden intikamını alması için diğer Titanların topraklarına gönderir.",
-    "slug": "arion"
+    "slug": "arion",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 791,
@@ -50,56 +51,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 791,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n791-MKNEiTMUgFdh.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx791-NBHvBYcoMl6T.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Arion",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/19H1Ds_ZYDxoUeKRFVup1lVvdsM1ny8RE/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/528.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271195888"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4501496"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8r0jm6tc"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zsddo36x9q5s.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:43:22.109653",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 22679,
     "type": "movie",

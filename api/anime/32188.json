@@ -4,7 +4,101 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Steins;Gate serisine ait alternatif son niteliğindeki special bölümdür.",
-    "slug": "steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero"
+    "slug": "steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero",
+    "episodes": [
+      {
+        "episode_number": 23,
+        "title": "Steins;Gate 23. Bölüm (β)",
+        "videos": [
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/90.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359668005"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762664"
+          },
+          {
+            "fansub_id": 22,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-v56lpq3z9rkz.html"
+          },
+          {
+            "fansub_id": 108,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/232"
+          },
+          {
+            "fansub_id": 108,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359668006"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3271364"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762675"
+          },
+          {
+            "fansub_id": 108,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dowfxpaprqvn.html"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8l4k1ezg"
+          },
+          {
+            "fansub_id": 108,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-by6tqqb9tv1h.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/baryshx/_myvideo/291.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359668007"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1999357"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762680"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-70cfnmgx5b6b.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0x603f3qzxlo.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:07:11.972563"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32188,
@@ -52,109 +146,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21624,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21624-3WEuIaMlkK59.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21624-szbmwyC3sJos.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Steins;Gate 23. Bölüm (β)",
-      "episode_number": 23,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/90.html"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668005"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762664"
-        },
-        {
-          "fansub_id": 22,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-v56lpq3z9rkz.html"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/232"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668006"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3271364"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762675"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-dowfxpaprqvn.html"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8l4k1ezg"
-        },
-        {
-          "fansub_id": 108,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-by6tqqb9tv1h.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/baryshx/_myvideo/291.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668007"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1999357"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762680"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-70cfnmgx5b6b.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0x603f3qzxlo.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:07:11.972563",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

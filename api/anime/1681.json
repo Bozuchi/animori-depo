@@ -4,7 +4,8 @@
     "puan": "6.99",
     "bolum_durumu": "1/1",
     "ozet": "10 yaşında, sakin ve uysal bir kişiliği sahip olan Wataru, o gün \nhayatının en kötü dakikalarını yaşayacağını bilmemektedir. Babası, \nmetresi ile birlikte, Wataru ve annesini arkada bırakarak kaçar. Bu şoka\n ve acıya dayanamayan annesi hastahaneye kaldırılır. \n \nOkul arkadaşı Mitsuru sayesinde, güya perili bir binaya girer ancak bu \nbina \"Vision\" adında hayali bir dünyaya açılan kapıdır. Ölmekte olan \nannesini kurtarmak için bu dünyaya giren Wataru. Bu fantastik dünyada; \nbüyünün, arkadaşlığın, sevginin ve inanmanın gücünü bulacaktır.",
-    "slug": "brave-story"
+    "slug": "brave-story",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1681,
@@ -48,41 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1681,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1681-mRibcfxIyCaV.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1681-G12LPkws93Ub.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Brave Story",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13N4w_QQENcdXNtKfMsHLhu8QWuOK4AWo/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366573"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2jsd1uofq07p.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T07:00:34.631665",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 17566,
     "type": "movie",

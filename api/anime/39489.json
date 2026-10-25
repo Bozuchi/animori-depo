@@ -4,7 +4,157 @@
     "puan": "0.00",
     "bolum_durumu": "6/6",
     "ozet": "Kadim bir uygarlığın Dünya'da bıraktığı kalıntılar, tehlikeli güçlere sahiptir. ARCAM şirketinin Spriggan ajanları bunların yanlış ellere geçmesini önlemelidir.",
-    "slug": "spriggan-ona"
+    "slug": "spriggan-ona",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Spriggan (ONA) 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pm8duSZR-gsVW-FYkPvDlaZOcwaZQ0BZ/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667907"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-afc5o5si94lh.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 2501,
+            "end": 2622
+          }
+        },
+        "added_date": "2026-07-29T12:11:12.441917"
+      },
+      {
+        "episode_number": 2,
+        "title": "Spriggan (ONA) 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KZKF_rAeJfF-EpubzgvjT105EoCiKpcQ/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667908"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cpi22hdho87e.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 80,
+            "end": 180
+          },
+          "ed": {
+            "start": 2660,
+            "end": 2799
+          }
+        },
+        "added_date": "2026-07-29T12:11:12.441917"
+      },
+      {
+        "episode_number": 3,
+        "title": "Spriggan (ONA) 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1O46qkCagtouO4Yfq0YepGHkpG_m4kIVJ/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667909"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mc1elengdatf.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:11:12.441917"
+      },
+      {
+        "episode_number": 4,
+        "title": "Spriggan (ONA) 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eQv0REBgcf78EizuSICL6PjB1BlNKlyJ/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667910"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-tljj9ks1iko7.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:11:12.441917"
+      },
+      {
+        "episode_number": 5,
+        "title": "Spriggan (ONA) 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1p65IqQm8KaceKU20se3XfCFMpX2PO5Sr/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667911"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-51xynyc8fe0t.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:11:12.441917"
+      },
+      {
+        "episode_number": 6,
+        "title": "Spriggan (ONA) 6. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jXe2_1rKmsn1ksE_lokITN51h_dbXLny/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667912"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ldpgptp6ghe8.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:11:12.441917"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39489,
@@ -55,185 +205,14 @@
         ]
       }
     ],
-    "episodes": 6
+    "episodes": 6,
+    "episode_list": []
   },
   "anilist": {
     "id": 108353,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108353-xmcJGLygTB0I.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108353-f43dOeHJ84r4.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Spriggan (ONA) 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pm8duSZR-gsVW-FYkPvDlaZOcwaZQ0BZ/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667907"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-afc5o5si94lh.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 2501,
-          "end": 2622
-        }
-      },
-      "added_date": "2026-07-29T12:11:12.441917",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Spriggan (ONA) 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KZKF_rAeJfF-EpubzgvjT105EoCiKpcQ/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667908"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cpi22hdho87e.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 80,
-          "end": 180
-        },
-        "ed": {
-          "start": 2660,
-          "end": 2799
-        }
-      },
-      "added_date": "2026-07-29T12:11:12.441917",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Spriggan (ONA) 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1O46qkCagtouO4Yfq0YepGHkpG_m4kIVJ/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667909"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mc1elengdatf.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:11:12.441917",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Spriggan (ONA) 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eQv0REBgcf78EizuSICL6PjB1BlNKlyJ/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667910"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-tljj9ks1iko7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:11:12.441917",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Spriggan (ONA) 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1p65IqQm8KaceKU20se3XfCFMpX2PO5Sr/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667911"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-51xynyc8fe0t.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:11:12.441917",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Spriggan (ONA) 6. Bölüm Final",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jXe2_1rKmsn1ksE_lokITN51h_dbXLny/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667912"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ldpgptp6ghe8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T12:11:12.441917",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 94925,
     "type": "tv",

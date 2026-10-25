@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "7 film olarak planlanan Kara no Kyoukai filmlerinin dördüncüsüdür.",
-    "slug": "kara-no-kyoukai-4-garan-no-dou"
+    "slug": "kara-no-kyoukai-4-garan-no-dou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4280,
@@ -73,44 +74,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4280,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4280-A8petxxG2rpf.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4280-GKUNVjzu5sUO.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kara no Kyoukai 4: Garan no Dou",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Z_N3zvRiryuwv2FHftASuHbTKmZoTYyI/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019439"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2667826"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3183152"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:14:17.084232",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

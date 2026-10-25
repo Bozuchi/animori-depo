@@ -4,7 +4,8 @@
     "puan": "8.03",
     "bolum_durumu": "1/1",
     "ozet": "Aynı isimli video oyununun tanıtım videosudur.\n\nVideo oyunda yaşanan olayların altı yıl öncesini, 2065 yılını, konu alır. Videoda elit askeri birlik Fenrir'in uzakdoğu şubesine mensup üç tane \"Kutsal Silah\" kullanıcısı Aragami adı verilen güçlü yaratıklara karşı yapılan operasyona gelir. Bu üçlüden biri olan Souma video oyununun baş kahramanıdır.",
-    "slug": "god-eater-prologue"
+    "slug": "god-eater-prologue",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10470,
@@ -47,56 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10470,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10470.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Gods Eater Prologue",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 108,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fZv4tWXf9-icRoaHM3R4V7Ri9I1CaqwE/preview"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5997.html"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849175"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1582422"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4425816"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-sd7txart7aym.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T00:12:17.416568",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 62773,
     "type": "tv",

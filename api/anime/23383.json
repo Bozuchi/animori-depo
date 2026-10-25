@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "D-Frag serisine ait OVA bölümdür.",
-    "slug": "d-frag-ova"
+    "slug": "d-frag-ova",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 23383,
@@ -51,51 +52,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20856,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20856-8qhq0KewXoQa.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20856-br10Wji2dzj1.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "D-Frag! OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1YSe5XCqww9EgLnxRRPKKApfLwiMEanNb/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/amelebeyfendi1/_myvideo/17.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017305"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/kkfgob8p"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hfktzewqnvt0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:37:45.494440",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 68634,
     "type": "tv",

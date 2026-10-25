@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Dark Summoner to Dekiteiru",
-    "slug": "dark-summoner-to-dekiteiru"
+    "slug": "dark-summoner-to-dekiteiru",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63509,
@@ -42,7 +43,8 @@
           154649
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 208025,
@@ -56,6 +58,5 @@
     "episode_offset": 0,
     "name": "I'm Dating a Dark Summoner"
   },
-  "synopsis_tr": "Karanlık bir sihirdar ve şeytani güçler kullanan yarı insan olan Amona, gergin rahip Roni'nin partisinin en yeni üyesidir. Herkes ikilinin birbirlerinden hoşlanmamasını ve birbirleriyle hiçbir ilgilerinin olmamasını bekliyordu. Ama sürpriz bir şekilde, maceraperest bir grup olarak birlikte geçirdikleri ilk günde, tek gecelik bir ilişki yaşadılar...!(Kaynak: Kadokawa, çevrildi)",
-  "episodes": []
+  "synopsis_tr": "Karanlık bir sihirdar ve şeytani güçler kullanan yarı insan olan Amona, gergin rahip Roni'nin partisinin en yeni üyesidir. Herkes ikilinin birbirlerinden hoşlanmamasını ve birbirleriyle hiçbir ilgilerinin olmamasını bekliyordu. Ama sürpriz bir şekilde, maceraperest bir grup olarak birlikte geçirdikleri ilk günde, tek gecelik bir ilişki yaşadılar...!(Kaynak: Kadokawa, çevrildi)"
 }

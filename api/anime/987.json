@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Efsanevi savaşçı Son Goku'nun torununun torunu Son Goku Jr. atalarının aksine cesur bir savaşçı değildir. Okulda sürekli kendisiyle uğraşılır, büyükannesi Pan bunu görmekte ve endişe duymaktadır, ama Goku bir Saiyan kadar güçlü olmamasına rağmen iyilik dolu bir kalbi vardır ve Pan onu sevmektedir. Bir gün Pan hastalanır ve Goku Jr. onu kaybetmemek bir şey yapmak zorunda olduğunu anlar. Sonra Ejder Topları'nı hatırlar. Goku sihirli dileğe her zamankinden daha fazla ihtiyaç duymaktadır.",
-    "slug": "dragon-ball-gt-movie"
+    "slug": "dragon-ball-gt-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 987,
@@ -50,59 +51,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 987,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/987-57qmENKgk4XU.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/987.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Dragon Ball GT : Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1s5p7_qwncC-0czki71NTLBxfOXeaFtQH/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4452070"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1775223"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-d2fbgxdj5ud8.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qkn1cep4"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/jmhdx6fp"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-uqeojfzfk6l0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T22:43:04.575624",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

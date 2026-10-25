@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "İflasın eşiğindeki işadamı Hwang Kyung-min, karısını öldürdükten sonra, 15 yıldır görmediği eski bir okul arkadaşını, Jung Jonk-suk’u bulur. İki arkadaş, bir yemekte, mevcut durumlarını birbirlerinden gizleyerek eski okul günlerinden konuşurlar. O zamanlar öğrenciler arasında sınıf ayrımları vardır. Daha zengin, daha başarılı ve özellikle zalim bir gruba “Köpekler” denmektedir. “Köpekler”, “Domuzlar” denilen daha güçsüz öğrencilere zorbalık yapıp onları canlarından bezdirerek bir korku krallığı yaratmıştır. Jong-suk ve Kyung-min “Köpekler”e direnememişler, ikisinin de arkadaşı olan Kim Chul onlara karşı koyduğunda ise, bu korku çemberinin kırılması için tek umutları oluvermiştir. İki adam on beş yılın ardından, kendileri için hâlâ bir kahraman olan Kim Chul’a ait anılarının ardında, ilişkilerinin karanlık öyküsünü hatırlar...\n\nNot: Güney Kore yapımıdır.",
-    "slug": "dwaeji-ui-wang"
+    "slug": "dwaeji-ui-wang",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 12035,
@@ -37,51 +38,14 @@
     "demographics": [],
     "studios": [],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 12035,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12035-lzzwgQCPfUvQ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12035-I8ee2ENi0aUl.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "The King of Pigs Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 224,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7456"
-        },
-        {
-          "fansub_id": 224,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3882203"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4092134"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2036073"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-p65zkrkvvtf0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:47:35.729689",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 91088,
     "type": "movie",

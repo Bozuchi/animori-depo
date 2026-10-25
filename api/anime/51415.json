@@ -4,7 +4,58 @@
     "puan": "0.00",
     "bolum_durumu": "2/12",
     "ozet": "Yaşadığın dünya hangi renkte? “Algı sanatı” sanat dünyasında on senedir revaçta. Dünyanın dört bir yanına yayılmış ve insanların hayatlarının bir parçası olmuş hâlde. Kazuya Yamanashi, ünlü sanatkârlar ve algı sanatının yaratıcıları olan Bay ve Bayan Yamanashi’in oğlu, çocukluk arkadaşı Jun Tsuzuki ile beraber algı sanatkârı olmak hülyası ile meşhur sanat kurumu Eisen Lisesine kaydolmuştur.",
-    "slug": "opus-colors"
+    "slug": "opus-colors",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Opus.COLORs 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JaN4PzSNtQKH2v_UAdr-KsxYeqCcedEs/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/cyrqfw17ejir"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ktxlkypny0uz.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:52:37.958399"
+      },
+      {
+        "episode_number": 2,
+        "title": "Opus.COLORs 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1onGHnntZDMWc2YYH8wuP2LlfYRay4jp8/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5124100"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/dx5htjx3o0ub"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-4m4b23pis30c.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:52:37.958399"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 51415,
@@ -39,72 +90,29 @@
       1075
     ],
     "relations": [],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 146678,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146678-1ez0BOsKUijj.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146678-og5HsnoGY1zU.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Opus.COLORs 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JaN4PzSNtQKH2v_UAdr-KsxYeqCcedEs/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/cyrqfw17ejir"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ktxlkypny0uz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-28T23:52:37.958399",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Opus.COLORs 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1onGHnntZDMWc2YYH8wuP2LlfYRay4jp8/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5124100"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/dx5htjx3o0ub"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-4m4b23pis30c.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-28T23:52:37.958399",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 196042,
     "type": "tv",

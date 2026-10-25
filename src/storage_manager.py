@@ -176,8 +176,9 @@ class StorageManager:
             if key not in detail:
                 detail[key] = value
 
-        if "episodes" not in detail:
-            detail["episodes"] = []
+        # Eski birleşik üst seviye bölüm listesi artık kullanılmıyor:
+        # Türkanime bölümleri → turkanime.episodes, MAL bölümleri → jikan.episode_list
+        detail.pop("episodes", None)
 
         if "anilist" not in detail:
             detail["anilist"] = None
@@ -316,6 +317,62 @@ class StorageManager:
             self.logger.error(f"Anime TMDB kaydedilemedi ({identifier}): {e}")
             return False
 
+    @staticmethod
+    def _split_legacy_episodes(legacy_eps: list[dict]) -> tuple[list[dict], list[dict]]:
+        """
+        Eski birleşik üst seviye 'episodes' dizisini ikiye ayırır.
+
+        Returns:
+            tuple: (turkanime_episodes, jikan_episode_list)
+                - turkanime_episodes: Türkanime kaynaklı bölümler (title, videos, skip_times, added_date)
+                - jikan_episode_list: MyAnimeList kaynaklı bölümler (title, aired, filler, recap)
+        """
+        turkanime_eps = []
+        jikan_eps = []
+
+        for ep in legacy_eps or []:
+            num = ep.get("episode_number")
+            if num is None:
+                # Numarasız/çöp kayıtlar taşınmaz
+                continue
+
+            # ── Türkanime tarafı: gerçek Türkanime verisi olan kayıtlar ──
+            tk_title = ep.get("turkanime_title")
+            placeholder_title = f"{num}. Bölüm"
+            has_tk_data = (
+                bool(ep.get("videos"))
+                or bool(ep.get("skip_times"))
+                or (bool(tk_title) and tk_title != placeholder_title)
+            )
+            if has_tk_data:
+                tk_ep = {
+                    "episode_number": num,
+                    "title": tk_title or ep.get("title") or placeholder_title,
+                    "videos": ep.get("videos") or [],
+                }
+                if ep.get("skip_times"):
+                    tk_ep["skip_times"] = ep["skip_times"]
+                if ep.get("added_date"):
+                    tk_ep["added_date"] = ep["added_date"]
+                turkanime_eps.append(tk_ep)
+
+            # ── MAL tarafı: MAL'den gelmiş alanı olan kayıtlar ──
+            has_mal_data = (
+                ep.get("jikan_mal_id") is not None
+                or bool(ep.get("aired"))
+                or bool(ep.get("title"))
+            )
+            if has_mal_data:
+                jikan_eps.append({
+                    "episode_number": num,
+                    "title": ep.get("title") or placeholder_title,
+                    "aired": ep.get("aired"),
+                    "filler": ep.get("filler", False),
+                    "recap": ep.get("recap", False),
+                })
+
+        return turkanime_eps, jikan_eps
+
     def merge_and_save_episodes(
         self,
         mal_id: int,
@@ -323,9 +380,14 @@ class StorageManager:
         slug: str | None = None
     ) -> int:
         """
-        MAL'dan gelen bölüm listesi ile mevcut bölümleri birleştirir:
-        - Eski bölümlerin 'videos' dizisi ve 'turkanime_title' korunur.
-        - Eksik bölümler (yeni yayınlananlar) MAL başlığı ve tarihiyle eklenir, videos: [] olur.
+        MAL'dan gelen bölüm listesini iki ayrı alanda saklar:
+        - jikan.episode_list : doğrudan MAL'den gelen bölüm listesi (title, aired, filler, recap)
+        - turkanime.episodes : Türkanime kaynaklı bölümler (title, videos, skip_times, added_date)
+
+        Eski birleşik üst seviye 'episodes' dizisi kaldırılır. Türkanime'de olup MAL
+        listesinde bulunmayan bölümler turkanime.episodes içinde korunur; MAL'de olup
+        Türkanime'de karşılığı olmayan bölümler ise turkanime.episodes'a eklenmez.
+        Böylece jikan.episode_list her zaman sadece MAL verisini içerir.
 
         Args:
             mal_id: MyAnimeList anime ID'si.
@@ -333,19 +395,12 @@ class StorageManager:
             slug: Varsa slug.
 
         Returns:
-            int: Yeni eklenen bölüm sayısı.
+            int: MAL listesine yeni eklenen bölüm sayısı.
         """
         existing = self.load_anime_detail(mal_id) or (self.load_anime_detail(slug) if slug else None)
         if not existing:
             self.logger.warning(f"Anime dosyası bulunamadı, bölümler birleştirilemedi: {mal_id}")
             return 0
-
-        existing_eps = existing.get("episodes") or []
-        existing_by_num = {}
-        for ep in existing_eps:
-            num = ep.get("episode_number")
-            if num is not None:
-                existing_by_num[num] = ep
 
         if isinstance(episodes_input, dict):
             new_list = list(episodes_input.values())
@@ -353,44 +408,49 @@ class StorageManager:
             new_list = episodes_input
 
         new_by_num = {e.get("episode_number"): e for e in new_list if e.get("episode_number") is not None}
-        all_numbers = set(existing_by_num.keys()) | set(new_by_num.keys())
+
+        jikan = existing.get("jikan") or {}
+        turkanime = existing.get("turkanime") or {}
+
+        # Mevcut yeni yapı; yoksa eski birleşik diziden türet
+        old_jikan_eps = jikan.get("episode_list") or []
+        old_turkanime_eps = turkanime.get("episodes") or []
+        if not old_jikan_eps and not old_turkanime_eps and existing.get("episodes"):
+            old_turkanime_eps, old_jikan_eps = self._split_legacy_episodes(existing["episodes"])
+
+        # MAL listesi boş geldiyse (geçici hata / rate limit) mevcut listeyi ezme
+        if not new_by_num and old_jikan_eps:
+            self.logger.warning(f"MAL bölüm listesi boş geldi, mevcut liste korunuyor: {mal_id}")
+            return 0
+
+        old_jikan_nums = {e.get("episode_number") for e in old_jikan_eps if e.get("episode_number") is not None}
+        old_tk_by_num = {e.get("episode_number"): e for e in old_turkanime_eps if e.get("episode_number") is not None}
 
         new_added_count = 0
-        merged_eps = []
-        now_str = datetime.now().isoformat()
 
-        for num in sorted(all_numbers):
-            old_ep = existing_by_num.get(num)
-            new_info = new_by_num.get(num, {})
-
-            if old_ep:
-                # Mevcut bölümü güncelle (videoları ve eski alanları KORU)
-                merged_ep = dict(old_ep)
-                if new_info.get("title") and not merged_ep.get("title"):
-                    merged_ep["title"] = new_info.get("title")
-                if new_info.get("aired"):
-                    merged_ep["aired"] = new_info.get("aired")
-                if "filler" in new_info:
-                    merged_ep["filler"] = new_info.get("filler")
-                if "recap" in new_info:
-                    merged_ep["recap"] = new_info.get("recap")
-                merged_eps.append(merged_ep)
-            else:
-                # Yeni bölüm: videos boş liste, MAL başlığı ve tarihi ile ekle
-                ep_obj = {
-                    "turkanime_title": f"{num}. Bölüm",
-                    "title": new_info.get("title") or f"Bölüm {num}",
-                    "episode_number": num,
-                    "aired": new_info.get("aired"),
-                    "filler": new_info.get("filler", False),
-                    "recap": new_info.get("recap", False),
-                    "videos": [],
-                    "added_date": now_str,
-                }
-                merged_eps.append(ep_obj)
+        # ── MAL listesi (jikan.episode_list) ──
+        jikan_episode_list = []
+        for num in sorted(new_by_num):
+            info = new_by_num[num]
+            jikan_episode_list.append({
+                "episode_number": num,
+                "title": info.get("title") or f"Bölüm {num}",
+                "aired": info.get("aired"),
+                "filler": info.get("filler", False),
+                "recap": info.get("recap", False),
+            })
+            if num not in old_jikan_nums:
                 new_added_count += 1
 
-        existing["episodes"] = merged_eps
+        # ── Türkanime bölümleri: mevcut kayıtlar aynen korunur ──
+        # (MAL'de olup Türkanime'de karşılığı olmayanlar buraya eklenmez)
+        turkanime_eps = [old_tk_by_num[num] for num in sorted(old_tk_by_num)]
+
+        jikan["episode_list"] = jikan_episode_list
+        turkanime["episodes"] = turkanime_eps
+        existing["jikan"] = jikan
+        existing["turkanime"] = turkanime
+        existing.pop("episodes", None)
 
         filename = f"{mal_id}.json"
         filepath = os.path.join(self.anime_dir, filename)
@@ -512,8 +572,8 @@ class StorageManager:
                         except ValueError:
                             season_val = None
 
-            # Toplam bölüm: jikan.episodes bilinmiyorsa (null/0) yerel bölüm listesinin uzunluğu kullanılır
-            episodes_val = jikan.get("episodes") or len(data.get("episodes") or []) or None
+            # Toplam bölüm: jikan.episodes bilinmiyorsa (null/0) MAL bölüm listesinin uzunluğu kullanılır
+            episodes_val = jikan.get("episodes") or len(jikan.get("episode_list") or []) or None
 
             index.append({
                 "mal_id": mal_id_val,

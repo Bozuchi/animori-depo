@@ -4,7 +4,37 @@
     "puan": "0.00",
     "bolum_durumu": "1/26",
     "ozet": "Momotsuki Akademisi'nin 1-C sınıfı kızları onuncu sınıfa yepyeni bir öğretmenle başlıyor. İyi haber mi? Öğretmen bir MIT mezunu. Kötü haberse sadece 11 yaşında olması! Becky Miyamoto çok zeki olsa da, bu deha çocuk, talimatlarını bekleyen bir grup huysuz ve ergen genç (ayrıca aptal uzaylılarla) ile başa çıkmak için son derede yetersizdir!",
-    "slug": "paniponi-dash"
+    "slug": "paniponi-dash",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Paniponi Dash! 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 18,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zXYDOV6ZT9QAR9hJjprPnkz864WYhvDw/preview"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7725655522707245004"
+          },
+          {
+            "fansub_id": 18,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-s7j4dzq8bh78.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1387,
+            "end": 1477
+          }
+        },
+        "added_date": "2026-07-29T01:15:21.650769"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 490,
@@ -56,46 +86,22 @@
         ]
       }
     ],
-    "episodes": 26
+    "episodes": 26,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 490,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/490-dHSzVziqtq8s.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b490-KSxEkqG6QICq.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Paniponi Dash! 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 18,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zXYDOV6ZT9QAR9hJjprPnkz864WYhvDw/preview"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7725655522707245004"
-        },
-        {
-          "fansub_id": 18,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-s7j4dzq8bh78.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1387,
-          "end": 1477
-        }
-      },
-      "added_date": "2026-07-29T01:15:21.650769",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 89086,
     "type": "tv",

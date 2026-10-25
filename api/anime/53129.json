@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Dileğini gerçekleştirmek için ne yapması gerekecek?\n\nYorucu bir aralık ayının ardından Sakuta, lise ikinci sınıfın sonuna doğru hızla yaklaşmaktadır. Mai üçüncü sınıf öğrencisi olduğu için, mezuniyete kadar birlikte geçirecekleri fazla zamanları kalmamıştır. Bu arada, kız kardeşi Kaede yavaş ama istikrarlı bir şekilde yeniden dışarı çıkmaya başlamıştır. Tam da ayakları yere basmaya başlamışken, şimdiye kadarki en iddialı hedefini açıklar: Abisinin lisesine gitmek istemek! Sakuta bunun Kaede için ne kadar zor olacağını herkesten iyi bilmektedir ve elinden geldiğince ona destek olmaya hazırdır. Sadece onun için en iyisinin bu olduğundan ya da Kaede'nin gerçekten ne istediğinden emin değildir...",
-    "slug": "seishun-buta-yarou-wa-odekake-sister-no-yume-wo-minai"
+    "slug": "seishun-buta-yarou-wa-odekake-sister-no-yume-wo-minai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 53129,
@@ -60,36 +61,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 154967,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154967-uUEtnP9NOTGu.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154967-W9cIm0qlz6fj.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 175,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/bxim77v3n4ez"
-        },
-        {
-          "fansub_id": 175,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/m0kw40a1"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:24:19.119690",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1056803,
     "type": "movie",

@@ -4,7 +4,116 @@
     "puan": "0.00",
     "bolum_durumu": "4/6",
     "ozet": "Imouto sae Ireba Ii. serisinin resmî twitter hesabında yayımlanan ve ayrıca BD/DVD versiyonlarının da içinde bulunan chibi animasyonlu kısa serisidir.",
-    "slug": "imouto-sae-ireba-ii-ona"
+    "slug": "imouto-sae-ireba-ii-ona",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Imouto sae Ireba Ii. (ONA) 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 105,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HRXUV0Vog4JArEMDDcl94R5i7k80dPD-/preview"
+          },
+          {
+            "fansub_id": 105,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911976"
+          },
+          {
+            "fansub_id": 105,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5qi70lzozvyc.html"
+          }
+        ],
+        "added_date": "2026-07-26T05:21:36.770512"
+      },
+      {
+        "episode_number": 2,
+        "title": "Imouto sae Ireba Ii. (ONA) 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 105,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-0JGD_pCN3mR43RglLerNV4on5olKak7/preview"
+          },
+          {
+            "fansub_id": 105,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Ho4zeqWvOz3iy-jyvT1K1DCbLe5k2Sxv/preview"
+          },
+          {
+            "fansub_id": 105,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4623384"
+          },
+          {
+            "fansub_id": 105,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b8dholse72ar.html"
+          },
+          {
+            "fansub_id": 105,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-aqqhjjbe2j6q.html"
+          },
+          {
+            "fansub_id": 105,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-f6pko4eohojb.html"
+          }
+        ],
+        "added_date": "2026-07-26T05:21:36.770512"
+      },
+      {
+        "episode_number": 3,
+        "title": "Imouto sae Ireba Ii. (ONA) 3. Bölüm",
+        "videos": [],
+        "added_date": "2026-07-26T05:21:36.770512"
+      },
+      {
+        "episode_number": 4,
+        "title": "Imouto sae Ireba Ii. (ONA) 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 105,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tBMGsOIoZYP4nLGkD7ZuTfjeMYSiq5GU/preview"
+          },
+          {
+            "fansub_id": 105,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PxeVcJWCX8EpLqyJWIlwGrVyeP3ythOz/preview"
+          },
+          {
+            "fansub_id": 105,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911995"
+          },
+          {
+            "fansub_id": 105,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4517324"
+          },
+          {
+            "fansub_id": 105,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lcn6li4frpml.html"
+          },
+          {
+            "fansub_id": 105,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-12bzygng21ke.html"
+          },
+          {
+            "fansub_id": 105,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-w4vhcb2dhwes.html"
+          }
+        ],
+        "added_date": "2026-07-26T05:21:36.770512"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37045,
@@ -49,136 +158,41 @@
         ]
       }
     ],
-    "episodes": 6
+    "episodes": 6,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 102946,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102946-d2HJiCsuQeDf.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Imouto sae Ireba Ii. (ONA) 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 105,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1HRXUV0Vog4JArEMDDcl94R5i7k80dPD-/preview"
-        },
-        {
-          "fansub_id": 105,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911976"
-        },
-        {
-          "fansub_id": 105,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5qi70lzozvyc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:21:36.770512",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Imouto sae Ireba Ii. (ONA) 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 105,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-0JGD_pCN3mR43RglLerNV4on5olKak7/preview"
-        },
-        {
-          "fansub_id": 105,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Ho4zeqWvOz3iy-jyvT1K1DCbLe5k2Sxv/preview"
-        },
-        {
-          "fansub_id": 105,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4623384"
-        },
-        {
-          "fansub_id": 105,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-b8dholse72ar.html"
-        },
-        {
-          "fansub_id": 105,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-aqqhjjbe2j6q.html"
-        },
-        {
-          "fansub_id": 105,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-f6pko4eohojb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:21:36.770512",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Imouto sae Ireba Ii. (ONA) 3. Bölüm",
-      "episode_number": 3,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:21:36.770512",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Imouto sae Ireba Ii. (ONA) 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 105,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tBMGsOIoZYP4nLGkD7ZuTfjeMYSiq5GU/preview"
-        },
-        {
-          "fansub_id": 105,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PxeVcJWCX8EpLqyJWIlwGrVyeP3ythOz/preview"
-        },
-        {
-          "fansub_id": 105,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911995"
-        },
-        {
-          "fansub_id": 105,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4517324"
-        },
-        {
-          "fansub_id": 105,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-lcn6li4frpml.html"
-        },
-        {
-          "fansub_id": 105,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-12bzygng21ke.html"
-        },
-        {
-          "fansub_id": 105,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-w4vhcb2dhwes.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:21:36.770512",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

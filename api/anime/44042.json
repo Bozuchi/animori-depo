@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Holo no Graffiti",
-    "slug": "holo-no-graffiti"
+    "slug": "holo-no-graffiti",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 44042,
@@ -318,6 +319,1464 @@
           64522
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Apex",
+        "aired": "May 5, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "When Virtual-Reality Craves for Fame",
+        "aired": "May 12, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Last Time, on Love Live!",
+        "aired": "May 19, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Everybody is a Material Girl...",
+        "aired": "May 26, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "In VR, Arm Waves You",
+        "aired": "Jun 2, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "Teen Beating Bear Life Hack!!",
+        "aired": "Jun 9, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "The IMPACT Aftermath!!!",
+        "aired": "Jun 23, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "Production Office Packing HEAT",
+        "aired": "Jun 30, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "Dying for Hiko-boshi",
+        "aired": "Jul 7, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "Hanging On!",
+        "aired": "Jul 14, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "Surrounded by Bewbs.",
+        "aired": "Jul 21, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "Faster than a Speeding Bullet (Gets Ticket)",
+        "aired": "Jul 28, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 13,
+        "title": "What Does the FOX Say?",
+        "aired": "Aug 4, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 14,
+        "title": "Sharpedo VS Hololive",
+        "aired": "Aug 11, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 15,
+        "title": "BEETing a Beetle",
+        "aired": "Aug 18, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 16,
+        "title": "Group Hollucination",
+        "aired": "Aug 25, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 17,
+        "title": "And Then There Were None (Horror)",
+        "aired": "Sep 1, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 18,
+        "title": "(Me singing) How many kilos can you hold a dumbbell? (ENG sub)",
+        "aired": "Sep 8, 2019",
+        "filler": true,
+        "recap": false
+      },
+      {
+        "episode_number": 19,
+        "title": "Handsomeness from the Gorgeous",
+        "aired": "Sep 15, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 20,
+        "title": "The Twin-tail Heist",
+        "aired": "Sep 22, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 21,
+        "title": "The Three Musketeers of Dogs are here",
+        "aired": "Sep 29, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 22,
+        "title": "Damage Reports Billions",
+        "aired": "Oct 6, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 23,
+        "title": "Collaboration with Yomemi! Big Brawl with High Potion and Tentacles",
+        "aired": "Oct 13, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 24,
+        "title": "The Weird Visitor (OkaKoro)",
+        "aired": "Oct 20, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 25,
+        "title": "Chaos. Lots of Chaos.",
+        "aired": "Oct 27, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 26,
+        "title": "Down the Doughnut Hole",
+        "aired": "Nov 3, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 27,
+        "title": "Keeping a 〇〇!!",
+        "aired": "Nov 10, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 28,
+        "title": "Extraordinary behavior of the two (OkaKoro)",
+        "aired": "Nov 17, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 29,
+        "title": "When Things Get Out of Hand...",
+        "aired": "Nov 24, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 30,
+        "title": "The New Member of the Family",
+        "aired": "Dec 1, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 31,
+        "title": "The Snap!",
+        "aired": "Dec 8, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 32,
+        "title": "When Cooking gets Fishy (Gets Reborn)",
+        "aired": "Dec 15, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 33,
+        "title": "Fasting for a Month",
+        "aired": "Dec 22, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 34,
+        "title": "Buried in Wall. Send Help (Winter Comiket)",
+        "aired": "Dec 29, 2019",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 35,
+        "title": "Of Broken Dreams",
+        "aired": "Jan 5, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 36,
+        "title": "The Tragedy of Modern Society",
+        "aired": "Jan 12, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 37,
+        "title": "Prank goes Nonstop",
+        "aired": "Jan 19, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 38,
+        "title": "hololive... the Movie!",
+        "aired": "Jan 26, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 39,
+        "title": "Mug",
+        "aired": "Feb 2, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 40,
+        "title": "What if You Were King?",
+        "aired": "Feb 9, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 41,
+        "title": "**** Fishing Championship",
+        "aired": "Feb 16, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 42,
+        "title": "Cosplay Girl vs Green Thingie",
+        "aired": "Feb 23, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 43,
+        "title": "The Secret Route to the hololive Office",
+        "aired": "Mar 1, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 44,
+        "title": "Ever Heard of Human Tetris?",
+        "aired": "Mar 8, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 45,
+        "title": "This Is Curry Land",
+        "aired": "Mar 15, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 46,
+        "title": "Factory Work Is Hard Work",
+        "aired": "Mar 22, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 47,
+        "title": "Dr. Ayame",
+        "aired": "Mar 29, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 48,
+        "title": "Slip Up",
+        "aired": "Apr 5, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 49,
+        "title": "R◯d bull",
+        "aired": "Apr 12, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 50,
+        "title": "Idols Face a Shady Threat",
+        "aired": "Apr 19, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 51,
+        "title": "Aqua TV",
+        "aired": "Apr 26, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 52,
+        "title": "Carrying Out One's Original Intention",
+        "aired": "May 3, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 53,
+        "title": "Hansel and Gretel in 60 Seconds",
+        "aired": "May 10, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 54,
+        "title": "The Food Review Championship!",
+        "aired": "May 17, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 55,
+        "title": "The Greetings Championship!",
+        "aired": "May 24, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 56,
+        "title": "Remote Workouts in 60 Seconds!",
+        "aired": "May 31, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 57,
+        "title": "Get Into Tokyu U!",
+        "aired": "Jun 7, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 58,
+        "title": "We Tried Kusaya",
+        "aired": "Jun 14, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 59,
+        "title": "Chase Like You Mean It!",
+        "aired": "Jun 21, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 60,
+        "title": "Who Landed the Fatal Blow? Passing the Buck!",
+        "aired": "Jun 28, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 61,
+        "title": "Annihilate 'em All!",
+        "aired": "Jul 5, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 62,
+        "title": "Frozen Out in the Bomb Disposal Squad",
+        "aired": "Jul 12, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 63,
+        "title": "My First Errand (Duel)",
+        "aired": "Jul 19, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 64,
+        "title": "How to Make Takoyaki",
+        "aired": "Jul 26, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 65,
+        "title": "You've Been Prank'd",
+        "aired": "Aug 2, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 66,
+        "title": "Grant My Wish",
+        "aired": "Aug 9, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 67,
+        "title": "Movie Appreciation Night [Horror]",
+        "aired": "Aug 16, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 68,
+        "title": "The Idiots' Guide to Making People Mad",
+        "aired": "Aug 23, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 69,
+        "title": "Wash Everything Anew! Nagashi Somen Battle!",
+        "aired": "Aug 30, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 70,
+        "title": "Sneak Peek",
+        "aired": "Sep 6, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 71,
+        "title": "Supersized Me",
+        "aired": "Sep 13, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 72,
+        "title": "Go Beyond the Suffering! Endurance Contest!",
+        "aired": "Sep 20, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 73,
+        "title": "Take Over the Animal Kingdom",
+        "aired": "Sep 27, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 74,
+        "title": "Let's Form a Band!",
+        "aired": "Oct 4, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 75,
+        "title": "Curry Meshi VS Hololive",
+        "aired": "Oct 16, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 76,
+        "title": "How to Raise a Chick (Microwaved)",
+        "aired": "Oct 18, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 77,
+        "title": "A Smart Way to Use Pigtails",
+        "aired": "Oct 25, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 78,
+        "title": "Gotta Break It Down!",
+        "aired": "Nov 1, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 79,
+        "title": "What Is Wrong With You?",
+        "aired": "Nov 8, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 80,
+        "title": "Ramen Stall in an Awful Location",
+        "aired": "Nov 15, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 81,
+        "title": "Help! I'll be Burned!",
+        "aired": "Nov 22, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 82,
+        "title": "Survival of the Fittest",
+        "aired": "Nov 29, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 83,
+        "title": "How to Invoke a Kaiju",
+        "aired": "Dec 6, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 84,
+        "title": "Help! I'm stuck!",
+        "aired": "Dec 13, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 85,
+        "title": "Halloween Hangover",
+        "aired": "Dec 20, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 86,
+        "title": "This Is hololive's Year-End! (Skits)",
+        "aired": "Dec 27, 2020",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 87,
+        "title": "I've Solved the Mystery of the Idol Agency!",
+        "aired": "Jan 3, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 88,
+        "title": "What Happens When You Cater to Whims",
+        "aired": "Jan 10, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 89,
+        "title": "The Difference Between Coffee and Mud",
+        "aired": "Jan 17, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 90,
+        "title": "How to Become a Cat",
+        "aired": "Jan 24, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 91,
+        "title": "Polar Bear vs. Noble Girl",
+        "aired": "Jan 31, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 92,
+        "title": "Grown-Ups on Tricycles",
+        "aired": "Feb 7, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 93,
+        "title": "Help! We'll be Fired!",
+        "aired": "Feb 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 94,
+        "title": "Maidealism",
+        "aired": "Feb 21, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 95,
+        "title": "Going Wild In a Shopping Mall",
+        "aired": "Feb 28, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 96,
+        "title": "Sitting Duck",
+        "aired": "Mar 7, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 97,
+        "title": "The Perfect Cover-Up",
+        "aired": "Mar 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 98,
+        "title": "Speak of the Devil",
+        "aired": "Mar 21, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 99,
+        "title": "I Refuse to Lose to You",
+        "aired": "Mar 28, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 100,
+        "title": "Really Wanna Eat You-Know-What!",
+        "aired": "Apr 4, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 101,
+        "title": "Everybody's Scary When Mad",
+        "aired": "Apr 11, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 102,
+        "title": "First Look",
+        "aired": "Apr 18, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 103,
+        "title": "I Got Lucky",
+        "aired": "Apr 25, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 104,
+        "title": "Beware, Beware the Blues of May",
+        "aired": "May 2, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 105,
+        "title": "Murphy's Law",
+        "aired": "May 9, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 106,
+        "title": "In Spring, w00t!",
+        "aired": "May 16, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 107,
+        "title": "Critical Memory Lapse #from1st",
+        "aired": "May 23, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 108,
+        "title": "Looking the Part",
+        "aired": "May 30, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 109,
+        "title": "The Need For Speed",
+        "aired": "Jun 6, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 110,
+        "title": "Police Presence",
+        "aired": "Jun 13, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 111,
+        "title": "Advice Unwise",
+        "aired": "Jun 20, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 112,
+        "title": "Live Strong!",
+        "aired": "Jun 27, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 113,
+        "title": "The Importance of Catch",
+        "aired": "Jul 4, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 114,
+        "title": "Stay Out of My Lane",
+        "aired": "Jul 18, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 115,
+        "title": "Tanabata Lives On!",
+        "aired": "Jul 25, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 116,
+        "title": "Verbal Pek",
+        "aired": "Aug 1, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 117,
+        "title": "Wanna See a Witch Do Magic Tricks?",
+        "aired": "Aug 8, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 118,
+        "title": "Blame the Heat Wave",
+        "aired": "Aug 15, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 119,
+        "title": "The Beginnings of the End",
+        "aired": "Aug 22, 2021",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 120,
+        "title": "The Ideal BBQ",
+        "aired": "Aug 29, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 121,
+        "title": "Straight From the Horse's Mouth",
+        "aired": "Sep 5, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 122,
+        "title": "Danger: Sharp Objects",
+        "aired": "Sep 12, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 123,
+        "title": "The Steam-and-Eat Syndicate",
+        "aired": "Sep 19, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 124,
+        "title": "TV Dinner",
+        "aired": "Sep 26, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 125,
+        "title": "Jailed for YouTube Crimes",
+        "aired": "Oct 3, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 126,
+        "title": "Danger: Do Not Wake",
+        "aired": "Oct 10, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 127,
+        "title": "21st Century Sheep",
+        "aired": "Oct 17, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 128,
+        "title": "A Peach of a Tale",
+        "aired": "Oct 24, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 129,
+        "title": "Bar FUBAR",
+        "aired": "Oct 31, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 130,
+        "title": "Barrel and Hardy",
+        "aired": "Nov 7, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 131,
+        "title": "Don't You Dare Be Sour!",
+        "aired": "Nov 14, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 132,
+        "title": "Careful What You Read",
+        "aired": "Nov 21, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 133,
+        "title": "Hoodwinked, Bamboozled, Led Astray",
+        "aired": "Nov 28, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 134,
+        "title": "The Hangover",
+        "aired": "Dec 5, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 135,
+        "title": "Health Is Wealth",
+        "aired": "Dec 12, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 136,
+        "title": "Manners? Hardly Knew Her!",
+        "aired": "Dec 19, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 137,
+        "title": "The Last Supper",
+        "aired": "Dec 26, 2021",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 138,
+        "title": "Moar!",
+        "aired": "Jan 2, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 139,
+        "title": "Free Real Estate",
+        "aired": "Jan 9, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 140,
+        "title": "Chocolicious",
+        "aired": "Jan 16, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 141,
+        "title": "Lost in Translation",
+        "aired": "Jan 23, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 142,
+        "title": "Ruing the Ruining",
+        "aired": "Jan 30, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 143,
+        "title": "To Be Young Again",
+        "aired": "Feb 6, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 144,
+        "title": "Who You Gonna Call?",
+        "aired": "Feb 13, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 145,
+        "title": "The Time Has Come",
+        "aired": "Feb 20, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 146,
+        "title": "Yukihana Needy",
+        "aired": "Feb 27, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 147,
+        "title": "Tough Love",
+        "aired": "Mar 6, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 148,
+        "title": "Musclebrain Stretches!",
+        "aired": "Mar 13, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 149,
+        "title": "The Office",
+        "aired": "Mar 20, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 150,
+        "title": "Sin Chronicle Is Nutritional",
+        "aired": "Mar 27, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 151,
+        "title": "Brew-tal Attack [Akiganger Ep 1]",
+        "aired": "Apr 3, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 152,
+        "title": "Out of Season",
+        "aired": "Apr 10, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 153,
+        "title": "Mooching Sushi",
+        "aired": "Apr 17, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 154,
+        "title": "Ever Heard of Human Sushi?",
+        "aired": "Apr 24, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 155,
+        "title": "Time Flies",
+        "aired": "May 1, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 156,
+        "title": "Highlight Scenes (Recap)",
+        "aired": "May 8, 2022",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 157,
+        "title": "All Your Fault!",
+        "aired": "May 15, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 158,
+        "title": "A Sticky Situation",
+        "aired": "May 22, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 159,
+        "title": "A Fishy Catch",
+        "aired": "May 29, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 160,
+        "title": "Air Force Oni",
+        "aired": "Jun 5, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 161,
+        "title": "Lost and Found",
+        "aired": "Jun 12, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 162,
+        "title": "Tag-Team Finish",
+        "aired": "Jun 19, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 163,
+        "title": "Choose Your Battles Wisely",
+        "aired": "Jun 26, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 164,
+        "title": "The Intern-alization",
+        "aired": "Jul 3, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 165,
+        "title": "This Is Dope!",
+        "aired": "Jul 10, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 166,
+        "title": "Going For Broke",
+        "aired": "Jul 17, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 167,
+        "title": "Leading by Example",
+        "aired": "Jul 24, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 168,
+        "title": "On The Tail",
+        "aired": "Jul 31, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 169,
+        "title": "When The Cicadas Fly",
+        "aired": "Aug 7, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 170,
+        "title": "Typhoons Ruin Trip",
+        "aired": "Aug 14, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 171,
+        "title": "Clash of the Palanquins",
+        "aired": "Aug 21, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 172,
+        "title": "Going Missing",
+        "aired": "Aug 28, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 173,
+        "title": "If I Were an Evil Overlord",
+        "aired": "Sep 4, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 174,
+        "title": "The Veggie Life",
+        "aired": "Sep 18, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 175,
+        "title": "Amane Kanata, Roomer",
+        "aired": "Sep 25, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 176,
+        "title": "Everything Is Evil",
+        "aired": "Oct 2, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 177,
+        "title": "Batting for The Angels",
+        "aired": "Oct 9, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 178,
+        "title": "More Mochi More Problems",
+        "aired": "Oct 16, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 179,
+        "title": "Keep Rollin'",
+        "aired": "Oct 23, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 180,
+        "title": "The Quintessential",
+        "aired": "Oct 30, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 181,
+        "title": "Guarantee For Me",
+        "aired": "Nov 6, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 182,
+        "title": "One of a Kindergarten",
+        "aired": "Nov 13, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 183,
+        "title": "Dark Times",
+        "aired": "Nov 20, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 184,
+        "title": "Takeover [holoX]",
+        "aired": "Nov 27, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 185,
+        "title": "Voice of the Voiceless",
+        "aired": "Dec 4, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 186,
+        "title": "The Broken, the Eaten, and the Damned",
+        "aired": "Dec 11, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 187,
+        "title": "Fly Me to the Moon",
+        "aired": "Dec 18, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 188,
+        "title": "The Arbitrator",
+        "aired": "Dec 25, 2022",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 189,
+        "title": "The Gang's All Together",
+        "aired": "Jan 1, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 190,
+        "title": "Happy New Year Recap!",
+        "aired": "Jan 8, 2023",
+        "filler": false,
+        "recap": true
+      },
+      {
+        "episode_number": 191,
+        "title": "Concert! And We`re Doing It Live!",
+        "aired": "Jan 15, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 192,
+        "title": "Ahaha! Indonesia!",
+        "aired": "Jan 22, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 193,
+        "title": "Mind Your Indonesian",
+        "aired": "Jan 29, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 194,
+        "title": "A Lick of Paint",
+        "aired": "Feb 5, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 195,
+        "title": "holo Drift",
+        "aired": "Feb 12, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 196,
+        "title": "Eat or Be EaTentacle",
+        "aired": "Feb 19, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 197,
+        "title": "Forgetaburger",
+        "aired": "Feb 26, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 198,
+        "title": "Reaper What You Sow",
+        "aired": "Mar 5, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 199,
+        "title": "Last Time Was the Last Time",
+        "aired": "Mar 12, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 200,
+        "title": "Gawr Gura Gnawing",
+        "aired": "Mar 19, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 201,
+        "title": "WTB Sidekick",
+        "aired": "Mar 26, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 202,
+        "title": "We Talking About Feelings",
+        "aired": "Apr 2, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 203,
+        "title": "Sell Us This Pen",
+        "aired": "Apr 9, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 204,
+        "title": "Odd Jobs",
+        "aired": "Apr 16, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 205,
+        "title": "Lost and Phoned",
+        "aired": "Apr 23, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 206,
+        "title": "Traveling the World Collecting the 508 Cursed Swords",
+        "aired": "Apr 30, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 207,
+        "title": "Hot Stuff",
+        "aired": "May 7, 2023",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 208,
+        "title": "We've Switched...?!",
+        "aired": "May 14, 2023",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -325,2087 +1784,5 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png"
   },
-  "synopsis_tr": "Kapıları açma ve kapatmanın sırlarını açığa çıkarmaktan, daha çok bomba olarak bilinen sürpriz paketleri etkisiz hale getirmeye kadar, Hololive Prodüksiyon ofisinde asla sıkıcı bir gün yoktur! Holo no Graffitif, \"VTubers\" olarak da bilinen, absürt ama komik günlük yaşamlarını sürdüren, tüm sevimli anlarını ve aksiliklerini detaylandıran eksantrik bir Sanal YouTuber kadrosunu takip ediyor.[MAL Rewrite tarafından yazıldı]",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Apex",
-      "episode_number": 1,
-      "aired": "May 5, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "When Virtual-Reality Craves for Fame",
-      "episode_number": 2,
-      "aired": "May 12, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Last Time, on Love Live!",
-      "episode_number": 3,
-      "aired": "May 19, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "Everybody is a Material Girl...",
-      "episode_number": 4,
-      "aired": "May 26, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "5. Bölüm",
-      "title": "In VR, Arm Waves You",
-      "episode_number": 5,
-      "aired": "Jun 2, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "6. Bölüm",
-      "title": "Teen Beating Bear Life Hack!!",
-      "episode_number": 6,
-      "aired": "Jun 9, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "7. Bölüm",
-      "title": "The IMPACT Aftermath!!!",
-      "episode_number": 7,
-      "aired": "Jun 23, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "8. Bölüm",
-      "title": "Production Office Packing HEAT",
-      "episode_number": 8,
-      "aired": "Jun 30, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "9. Bölüm",
-      "title": "Dying for Hiko-boshi",
-      "episode_number": 9,
-      "aired": "Jul 7, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "10. Bölüm",
-      "title": "Hanging On!",
-      "episode_number": 10,
-      "aired": "Jul 14, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "11. Bölüm",
-      "title": "Surrounded by Bewbs.",
-      "episode_number": 11,
-      "aired": "Jul 21, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "12. Bölüm",
-      "title": "Faster than a Speeding Bullet (Gets Ticket)",
-      "episode_number": 12,
-      "aired": "Jul 28, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "13. Bölüm",
-      "title": "What Does the FOX Say?",
-      "episode_number": 13,
-      "aired": "Aug 4, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "14. Bölüm",
-      "title": "Sharpedo VS Hololive",
-      "episode_number": 14,
-      "aired": "Aug 11, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "15. Bölüm",
-      "title": "BEETing a Beetle",
-      "episode_number": 15,
-      "aired": "Aug 18, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "16. Bölüm",
-      "title": "Group Hollucination",
-      "episode_number": 16,
-      "aired": "Aug 25, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "17. Bölüm",
-      "title": "And Then There Were None (Horror)",
-      "episode_number": 17,
-      "aired": "Sep 1, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "18. Bölüm",
-      "title": "(Me singing) How many kilos can you hold a dumbbell? (ENG sub)",
-      "episode_number": 18,
-      "aired": "Sep 8, 2019",
-      "filler": true,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "19. Bölüm",
-      "title": "Handsomeness from the Gorgeous",
-      "episode_number": 19,
-      "aired": "Sep 15, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "20. Bölüm",
-      "title": "The Twin-tail Heist",
-      "episode_number": 20,
-      "aired": "Sep 22, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "21. Bölüm",
-      "title": "The Three Musketeers of Dogs are here",
-      "episode_number": 21,
-      "aired": "Sep 29, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "22. Bölüm",
-      "title": "Damage Reports Billions",
-      "episode_number": 22,
-      "aired": "Oct 6, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "23. Bölüm",
-      "title": "Collaboration with Yomemi! Big Brawl with High Potion and Tentacles",
-      "episode_number": 23,
-      "aired": "Oct 13, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "24. Bölüm",
-      "title": "The Weird Visitor (OkaKoro)",
-      "episode_number": 24,
-      "aired": "Oct 20, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "25. Bölüm",
-      "title": "Chaos. Lots of Chaos.",
-      "episode_number": 25,
-      "aired": "Oct 27, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "26. Bölüm",
-      "title": "Down the Doughnut Hole",
-      "episode_number": 26,
-      "aired": "Nov 3, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "27. Bölüm",
-      "title": "Keeping a 〇〇!!",
-      "episode_number": 27,
-      "aired": "Nov 10, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "28. Bölüm",
-      "title": "Extraordinary behavior of the two (OkaKoro)",
-      "episode_number": 28,
-      "aired": "Nov 17, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "29. Bölüm",
-      "title": "When Things Get Out of Hand...",
-      "episode_number": 29,
-      "aired": "Nov 24, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "30. Bölüm",
-      "title": "The New Member of the Family",
-      "episode_number": 30,
-      "aired": "Dec 1, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "31. Bölüm",
-      "title": "The Snap!",
-      "episode_number": 31,
-      "aired": "Dec 8, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "32. Bölüm",
-      "title": "When Cooking gets Fishy (Gets Reborn)",
-      "episode_number": 32,
-      "aired": "Dec 15, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "33. Bölüm",
-      "title": "Fasting for a Month",
-      "episode_number": 33,
-      "aired": "Dec 22, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "34. Bölüm",
-      "title": "Buried in Wall. Send Help (Winter Comiket)",
-      "episode_number": 34,
-      "aired": "Dec 29, 2019",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "35. Bölüm",
-      "title": "Of Broken Dreams",
-      "episode_number": 35,
-      "aired": "Jan 5, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "36. Bölüm",
-      "title": "The Tragedy of Modern Society",
-      "episode_number": 36,
-      "aired": "Jan 12, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "37. Bölüm",
-      "title": "Prank goes Nonstop",
-      "episode_number": 37,
-      "aired": "Jan 19, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "38. Bölüm",
-      "title": "hololive... the Movie!",
-      "episode_number": 38,
-      "aired": "Jan 26, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "39. Bölüm",
-      "title": "Mug",
-      "episode_number": 39,
-      "aired": "Feb 2, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "40. Bölüm",
-      "title": "What if You Were King?",
-      "episode_number": 40,
-      "aired": "Feb 9, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "41. Bölüm",
-      "title": "**** Fishing Championship",
-      "episode_number": 41,
-      "aired": "Feb 16, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "42. Bölüm",
-      "title": "Cosplay Girl vs Green Thingie",
-      "episode_number": 42,
-      "aired": "Feb 23, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "43. Bölüm",
-      "title": "The Secret Route to the hololive Office",
-      "episode_number": 43,
-      "aired": "Mar 1, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "44. Bölüm",
-      "title": "Ever Heard of Human Tetris?",
-      "episode_number": 44,
-      "aired": "Mar 8, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "45. Bölüm",
-      "title": "This Is Curry Land",
-      "episode_number": 45,
-      "aired": "Mar 15, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "46. Bölüm",
-      "title": "Factory Work Is Hard Work",
-      "episode_number": 46,
-      "aired": "Mar 22, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "47. Bölüm",
-      "title": "Dr. Ayame",
-      "episode_number": 47,
-      "aired": "Mar 29, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "48. Bölüm",
-      "title": "Slip Up",
-      "episode_number": 48,
-      "aired": "Apr 5, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "49. Bölüm",
-      "title": "R◯d bull",
-      "episode_number": 49,
-      "aired": "Apr 12, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "50. Bölüm",
-      "title": "Idols Face a Shady Threat",
-      "episode_number": 50,
-      "aired": "Apr 19, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "51. Bölüm",
-      "title": "Aqua TV",
-      "episode_number": 51,
-      "aired": "Apr 26, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "52. Bölüm",
-      "title": "Carrying Out One's Original Intention",
-      "episode_number": 52,
-      "aired": "May 3, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "53. Bölüm",
-      "title": "Hansel and Gretel in 60 Seconds",
-      "episode_number": 53,
-      "aired": "May 10, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "54. Bölüm",
-      "title": "The Food Review Championship!",
-      "episode_number": 54,
-      "aired": "May 17, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "55. Bölüm",
-      "title": "The Greetings Championship!",
-      "episode_number": 55,
-      "aired": "May 24, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "56. Bölüm",
-      "title": "Remote Workouts in 60 Seconds!",
-      "episode_number": 56,
-      "aired": "May 31, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "57. Bölüm",
-      "title": "Get Into Tokyu U!",
-      "episode_number": 57,
-      "aired": "Jun 7, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "58. Bölüm",
-      "title": "We Tried Kusaya",
-      "episode_number": 58,
-      "aired": "Jun 14, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "59. Bölüm",
-      "title": "Chase Like You Mean It!",
-      "episode_number": 59,
-      "aired": "Jun 21, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "60. Bölüm",
-      "title": "Who Landed the Fatal Blow? Passing the Buck!",
-      "episode_number": 60,
-      "aired": "Jun 28, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "61. Bölüm",
-      "title": "Annihilate 'em All!",
-      "episode_number": 61,
-      "aired": "Jul 5, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "62. Bölüm",
-      "title": "Frozen Out in the Bomb Disposal Squad",
-      "episode_number": 62,
-      "aired": "Jul 12, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "63. Bölüm",
-      "title": "My First Errand (Duel)",
-      "episode_number": 63,
-      "aired": "Jul 19, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "64. Bölüm",
-      "title": "How to Make Takoyaki",
-      "episode_number": 64,
-      "aired": "Jul 26, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "65. Bölüm",
-      "title": "You've Been Prank'd",
-      "episode_number": 65,
-      "aired": "Aug 2, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "66. Bölüm",
-      "title": "Grant My Wish",
-      "episode_number": 66,
-      "aired": "Aug 9, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "67. Bölüm",
-      "title": "Movie Appreciation Night [Horror]",
-      "episode_number": 67,
-      "aired": "Aug 16, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "68. Bölüm",
-      "title": "The Idiots' Guide to Making People Mad",
-      "episode_number": 68,
-      "aired": "Aug 23, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "69. Bölüm",
-      "title": "Wash Everything Anew! Nagashi Somen Battle!",
-      "episode_number": 69,
-      "aired": "Aug 30, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "70. Bölüm",
-      "title": "Sneak Peek",
-      "episode_number": 70,
-      "aired": "Sep 6, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "71. Bölüm",
-      "title": "Supersized Me",
-      "episode_number": 71,
-      "aired": "Sep 13, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "72. Bölüm",
-      "title": "Go Beyond the Suffering! Endurance Contest!",
-      "episode_number": 72,
-      "aired": "Sep 20, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "73. Bölüm",
-      "title": "Take Over the Animal Kingdom",
-      "episode_number": 73,
-      "aired": "Sep 27, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "74. Bölüm",
-      "title": "Let's Form a Band!",
-      "episode_number": 74,
-      "aired": "Oct 4, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "75. Bölüm",
-      "title": "Curry Meshi VS Hololive",
-      "episode_number": 75,
-      "aired": "Oct 16, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "76. Bölüm",
-      "title": "How to Raise a Chick (Microwaved)",
-      "episode_number": 76,
-      "aired": "Oct 18, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "77. Bölüm",
-      "title": "A Smart Way to Use Pigtails",
-      "episode_number": 77,
-      "aired": "Oct 25, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "78. Bölüm",
-      "title": "Gotta Break It Down!",
-      "episode_number": 78,
-      "aired": "Nov 1, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "79. Bölüm",
-      "title": "What Is Wrong With You?",
-      "episode_number": 79,
-      "aired": "Nov 8, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "80. Bölüm",
-      "title": "Ramen Stall in an Awful Location",
-      "episode_number": 80,
-      "aired": "Nov 15, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "81. Bölüm",
-      "title": "Help! I'll be Burned!",
-      "episode_number": 81,
-      "aired": "Nov 22, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "82. Bölüm",
-      "title": "Survival of the Fittest",
-      "episode_number": 82,
-      "aired": "Nov 29, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "83. Bölüm",
-      "title": "How to Invoke a Kaiju",
-      "episode_number": 83,
-      "aired": "Dec 6, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "84. Bölüm",
-      "title": "Help! I'm stuck!",
-      "episode_number": 84,
-      "aired": "Dec 13, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "85. Bölüm",
-      "title": "Halloween Hangover",
-      "episode_number": 85,
-      "aired": "Dec 20, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "86. Bölüm",
-      "title": "This Is hololive's Year-End! (Skits)",
-      "episode_number": 86,
-      "aired": "Dec 27, 2020",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "87. Bölüm",
-      "title": "I've Solved the Mystery of the Idol Agency!",
-      "episode_number": 87,
-      "aired": "Jan 3, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "88. Bölüm",
-      "title": "What Happens When You Cater to Whims",
-      "episode_number": 88,
-      "aired": "Jan 10, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "89. Bölüm",
-      "title": "The Difference Between Coffee and Mud",
-      "episode_number": 89,
-      "aired": "Jan 17, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "90. Bölüm",
-      "title": "How to Become a Cat",
-      "episode_number": 90,
-      "aired": "Jan 24, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "91. Bölüm",
-      "title": "Polar Bear vs. Noble Girl",
-      "episode_number": 91,
-      "aired": "Jan 31, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "92. Bölüm",
-      "title": "Grown-Ups on Tricycles",
-      "episode_number": 92,
-      "aired": "Feb 7, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "93. Bölüm",
-      "title": "Help! We'll be Fired!",
-      "episode_number": 93,
-      "aired": "Feb 14, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "94. Bölüm",
-      "title": "Maidealism",
-      "episode_number": 94,
-      "aired": "Feb 21, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "95. Bölüm",
-      "title": "Going Wild In a Shopping Mall",
-      "episode_number": 95,
-      "aired": "Feb 28, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "96. Bölüm",
-      "title": "Sitting Duck",
-      "episode_number": 96,
-      "aired": "Mar 7, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "97. Bölüm",
-      "title": "The Perfect Cover-Up",
-      "episode_number": 97,
-      "aired": "Mar 14, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "98. Bölüm",
-      "title": "Speak of the Devil",
-      "episode_number": 98,
-      "aired": "Mar 21, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "99. Bölüm",
-      "title": "I Refuse to Lose to You",
-      "episode_number": 99,
-      "aired": "Mar 28, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "100. Bölüm",
-      "title": "Really Wanna Eat You-Know-What!",
-      "episode_number": 100,
-      "aired": "Apr 4, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "101. Bölüm",
-      "title": "Everybody's Scary When Mad",
-      "episode_number": 101,
-      "aired": "Apr 11, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "102. Bölüm",
-      "title": "First Look",
-      "episode_number": 102,
-      "aired": "Apr 18, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "103. Bölüm",
-      "title": "I Got Lucky",
-      "episode_number": 103,
-      "aired": "Apr 25, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "104. Bölüm",
-      "title": "Beware, Beware the Blues of May",
-      "episode_number": 104,
-      "aired": "May 2, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "105. Bölüm",
-      "title": "Murphy's Law",
-      "episode_number": 105,
-      "aired": "May 9, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "106. Bölüm",
-      "title": "In Spring, w00t!",
-      "episode_number": 106,
-      "aired": "May 16, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "107. Bölüm",
-      "title": "Critical Memory Lapse #from1st",
-      "episode_number": 107,
-      "aired": "May 23, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "108. Bölüm",
-      "title": "Looking the Part",
-      "episode_number": 108,
-      "aired": "May 30, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "109. Bölüm",
-      "title": "The Need For Speed",
-      "episode_number": 109,
-      "aired": "Jun 6, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "110. Bölüm",
-      "title": "Police Presence",
-      "episode_number": 110,
-      "aired": "Jun 13, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "111. Bölüm",
-      "title": "Advice Unwise",
-      "episode_number": 111,
-      "aired": "Jun 20, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "112. Bölüm",
-      "title": "Live Strong!",
-      "episode_number": 112,
-      "aired": "Jun 27, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "113. Bölüm",
-      "title": "The Importance of Catch",
-      "episode_number": 113,
-      "aired": "Jul 4, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "114. Bölüm",
-      "title": "Stay Out of My Lane",
-      "episode_number": 114,
-      "aired": "Jul 18, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "115. Bölüm",
-      "title": "Tanabata Lives On!",
-      "episode_number": 115,
-      "aired": "Jul 25, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "116. Bölüm",
-      "title": "Verbal Pek",
-      "episode_number": 116,
-      "aired": "Aug 1, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "117. Bölüm",
-      "title": "Wanna See a Witch Do Magic Tricks?",
-      "episode_number": 117,
-      "aired": "Aug 8, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "118. Bölüm",
-      "title": "Blame the Heat Wave",
-      "episode_number": 118,
-      "aired": "Aug 15, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "119. Bölüm",
-      "title": "The Beginnings of the End",
-      "episode_number": 119,
-      "aired": "Aug 22, 2021",
-      "filler": false,
-      "recap": true,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "120. Bölüm",
-      "title": "The Ideal BBQ",
-      "episode_number": 120,
-      "aired": "Aug 29, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "121. Bölüm",
-      "title": "Straight From the Horse's Mouth",
-      "episode_number": 121,
-      "aired": "Sep 5, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "122. Bölüm",
-      "title": "Danger: Sharp Objects",
-      "episode_number": 122,
-      "aired": "Sep 12, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "123. Bölüm",
-      "title": "The Steam-and-Eat Syndicate",
-      "episode_number": 123,
-      "aired": "Sep 19, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "124. Bölüm",
-      "title": "TV Dinner",
-      "episode_number": 124,
-      "aired": "Sep 26, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "125. Bölüm",
-      "title": "Jailed for YouTube Crimes",
-      "episode_number": 125,
-      "aired": "Oct 3, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "126. Bölüm",
-      "title": "Danger: Do Not Wake",
-      "episode_number": 126,
-      "aired": "Oct 10, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "127. Bölüm",
-      "title": "21st Century Sheep",
-      "episode_number": 127,
-      "aired": "Oct 17, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "128. Bölüm",
-      "title": "A Peach of a Tale",
-      "episode_number": 128,
-      "aired": "Oct 24, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "129. Bölüm",
-      "title": "Bar FUBAR",
-      "episode_number": 129,
-      "aired": "Oct 31, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "130. Bölüm",
-      "title": "Barrel and Hardy",
-      "episode_number": 130,
-      "aired": "Nov 7, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "131. Bölüm",
-      "title": "Don't You Dare Be Sour!",
-      "episode_number": 131,
-      "aired": "Nov 14, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "132. Bölüm",
-      "title": "Careful What You Read",
-      "episode_number": 132,
-      "aired": "Nov 21, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "133. Bölüm",
-      "title": "Hoodwinked, Bamboozled, Led Astray",
-      "episode_number": 133,
-      "aired": "Nov 28, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "134. Bölüm",
-      "title": "The Hangover",
-      "episode_number": 134,
-      "aired": "Dec 5, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "135. Bölüm",
-      "title": "Health Is Wealth",
-      "episode_number": 135,
-      "aired": "Dec 12, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "136. Bölüm",
-      "title": "Manners? Hardly Knew Her!",
-      "episode_number": 136,
-      "aired": "Dec 19, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "137. Bölüm",
-      "title": "The Last Supper",
-      "episode_number": 137,
-      "aired": "Dec 26, 2021",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "138. Bölüm",
-      "title": "Moar!",
-      "episode_number": 138,
-      "aired": "Jan 2, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "139. Bölüm",
-      "title": "Free Real Estate",
-      "episode_number": 139,
-      "aired": "Jan 9, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "140. Bölüm",
-      "title": "Chocolicious",
-      "episode_number": 140,
-      "aired": "Jan 16, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "141. Bölüm",
-      "title": "Lost in Translation",
-      "episode_number": 141,
-      "aired": "Jan 23, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "142. Bölüm",
-      "title": "Ruing the Ruining",
-      "episode_number": 142,
-      "aired": "Jan 30, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "143. Bölüm",
-      "title": "To Be Young Again",
-      "episode_number": 143,
-      "aired": "Feb 6, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "144. Bölüm",
-      "title": "Who You Gonna Call?",
-      "episode_number": 144,
-      "aired": "Feb 13, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "145. Bölüm",
-      "title": "The Time Has Come",
-      "episode_number": 145,
-      "aired": "Feb 20, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "146. Bölüm",
-      "title": "Yukihana Needy",
-      "episode_number": 146,
-      "aired": "Feb 27, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "147. Bölüm",
-      "title": "Tough Love",
-      "episode_number": 147,
-      "aired": "Mar 6, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "148. Bölüm",
-      "title": "Musclebrain Stretches!",
-      "episode_number": 148,
-      "aired": "Mar 13, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "149. Bölüm",
-      "title": "The Office",
-      "episode_number": 149,
-      "aired": "Mar 20, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "150. Bölüm",
-      "title": "Sin Chronicle Is Nutritional",
-      "episode_number": 150,
-      "aired": "Mar 27, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "151. Bölüm",
-      "title": "Brew-tal Attack [Akiganger Ep 1]",
-      "episode_number": 151,
-      "aired": "Apr 3, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "152. Bölüm",
-      "title": "Out of Season",
-      "episode_number": 152,
-      "aired": "Apr 10, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "153. Bölüm",
-      "title": "Mooching Sushi",
-      "episode_number": 153,
-      "aired": "Apr 17, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "154. Bölüm",
-      "title": "Ever Heard of Human Sushi?",
-      "episode_number": 154,
-      "aired": "Apr 24, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "155. Bölüm",
-      "title": "Time Flies",
-      "episode_number": 155,
-      "aired": "May 1, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "156. Bölüm",
-      "title": "Highlight Scenes (Recap)",
-      "episode_number": 156,
-      "aired": "May 8, 2022",
-      "filler": false,
-      "recap": true,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "157. Bölüm",
-      "title": "All Your Fault!",
-      "episode_number": 157,
-      "aired": "May 15, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "158. Bölüm",
-      "title": "A Sticky Situation",
-      "episode_number": 158,
-      "aired": "May 22, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "159. Bölüm",
-      "title": "A Fishy Catch",
-      "episode_number": 159,
-      "aired": "May 29, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "160. Bölüm",
-      "title": "Air Force Oni",
-      "episode_number": 160,
-      "aired": "Jun 5, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "161. Bölüm",
-      "title": "Lost and Found",
-      "episode_number": 161,
-      "aired": "Jun 12, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "162. Bölüm",
-      "title": "Tag-Team Finish",
-      "episode_number": 162,
-      "aired": "Jun 19, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "163. Bölüm",
-      "title": "Choose Your Battles Wisely",
-      "episode_number": 163,
-      "aired": "Jun 26, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "164. Bölüm",
-      "title": "The Intern-alization",
-      "episode_number": 164,
-      "aired": "Jul 3, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "165. Bölüm",
-      "title": "This Is Dope!",
-      "episode_number": 165,
-      "aired": "Jul 10, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "166. Bölüm",
-      "title": "Going For Broke",
-      "episode_number": 166,
-      "aired": "Jul 17, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "167. Bölüm",
-      "title": "Leading by Example",
-      "episode_number": 167,
-      "aired": "Jul 24, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "168. Bölüm",
-      "title": "On The Tail",
-      "episode_number": 168,
-      "aired": "Jul 31, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "169. Bölüm",
-      "title": "When The Cicadas Fly",
-      "episode_number": 169,
-      "aired": "Aug 7, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "170. Bölüm",
-      "title": "Typhoons Ruin Trip",
-      "episode_number": 170,
-      "aired": "Aug 14, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "171. Bölüm",
-      "title": "Clash of the Palanquins",
-      "episode_number": 171,
-      "aired": "Aug 21, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "172. Bölüm",
-      "title": "Going Missing",
-      "episode_number": 172,
-      "aired": "Aug 28, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "173. Bölüm",
-      "title": "If I Were an Evil Overlord",
-      "episode_number": 173,
-      "aired": "Sep 4, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "174. Bölüm",
-      "title": "The Veggie Life",
-      "episode_number": 174,
-      "aired": "Sep 18, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "175. Bölüm",
-      "title": "Amane Kanata, Roomer",
-      "episode_number": 175,
-      "aired": "Sep 25, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "176. Bölüm",
-      "title": "Everything Is Evil",
-      "episode_number": 176,
-      "aired": "Oct 2, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "177. Bölüm",
-      "title": "Batting for The Angels",
-      "episode_number": 177,
-      "aired": "Oct 9, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "178. Bölüm",
-      "title": "More Mochi More Problems",
-      "episode_number": 178,
-      "aired": "Oct 16, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "179. Bölüm",
-      "title": "Keep Rollin'",
-      "episode_number": 179,
-      "aired": "Oct 23, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "180. Bölüm",
-      "title": "The Quintessential",
-      "episode_number": 180,
-      "aired": "Oct 30, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "181. Bölüm",
-      "title": "Guarantee For Me",
-      "episode_number": 181,
-      "aired": "Nov 6, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "182. Bölüm",
-      "title": "One of a Kindergarten",
-      "episode_number": 182,
-      "aired": "Nov 13, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "183. Bölüm",
-      "title": "Dark Times",
-      "episode_number": 183,
-      "aired": "Nov 20, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "184. Bölüm",
-      "title": "Takeover [holoX]",
-      "episode_number": 184,
-      "aired": "Nov 27, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "185. Bölüm",
-      "title": "Voice of the Voiceless",
-      "episode_number": 185,
-      "aired": "Dec 4, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "186. Bölüm",
-      "title": "The Broken, the Eaten, and the Damned",
-      "episode_number": 186,
-      "aired": "Dec 11, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "187. Bölüm",
-      "title": "Fly Me to the Moon",
-      "episode_number": 187,
-      "aired": "Dec 18, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "188. Bölüm",
-      "title": "The Arbitrator",
-      "episode_number": 188,
-      "aired": "Dec 25, 2022",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "189. Bölüm",
-      "title": "The Gang's All Together",
-      "episode_number": 189,
-      "aired": "Jan 1, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "190. Bölüm",
-      "title": "Happy New Year Recap!",
-      "episode_number": 190,
-      "aired": "Jan 8, 2023",
-      "filler": false,
-      "recap": true,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "191. Bölüm",
-      "title": "Concert! And We`re Doing It Live!",
-      "episode_number": 191,
-      "aired": "Jan 15, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "192. Bölüm",
-      "title": "Ahaha! Indonesia!",
-      "episode_number": 192,
-      "aired": "Jan 22, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "193. Bölüm",
-      "title": "Mind Your Indonesian",
-      "episode_number": 193,
-      "aired": "Jan 29, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "194. Bölüm",
-      "title": "A Lick of Paint",
-      "episode_number": 194,
-      "aired": "Feb 5, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "195. Bölüm",
-      "title": "holo Drift",
-      "episode_number": 195,
-      "aired": "Feb 12, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "196. Bölüm",
-      "title": "Eat or Be EaTentacle",
-      "episode_number": 196,
-      "aired": "Feb 19, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "197. Bölüm",
-      "title": "Forgetaburger",
-      "episode_number": 197,
-      "aired": "Feb 26, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "198. Bölüm",
-      "title": "Reaper What You Sow",
-      "episode_number": 198,
-      "aired": "Mar 5, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "199. Bölüm",
-      "title": "Last Time Was the Last Time",
-      "episode_number": 199,
-      "aired": "Mar 12, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "200. Bölüm",
-      "title": "Gawr Gura Gnawing",
-      "episode_number": 200,
-      "aired": "Mar 19, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "201. Bölüm",
-      "title": "WTB Sidekick",
-      "episode_number": 201,
-      "aired": "Mar 26, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "202. Bölüm",
-      "title": "We Talking About Feelings",
-      "episode_number": 202,
-      "aired": "Apr 2, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "203. Bölüm",
-      "title": "Sell Us This Pen",
-      "episode_number": 203,
-      "aired": "Apr 9, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "204. Bölüm",
-      "title": "Odd Jobs",
-      "episode_number": 204,
-      "aired": "Apr 16, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "205. Bölüm",
-      "title": "Lost and Phoned",
-      "episode_number": 205,
-      "aired": "Apr 23, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "206. Bölüm",
-      "title": "Traveling the World Collecting the 508 Cursed Swords",
-      "episode_number": 206,
-      "aired": "Apr 30, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "207. Bölüm",
-      "title": "Hot Stuff",
-      "episode_number": 207,
-      "aired": "May 7, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    },
-    {
-      "turkanime_title": "208. Bölüm",
-      "title": "We've Switched...?!",
-      "episode_number": 208,
-      "aired": "May 14, 2023",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:05.559379"
-    }
-  ]
+  "synopsis_tr": "Kapıları açma ve kapatmanın sırlarını açığa çıkarmaktan, daha çok bomba olarak bilinen sürpriz paketleri etkisiz hale getirmeye kadar, Hololive Prodüksiyon ofisinde asla sıkıcı bir gün yoktur! Holo no Graffitif, \"VTubers\" olarak da bilinen, absürt ama komik günlük yaşamlarını sürdüren, tüm sevimli anlarını ve aksiliklerini detaylandıran eksantrik bir Sanal YouTuber kadrosunu takip ediyor.[MAL Rewrite tarafından yazıldı]"
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bu, belli bir çarpık dünyadan bir hikaye.\n\nOyuncu Adı: Yuki. Meslek: Profesyonel ölüm oyunu oyuncusu.\nOyuncunun hayatta kalma oranının düşmesine neden olan lanet olan Otuz Duvarı'nı aşan Yuki, yoluna devam ediyor.\nÖlümün her an ulaşılabilir olduğu bir oyunda, bir sonraki mücadelesi dünyadan izole edilmiş uzak bir ada. Orada sekiz oyuncu toplanmış ve aralarında Yuki'nin zaten tanıdığı deneyimli oyuncular da var.\nOyun: Bulutlu Plaj.\nDuvarın ötesinde sadece onu geçenler var. Bugün de her zamanki gibi, geçimini sağlamak için ölüm oyunları oynuyor.",
-    "slug": "shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach"
+    "slug": "shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63819,
@@ -53,25 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 209961,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209961-88hLnRWbwZiI.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209961-EKMAWTp299Kt.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach Film",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:44:34.375512",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 263330,
     "type": "tv",

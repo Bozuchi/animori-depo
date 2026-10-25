@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Shigatsu wa Kimi no Uso serisine ait OVA bölümdür.",
-    "slug": "shigatsu-wa-kimi-no-uso-moments"
+    "slug": "shigatsu-wa-kimi-no-uso-moments",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 28069,
@@ -46,86 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21039,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21039-X68Dgfa7VG2v.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shigatsu wa Kimi no Uso OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 247,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ThNInBbEiC_mtjjtmbGYl9LRqOArV7te/preview"
-        },
-        {
-          "fansub_id": 247,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Mirns1bC50u28tr-tIdvJf0UtpvZwQzE/preview"
-        },
-        {
-          "fansub_id": 247,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4285974"
-        },
-        {
-          "fansub_id": 247,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4285976"
-        },
-        {
-          "fansub_id": 247,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/avy97hfc"
-        },
-        {
-          "fansub_id": 247,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-yqnlyjiqjq54.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846980"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4073391"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-iqzkcdc99axt.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-yfd26btx3zfd.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/c7cqej0e"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-j0wjxfscekh0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:47:33.976719",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 61663,
     "type": "tv",

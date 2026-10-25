@@ -4,7 +4,221 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Noman's Land gezegeninde, muhabirler Meryl Stryfe ve Roberto De Niro, kötü şöhretli kanun kaçağı Stampede Vash'ı aramak için çölü dolaşırlar. Ancak ıssız Jeneora Rock kasabası yakınlarında buldukları adam, bekledikleri ölümcül teröristten çok farklıdır. Gerçekte Vash pasif ve kaygısız bir serseridir; kasaba sakinleri tarafından sevilen bir barış yanlısıdır. Yanlış şöhreti aslında ikiz kardeşi Knives Millions tarafından işlenen yaygın zulümlerden kaynaklanmaktadır. Yine de Vash, peşinden şiddetli kaosun gelme eğilimi nedeniyle \"İnsansı Tayfun\" olarak adlandırılır.\n\nKaos çok geçmeden Vash'in kellesine konan yüksek ödülü almak isteyen ödül avcıları şeklinde ortaya çıkar ve onların şiddetli takibi kasaba ve değerli enerji santrali için büyük tehlike oluşturur. Silah kullanma becerisi sayesinde Vash bu hain güçlerin çoğuna karşı koyabilir. Ancak çok geçmeden nihai kötülükle yüzleşmek zorunda kalır.",
-    "slug": "trigun-stampede"
+    "slug": "trigun-stampede",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Trigun Stampede 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5077810"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 273.914,
+            "end": 363.914
+          },
+          "ed": {
+            "start": 1338,
+            "end": 1432
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 2,
+        "title": "Trigun Stampede 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5077836"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 88,
+            "end": 179
+          },
+          "ed": {
+            "start": 1338,
+            "end": 1434
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 3,
+        "title": "Trigun Stampede 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5077844"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1340,
+            "end": 1430
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 4,
+        "title": "Trigun Stampede 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5077875"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 49,
+            "end": 135
+          },
+          "ed": {
+            "start": 1343,
+            "end": 1428
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 5,
+        "title": "Trigun Stampede 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5077902"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 48,
+            "end": 135
+          },
+          "ed": {
+            "start": 1341,
+            "end": 1428
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 6,
+        "title": "Trigun Stampede 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5077936"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1340,
+            "end": 1428
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 7,
+        "title": "Trigun Stampede 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5078286"
+          }
+        ],
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 8,
+        "title": "Trigun Stampede 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5078303"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1340,
+            "end": 1430
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 9,
+        "title": "Trigun Stampede 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5078314"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1340,
+            "end": 1428
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 10,
+        "title": "Trigun Stampede 10. Bölüm",
+        "videos": [],
+        "skip_times": {
+          "op": {
+            "start": 32,
+            "end": 114
+          },
+          "ed": {
+            "start": 1339,
+            "end": 1432
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 11,
+        "title": "Trigun Stampede 11. Bölüm",
+        "videos": [],
+        "skip_times": {
+          "ed": {
+            "start": 1340,
+            "end": 1430
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      },
+      {
+        "episode_number": 12,
+        "title": "Trigun Stampede 12. Bölüm",
+        "videos": [],
+        "skip_times": {
+          "ed": {
+            "start": 1289,
+            "end": 1386
+          }
+        },
+        "added_date": "2026-07-29T18:21:51.314631"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 52093,
@@ -61,264 +275,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 151040,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151040-1auPdaGqDGYd.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151040-9QXRpaprfNmL.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Trigun Stampede 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5077810"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 273.914,
-          "end": 363.914
-        },
-        "ed": {
-          "start": 1338,
-          "end": 1432
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5077836"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 88,
-          "end": 179
-        },
-        "ed": {
-          "start": 1338,
-          "end": 1434
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5077844"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1340,
-          "end": 1430
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5077875"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 49,
-          "end": 135
-        },
-        "ed": {
-          "start": 1343,
-          "end": 1428
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5077902"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 48,
-          "end": 135
-        },
-        "ed": {
-          "start": 1341,
-          "end": 1428
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5077936"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1340,
-          "end": 1428
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5078286"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5078303"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1340,
-          "end": 1430
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 78,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5078314"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1340,
-          "end": 1428
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 10. Bölüm",
-      "episode_number": 10,
-      "videos": [],
-      "skip_times": {
-        "op": {
-          "start": 32,
-          "end": 114
-        },
-        "ed": {
-          "start": 1339,
-          "end": 1432
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 11. Bölüm",
-      "episode_number": 11,
-      "videos": [],
-      "skip_times": {
-        "ed": {
-          "start": 1340,
-          "end": 1430
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Trigun Stampede 12. Bölüm",
-      "episode_number": 12,
-      "videos": [],
-      "skip_times": {
-        "ed": {
-          "start": 1289,
-          "end": 1386
-        }
-      },
-      "added_date": "2026-07-29T18:21:51.314631",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 204266,
     "type": "tv",

@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Tensei Goblin dakedo Shitsumon Aru?",
-    "slug": "tensei-goblin-dakedo-shitsumon-aru"
+    "slug": "tensei-goblin-dakedo-shitsumon-aru",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63712,
@@ -45,6 +46,29 @@
           126524
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "So What's Wrong with Getting Reborn as a Goblin?",
+        "aired": "Oct 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "So What's Wrong with Meeting a Sly Old Fox?",
+        "aired": "Oct 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "So What's Wrong with Negotiating with Humans?",
+        "aired": "Oct 12, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -59,37 +83,5 @@
     "episode_offset": 0,
     "name": "So What's Wrong with Getting Reborn as a Goblin?"
   },
-  "synopsis_tr": "Ofis çalışanı Akira Yagami'nin fedakar doğası genellikle ona işin kısa ucunu verir. Bir çocuğu karşıdan gelen trafikten kurtardıktan sonra öldüğünde...başka bir dünyada bir goblin olarak reenkarne mi oluyor?! Normalde goblinler yalnızca yedi gün yaşar, ancak Akira'nın yeni keşfettiği güçleri, türün normal yaşam süresine meydan okumasına olanak tanıyor... ve şimdiye kadarki en güçlü goblin olma yolunun anahtarıdır!(Kaynak: Yen Press)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "So What's Wrong with Getting Reborn as a Goblin?",
-      "episode_number": 1,
-      "aired": "Oct 5, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:08:26.869733"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "So What's Wrong with Meeting a Sly Old Fox?",
-      "episode_number": 2,
-      "aired": "Oct 5, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-14T08:39:54.598081"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "So What's Wrong with Negotiating with Humans?",
-      "episode_number": 3,
-      "aired": "Oct 12, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-21T08:32:09.973148"
-    }
-  ]
+  "synopsis_tr": "Ofis çalışanı Akira Yagami'nin fedakar doğası genellikle ona işin kısa ucunu verir. Bir çocuğu karşıdan gelen trafikten kurtardıktan sonra öldüğünde...başka bir dünyada bir goblin olarak reenkarne mi oluyor?! Normalde goblinler yalnızca yedi gün yaşar, ancak Akira'nın yeni keşfettiği güçleri, türün normal yaşam süresine meydan okumasına olanak tanıyor... ve şimdiye kadarki en güçlü goblin olma yolunun anahtarıdır!(Kaynak: Yen Press)"
 }

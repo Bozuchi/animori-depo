@@ -4,7 +4,56 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hikayemiz baş karakter olan Takasumi Takane'nin bisiklet alma sevdasıyla başlar. Annesiyle yaptığı bir anlaşma sonucu, sınavın sonuçları açıklandığında ilk yüze girebilirse yeni bir bisiklet alabilecekti. Fakat kendisi yüz on ikinci sıraya yerleşir. Annesine doksan ikinci olduğunu söyler ve sonuç kağıdını yırtar. Okuldan evine dönerken ise kız kardeşine vereceği artık eski olan bisikleti yanlışlıkla kırar. Kız kardeşi Tamaki ile arası bozulur. Bunun üzerine Tamaki evcil köpeklerini yürüyüşe çıkartır. Yürüyüş sırasında köpekleri Chris gördüğü bir tapınağa koşar ve Tamaki iki yıl önce o tapınakta başına gelenlerden ötürü korkarak eve döner. Abisi köpeklerini aramak üzere tapınağa gider fakat başına geleceklerden habersizdir.",
-    "slug": "takane-no-jitensha"
+    "slug": "takane-no-jitensha",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Takane no Jitensha 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 157,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1cEft8KfTIh9RzTW5Ch-1izanGgjBMZiG/preview"
+          },
+          {
+            "fansub_id": 157,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659966"
+          },
+          {
+            "fansub_id": 157,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/bk/spellar/video/embed/_myvideo/7"
+          },
+          {
+            "fansub_id": 157,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4459156"
+          },
+          {
+            "fansub_id": 157,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3609629"
+          },
+          {
+            "fansub_id": 157,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-amst0jl2uae9.html"
+          },
+          {
+            "fansub_id": 157,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gjyb4hzmlykc.html"
+          },
+          {
+            "fansub_id": 157,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/upnlgvmk"
+          }
+        ],
+        "added_date": "2026-07-29T14:53:32.613385"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4685,
@@ -38,66 +87,14 @@
       56
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4685,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4685-MhLgd0O2TNJG.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Takane no Jitensha 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 157,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1cEft8KfTIh9RzTW5Ch-1izanGgjBMZiG/preview"
-        },
-        {
-          "fansub_id": 157,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659966"
-        },
-        {
-          "fansub_id": 157,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/bk/spellar/video/embed/_myvideo/7"
-        },
-        {
-          "fansub_id": 157,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4459156"
-        },
-        {
-          "fansub_id": 157,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3609629"
-        },
-        {
-          "fansub_id": 157,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-amst0jl2uae9.html"
-        },
-        {
-          "fansub_id": 157,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gjyb4hzmlykc.html"
-        },
-        {
-          "fansub_id": 157,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/upnlgvmk"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:53:32.613385",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 378989,
     "type": "movie",

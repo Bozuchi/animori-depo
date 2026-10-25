@@ -4,7 +4,36 @@
     "puan": "0.00",
     "bolum_durumu": "1/39",
     "ozet": "Captain Tsubasa'nın (2018) ikinci sezonudur.",
-    "slug": "captain-tsubasa-season-2-junior-youth-hen"
+    "slug": "captain-tsubasa-season-2-junior-youth-hen",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Captain Tsubasa Season 2: Junior Youth-hen 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7801974450152276151"
+          },
+          {
+            "fansub_id": 100,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/cp3kd247hta5"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 1421.115,
+            "end": 1430
+          },
+          "ed": {
+            "start": 1336.598,
+            "end": 1426.598
+          }
+        },
+        "added_date": "2026-07-23T07:49:49.674280"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 54803,
@@ -59,45 +88,22 @@
         ]
       }
     ],
-    "episodes": 39
+    "episodes": 39,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 163024,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163024-rFtOWsDQy12B.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Captain Tsubasa Season 2: Junior Youth-hen 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 100,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7801974450152276151"
-        },
-        {
-          "fansub_id": 100,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/cp3kd247hta5"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 1421.115,
-          "end": 1430
-        },
-        "ed": {
-          "start": 1336.598,
-          "end": 1426.598
-        }
-      },
-      "added_date": "2026-07-23T07:49:49.674280",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 77240,
     "type": "tv",

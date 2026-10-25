@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Alternatif bir gerçeklikte, Dünya, farklı bir teknolojik gelişim süreci sonucunda temelleri buhar teknolojisine dayalı askeri, jeopolitik ve sosyal yapılanmalara sahne olmuştur. 19. yüzyılın sonlarında Birleşik Krallık'ta yaşamakta olan dahi mucit Ray Steam, dedesi ve babası gibi, buhar gücü ile çalışan mekanik harikalara imza atmaktadır. Ancak, Ray'in dedesi Lloyd ile birlikte sürdürdüğü mütevazi yaşamı eline geçen tuhaf bir metal top ile alt üst olur. Tüm ulusa yetecek derecede yüksek bir enerji kapasitesine sahip bu buhar topu çoktan farklı güç gruplarının ilgisini çekmiştir. Kendisini bir anda buhar topunu elde etmek isteyen farklı çıkar gruplarının ideolojileri ve planlarının arasında bulan Ray bir yandan da ailesindeki iç hesaplaşmalarla yüzleşmek zorunda kalacaktır.\n\nYapımı 26.000.000 Amerikan Doları maliyetle gerçekleştirilen, 180.000 çizim ve 400 bilgisayar animasyon sahnesinden oluşan Steamboy vizyona girdiği tarih itibariyle o güne kadar üretilmiş en pahalı anime yapımı ünvanını elde etmiştir.",
-    "slug": "steamboy"
+    "slug": "steamboy",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 565,
@@ -49,71 +50,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 565,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/565-0fk7u9S1hI4z.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx565-XWjoGw6sOoqo.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Steamboy",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iZ7LvvsyBtfV2Xeje1Dm8VKL3-or6wm-/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1c_XgZhQHbe1T1Qr2w-yIWfxw0ROCs80_/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9173325596158068497"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/633.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852451"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7w9aknxw"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-pkno3z0f5o0z.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wbsivcove2ra.html"
-        },
-        {
-          "fansub_id": 62,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/qwfk6374e2zo"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:02:51.217874",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 8953,
     "type": "movie",

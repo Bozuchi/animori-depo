@@ -4,7 +4,106 @@
     "puan": "0.00",
     "bolum_durumu": "6/6",
     "ozet": "Chisato, Takina ve arkadaşlarının günlük hayatlarını konu alan altı kısa bölüm. Her bölümün farklı bir yönetmeni ve senaryosu olacak.",
-    "slug": "lycoris-recoil-friends-are-thieves-of-time"
+    "slug": "lycoris-recoil-friends-are-thieves-of-time",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Lycoris Recoil: Friends Are Thieves of Time. 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5889368"
+          },
+          {
+            "fansub_id": 69,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/plrm0ecove3e"
+          },
+          {
+            "fansub_id": 69,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tv023k1es5wy.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:00:06.953293"
+      },
+      {
+        "episode_number": 2,
+        "title": "Lycoris Recoil: Friends Are Thieves of Time. 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5899299"
+          }
+        ],
+        "added_date": "2026-07-27T09:00:06.953293"
+      },
+      {
+        "episode_number": 3,
+        "title": "Lycoris Recoil: Friends Are Thieves of Time. 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5899303"
+          }
+        ],
+        "added_date": "2026-07-27T09:00:06.953293"
+      },
+      {
+        "episode_number": 4,
+        "title": "Lycoris Recoil: Friends Are Thieves of Time. 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5922871"
+          },
+          {
+            "fansub_id": 69,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-uv44k2k4cg0y.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:00:06.953293"
+      },
+      {
+        "episode_number": 5,
+        "title": "Lycoris Recoil: Friends Are Thieves of Time. 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5922876"
+          },
+          {
+            "fansub_id": 69,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-dtjltdc28v09.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:00:06.953293"
+      },
+      {
+        "episode_number": 6,
+        "title": "Lycoris Recoil: Friends Are Thieves of Time. 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5922879"
+          },
+          {
+            "fansub_id": 69,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-81082kj8mrqo.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:00:06.953293"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59369,
@@ -49,136 +148,57 @@
         ]
       }
     ],
-    "episodes": 6
+    "episodes": 6,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 179706,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179706-mR1oEVbNT3yQ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179706-NvVrmMxnDatB.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Lycoris Recoil: Friends Are Thieves of Time. 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 69,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5889368"
-        },
-        {
-          "fansub_id": 69,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/plrm0ecove3e"
-        },
-        {
-          "fansub_id": 69,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-tv023k1es5wy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:00:06.953293",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Lycoris Recoil: Friends Are Thieves of Time. 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 69,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5899299"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:00:06.953293",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Lycoris Recoil: Friends Are Thieves of Time. 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 69,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5899303"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:00:06.953293",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Lycoris Recoil: Friends Are Thieves of Time. 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 69,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5922871"
-        },
-        {
-          "fansub_id": 69,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-uv44k2k4cg0y.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:00:06.953293",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Lycoris Recoil: Friends Are Thieves of Time. 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 69,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5922876"
-        },
-        {
-          "fansub_id": 69,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-dtjltdc28v09.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:00:06.953293",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Lycoris Recoil: Friends Are Thieves of Time. 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 69,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5922879"
-        },
-        {
-          "fansub_id": 69,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-81082kj8mrqo.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:00:06.953293",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 154494,
     "type": "tv",

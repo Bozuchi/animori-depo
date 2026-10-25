@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Mike savaşta yaralanıp evine dönen bir askerdir. Ailesinden, arkadaşlarından ve memleketinden ayrılıp yeni bir hayata yol alıyor.",
-    "slug": "penguin-s-memory-shiawase-monogatari"
+    "slug": "penguin-s-memory-shiawase-monogatari",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 16434,
@@ -46,46 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 16434,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16434-FOD5xtw2gn9d.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16434-TB6BGLuXkCnJ.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Penguin's Memory: Shiawase Monogatari",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17YKY7uXfgjgOKyD5B3Z4ClMaQ22LjP5i/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17ZFdThm3mcghLhNqYkf9H8287a-0F_6f/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4517758"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cmjebcvb12n6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:26:19.634098",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 416401,
     "type": "movie",

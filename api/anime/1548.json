@@ -4,7 +4,53 @@
     "puan": "0.00",
     "bolum_durumu": "2/42",
     "ozet": "Yıl 1999. Amamori Hajime, çılgın arkadaşlarıyla ders çalışmaya ve takılmaya çalışan normal bir ilkokul öğrencisidir. Ama bir gün babası üzerinde çalıştığı bir ekipmanı test ederken, bir şey onun patlamasına neden olur ve evi de beraberinde götürür! Şimdi öksüz kalan Hajime, astronom olan amcası tarafından alınır. Orada amcasının gözlemevinde, daha önce gördüğü ve biraz aşık olduğu bir kızla tanışır. Adının Yukino Yayoi olduğunu ve ailesinin kasabada bir ramen dükkanı işlettiğini öğrenir. Ama bundan daha da iyisi, amcasının asistanı! Ne şans!rnrnAncak Yayoi tam olarak göründüğü gibi değil. Gözlemevinde Amamori-san'a yardım etmesinin bir nedeni var. O, Dünya'ya gitmek ve gezegenin olası imhasına hazırlanmaya yardımcı olmak için ana gezegeni LaMetal tarafından özel olarak seçilen Y Kuşağı Kraliçesidir (Sen-Nen Joou). Bu felakete ne sebep olacak? LaMetal, her 1000 yılda bir Dünya'nın çok çok yakınına gönderen son derece eliptik bir yörüngeye sahiptir. Yeterince yaklaştığında, dünya tepki verir ve her türlü doğal afete neden olur. Akılda LaMetal'i koruma fikri ile seçilmiş olmasına rağmen, kişisel planı, olabildiğince çok insanı LaMetal'e tahliye etmektir, böylece gezegeni yok edilirse hayatta kalacaktır.",
-    "slug": "shin-taketori-monogatari-1000-nen-joou"
+    "slug": "shin-taketori-monogatari-1000-nen-joou",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Shin Taketori Monogatari: 1000-nen Joou 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1vncVeczj-EMBQ5KzOc-PyeUkJx_YftpL/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hVIFmcRPQjMYb_s2Wl0SldDjKNyxj7FX/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4282225"
+          }
+        ],
+        "added_date": "2026-07-29T09:09:27.018589"
+      },
+      {
+        "episode_number": 2,
+        "title": "Shin Taketori Monogatari: 1000-nen Joou 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xQ2akpY7862sqkcffShw18w1NQoTcrEZ/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MbpXQGiPYgKtitPWsevuqN9h29mHpgf9/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4285115"
+          }
+        ],
+        "added_date": "2026-07-29T09:09:27.018589"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1548,
@@ -57,67 +103,29 @@
         ]
       }
     ],
-    "episodes": 42
+    "episodes": 42,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1548,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1548-lgNWG433PyKs.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shin Taketori Monogatari: 1000-nen Joou 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 113,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vncVeczj-EMBQ5KzOc-PyeUkJx_YftpL/preview"
-        },
-        {
-          "fansub_id": 113,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hVIFmcRPQjMYb_s2Wl0SldDjKNyxj7FX/preview"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4282225"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T09:09:27.018589",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Shin Taketori Monogatari: 1000-nen Joou 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 113,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xQ2akpY7862sqkcffShw18w1NQoTcrEZ/preview"
-        },
-        {
-          "fansub_id": 113,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MbpXQGiPYgKtitPWsevuqN9h29mHpgf9/preview"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4285115"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T09:09:27.018589",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 34839,
     "type": "tv",

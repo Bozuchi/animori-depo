@@ -4,7 +4,8 @@
     "puan": "8.82",
     "bolum_durumu": "1/1",
     "ozet": "Overlord serisine ait OVA bölümüdür.",
-    "slug": "overlord-ple-ple-pleiades-nazarick-saidai-no-kiki"
+    "slug": "overlord-ple-ple-pleiades-nazarick-saidai-no-kiki",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 33372,
@@ -53,71 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 87489,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87489-rizr4yabatdV.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Overlord: Ple Ple Pleiades OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 108,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ZdXhTHUZ_s3BAnOHFg_W4JP2BExa1f1n/preview"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271187900"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed//mail/torukojin_a/_myvideo/1058.html"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4499501"
-        },
-        {
-          "fansub_id": 108,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pekcnjilrlxp.html"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/tvi4hano"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/elfm2rfb"
-        },
-        {
-          "fansub_id": 108,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/2evoqmrn"
-        },
-        {
-          "fansub_id": 108,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fred9ecxps2r.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:01:13.234621",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 64196,
     "type": "tv",

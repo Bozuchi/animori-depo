@@ -4,7 +4,8 @@
     "puan": "9.01",
     "bolum_durumu": "1/1",
     "ozet": "Kuroshitsuji animesinin ara arc'ıdır. Ciel Phantomhive'ın kulağına ölülerin diriltildiğine dair söylentiler gelir. Bunu araştırmak için lüks bir yolcu gemisinde yer ayırtan Ciel ve kahyası Sebastian kendilerini Aurora Topluluğu'nun içerisinde bulurlar. Gizemli insanlar, 'Anka Kuşu' sloganı altında birleşirken, Ciel ve Sebastian gerçeğe bir adım daha yaklaşırlar. Ama bu soruşturma ile kaderleri kolayca batmakta olan bir tabuta mı mühürlenmiştir?",
-    "slug": "kuroshitsuji-movie-book-of-the-atlantic"
+    "slug": "kuroshitsuji-movie-book-of-the-atlantic",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31812,
@@ -62,91 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21425,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21425-Ra8S7DlQHiXb.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21425-HHZEaefKU8Jt.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kuroshitsuji Movie: Book of the Atlantic",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 49,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MvBqm8ZxpjHdgGHNw4DIK3tMz886YST4/preview"
-        },
-        {
-          "fansub_id": 49,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1HAFtcDNnSMBLL54gXUSER9g3Zg5l-WZ8/preview"
-        },
-        {
-          "fansub_id": 49,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661259"
-        },
-        {
-          "fansub_id": 49,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/6412852675095824243"
-        },
-        {
-          "fansub_id": 49,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5727601449156739528"
-        },
-        {
-          "fansub_id": 49,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/x5ueuif92yix"
-        },
-        {
-          "fansub_id": 49,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hfl8afngsg9v.html"
-        },
-        {
-          "fansub_id": 49,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-fnkk2yc2uzx9.html"
-        },
-        {
-          "fansub_id": 49,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-f25cu74bcmjo.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5041"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/omerburakturk/video/embed/_myvideo/13"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4886147"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6elc96huj5ay.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T07:05:55.266140",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 50712,
     "type": "tv",

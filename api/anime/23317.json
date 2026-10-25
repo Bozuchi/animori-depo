@@ -4,7 +4,73 @@
     "puan": "9.15",
     "bolum_durumu": "2/2",
     "ozet": "Kuroshitsuji: Book of Circus tan sonraki Ova serisidir.",
-    "slug": "kuroshitsuji-book-of-murder"
+    "slug": "kuroshitsuji-book-of-murder",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Kuroshitsuji: Book of Murder 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XdpetHCfYUYMsYHtHiQrGkvrh5PfxzPS/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911073"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1822932"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-t2yt8kh2akh1.html"
+          }
+        ],
+        "added_date": "2026-07-27T07:06:40.985726"
+      },
+      {
+        "episode_number": 2,
+        "title": "Kuroshitsuji: Book of Murder 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1N-l3egviwTTQhT_bWcVf8vX1BvwfNwh8/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847084"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4073699"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1832989"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2tyv2nhn"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-o4d6lc2uv3yc.html"
+          }
+        ],
+        "added_date": "2026-07-27T07:06:40.985726"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 23317,
@@ -62,87 +128,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 20670,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20670-65RnHI2EgP5P.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20670-3B1bxzAp0AUr.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kuroshitsuji: Book of Murder 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 62,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XdpetHCfYUYMsYHtHiQrGkvrh5PfxzPS/preview"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911073"
-        },
-        {
-          "fansub_id": 62,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1822932"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-t2yt8kh2akh1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T07:06:40.985726",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kuroshitsuji: Book of Murder 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 62,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1N-l3egviwTTQhT_bWcVf8vX1BvwfNwh8/preview"
-        },
-        {
-          "fansub_id": 62,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847084"
-        },
-        {
-          "fansub_id": 62,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4073699"
-        },
-        {
-          "fansub_id": 62,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1832989"
-        },
-        {
-          "fansub_id": 62,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/2tyv2nhn"
-        },
-        {
-          "fansub_id": 62,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-o4d6lc2uv3yc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T07:06:40.985726",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 50712,
     "type": "tv",

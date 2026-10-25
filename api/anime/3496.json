@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "MS 2403 yılında Satoru adında genç bir öğrenci, gelecekten gelen bir zaman yolcusu, Alisa adında sevimli bir kız tarafından ziyaret edilir. Yaşanan bir arıza tarafından rastgele dini ve belki de tarihi açıdan önemli olaylara gönderilen bu ikili 21. yüzyılı keşfetmek için birlikte zamanda geriye giderler.",
-    "slug": "ougon-no-hou-el-cantare-no-rekishikan"
+    "slug": "ougon-no-hou-el-cantare-no-rekishikan",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3496,
@@ -53,46 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3496,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3496.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ougon no Hou: El Cantare no Rekishikan Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15P335rc5FLgxWWfHvPNWtvCNS1I_QLO6/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wuzZFDx64_s2Kvn_8jy1s_vEoZzuYfYi/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/6412852675095824635"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-39ivsdwhtut6.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:42:25.224927",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 439096,
     "type": "movie",

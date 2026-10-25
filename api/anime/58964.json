@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "2018 yapımı Batman Ninja’nın devamı niteliğindeki bu hikâyede, Batman ve sadık müttefikleri, Gotham City’yi yakuza tarzı acımasız suç örgütlerinin istilasından kurtarmak için kader belirleyici bir savaşa atılır. Şehrin geleceği pamuk ipliğine bağlıyken, Kara Şövalye hem düşmanlarıyla hem de kaosun kendisiyle yüzleşmek zorunda kalır.",
-    "slug": "ninja-batman-tai-yakuza-league"
+    "slug": "ninja-batman-tai-yakuza-league",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 58964,
@@ -46,36 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 177778,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177778-R1k0WEVjyeoz.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177778-LF9pwTXJRY0R.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ninja Batman tai Yakuza League Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 148,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/7vlggwhhda8f"
-        },
-        {
-          "fansub_id": 323,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/c0a52uvp70gs"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:15:53.361697",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1297763,
     "type": "movie",

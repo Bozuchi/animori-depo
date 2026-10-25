@@ -4,7 +4,304 @@
     "puan": "0.00",
     "bolum_durumu": "10/10",
     "ozet": "Erkek nüfusun çok azaldığı alternatif bir geçmişte, özel olarak seçilen erkek cariyeler Ooku'daki kadın şogunun hizmetine verilir.",
-    "slug": "oooku"
+    "slug": "oooku",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Oooku 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370877"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5387464"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wrsxek8pkywo.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:51:00.262980"
+      },
+      {
+        "episode_number": 2,
+        "title": "Oooku 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370876"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5387450"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-t5m45jqyf5vl.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cpcin5ke9qkn.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1585,
+            "end": 1755
+          }
+        },
+        "added_date": "2026-07-28T23:51:00.262980"
+      },
+      {
+        "episode_number": 3,
+        "title": "Oooku 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370878"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5387469"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-r7fe8l3njweu.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-jjv85msedw1j.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1495,
+            "end": 1670
+          }
+        },
+        "added_date": "2026-07-28T23:51:00.262980"
+      },
+      {
+        "episode_number": 4,
+        "title": "Oooku 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370879"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5387474"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mibe6ffba1mp.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qg3no809a90o.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1589,
+            "end": 1765
+          }
+        },
+        "added_date": "2026-07-28T23:51:00.262980"
+      },
+      {
+        "episode_number": 5,
+        "title": "Oooku 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370880"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5387478"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kgwk8gdbbnxh.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0vxvsa3g3vsw.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0,
+            "end": 11
+          }
+        },
+        "added_date": "2026-07-28T23:51:00.262980"
+      },
+      {
+        "episode_number": 6,
+        "title": "Oooku 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370881"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5387479"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gm3d2onjc212.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xtwt5dy6n41x.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:51:00.262980"
+      },
+      {
+        "episode_number": 7,
+        "title": "Oooku 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370882"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5387482"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-g1uaq23vit9b.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-l1lnqnc4hkwv.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:51:00.262980"
+      },
+      {
+        "episode_number": 8,
+        "title": "Oooku 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370883"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5387484"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gchc7n39t937.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lbptq1shdv8w.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:51:00.262980"
+      },
+      {
+        "episode_number": 9,
+        "title": "Oooku 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370884"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5387489"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zhv6fqp8qtly.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ohbwvwa54mbe.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1361,
+            "end": 1539
+          }
+        },
+        "added_date": "2026-07-28T23:51:00.262980"
+      },
+      {
+        "episode_number": 10,
+        "title": "Oooku 10. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370885"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5387493"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-79q4m269w07p.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9de4l8q3hqkq.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:51:00.262980"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 54850,
@@ -48,343 +345,12 @@
         ]
       }
     ],
-    "episodes": 10
+    "episodes": 10,
+    "episode_list": []
   },
   "anilist": {
     "id": 163137,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163137-kFxfz6SNa9tA.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b163137-KBXHcaCBf1ZF.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Oooku 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370877"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5387464"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wrsxek8pkywo.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-28T23:51:00.262980",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Oooku 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370876"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5387450"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-t5m45jqyf5vl.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cpcin5ke9qkn.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1585,
-          "end": 1755
-        }
-      },
-      "added_date": "2026-07-28T23:51:00.262980",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Oooku 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370878"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5387469"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-r7fe8l3njweu.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-jjv85msedw1j.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1495,
-          "end": 1670
-        }
-      },
-      "added_date": "2026-07-28T23:51:00.262980",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Oooku 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370879"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5387474"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mibe6ffba1mp.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qg3no809a90o.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1589,
-          "end": 1765
-        }
-      },
-      "added_date": "2026-07-28T23:51:00.262980",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Oooku 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370880"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5387478"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kgwk8gdbbnxh.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0vxvsa3g3vsw.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0,
-          "end": 11
-        }
-      },
-      "added_date": "2026-07-28T23:51:00.262980",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Oooku 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370881"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5387479"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gm3d2onjc212.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xtwt5dy6n41x.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-28T23:51:00.262980",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Oooku 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370882"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5387482"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-g1uaq23vit9b.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-l1lnqnc4hkwv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-28T23:51:00.262980",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Oooku 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370883"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5387484"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gchc7n39t937.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lbptq1shdv8w.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-28T23:51:00.262980",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Oooku 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370884"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5387489"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zhv6fqp8qtly.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ohbwvwa54mbe.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1361,
-          "end": 1539
-        }
-      },
-      "added_date": "2026-07-28T23:51:00.262980",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Oooku 10. Bölüm Final",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370885"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5387493"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-79q4m269w07p.html"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9de4l8q3hqkq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-28T23:51:00.262980",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

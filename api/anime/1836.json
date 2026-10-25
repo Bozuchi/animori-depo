@@ -4,7 +4,88 @@
     "puan": "0.00",
     "bolum_durumu": "2/12",
     "ozet": "Shuffle! serisinin 2. sezonudur...",
-    "slug": "shuffle-memories"
+    "slug": "shuffle-memories",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Shuffle! Memories 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 348,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DfXmEPZZXQA87mrC-ozne3yGdDSvOQeo/preview"
+          },
+          {
+            "fansub_id": 348,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366641"
+          },
+          {
+            "fansub_id": 348,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4623186"
+          },
+          {
+            "fansub_id": 348,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kvtxfgky9evu.html"
+          },
+          {
+            "fansub_id": 348,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-novxvflmajfi.html"
+          },
+          {
+            "fansub_id": 348,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/66fnklkf"
+          },
+          {
+            "fansub_id": 348,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-r9r27sxviyo3.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:00:05.189638"
+      },
+      {
+        "episode_number": 2,
+        "title": "Shuffle! Memories 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 348,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hOR912i1ty1sLWhulymnrgnS8v3fqgB7/preview"
+          },
+          {
+            "fansub_id": 348,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366640"
+          },
+          {
+            "fansub_id": 348,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4623188"
+          },
+          {
+            "fansub_id": 348,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-thbjyc7q5al2.html"
+          },
+          {
+            "fansub_id": 348,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7u68nute"
+          },
+          {
+            "fansub_id": 348,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-zy48fjryiqew.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:00:05.189638"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1836,
@@ -50,102 +131,29 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1836,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1836.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shuffle! Memories 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 348,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DfXmEPZZXQA87mrC-ozne3yGdDSvOQeo/preview"
-        },
-        {
-          "fansub_id": 348,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366641"
-        },
-        {
-          "fansub_id": 348,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4623186"
-        },
-        {
-          "fansub_id": 348,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kvtxfgky9evu.html"
-        },
-        {
-          "fansub_id": 348,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-novxvflmajfi.html"
-        },
-        {
-          "fansub_id": 348,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/66fnklkf"
-        },
-        {
-          "fansub_id": 348,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-r9r27sxviyo3.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:00:05.189638",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Shuffle! Memories 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 348,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hOR912i1ty1sLWhulymnrgnS8v3fqgB7/preview"
-        },
-        {
-          "fansub_id": 348,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366640"
-        },
-        {
-          "fansub_id": 348,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4623188"
-        },
-        {
-          "fansub_id": 348,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-thbjyc7q5al2.html"
-        },
-        {
-          "fansub_id": 348,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7u68nute"
-        },
-        {
-          "fansub_id": 348,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zy48fjryiqew.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:00:05.189638",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 93872,
     "type": "tv",

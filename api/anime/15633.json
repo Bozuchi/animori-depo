@@ -4,7 +4,90 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Derslerinde başarılı, çok iyi Aikido yapan, aynı zamanda güzel bir kız olan lise öğrencisi Sakura Sakurakouji, bir gün otobüsle evine dönerken pencereden birinin insanları mavi bir ateşle diri diri yaktığını görür. Telaşla olay yerine gittiği zaman ise çevrede bu olayla ilgili hiçbir ize rastlayamaz.rnrnErtesi gün okula giden Sakura, sınıflarına yeni gelen transfer öğrenci Rei Ogami'nin, bir gün önce insanları yakan kişi olduğunu fark eder.rnrnBaşlangıçta bu olaylarla ilgisi olmayan, son derece masum biri gibi gözüken Rei'nin kısa zamanda devlet için çalışan, özel güçlere sahip, \"Code Breaker\" olarak bilinen bir suikastçı olduğu ortaya çıkacaktır.",
-    "slug": "code-breaker-ova"
+    "slug": "code-breaker-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Code:Breaker OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1iJxNRdDlLzNWrvBNHKYwJ9SfDCphc-Pg/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/sweetparade/_myvideo/935.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2797619"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wz5616xz8yf6.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-y72yvckskos1.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_51sPicTqVnwgrNtJLtgwGFXwVLIAU_C/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5057692"
+          }
+        ],
+        "added_date": "2026-07-23T16:22:39.722994"
+      },
+      {
+        "episode_number": 2,
+        "title": "Code:Breaker OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12J5sW-ey8JeM5sMf0co69Ww_b8tIxYb3/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5094154"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/xqpuvrfdgrx7"
+          }
+        ],
+        "added_date": "2026-07-23T16:22:39.722994"
+      },
+      {
+        "episode_number": 3,
+        "title": "Code:Breaker OVA 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5143606"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/d4f7234tt8yw"
+          }
+        ],
+        "added_date": "2026-07-23T16:22:39.722994"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 15633,
@@ -56,108 +139,36 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 15633,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15633-ZT8n86wB8uQD.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Code:Breaker OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 4,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iJxNRdDlLzNWrvBNHKYwJ9SfDCphc-Pg/preview"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/sweetparade/_myvideo/935.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2797619"
-        },
-        {
-          "fansub_id": 4,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wz5616xz8yf6.html"
-        },
-        {
-          "fansub_id": 4,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-y72yvckskos1.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_51sPicTqVnwgrNtJLtgwGFXwVLIAU_C/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5057692"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:22:39.722994",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Code:Breaker OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12J5sW-ey8JeM5sMf0co69Ww_b8tIxYb3/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5094154"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/xqpuvrfdgrx7"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:22:39.722994",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Code:Breaker OVA 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5143606"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/d4f7234tt8yw"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:22:39.722994",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 57287,
     "type": "tv",

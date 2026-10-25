@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Kyoufu Collector",
-    "slug": "kyoufu-collector"
+    "slug": "kyoufu-collector",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63053,
@@ -45,7 +46,8 @@
           159624
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 203473,
@@ -59,6 +61,5 @@
     "episode_offset": 0,
     "name": "Horror Collector"
   },
-  "synopsis_tr": "İnternet sürüngenler, esrarengiz görüntüler, paranormal olaylar ve çözülmemiş kayıplarla dolu. Bunlar çoğunlukla troller tarafından körüklenen eğlence amaçlı söylentiler ve şakalardır. Ancak şanssız birkaç kişi bazı efsanelerin doğru olduğunu zor yoldan öğreniyor. Bu talihsiz ruhların çoğu ölüme mahkumdur ancak kırmızı başlıklı çocukla yolları kesişirse şansları değişebilir. Kasabadan kasabaya dolaşıyor ve tuhaf olayların olduğu her yerde ortaya çıkıyor. O karanlıkta bir ışık mı? Veya canavarların fazlasıyla gerçek olduğunun canlı kanıtı...?(Kaynak: Yen Press)",
-  "episodes": []
+  "synopsis_tr": "İnternet sürüngenler, esrarengiz görüntüler, paranormal olaylar ve çözülmemiş kayıplarla dolu. Bunlar çoğunlukla troller tarafından körüklenen eğlence amaçlı söylentiler ve şakalardır. Ancak şanssız birkaç kişi bazı efsanelerin doğru olduğunu zor yoldan öğreniyor. Bu talihsiz ruhların çoğu ölüme mahkumdur ancak kırmızı başlıklı çocukla yolları kesişirse şansları değişebilir. Kasabadan kasabaya dolaşıyor ve tuhaf olayların olduğu her yerde ortaya çıkıyor. O karanlıkta bir ışık mı? Veya canavarların fazlasıyla gerçek olduğunun canlı kanıtı...?(Kaynak: Yen Press)"
 }

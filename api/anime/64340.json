@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Tempal: Item no Chikara",
-    "slug": "tempal-item-no-chikara"
+    "slug": "tempal-item-no-chikara",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 64340,
@@ -43,6 +44,36 @@
           147727
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Legendary Class",
+        "aired": "Oct 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "First Step Towards Being a Blacksmith",
+        "aired": "Oct 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Second Class",
+        "aired": "Oct 16, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "Item Crafting Face-Off",
+        "aired": "Oct 18, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -57,47 +88,5 @@
     "episode_offset": 0,
     "name": "Overgeared"
   },
-  "synopsis_tr": "Hayatta şanssız bir adam olan ve popüler VR oyunu \"Satisfy\"de düşük seviyeli bir oyuncu olan Shin Youngwoo (namı diğer Grid), kendisine ender efsanevi bir sınıf unvanı kazandıran güçlü bir eşya bulur: \"Pagma'nın Halefi.\" Artık benzersiz silahlar üretebilen ve oyunun en güçlü teçhizatını donatabilen yetenekli bir demirci. Grid, şöhret ve servete ulaşmak için yeni yeteneklerini kullanmaya karar verir, ancak varlığı Satisfy'de sorun yaratmaya başladıkça, bir efsane olarak yaşamın umduğundan daha fazlası olabileceğini fark eder...(Kaynak: Tapas Media)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Legendary Class",
-      "episode_number": 1,
-      "aired": "Oct 2, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:42.635338"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "First Step Towards Being a Blacksmith",
-      "episode_number": 2,
-      "aired": "Oct 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:40:43.146956"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Second Class",
-      "episode_number": 3,
-      "aired": "Oct 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:40:43.146956"
-    },
-    {
-      "turkanime_title": "4. Bölüm",
-      "title": "Item Crafting Face-Off",
-      "episode_number": 4,
-      "aired": "Oct 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-21T08:32:48.414585"
-    }
-  ]
+  "synopsis_tr": "Hayatta şanssız bir adam olan ve popüler VR oyunu \"Satisfy\"de düşük seviyeli bir oyuncu olan Shin Youngwoo (namı diğer Grid), kendisine ender efsanevi bir sınıf unvanı kazandıran güçlü bir eşya bulur: \"Pagma'nın Halefi.\" Artık benzersiz silahlar üretebilen ve oyunun en güçlü teçhizatını donatabilen yetenekli bir demirci. Grid, şöhret ve servete ulaşmak için yeni yeteneklerini kullanmaya karar verir, ancak varlığı Satisfy'de sorun yaratmaya başladıkça, bir efsane olarak yaşamın umduğundan daha fazlası olabileceğini fark eder...(Kaynak: Tapas Media)"
 }

@@ -4,7 +4,8 @@
     "puan": "6.51",
     "bolum_durumu": "1/1",
     "ozet": "15 yaşındaki fahişe Rune Balot bu rezil yaşamdan kurtulmak için yanındaki adamdan (Shell) medet ummaktadır. Karşılığında yalnızca sevgi isteyen Balot, Shell'in cinsel isteklerine karşı koymaz ancak adamın tatmin edilemez egosu Balot'un sonunu getirir. Kilitlendiği araba patladığında Doktor Easter ve ufak bir fare olan sadık yardımcısı Oeufcoque Penteano kendisine yardım elini uzatır. Balot'un bir seçim yapması gerekir: Ya Doktor'un vereceği inanılmaz gücü kabul edecek ya da ölmeyi tercih edecektir. Ordunun araştırma-geliştirme departmanının eski bir mensubu olan Easter ve onun icatlarından biri olan Oeufcoque sayesinde Balot'un intikam/sevilme macerası başlar.",
-    "slug": "mardock-scramble-the-first-compression"
+    "slug": "mardock-scramble-the-first-compression",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8100,
@@ -53,54 +54,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 8100,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8100-k30eBRdI1JoN.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8100-ta0O3nZxySqe.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Mardock Scramble: The First Compression",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/19bZ-9QLKr91I214Ilh0QB3zS5DymI1Lf/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1uAbVz1OdESSrnNCFYMwZ6Mp2d2Qh729G/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271195485"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852272"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0l5dooh76sn7.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hl7qfuhqhsut.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T10:58:12.850309",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

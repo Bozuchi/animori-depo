@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Sweet and Hot",
-    "slug": "sweet-and-hot"
+    "slug": "sweet-and-hot",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 56654,
@@ -40,13 +41,13 @@
           157724
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 168946,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168946-ueSFYB6Ym1FC.png"
   },
-  "synopsis_tr": "Bu başlığa özet bilgisi eklenmemiştir. Buraya bir özet ekleyerek veritabanımızın geliştirilmesine yardımcı olun.",
-  "episodes": []
+  "synopsis_tr": "Bu başlığa özet bilgisi eklenmemiştir. Buraya bir özet ekleyerek veritabanımızın geliştirilmesine yardımcı olun."
 }

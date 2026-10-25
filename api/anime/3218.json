@@ -4,7 +4,73 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Hikaye; Sanzo ve üç yandaşının batıya doğru Gyuumaoh'u uyandırma çabalarını durdurmak için çıktıkları yolculuğu anlatıyor. Yol boyunca yokai'lerle olan savaşları ve şehir sakinlerine yaptıkları yardımlar işleniyor.",
-    "slug": "gensoumaden-saiyuuki-ova"
+    "slug": "gensoumaden-saiyuuki-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Gensoumaden Saiyuuki OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4088533"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4534088"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3266251"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-e59p4qob5ztm.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bj03hid2cll4.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:00:43.518190"
+      },
+      {
+        "episode_number": 2,
+        "title": "Gensoumaden Saiyuuki OVA 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4088535"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4534091"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3266280"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-iufpje9249vx.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-c14z1iywez4c.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:00:43.518190"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3218,
@@ -48,85 +114,12 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": []
   },
   "anilist": {
     "id": 3218,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3218-FeIrtQPWsLGB.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3218-82ijt3hInS3c.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Gensoumaden Saiyuuki OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4088533"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4534088"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3266251"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-e59p4qob5ztm.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bj03hid2cll4.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:00:43.518190",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Gensoumaden Saiyuuki OVA 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4088535"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4534091"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3266280"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-iufpje9249vx.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-c14z1iywez4c.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:00:43.518190",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

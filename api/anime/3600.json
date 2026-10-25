@@ -4,7 +4,85 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "1580 yılında, Lord Nobunaga Oda adında bir adam, Japonya'nın dört bir yanına kutsal olmayan ordular gönderir ve önlerine çıkan herkesi katleder. Genç bir ninja, Oda'nın yönetimine son verebilecek üç mistik silahtan biri olan kısa bir kılıçla köyünün tahribatından kaçar. Görevi sırasında efsanenin diğer iki silahını, kutsal kılıç ve mızrağı kullanan diğer iki ninja ona katılır.",
-    "slug": "sengoku-kitan-youtouden"
+    "slug": "sengoku-kitan-youtouden",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Sengoku Kitan Youtouden 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1NU_VOfEdG5B4ClHfXtJ_QqXKw-sd_g4l/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CauZZ6J5NSaXFGCfhtfOPuZ-bX_BGrV-/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667524"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7h26yqavhxnv.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:44:38.543773"
+      },
+      {
+        "episode_number": 2,
+        "title": "Sengoku Kitan Youtouden 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1UrYIPKDB7xgENhF7oImm5gbGEtTdT0j9/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667590"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-49sm81hnckul.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:44:38.543773"
+      },
+      {
+        "episode_number": 3,
+        "title": "Sengoku Kitan Youtouden 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KxsriauqGEcRnEZdyBruoJ8q_iUAXW4S/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Q-TFvLdl3lRkBqbvfhp2-pMP7Lx6CVcH/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368675"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rdq9ictw3mml.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:44:38.543773"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3600,
@@ -47,103 +125,14 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 3600,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3600-ywIjIotacxgD.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Sengoku Kitan Youtouden 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NU_VOfEdG5B4ClHfXtJ_QqXKw-sd_g4l/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CauZZ6J5NSaXFGCfhtfOPuZ-bX_BGrV-/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667524"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7h26yqavhxnv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:44:38.543773",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Sengoku Kitan Youtouden 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1UrYIPKDB7xgENhF7oImm5gbGEtTdT0j9/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667590"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-49sm81hnckul.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:44:38.543773",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Sengoku Kitan Youtouden 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KxsriauqGEcRnEZdyBruoJ8q_iUAXW4S/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Q-TFvLdl3lRkBqbvfhp2-pMP7Lx6CVcH/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368675"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rdq9ictw3mml.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:44:38.543773",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 136039,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Shin çocukken annesi öldüğünden beri kalbini başkalarına kapattı. O olaydan sonra çocukluk arkadaşı Kotori hep onun yanında oldu. Lise 3. sınıfa geçince birlikte bazı şeyleri atlatabileceklerini düşünüyorlardı, ta ki başka bir Japonya'daki Shin karşılarına çıkıncaya dek.",
-    "slug": "ashita-sekai-ga-owaru-toshitemo"
+    "slug": "ashita-sekai-ga-owaru-toshitemo",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 38464,
@@ -46,46 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 104562,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104562-7qQr6Zcg6dhY.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ashita Sekai ga Owaru toshitemo",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 77,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Cj_pXXh6OF6OeYIcJqYV-UKlF8Gk5VOL/preview"
-        },
-        {
-          "fansub_id": 77,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Yu5fUIdg0Nak6Zn5dHU0a0GPdhxlZnIJ/preview"
-        },
-        {
-          "fansub_id": 77,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359651971"
-        },
-        {
-          "fansub_id": 77,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hpbikicspff0.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T03:04:03.741602",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 553833,
     "type": "movie",

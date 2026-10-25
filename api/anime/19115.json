@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "15 Ağustos'ta savaşı kaybettiğimizi söylediler. O an olanları tam idrak etmemiştik. Sonra bir gün her şey değişti. Daha önce hiç görmediğimiz üniformalar içindeki çok fazla asker adaya geldi. Tanya'yla da o gün tanıştım.",
-    "slug": "giovanni-no-shima"
+    "slug": "giovanni-no-shima",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 19115,
@@ -39,51 +40,14 @@
       10
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 19115,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19115-38y480nednRN.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19115-swLhro8RVAvz.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Giovanni no Shima",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CTuG8onPcePMs8VVdKoEeMJl7jUi86VN/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017816"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2128"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/akdpy19u"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-e9arneyzz5oy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:53:04.556136",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 239367,
     "type": "movie",

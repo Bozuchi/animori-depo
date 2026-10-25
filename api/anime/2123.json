@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "",
-    "slug": "digimon-x-evolution"
+    "slug": "digimon-x-evolution",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2123,
@@ -46,56 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2123,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2123-SYK0MA0T7Huy.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Digimon Movie: X - Evolution",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16KPEEyF0FDEYn73ZxRp37m56o-PSls8L/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Wq8qXTbd-YHghxjaFYtdSV9ynVtjF_w4/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931910155"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931910154"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-pbux3h7p5l6x.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xvfulo8uhjpu.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T21:37:56.611428",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 31654,
     "type": "tv",

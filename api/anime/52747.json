@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "2113 yılında Dışişleri Bakanlığı (MFA), Barış Kırıcılar olarak bilinen gizli paramiliter birimini lağvetti. Ancak ekip ortadan kayboldu ve faaliyetleri bir sır olarak kaldı. Beş yıl sonra, Barış Kırıcılar, Sybil Sistemi'nin (Japonya'nın toplumdaki potansiyel suçluları tespit eden gözetim yapısı) geleceği için gerekli olan son derece gizli belgelere sahip bir bilim insanı olan Milcia Stronskaya'yı öldürdüklerinde yeniden ortaya çıkarlar.\n\nKamu Güvenliği Bürosu şefi, olayı araştırmak ve MFA ile koordineli olarak Barış Kırıcılara karşı bir çatışmaya hazırlanmak için eski İnfazcı Shinya Kougami'yi tekrar teşkilata almaya karar verir. Yıllar önce iltica etmiş olan Kougami şu anda Frederica Hanashiro'nun komutası altında MFA için çalışmaktadır. Kougami'nin dönüşü, eski meslektaşları Akane Tsunemori ve Nobuchika Ginoza ile arasında gerginlik yaratır, ancak Sybil Sisteminin güvenliğini sağlamaya odaklanmak için geçmiş kinlerini bir kenara bırakmaları gerekir.",
-    "slug": "psycho-pass-movie-providence"
+    "slug": "psycho-pass-movie-providence",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 52747,
@@ -62,31 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 153687,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153687-zzGUxK9faG7O.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153687-xB2x4toOz5MB.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Psycho-Pass Movie: Providence Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/pjx5px46rblu"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:09:40.766509",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1012652,
     "type": "movie",

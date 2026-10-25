@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bayan Kobayashi, Tohru, Kanna ve Iruru'nun huzurlu hayatları, Kanna'nın babası, Kaos Güçleri lideri Kamun Kamui'nin gelmesi ve onu geçmişteki bir hatayı düzeltmek için Ejderha Dünyası'na dönmeye zorlamasıyla altüst olur. Kaos ve Uyum arasında bir savaş patlak verirken, Kanna iki dünyayı birleştirmenin bir yolunu bulmalıdır, ancak arkadaşlarına olan sadakati ve babasının talepleri arasında kalır. Bayan Kobayashi ise onu bırakmayı reddeder ve Kanna ile Kamui arasındaki kopuk bağı onarmaya çalışır. Ejderhalar çarpışırken, Iruru savaşı manipüle eden gizli bir gücü ortaya çıkarır. Savaş her iki dünyayı da tüketmeden önce onu durdurabilecekler mi?",
-    "slug": "kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu"
+    "slug": "kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 59897,
@@ -50,31 +51,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 181839,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181839-tDghyRmyK2KH.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181839-pgM02tCNM2ae.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu Film",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 214,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/187RV_bDKJ6N5Wp8wiVXTKhWiTfd5xIjs/preview"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:17:59.509347",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1359607,
     "type": "movie",

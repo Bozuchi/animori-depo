@@ -4,7 +4,8 @@
     "puan": "7.89",
     "bolum_durumu": "1/1",
     "ozet": "90 yaşında bir ninenin emriyle, yaz ortasında kendilerini beklemedikleri\n bir maceranın ortasında bulan modern bir ailenin başından geçenlerin \nanlatılacağı bir filmdir.",
-    "slug": "summer-wars"
+    "slug": "summer-wars",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 5681,
@@ -45,25 +46,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 5681,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5681-M15hrscD9QHN.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5681-3DmxUVn3grD0.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Summer Wars",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T13:29:39.669434",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 28874,
     "type": "movie",

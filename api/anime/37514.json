@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Made in Abyss animesinin 1-8 Bölümü içeren kısımdır.",
-    "slug": "made-in-abyss-movie-1-tabidachi-no-yoake"
+    "slug": "made-in-abyss-movie-1-tabidachi-no-yoake",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37514,
@@ -55,49 +56,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101343,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101343-E9fMMi4b8fsL.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Made in Abyss Movie 1: Tabidachi no Yoake",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 39,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vjbvB3iLC4WDTGZtmOvD1D6gMxGdzNy8/preview"
-        },
-        {
-          "fansub_id": 39,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yP4Ch9VXvy8KLu4UvZHFgWCkyBpmSu-p/preview"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1851"
-        },
-        {
-          "fansub_id": 39,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140716707"
-        },
-        {
-          "fansub_id": 39,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-1babst9ix9w8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T09:17:24.040265",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,26 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ginga Tokkyuu Milky☆Subway (Galactic Express Milky☆Subway) serisinin bu sinematik derleme filmi, televizyon serisinin en can alıcı noktalarını bir araya getirirken hayranlara çok özel bir deneyim sunuyor. Klasik bir özet filmi olmanın ötesine geçen bu yapım, hikayeye yepyeni bir derinlik katan orijinal yeni sahneler (new scenes) barındırıyor.",
-    "slug": "ginga-tokkyuu-milky-subway-movie-kakueki-teisha-gekijou-yuki"
+    "slug": "ginga-tokkyuu-milky-subway-movie-kakueki-teisha-gekijou-yuki",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ginga Tokkyuu Milky☆Subway Movie: Kakueki Teisha Gekijou Yuki 1. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/dilewy5rs4cx"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-zl7w2npd6oou.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:32:38.426095"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 62518,
@@ -46,36 +65,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 204949,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204949-1eneer7CutVn.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ginga Tokkyuu Milky☆Subway Movie: Kakueki Teisha Gekijou Yuki 1. Bölüm Final",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/dilewy5rs4cx"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zl7w2npd6oou.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:32:38.426095",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1598785,
     "type": "movie",

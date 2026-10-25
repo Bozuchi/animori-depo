@@ -4,7 +4,135 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "\"Akagashira-sensei'nin ilkim olmasını istiyorum!\" \"Etek hırsızı\"yla başı belada olan Ookami'nin eteği çalınmak üzeredir. Öğretmeni Akagashira oradan geçiyordur ve hırsızlığa engelleyerek onun kahramanı olur. Ookami teşekkür olarak Akagashira'yı evine davet eder, ama onu davet etmesinin başka bir nedeni vardır.",
-    "slug": "ookami-san-wa-taberaretai"
+    "slug": "ookami-san-wa-taberaretai",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ookami-san wa Taberaretai 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_6ADyHuSlxtMHqXbYWy4TiK5HB83yg3U/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1v8tOUXUEvxtMEqQTAxMU-t8tsErc1aaK/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933014523"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-k277yt1dvmlo.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-sicb2o43stc3.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-8hbkdfk7zi8z.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:46:58.487942"
+      },
+      {
+        "episode_number": 2,
+        "title": "Ookami-san wa Taberaretai 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1S79YTWn-QZZb5mnKc-0VhTNUhThNyksU/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CK9g-pX5d-z7mhb3iz-PCcfeuPcDfDBO/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140717070"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4470094"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-r2yckxwlneeg.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wd1rwr9i4run.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/mipmrbbx"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8o1ct9ai"
+          },
+          {
+            "fansub_id": 115,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-grahmeud1cn8.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:46:58.487942"
+      },
+      {
+        "episode_number": 3,
+        "title": "Ookami-san wa Taberaretai 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GRAYxpdsepxh1Ize3dhxDKDTezcSIGYO/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ahW-9lIo1qP_-K7DOXNvet3fAxm8JJzL/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933014524"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ccuyc9te7mv5.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ocjxsfep6gpl.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vs80kd151evh.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:46:58.487942"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 42517,
@@ -47,151 +175,34 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 121797,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121797-XNzcgdnqWgmj.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ookami-san wa Taberaretai 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_6ADyHuSlxtMHqXbYWy4TiK5HB83yg3U/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1v8tOUXUEvxtMEqQTAxMU-t8tsErc1aaK/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933014523"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-k277yt1dvmlo.html"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-sicb2o43stc3.html"
-        },
-        {
-          "fansub_id": 115,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8hbkdfk7zi8z.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-28T23:46:58.487942",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ookami-san wa Taberaretai 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1S79YTWn-QZZb5mnKc-0VhTNUhThNyksU/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CK9g-pX5d-z7mhb3iz-PCcfeuPcDfDBO/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140717070"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4470094"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-r2yckxwlneeg.html"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wd1rwr9i4run.html"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/mipmrbbx"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8o1ct9ai"
-        },
-        {
-          "fansub_id": 115,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-grahmeud1cn8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-28T23:46:58.487942",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ookami-san wa Taberaretai 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GRAYxpdsepxh1Ize3dhxDKDTezcSIGYO/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ahW-9lIo1qP_-K7DOXNvet3fAxm8JJzL/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933014524"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ccuyc9te7mv5.html"
-        },
-        {
-          "fansub_id": 115,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ocjxsfep6gpl.html"
-        },
-        {
-          "fansub_id": 115,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vs80kd151evh.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-28T23:46:58.487942",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Nodame Cantabile Finale animesinin OVA bölümüdür.",
-    "slug": "nodame-cantabile-finale-ova"
+    "slug": "nodame-cantabile-finale-ova",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 8190,
@@ -49,64 +50,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 8190,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8190.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Nodame Cantabile Final OVA 1 . Bölüm",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pjVdNdXkBWoWzoY1ArRGHdHqU9Ylle0i/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985845360"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017851"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rw41bzlq6ag6.html"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jf5qeyphme8z.html"
-        },
-        {
-          "fansub_id": 75,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370234"
-        },
-        {
-          "fansub_id": 75,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5174973"
-        },
-        {
-          "fansub_id": 75,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/a5h9fzp2wlso"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:40:24.012991",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Uzun zaman önce Jushin isimli bir şehirde Kralın elçisi olarak gizliden seyahat edip, insanları şeytani yönetimlere karşı koruyan \"Angyo Onshi\" isimli ajanlar vardı. Şimdi ise sadece tek bir tane kalmıştır. Bir kişi gerçekten dünyada ki tüm kötülükleri yenebilecek güçte olabilir mi?\n\nKarışıklığın ortasında ki bir kasabada bir yabancı dolanmaktadır. Hiç kimsenin tanımadığı bu yabancı bir Angyo Onshi olabilir mi? Yoksa gerçekler aslında bildiklerinden farklı mıdır?",
-    "slug": "shin-angyo-onshi"
+    "slug": "shin-angyo-onshi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 884,
@@ -46,41 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 884,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/884.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shin Angyo Onshi",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Wm0VdQofRoCBHAABZTc6B57SYE_G5JAc/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985848348"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015500"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T09:01:30.705680",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 36345,
     "type": "movie",

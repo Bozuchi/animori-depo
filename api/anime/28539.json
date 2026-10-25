@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Altın Şövalye adıyla kendini kanıtlayan Leon, Valiante Krallığı'ndan Prens Alfonso'yla birlikte\n kendini yeni nesilden genç bir Makai Şövalyesini eğitmeye adamıştır.\nBir süre sonra komşu ülke Vazelia'da yaşayan dünyanın en güzel Horror'unu yok etme emri alırlar.\nAynı anda genç Makai Şövalyesi kimliği belirsiz kişiler tarafından kaçırılır.\nLeon çaresizce onların peşinden gider ve sonunda düşmanlar \ntarafından etrafı sarılmış bir çıkmazda bulur kendisini.\nTam o sırada bir süredir kayıp olduğu düşünülen Makai Şövalyesi Dario çıkagelir ve Leon'u kurtarır.\nDario'nun rehberliğinde Leon, hiç beklemediği birisiyle karşılaşacağı bir kasabaya doğru yol alır.",
-    "slug": "garo-movie-divine-flame"
+    "slug": "garo-movie-divine-flame",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 28539,
@@ -44,56 +45,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21426,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21426-VXIooRCA91lv.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Garo Movie: Divine Flame",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1d6edhZWX28-ErOXmbTF28s4tRSewarVZ/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-9HkzwLPWofNiKEynWHgBVV1vMOgOzRs/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/yunusemresuser/_myvideo/234.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/5bcfa07z"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gih7domz5rky.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-pajidjacxfh7.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T22:39:36.246126",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 63453,
     "type": "tv",

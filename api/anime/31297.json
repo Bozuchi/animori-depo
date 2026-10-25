@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Tokyo Ghoul'un Pinto ovasıdır.",
-    "slug": "tokyo-ghoul-pinto"
+    "slug": "tokyo-ghoul-pinto",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31297,
@@ -58,39 +59,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21326,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21326-frrcFf02l5kt.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21326-Vmunxqzj1umc.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Tokyo Ghoul: \"Pinto\" OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16O2HjZTTc9EFmtzLnVDNiUXa6FI-hq2-/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ts9hook6qfh1.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7icael6rpfwm.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T17:10:20.960080",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

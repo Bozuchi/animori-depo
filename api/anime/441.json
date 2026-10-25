@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ohtori Akademisine yeni katılan Tenjou Utena, kız olmasına rağmen prensesten ziyade prens olmak istemektedir. Orada tanıştığı Himemiya Anthy, namıdiğer Gül Gelini ile bir dizi tesadüf sonucu nişanlanan Utena, Anthy'nin düellolar ile elden ele geçmesinden son derece rahatsız olmuştur. Mawaru Penguindrum ve Yuri Kuma Arashi serilerinden tanıdığımız yönetmen İkuhara Kunihiko, izleyicilerini yine gizemli bir dünyaya davet ediyor.",
-    "slug": "shoujo-kakumei-utena-adolescence-mokushiroku"
+    "slug": "shoujo-kakumei-utena-adolescence-mokushiroku",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 441,
@@ -54,51 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 441,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/441-CozxZcqqO6hp.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx441-JbPY7EiWIeaL.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ve8pHbJwQfTHHQdvXJJBvQfWIIqTk2ft/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018340"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ddakbtyj"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/83gizneq"
-        },
-        {
-          "fansub_id": 52,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bl3k21g2elvi.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T10:10:59.681430",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1042,
     "type": "tv",

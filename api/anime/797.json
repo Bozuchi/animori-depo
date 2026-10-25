@@ -4,7 +4,60 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Bu üç bölümlük OVA'da Taro, Cynthia'nın kendisi ve ikinci kişiliği Grace olarak hayatı hakkında daha fazla şey öğreniyor. Ayrıca koruması Konoe ile eğitim görüyor. Ve son olarak Ikuyo, Taro'yu kandırarak bütün gününü hizmetçi kılığına girerek geçirir.",
-    "slug": "hanaukyou-maid-tai-ova"
+    "slug": "hanaukyou-maid-tai-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Hanaukyou Maid-tai OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5599755"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/31arr8aejde7"
+          }
+        ],
+        "added_date": "2026-07-26T02:08:42.661683"
+      },
+      {
+        "episode_number": 2,
+        "title": "Hanaukyou Maid-tai OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5599779"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/nikmma8cbhgi"
+          }
+        ],
+        "added_date": "2026-07-26T02:08:42.661683"
+      },
+      {
+        "episode_number": 3,
+        "title": "Hanaukyou Maid-tai OVA 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5599780"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/95se6a19h1q9"
+          }
+        ],
+        "added_date": "2026-07-26T02:08:42.661683"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 797,
@@ -49,76 +102,12 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 797,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/797.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Hanaukyou Maid-tai OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5599755"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/31arr8aejde7"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:08:42.661683",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Hanaukyou Maid-tai OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5599779"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/nikmma8cbhgi"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:08:42.661683",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Hanaukyou Maid-tai OVA 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5599780"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/95se6a19h1q9"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:08:42.661683",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

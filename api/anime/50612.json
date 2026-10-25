@@ -4,7 +4,8 @@
     "puan": "9.12",
     "bolum_durumu": "1/1",
     "ozet": "İkinci ve üçüncü sezonu bağlayan özel bölüm. Ana senaryoya dahildir.",
-    "slug": "dr-stone-ryusui"
+    "slug": "dr-stone-ryusui",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 50612,
@@ -58,46 +59,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 142876,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142876-4vxyOR19TI7i.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142876-izO35hPP2DZ9.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Dr. Stone: Ryusui Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XegVhcarqTuDIR9jp9OqZ_K0FYfAsNYm/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7489941910706978922"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4791030"
-        },
-        {
-          "fansub_id": 22,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xkcaemcgyhiv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T22:24:23.232915",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 86031,
     "type": "tv",

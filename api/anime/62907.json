@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Ojisan wa Kawaii Mono ga Osuki.",
-    "slug": "ojisan-wa-kawaii-mono-ga-osuki"
+    "slug": "ojisan-wa-kawaii-mono-ga-osuki",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 62907,
@@ -42,6 +43,29 @@
           114121
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Chief Oji and Cute Things",
+        "aired": "Oct 4, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Chief Oji and the Gacha Guy",
+        "aired": "Oct 11, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Chief Oji and His First Comrade",
+        "aired": "Oct 18, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -49,37 +73,5 @@
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202079-oeULOdC1R1AR.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202079-nwBpDUms0Bab.png"
   },
-  "synopsis_tr": "Mitsutaka Oji, meslektaşları tarafından hayranlık duyulan 40 yaşında, yakışıklı bir ofis çalışanıdır. Elbette herkesten saklamaya çalıştığı bir sırrı var: Sevimli şeyleri seviyor. Ancak yeğeninin evine gitmesiyle Mitsutaka'nın sırrı tehlikede!(Kaynak: MU)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Chief Oji and Cute Things",
-      "episode_number": 1,
-      "aired": "Oct 4, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:08.903698"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Chief Oji and the Gacha Guy",
-      "episode_number": 2,
-      "aired": "Oct 11, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-13T10:27:05.952670"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Chief Oji and His First Comrade",
-      "episode_number": 3,
-      "aired": "Oct 18, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:46:35.489411"
-    }
-  ]
+  "synopsis_tr": "Mitsutaka Oji, meslektaşları tarafından hayranlık duyulan 40 yaşında, yakışıklı bir ofis çalışanıdır. Elbette herkesten saklamaya çalıştığı bir sırrı var: Sevimli şeyleri seviyor. Ancak yeğeninin evine gitmesiyle Mitsutaka'nın sırrı tehlikede!(Kaynak: MU)"
 }

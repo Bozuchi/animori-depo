@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Masum genç adam Ikuroo, şeytani bir örgüt olan Doress tarafından beynine yerleştirilmiş Baoh adında parazite sahiptir. Bu parazit onu neredeyse ölümsüz yapmakta ve başı beladayken güçlü bir yaratığa dönüşmesini sağlamaktadır. Doress finansal başarı ve dünyaya hükmetme amaçlarında Ikuroo’yu kullanmak istemektedir fakat genç çocuğu trenle aktardıkları sırada küçük psişik kız,Sumire(yeteneklerinden dolayı örgüt tarafından ele geçirilmiştir), Ikuroo’nun serbest kalmasını sağlar ve birlikte kaçarlar. Fakat tüm bu Baoh olayının ardındaki çılgın bilim adamı Doktor Kasuminome onların kaçmalarına izin vermeyecektir ve süper güçlere sahip adamlarıyla askeri gücü de arkasına alarak peşlerine düşer.",
-    "slug": "baoh-raihousha"
+    "slug": "baoh-raihousha",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1468,
@@ -50,46 +51,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1468,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1468-pIIvzdbWz383.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1468-kKU0Wacc8Thk.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Baoh Raihousha",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1vzLHMlMjjpsFvTpnjqQqMgHM1lZXMQ7v/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018002"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1786555"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-xedx59vbigwh.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T04:11:26.804114",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 62736,
     "type": "movie",

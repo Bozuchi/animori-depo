@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Vol 6'da yer alan ana serinin 13. bölümüdür.",
-    "slug": "acchi-kocchi-tv-place-princess"
+    "slug": "acchi-kocchi-tv-place-princess",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 16273,
@@ -47,89 +48,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 16273,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16273-U9hqE5P6oCpV.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16273-FhEHi6SHzllH.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Acchi Kocchi OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 61,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668057"
-        },
-        {
-          "fansub_id": 61,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1459744"
-        },
-        {
-          "fansub_id": 61,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762865"
-        },
-        {
-          "fansub_id": 61,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-j449y0z6v957.html"
-        },
-        {
-          "fansub_id": 61,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-7oc3ip0mktaq.html"
-        },
-        {
-          "fansub_id": 31,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5081244996078666243"
-        },
-        {
-          "fansub_id": 31,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7395625562758185673"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668058"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4089439"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762867"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jviei9bvvrrn.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1r1g2m0e"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-f1kdrf6fpz3f.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-19T03:30:25.567469",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

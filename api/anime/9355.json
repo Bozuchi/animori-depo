@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Sekirei: Pure Engagement serisine ait special bölümdür.",
-    "slug": "sekirei-pure-engagement-episode-0"
+    "slug": "sekirei-pure-engagement-episode-0",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 9355,
@@ -54,59 +55,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 9355,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9355.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Sekirei ~ Pure Engagement Special: Episode 0",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 39,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4395371"
-        },
-        {
-          "fansub_id": 39,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-cq42z71r45d4.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377170"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359668009"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4762686"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7s1z921jo8q0.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-geaf6gdh4wyv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:38:59.668068",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

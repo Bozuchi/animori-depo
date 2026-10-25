@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Marronnier Oukoku no Shichinin no Kishi",
-    "slug": "marronnier-oukoku-no-shichinin-no-kishi"
+    "slug": "marronnier-oukoku-no-shichinin-no-kishi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 64326,
@@ -44,6 +45,29 @@
           110138
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Seven Knights",
+        "aired": "Oct 3, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Spring by the Lake",
+        "aired": "Oct 10, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Recklessness",
+        "aired": "Oct 17, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -58,37 +82,5 @@
     "episode_offset": 0,
     "name": "The Seven Knights of the Marronnier Kingdom"
   },
-  "synopsis_tr": "Sekiz krallıktan oluşan kıtanın merkezinde Marronnier Krallığı yer alıyor. Ulusun başında, her biri kendine has kişiliklere sahip yedi oğlu olan kadın general Baribara vardır. Uykulu, yardımsever, sıcağa duyarlı, soğuğa duyarlı, hayvanlar konusunda yetenekli, kılıç ustalığıyla gurur duyan ve her zaman aç olan kardeşler çok farklı niteliklere sahiptirler ama tek bir amaçta birleşirler: \"Bir gün, bir prensesi soğukkanlı bir şekilde kurtaracağız!\" Çok geçmeden kardeşler, elçi olarak yedi komşu krallığa doğru yola çıkarlar. Bu yabancı topraklarda onları ne gibi karşılaşmalar, denemeler ve kaderler bekliyor? Orta Çağ'dan ilham alan bir fantastik dünyada geçen bu aşk ve macera hikayesi başlıyor.(Kaynak: MAL Haberleri)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "The Seven Knights",
-      "episode_number": 1,
-      "aired": "Oct 3, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-08T10:26:19.759733"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Spring by the Lake",
-      "episode_number": 2,
-      "aired": "Oct 10, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-16T08:08:03.616145"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Recklessness",
-      "episode_number": 3,
-      "aired": "Oct 17, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-21T08:32:46.405857"
-    }
-  ]
+  "synopsis_tr": "Sekiz krallıktan oluşan kıtanın merkezinde Marronnier Krallığı yer alıyor. Ulusun başında, her biri kendine has kişiliklere sahip yedi oğlu olan kadın general Baribara vardır. Uykulu, yardımsever, sıcağa duyarlı, soğuğa duyarlı, hayvanlar konusunda yetenekli, kılıç ustalığıyla gurur duyan ve her zaman aç olan kardeşler çok farklı niteliklere sahiptirler ama tek bir amaçta birleşirler: \"Bir gün, bir prensesi soğukkanlı bir şekilde kurtaracağız!\" Çok geçmeden kardeşler, elçi olarak yedi komşu krallığa doğru yola çıkarlar. Bu yabancı topraklarda onları ne gibi karşılaşmalar, denemeler ve kaderler bekliyor? Orta Çağ'dan ilham alan bir fantastik dünyada geçen bu aşk ve macera hikayesi başlıyor.(Kaynak: MAL Haberleri)"
 }

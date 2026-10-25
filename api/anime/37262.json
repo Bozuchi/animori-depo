@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yedi ulus için oldukça önemli olan ve Babel Kulesinin bulunduğu Babel kıtasında oyun başladı. Simyanın bulunup insanlığı yok oluşun eşiğine getirecek bir savaş silahı olarak kullanılmasından sonra yedi ulus simyanın yüzlerce yıl yasaklanmasına sebep olacak huzursuz bir barış antlaşması imzaladı. 911 Kıtasal yılında Lustrice ulusu tüm kıtayı fethetme hırsıyla, simyayla desteklenmiş bir ordu toplayarak antlaşmayı bozdu. Envylia liderliğinde, altı ulus müttefik oldu ve simyayı bir kez daha kötülüğe karşı kullanarak hilekar ulusu devirdi. Fakat savaştan yirmi yıl sonra simya ülkede bir kez daha kaos çıkarmaya başlar.",
-    "slug": "ta-ga-tame-no-alchemist"
+    "slug": "ta-ga-tame-no-alchemist",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37262,
@@ -38,41 +39,14 @@
       41
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 107864,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107864-oV2Blw61yLm1.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107864-hDeYfSmoHMI0.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ta ga Tame no Alchemist Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 218,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/136z5cJI7R7obEGtnUTcZo5fbHOVPXlq1/preview"
-        },
-        {
-          "fansub_id": 218,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368283"
-        },
-        {
-          "fansub_id": 218,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-issvx3ad5jix.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:05:03.537640",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 597419,
     "type": "movie",

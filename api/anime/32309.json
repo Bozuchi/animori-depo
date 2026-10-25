@@ -4,7 +4,167 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Tabi Machi Late Show'un teması \"vedalar ve seyahatler\"dir.",
-    "slug": "tabi-machi-late-show"
+    "slug": "tabi-machi-late-show",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Tabi Machi Late Show 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16AFlZ1-Ewui_H6WqGTlT8djpUmGzVzeq/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/183.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4501211"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4115931"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-odn2jaje3c2z.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vo6p0rlambxf.html"
+          }
+        ],
+        "added_date": "2026-07-29T14:05:14.215840"
+      },
+      {
+        "episode_number": 2,
+        "title": "Tabi Machi Late Show 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1y8hdTXejViXIeyIldyG8Q6fhwg1ydbhp/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/184.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4528656"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4115932"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tighfrvb78og.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4pv0uwfe3743.html"
+          }
+        ],
+        "added_date": "2026-07-29T14:05:14.215840"
+      },
+      {
+        "episode_number": 3,
+        "title": "Tabi Machi Late Show 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1C70KxNLBYYzq2s7B0-TziIDibSKCLUMG/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661704"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/185.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4589202"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4115933"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-961w46cxko15.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-do9870ybca01.html"
+          }
+        ],
+        "added_date": "2026-07-29T14:05:14.215840"
+      },
+      {
+        "episode_number": 4,
+        "title": "Tabi Machi Late Show 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1j-2otrJ_kcabmAcE9_JIMtn0D0F3l6Pb/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661705"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/186.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4115934"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4589203"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dgx1aisw3cn3.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-yk7nkck91i5p.html"
+          }
+        ],
+        "added_date": "2026-07-29T14:05:14.215840"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32309,
@@ -36,187 +196,41 @@
       291
     ],
     "relations": [],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21544,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21544-aC3A2uTzPmmm.png",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21544-qFG8EqG95Kue.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Tabi Machi Late Show 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16AFlZ1-Ewui_H6WqGTlT8djpUmGzVzeq/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/183.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4501211"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4115931"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-odn2jaje3c2z.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vo6p0rlambxf.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:05:14.215840",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tabi Machi Late Show 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1y8hdTXejViXIeyIldyG8Q6fhwg1ydbhp/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/184.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4528656"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4115932"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-tighfrvb78og.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-4pv0uwfe3743.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:05:14.215840",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tabi Machi Late Show 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1C70KxNLBYYzq2s7B0-TziIDibSKCLUMG/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661704"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/185.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4589202"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4115933"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-961w46cxko15.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-do9870ybca01.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:05:14.215840",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tabi Machi Late Show 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 68,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1j-2otrJ_kcabmAcE9_JIMtn0D0F3l6Pb/preview"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661705"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/186.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4115934"
-        },
-        {
-          "fansub_id": 68,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4589203"
-        },
-        {
-          "fansub_id": 68,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-dgx1aisw3cn3.html"
-        },
-        {
-          "fansub_id": 68,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-yk7nkck91i5p.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T14:05:14.215840",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Web animesi Luo Xiao Hei Zhan Ji'nin tanım filmi. İzleyiciler Xiao Hei‘nin son ismi Luo‘yu nasıl elde ettiğini keşfedecek.",
-    "slug": "luo-xiao-hei-zhan-ji-movie"
+    "slug": "luo-xiao-hei-zhan-ji-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40211,
@@ -46,46 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 112023,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112023-n0AXMF851QK8.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112023-jAzTavYOx3zq.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Luo Xiao Hei Zhan Ji",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JKrgf90t1oEAqEIF8jcMNxHif5_i4EBk/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1EMraCwTqdKbamIIR13e_LWiXFRULYFTZ/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718391"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-rtpq8tlgwcd8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:50:12.397544",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 620249,
     "type": "movie",

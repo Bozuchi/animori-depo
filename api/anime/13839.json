@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Excalibur Mucizesi, anime ve manga Detective Conan'ın on ikinci OVA'sıdır. Konu Gosho Aoyama'nın kısa öyküsü \"Excalibur\" u temel alıyor.",
-    "slug": "detective-conan-ova-12-the-miracle-of-excalibur"
+    "slug": "detective-conan-ova-12-the-miracle-of-excalibur",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 13839,
@@ -56,51 +57,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 13839,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13839-uYl1cuYtRZ8l.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Detective Conan OVA 12",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 65,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4531988"
-        },
-        {
-          "fansub_id": 65,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-0a74ckaqb7ba.html"
-        },
-        {
-          "fansub_id": 65,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jz8knd3nn2eu.html"
-        },
-        {
-          "fansub_id": 65,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-st7aiwmiaz83.html"
-        },
-        {
-          "fansub_id": 65,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gqolk2ppxiyq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T20:57:58.734323",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 30983,
     "type": "tv",

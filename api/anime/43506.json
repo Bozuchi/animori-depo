@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Alice Gear Aegis oyununun ilk OVA'sı.\nSahilde bir yarışma hikayesi...",
-    "slug": "alice-gear-aegis-doki-actress-darake-no-mermaid-grand-prix"
+    "slug": "alice-gear-aegis-doki-actress-darake-no-mermaid-grand-prix",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 43506,
@@ -43,36 +44,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 126186,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126186-Y49BJwDTQQbu.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 94,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682369597"
-        },
-        {
-          "fansub_id": 94,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/tkjdbvf4z2gu"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T06:25:16.196271",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 755094,
     "type": "movie",

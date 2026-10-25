@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Şeytanlar vardır ve güçleri insanların kavrayışlarının ötesindedir. Doğrusu onlarla savaşta insanoğlunun en ufak bir şansı yoktur. Bir şeytanı yok etmeye yetecek kadar güçlü olan sadece başka bir şeytandır ve bu mantıktan hareketle Asuka Ryou, iyi kalpli arkadaşı olan Fudou Akira'yı bir şeytanın ele geçirmesine dair planını uygulamaya koyar. Eğer insanın saf bir kalbi varsa, o zaman kendini ele geçiren şeytanı kontrol edebilir ve böylece bir şeytana eşit düzeyde güce sahip olabilir. Bir kulüpte ayin yaptıktan sonra plan işe yarar ve Akira, Amon adında güçlü bir şeytan tarafından ele geçirilir. Şimdi Akira, karanlık çöktüğünden beri, saklı şeytanların tehlikesine karşı insanoğlunu tek adalet şampiyonudur.",
-    "slug": "devilman-tanjou-hen"
+    "slug": "devilman-tanjou-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2354,
@@ -76,36 +77,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2354,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2354-w5z5t2EsDt8I.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2354-f19GQZMwf235.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Devilman: Tanjou-hen OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nLYLezwfAWrdzDt6N2kdoW5oFhhfn2aM/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/2251"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T21:05:00.821158",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 68586,
     "type": "tv",

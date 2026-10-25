@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Monster Strike animesine ait ONA bölümüdür.",
-    "slug": "monster-strike-rain-of-memories"
+    "slug": "monster-strike-rain-of-memories",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 34475,
@@ -47,64 +48,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 98095,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98095-yQuFpzD2lMol.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Monster Strike Winter Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 28,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qFt0GG8uojAcxGUCVO62Z7HyTP_0YqUM/preview"
-        },
-        {
-          "fansub_id": 28,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366852"
-        },
-        {
-          "fansub_id": 28,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359665039"
-        },
-        {
-          "fansub_id": 28,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4342709"
-        },
-        {
-          "fansub_id": 28,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4620607"
-        },
-        {
-          "fansub_id": 28,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-u9btp790orr1.html"
-        },
-        {
-          "fansub_id": 28,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-2gvzxzjg2pif.html"
-        },
-        {
-          "fansub_id": 28,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-l661x0srszwy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T13:17:39.574803",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

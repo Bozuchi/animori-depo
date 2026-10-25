@@ -4,7 +4,201 @@
     "puan": "0.00",
     "bolum_durumu": "6/6",
     "ozet": "Ultraman serisinin 2. sezonudur.",
-    "slug": "ultraman-season-2"
+    "slug": "ultraman-season-2",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ultraman Season 2 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14dTjMJE3N9kTWfGprglHcRR36v5jXMSh/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667549"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4681177"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lt43vraysess.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1362,
+            "end": 1514
+          }
+        },
+        "added_date": "2026-07-29T19:22:13.173747"
+      },
+      {
+        "episode_number": 2,
+        "title": "Ultraman Season 2 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VLDGjGgt7hbj8D2aEvpqbHJEawSD5pSQ/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667550"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4681186"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6fcpvj9bf16v.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1362,
+            "end": 1514
+          }
+        },
+        "added_date": "2026-07-29T19:22:13.173747"
+      },
+      {
+        "episode_number": 3,
+        "title": "Ultraman Season 2 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lPn4uCTJuuY8Vt-tpTBaR_QxQRoqCxUG/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667551"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4681206"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vghjckw34ouv.html"
+          }
+        ],
+        "added_date": "2026-07-29T19:22:13.173747"
+      },
+      {
+        "episode_number": 4,
+        "title": "Ultraman Season 2 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tx4hQ2Tpxuw_6dp-gCRlq44gkeRXUMu-/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667552"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4681211"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gn8ptig67i3e.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1362,
+            "end": 1516
+          }
+        },
+        "added_date": "2026-07-29T19:22:13.173747"
+      },
+      {
+        "episode_number": 5,
+        "title": "Ultraman Season 2 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1RZ3DxcL-cQ7GqHMzPXp-TRk9megwdNjS/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667553"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4681296"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lh35nlgdzucb.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1362,
+            "end": 1516
+          }
+        },
+        "added_date": "2026-07-29T19:22:13.173747"
+      },
+      {
+        "episode_number": 6,
+        "title": "Ultraman Season 2 6. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VWouXpOU-58Ww0Msp1F_SY8Z5nSGWf3f/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667554"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4681300"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-d54acuek10wt.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1362,
+            "end": 1516
+          }
+        },
+        "added_date": "2026-07-29T19:22:13.173747"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39935,
@@ -61,226 +255,57 @@
         ]
       }
     ],
-    "episodes": 6
+    "episodes": 6,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 109911,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109911-jGPUasJTqtGF.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109911-DdWj9Jh8cLJ4.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ultraman Season 2 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14dTjMJE3N9kTWfGprglHcRR36v5jXMSh/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667549"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4681177"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lt43vraysess.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1362,
-          "end": 1514
-        }
-      },
-      "added_date": "2026-07-29T19:22:13.173747",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ultraman Season 2 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VLDGjGgt7hbj8D2aEvpqbHJEawSD5pSQ/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667550"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4681186"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6fcpvj9bf16v.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1362,
-          "end": 1514
-        }
-      },
-      "added_date": "2026-07-29T19:22:13.173747",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ultraman Season 2 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lPn4uCTJuuY8Vt-tpTBaR_QxQRoqCxUG/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667551"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4681206"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vghjckw34ouv.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:22:13.173747",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ultraman Season 2 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tx4hQ2Tpxuw_6dp-gCRlq44gkeRXUMu-/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667552"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4681211"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gn8ptig67i3e.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1362,
-          "end": 1516
-        }
-      },
-      "added_date": "2026-07-29T19:22:13.173747",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ultraman Season 2 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1RZ3DxcL-cQ7GqHMzPXp-TRk9megwdNjS/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667553"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4681296"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lh35nlgdzucb.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1362,
-          "end": 1516
-        }
-      },
-      "added_date": "2026-07-29T19:22:13.173747",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Ultraman Season 2 6. Bölüm Final",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VWouXpOU-58Ww0Msp1F_SY8Z5nSGWf3f/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359667554"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4681300"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-d54acuek10wt.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1362,
-          "end": 1516
-        }
-      },
-      "added_date": "2026-07-29T19:22:13.173747",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 80795,
     "type": "tv",

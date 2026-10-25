@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "19 yaşındaki Kubota bir kız arkadaş bulmaya hazırdır. Kusursuz şans, bir kulüpte ilk aşkı Masana Fujisaka ile tanıştığında ortaya çıkar. Uzun zamandır birlikte olduğu erkek arkadaşından yeni ayrıldı ve mükemmel fırsatın ortaya çıktığını gören Kubota ile karşılaştığına şaşırdı.",
-    "slug": "nineteen-19"
+    "slug": "nineteen-19",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2468,
@@ -46,51 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2468,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2468.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Nineteen 19 OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 113,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FMS9WWVYBUcKpD4ROwkGsBI7BmvXlT02/preview"
-        },
-        {
-          "fansub_id": 113,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682368056"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4396070"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4395991"
-        },
-        {
-          "fansub_id": 113,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-tmm2bmkbstom.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T16:15:17.434683",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 73797,
     "type": "movie",

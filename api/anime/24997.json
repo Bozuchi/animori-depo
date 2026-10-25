@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "2. Sezondan sonraki olayları anlatır.",
-    "slug": "love-live-the-school-idol-movie"
+    "slug": "love-live-the-school-idol-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 24997,
@@ -61,31 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20766,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20766-M4rqjELIprpa.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20766-9A9Z6hawqdLe.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Love Live! The School Idol Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4379756"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T08:44:11.016561",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 53721,
     "type": "tv",

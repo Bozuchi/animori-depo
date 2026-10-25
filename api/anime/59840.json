@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Yumemiru Otome",
-    "slug": "yumemiru-otome"
+    "slug": "yumemiru-otome",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 59840,
@@ -48,13 +49,13 @@
           61628
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 172218,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172218-DHlCDzXFEHzM.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172218-r6MOczPWLoif.png"
   },
-  "synopsis_tr": "Güzel kız kardeşler Manaka ve Mizuki Miyama, bir kız okulunda okuyor ve kaygısız bir hayat yaşıyor. Katı Mizuki kendini çalışmalarına kaptırırken neşeli Manaka mutlu bir ilişkinin hayalini kurar ve yakışıklı bir öğretmenle çıkmaya başlar. Güvenen kız, romantik vakit geçirme umuduyla evine gelir. Ancak saf hayalleri gerçekleşmeye mahkum değildi.",
-  "episodes": []
+  "synopsis_tr": "Güzel kız kardeşler Manaka ve Mizuki Miyama, bir kız okulunda okuyor ve kaygısız bir hayat yaşıyor. Katı Mizuki kendini çalışmalarına kaptırırken neşeli Manaka mutlu bir ilişkinin hayalini kurar ve yakışıklı bir öğretmenle çıkmaya başlar. Güvenen kız, romantik vakit geçirme umuduyla evine gelir. Ancak saf hayalleri gerçekleşmeye mahkum değildi."
 }

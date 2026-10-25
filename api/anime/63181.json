@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Tougen Anki: Nikko Kegon no Taki-hen",
-    "slug": "tougen-anki-nikko-kegon-no-taki-hen"
+    "slug": "tougen-anki-nikko-kegon-no-taki-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63181,
@@ -57,6 +58,29 @@
           127436
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Let the Training Begin!",
+        "aired": "Oct 2, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "The Path to Growing Strong",
+        "aired": "Oct 9, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Purpose",
+        "aired": "Oct 16, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -71,37 +95,5 @@
     "episode_offset": 0,
     "name": "Tougen Anki"
   },
-  "synopsis_tr": "Tougen Anki'nin devamı.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Let the Training Begin!",
-      "episode_number": 1,
-      "aired": "Oct 2, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:07:56.048852"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "The Path to Growing Strong",
-      "episode_number": 2,
-      "aired": "Oct 9, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-14T08:39:25.217799"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Purpose",
-      "episode_number": 3,
-      "aired": "Oct 16, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-21T08:31:50.740977"
-    }
-  ]
+  "synopsis_tr": "Tougen Anki'nin devamı."
 }

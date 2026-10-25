@@ -4,7 +4,8 @@
     "puan": "8.99",
     "bolum_durumu": "1/1",
     "ozet": "Şeytan Kral'ın birliklerinin, Megumin ve Yunyun'un klanı olan Kızıl Şeytanlar'da korkması tuhaf değildi. Saldıranlar Şeytan Kral'ın generalleri bile olsa, Kızıl Şeytanlar onları ileri seviye büyülerde ki büyük ustalıkları sayesinde kolayca defedebilirlerdi. Memleketinin bir felaket tehlikesi altında olmasıyla ilgili sözde ciddi görünen bir mektup aldığında Yunyun, hemen Kazuma Satou ve diğer grup üyelerini bilgilendirir. Birtakım saçma yanlış anlaşılmalardan sonra, bu mektubun aslında yalnızca yazar olmak isteyen bir arkadaşının şakası olduğunu anlar. Yine de Megumin, ailesi için endişelenir ve çetenin kalanıyla birlikte Kızıl Şeytanlar Köyü'ne yolculuğa çıkar. Orada, Kazuma ve arkadaşları, Megumin'in doğum yerindeki harikaları görmek için şehir turuna çıkmaya karar verir. Ancak, aldıkları saçma tehdidin aslında bir şakadan daha da fazlası olduğunu fark etmeleri uzun sürmez.",
-    "slug": "kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu"
+    "slug": "kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 38040,
@@ -61,61 +62,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 102976,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102976-xv7fCzBwQ7GU.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 24,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359670334"
-        },
-        {
-          "fansub_id": 24,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-jxh222k11cgv.html"
-        },
-        {
-          "fansub_id": 121,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359670335"
-        },
-        {
-          "fansub_id": 121,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bxrp9bcwf348.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KAtSdGUoHtOC1keZCpxlQ99IjyQuJxVa/preview"
-        },
-        {
-          "fansub_id": 16,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359670336"
-        },
-        {
-          "fansub_id": 16,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-42ujmpytu9x2.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:58:27.347788",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 532067,
     "type": "movie",

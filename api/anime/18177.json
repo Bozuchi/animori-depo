@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "29. cilt ile beraber gelen OVA bölümüdür.",
-    "slug": "yowamushi-pedal-special-ride"
+    "slug": "yowamushi-pedal-special-ride",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 18177,
@@ -53,56 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 18177,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18177.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yowamushi Pedal OVA: Special Ride",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 235,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/15J63ghBAEM98Gf2oA6Nkqw9ZpyMpGYeT/preview"
-        },
-        {
-          "fansub_id": 235,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682365645"
-        },
-        {
-          "fansub_id": 235,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4523960"
-        },
-        {
-          "fansub_id": 235,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1484737"
-        },
-        {
-          "fansub_id": 235,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zrgjz1u369t5.html"
-        },
-        {
-          "fansub_id": 235,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bv1sin9kcb0a.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T18:51:17.283028",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 61441,
     "type": "tv",

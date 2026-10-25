@@ -4,7 +4,8 @@
     "puan": "6.32",
     "bolum_durumu": "1/1",
     "ozet": "Japonya'nın en büyük suç şehri Shinjuku Kabuki-Cho, suç dünyasını ayağa kaldıran bir cinayet ile sarsılır. Anjou grubunun lideri öldürülmüş ve beraberinde 300 milyon Yen çalınmıştır. Liderin sadist ve mazoşist oğlu Kakihara olaydan haberdar olur ve katili aramaya başlar. Elindeki tek ipucu katilin ismidir.\n\n- Ichi the Killer, Takashi Miike tarafından 2001 yılında sinemaya uyarlanmıştır.\n\n<b>Dikkat :</b> Eser, içeriğindeki -rahatsız edici boyutlardaki- şiddet ve cinsellik unsurları nedeni ile 18 yaşından küçük okurlara tavsiye edilmemektedir.",
-    "slug": "koroshiya-1-the-animation-episode-0"
+    "slug": "koroshiya-1-the-animation-episode-0",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2346,
@@ -54,51 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2346,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2346.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ichi The Killer : Episode 0",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dxFOrU7ZxvKJNhfZyYM-GfkVXa2KL4LR/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016851"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1526"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hvj391lehdpu.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/fible9n5"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T05:07:28.545316",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 87069,
     "type": "movie",

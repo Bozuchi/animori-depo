@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Shiguang Daili Ren animesinin 5,5. bölümüdür.",
-    "slug": "shiguang-dailiren-fanwai-pian-biwu-zhaoqin"
+    "slug": "shiguang-dailiren-fanwai-pian-biwu-zhaoqin",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 49200,
@@ -49,49 +50,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 136145,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136145-guWKltDngjIu.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Shiguang Daili Ren 5,5. Bölüm",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 186,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1OgIfspJCRTAMOajvXkkirIV_mlHeedN8/preview"
-        },
-        {
-          "fansub_id": 186,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1NTIcUDQo6FBeKtXQdlBUz9wHDJ5ww338/preview"
-        },
-        {
-          "fansub_id": 186,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4333935"
-        },
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MxxqX-TKNxdW4JctbaH9XO9z0KaBgE6F/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5805921"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T08:49:09.822352",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

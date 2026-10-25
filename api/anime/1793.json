@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Mavi gökyüzü, beyaz bulutlar... Anılarda kalan bir kaç sözcük... Anılarda kalan insanlık...\n\nİnsanlar, modern hayatta mutlu bir şekilde yaşamaktadırlar. Yirminci yüzyılın sonlarında, Amnesia adı verilen garip bir rüzgar; insanların tüm anılarını ve bildiklerini beraberinde götürür. Konuşmasını bile unutan insanlar, yeni doğmuş bebekler gibidir. Dünya; modern çağın içinde taş devrine dönmüştür. 1000'lerce yıllık bilgi saniyeler içince yokolmuştur...\n\nWataru'ya, kendinden 3 yaş küçük olan Johnny, konuşmasını ve diğer bazı şeyleri öğretir. Ancak Johnny ölünce, Wataru bir jipe atlar ve yola koyulur. San Francisco'ya vardığında \"Gardiyan\" adı verilen aslında 1990 yılında insanlara hizmet etmesi amacıyla üretilmiş bir robotun, insanları öldürdüğünü görür. Robot, Wataru'yu farkeder ve peşine düşer. Kovalamacanın ardından Wataru robotu yener ve Sophia adında gizemli bir bayanla tanışır.",
-    "slug": "kaze-no-na-wa-amnesia"
+    "slug": "kaze-no-na-wa-amnesia",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1793,
@@ -46,51 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1793,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1793-aD9cfQhORr2L.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1793.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "A Wind Named Amnesia",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rod5yA5lTzMp8bRb6fwdytrc4yV507q-/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018216"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846504"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1636011"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4070777"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T01:50:14.619933",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 42070,
     "type": "movie",

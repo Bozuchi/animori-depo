@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Tian Guan Cifu Short Films",
-    "slug": "tian-guan-cifu-short-films"
+    "slug": "tian-guan-cifu-short-films",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 60988,
@@ -52,6 +53,29 @@
           50399
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Crown Prince Delighted the Gods; A Fleeting Glimpse",
+        "aired": "Feb 12, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Guessing Riddles at the Ghost Market and Enjoying Lantern Festival Together",
+        "aired": "Jul 5, 2025",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Meeting in the Water, A Pair in Red Clothes",
+        "aired": "Mar 1, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -59,37 +83,5 @@
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186837-jFoGG2hbLnlo.jpg"
   },
-  "synopsis_tr": "Bir dizi kısa film.Kısa film #1: Xie Lian ve Hua Cheng'in ilk karşılaşması.Kısa film #2: Xie Lian ve Hua Cheng, Hayalet Pazarı'ndaki Fener Festivalinin tadını çıkarıyor.Kısa film #3: Xie Lian ve Hua Cheng su altında ve ardından Hayalet Şehir'e dönüyorlar.Kısa film #4: Bir dağ mağarasında sürpriz bir keşif.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "The Crown Prince Delighted the Gods; A Fleeting Glimpse",
-      "episode_number": 1,
-      "aired": "Feb 12, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:22.273427"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Guessing Riddles at the Ghost Market and Enjoying Lantern Festival Together",
-      "episode_number": 2,
-      "aired": "Jul 5, 2025",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:22.273427"
-    },
-    {
-      "turkanime_title": "3. Bölüm",
-      "title": "Meeting in the Water, A Pair in Red Clothes",
-      "episode_number": 3,
-      "aired": "Mar 1, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:22.273427"
-    }
-  ]
+  "synopsis_tr": "Bir dizi kısa film.Kısa film #1: Xie Lian ve Hua Cheng'in ilk karşılaşması.Kısa film #2: Xie Lian ve Hua Cheng, Hayalet Pazarı'ndaki Fener Festivalinin tadını çıkarıyor.Kısa film #3: Xie Lian ve Hua Cheng su altında ve ardından Hayalet Şehir'e dönüyorlar.Kısa film #4: Bir dağ mağarasında sürpriz bir keşif."
 }

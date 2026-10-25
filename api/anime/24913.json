@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Bokura wa Minna Kawai-sou animesinin özel bölümüdür.",
-    "slug": "bokura-wa-minna-kawai-sou-hajimete-no"
+    "slug": "bokura-wa-minna-kawai-sou-hajimete-no",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 24913,
@@ -54,49 +55,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20780,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20780-EYPjGO1bIUO1.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20780-snAzGJ1TIdkP.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Bokura wa Minna Kawai-sou: Hajimete no Special",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 8,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18Sr4C_FeMeoeS7Lb4HjqEJV-5qm3QAj4/preview"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019212"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/6765.html"
-        },
-        {
-          "fansub_id": 8,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1742863"
-        },
-        {
-          "fansub_id": 8,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-w6ckvtk5tg98.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T06:30:37.014269",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Dikkat - Fullmetal Alchemist TV serisini izlemeyenlerin bu tanıtımı okuması sakıncalıdır. Film 52. bölüm olarak görüldüğü için serinin gidişatı ile ilgili seyir keyfini bozucu ön bilgi içermektedir.\n\nMünih, Almanya 1923. Edward kapının diğer tarafına geçeli iki yıl olmuştur. Kendi dünyasının bir yansıması olan bu dünyada kardeşi Alphonse'yu hatırlatan genç bir bilim adamı olan Alphonse Heiderich ile birlikte yaşamaya başlamıştır. Alphonse Elric ise, abisinin hala yaşadığına inanmakta ve onu aramaktadır.\n\nNazi Partisinin desteklediği bir grup bilim adamın oluşturduğu Thule Birliği ise, \"Shambala\" adında mistik bir dünyanın var olduğunu öğrenirler ve o dünyaya bir kapı açmaya çalışırlar. Bunu öğrenen Edward ise onlara engel olmaya çalışacaktır...",
-    "slug": "fullmetal-alchemist-the-conqueror-of-shamballa"
+    "slug": "fullmetal-alchemist-the-conqueror-of-shamballa",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 430,
@@ -58,46 +59,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 430,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/430-G07rfvPsD2Zg.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx430-Fx7lVxpcwArH.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Fullmetal Alchemist: The Conqueror of Shamballa",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zMfCs-978cOvyRrIAcLnIAH3OlWIdqp3/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TYT251xPOQ6ody86GT3w5vbA7v5TAPWM/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931908400"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-gbqwbp6ij6q8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T21:49:47.526108",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 37863,
     "type": "tv",

@@ -4,7 +4,87 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Paldea'daki bir okulda okuyan üç öğrenci, yeni bir öğrencinin gelmesinden önce okullarını tanıtan bir video hazırlamakla görevlendirilir.",
-    "slug": "houkago-no-breath"
+    "slug": "houkago-no-breath",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Houkago no Breath 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370654"
+          },
+          {
+            "fansub_id": 3,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/tidxy6nw9f8i"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zlt0qpwuxnoi.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:23:04.139342"
+      },
+      {
+        "episode_number": 2,
+        "title": "Houkago no Breath 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5299429"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nt11ywbc8gf9.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:23:04.139342"
+      },
+      {
+        "episode_number": 3,
+        "title": "Houkago no Breath 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5349732"
+          },
+          {
+            "fansub_id": 3,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/dbyb3h7k36hg"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-71k1z9psr88q.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:23:04.139342"
+      },
+      {
+        "episode_number": 4,
+        "title": "Houkago no Breath 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5367838"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-d9gc449xcx7m.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:23:04.139342"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 56218,
@@ -43,109 +123,43 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 168092,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/168092-exo18Qssb1zu.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168092-PS3WhYgF42p0.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Houkago no Breath 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370654"
-        },
-        {
-          "fansub_id": 3,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/tidxy6nw9f8i"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zlt0qpwuxnoi.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:23:04.139342",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Houkago no Breath 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5299429"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-nt11ywbc8gf9.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:23:04.139342",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Houkago no Breath 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5349732"
-        },
-        {
-          "fansub_id": 3,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/dbyb3h7k36hg"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-71k1z9psr88q.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:23:04.139342",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Houkago no Breath 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5367838"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-d9gc449xcx7m.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:23:04.139342",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 232214,
     "type": "tv",

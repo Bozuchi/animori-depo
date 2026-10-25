@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/3",
     "ozet": "23-25 arasındaki manga ciltlerinin sınırlı baskısıyla birlikte verilen OVA bölümleri Manganın 176 ve 177. bölümlerini kapsayan ilk bölüm 178-180 bölümlerini kapsayan ikinci bölüm ve 182 ve 183. bölümleri kapsayan üçüncü bölüm.",
-    "slug": "mahou-sensei-negima-shiroki-tsubasa-ala-alba"
+    "slug": "mahou-sensei-negima-shiroki-tsubasa-ala-alba",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4188,
@@ -65,7 +66,8 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 4188,

@@ -4,7 +4,8 @@
     "puan": "6.22",
     "bolum_durumu": "1/1",
     "ozet": "Yuuji, büyükbabasının isteği üzerine şirketin başına geçmeyi kabul etmiştir ve bu yüzden de kendini ağa takılmış bir balık gibi hissetmektedir. Peki bu arada genç yüzücü Matsui'ye karşı neler hissetmektedir?",
-    "slug": "osakana-wa-ami-no-naka"
+    "slug": "osakana-wa-ami-no-naka",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 752,
@@ -44,74 +45,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 752,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/752.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Fish in the Trap",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3794062"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-k0hcxriob7l2.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/p5j5xg5w"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1b6Dv6zsYzENk-bx_5wKCToF1TeOcNFCR/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852487"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/653/654.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4443047"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1082766"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-bty3zyuzh7ln.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hd3ub9t499yb.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T00:18:41.093405",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

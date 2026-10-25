@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Playstation 4'teki Kandagawa Jet Girls oyunuyla bağlantılı olarak piyasaya sürülen OVA bölümü.",
-    "slug": "kandagawa-jet-girls-ova"
+    "slug": "kandagawa-jet-girls-ova",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 41146,
@@ -46,41 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 114926,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114926-R7AEvciWMHjz.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kandagawa Jet Girls OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 218,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_PfD4GgJucMNiSD7iNXS0HIQwews-MRu/preview"
-        },
-        {
-          "fansub_id": 218,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685365233"
-        },
-        {
-          "fansub_id": 218,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/y4arka0a"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T23:49:34.641433",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 93495,
     "type": "tv",

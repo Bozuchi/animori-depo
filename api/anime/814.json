@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hyoutei Lisesinin ilginç (ama bir o kadar zengin) kaptanı Keiga Atobe takım arkadaşı olan Kabaji için görkemli bir doğum günü partisi düzenlemeye karar verir. Tüm Prince of Tennis kadrosu dahildir. (The New POT değil sadece POT) Beraber bir çok etkinlik ve spora katılırlar: dans ederler, yüzerler, koşma yarışmasına katılırlar vb.",
-    "slug": "prince-of-tennis-atobe-s-gift"
+    "slug": "prince-of-tennis-atobe-s-gift",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 814,
@@ -46,61 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 814,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/814-Djzu5b7dYTne.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/814.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Prince of Tennis: Atobe's Gift",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JsMsTDs647jp0r4aN9LyaxRqIAvtS8aH/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849915"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2118575"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4430671"
-        },
-        {
-          "fansub_id": 5,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4102504"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-djyrungv3qzv.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zq4ppt5cyh85.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:49:22.045710",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 408973,
     "type": "movie",

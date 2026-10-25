@@ -4,7 +4,411 @@
     "puan": "0.00",
     "bolum_durumu": "12/11+",
     "ozet": "Kono Subarashii Sekai ni Shukufuku wo! animesinin 3. sezonudur.",
-    "slug": "kono-subarashii-sekai-ni-shukufuku-wo-3"
+    "slug": "kono-subarashii-sekai-ni-shukufuku-wo-3",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dVZqkBsp_VrDE26iVPPgAuLisBs5_cbN/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5507461"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5507481"
+          }
+        ],
+        "added_date": "2026-07-27T04:58:10.690810"
+      },
+      {
+        "episode_number": 2,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MEOdG8iXcckHq4N5wVamT1fRKDdOywQ3/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5530645"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5530650"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 51.436996,
+            "end": 141.437
+          }
+        },
+        "added_date": "2026-07-27T04:58:10.690810"
+      },
+      {
+        "episode_number": 3,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XeXR4te7UMXWOowb_LqhNqDzMo4fF949/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5530646"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5530652"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 76.54797,
+            "end": 166.54797
+          }
+        },
+        "added_date": "2026-07-27T04:58:10.690810"
+      },
+      {
+        "episode_number": 4,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WSsvk1TL4f1Z4y1gP_6ofJukP_FqE5cy/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5538205"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5538210"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/e8brwkpy77ys"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ba1xifsiq6xk"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 90.00667,
+            "end": 180.00667
+          },
+          "ed": {
+            "start": 1320,
+            "end": 1416
+          }
+        },
+        "added_date": "2026-07-27T04:58:10.690810"
+      },
+      {
+        "episode_number": 5,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GjUMTZWzqHlqHd6qLKv52S2Li1YlTYXE/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5538206"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5538212"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/iv1e445ywqe2"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/pqh5525zh39y"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 21.410685,
+            "end": 111.41068
+          }
+        },
+        "added_date": "2026-07-27T04:58:10.690810"
+      },
+      {
+        "episode_number": 6,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19wWjQGI331I4QfaEfmCeUtorhGRNnOVw/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5538207"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5538211"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/hfugv0lpqj00"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/7w01tx27lw0x"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1287,
+            "end": 1376
+          }
+        },
+        "added_date": "2026-07-27T04:58:10.690810"
+      },
+      {
+        "episode_number": 7,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17LsOQoHELm_Af-KGBU51X3stct5KGg3m/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5552730"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/f8o0zzpr2r9k"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-x9ue667f62l5.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 46.85011,
+            "end": 136.85011
+          },
+          "ed": {
+            "start": 1320,
+            "end": 1420
+          }
+        },
+        "added_date": "2026-07-27T04:58:10.690810"
+      },
+      {
+        "episode_number": 8,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13bLH9fTvJ5_jYRREtDP5V9TZVfuaBGE7/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5552731"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/hp3t3wtriv00"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3n4csdvig2nh.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 80.792564,
+            "end": 170.79256
+          },
+          "ed": {
+            "start": 1320,
+            "end": 1409
+          }
+        },
+        "added_date": "2026-07-27T04:58:10.690810"
+      },
+      {
+        "episode_number": 9,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11r64GRMQB08OZXVqkKzUFhLlsH4KRXF_/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5563348"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5563353"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-t0y74j6r8mbx.html"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-otwhqceylo7p.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 47.5388,
+            "end": 137.5388
+          }
+        },
+        "added_date": "2026-07-27T04:58:10.690810"
+      },
+      {
+        "episode_number": 10,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1unCnu0WfzEluC8oUtvNPFrMxVB7rHUPe/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5579034"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5579039"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/orqguv5oef6h"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/foyabwdg14kf"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-km7j1jopnqmw.html"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mmbe1oatulm3.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 62.527832,
+            "end": 152.52783
+          },
+          "ed": {
+            "start": 1320,
+            "end": 1409
+          }
+        },
+        "added_date": "2026-07-27T04:58:10.690810"
+      },
+      {
+        "episode_number": 11,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 11. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1adysUebtzaKIpyoKuJw2U8YGVNJ99aZY/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5579035"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5579040"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ilcpueoqvkaj"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/thuo64sxo8ih"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-aq2kbsj3df5a.html"
+          },
+          {
+            "fansub_id": 13,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-79m8bqkygrpt.html"
+          }
+        ],
+        "added_date": "2026-07-27T04:58:10.690810"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49458,
@@ -67,452 +471,92 @@
         ]
       }
     ],
-    "episodes": 11
+    "episodes": 11,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 136804,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136804-yHC8D64UTiRA.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136804-7FVftG67FPBc.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dVZqkBsp_VrDE26iVPPgAuLisBs5_cbN/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5507461"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5507481"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1MEOdG8iXcckHq4N5wVamT1fRKDdOywQ3/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5530645"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5530650"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 51.436996,
-          "end": 141.437
-        }
-      },
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1XeXR4te7UMXWOowb_LqhNqDzMo4fF949/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5530646"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5530652"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 76.54797,
-          "end": 166.54797
-        }
-      },
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WSsvk1TL4f1Z4y1gP_6ofJukP_FqE5cy/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5538205"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5538210"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/e8brwkpy77ys"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ba1xifsiq6xk"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 90.00667,
-          "end": 180.00667
-        },
-        "ed": {
-          "start": 1320,
-          "end": 1416
-        }
-      },
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GjUMTZWzqHlqHd6qLKv52S2Li1YlTYXE/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5538206"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5538212"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/iv1e445ywqe2"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/pqh5525zh39y"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 21.410685,
-          "end": 111.41068
-        }
-      },
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/19wWjQGI331I4QfaEfmCeUtorhGRNnOVw/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5538207"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5538211"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/hfugv0lpqj00"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/7w01tx27lw0x"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1287,
-          "end": 1376
-        }
-      },
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17LsOQoHELm_Af-KGBU51X3stct5KGg3m/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5552730"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/f8o0zzpr2r9k"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-x9ue667f62l5.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 46.85011,
-          "end": 136.85011
-        },
-        "ed": {
-          "start": 1320,
-          "end": 1420
-        }
-      },
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13bLH9fTvJ5_jYRREtDP5V9TZVfuaBGE7/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5552731"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/hp3t3wtriv00"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3n4csdvig2nh.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 80.792564,
-          "end": 170.79256
-        },
-        "ed": {
-          "start": 1320,
-          "end": 1409
-        }
-      },
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11r64GRMQB08OZXVqkKzUFhLlsH4KRXF_/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5563348"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5563353"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-t0y74j6r8mbx.html"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-otwhqceylo7p.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 47.5388,
-          "end": 137.5388
-        }
-      },
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1unCnu0WfzEluC8oUtvNPFrMxVB7rHUPe/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5579034"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5579039"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/orqguv5oef6h"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/foyabwdg14kf"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-km7j1jopnqmw.html"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mmbe1oatulm3.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 62.527832,
-          "end": 152.52783
-        },
-        "ed": {
-          "start": 1320,
-          "end": 1409
-        }
-      },
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3 11. Bölüm Final",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 13,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1adysUebtzaKIpyoKuJw2U8YGVNJ99aZY/preview"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5579035"
-        },
-        {
-          "fansub_id": 13,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5579040"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/ilcpueoqvkaj"
-        },
-        {
-          "fansub_id": 13,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/thuo64sxo8ih"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-aq2kbsj3df5a.html"
-        },
-        {
-          "fansub_id": 13,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-79m8bqkygrpt.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:58:10.690810",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 65844,
     "type": "tv",

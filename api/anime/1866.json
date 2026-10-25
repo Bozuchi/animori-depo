@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Okazaki Takeshi'nin 1990 yılında yayımlanan mangasını esas almaktadır.\n\nBir aile trajedisinin ardından Kagura, teselli için çok sevdiği arkadaşı Asami ile kalır. Bu sırada manevi dünyada süregelen bir savaş vardır. \"Elementalors\" olarak bilinen varlıklar, doğanın bireysel güçlerini dengeleyerek dünyadaki uyumu sürdürmek adına ruhlardan gelen gücü çağırırlar. Bir Su Elementaloru olan Lord Shiki, neredeyse Dünya'yı yok ettiğinden hapsedilen kızını kurtarmak adına sahip olduğu özel güçleri kullanmak için Asami'yi kaçırır. Kagura, kendisinin de çok güçlü bir Elementalor olduğunun farkına varır. Asami'yi kurtarmak ve Lord Shiki'nin kızını serbest bırakıp büyük bir dengesizliğe neden olmasını engellemek adına diğer Elementalor'larla güçlerini birleştirmelidir.",
-    "slug": "seirei-tsukai"
+    "slug": "seirei-tsukai",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 1866,
@@ -48,41 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 1866,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1866-yDHuwdkjYMK9.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Seirei Tsukai Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5255481"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/nggckufp6b09"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-v6uhw40oyd8v.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T07:19:04.191702",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 409379,
     "type": "movie",

@@ -4,7 +4,132 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Paraila savaş örgütündeki bir ajandı fakat aniden gezegenlerin Yargıtay’ı onu ihanetle suçladı ve hapisten kaçarak, kaçak olarak yaşanmaya zorladı. Şimdi o kendine, üyeleri; cahil bir okul öğretmeni, bazuka seven bir kız ve Paraila'nın sağ kolunun da bulunduğu bir takım kuruyor. Onlar Paraila'nın düşmanlarına karşı savaşacaklar ve uzay kanunlarından kaçarak Dünya'ya gitmeye çalışacaklar.",
-    "slug": "tenamonya-voyagers"
+    "slug": "tenamonya-voyagers",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Tenamonya Voyagers 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jHgPyi0n3mFF0sjUdGfUUs1Q0NtDTFIB/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656251"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439056"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8h8q33twbgar.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:37:12.682981"
+      },
+      {
+        "episode_number": 2,
+        "title": "Tenamonya Voyagers 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10mnmEr4g0bhwrsSZblqZ4PrhWax23DFs/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656252"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439058"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2aza4cy3iq0o.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:37:12.682981"
+      },
+      {
+        "episode_number": 3,
+        "title": "Tenamonya Voyagers 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1thnboTxuVQtEQzZYKTtPGfsCQwi_t46Z/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656253"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439059"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9nmfkj1k7vuk.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:37:12.682981"
+      },
+      {
+        "episode_number": 4,
+        "title": "Tenamonya Voyagers 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dFAFNLnS1Pyir7MX0FqUF_XvRejQsn4L/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656254"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361925"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439062"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4095936"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-y0eev775hjeb.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3e4ymgmql389.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:37:12.682981"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 773,
@@ -41,154 +166,43 @@
       1
     ],
     "relations": [],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 773,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx773-ZRJZxMqYqqS9.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tenamonya Voyagers 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jHgPyi0n3mFF0sjUdGfUUs1Q0NtDTFIB/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656251"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439056"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-8h8q33twbgar.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:37:12.682981",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tenamonya Voyagers 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10mnmEr4g0bhwrsSZblqZ4PrhWax23DFs/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656252"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439058"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2aza4cy3iq0o.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:37:12.682981",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tenamonya Voyagers 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1thnboTxuVQtEQzZYKTtPGfsCQwi_t46Z/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656253"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439059"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-9nmfkj1k7vuk.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:37:12.682981",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Tenamonya Voyagers 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1dFAFNLnS1Pyir7MX0FqUF_XvRejQsn4L/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656254"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9216453574685361925"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4439062"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4095936"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-y0eev775hjeb.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-3e4ymgmql389.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T15:37:12.682981",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 105645,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hayate no Gotoku! serisine ait OVA bölümdür.",
-    "slug": "hayate-no-gotoku-atsu-ga-natsuize-mizugi-hen"
+    "slug": "hayate-no-gotoku-atsu-ga-natsuize-mizugi-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 5521,
@@ -56,56 +57,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 5521,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5521-N8tWTYYE5nCi.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5521.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hayate no Gotoku! OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AYu8gfGOJXHay41w7sQmJgiIbXzyeWwN/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1504525"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4067031"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2agw71rj3jct.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mii5rxfhmqrg.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ilm8zmgq"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T02:37:50.000532",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 56355,
     "type": "tv",

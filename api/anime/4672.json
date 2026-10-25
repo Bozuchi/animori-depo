@@ -4,7 +4,8 @@
     "puan": "7.58",
     "bolum_durumu": "1/1",
     "ozet": "2029 yılında dünya günlük yaşamın her alanına yayılmış sınırsız bir elektronik ağ ile birbirine bağlıdır. İnsanlar, cyborglar, robotlar ve yapay zekaya sahip programlar bu ağın birer parçasıdır. İnsanları diğer yaşam formlarından ayıran tek ayırt edici özellik ise sahip oldukları hayaletlerdir. Hayalete sahip her türlü canlı, tamamı ile sibernetik bir vücuda sahip olsa da insan olarak tanımlanmakta ve insana dair her türlü hak ve özgürlüklerden yararlanabilmektedir. Ancak, siber suçlular hayaletleri yönlendirmekte, algısal verilere ulaşılabilmekte hatta hafızalar silinip üzerlerine yenilerini yazılabilmektedir. Böyle bir ortamda, insanlığın, bilincin ve varoluşun bilinen tanımları bile netliklerini yitirmektedir.\n\nJaponya’nın Ulusal Kamu Güvenliği Komisyonu teşkilatında yarı özerk konumda faaliyet gösteren 9. Şube personeli yukarıda anılan suçlara karşı mücadele eden özel bir birimdir. Teşkilatın harekat lideri, vücudu tamamı ile sibergenetik organ ve uzuvlardan oluşan Binbaşı Motoko Kusanagi ve ekibi, siber suçlulara karşı yürüttükleri operasyonlar esnasında Kuklacı adındaki oldukça tehlikeli ve kimliği tespit edilemeyen bir siber suçluya ulaşır. Motoko Kusanagi ve 9. Şube çok geçmeden Kuklacının gerçek kimliği ve amaçları ile karşı karşıya kalacaktır.",
-    "slug": "ghost-in-the-shell-2-0"
+    "slug": "ghost-in-the-shell-2-0",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 4672,
@@ -52,41 +53,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 4672,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n4672-sBjtUTvKDovt.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4672-NFXxVPGXSZQB.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ghost In The Shell 2.0",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nDnQE5lZBUZFZtxx8DjD4GcQCdnY8mVz/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933015470"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vuescuz8h1u8.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:08:11.431442",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1095,
     "type": "tv",

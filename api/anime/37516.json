@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Shinjuku'da özel dedektiflik hizmeti veren Ryo Seaba'nın bir gün kapısını peşinde kötü adamlar olan bir kız çalar. Kız Ryo'dan koruması olmasını talep eder ve o da bu talebi kabul eder. Kızın peşinde neden birileri vardır? Yakın zamanda bir trafik kazası sonucu hakkın rahmetine kavuşmuş babasıyla bu işin bir alakası var mıdır? Ryo ve ortağı Kaori Makimura bu davayı çözmeye çalışırken beklenmedik olaylar olacaktır: Kaori'nin çocukluk arkadaşıyla bir araya gelmesi, Shinjuku şehrinin yok olma tehlikesiyle karşı karşıya gelmesi...",
-    "slug": "city-hunter-movie-shinjuku-private-eyes"
+    "slug": "city-hunter-movie-shinjuku-private-eyes",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37516,
@@ -55,56 +56,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101345,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101345-dz3tsmXryPJj.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101345-lHRKxtalYUm4.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "City Hunter: Shinjuku Private Eyes Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1QFDLU72SOIbI_JKQ0guEb5gDkInHkXlH/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850365"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6840"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3775872"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/vb2xrv7t"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-z1ryi41l5n7a.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T16:05:56.220607",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 540141,
     "type": "movie",

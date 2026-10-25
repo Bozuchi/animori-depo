@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Oneechan Gokko",
-    "slug": "oneechan-gokko"
+    "slug": "oneechan-gokko",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63396,
@@ -44,6 +45,22 @@
           63363
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Phone",
+        "aired": "Jan 31, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Investigation",
+        "aired": "Oct 15, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -58,27 +75,5 @@
     "episode_offset": 0,
     "name": "Playing Sister"
   },
-  "synopsis_tr": "Uzak gelecekte Kagami Köyü, kentsel alanlardaki son derece gelişmiş bilim ve teknolojinin geride bıraktığı bir banliyö dağ köyüdür. \"Eğer iyi davranmazsan, bir benzerin gelecektir.\" Eski bir efsanenin hâlâ devam ettiği bu köyde yaşayan ortaokul öğrencisi Higure Akane, bir yıl sonra hastaneden çıkan ablası Higure Sui'ye yeniden kavuşmayı sabırsızlıkla bekliyordu. Ancak kız kardeşinin hastaneden çıkmasından kısa bir süre sonra Akane'ye bir telefon gelir. \"O evdeki kişi ablanız değil.\"(Kaynak: Resmi site, tercüme)",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Phone",
-      "episode_number": 1,
-      "aired": "Jan 31, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:10:41.163489"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Investigation",
-      "episode_number": 2,
-      "aired": "Oct 15, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-19T08:46:59.740887"
-    }
-  ]
+  "synopsis_tr": "Uzak gelecekte Kagami Köyü, kentsel alanlardaki son derece gelişmiş bilim ve teknolojinin geride bıraktığı bir banliyö dağ köyüdür. \"Eğer iyi davranmazsan, bir benzerin gelecektir.\" Eski bir efsanenin hâlâ devam ettiği bu köyde yaşayan ortaokul öğrencisi Higure Akane, bir yıl sonra hastaneden çıkan ablası Higure Sui'ye yeniden kavuşmayı sabırsızlıkla bekliyordu. Ancak kız kardeşinin hastaneden çıkmasından kısa bir süre sonra Akane'ye bir telefon gelir. \"O evdeki kişi ablanız değil.\"(Kaynak: Resmi site, tercüme)"
 }

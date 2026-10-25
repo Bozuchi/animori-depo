@@ -4,7 +4,8 @@
     "puan": "9.06",
     "bolum_durumu": "1/1",
     "ozet": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II animesinin OVA bölümüdür.",
-    "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-ova"
+    "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-ova",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40453,
@@ -46,49 +47,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 112125,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112125-ZnYfoMkGyTDh.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112125-iho4D7GD13at.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 30,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1HeUgIALVwqaBD8t-d0X9lPse5rA3ybLq/preview"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4433416"
-        },
-        {
-          "fansub_id": 30,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3824163"
-        },
-        {
-          "fansub_id": 30,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mryxfhbug62n.html"
-        },
-        {
-          "fansub_id": 30,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-4d6m06v3rcej.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:38:44.696454",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

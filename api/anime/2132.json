@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "2007 yılında Cinsel Sapkınlık Cezalandırılması Yasası yürürlüğe girer. Şehir, koruyucu giysiler giyen bir filo ile çevrilidir ve sapık gibi görünenleri tutuklamaya başlarlar.",
-    "slug": "inukami-the-movie-tokumei-reiteki-sousakan-karina-shirou"
+    "slug": "inukami-the-movie-tokumei-reiteki-sousakan-karina-shirou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2132,
@@ -53,56 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2132,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2132-6P4KBX5DGErf.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Inukami! The Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11839BMrZwSvSTxR1StYa870FRBIANEio/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iIJ3CxjBoQF56eJ4ZPLdMh5-WzYyJ8wt/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911175"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4524094"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-8f6g9jhcxro3.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-639t2xw43p1a.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:39:56.709558",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 34808,
     "type": "tv",

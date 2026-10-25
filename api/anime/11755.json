@@ -4,7 +4,8 @@
     "puan": "7.73",
     "bolum_durumu": "1/1",
     "ozet": "Dünyanın farklı yerlerindeki dokuz sıradan insan kaçırılır ve silah olarak kullanılmak üzere cyborglara dönüştürülür. Dokuz cyborg isyan çıkarır; adalet ve dünya barışı adına yaratıcılarıyla savaşmaya başlarlar. Yıllar sonra, dokuz cyborg hala aynı olmalarına rağmen, evine dönmek istemeyen bazı cyborglar olur. Dünya üzerinde adaleti kurmak ve insanlığı korumak adına \"Onu sesi\" dedikleri Tanrı'ya karşı bu savaşı kazanabilecekler mi?",
-    "slug": "009-re-cyborg"
+    "slug": "009-re-cyborg",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 11755,
@@ -70,61 +71,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 11755,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11755-soQ5wd9wP0zS.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11755-1iVlPw2ggApz.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "009 Re:Cyborg",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1iFvq-HnTG7qgUqFGqPRgou96UtTkrtVZ/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WWtgRg4tFCX5wlE78ZAsHt2PMmgVJRrL/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388378477"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/3549.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4507055"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/bassmnsh"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xhbfk9yuzrss.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-17T05:39:17.716255",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 127544,
     "type": "movie",

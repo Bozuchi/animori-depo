@@ -4,7 +4,8 @@
     "puan": "8.14",
     "bolum_durumu": "1/1",
     "ozet": "Konusunu 1952’de yayımlanan Mary Norton’un yazdığı “The Borrowers” adlı romandan almaktadır. Daha önce 2 adet filmi ve dizisi çekilen romana Miyazaki'nin el atmasıyla Stüdyo Ghibli tarafından animeye uyarlanmıştır. Filmin müziği Fransız sanatçı Cécile Corbel tarafından bestelenmiştir. Orjinal hikaye 2010 Japonya'sına uyarlanmış olup, boyları 10cm civarı olan aşırıcılar insanların evlerine yerleşip dikkat çekmeyecek miktarda ihtiyaçları olan besin ve malzemeleri çalarak(aşırarak) hayatlarını sürdürmektedirler. Filmde Arrietty isimli aşırıcı genç bir kızın eve yeni gelen Shu isimli çocukla tanışması ardından yaşadıkları anlatılmaktadır... Miyazaki'nin çoğu filmi gibi monoton sayılabilecek bir havada ilerlemesine rağmen sürükleyici ve eğlenceli bir yapım...",
-    "slug": "karigurashi-no-arrietty"
+    "slug": "karigurashi-no-arrietty",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 7711,
@@ -37,51 +38,14 @@
       21
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 7711,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n7711-sxtXcjmMKfaF.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7711-IDDzqp6d3tQz.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Karigurashi No Arrietty",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yVt1JLZgfBv0hQUvP1pdI37BOpqsxKJp/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Z3jUbXcW6qV8Wbt5Gl2oDFCtaF1HV6K2/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931910001"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/9p8xnrl2"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hyyhiz2mb8da.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T00:55:03.662641",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 51739,
     "type": "movie",

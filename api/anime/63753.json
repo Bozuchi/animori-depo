@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Kanata kara",
-    "slug": "kanata-kara"
+    "slug": "kanata-kara",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 63753,
@@ -46,6 +47,22 @@
           923
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Awakening",
+        "aired": "Oct 5, 2026",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Language Barrier",
+        "aired": "Oct 12, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -60,27 +77,5 @@
     "episode_offset": 0,
     "name": "From Far Away"
   },
-  "synopsis_tr": "Noriko Tachiki bir süredir güzel bir fantastik ülkenin hayalini kuruyor, ancak arkadaşları bunun sadece onun hayal gücü olduğunu düşünüyor. Bir gün Noriko eve giderken kese kağıdı görünümündeki bir bombanın tam önünde patladığını görür. Ancak ölmek yerine garip bitki ve yaratıklarla dolu gizemli bir ormana nakledilir. Ormanda gezinmeye başladığında Noriko, aniden dev, solucan benzeri bir canavarın saldırısına uğrar. Şans eseri, onun dilini konuşmayan kılıç ustası Izark Kia Tarj tarafından kurtarılır. Tek başına hayatta kalma gücünden yoksun olan Noriko, yabancı ülkenin dilini öğrenme ve Izark'a daha faydalı olma fırsatını değerlendirerek metanetli kurtarıcısının peşinden gitmeye karar verir. Onun bilmediği, Noriko eski bir kehanetin çok önemli bir parçasıdır. O, \"Uyanış\"tır; kaderi \"Gökyüzü Şeytanı\" olarak bilinen en büyük kötülüğü serbest bırakmak olan bir varlıktır. Nüfuz sahibi kişiler Noriko'yu sözde güçleri için yakalama planları yaparken, hem o hem de Izark kendi başlarının çaresine bakmalı ve kaosla dolu bir geleceğin üstesinden gelmelidir.[MAL Rewrite tarafından yazıldı]",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "The Awakening",
-      "episode_number": 1,
-      "aired": "Oct 5, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-06T15:09:02.914890"
-    },
-    {
-      "turkanime_title": "2. Bölüm",
-      "title": "Language Barrier",
-      "episode_number": 2,
-      "aired": "Oct 12, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-14T08:39:58.212413"
-    }
-  ]
+  "synopsis_tr": "Noriko Tachiki bir süredir güzel bir fantastik ülkenin hayalini kuruyor, ancak arkadaşları bunun sadece onun hayal gücü olduğunu düşünüyor. Bir gün Noriko eve giderken kese kağıdı görünümündeki bir bombanın tam önünde patladığını görür. Ancak ölmek yerine garip bitki ve yaratıklarla dolu gizemli bir ormana nakledilir. Ormanda gezinmeye başladığında Noriko, aniden dev, solucan benzeri bir canavarın saldırısına uğrar. Şans eseri, onun dilini konuşmayan kılıç ustası Izark Kia Tarj tarafından kurtarılır. Tek başına hayatta kalma gücünden yoksun olan Noriko, yabancı ülkenin dilini öğrenme ve Izark'a daha faydalı olma fırsatını değerlendirerek metanetli kurtarıcısının peşinden gitmeye karar verir. Onun bilmediği, Noriko eski bir kehanetin çok önemli bir parçasıdır. O, \"Uyanış\"tır; kaderi \"Gökyüzü Şeytanı\" olarak bilinen en büyük kötülüğü serbest bırakmak olan bir varlıktır. Nüfuz sahibi kişiler Noriko'yu sözde güçleri için yakalama planları yaparken, hem o hem de Izark kendi başlarının çaresine bakmalı ve kaosla dolu bir geleceğin üstesinden gelmelidir.[MAL Rewrite tarafından yazıldı]"
 }

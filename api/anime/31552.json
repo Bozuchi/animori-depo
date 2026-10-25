@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Durarara!!x2 Ten animesinin özel bölümüdür.",
-    "slug": "durarara-x2-ten-onoroke-chakapoko"
+    "slug": "durarara-x2-ten-onoroke-chakapoko",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31552,
@@ -51,59 +52,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21331,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21331-5gtFE1JYxL2O.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Durarara!!x2 Ten: Onoroke Chakapoko",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 46,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1VJKkI9ljp8RopopypxaJ9i3dWIEUMTgB/preview"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018050"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847086"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4073740"
-        },
-        {
-          "fansub_id": 46,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2331688"
-        },
-        {
-          "fansub_id": 46,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-g2c5r7r9r6fn.html"
-        },
-        {
-          "fansub_id": 46,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8sonr1rcs9hx.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:47:32.900118",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

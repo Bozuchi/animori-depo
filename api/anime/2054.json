@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Carol, babasının çello çalan Big Ben'in sesi ve en sevdiği grup Gaball Screen'in konseri gibi müziğin her yer kaybolduğunu fark edene kadar hayatı yeterince normal görünen bir genç kızın hikayesini anlatıyor. Bazı gizemli sesleri duyduktan sonra Carol, müziği Dünya'dan çalan kötü canavarlara karşı savaşması gereken fantastik bir dünyaya taşınır. Üç atılgan kahramanla tanışır ve bu kahramanlarla yardımlaşır. Bu kahramanları isimleri ise şöyledir: Clark, Tico ve Flash",
-    "slug": "carol"
+    "slug": "carol",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2054,
@@ -40,34 +41,12 @@
       207
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2054,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2054-B0kxRdJ9QeQY.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Carol OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_80SVCVXsavgyaJbMtMhd-YP8KeSBqmv/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xqo086eua5jn.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T08:41:39.469539",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

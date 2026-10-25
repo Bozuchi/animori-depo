@@ -4,7 +4,233 @@
     "puan": "0.00",
     "bolum_durumu": "12/12",
     "ozet": "Aharen-san wa Hakarenai animesinin ikinci sezonudur.",
-    "slug": "aharen-san-wa-hakarenai-season-2"
+    "slug": "aharen-san-wa-hakarenai-season-2",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Aharen-san wa Hakarenai Season 2 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1j70Eh_d8zLPPRBJPwRPKGrVF7B9OhLX0/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5871301"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 2,
+        "title": "Aharen-san wa Hakarenai Season 2 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KlsXXfnG6pqhU7K2vQllenle-WZtfOpD/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5879221"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 3,
+        "title": "Aharen-san wa Hakarenai Season 2 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bjitAOIycN0Y9SVkTl3UXKrptw_qpVxq/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5887521"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 4,
+        "title": "Aharen-san wa Hakarenai Season 2 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/178ZXtUZ5Y_TRZnnVtOIMtT40j4rDb72z/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5895530"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 5,
+        "title": "Aharen-san wa Hakarenai Season 2 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16Qi6CEprWCI7-dmR8HRR5PNl1_FKlWca/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/denizkeskinupload/video/embed/_myvideo/55"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5902366"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/gjyjou3l"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 6,
+        "title": "Aharen-san wa Hakarenai Season 2 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SGyGYBrhhYcA4TXxExiFVd4YR22IPXNL/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5909731"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 7,
+        "title": "Aharen-san wa Hakarenai Season 2 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PxLfj7lQnswZzgrrRbXOAqG2UmGbuWf1/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5916652"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 8,
+        "title": "Aharen-san wa Hakarenai Season 2 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1nEbP2JZgMXsocyZWojPVVy-PZbmqF9nI/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/denizkeskinupload/video/embed/_myvideo/64"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5922406"
+          },
+          {
+            "fansub_id": 11,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-u2we4hrz8pz5.html"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 9,
+        "title": "Aharen-san wa Hakarenai Season 2 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1cOMbIZt5Mc46Wqe2t_dpfHXFJj8-1Hwg/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5927974"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 10,
+        "title": "Aharen-san wa Hakarenai Season 2 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/113M53T3bJ7AJyw5XYDdhci4dCAY07yBg/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5932877"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 11,
+        "title": "Aharen-san wa Hakarenai Season 2 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1US8DE0811WzfRDaD1pHgjsUFoyqPKIMI/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5938259"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      },
+      {
+        "episode_number": 12,
+        "title": "Aharen-san wa Hakarenai Season 2 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/184EczB1HXnERPtLQiE5-lCKH8GA6-2B4/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5944325"
+          }
+        ],
+        "added_date": "2026-07-20T03:04:30.429437"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59466,
@@ -62,287 +288,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 179979,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179979-1HbnatpG0e4R.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179979-OiIKSkhJRmvo.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1j70Eh_d8zLPPRBJPwRPKGrVF7B9OhLX0/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5871301"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1KlsXXfnG6pqhU7K2vQllenle-WZtfOpD/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5879221"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bjitAOIycN0Y9SVkTl3UXKrptw_qpVxq/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5887521"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/178ZXtUZ5Y_TRZnnVtOIMtT40j4rDb72z/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5895530"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/16Qi6CEprWCI7-dmR8HRR5PNl1_FKlWca/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/denizkeskinupload/video/embed/_myvideo/55"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5902366"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/gjyjou3l"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SGyGYBrhhYcA4TXxExiFVd4YR22IPXNL/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5909731"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PxLfj7lQnswZzgrrRbXOAqG2UmGbuWf1/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5916652"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nEbP2JZgMXsocyZWojPVVy-PZbmqF9nI/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "MAIL",
-          "url": "https://my.mail.ru//mail/denizkeskinupload/video/embed/_myvideo/64"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5922406"
-        },
-        {
-          "fansub_id": 11,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-u2we4hrz8pz5.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1cOMbIZt5Mc46Wqe2t_dpfHXFJj8-1Hwg/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5927974"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/113M53T3bJ7AJyw5XYDdhci4dCAY07yBg/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5932877"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1US8DE0811WzfRDaD1pHgjsUFoyqPKIMI/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5938259"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aharen-san wa Hakarenai Season 2 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 11,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/184EczB1HXnERPtLQiE5-lCKH8GA6-2B4/preview"
-        },
-        {
-          "fansub_id": 11,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5944325"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-20T03:04:30.429437",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 130237,
     "type": "tv",

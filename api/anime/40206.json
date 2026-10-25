@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Fate/Grand Order: Zettai Majuu Sensen Babylonia serisinin 0. bölümüdür.",
-    "slug": "fate-grand-order-zettai-majuu-sensen-babylonia-initium-iter"
+    "slug": "fate-grand-order-zettai-majuu-sensen-babylonia-initium-iter",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40206,
@@ -44,49 +45,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 110851,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110851-cdideQ4O7mgV.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110851-cGL0eaATevX3.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lwaa1dSu0_GIzwvbZ_u_4myL-7zve-Ch/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1xMaIJcO_-EFScm01ayWfvSkdiTVaz5xM/preview"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140718783"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/axl6sizq"
-        },
-        {
-          "fansub_id": 22,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ilksxok1eupd.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T01:20:19.430267",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

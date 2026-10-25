@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yaz tatilinin son gününde Kokona Aoba, uzun zamandır iple çektiği vakti annesiyle geçirmeye hazırdır ama annesinin işleri sebebiyle planlar iptal edilir.\nSonbahar mevsiminin ortalarında ise odasında bulduğu garip bir meşe palamudunun neden orada olduğunu hatırlayamaz. Bu meşe palamudu, eski anıları canlandıracak ve küçüklüğüne dair unuttuğu bir olayı hatırlatacaktır.",
-    "slug": "yama-no-susume-omoide-present"
+    "slug": "yama-no-susume-omoide-present",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 35673,
@@ -53,56 +54,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 98868,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98868-wtlc1rqm24Vx.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98868-65Vw0ZWuQ3J4.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yama no Susume: Omoide Present OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/18GbjqzStapLQcp-OhZiCG_AlfozdBOVN/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659981"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1502"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4459187"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3592644"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/i2akt83v"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T17:29:57.672779",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 53918,
     "type": "tv",

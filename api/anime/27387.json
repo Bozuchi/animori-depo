@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Tokyo Olimpiyatlarinda terorist saldirisindan meydana gelen tahribattan bes yil sonra Neo Tokyo da 2025te Under the Dog kuruldu. Trajedinin ardindan BM gizli operasyon birimi kurdu, saldiridan sorumlu olanlari ortadan kaldirdi.Anthea Kallenberg, İsvec kokenli bir kiz bu elit grubun bir üyesi olarak savaş yetenekleri bilenmis ve ölümcül bir suikastçi haline gelmiştir, ama bunlari yaparken gercekte kim oldugu hakkinda uzlasmasi gerekir.",
-    "slug": "under-the-dog"
+    "slug": "under-the-dog",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 27387,
@@ -46,66 +47,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21002,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21002-iks4R0GDtynD.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21002-dbC7EUSwlgCg.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Under the Dog",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 92,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1TMNRV_iuzFzMMNUR2EtunEa5qd__dR-g/preview"
-        },
-        {
-          "fansub_id": 92,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/y6ljftne"
-        },
-        {
-          "fansub_id": 22,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377559"
-        },
-        {
-          "fansub_id": 22,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2655592"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377561"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzlesubs/_myvideo/53.html"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2655618"
-        },
-        {
-          "fansub_id": 26,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/wnbmbqhz"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T19:34:22.888101",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 291015,
     "type": "movie",

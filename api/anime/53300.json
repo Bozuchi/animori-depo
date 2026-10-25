@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/13",
     "ozet": "Güncellenecektir",
-    "slug": "ojou-to-banken-kun"
+    "slug": "ojou-to-banken-kun",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 53300,
@@ -48,7 +49,8 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": []
   },
   "anilist": {
     "id": 155527,

@@ -4,7 +4,66 @@
     "puan": "0.00",
     "bolum_durumu": "1/2",
     "ozet": "Himouto! Umaru-chan serisine ait OVA bölümlerdir.",
-    "slug": "himouto-umaru-chan-ova"
+    "slug": "himouto-umaru-chan-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Himouto! Umaru-chan OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1b7Cu_a3CB6-uFZWk_SxLGMcZPhABDIbX/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/1093.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271187785"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4505377"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2054771"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2carq60qdnl3.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/o1cev2rw"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-w8mkz1u14snp.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 0.009,
+            "end": 90.042
+          },
+          "ed": {
+            "start": 1335.042,
+            "end": 1425
+          }
+        },
+        "added_date": "2026-07-26T03:44:12.292679"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30991,
@@ -54,75 +113,22 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21327,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21327-1qTi4wb3XyxB.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Himouto! Umaru-chan OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1b7Cu_a3CB6-uFZWk_SxLGMcZPhABDIbX/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/1093.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271187785"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4505377"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2054771"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-2carq60qdnl3.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/o1cev2rw"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-w8mkz1u14snp.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 0.009,
-          "end": 90.042
-        },
-        "ed": {
-          "start": 1335.042,
-          "end": 1425
-        }
-      },
-      "added_date": "2026-07-26T03:44:12.292679",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 67126,
     "type": "tv",

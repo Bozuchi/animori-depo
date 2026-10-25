@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Manganın 10. yılını kutlamak için düzenlenen “Nanomori Ortaokulu ♪ Doğum günün~ Kutlu~ olsun~” adlı etkinlikte duyurulan OVA bölümüdür.",
-    "slug": "yuru-yuri-ten"
+    "slug": "yuru-yuri-ten",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 37773,
@@ -60,61 +61,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 102090,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102090-owqDmPD29vJy.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102090-unOFHc0pmYAr.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yuru Yuri Ten Ova",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 121,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/693"
-        },
-        {
-          "fansub_id": 121,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4025385"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/8311779856937387185"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359669459"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4774431"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-rbj9gv0vwjiz.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-19y37cj1z3ia.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:18:39.992566",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 52891,
     "type": "tv",

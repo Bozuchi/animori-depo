@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Şehirden iki beyefendi ava çıkar. Dağ yolunda kaybolduktan sonra ucuz bir restoran bulurlar. Ama her şey göründüğü gibi değildir.",
-    "slug": "chuumon-no-ooi-ryouriten-1993"
+    "slug": "chuumon-no-ooi-ryouriten-1993",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 30967,
@@ -45,54 +46,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 102315,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102315-8ZffGJ9fBMV3.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Chuumon no Ooi Ryouriten (1993)",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1yiupzQ9WyXqGBge1EmVBMmRVcx2RAswg/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271191968"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4500025"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/8pd5oilu"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ukfq3dk6"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-boutgezqm9ce.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:55:32.619697",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

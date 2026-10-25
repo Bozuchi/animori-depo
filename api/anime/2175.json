@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kino, iki kısma ayrılmış bir ülkeye gidiyor: çok temiz ve huzurlu bir şehir, çevredeki arazilerden uzakta. Kino, sürekli araştırılmakta olan bir hastalığa yakalanan küçük bir kızla karşılaşır. Ancak kız, araştırmanın nasıl yapıldığını bilmiyor.",
-    "slug": "kino-no-tabi-the-beautiful-world-byouki-no-kuni-for-you"
+    "slug": "kino-no-tabi-the-beautiful-world-byouki-no-kuni-for-you",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2175,
@@ -54,61 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2175,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2175-BUdrUgQGawTa.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2175-ODWaMrFEJVCP.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1n6Rx_3FB1WZk1R0IMqXLtE2em7B76n5c/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271194106"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/702"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4513062"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-hu7djbzahlh8.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/310var1j"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-o7m8c99bbdvl.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T03:57:00.140958",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 34166,
     "type": "tv",

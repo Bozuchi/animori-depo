@@ -4,7 +4,8 @@
     "puan": "8.56",
     "bolum_durumu": "1/1",
     "ozet": "Koyom, gariplikler uzmanı Oshino Meme'nin yardımı ile üç güçlü vampir avcısı Dramaturgy, Episode ve Gulliotine-Cutter'ı yener.\nTekrar insan olabilmek için Kiss-Shot-Arceloa-Orion-Heart-Under-Blade'in tüm uzuvlarını toplayarak karşısına çıktığında Kiss-Shot ona vampir, gecelerin yaratığı, olmanın soğuk gerçeğini gösterir. Yaptıklarını geri alamayan Koyomi pişmanlık içinde gerçeklikle yüzleşirken \"arkadaşı\" Hanekawa, karşısına bir planla çıkagelir.",
-    "slug": "kizumonogatari-iii-reiketsu-hen"
+    "slug": "kizumonogatari-iii-reiketsu-hen",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 31758,
@@ -66,44 +67,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 21400,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21400-5zcYUeVBptdG.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21400-38ykNo3j4xXo.png"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Kizumonogatari III: Reiketsu-hen",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2979179"
-        },
-        {
-          "fansub_id": 34,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2979304"
-        },
-        {
-          "fansub_id": 301,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7706652796388377870"
-        },
-        {
-          "fansub_id": 301,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/1jpoyc2m"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:12:37.613167",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

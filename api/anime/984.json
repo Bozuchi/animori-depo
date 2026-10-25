@@ -4,7 +4,118 @@
     "puan": "0.00",
     "bolum_durumu": "3/2+",
     "ozet": "Ejder Topu Z: Sayyanları Yok Etme Planı. Dr. Layçi hayatta kalan Tsufruyandır ve hayatta kalan Sayyanlar olan Goku ve Vecita'dan intikam almayı planlıyordur.",
-    "slug": "dragon-ball-z-saiya-jin-zetsumetsu-keikaku"
+    "slug": "dragon-ball-z-saiya-jin-zetsumetsu-keikaku",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1nPY1jKSC6u6CeYvgascl2bxsh27bETy0/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5630274"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hqj0rc1g"
+          },
+          {
+            "fansub_id": 221,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CI7xh02fcI90cWGEV7v7aiQ6cMfrVPjN/preview"
+          },
+          {
+            "fansub_id": 221,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322425539"
+          },
+          {
+            "fansub_id": 221,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/o6slkwcmy2hy"
+          },
+          {
+            "fansub_id": 221,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nbqp3uqem4qt.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322425563"
+          },
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/jdx1r1rrbb96"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-khufv4gb7p3l.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:15:31.541827"
+      },
+      {
+        "episode_number": 2,
+        "title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qVWup5P1APk8gjmCrdP-xR8yR7vDIzcf/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5630275"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ozhg35s8"
+          },
+          {
+            "fansub_id": 221,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CU9_IM2WIakkUVSScegmvke0jreU834Q/preview"
+          },
+          {
+            "fansub_id": 221,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322425545"
+          },
+          {
+            "fansub_id": 221,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/4898784563322425556"
+          },
+          {
+            "fansub_id": 221,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/frcw2ia3k61x"
+          },
+          {
+            "fansub_id": 221,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/jn6jd75a3g72"
+          },
+          {
+            "fansub_id": 221,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-prxy4xzlxyrc.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:15:31.541827"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 984,
@@ -56,132 +167,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 984,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n984-XRo3dRArOP5B.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx984-TshBxryrxr5u.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1nPY1jKSC6u6CeYvgascl2bxsh27bETy0/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5630274"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/hqj0rc1g"
-        },
-        {
-          "fansub_id": 221,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CI7xh02fcI90cWGEV7v7aiQ6cMfrVPjN/preview"
-        },
-        {
-          "fansub_id": 221,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322425539"
-        },
-        {
-          "fansub_id": 221,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/o6slkwcmy2hy"
-        },
-        {
-          "fansub_id": 221,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nbqp3uqem4qt.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322425563"
-        },
-        {
-          "fansub_id": 1,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/jdx1r1rrbb96"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-khufv4gb7p3l.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:15:31.541827",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 115,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1qVWup5P1APk8gjmCrdP-xR8yR7vDIzcf/preview"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5630275"
-        },
-        {
-          "fansub_id": 115,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ozhg35s8"
-        },
-        {
-          "fansub_id": 221,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CU9_IM2WIakkUVSScegmvke0jreU834Q/preview"
-        },
-        {
-          "fansub_id": 221,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322425545"
-        },
-        {
-          "fansub_id": 221,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/4898784563322425556"
-        },
-        {
-          "fansub_id": 221,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/frcw2ia3k61x"
-        },
-        {
-          "fansub_id": 221,
-          "player": "FILEMOON",
-          "url": "https://bysesukior.com/e/jn6jd75a3g72"
-        },
-        {
-          "fansub_id": 221,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-prxy4xzlxyrc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T23:15:31.541827",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 12971,
     "type": "tv",

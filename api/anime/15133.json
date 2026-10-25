@@ -4,7 +4,145 @@
     "puan": "6.80",
     "bolum_durumu": "3/3",
     "ozet": "Segua krallığı Ninterdo imparatorluğu ile olan savaşını kaybetmektedir ki Gear adında bir genç olayların akışını bir anda tersine döndürür. Animedeki bütün karakterler Sega ve Nintendo'nun orjinal oyunlarının parodileridir, örn: Sonic the Hedgehog, Super Mario Bros., The Legend of Zelda vb.",
-    "slug": "aoi-sekai-no-chuushin-de"
+    "slug": "aoi-sekai-no-chuushin-de",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Aoi Sekai no Chuushin de 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DZQ4XunlUSCO66Nac6B4-XgFFnwiyv5Z/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016647"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1752105"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/n2edevqt"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0zasrm1eelwz.html"
+          }
+        ],
+        "added_date": "2026-07-23T02:16:08.329824"
+      },
+      {
+        "episode_number": 2,
+        "title": "Aoi Sekai no Chuushin de 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jogPOxPRiBFdftDy36-V4LsM40INMb5U/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852464"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4442969"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186652"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1752132"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-p9xtntkl8od5.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/y270wcdb"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hmnwvx1e9byr.html"
+          }
+        ],
+        "added_date": "2026-07-23T02:16:08.329824"
+      },
+      {
+        "episode_number": 3,
+        "title": "Aoi Sekai no Chuushin de 3. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14WHXsUhf7uhCejpKF0dsXP93hQtb2tu2/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659640"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186656"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4458345"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1752149"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-602h6egsetis.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/24ew3fta"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7qbajds5"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-upq8yajrjidg.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1099194"
+          }
+        ],
+        "added_date": "2026-07-23T02:16:08.329824"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 15133,
@@ -51,163 +189,36 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 15133,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15133-4OUuajvHrqbn.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Aoi Sekai no Chuushin de 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DZQ4XunlUSCO66Nac6B4-XgFFnwiyv5Z/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933016647"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1752105"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/n2edevqt"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-0zasrm1eelwz.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:16:08.329824",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aoi Sekai no Chuushin de 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1jogPOxPRiBFdftDy36-V4LsM40INMb5U/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985852464"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4442969"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186652"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1752132"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-p9xtntkl8od5.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/y270wcdb"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hmnwvx1e9byr.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:16:08.329824",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Aoi Sekai no Chuushin de 3. Bölüm Final",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 47,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14WHXsUhf7uhCejpKF0dsXP93hQtb2tu2/preview"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659640"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3186656"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4458345"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1752149"
-        },
-        {
-          "fansub_id": 47,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-602h6egsetis.html"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/24ew3fta"
-        },
-        {
-          "fansub_id": 47,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7qbajds5"
-        },
-        {
-          "fansub_id": 47,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-upq8yajrjidg.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1099194"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T02:16:08.329824",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 46227,
     "type": "tv",

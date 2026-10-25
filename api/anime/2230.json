@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/50",
     "ozet": "Çiçek gezegeninin kralı ölmek üzeredir ama kralın gücünün sembolü olan efsanevi Yedi Renkli Çiçek bulunmadan varis tahtı devralamamaktadır. Melekler, Cateau ve Noveau, dünyaya hem insan hem de çiçek melekleri soyundan gelen çiçek kızını bulmaya gönderilir. Daha sonra onlar Fransa'da Lunlun'u bulurlar.Onu bu uzun çiçeği bulma yolculuğuna ikna ederler. O insanların ve çiçek meleklerinin iy ve kötü yanlarını bilecektir. Daha sonra büyük bir sırra sahip Serge Flora adındaki adama aşık olacaktır.",
-    "slug": "hana-no-ko-lunlun"
+    "slug": "hana-no-ko-lunlun",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2230,
@@ -50,7 +51,8 @@
         ]
       }
     ],
-    "episodes": 50
+    "episodes": 50,
+    "episode_list": []
   },
   "anilist": {
     "id": 2230,

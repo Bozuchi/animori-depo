@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Madox - 01, Japon bir firma tarafından geliştirilen giyilebilir bir savaş robotudur. Japon özel tank bölümünden Kilgore Madox – 01’in testi için geliştirilen bir simülasyonda Madox’a karşı kaybeder ve bu kıyafeti kullananın bir bayan olması onu daha da çileden çıkarır.\n\nPrototipin nakli sırasında meydana gelen bir trafik kazası sonucunda prototip ortadan kaybolur. Üst düzey yöneticiler bu olayın bir terörist saldırısı olabileceğinden endişelenirlerken Madox’un test pilotu Elle Katsumoto, prototipi bulmak için hazırda beklemektedir. Şans eseri Madox’u bulan ve giyen Koji Sujimoto da birkaç yıl önce İngiltere’ye giden kız arkadaşının karşısına çıkmak için güzel bir fırsat bulmuştur. Ancak ilk öncelik hayatta kalmaktır…",
-    "slug": "metal-skin-panic-madox-01"
+    "slug": "metal-skin-panic-madox-01",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2461,
@@ -39,61 +40,14 @@
       72
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2461,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2461-VH2tMxZUh8H4.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Metal Skin Panic MADOX-01",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1QxGzvdG4hilFSTaVuV_PHd8x14oaocUO/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1-xwCoz7tIexpirw3UUUukhdZQDGxFgXa/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931909991"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4522687"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1150555"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-1zlcsnq7lpbe.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-u7i56oa7mh84.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T11:56:16.239689",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 62961,
     "type": "movie",

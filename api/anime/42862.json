@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "0/12",
     "ozet": "Otona no Bouguya-san serisinin 2. sezonudur.",
-    "slug": "otona-no-bouguya-san-ii"
+    "slug": "otona-no-bouguya-san-ii",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 42862,
@@ -51,7 +52,8 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 124136,

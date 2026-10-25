@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Ryo, bir köy halkı tarafından köylülere saldıran canavarı öldürmesi için gönderilir. Bu canavarın Bagi adında bir kedi-kadın olduğu söylenmektedir. Ryo canavarın su kaynağına gelmesini beklerken, Bagi'yle yazmayı öğrenen bir kedi yavrusu olarak ilk kez nasıl tanıştığını düşünür ve daha sonra onun gerçekte kim ve ne olduğunu keşfetmek için hayatına yeniden girer. Ama artık vahşileşmiştir ve geliş zamanı yaklaştıkça onu öldürme kararlılığını güçlendirir.",
-    "slug": "daishizen-no-majuu-bagi"
+    "slug": "daishizen-no-majuu-bagi",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2312,
@@ -38,25 +39,14 @@
       200
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2312,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2312-G97Vl9fgGV21.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2312-jAjilSdUc8Ba.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Daishizen no Majuu: Bagi",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-24T09:52:19.652017",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 34577,
     "type": "movie",

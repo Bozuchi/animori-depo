@@ -4,7 +4,8 @@
     "puan": "8.11",
     "bolum_durumu": "1/1",
     "ozet": "12.090 yılında vampirler, mutantlar ve iblisler gecelere hükmetmekte, insanlar ise gündüzleri yaşam savaşı verirken, geceleri hayatta kalmaya çalışmaktadırlar.\n\nDoris isimli kadın, Kont Magnus Lee tarafından ısırılmış ve bir vampire dönüşmeden önce çok az zamanı kalmıştır. Dönüşümünü engellemek için tek yol, kendisini ısıran vampirin ölmesidir. Yarı ölümlü, yarı vampir olan D, kontun öldürülmesi ve Doris'in insaniyetini kaybetmemesi için son umuttur.",
-    "slug": "vampire-hunter-d"
+    "slug": "vampire-hunter-d",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 732,
@@ -57,51 +58,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 732,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/732-us0j3KVEjWMe.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx732-dksIxsja9LX7.png"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Vampire Hunter D: 1985",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682366235"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/294.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=2567546"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/nbvkpypj"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-m3s9h33z6lzy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T15:03:08.080406",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 9463,
     "type": "movie",

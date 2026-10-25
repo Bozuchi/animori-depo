@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Münzevi Zarude ile ormanda büyüyen Koko, Ash ve Pikachu ile tanıştığında insanların dünyasını keşfeder ve yuvasını tehdit eden bir plandan haberdar olur.",
-    "slug": "pokemon-movie-23-koko"
+    "slug": "pokemon-movie-23-koko",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 40881,
@@ -62,46 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 114564,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114564-AMdt1tHgY7ZL.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114564-Imh6m5Tejii6.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Pokemon: Koko Movie 23",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 149,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ijqrDQcyBysdpqEmNFpw_B2heUN4KIN3/preview"
-        },
-        {
-          "fansub_id": 149,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656444"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10Oe4Ur_8UaqLTjzRPqRNivZEOEZTXJPs/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656443"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T02:27:09.032340",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 662708,
     "type": "movie",

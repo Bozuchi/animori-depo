@@ -4,7 +4,100 @@
     "puan": "0.00",
     "bolum_durumu": "3/13",
     "ozet": "Getter Robo Arc, kronolojik olarak beşinci Getter Robo serisidir.\n\nGetter Robo Go'dan birkaç yıl sonra geçen Dünya, artık kıyamet sonrası bir dünya. Artık yaşlanan bir bilim adamı olan Hayato, Profesör Saotome'nin başyapıtı Getter Robo Arc'ı tamamladı. Pilotluk, Ryoma'nın oğlu Takuma, insan-dinozor Kamui ve Tayel'in küçük kardeşi Bakü'dür. Reform Dinozor İmparatorluğu'nun yanı sıra, zaman ve uzaydan saldıran böceksi Andromeda Akış Ülkesi ile savaşırlar.",
-    "slug": "getter-robo-arc"
+    "slug": "getter-robo-arc",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Getter Robo Arc 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1w6FFVt79Ox_JKTCMW0KIFLga_5J5C2Xg/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4393555"
+          },
+          {
+            "fansub_id": 113,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-frr4tdkhw1xo.html"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/77cftzge"
+          }
+        ],
+        "added_date": "2026-07-25T23:05:37.148565"
+      },
+      {
+        "episode_number": 2,
+        "title": "Getter Robo Arc 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pEtnJPjK0EEy3azFiBZr8y0Nb_F4CqBB/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4396143"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/s10o5k5u"
+          }
+        ],
+        "added_date": "2026-07-25T23:05:37.148565"
+      },
+      {
+        "episode_number": 3,
+        "title": "Getter Robo Arc 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mVYnEl6vimdX-pIJjQWTlHL7_wU0Js6y/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1odAPKFVlPl3c2VVYgmreAGLFKdKlHPsj/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140719428"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4485916"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7au48ziv"
+          },
+          {
+            "fansub_id": 113,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qdwq5643kemw.html"
+          },
+          {
+            "fansub_id": 113,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wiwuvzgcjywg.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:05:37.148565"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 43741,
@@ -54,118 +147,14 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": []
   },
   "anilist": {
     "id": 125640,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/125640-BH5wkpp6TduJ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125640-RghOmQmgKzWi.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Getter Robo Arc 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 113,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1w6FFVt79Ox_JKTCMW0KIFLga_5J5C2Xg/preview"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4393555"
-        },
-        {
-          "fansub_id": 113,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-frr4tdkhw1xo.html"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/77cftzge"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:05:37.148565",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Getter Robo Arc 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 113,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1pEtnJPjK0EEy3azFiBZr8y0Nb_F4CqBB/preview"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4396143"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/s10o5k5u"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:05:37.148565",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Getter Robo Arc 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 113,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mVYnEl6vimdX-pIJjQWTlHL7_wU0Js6y/preview"
-        },
-        {
-          "fansub_id": 113,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1odAPKFVlPl3c2VVYgmreAGLFKdKlHPsj/preview"
-        },
-        {
-          "fansub_id": 113,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7671770326140719428"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4485916"
-        },
-        {
-          "fansub_id": 113,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7au48ziv"
-        },
-        {
-          "fansub_id": 113,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-qdwq5643kemw.html"
-        },
-        {
-          "fansub_id": 113,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wiwuvzgcjywg.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T23:05:37.148565",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 122827,
     "type": "tv",

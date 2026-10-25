@@ -4,7 +4,146 @@
     "puan": "0.00",
     "bolum_durumu": "6/6",
     "ozet": "2045 yılında, Ay'da doğmuş olan iki çocuk ve Dünya'dan gelen üç çocuk bir kaza sonucu mahsur kaldıkları uzay istasyonunda hayatta kalmaya çalışır.",
-    "slug": "chikyuugai-shounen-shoujo"
+    "slug": "chikyuugai-shounen-shoujo",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Chikyuugai Shounen Shoujo 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IxSo4XXEaUH1A_S3_ACdfRjDncBdK557/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661848"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ptmgmksaux40.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:34:43.658892"
+      },
+      {
+        "episode_number": 2,
+        "title": "Chikyuugai Shounen Shoujo 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WcdbtpbXHUUNQfWkjjG3Fn0pIxyS6M2W/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661849"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4590676"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3ey0udqf1ksu.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:34:43.658892"
+      },
+      {
+        "episode_number": 3,
+        "title": "Chikyuugai Shounen Shoujo 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17P7-clFnKbAsL0Zla8f6WmGO_3FU04fj/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661850"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nb9s5ui5dpya.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:34:43.658892"
+      },
+      {
+        "episode_number": 4,
+        "title": "Chikyuugai Shounen Shoujo 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1cvfk22z0AnLzE_3curAX6uUzdtsvY12h/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661851"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-8aqaruom3pt5.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:34:43.658892"
+      },
+      {
+        "episode_number": 5,
+        "title": "Chikyuugai Shounen Shoujo 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rkXSAh7S8omZCF_euiNDtfYF14Xcr5et/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661852"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xpt4vadgkc2u.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:34:43.658892"
+      },
+      {
+        "episode_number": 6,
+        "title": "Chikyuugai Shounen Shoujo 6. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1FtX4opX5ywxRCzj_Fsnlnznlzpa5iOYm/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661853"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-uj6eluw0kwet.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:34:43.658892"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37914,
@@ -46,176 +185,14 @@
         ]
       }
     ],
-    "episodes": 6
+    "episodes": 6,
+    "episode_list": []
   },
   "anilist": {
     "id": 101705,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101705-M2FVDdNuuNR9.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101705-bpXMRKKyzqg5.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Chikyuugai Shounen Shoujo 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1IxSo4XXEaUH1A_S3_ACdfRjDncBdK557/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661848"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ptmgmksaux40.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:34:43.658892",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Chikyuugai Shounen Shoujo 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1WcdbtpbXHUUNQfWkjjG3Fn0pIxyS6M2W/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661849"
-        },
-        {
-          "fansub_id": 67,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4590676"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3ey0udqf1ksu.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:34:43.658892",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Chikyuugai Shounen Shoujo 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/17P7-clFnKbAsL0Zla8f6WmGO_3FU04fj/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661850"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-nb9s5ui5dpya.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:34:43.658892",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Chikyuugai Shounen Shoujo 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1cvfk22z0AnLzE_3curAX6uUzdtsvY12h/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661851"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-8aqaruom3pt5.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:34:43.658892",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Chikyuugai Shounen Shoujo 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rkXSAh7S8omZCF_euiNDtfYF14Xcr5et/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661852"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-xpt4vadgkc2u.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:34:43.658892",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Chikyuugai Shounen Shoujo 6. Bölüm Final",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 67,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FtX4opX5ywxRCzj_Fsnlnznlzpa5iOYm/preview"
-        },
-        {
-          "fansub_id": 67,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359661853"
-        },
-        {
-          "fansub_id": 67,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-uj6eluw0kwet.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:34:43.658892",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 138190,
     "type": "tv",

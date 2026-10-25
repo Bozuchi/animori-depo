@@ -4,7 +4,36 @@
     "puan": "0.00",
     "bolum_durumu": "1/8",
     "ozet": "TV serisinde yer almayan, manga bölümlerininden uyarlayanmış Ansatsu Kyoushitsu 2. sezona ait kısa bölümlerdir Uyarlanan manga bölümleri 78 (\"Takebayashi no Jikan\") ve 79 (\"Shihaisha no Jikan, Ni Jikanme\"), bu bölümler manganın dokuzuncu cildinde yayınlanmıştır.",
-    "slug": "ansatsu-kyoushitsu-2nd-season-kagaijugyou-hen"
+    "slug": "ansatsu-kyoushitsu-2nd-season-kagaijugyou-hen",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Ansatsu Kyoushitsu 2nd Season: Kagaijugyou-hen 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 111,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AzLhSEfaTOLTSY7R4BnyjovBkHb0SJam/preview"
+          },
+          {
+            "fansub_id": 111,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4786480"
+          },
+          {
+            "fansub_id": 111,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/46gm0t0efba5"
+          },
+          {
+            "fansub_id": 111,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-basf5dnsp5zp.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:55:34.167151"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32863,
@@ -54,46 +83,14 @@
         ]
       }
     ],
-    "episodes": 8
+    "episodes": 8,
+    "episode_list": []
   },
   "anilist": {
     "id": 21678,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21678-HRhRWI3qctsh.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21678-wD5U0J6wHyJX.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Ansatsu Kyoushitsu 2nd Season: Kagaijugyou-hen 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 111,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1AzLhSEfaTOLTSY7R4BnyjovBkHb0SJam/preview"
-        },
-        {
-          "fansub_id": 111,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4786480"
-        },
-        {
-          "fansub_id": 111,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/46gm0t0efba5"
-        },
-        {
-          "fansub_id": 111,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-basf5dnsp5zp.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-21T21:55:34.167151",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 62110,
     "type": "tv",

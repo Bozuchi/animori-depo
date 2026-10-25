@@ -4,7 +4,70 @@
     "puan": "0.00",
     "bolum_durumu": "3/12",
     "ozet": "Dört Ryudo kardeşi, çok sıkıntılı bir antik sırra sahipler. Ne sırrı mı? Ejderhaların soyundan geldikleri sırrı. Efsanevi atalarının hızına, gücüne ve kuvvetine sahipler. Üstelik gün geçtikçe daha da güçleniyorlar. Ancak sınırlarını zorladıklarında mitolojideki korkunç ve kontrol edilemez ejderhalara dönüşüyorlar. Bu güçleri, sınırsız kaynak ve silahlara sahip karanlık örgütlerin dikkatini çekiyor ve kardeşleri kontrol etmek için ellerinden gelen her şeyi yapıyorlar.",
-    "slug": "souryuuden"
+    "slug": "souryuuden",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Souryuuden 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5191110"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/yuqzn4xui97m"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.co/embed-kjjsz1of3goj.html"
+          }
+        ],
+        "added_date": "2026-07-29T11:48:12.097955"
+      },
+      {
+        "episode_number": 2,
+        "title": "Souryuuden 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5194733"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/pk96pucnoaio"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.co/embed-7dj4p0feg8d4.html"
+          }
+        ],
+        "added_date": "2026-07-29T11:48:12.097955"
+      },
+      {
+        "episode_number": 3,
+        "title": "Souryuuden 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5223439"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/quj33r0exmyw"
+          }
+        ],
+        "added_date": "2026-07-29T11:48:12.097955"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1742,
@@ -48,88 +111,14 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 1742,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1742-MIxwJMGHKGQq.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Souryuuden 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5191110"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/yuqzn4xui97m"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.co/embed-kjjsz1of3goj.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T11:48:12.097955",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Souryuuden 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5194733"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/pk96pucnoaio"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.co/embed-7dj4p0feg8d4.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T11:48:12.097955",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Souryuuden 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5223439"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/quj33r0exmyw"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T11:48:12.097955",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 46253,
     "type": "tv",

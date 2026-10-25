@@ -4,7 +4,8 @@
     "puan": "9.49",
     "bolum_durumu": "1/1",
     "ozet": "Yaşama isteğini kaybetmiş başıboş bir serseri olan Shinji Ikari ulaştığı bir mekanda umut etmenin ne demek olduğunu öğrenir. En sonunda, İşe Yararlılık Projesinin hayata geçmesiyle Wille Son Darbe'yi engellemek için son kez oldukça zahmetli olan bir duruş sergileyecektir.",
-    "slug": "evangelion-3-0-1-0-thrice-upon-a-time"
+    "slug": "evangelion-3-0-1-0-thrice-upon-a-time",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 3786,
@@ -62,36 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 3786,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3786-IfWKqRp9grgo.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3786-Tpt9iM72dxTv.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Evangelion: 3.0+1.0 Thrice Upon a Time Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461599526"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-9msymtkcgsfq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T00:29:55.278121",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 890,
     "type": "tv",

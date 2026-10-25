@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Denpa Onna to Seishun Otoko serisinin ova bölümüdür.",
-    "slug": "denpa-onna-to-seishun-otoko-mayonaka-no-taiyou"
+    "slug": "denpa-onna-to-seishun-otoko-mayonaka-no-taiyou",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 10638,
@@ -44,39 +45,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 10638,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10638-UVt6Lj56xZtL.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou OVA",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 96,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1D-EFntkSpmujwQZ2ylY9Iofm5bq9YqIH/preview"
-        },
-        {
-          "fansub_id": 96,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10eGc239aQiXJmBKdBIXkwneVIDIHmoWc/preview"
-        },
-        {
-          "fansub_id": 96,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3492453"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-24T10:47:15.052607",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Ninjala (TV)",
-    "slug": "ninjala-tv"
+    "slug": "ninjala-tv",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 50418,
@@ -47,7 +48,8 @@
           42658
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 142274,
@@ -61,6 +63,5 @@
     "episode_offset": 0,
     "name": "Ninjala the Animation"
   },
-  "synopsis_tr": "Yıl 20XX. Bir zamanlar Japonya'nın tarihini yazan ninjalar, Meiji Restorasyonu sırasında ülkenin dört bir yanına dağılmıştı. Bu ninjalar diğer klanlara karıştıkça soyları azaldı ve yavaş yavaş gözden kayboldular. Miraslarını korumaya çalışan bu ninja klanlarının torunları, miraslarını sürdürme umuduyla WNA'yı (Dünya Ninja Birliği) kurdular. Ve böylece WNA, Shinobi'nin gücünü ortaya çıkarabilecek bir sanat olan Ninja-Gum'u geliştirmeyi başardı. Ve yine de en güçlü Ninja-Sakız'ı yaratmak, en güçlü Ninja DNA'sını gerektirir. Böylece Ninjala Turnuvası düzenlendi ve ninjaların en güçlüsü bulunabildi...(Kaynak: Resmi Oyun web sitesi)",
-  "episodes": []
+  "synopsis_tr": "Yıl 20XX. Bir zamanlar Japonya'nın tarihini yazan ninjalar, Meiji Restorasyonu sırasında ülkenin dört bir yanına dağılmıştı. Bu ninjalar diğer klanlara karıştıkça soyları azaldı ve yavaş yavaş gözden kayboldular. Miraslarını korumaya çalışan bu ninja klanlarının torunları, miraslarını sürdürme umuduyla WNA'yı (Dünya Ninja Birliği) kurdular. Ve böylece WNA, Shinobi'nin gücünü ortaya çıkarabilecek bir sanat olan Ninja-Gum'u geliştirmeyi başardı. Ve yine de en güçlü Ninja-Sakız'ı yaratmak, en güçlü Ninja DNA'sını gerektirir. Böylece Ninjala Turnuvası düzenlendi ve ninjaların en güçlüsü bulunabildi...(Kaynak: Resmi Oyun web sitesi)"
 }

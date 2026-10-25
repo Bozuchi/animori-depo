@@ -4,7 +4,46 @@
     "puan": "9.26",
     "bolum_durumu": "1/1",
     "ozet": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken animesine ait OVA bölümüdür.",
-    "slug": "boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken-ova"
+    "slug": "boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fQvHMF3-cUQqThB-r-AEyOcSF7yRCi-m/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933014010"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3511760"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-deipdacuupmf.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7xkj7dt8vkhl.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wdaag2x9owpq.html"
+          }
+        ],
+        "added_date": "2026-07-23T06:25:49.594578"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36560,
@@ -54,56 +93,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 100518,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100518-VNbT8gflg57H.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1fQvHMF3-cUQqThB-r-AEyOcSF7yRCi-m/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933014010"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3511760"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-deipdacuupmf.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-7xkj7dt8vkhl.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wdaag2x9owpq.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T06:25:49.594578",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 74083,
     "type": "tv",

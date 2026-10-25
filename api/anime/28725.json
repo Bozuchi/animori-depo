@@ -4,7 +4,8 @@
     "puan": "8.89",
     "bolum_durumu": "1/1",
     "ozet": "Küçükken çok mutlu bir çocuk olan Jun söylediği bir şey yüzünden ailesinin dağılmasına neden olur. Bu olayın üzüntüsüyle ağlayan Jun'un karşısına bir yumurta perisi çıkar. Peri başkalarını incitmesine engel olmak için Jun'un sözlerini mühürler. O günden sonra umutsuzluk içi de yaşayan Jun okulda sosyal yardımlaşma etkinliği komitesine seçilir. Üstelik etkinlikte sahnelenecek olan müzikalde başrol oynayacaktır.",
-    "slug": "kokoro-ga-sakebitagatterunda"
+    "slug": "kokoro-ga-sakebitagatterunda",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 28725,
@@ -54,61 +55,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20968,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20968-1ChkqEXgFAmf.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20968-0zFVsoFUYjeh.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Kokoro ga Sakebitagatterunda.",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 10,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1FA8is4VjrLSkxdLRXyI3jLJHxPKyjjiw/preview"
-        },
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/spuzzl/_myvideo/21.html"
-        },
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018555"
-        },
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847276"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4075160"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/qqwsufpi"
-        },
-        {
-          "fansub_id": 10,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-vxp6530l95oc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T04:37:10.622568",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 364111,
     "type": "movie",

@@ -4,7 +4,88 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "{Kısım 1: Yansıma} Mayumi, okyanusa dalış yaptığında garip bir bulgu ile karşılaştı: Bir kamera. Garipsemesine rağmen, kameradaki film, daha önce hiç görmediği bir adamın kendisiyle olan resmi ile alakalı idi. Kameranın henüz piyasaya sürülmemiş bir modele ait olduğunu keşfettiğinde, çok garip bir gerçeğin belirsiz hatlarını görmeye başlar. {Kısım 2: Dosya 538} Uçaklar gizemli bir şekilde gökyüzünde kaybolurken, garip bir baba-kız çiftini gözetleyen özel bir dedektif, kendini onların gizemine yakalanmış bulur.",
-    "slug": "twilight-q"
+    "slug": "twilight-q",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Twilight Q 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1L7DkO1YncuXD27t_ieBcv4DynZQU4Ytm/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850364"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6822"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4433137"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3772902"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mitei75s7s1g.html"
+          }
+        ],
+        "added_date": "2026-07-29T18:54:44.500267"
+      },
+      {
+        "episode_number": 2,
+        "title": "Twilight Q 2. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Wr9-6G8t-dARzjBFi4HjnBmkqhIm34eA/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659433"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6886"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4457982"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3784918"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-j7s0aef3ctvi.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wbtj0kf1"
+          }
+        ],
+        "added_date": "2026-07-29T18:54:44.500267"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1981,
@@ -40,102 +121,29 @@
       37
     ],
     "relations": [],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1981,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1981-n17NekC1YREd.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1981.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Twilight Q 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1L7DkO1YncuXD27t_ieBcv4DynZQU4Ytm/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985850364"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6822"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4433137"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3772902"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-mitei75s7s1g.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:54:44.500267",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Twilight Q 2. Bölüm Final",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Wr9-6G8t-dARzjBFi4HjnBmkqhIm34eA/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659433"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6886"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4457982"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3784918"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-j7s0aef3ctvi.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/wbtj0kf1"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:54:44.500267",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 132018,
     "type": "tv",

@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Hibike! Euphonium Movie: Chikai no Finale sizlere Oumae Kumiko ve diğerlerinin ikinci sınıfkenki hikayesini anlatacak.",
-    "slug": "hibike-euphonium-movie-3-chikai-no-finale"
+    "slug": "hibike-euphonium-movie-3-chikai-no-finale",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 35678,
@@ -62,51 +63,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 101992,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101992-ymVmRVjQC1hd.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101992-VZSoKfiRXscs.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Hibike! Euphonium Movie 3: Chikai no Finale",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 121,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1S73BeZx3ZGFJfSp7f9RE0ffNAJsf1mkW/preview"
-        },
-        {
-          "fansub_id": 121,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1hx35FfRWT8dzvf06b7NqDE6htGrWxnQo/preview"
-        },
-        {
-          "fansub_id": 121,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359659325"
-        },
-        {
-          "fansub_id": 121,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/ggv0xnaf"
-        },
-        {
-          "fansub_id": 121,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ljx9gju43dt1.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:07:46.941626",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 62564,
     "type": "tv",

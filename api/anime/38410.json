@@ -4,7 +4,154 @@
     "puan": "0.00",
     "bolum_durumu": "4/4",
     "ozet": "Cike Wu Liuqi serisine ait ekstra bölümlerdir.",
-    "slug": "cike-wu-liuqi-fanwai"
+    "slug": "cike-wu-liuqi-fanwai",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Cike Wu Liuqi Fanwai 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1H1nNGOIN8NvSKmeRmCjvs8dHAafXi3tB/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359651890"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0wvg7bb6ul05.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6maznqvb"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-uwyxwvx2r3go.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:59:45.238108"
+      },
+      {
+        "episode_number": 2,
+        "title": "Cike Wu Liuqi Fanwai 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12qQ5BfrVRES_Kim04PWOJQGVWR-O0Hlm/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359651891"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l51lza4d99nj.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/e575mevt"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lvjj6zzuwyz3.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 129,
+            "end": 149
+          }
+        },
+        "added_date": "2026-07-23T15:59:45.238108"
+      },
+      {
+        "episode_number": 3,
+        "title": "Cike Wu Liuqi Fanwai 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1u5jnahtXyIkarroEKKNyMy8379DfT1lQ/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359651892"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-iuu90gou6xi7.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/bxooev6g"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-sj0c0p9mu3dc.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:59:45.238108"
+      },
+      {
+        "episode_number": 4,
+        "title": "Cike Wu Liuqi Fanwai 4. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eol-qN50VSXYtqOCw3iPMyhW2K4QfgB-/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359651893"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-82p2bsksn7fa.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-223s6i9qopzd.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2te1jqcv"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-s04hjqiwzlmj.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 462,
+            "end": 481
+          }
+        },
+        "added_date": "2026-07-23T15:59:45.238108"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38410,
@@ -50,172 +197,41 @@
         ]
       }
     ],
-    "episodes": 4
+    "episodes": 4,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 107913,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107913-kM9fv7X13cXe.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Cike Wu Liuqi Fanwai 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1H1nNGOIN8NvSKmeRmCjvs8dHAafXi3tB/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359651890"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-0wvg7bb6ul05.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/6maznqvb"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-uwyxwvx2r3go.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:59:45.238108",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Cike Wu Liuqi Fanwai 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/12qQ5BfrVRES_Kim04PWOJQGVWR-O0Hlm/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359651891"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-l51lza4d99nj.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/e575mevt"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-lvjj6zzuwyz3.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 129,
-          "end": 149
-        }
-      },
-      "added_date": "2026-07-23T15:59:45.238108",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Cike Wu Liuqi Fanwai 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1u5jnahtXyIkarroEKKNyMy8379DfT1lQ/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359651892"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-iuu90gou6xi7.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/bxooev6g"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-sj0c0p9mu3dc.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-23T15:59:45.238108",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Cike Wu Liuqi Fanwai 4. Bölüm Final",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1eol-qN50VSXYtqOCw3iPMyhW2K4QfgB-/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359651893"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-82p2bsksn7fa.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-223s6i9qopzd.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/2te1jqcv"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-s04hjqiwzlmj.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 462,
-          "end": 481
-        }
-      },
-      "added_date": "2026-07-23T15:59:45.238108",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }

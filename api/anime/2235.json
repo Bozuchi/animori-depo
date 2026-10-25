@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Birbirinden farklı kişiler, akşamlarını bir kafede geçirmektedirler. Dedikodu yapan iki kız, tartışan iki adam, bir kitap kurdu ve kız arkadaşından az önce ayrılmış bir genç. Kafenin garsonu, genci bir şövaleye bakması için ikna etmek üzere onunla muhabbete başlar. Bu sırada diğer müşteriler, olağandışı şeyler fark etmektedirler.",
-    "slug": "mizu-no-kotoba"
+    "slug": "mizu-no-kotoba",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2235,
@@ -40,41 +41,14 @@
       84
     ],
     "relations": [],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2235,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2235-yoOjgip58aSO.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mizu no Kotoba",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Pq6aKosXQF2cYGctT-QE-9S7frCMi7fR/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/4008"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3552816"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-27T12:25:40.782005",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 62447,
     "type": "movie",

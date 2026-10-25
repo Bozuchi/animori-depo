@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Yietta gezegeninde yaşayan kolonistler geçimini gezegende bulunan eşsiz likit gaz okyanuslarından kazanıyordu. Plastic Little kolonisi Yietanın vergisini sonunda Galaktik Federasyona ödeyebilecekti. Ne yazık ki bunu yietta'nın parmakları arasından çekip alırlar. Cha Cha Maru'nun 17 yaşındaki kaptanı Tita mürettabatı ile Yettita'nın galaksiler arası evcil hayvan dükkanları için egzotik yaşam formlarını yakalamada uzmanlaşmıştır. Ancak kötü şanstan dolayı kendini, Yietta'yı ele geçirmek için bir uğursuz komploun merkezinde bulur; 16 yaşındaki Elysse'yi, askerin zorbalığından kurtarmak için Tita hem kendi hem de ekibinin hayatını ölümcül tehlikeye atıyor ... ama bir kızın bir kızın yapması gereken şeyi yapması gerekiyor! Ploterler güçlerini, hayati bir bilgisayar koduna sahip olduklarını düşündükleri Elysse'yi almak için çaresiz bir şekilde harekete geçerken Tita profesyonel bir katil ordusuyla tehlikeli bir yakalama oyunu oynamak zorunda! Gezegenin büyük bir ölçeğinde kedi fare kovalaması gibi. Fakat önemli bir fark var, Fareler arkadan vurmaz fakat Tita vurur!",
-    "slug": "plastic-little"
+    "slug": "plastic-little",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2332,
@@ -48,41 +49,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2332,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2332-pDsuVCU79NsQ.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2332-7lokbXE0FFbA.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Plastic Little",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1T-6IDpd6u2N_9T9ZKeKEVDx2ut0qPOHU/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojina/video/embed/11/4013"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3552855"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T01:55:38.948497",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 16224,
     "type": "movie",

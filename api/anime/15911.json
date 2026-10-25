@@ -4,7 +4,424 @@
     "puan": "8.71",
     "bolum_durumu": "12/12",
     "ozet": "Hikaye, lise hayatlarına Data İşleme klübüyle başlayan üç arkadaş Yuzuko, Yukari ve Yui'yi anlatır. Üçlünün çılgın ilişkisi en dünyevi olayları bile komikleştirmektedir.",
-    "slug": "yuyushiki"
+    "slug": "yuyushiki",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Yuyushiki 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zio28WAJX1gAkwyH91rM-H2pXXqNfN7b/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14giQ1OZp0NIOxny7gLyEWY7F4BtV6ZVo/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5581.html"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931908229"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1517641"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525664"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-p0aapzgwvuye.html"
+          },
+          {
+            "fansub_id": 83,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bty4v7xo6w7n.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 2,
+        "title": "Yuyushiki 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rJ14ReKlheNoWPIOzyn9JzFlRjyR3gX-/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931908021"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4508552"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-e9xne2tg1v68.html"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m5fix5ltyuk5.html"
+          },
+          {
+            "fansub_id": 83,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-yxgizzcksr4a.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1320,
+            "end": 1421
+          }
+        },
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 3,
+        "title": "Yuyushiki 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QNSYm2y1EhHloaVnVN61kbI4v9Ee8dUm/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IR-YsBipQvPfH8LWS9M0ku_aS8s9mPIC/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019253"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7413.html"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1841361"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525666"
+          },
+          {
+            "fansub_id": 83,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-80a78up37bzw.html"
+          },
+          {
+            "fansub_id": 83,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ikqp4ji9b7w7.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 21,
+            "end": 110
+          },
+          "ed": {
+            "start": 1320,
+            "end": 1422
+          }
+        },
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 4,
+        "title": "Yuyushiki 4. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13ZmtD-MK5KJGnxr63r9cMHS5Ep7uPc16/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017579"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1844701"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-btreabia3808.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 5,
+        "title": "Yuyushiki 5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mJptd0yVDcuqidJkRAE9Ew0a3Pl4ALQ5/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017580"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1844711"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 50,
+            "end": 139
+          }
+        },
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 6,
+        "title": "Yuyushiki 6. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1acxkdir7V8cO1Y5O-YSlm-YusmXVgChn/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017581"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1844712"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 32,
+            "end": 121
+          }
+        },
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 7,
+        "title": "Yuyushiki 7. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SdUfmrO_a_YLT-vSE-CKV9xbCPnmgI43/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017582"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1868016"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-r5kln7rbk45j.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 8,
+        "title": "Yuyushiki 8. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OFs5YvyLYC3aMJzcBpbZpqfydJMbV6KL/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017583"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1868019"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-t3266nqomxg2.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1320,
+            "end": 1421
+          }
+        },
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 9,
+        "title": "Yuyushiki 9. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tWYE46UYre74mkxoJPBUlFHRi_VDu9x6/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017584"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1868020"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-r2rz1y63mnyz.html"
+          }
+        ],
+        "skip_times": {
+          "ed": {
+            "start": 1320,
+            "end": 1422
+          }
+        },
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 10,
+        "title": "Yuyushiki 10. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JenzdJCGU9MShXuoGmvVIfXA8MgzhWWr/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017585"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1868022"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 33,
+            "end": 122
+          },
+          "ed": {
+            "start": 1320,
+            "end": 1421
+          }
+        },
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 11,
+        "title": "Yuyushiki 11. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_gub8MHeWgGT_eyZOYKz75YbzRHLplgC/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017586"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1868025"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-up389amjh476.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:45:36.147972"
+      },
+      {
+        "episode_number": 12,
+        "title": "Yuyushiki 12. Bölüm Final",
+        "videos": [
+          {
+            "fansub_id": 83,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1H3urWY0DWMpLaRbmCmiMuf9msnxYOOjm/preview"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017587"
+          },
+          {
+            "fansub_id": 83,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1868026"
+          },
+          {
+            "fansub_id": 83,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jqhkk1j5ep8g.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 52,
+            "end": 141
+          }
+        },
+        "added_date": "2026-07-30T20:45:36.147972"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 15911,
@@ -65,470 +482,99 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 4,
+        "title": "4. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 5,
+        "title": "5. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 6,
+        "title": "6. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 7,
+        "title": "7. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 8,
+        "title": "8. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 9,
+        "title": "9. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 10,
+        "title": "10. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 11,
+        "title": "11. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 12,
+        "title": "12. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 15911,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15911-IIjV7WZsSQP0.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15911-eS0Q6p7vBd0i.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Yuyushiki 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zio28WAJX1gAkwyH91rM-H2pXXqNfN7b/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/14giQ1OZp0NIOxny7gLyEWY7F4BtV6ZVo/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5581.html"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931908229"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1517641"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4525664"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-p0aapzgwvuye.html"
-        },
-        {
-          "fansub_id": 83,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-bty4v7xo6w7n.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1rJ14ReKlheNoWPIOzyn9JzFlRjyR3gX-/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931908021"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4508552"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-e9xne2tg1v68.html"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-m5fix5ltyuk5.html"
-        },
-        {
-          "fansub_id": 83,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-yxgizzcksr4a.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1320,
-          "end": 1421
-        }
-      },
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1QNSYm2y1EhHloaVnVN61kbI4v9Ee8dUm/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1IR-YsBipQvPfH8LWS9M0ku_aS8s9mPIC/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933019253"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7413.html"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1841361"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4525666"
-        },
-        {
-          "fansub_id": 83,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-80a78up37bzw.html"
-        },
-        {
-          "fansub_id": 83,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-ikqp4ji9b7w7.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 21,
-          "end": 110
-        },
-        "ed": {
-          "start": 1320,
-          "end": 1422
-        }
-      },
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 4. Bölüm",
-      "episode_number": 4,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/13ZmtD-MK5KJGnxr63r9cMHS5Ep7uPc16/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017579"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1844701"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-btreabia3808.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 4,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 5. Bölüm",
-      "episode_number": 5,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1mJptd0yVDcuqidJkRAE9Ew0a3Pl4ALQ5/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017580"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1844711"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 50,
-          "end": 139
-        }
-      },
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 5,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 6. Bölüm",
-      "episode_number": 6,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1acxkdir7V8cO1Y5O-YSlm-YusmXVgChn/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017581"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1844712"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 32,
-          "end": 121
-        }
-      },
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 6,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 7. Bölüm",
-      "episode_number": 7,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1SdUfmrO_a_YLT-vSE-CKV9xbCPnmgI43/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017582"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1868016"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-r5kln7rbk45j.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 7,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 8. Bölüm",
-      "episode_number": 8,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1OFs5YvyLYC3aMJzcBpbZpqfydJMbV6KL/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017583"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1868019"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-t3266nqomxg2.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1320,
-          "end": 1421
-        }
-      },
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 8,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 9. Bölüm",
-      "episode_number": 9,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1tWYE46UYre74mkxoJPBUlFHRi_VDu9x6/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017584"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1868020"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-r2rz1y63mnyz.html"
-        }
-      ],
-      "skip_times": {
-        "ed": {
-          "start": 1320,
-          "end": 1422
-        }
-      },
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 9,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 10. Bölüm",
-      "episode_number": 10,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1JenzdJCGU9MShXuoGmvVIfXA8MgzhWWr/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017585"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1868022"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 33,
-          "end": 122
-        },
-        "ed": {
-          "start": 1320,
-          "end": 1421
-        }
-      },
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 10,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 11. Bölüm",
-      "episode_number": 11,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1_gub8MHeWgGT_eyZOYKz75YbzRHLplgC/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017586"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1868025"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-up389amjh476.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 11,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Yuyushiki 12. Bölüm Final",
-      "episode_number": 12,
-      "videos": [
-        {
-          "fansub_id": 83,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1H3urWY0DWMpLaRbmCmiMuf9msnxYOOjm/preview"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933017587"
-        },
-        {
-          "fansub_id": 83,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1868026"
-        },
-        {
-          "fansub_id": 83,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-jqhkk1j5ep8g.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 52,
-          "end": 141
-        }
-      },
-      "added_date": "2026-07-30T20:45:36.147972",
-      "jikan_mal_id": 12,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 52890,
     "type": "tv",

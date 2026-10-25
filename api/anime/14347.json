@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Olay 1886 Tokugawa'nın ortadan kaldırılmasını çalışırken, genç Ryo dünyaca ünlü Hijikata Toshizo samurai ile savaşmakta. Bir Amiral Gemisinde ona karşı koyup kültürünü savunmakta. (Geminin adı Kae)",
-    "slug": "ryo"
+    "slug": "ryo",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 14347,
@@ -49,23 +50,12 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 14347,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14347-7kjBMXBRJKml.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "Ryo",
-      "episode_number": null,
-      "videos": [],
-      "skip_times": null,
-      "added_date": "2026-07-29T05:20:18.451321",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ]
+  }
 }

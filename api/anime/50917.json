@@ -4,7 +4,51 @@
     "puan": "0.00",
     "bolum_durumu": "1/12",
     "ozet": "Kara Kedi Kafe, İmparatorluk Başkenti'nin beşinci bölgesinde bulunuyor. Savaşın birkaç yıl önce sona ermesinin ardından amaçlarını kaybeden gelişmiş mekanik oyuncaklar olarak bilinen Otomatalar, şimdi zarif kimonolar giyerek kafede çalışıyorlar. Barış dolu bir dünyaya uyum sağlarken, geçmişin olayları Otomataları hala üzerlerinde taşıdıkları sorumluluğu bırakmalarına izin vermeden hala peşlerini bırakmıyor.\nKara Kedi Kafe'de çalışan Otomatalar arasında, son zamanlarda yeniden başlatma sırasında hafızasını kaybetmiş olan Haizakura da bulunmaktadır. Kimliği ve bu yabancı dünyadaki rolü onun için bir gizem olsa da, tek bir şey kesindir - o şarkı söylemeyi çok sever. Sonsuz merak ve güzel şarkılarıyla rehberlik ederken, Haizakura ve Otomatalar yeni amaçlarını birlikte ararlar, bu uğraş ne kadar zorlu olursa olsun birbirlerini desteklerler.",
-    "slug": "prima-doll"
+    "slug": "prima-doll",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Prima Doll 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370645"
+          },
+          {
+            "fansub_id": 1,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5247644"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/8xpaamf6cd4j"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kctsbm6gjbqd.html"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-alj56acmz1vb.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 1326,
+            "end": 1460
+          },
+          "ed": {
+            "start": 1326,
+            "end": 1414
+          }
+        },
+        "added_date": "2026-07-29T02:38:35.936643"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 50917,
@@ -37,60 +81,14 @@
       1722
     ],
     "relations": [],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": []
   },
   "anilist": {
     "id": 144509,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/144509-lcwAmLsTLPhR.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144509-ripxUU95hVyj.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Prima Doll 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 1,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7571497515682370645"
-        },
-        {
-          "fansub_id": 1,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5247644"
-        },
-        {
-          "fansub_id": 1,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/8xpaamf6cd4j"
-        },
-        {
-          "fansub_id": 1,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-kctsbm6gjbqd.html"
-        },
-        {
-          "fansub_id": 1,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-alj56acmz1vb.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 1326,
-          "end": 1460
-        },
-        "ed": {
-          "start": 1326,
-          "end": 1414
-        }
-      },
-      "added_date": "2026-07-29T02:38:35.936643",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 156450,
     "type": "tv",

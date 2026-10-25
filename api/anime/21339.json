@@ -4,7 +4,8 @@
     "puan": "8.83",
     "bolum_durumu": "1/1",
     "ozet": "Yıl 2116 — Japon Hükümeti, Sibyl Sistem'in insan gücü olmadan çalışan Drone robotlarını, sorunlu ülkelere ihraç etmeye başlar ve sistem dünya çapında yayılır. İç savaşın ortasında olan bir ülke olan GAB (Güneydoğu Asya Birliği), deney kapsamında Sibyl Sistem'i uygulamaya karar verir. Yeni sistem altında, Shambala Float'ın kıyı şehri, geçici olarak barışı ve güvenliği sağlar. Daha sonra GAB teröristleri Japonya'ya gönderir. Sibyl Sistem'e yakalanmadan içeri sızan grup, içeriden saldırır. Görevi gereği Tsunemori, araştırma yapmak için Shambala Float'a seyahat eder. Bu yeni topraklardaki adalet gerçeği aydınlığa kavuşacaktır.",
-    "slug": "psycho-pass-movie"
+    "slug": "psycho-pass-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 21339,
@@ -59,81 +60,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 20514,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20514-lOuzeBlFJs5x.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20514-WhWrHdWWonsC.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Psycho-Pass Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 101,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1r9SWvjmq5cpbE2lzj_pLg49b8I-DL1nE/preview"
-        },
-        {
-          "fansub_id": 101,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-mouv5uhl32or.html"
-        },
-        {
-          "fansub_id": 120,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4973"
-        },
-        {
-          "fansub_id": 120,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3650437"
-        },
-        {
-          "fansub_id": 120,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-4r6gfw3lqsho.html"
-        },
-        {
-          "fansub_id": 5,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1C9rqSselliOqUHOgrJDsrPaU_jzXpWv9/preview"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/sweetparade2/video/embed/_myvideo/697"
-        },
-        {
-          "fansub_id": 5,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/5017021353669166392"
-        },
-        {
-          "fansub_id": 5,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-hjhm2sezr5z4.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/keshinn62/_myvideo/48.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-aigjom0u2n1k.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T03:09:39.260407",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 43865,
     "type": "tv",

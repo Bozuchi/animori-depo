@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Kimengumi ve arkadaşları için üç ek macera. ilk bölümde çocuklar yaz tatilinin hemen öncesinde sınavlarında başarısız olurlar ve ek ders almak zorunda kalırlar. İkinci bölümde yaz tatilinde yüzme yarışı için sahile zorunlu bir okul gezisi olur.Üçüncü bölümde okul tekrar açılır, yeni bir rakip belirdiğinde karate kulübü tehlikededir",
-    "slug": "high-school-kimengumi-movie"
+    "slug": "high-school-kimengumi-movie",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 5956,
@@ -56,61 +57,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 5956,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5956-7BezyluLjUVS.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "High School! Kimengumi (Movie)",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1bRNwYnOalH-nr2fLwAduCW4xBZpbzuQI/preview"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271194037"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4254204"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4515775"
-        },
-        {
-          "fansub_id": 21,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-deovq9s0szsu.html"
-        },
-        {
-          "fansub_id": 21,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/60gmlg1v"
-        },
-        {
-          "fansub_id": 21,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-wuph5v21tlwf.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T03:22:33.718681",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 63265,
     "type": "tv",

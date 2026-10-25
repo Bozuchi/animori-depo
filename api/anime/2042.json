@@ -4,7 +4,8 @@
     "puan": "0.00",
     "bolum_durumu": "1/1",
     "ozet": "Uzak gelecek, Joker Yıldız Topluluğunun dört bir yanına dağılmış olan insanlık, farklı gezegenlerde farklı medeniyetleri meydana getirmiştir. Aralarında geçen büyük savaşlar sürerken, \"Mortal Headd\" adı verilen dev savaş makinaları icat edilip \"Headd Liner\" adı verilen pilotları vasıtasıyla mücadelelerde kullanılırlar. BU güçlü silahların etkin bir şekilde kullanılabilmesi için ise \"Fatima\" adlı etten ve kemikten olma androidlere ihtiyaç duyulmaktadır.\n\n2988 senesi... Dr. Ballanche'in ürettiği iki \"Fatima\" çok yakın bir zaman içerisinde, efendileri olacak Headd Liner'ı seçmek için \"Görücüye\" çıkacaktır. Haberi alan tüm soylular akın akın Bastogne'e gelir. Doktorun eski dostu Sopp'ta bu vesile ilen çok uzaklardan onu zityarete gelir. Doktor, Sopp'tan küçük bir ricada bulunur, lakin Sopp'un bunu kabuledebilmesi, kişisel sebeplerden ötürü oldukça güç gibidir...",
-    "slug": "five-star-stories"
+    "slug": "five-star-stories",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 2042,
@@ -47,46 +48,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 2042,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2042-Tov90m6kP4ah.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2042-Y1AjGO4uCdCS.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Five Star Stories",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/113UH2mU4eWWzVgWvTqefMBUr2UTQgCHi/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4065"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/e77ipgz5"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-zgtkejhdyl3b.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-25T01:37:18.914978",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 34375,
     "type": "movie",

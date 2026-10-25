@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Ao Ashi Season 2",
-    "slug": "ao-ashi-season-2"
+    "slug": "ao-ashi-season-2",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 61603,
@@ -50,7 +51,8 @@
           102256
         ]
       }
-    ]
+    ],
+    "episode_list": []
   },
   "anilist": {
     "id": 191788,
@@ -64,6 +66,5 @@
     "episode_offset": 0,
     "name": "Ao Ashi"
   },
-  "synopsis_tr": "Ao Ashi'nin ikinci sezonu.",
-  "episodes": []
+  "synopsis_tr": "Ao Ashi'nin ikinci sezonu."
 }

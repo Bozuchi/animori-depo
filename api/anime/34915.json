@@ -4,7 +4,31 @@
     "puan": "0.00",
     "bolum_durumu": "1/13",
     "ozet": "- Güncellenecek -",
-    "slug": "the-idolm-ster-sidem"
+    "slug": "the-idolm-ster-sidem",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "THE IDOLM@STER SideM 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 60,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11LJUsP9d2f9jPfTYztqrqfoMFxZHJOvo/preview"
+          },
+          {
+            "fansub_id": 60,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847170"
+          },
+          {
+            "fansub_id": 60,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-al5blcobgt1i.html"
+          }
+        ],
+        "added_date": "2026-07-29T16:30:19.912686"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34915,
@@ -68,41 +92,22 @@
         ]
       }
     ],
-    "episodes": 13
+    "episodes": 13,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 98310,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98310-G3UV1d7crZ71.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98310-ainGvvbOiKdk.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "THE IDOLM@STER SideM 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 60,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/11LJUsP9d2f9jPfTYztqrqfoMFxZHJOvo/preview"
-        },
-        {
-          "fansub_id": 60,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985847170"
-        },
-        {
-          "fansub_id": 60,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-al5blcobgt1i.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T16:30:19.912686",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 74186,
     "type": "tv",

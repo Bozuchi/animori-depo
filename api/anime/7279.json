@@ -4,7 +4,78 @@
     "puan": "0.00",
     "bolum_durumu": "2/2",
     "ozet": "Eliptik Yörünge:\nDünyamızla son görüşmesinden onbeş yıl sonra Flying Dutchman olarak bilinen bir uzay aracı, uzak bir ay tabanına yerleşmek için izin istedi. Bu gizemli gemi sıvı protonları taşıyor: Dünya nüfusunun hayatta kalması için gerekli olan bir güç kaynağı. Ancak değerli yük teslim edilmeden önce, yeni enerji biçimini yok etmek ve tüm insanlığa ölüm cezası vermek isteyen galaktik teröristler tarafından pusuya düşürülüyor.\n\n\nSimgesel Gezegen:\nGalaksiler arası sömürgeleştirme ve tuhaf yabancı hayat formlarına karşı, Aon ve Elena değerli doğal kaynaklar için yarışan rakip ülkelerden aşıklarla buluştular. Üstlerinin itirazlarına rağmen birlikte bir hayat kurmak için mücadele ediyorlar. Onların tomurcuklanan romantizmi, yabancı mantar salgını ve katil bir militarist madencinin müdahalesiyle engellendi. Hayatta kalmak için genç çift birbirlerine olan inançlarını korumalı, bu garip ve harika yeni dünyada yaşayan eşsiz yaratıklara güvenmeyi öğrenmelidirler.",
-    "slug": "to"
+    "slug": "to",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "TO 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/217"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4904514"
+          },
+          {
+            "fansub_id": 10,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-il92kymbydoy.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Q-2AGKVWOtbftwAmpEhn8aJVN8UT7sse/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/233"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658708"
+          }
+        ],
+        "added_date": "2026-07-29T16:43:49.601434"
+      },
+      {
+        "episode_number": 2,
+        "title": "TO 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1--NuVJDY2wbo45Ewbsnki6il2KNzGwcI/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GMdLgZkIhGKnJCp4UKmSv4hhTLY_FKPz/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911709"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/231"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-yxs1hufu0ujj.html"
+          }
+        ],
+        "added_date": "2026-07-29T16:43:49.601434"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 7279,
@@ -55,92 +126,29 @@
         ]
       }
     ],
-    "episodes": 2
+    "episodes": 2,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 7279,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7279.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "TO 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 10,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/217"
-        },
-        {
-          "fansub_id": 10,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4904514"
-        },
-        {
-          "fansub_id": 10,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-il92kymbydoy.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Q-2AGKVWOtbftwAmpEhn8aJVN8UT7sse/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/233"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658708"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T16:43:49.601434",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "TO 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1--NuVJDY2wbo45Ewbsnki6il2KNzGwcI/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GMdLgZkIhGKnJCp4UKmSv4hhTLY_FKPz/preview"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/2444636457931911709"
-        },
-        {
-          "fansub_id": 26,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/231"
-        },
-        {
-          "fansub_id": 26,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-yxs1hufu0ujj.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T16:43:49.601434",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 43589,
     "type": "tv",

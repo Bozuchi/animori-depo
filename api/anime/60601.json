@@ -1,7 +1,8 @@
 {
   "turkanime": {
     "isim": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
-    "slug": "tensei-kizoku-kantei-skill-de-nariagaru-3rd-season"
+    "slug": "tensei-kizoku-kantei-skill-de-nariagaru-3rd-season",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 60601,
@@ -50,6 +51,15 @@
           134946
         ]
       }
+    ],
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Headman",
+        "aired": "Sep 28, 2026",
+        "filler": false,
+        "recap": false
+      }
     ]
   },
   "anilist": {
@@ -64,17 +74,5 @@
     "episode_offset": 24,
     "name": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
   },
-  "synopsis_tr": "Tensei Kizoku'nun üçüncü sezonu, Kantei Skill de Nariagaru.",
-  "episodes": [
-    {
-      "turkanime_title": "1. Bölüm",
-      "title": "Headman",
-      "episode_number": 1,
-      "aired": "Sep 28, 2026",
-      "filler": false,
-      "recap": false,
-      "videos": [],
-      "added_date": "2026-10-12T10:37:57.586180"
-    }
-  ]
+  "synopsis_tr": "Tensei Kizoku'nun üçüncü sezonu, Kantei Skill de Nariagaru."
 }

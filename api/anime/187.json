@@ -4,7 +4,8 @@
     "puan": "8.47",
     "bolum_durumu": "1/1",
     "ozet": "Initial D serisinin üçüncü sezonu bir sinema filmi olarak tasarlanmış. Dizinin ikinci sezonundaki bir çok noktanın devamına, filmin kısa süresi içinde yer verilmeye çalışılmış. Takumi'nin tehlikeli Emperor takımı ile son mücadelesi, ünlü Akagi Red Suns takımının liderinden aldığı profesyonel yarışçılık teklifi ve kız arkadaşı ile ilişkileri bu filmin ana konularını oluşturmakta.",
-    "slug": "initial-d-third-stage"
+    "slug": "initial-d-third-stage",
+    "episodes": []
   },
   "jikan": {
     "mal_id": 187,
@@ -73,51 +74,14 @@
         ]
       }
     ],
-    "episodes": 1
+    "episodes": 1,
+    "episode_list": []
   },
   "anilist": {
     "id": 187,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187-EPd7ahDZZHyg.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx187-QyCAlBGY3EWw.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Initial D. III Movie",
-      "episode_number": null,
-      "videos": [
-        {
-          "fansub_id": 2,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/10OcHniViFxV20DbF7c6EJzt_llRxGXkF/preview"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7370103204933018223"
-        },
-        {
-          "fansub_id": 2,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985846831"
-        },
-        {
-          "fansub_id": 2,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/0mrg06u4"
-        },
-        {
-          "fansub_id": 2,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-urv7fhah0r1u.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T05:32:29.067427",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 40424,
     "type": "tv",

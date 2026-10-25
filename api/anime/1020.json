@@ -4,7 +4,120 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "Honoo no Mirage serisine ait OVA bölümlerdir.",
-    "slug": "honoo-no-mirage-minagiwa-no-hangyakusha"
+    "slug": "honoo-no-mirage-minagiwa-no-hangyakusha",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Mirage Of Blaze OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HlgtHDftv4ZC0_pT99Hruzda9m322lBa/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851843"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4440536"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1698008"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3797728"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zltq45pyyxwe.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:06:30.062902"
+      },
+      {
+        "episode_number": 2,
+        "title": "Mirage Of Blaze OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wKHIC2wn3dRp7H1FKiZHLVIP9adhe4ME/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3797731"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-r1uiix7s7ita.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gi9sboltet1m.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:06:30.062902"
+      },
+      {
+        "episode_number": 3,
+        "title": "Mirage Of Blaze OVA 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PW62iQGDZI4YTMARBCQ9yIRIobAQfL1g/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656888"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4449547"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1698062"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3797733"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ln5cqmdn2v0g.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5s4sptpmxxvb.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7p0zw7dz"
+          }
+        ],
+        "added_date": "2026-07-26T04:06:30.062902"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1020,
@@ -51,138 +164,14 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": []
   },
   "anilist": {
     "id": 1020,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1020.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mirage Of Blaze OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1HlgtHDftv4ZC0_pT99Hruzda9m322lBa/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985851843"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4440536"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1698008"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3797728"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-zltq45pyyxwe.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:06:30.062902",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Mirage Of Blaze OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1wKHIC2wn3dRp7H1FKiZHLVIP9adhe4ME/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3797731"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-r1uiix7s7ita.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-gi9sboltet1m.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:06:30.062902",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    },
-    {
-      "turkanime_title": "Mirage Of Blaze OVA 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 52,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1PW62iQGDZI4YTMARBCQ9yIRIobAQfL1g/preview"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359656888"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4449547"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=1698062"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=3797733"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-ln5cqmdn2v0g.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-5s4sptpmxxvb.html"
-        },
-        {
-          "fansub_id": 52,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/7p0zw7dz"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-26T04:06:30.062902",
-      "jikan_mal_id": null,
-      "filler": null,
-      "recap": null
-    }
-  ],
   "tmdb": {
     "id": 1065,
     "type": "tv",

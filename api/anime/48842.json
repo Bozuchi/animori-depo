@@ -4,7 +4,155 @@
     "puan": "9.07",
     "bolum_durumu": "3/12",
     "ozet": "Geçmişe dair hiçbir anısı olmayan Sable, Wenias Krallığı'nın Kraliyet Akademisi'ne katılmak için çabalayan bir öğrencidir. Özel bir eğitimin parçası olarak anti-büyü isyancılarının hüküm sürdüğü kıtanın güney kısmına, Müdür Albus'un talimatı ile gitmek durumundadır. Yanında eşlik edecek kişilerle birlikte seyahate çıkar.",
-    "slug": "mahoutsukai-reimeiki"
+    "slug": "mahoutsukai-reimeiki",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Mahoutsukai Reimeiki 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ujOhK9NBwpa5aMv61jwD7BhwD_yaNZFR/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461601106"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4666320"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-n6b1ntheeqxz.html"
+          },
+          {
+            "fansub_id": 73,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Pp5hVmIoxMDqgN4UpnIIK7PsfsdMTeJX/preview"
+          },
+          {
+            "fansub_id": 73,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4662948"
+          },
+          {
+            "fansub_id": 73,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-cvel1kf5yuoz.html"
+          },
+          {
+            "fansub_id": 73,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-o0t7s22j55wp.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 3.466,
+            "end": 93.466
+          },
+          "ed": {
+            "start": 1364.856,
+            "end": 1449
+          }
+        },
+        "added_date": "2026-07-27T10:00:54.825447"
+      },
+      {
+        "episode_number": 2,
+        "title": "Mahoutsukai Reimeiki 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lON6EgHTk8j981WLGYfzKf0ZMpB70kOj/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461601116"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4674768"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6hlgubeu21qk.html"
+          },
+          {
+            "fansub_id": 73,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1w9oaSFnhpAsSj783S1pJWj_ENclnge_d/preview"
+          },
+          {
+            "fansub_id": 73,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4673211"
+          },
+          {
+            "fansub_id": 73,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-huczof6n7j3r.html"
+          },
+          {
+            "fansub_id": 73,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-f0wehs5gamkg.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 89.529,
+            "end": 179.529
+          },
+          "ed": {
+            "start": 1344,
+            "end": 1434
+          }
+        },
+        "added_date": "2026-07-27T10:00:54.825447"
+      },
+      {
+        "episode_number": 3,
+        "title": "Mahoutsukai Reimeiki 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 73,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CnTLXu77Jk4BpT3-pxBDfomVqw0Cxgi1/preview"
+          },
+          {
+            "fansub_id": 73,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4680709"
+          },
+          {
+            "fansub_id": 73,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5zlj7ezk5kq7.html"
+          }
+        ],
+        "skip_times": {
+          "op": {
+            "start": 199.513,
+            "end": 289.513
+          },
+          "ed": {
+            "start": 1347.026,
+            "end": 1437.026
+          }
+        },
+        "added_date": "2026-07-27T10:00:54.825447"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 48842,
@@ -67,170 +215,36 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 133175,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133175-M7SRPRqC72lA.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Mahoutsukai Reimeiki 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1ujOhK9NBwpa5aMv61jwD7BhwD_yaNZFR/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461601106"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4666320"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-n6b1ntheeqxz.html"
-        },
-        {
-          "fansub_id": 73,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1Pp5hVmIoxMDqgN4UpnIIK7PsfsdMTeJX/preview"
-        },
-        {
-          "fansub_id": 73,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4662948"
-        },
-        {
-          "fansub_id": 73,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-cvel1kf5yuoz.html"
-        },
-        {
-          "fansub_id": 73,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-o0t7s22j55wp.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 3.466,
-          "end": 93.466
-        },
-        "ed": {
-          "start": 1364.856,
-          "end": 1449
-        }
-      },
-      "added_date": "2026-07-27T10:00:54.825447",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mahoutsukai Reimeiki 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 12,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1lON6EgHTk8j981WLGYfzKf0ZMpB70kOj/preview"
-        },
-        {
-          "fansub_id": 12,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7424468136461601116"
-        },
-        {
-          "fansub_id": 12,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4674768"
-        },
-        {
-          "fansub_id": 12,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-6hlgubeu21qk.html"
-        },
-        {
-          "fansub_id": 73,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1w9oaSFnhpAsSj783S1pJWj_ENclnge_d/preview"
-        },
-        {
-          "fansub_id": 73,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4673211"
-        },
-        {
-          "fansub_id": 73,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-huczof6n7j3r.html"
-        },
-        {
-          "fansub_id": 73,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-f0wehs5gamkg.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 89.529,
-          "end": 179.529
-        },
-        "ed": {
-          "start": 1344,
-          "end": 1434
-        }
-      },
-      "added_date": "2026-07-27T10:00:54.825447",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "Mahoutsukai Reimeiki 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 73,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1CnTLXu77Jk4BpT3-pxBDfomVqw0Cxgi1/preview"
-        },
-        {
-          "fansub_id": 73,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4680709"
-        },
-        {
-          "fansub_id": 73,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-5zlj7ezk5kq7.html"
-        }
-      ],
-      "skip_times": {
-        "op": {
-          "start": 199.513,
-          "end": 289.513
-        },
-        "ed": {
-          "start": 1347.026,
-          "end": 1437.026
-        }
-      },
-      "added_date": "2026-07-27T10:00:54.825447",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 124363,
     "type": "tv",

@@ -4,7 +4,26 @@
     "puan": "0.00",
     "bolum_durumu": "1/12",
     "ozet": "Sunao Konoe yeni okulunun ilk gününde drama kulübüne katılmak ister fakat kulübün olmadığını öğrenince şaşırır. Bu yüzden o kulübü kendi kurmak ister. Ancak uzun zamandır görmediği çocukluk arkadaşı, çılgın öğrenci topluluğu ve kibirli öğrenci konseyi başkanının onu her fırsatta engellemeye çalışması yüzünden kulübü kurmak düşündüğünden daha zor olacak gibi duruyor.",
-    "slug": "tsuyokiss"
+    "slug": "tsuyokiss",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Tsuyokiss 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5143518"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/jpau7hmyxrl8"
+          }
+        ],
+        "added_date": "2026-07-29T18:48:00.025767"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1198,
@@ -47,36 +66,22 @@
         ]
       }
     ],
-    "episodes": 12
+    "episodes": 12,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 1198,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1198.jpg"
   },
-  "episodes": [
-    {
-      "turkanime_title": "Tsuyokiss 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 21,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5143518"
-        },
-        {
-          "fansub_id": 21,
-          "player": "BYS",
-          "url": "https://bysesukior.com/e/jpau7hmyxrl8"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T18:48:00.025767",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    }
-  ],
   "tmdb": {
     "id": 36803,
     "type": "tv",

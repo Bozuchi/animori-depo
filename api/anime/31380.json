@@ -4,7 +4,125 @@
     "puan": "0.00",
     "bolum_durumu": "3/3",
     "ozet": "To LOVE-Ru Darkness 2. Sezon serisine ait iki bölümlük OVA serisidir. Ghost Story Kowai no wa Ikaga isimli ilk bölümde, 9. Cilt'te yer alan yan hikaye işlenirken, Clinic Sunao ni Narenakute isimli ikinci bölümde, manganın 38. bölümü konu alınmıştır.",
-    "slug": "to-love-ru-darkness-2nd-ova"
+    "slug": "to-love-ru-darkness-2nd-ova",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "To LOVE-Ru Darkness 2nd OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GR1onmJpxQU3DatbBgA9Znj-pmttAq_u/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658596"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4454518"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-o7d16dpvvu8l.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/rc4mmxq9"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-s7dwyt5xwiau.html"
+          }
+        ],
+        "added_date": "2026-07-29T16:48:12.146386"
+      },
+      {
+        "episode_number": 2,
+        "title": "To LOVE-RU Darkness 2nd OVA 2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DYe9Y6baaNCR509lJyNEufb-P2zTPSZt/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849241"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1232"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4426165"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wtl3mv6w5ebt.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9b6760ba"
+          }
+        ],
+        "added_date": "2026-07-29T16:48:12.146386"
+      },
+      {
+        "episode_number": 3,
+        "title": "To LOVE-RU Darkness 2nd OVA 3. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zXpzBNSmKVVNFZ4Dl2l4cvLfGpCD88ff/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271195154"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1233"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4499369"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-x2k9yy3tjs4b.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/eu9s3t3b"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3snyo143dfhy.html"
+          }
+        ],
+        "added_date": "2026-07-29T16:48:12.146386"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31380,
@@ -57,141 +175,34 @@
         ]
       }
     ],
-    "episodes": 3
+    "episodes": 3,
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "1. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "2. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "3. Bölüm",
+        "aired": null,
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 21853,
     "banner_image": null,
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21853-J5po6NduavFq.jpg"
-  },
-  "episodes": [
-    {
-      "turkanime_title": "To LOVE-Ru Darkness 2nd OVA 1. Bölüm",
-      "episode_number": 1,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1GR1onmJpxQU3DatbBgA9Znj-pmttAq_u/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/3095424634359658596"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4454518"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-o7d16dpvvu8l.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/rc4mmxq9"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-s7dwyt5xwiau.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T16:48:12.146386",
-      "jikan_mal_id": 1,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "To LOVE-RU Darkness 2nd OVA 2. Bölüm",
-      "episode_number": 2,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1DYe9Y6baaNCR509lJyNEufb-P2zTPSZt/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/7384122149985849241"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1232"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4426165"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-wtl3mv6w5ebt.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/9b6760ba"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T16:48:12.146386",
-      "jikan_mal_id": 2,
-      "filler": false,
-      "recap": false
-    },
-    {
-      "turkanime_title": "To LOVE-RU Darkness 2nd OVA 3. Bölüm",
-      "episode_number": 3,
-      "videos": [
-        {
-          "fansub_id": 3,
-          "player": "GDRIVE",
-          "url": "https://drive.google.com/file/d/1zXpzBNSmKVVNFZ4Dl2l4cvLfGpCD88ff/preview"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/video/embed/9165530183271195154"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MAIL",
-          "url": "https://my.mail.ru/mail/torukojin_a/video/embed/_myvideo/1233"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SIBNET",
-          "url": "https://video.sibnet.ru/shell.php?videoid=4499369"
-        },
-        {
-          "fansub_id": 3,
-          "player": "MP4UPLOAD",
-          "url": "https://www.mp4upload.com/embed-x2k9yy3tjs4b.html"
-        },
-        {
-          "fansub_id": 3,
-          "player": "SENDVID",
-          "url": "https://sendvid.com/embed/eu9s3t3b"
-        },
-        {
-          "fansub_id": 3,
-          "player": "UQLOAD",
-          "url": "https://uqload.com/embed-3snyo143dfhy.html"
-        }
-      ],
-      "skip_times": null,
-      "added_date": "2026-07-29T16:48:12.146386",
-      "jikan_mal_id": 3,
-      "filler": false,
-      "recap": false
-    }
-  ]
+  }
 }
