@@ -158,15 +158,22 @@
     "episode_list": [
       {
         "episode_number": 1,
-        "title": "1. Bölüm",
-        "aired": null,
+        "title": "Ah! An Exchange Diary with the Goddess?",
+        "aired": "Apr 1, 2005",
         "filler": false,
         "recap": false
       },
       {
         "episode_number": 2,
-        "title": "2. Bölüm",
-        "aired": null,
+        "title": "Ah! Urd's Little Romance",
+        "aired": "Dec 23, 2005",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 3,
+        "title": "Ah! Is My Heart Pounding Because I'm a Grownup?",
+        "aired": "Dec 23, 2005",
         "filler": false,
         "recap": false
       }

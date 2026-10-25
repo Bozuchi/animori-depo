@@ -52,6 +52,8 @@ class MalHtmlEnricher:
         self.manual_mappings = self._load_manual_mappings(mappings_path)
         self.session = requests.Session()
         self.session.headers.update(HEADERS)
+        # Son HTTP isteğinin durum kodu (404 ayrımı için)
+        self.last_status: int | None = None
         
         if metadata is not None:
             self.metadata = metadata
@@ -110,8 +112,10 @@ class MalHtmlEnricher:
             str: HTML yanıt metni veya None (hata durumunda).
         """
         for attempt in range(RETRY_MAX):
+            self.last_status = None
             try:
                 response = self.session.get(url, timeout=REQUEST_TIMEOUT)
+                self.last_status = response.status_code
 
                 if response.status_code == 200:
                     return response.text
@@ -592,8 +596,12 @@ class MalHtmlEnricher:
             html = self._request_with_retry(url)
 
             if not html:
-                # Sayfa çekilemedi: liste eksik olabilir
-                complete = False
+                if offset == 0 and self.last_status == 404:
+                    # Film/OVA gibi MAL'de bölüm listesi sayfası olmayan yapıtlar
+                    complete = True
+                else:
+                    # Sayfa çekilemedi: liste eksik olabilir
+                    complete = False
                 break
 
             soup = BeautifulSoup(html, "html.parser")

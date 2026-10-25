@@ -164,7 +164,22 @@
       }
     ],
     "episodes": 2,
-    "episode_list": []
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Versuchung: The End Run",
+        "aired": "Mar 6, 2011",
+        "filler": false,
+        "recap": false
+      },
+      {
+        "episode_number": 2,
+        "title": "Jeden Tag Leben: I'd Like to See the Kampfer's Good Points",
+        "aired": "Mar 6, 2011",
+        "filler": false,
+        "recap": false
+      }
+    ]
   },
   "anilist": {
     "id": 10076,
