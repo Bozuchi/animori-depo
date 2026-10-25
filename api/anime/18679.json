@@ -1466,6 +1466,38 @@
           }
         ],
         "added_date": "2026-07-27T03:09:27.247991"
+      },
+      {
+        "episode_number": null,
+        "title": "Kill La Kill Special",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/aoifansubguncel1/video/embed/_myvideo/592"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4079176"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/n31l5jy0"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1541933"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1799117"
+          }
+        ],
+        "added_date": "2026-07-27T03:09:27.247991"
       }
     ]
   },

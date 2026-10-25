@@ -5,7 +5,77 @@
     "bolum_durumu": "2/2",
     "ozet": "Shinryaku! Ika Musume serisine ait special bölümlerdir.",
     "slug": "shinryaku-ika-musume-specials",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shinryaku! Ika Musume Special 1",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_eX4HyiA76oV3Th9gQciA0gzatBHXPe4/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845897"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4065537"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-69lh3hb12knm.html"
+          }
+        ],
+        "added_date": "2026-07-29T09:48:31.860429"
+      },
+      {
+        "episode_number": null,
+        "title": "Shinryaku! Ika Musume Special 2",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MG4VwJWt-aazGv1IltCNZX6toPBYGZYX/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271189067"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1420630"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4495248"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fx1w3nbv"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/m27bx8vq"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-u6xd5x1osgcc.html"
+          }
+        ],
+        "added_date": "2026-07-29T09:48:31.860429"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9888,

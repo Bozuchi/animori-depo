@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Trinity Seven serisine ait OVA bölümdür.",
     "slug": "trinity-seven-nanatsu-no-taizai-to-nana-madoushi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Trinity Seven OVA: Nanatsu no Taizai to Nana Madoushi",
+        "videos": [
+          {
+            "fansub_id": 57,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359668014"
+          },
+          {
+            "fansub_id": 57,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762710"
+          },
+          {
+            "fansub_id": 57,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3640830"
+          },
+          {
+            "fansub_id": 57,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-67jqak1t2uus.html"
+          },
+          {
+            "fansub_id": 57,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qs3ycoxqrjnq.html"
+          },
+          {
+            "fansub_id": 356,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/18.html"
+          },
+          {
+            "fansub_id": 356,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377254"
+          },
+          {
+            "fansub_id": 356,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9o3uc3zk"
+          },
+          {
+            "fansub_id": 356,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1mz0upfb"
+          }
+        ],
+        "added_date": "2026-07-29T18:26:24.530884"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 28285,

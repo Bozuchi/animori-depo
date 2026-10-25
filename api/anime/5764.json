@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Yayınlanmamış DVD bölümüdür. Bölüm 6,5 olarak da geçer.",
     "slug": "zero-no-tsukaima-princesses-no-rondo-yuuwaku-no-sunahama",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Zero no Tsukaima ~Princesses no Rondo~ 6.5 Ova",
+        "videos": [
+          {
+            "fansub_id": 176,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QmJef9Gu3C8c5JqjeIflrHrY5ini4olh/preview"
+          },
+          {
+            "fansub_id": 176,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3775414"
+          },
+          {
+            "fansub_id": 176,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-j779eyjon7h3.html"
+          },
+          {
+            "fansub_id": 176,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/to3jcgo7"
+          },
+          {
+            "fansub_id": 176,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7ihqb5cvco6u.html"
+          }
+        ],
+        "added_date": "2026-07-30T21:00:23.868740"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5764,

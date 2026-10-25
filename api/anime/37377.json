@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Masamume-kun no Revenge animesine ait OVA bölümüdür.",
     "slug": "masamune-kun-no-revenge-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Masamune-kun no Revenge OVA",
+        "videos": [
+          {
+            "fansub_id": 37,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uNIpmI1jZ0fvAAIYbtGqi9IWpP0Jbm37/preview"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4486626"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4240139"
+          },
+          {
+            "fansub_id": 37,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6bb0wrt22k7y.html"
+          },
+          {
+            "fansub_id": 37,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-eanum5ym6r3c.html"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7xelm2ej"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/19c3k6m8"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/elo37haj"
+          },
+          {
+            "fansub_id": 37,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-511youo0ucav.html"
+          }
+        ],
+        "added_date": "2026-07-27T11:14:30.873827"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37377,

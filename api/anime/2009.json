@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Yawara Inokuma, Atlanta Olimpiyat Oyunları'nda Japonya'yı temsil ederken turnuva boyunca birkaç tanıdık yüze rastlar.",
     "slug": "yawara-zutto-kimi-no-koto-ga",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Yawara! Special: Zutto Kimi no Koto ga...",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KgnYq0eReSSA2xtGY1JRoiRKit3QggYC/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1894_W_3vNzfvI5N6IbETweF1FsgW9nfj/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931912118"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qwi2t3v6ilim.html"
+          }
+        ],
+        "added_date": "2026-07-30T18:10:10.274800"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2009,

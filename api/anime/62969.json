@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Çokbilmiş öyküsünün onuncu özet bölümüdür.",
     "slug": "one-piece-dr-chopper-no-bouken-karte-tensai-ga-nokoshita",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 1150,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16OjGpL_iscCFR6ZwEtX_giX4MnNR6FHW/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6084908"
+          }
+        ],
+        "added_date": "2026-07-27T20:56:05.325304"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 62969,

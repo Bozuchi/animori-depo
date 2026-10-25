@@ -5,7 +5,82 @@
     "bolum_durumu": "2/2",
     "ozet": "Last Exile: Ginyoku no Fam Animesinin Özel Bölümleri",
     "slug": "last-exile-ginyoku-no-fam-adjournment",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Last Exile : Ginyoku no Fam 9.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eKiIXzGE-eS-6Y-2qOP4gIkQJTgAA68R/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XQ5EKq0tk_pzIJmrfgGIwzJY3emLNH5Z/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909540"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909539"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1096832"
+          }
+        ],
+        "added_date": "2026-07-27T07:55:19.051018"
+      },
+      {
+        "episode_number": null,
+        "title": "Last Exile : Ginyoku no Fam 15.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1F4krIIlDBOhipOdsylqrTz8x5yo7rucc/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1588MvGJWRGfBjEhTcXydSgIMucqidgEP/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909577"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909578"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1096841"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-s3wan9imj5fd.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7nfc2ghmvp63.html"
+          }
+        ],
+        "added_date": "2026-07-27T07:55:19.051018"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 12429,

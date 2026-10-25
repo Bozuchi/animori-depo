@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Beş çocuk yaz kampında köpeğe benzeyen bir uzaylının hayatını kurtarır. Uzaylı çocukları Ay’daki bir koloniye götürerek ödüllendirmek ister. Yaralanmasına neden olan saldırıyı bildirmesi Ay ile Dünya arasındaki geçitin kapanmasına yol açmıştır. Bu nedenle çocuklar uzayda kalmışlardır. Yaz kampı bitmeden yani anne babaları kayıp olduklarını fark etmeden geri dönmek zorunda olan çocuklar aynı zamanda uzaylı arkadaşlarını yaralayan kaçak avcılardan da kaçmak zorundadır.",
     "slug": "uchuu-show-e-youkoso",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Uchuu Show e Youkoso",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1daOSmeXuFTbixL9LK-vE-uZLfMy7IBkp/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368129"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661902"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0xxabj346j0k.html"
+          }
+        ],
+        "added_date": "2026-07-29T19:14:22.310912"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8115,

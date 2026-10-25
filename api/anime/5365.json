@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Suların sürekli yükseldiği bir yerde yaşayan yaşlı bir adamın gözünden geçenleri anlatan 12 dakikalık bir yapım. 12 dakika gibi kısa bir süresi olmasına rağmen fazlasıyla duygu barındırıyor.",
     "slug": "tsumiki-no-ie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tsumiki no Ie",
+        "videos": [
+          {
+            "fansub_id": 108,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/247"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4885787"
+          },
+          {
+            "fansub_id": 108,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5e14masv7w39.html"
+          },
+          {
+            "fansub_id": 38,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3590957"
+          },
+          {
+            "fansub_id": 38,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-375rrr1iic8h.html"
+          },
+          {
+            "fansub_id": 38,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/l5042uet"
+          }
+        ],
+        "added_date": "2026-07-29T18:43:08.953442"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5365,

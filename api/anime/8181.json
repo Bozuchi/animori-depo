@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Birbirlerini seven iki sevgilinin yaşadığı zamanda devrim harekatları başlamıştır ve erkek ise bu devrim harekatlarına katılmıştır, ülkenin başındakiler erkeği yakalar ve uzayda bilinmeyen gezegene gönderir. Hikayemiz böyle başlamaktadır arkadaşlar.",
     "slug": "adachi-ga-hara",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Adachi-ga Hara",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jqVqd_1TXhmVD9BYxfZ7aSrs8P3Yct1j/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019325"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/6773.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744305"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xetiyafnzwzt.html"
+          }
+        ],
+        "added_date": "2026-07-19T03:34:48.357283"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8181,

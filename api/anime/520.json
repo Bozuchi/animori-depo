@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Marmalade Boy animesinin filmidir.",
     "slug": "marmalade-boy-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Marmalade Boy Movie",
+        "videos": [
+          {
+            "fansub_id": 223,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tsgyZNxPI9G9DA8YKUQv8xW2rb41GwmT/preview"
+          },
+          {
+            "fansub_id": 223,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/torukojin_a/_myvideo/952.html"
+          },
+          {
+            "fansub_id": 223,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271191552"
+          },
+          {
+            "fansub_id": 223,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4501024"
+          },
+          {
+            "fansub_id": 223,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2650631"
+          },
+          {
+            "fansub_id": 223,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nuhb6ayyoimr.html"
+          },
+          {
+            "fansub_id": 223,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/zbkcj3wr"
+          },
+          {
+            "fansub_id": 223,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-c0qetn1r1yez.html"
+          }
+        ],
+        "added_date": "2026-07-27T11:09:26.542529"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 520,

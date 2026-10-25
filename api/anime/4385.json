@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "İki efsanevi süper robot ilk kez aynı ekranda buluşur! Biçim değiştiren uzaylı canavar Gilgilgan Dünya'yı tehdit ettiğinde, insanlığın tek umudu Great Mazinger ve Getter Robo'dur. Ancak dünyayı kurtarabilmeleri için, pilotlar Tetsuya ve Ryoma'nın aralarındaki ego savaşını bir kenara bırakıp güçlerini birleştirmeleri gerekecektir.",
     "slug": "great-mazinger-tai-getter-robo",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Great Mazinger tai Getter Robo Movie",
+        "videos": [
+          {
+            "fansub_id": 221,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XyID8Qo_NgkzlVL1fiKsbxswJpXEH-2s/preview"
+          },
+          {
+            "fansub_id": 221,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682373516"
+          },
+          {
+            "fansub_id": 221,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/hpo9lghv651z"
+          },
+          {
+            "fansub_id": 221,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hz24b564"
+          },
+          {
+            "fansub_id": 221,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ksxqxgdixr0m.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:55.170168"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4385,

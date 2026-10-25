@@ -5,7 +5,65 @@
     "bolum_durumu": "1/1",
     "ozet": "Rintaro, Yoshiaki Kawajiri ve Katsuhiro Otomo tarafından hazırlanmış kısa Bilim-kurgu öyküleri.",
     "slug": "manie-manie-meikyuu-monogatari",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Neo Tokyo",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1et6YEgxgc3z15dqcNKPnYyGBvUFcpm3j/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/425.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/444.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4501648"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2560769"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2610985"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vbldhknghzyi.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9gvl2wsq"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/d7030ftl"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-dohwaa84kskk.html"
+          }
+        ],
+        "added_date": "2026-07-27T10:46:36.241648"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1951,

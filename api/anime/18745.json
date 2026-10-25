@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Kültürel bir festivalin konu alındığı, ana seriye bağlı bir OVA bölümdür.",
     "slug": "chihayafuru-2-waga-miyo-ni-furu-nagame-shima-ni",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Chihayafuru 2 OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fpPpyrU3D24ctkxhpjDQF4RmlLuC5n27/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4512758"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1692846"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/l3ma8mzf"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-tgvko3wdpc4g.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:32:40.201711"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 18745,

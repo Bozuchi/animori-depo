@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "-Güncellenecek-",
     "slug": "gintama-shiroyasha-koutan",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Gintama: Shiroyasha Kouta Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14-fISjAAjgpUUw-ZGoJH-RpYfZUfwDz6/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/445.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2561586"
+          }
+        ],
+        "added_date": "2026-07-25T23:50:43.225551"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6945,

@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Playstation 4'teki Kandagawa Jet Girls oyunuyla bağlantılı olarak piyasaya sürülen OVA bölümü.",
     "slug": "kandagawa-jet-girls-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kandagawa Jet Girls OVA",
+        "videos": [
+          {
+            "fansub_id": 218,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_PfD4GgJucMNiSD7iNXS0HIQwews-MRu/preview"
+          },
+          {
+            "fansub_id": 218,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685365233"
+          },
+          {
+            "fansub_id": 218,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/y4arka0a"
+          }
+        ],
+        "added_date": "2026-07-26T23:49:34.641433"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 41146,

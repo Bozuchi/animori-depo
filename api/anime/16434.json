@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Mike savaşta yaralanıp evine dönen bir askerdir. Ailesinden, arkadaşlarından ve memleketinden ayrılıp yeni bir hayata yol alıyor.",
     "slug": "penguin-s-memory-shiawase-monogatari",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Penguin's Memory: Shiawase Monogatari",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17YKY7uXfgjgOKyD5B3Z4ClMaQ22LjP5i/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17ZFdThm3mcghLhNqYkf9H8287a-0F_6f/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4517758"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cmjebcvb12n6.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:26:19.634098"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16434,

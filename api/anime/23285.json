@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Fuji TV Noitamina (Animasyon) Kuşağının 10. Yıl dönümüne özel olarak hazırlanmış kısa filmdir.",
     "slug": "paulette-no-isu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Paulette no Isu Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12qdrOafTavA8v4W0ix3vTBlQnxqpoTbp/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366251"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-56qbdsyy1joh.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ymyhfoox"
+          }
+        ],
+        "added_date": "2026-07-29T01:21:39.113026"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 23285,

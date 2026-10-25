@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Endüstriyel gelişme amacıyla insan cesetlerinin işçi olarak kullanılmak üzere tekrar hayata döndürüldüğü 19.yy Londra'sında geçen hikayede üniversitede yetenekli bir tıp öğrencisi olan genç Watson'un değer verdiği bir dostunu kurtarmak pahasına cesetler üzerinde araştırmalar yapan Dr.Victor Frankenstein'ın çalışmalarını yanlış ellere geçmeden önce bulmak üzere giriştiği çabayı anlatır.",
     "slug": "shisha-no-teikoku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shisha no Teikoku",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1UTr7DDxMWqdndRgXB9fJ7dAuiUrjHphY/preview"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658112"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186881"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-imiuegxyxmsz.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/bk/schneizel/video/embed/_myvideo/863"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/805.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4955653"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6qm40lw1diva.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-uk13nziobixb.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:00:18.676088"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 28625,

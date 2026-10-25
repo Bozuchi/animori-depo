@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Kaichou wa Maid-sama! serisine ait special bölümdür.",
     "slug": "kaichou-wa-maid-sama-goshujinsama-to-asonjao",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kaichou Wa Maid-Sama Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uml5uKDsCs-uR62bMdk6gKLHJFVb0_ly/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7852876293715526056"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/800.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2644086"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4513159"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dj20vz10ns5e.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/v3as3xhe"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cae0hhztk6y5.html"
+          }
+        ],
+        "added_date": "2026-07-26T22:52:14.506503"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10298,

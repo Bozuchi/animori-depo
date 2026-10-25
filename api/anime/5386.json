@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Efsanevi kılıç ustası Miyamoto Musashi'nin (1584-1645) hayat hikâyesini konu almaktadır.",
     "slug": "miyamoto-musashi-souken-ni-haseru-yume",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Miyamoto Musashi: Souken ni Haseru Yume",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Aq5idYjwc-HUgp9_8mfCw7Yx4hNjQiRI/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846753"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017297"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4071846"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bfd0th3vtmty.html"
+          }
+        ],
+        "added_date": "2026-07-27T12:24:16.337056"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5386,

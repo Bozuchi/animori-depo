@@ -521,6 +521,53 @@
           }
         },
         "added_date": "2026-07-27T04:56:47.239331"
+      },
+      {
+        "episode_number": null,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! - 11 OAD",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3kw0up9b"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fylOzQmUprSDX16-R78uKeXLPj_YP0YQ/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3849802"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4503729"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7kw67k52o6du.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-uqh5uqczsyu5.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-eo57fk2w7hau.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2810345"
+          }
+        ],
+        "added_date": "2026-07-27T04:56:47.239331"
       }
     ]
   },

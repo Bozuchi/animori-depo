@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Film Misono Alicein'in geçmişini anlatmaktadır.",
     "slug": "servamp-movie-alice-in-the-garden",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Servamp Movie: Alice in the Garden",
+        "videos": [
+          {
+            "fansub_id": 142,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EYV94DoYON6SyjC48ioXABhMo1YiNBjp/preview"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1523"
+          },
+          {
+            "fansub_id": 142,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-f6z5nte0w3sq.html"
+          }
+        ],
+        "added_date": "2026-07-29T08:06:55.052729"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36803,

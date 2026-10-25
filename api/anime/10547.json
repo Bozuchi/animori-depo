@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Oretachi ni Tsubasa wa Nai: Under the Innocent Sky. Animesinin OVA Bölümüdür.",
     "slug": "oretachi-ni-tsubasa-wa-nai-hadairo-ritsu-kyuuwari-zou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Oretachi ni Tsubasa wa Nai: Under the Innocent Sky. OVA",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Z8WwNnRmJPBxWjwt_wgKle8LlbLZqHxn/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158068956"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359657010"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1761490"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4449691"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ooxjxhan7k9e.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-bapqlwxezri2.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8nanug3t"
+          }
+        ],
+        "added_date": "2026-07-29T00:14:00.709317"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10547,

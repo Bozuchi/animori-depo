@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Black Cat animesinin OVA bölümüdür.",
     "slug": "black-cat-tv-toozakaru-neko",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Black Cat (TV): Toozakaru Neko OVA",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/136k3l7Vyjj_bE3mBS2pqjby5q0AbcK_O/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715660"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7852876293715528028"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4464847"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7j0fm3ecv2xx.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/repzmobx"
+          }
+        ],
+        "added_date": "2026-07-23T04:59:37.622894"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2589,

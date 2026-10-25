@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Lupin III animesinin filmidir.",
     "slug": "lupin-iii-the-first",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Lupin III: The First Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ll-XivwUjD68TXQiJ2a0f1mBC2zYflOZ/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pN9LSHpSlFr6Y3ebuHMH6q-cgbCk9enX/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850477"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359652274"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3993423"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-w16ocefplt8e.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-08a7ahkvuaxk.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:55:57.454856"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40082,

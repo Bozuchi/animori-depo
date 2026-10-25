@@ -606,6 +606,48 @@
           }
         ],
         "added_date": "2026-07-27T07:28:19.953078"
+      },
+      {
+        "episode_number": null,
+        "title": "Kyou no Go no Ni OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1252231"
+          },
+          {
+            "fansub_id": 137,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1b2bUdW89fXsC0ur_f4MM7ZsZm804b_nR/preview"
+          },
+          {
+            "fansub_id": 137,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158068050"
+          },
+          {
+            "fansub_id": 137,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660730"
+          },
+          {
+            "fansub_id": 137,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/puzzle.reinkenzan/video/embed/_myvideo/28"
+          },
+          {
+            "fansub_id": 137,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7hsap4bkfyzd.html"
+          },
+          {
+            "fansub_id": 137,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-agyx0ytdq3yo.html"
+          }
+        ],
+        "added_date": "2026-07-27T07:28:19.953078"
       }
     ]
   },

@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Sukitte li na yo. serisine ait OVA bölümdür.",
     "slug": "sukitte-ii-na-yo-dareka-ga",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Sukitte ii na yo OVA ",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12qLwLHGw5V-_ie1v87_Ty__5mvgFHpVH/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846371"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4070483"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-iy1xfssnouoh.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qd4hfbmx0nkj.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vpev4180"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-35o4muvp5zn2.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:28:38.060456"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16868,

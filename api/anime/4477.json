@@ -657,6 +657,48 @@
           }
         ],
         "added_date": "2026-07-27T16:41:11.522339"
+      },
+      {
+        "episode_number": null,
+        "title": "Nodame Cantabile Paris-Hen OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1cZxndnIWT6KznOjqORFGjKA4nwOYB8C3/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140717789"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271190143"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4472813"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1481110"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/me6udegp"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ml47gjaatjml.html"
+          }
+        ],
+        "added_date": "2026-07-27T16:41:11.522339"
       }
     ]
   },

@@ -5,7 +5,65 @@
     "bolum_durumu": "1/3",
     "ozet": "Choujigen Game Neptune The Animation serisinin OVA bölümüdür.",
     "slug": "choujigen-game-neptune-the-animation-nep-no-natsuyasumi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Choujigen Game Neptune The Animation: Nep no Natsuyasumi OVA",
+        "videos": [
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3804153"
+          },
+          {
+            "fansub_id": 39,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Uy8FXUP2PVxhd2JAxkp0Q227u-qT42uX/preview"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718193"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1954"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4474534"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4160818"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tzesks3rxvey.html"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/0rd08y2s"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/e5xp1lmx"
+          },
+          {
+            "fansub_id": 39,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-sfc04f4ulvj5.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:44:42.927104"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39638,

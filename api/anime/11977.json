@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Yapılacak olan Madoka üçlemesinin (trilogy) ilk filmi. İlk 8 bölümü içermektedir.",
     "slug": "mahou-shoujo-madoka-magica-movie-1-hajimari-no-monogatari",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari",
+        "videos": [
+          {
+            "fansub_id": 76,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1794"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366224"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/bk/schneizel/video/embed/_myvideo/807"
+          },
+          {
+            "fansub_id": 76,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3043851"
+          },
+          {
+            "fansub_id": 76,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/cpz1srdm"
+          },
+          {
+            "fansub_id": 76,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-8lj1kficfdzq.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:43:51.218248"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11977,

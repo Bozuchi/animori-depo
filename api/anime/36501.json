@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Mahoutsukai no Yome serisine ait haftalık yayınlanmış parodi bölümlerin ilk bölümüdür.",
     "slug": "mahoyome-aisatsu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "MahoYome: Aisatsu",
+        "videos": [
+          {
+            "fansub_id": 108,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1K6LbSs8-xFedG6xo6nFqJ1SXtJVWpG1g/preview"
+          },
+          {
+            "fansub_id": 108,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/3730"
+          },
+          {
+            "fansub_id": 108,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660315"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4460336"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3549752"
+          },
+          {
+            "fansub_id": 108,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m1o8wdrh0onq.html"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/j1rvdcvf"
+          }
+        ],
+        "added_date": "2026-07-27T10:02:23.308548"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36501,

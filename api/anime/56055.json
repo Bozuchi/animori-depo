@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Eiichiro Oda'nın kaleminden çıkan MONSTERS: 103 Mercies Dragon Damnation serisinin uyarlaması olarak Wano Ülkesi'nden gelen efsanevi kılıç ustası Ryuma'nın hikayesini anlatıyor.\nBir samurayın yolu onu, memleketi bir ejderha tarafından yok edilen genç bir garsona götürür. Beladan uzak kalmak istese de bir şekilde bazı olaylara karışır.",
     "slug": "monsters-ippyaku-sanjou-hiryuu-jigoku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Monsters: Ippyaku Sanjou Hiryuu Jigoku ONA",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZnuUbEsMBMt0iYeu3q4ChjIt5ZQ__tMU/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5407630"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m6fl9t4qld4h.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-inqdp35hscgr.html"
+          }
+        ],
+        "added_date": "2026-07-27T13:17:45.048724"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 56055,

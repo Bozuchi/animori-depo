@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Serinin BDsinde yayınlanan özel bölümüdür",
     "slug": "dimension-w-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Dimension W OVA",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tRKD822SxmeO5fqCRQ8I2JhVfh_F0Vbv/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ssDWowFvFeF3agZFvc1LOiotRKDUDYoG/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4427260"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4527531"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0xzzs06c6511.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xx6k8u4vtdus.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/h99xxgo5"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5766h7zup6ws.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-tepvtev81apd.html"
+          }
+        ],
+        "added_date": "2026-07-24T21:43:53.193049"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33069,

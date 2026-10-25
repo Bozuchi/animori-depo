@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Dünya isimli MMORPG'de ki bir barda etkinliğin başlamasını bekleyen bir grup toplanmıştır. Burada, nadiren giriş yapanlar da dahil eski dostlar yeniden bir araya gelirler. \nHacker Helba tarafından davet edilen grup, hepsini bir kutlamanın beklediği Net Slums'da ki etkinliğe gitmek için hep birlikte yola koyulurlar.",
     "slug": "hack-unison",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": ".hack//Unison Special",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JdoHJiAyVrh3RFKMLEj9-D8P8yC1jhsi/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359652196"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1248"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4502839"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qut0kk7nrt18.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pb5mgv2g6evs.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/o68ikhdw"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-eatw1hb6ljt5.html"
+          }
+        ],
+        "added_date": "2026-07-17T05:13:48.193807"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1487,

@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Triage X serisinin yayınlanmamış 11. bölümüdür.",
     "slug": "triage-x-recollection-xoxo",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Triage X OVA: Recollection XOXO ",
+        "videos": [
+          {
+            "fansub_id": 37,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GDnaq-fNQe6OVHh-bsCLYoeWzMjryNnF/preview"
+          },
+          {
+            "fansub_id": 37,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1LJdCUrAo1hunul1VQTZQ7s3q_ggWGXge/preview"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3449113"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4506388"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qsp3z4xb"
+          },
+          {
+            "fansub_id": 37,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-x74drkaalg5s.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3297695"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/55ou8drg"
+          }
+        ],
+        "added_date": "2026-07-29T18:18:11.796393"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30250,

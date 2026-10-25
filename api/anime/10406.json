@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Kasabada artık Spelunker adında yeni bir öğretmen vardır! Bu sıra dışı insan, öğrencilere trafik emniyeti hakkında konuşmalar yapan, hararetli bir şekilde nemlendiriciye tepki veren ve öğle yemeğinin tadını çıkaran tipik bir eğitmendir. Böyle tuhaf bir karakter ile Spelunker'in öğrencileri asla aynı olmayacaktır!",
     "slug": "spelunker-sensei",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Spelunker Sensei OVA",
+        "videos": [
+          {
+            "fansub_id": 66,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18Ki8fsbjA-SlmpvA84J77HDSD0Y8Jn-2/preview"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/descless/video/embed/_myvideo/184"
+          },
+          {
+            "fansub_id": 66,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3394125"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7igxi4j1h4ka.html"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gs4s8sh2rml6.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:09:38.139342"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10406,

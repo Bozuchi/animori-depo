@@ -1566,6 +1566,78 @@
           }
         },
         "added_date": "2026-07-29T01:07:16.511338"
+      },
+      {
+        "episode_number": null,
+        "title": "Owari no Seraph: Kyuuketsuki Shahar",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/sinem.puzz/_myvideo/95.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158070259"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-01wcn5li0g6a.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jyu26zdm2nn2.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/87xk7p60"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ecz7abqobd8d.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1pPRjnlkWDqe2Fizr2qlQN1eXcyT2awNI/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5017021353669166330"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3188378"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tj8csgfw7a7t.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2y2bfq10"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3rfg1xk3"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-zer2o6rhnzfs.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:07:16.511338"
       }
     ]
   },

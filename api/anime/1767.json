@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Yuki Kano her şeye sahiptir. Şöhret, servet, ayaklarının altında uzanan dünya. Ne var ki hiç yolunda gitmeyen bir şey de vardır. Bir pop star için tam bir felaket olmasına rağmen zaman zaman şarkı söyleyemez. Bu sebeple insanların kafasının içerisine girip çoğu sorunu çözme yeteneğine sahip birisine başvurur. Çoğu sorunu...",
     "slug": "psycho-diver-mashou-bosatsu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Psycho Diver: Mashou Bosatsu OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1i8sN-MAUTAox2zus_wKySCHej84d4sOL/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1671"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-07ya3fswuy8f.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q6r2jxz2"
+          }
+        ],
+        "added_date": "2026-07-29T03:05:27.892839"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1767,

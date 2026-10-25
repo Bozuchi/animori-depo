@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Made in Abyss animesinin 9-13. bölümü içeren kısımdır",
     "slug": "made-in-abyss-movie-2-hourou-suru-tasogare",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+        "videos": [
+          {
+            "fansub_id": 39,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1vv9AgZ4zIjcYvxjJrQyjBlAFZtLnRr8Q/preview"
+          },
+          {
+            "fansub_id": 39,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Ub9ocwgiFCBR2_mfLlMbhmcos2XMOo0X/preview"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140716704"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1852"
+          },
+          {
+            "fansub_id": 39,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9tln7oidz9rm.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:17:26.711234"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37515,

@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Yamatotakeru efsanesine göre yaşamı anlatan Tezuka Osamu'nun orijinal mangasından uyarlanmış olan Phoenix serisinin ikinci kısmıdır. Karakterler yine mangada olduklarından farklı tasarlanmıştır-- aslında daha olgun çizilmişlerdir ve bu orijinal çizimin hayranlarını düş kırıklığına uğratmıştır.",
     "slug": "hi-no-tori-yamato-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hi no Tori: Yamato-hen",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1LQNHCVr8N6KdI7MDypWXyi9eyB6l5WbG/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845661"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658667"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4064073"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4454778"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jai7du6cx4vb.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/rojvn75e"
+          }
+        ],
+        "added_date": "2026-07-26T03:03:07.807894"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2999,

@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "İlişkileri hakkında konuşan bir kadın ve erkeğin hikayesi.",
     "slug": "tooi-sekai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tooi Sekai",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hNXZq6HRRrT53lf6pP8Ctv6y7xr5-fsp/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017624"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1700482"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-arnruyr4t40b.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5697.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1525256"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5003760"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lzje1l11j1ai.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1on7ou68so0b.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:45:59.448568"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2210,

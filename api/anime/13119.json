@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Hakuouki filmlerinin ikinci bölümüdür. İlk filmin devamı.",
     "slug": "hakuouki-movie-2-shikon-soukyuu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hakuouki Movie 2: Shikon Soukyuu",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1C3hhphl6qr4T3rh2uNVxNK2pZlah42wy/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018113"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1912027"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-dapxpv9ok34l.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:54:40.006108"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13119,

@@ -5,7 +5,75 @@
     "bolum_durumu": "1/1",
     "ozet": "Hai to Gensou no Grimgar serisine ait Special bölümdür.",
     "slug": "hai-to-gensou-no-grimgar-furoagari-no-kabe-ni-kaketa-seishun-one-more-centimeter",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hai to Gensou no Grimgar Special: Furoagari no Kabe ni Kaketa Seishun - One More Centimeter",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OPlQ2eRMDTZcJI1Nl3lORi-743fBn-YL/preview"
+          },
+          {
+            "fansub_id": 97,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271188303"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4503973"
+          },
+          {
+            "fansub_id": 97,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-okoc18d50jl3.html"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/c46611ad"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/soisxav6"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/s27snhe3"
+          },
+          {
+            "fansub_id": 97,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0g4ypj88z21h.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667971"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzle.sub/_myvideo/58.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762259"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-suev7m1ivw83.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:25:02.560177"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32561,

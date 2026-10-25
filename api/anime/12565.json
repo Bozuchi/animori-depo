@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Fate/Prototype, Kinoko Nasu'nun orjinal eseri Fate/stay night'ın daha lisedeyken yazmaya başladığı taslak halidir. Daha sonra geniş bir visual novel dünyası olarak tekrar tasarlanan bu taslak aslında o zamanlar bir roman olması için yazılmaya başlanmış. Fate dünyasının popülerliği karşısında TypeMoon, bu taslağı da 12 dakikalık ufak bir tanıtım videosu olarak sundu.",
     "slug": "fate-prototype",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fate/Prototype Tanıtım Bölümü",
+        "videos": [
+          {
+            "fansub_id": 10,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-99eEncwTwkR4vVQNkgwr_2VkAdUBhVi/preview"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359662376"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366633"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4603085"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qehkklrd"
+          },
+          {
+            "fansub_id": 10,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1g7ccl8mtgrc.html"
+          }
+        ],
+        "added_date": "2026-07-25T01:23:17.459494"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 12565,

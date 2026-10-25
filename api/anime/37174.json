@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Kaoruko evleneceği kişi ile buluşmaya hazırlanıyor... Ama Chichibu'da küçükken tanıştığı asla unutamayacağı biri vardır. Yaşadıkları yeniden yaşamaya değer paha biçilmez anlardı. Belki... Belki de... Eğer Chichibu'ya giderse onu tekrar görebilir. Kaoruko, zayıf umuduna ve belli belirsiz hatıralarına sarılarak aramaya karar verir.",
     "slug": "chichibu-de-buchichi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Chichibu de Buchichi",
+        "videos": [
+          {
+            "fansub_id": 66,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Ae1n0_YOX6s_LKMrilSFKCbsc_K3y3BW/preview"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933013929"
+          },
+          {
+            "fansub_id": 66,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3449306"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l8eva54oym9o.html"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8mvd2r49201u.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:30:03.449305"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37174,

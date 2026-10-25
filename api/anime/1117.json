@@ -5,7 +5,14 @@
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin ikinci filmidir.",
     "slug": "pokemon-movie-02-maboroshi-no-pokemon-lugia-bakutan",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Pokemon Movie 2 - The Power of One",
+        "videos": [],
+        "added_date": "2026-07-29T02:26:32.809272"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1117,

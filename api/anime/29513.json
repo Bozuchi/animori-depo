@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Aki Miyagawa taiko festivali bateristi olma hayalini gerçekleştirmek için Tokyo'ya taşındı, ama part-time işiyle zorlu antrenmanları bir arada yürütmekte zorluk çekti. Şimdi, 15 yılın ardından, taiko festivalinde başkalarını eğitmek için geri dönüyor.",
     "slug": "aki-no-kanade",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Aki no Kanade",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HU3eHGA9ChyeSAZujcrZOP_W825Hr05t/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660952"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366523"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/mutlu.meric/29/897.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-i3botah7jqq3.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ffwt6ru0mfx0.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/nw71r8he"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-p46kt25m17yz.html"
+          }
+        ],
+        "added_date": "2026-07-20T06:11:25.483498"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 29513,

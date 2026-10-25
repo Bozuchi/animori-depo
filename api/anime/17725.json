@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Kami nomi zo Shiru Sekai animesinin özel bölümlerinden birisidir.",
     "slug": "magical-star-kanon-100",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "The World God Only Knows Magical☆Star Kanon 100% OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XDdW-aM7jYq0sYRxX0PS7-jZodEmmmQX/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271188859"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/2289/2290.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1194971"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4498745"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7uhl9sh6"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4jkvq1flrldz.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:33:51.521476"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 17725,

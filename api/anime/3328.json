@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "School Days serisine ait OVA bölümdür.",
     "slug": "school-days-magical-heart-kokoro-chan",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "School Days OVA: Magical Heart Kokoro Chan",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1iH9w8cSbGby3M6MLPHtUOgCxoI2xOMDR/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4447960"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1300056"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m6nexy7xv2r6.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/u9wfo22l"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/rztih1ux"
+          }
+        ],
+        "added_date": "2026-07-29T06:56:00.820488"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3328,

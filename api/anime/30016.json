@@ -1280,6 +1280,53 @@
           }
         ],
         "added_date": "2026-07-27T14:30:22.508042"
+      },
+      {
+        "episode_number": null,
+        "title": "Nanbaka 5",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1FiRlMTfThgEgcIjvy4yeY8je5neNrSU0/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658398"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/6412852675095822563"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4453863"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ncvcvva7"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q5y9hbbb"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wb7odr8fi2rb.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6ivrrxkz"
+          }
+        ],
+        "added_date": "2026-07-27T14:30:22.508042"
       }
     ]
   },

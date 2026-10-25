@@ -5,7 +5,70 @@
     "bolum_durumu": "1/1",
     "ozet": "Majutsushi Orphen Hagure Tabi serisinin specials bölümüdür.",
     "slug": "majutsushi-orphen-hagure-tabi-tennin-no-isan",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Majutsushi Orphen Hagure Tabi: Tennin no Isan",
+        "videos": [
+          {
+            "fansub_id": 33,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1y9QnzEr5npFLjBRTHWrhW_845AklSzga/preview"
+          },
+          {
+            "fansub_id": 33,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4332683"
+          },
+          {
+            "fansub_id": 33,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u0ulkpyx0pys.html"
+          },
+          {
+            "fansub_id": 33,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/rj607hmt"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359669923"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1126"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3902329"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4782738"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-j6n1voxubnxp.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q77wg2e0"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ghxiwu2szarm.html"
+          }
+        ],
+        "added_date": "2026-07-27T10:34:29.798697"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 41549,

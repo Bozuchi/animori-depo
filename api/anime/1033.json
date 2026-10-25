@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Studio Gin'ei film yapımcısı Gen'ya Tachibana, gençlik yıllarının ünlü film yıldızı Chiyoko Fujiwara'nın hayatını belgesel haline getirmeye karar verir. Chiyoko 1930 dan 1960 a kadar çalıştığı stüdyonun baş kadın oyuncusu olmuştur. Ama kariyerinin zirvesinde oyunculuğu bırakıp inzivaya çekilmiştir. Tachibana ve ekibindeki insanlar Chiyoko hayatını anlatırken kendilerini eşsiz hatıraların saklandığı bir zaman tünelinde bulurlar.",
     "slug": "sennen-joyuu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Millennium Actress",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366329"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/muobaba/video/embed/_myvideo/119"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/g616tw9s"
+          }
+        ],
+        "added_date": "2026-07-29T07:54:54.579347"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1033,

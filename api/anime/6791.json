@@ -67,6 +67,63 @@
           }
         ],
         "added_date": "2026-07-27T00:07:18.178938"
+      },
+      {
+        "episode_number": null,
+        "title": "Kanokon OVA 1",
+        "videos": [
+          {
+            "fansub_id": 237,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1693236"
+          },
+          {
+            "fansub_id": 237,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-umtrusemb1sf.html"
+          },
+          {
+            "fansub_id": 237,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ocbdm2396f77.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VzL64ZqXSopSY8-IP0iREwt6ufX2ZdJm/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715826"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271188213"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4465412"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1460108"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/etajumhg"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-j20buh67nrav.html"
+          }
+        ],
+        "added_date": "2026-07-27T00:07:18.178938"
       }
     ]
   },

@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Mahou Shoujo Lyrical Nanoha'nın BD Kutu Setinde yer alan animasyon şovu. Subaru, Teana, Vivio kendi BD Kutu Setlerini tanıtan bir radyo programına ev sahipliği yaparlar. Bu bölümün Mahou Shoujo Lyrical Nanoha A's'le ilgili spoiler içerdiğini belirtip izleyicilere bu bölümü izlemeden önce A's dizisini ya da A's filmini izlemelerini önerirler.",
     "slug": "mahou-shoujo-lyrical-nanoha-picture-drama",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mahou Shoujo Lyrical IF",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VVQ29WN_utFIC4qIZnGk7A4fZvWa5NXP/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140716424"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685362694"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4468048"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hze26j5fv99m.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/47x0rmz3"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-r6u7ciw460ce.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:40:38.302745"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 35501,

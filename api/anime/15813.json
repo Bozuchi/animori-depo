@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Fantastik bir dünyada çalışan 2 kız kardeşin hikayesi anlatılmaktadır. Günün birinde kız kardeşler bir olay üzerinde çalışırlarken insan dünyasına ile etkileşime geçerler.",
     "slug": "majokko-shimai-no-yoyo-to-nene",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Majokko Shimai no Yoyo to Nene",
+        "videos": [
+          {
+            "fansub_id": 76,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mirfeWQ_df4LjjQEl3mX5XvOcfz27dHI/preview"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5669.html"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1749"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017611"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1e1ril2wls5t.html"
+          }
+        ],
+        "added_date": "2026-07-27T10:19:19.179196"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 15813,

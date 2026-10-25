@@ -109,6 +109,43 @@
           }
         ],
         "added_date": "2026-07-30T20:17:53.164017"
+      },
+      {
+        "episode_number": null,
+        "title": "Yuru Yuri Nachuyachumi! OVA",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3800748"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4955456"
+          },
+          {
+            "fansub_id": 52,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-uano1n0kev24.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mFPapFWR5G6iujIn3cNsirU_7_gEpAcQ/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018547"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2540616"
+          }
+        ],
+        "added_date": "2026-07-30T20:17:53.164017"
       }
     ]
   },

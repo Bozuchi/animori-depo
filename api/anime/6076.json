@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Efsanevi boksör Keijiro Akagi'nin oğlu Eiji, liseyi bırakmıştır ve dünyanın en kötü gitaristidir. Babası ve abisi boksör olduğu halde bokstan nefret eder. Ama yerel bölge şampiyonunun kız kardeşi ile tanıştıktan sonra boksa ilgi duymaya başlar.",
     "slug": "eiji",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Eiji Ova",
+        "videos": [
+          {
+            "fansub_id": 9,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xA5PT8TzURehjuXQLNBQmFZn7qtcMKm0/preview"
+          },
+          {
+            "fansub_id": 9,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/emreboyacioglu38/video/embed/_myvideo/224"
+          },
+          {
+            "fansub_id": 9,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/1392"
+          },
+          {
+            "fansub_id": 9,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4492410"
+          },
+          {
+            "fansub_id": 9,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3100628"
+          },
+          {
+            "fansub_id": 9,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3qkj9m8fwduk.html"
+          },
+          {
+            "fansub_id": 9,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2vd2t205xv49.html"
+          },
+          {
+            "fansub_id": 9,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/tujbxybe"
+          },
+          {
+            "fansub_id": 9,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ht9mawfhlmgt.html"
+          }
+        ],
+        "added_date": "2026-07-17T05:14:05.237685"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6076,

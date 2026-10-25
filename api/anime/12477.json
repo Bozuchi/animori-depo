@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Bir dünya hayal edin, uçsuz bucaksız bir karanlık ve olabildiğince uzanan tüneller! Bir de bu dünyanın tam tersi aydınlık bir gökyüzü ve ayaklarının altında uzanan yeşil çimenler… Dünyaları ne kadar karanlık olursa olsun, mütevazı ve hoş görülü insanları koydukları kurallar içerisinde hayatlarını sürdürmeye çalışmaktadır. Ancak koyulan bu kurallara pek inanmayan ve yasak bölgeleri araştırmayı seven Patema büyük bir gerçeği keşfeder. Kimin yer altında kimin yeryüzünde olduğu kavramı artık önemi yitirmiştir! Artık rollerin değişme zamanı gelmiştir…",
     "slug": "sakasama-no-patema",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Sakasama no Patema",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371190"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5413949"
+          },
+          {
+            "fansub_id": 120,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/u0wgd10mvpuh"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cqhcct4dj1tu.html"
+          }
+        ],
+        "added_date": "2026-07-29T06:13:52.791848"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 12477,

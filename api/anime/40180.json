@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Jurassic kısa filminin kadro üyelerinin çoğu Toei Animation stüdyosunun en genç personellerinden oluşmaktadır. Ken Tsuchiya'nın Real-Size Koseibutsu Zukan (Gerçek Boyutlu Soyu Tükenmiş Yaratıklar Resimli Kitabı) kitabı animeye ilham veriyor ve Tsuchiya animeye \"soyu tükenmiş yaratıklar danışmanı\" olarak hizmet sunuyor.",
     "slug": "jurassic",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Jurassic! ONA",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-l9I9jqZMGKnmfqrETHYkl8tBlsF2pDq/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659333"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7284"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4457514"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3864000"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fijufc6x569j.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ytquhh59yn9s.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pg08ewna"
+          }
+        ],
+        "added_date": "2026-07-26T22:07:20.196825"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40180,

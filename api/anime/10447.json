@@ -1409,6 +1409,58 @@
           }
         },
         "added_date": "2026-07-23T02:22:56.599638"
+      },
+      {
+        "episode_number": null,
+        "title": "Aquarion Evol 1-2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1743303"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-94q08zvyaarp.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fZ5SH7XOG7nNI6p_FHQqApdZ0rTZNn5w/preview"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/anisekai.uploadenes/_myvideo/122.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158070580"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4512882"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2118741"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/mlqkf4rx"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-36ei5zx8nvg4.html"
+          }
+        ],
+        "added_date": "2026-07-23T02:22:56.599638"
       }
     ]
   },

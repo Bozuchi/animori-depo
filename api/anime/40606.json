@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Captain Tsubasa'nın kısa özel bölümüdür.",
     "slug": "captain-tsubasa-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Captain Tsubasa Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TsGCv5-dT0KzVBlVeX2R4PFlDUGIjeP9/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850363"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6753"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4433135"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3763474"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6wqgqjin5l84.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3d61uiof1wij.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4pc81u7e"
+          }
+        ],
+        "added_date": "2026-07-23T07:49:54.078940"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40606,

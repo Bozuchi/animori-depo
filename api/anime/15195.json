@@ -882,6 +882,80 @@
           }
         },
         "added_date": "2026-07-26T02:59:52.032123"
+      },
+      {
+        "episode_number": null,
+        "title": "Hetalia: The Beautiful World 4",
+        "videos": [
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19nNyqFcFQBAF4pJqzFyFZWUBZZX9ZauM/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1yS_It2bIqkRRdel-6IMR0GP33EmXzvai/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359664276"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685364328"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4616492"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3948650"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-y5od6bistkwp.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vr7mpc56ey0k.html"
+          }
+        ],
+        "added_date": "2026-07-26T02:59:52.032123"
+      },
+      {
+        "episode_number": null,
+        "title": "Hetalia: The Beautiful World 5",
+        "videos": [
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14RGMkRcEuEFvRQUq0rEfGptcpWIOKPB0/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685364329"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3948673"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kf02saejhfry.html"
+          }
+        ],
+        "added_date": "2026-07-26T02:59:52.032123"
       }
     ]
   },

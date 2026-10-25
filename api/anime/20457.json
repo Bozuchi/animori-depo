@@ -320,6 +320,70 @@
           }
         },
         "added_date": "2026-07-26T05:22:02.575625"
+      },
+      {
+        "episode_number": null,
+        "title": "Inari, Konkon, Koi Iroha. 5",
+        "videos": [
+          {
+            "fansub_id": 267,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tygKQ2ttarTB8EQ7CdyJjJa4gFvfb2XX/preview"
+          },
+          {
+            "fansub_id": 267,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AB1fpqo3JAdTBBgET-Ie4UFAnjz_Ouw4/preview"
+          },
+          {
+            "fansub_id": 267,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931910488"
+          },
+          {
+            "fansub_id": 267,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4524801"
+          },
+          {
+            "fansub_id": 267,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7gneaq5mzg8o.html"
+          },
+          {
+            "fansub_id": 267,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qq56j0ima26i.html"
+          },
+          {
+            "fansub_id": 267,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lwchpzolslxw.html"
+          }
+        ],
+        "added_date": "2026-07-26T05:22:02.575625"
+      },
+      {
+        "episode_number": null,
+        "title": "Inari, Konkon, Koi Iroha. 10 Final",
+        "videos": [
+          {
+            "fansub_id": 267,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jV-ag0XttWofAu1ASF5AJpPg5etLBMnz/preview"
+          },
+          {
+            "fansub_id": 267,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017316"
+          },
+          {
+            "fansub_id": 267,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ely6qhr1k5h9.html"
+          }
+        ],
+        "added_date": "2026-07-26T05:22:02.575625"
       }
     ]
   },

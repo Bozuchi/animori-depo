@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Çokbilmiş öyküsünün beşinci özet bölümüdür.",
     "slug": "one-piece-yuruganu-seigi-kaigun-no-hokoritakaki-log",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 1120,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1u_jJJ6YUnSlKdBefZINxneIK2BR1zB8S/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5722669"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fx2m13cr"
+          }
+        ],
+        "added_date": "2026-07-27T20:58:41.312325"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59908,

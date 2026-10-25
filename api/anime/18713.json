@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Haiyore! Nyaruko-san serisine ait OVA bölümüdür.",
     "slug": "haiyore-nyaruko-san-yasashii-teki-no-shitome-kata",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Haiyore! Nyaruko-san OVA",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zJac21h4iRVdcbn9vSlNCBeX17uXgd58/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MUwskyWMMdm0L2Gn1qi_OgV488DOlGOC/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931908146"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/2396.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521356"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1199829"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-a2e017em5zes.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vlf0fku06npk.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9ncc2cghpsil.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:38:00.118619"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 18713,

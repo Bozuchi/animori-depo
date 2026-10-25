@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikayede, ana kahramanıız Youtarou Misaki kendini bir sahilde yatarken bulur. Kurage no Shokudou denen bir restoranı işleten Arashi tarafından bulunur. Kim olduğu sorulduğunda, ana karakter, her şeyi hatırlamasına –ki buna ikiz kardeşinin ölümü de dahildir- karşın, hafızasını kaybettiğine dair yalan söyler.",
     "slug": "kurage-no-shokudou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kurage no Shokudou OVA",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zsSHU0n7cocKYSPycTvvNmQiL2H9TbJg/preview"
+          },
+          {
+            "fansub_id": 97,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/adonisfansub/_myvideo/382.html"
+          },
+          {
+            "fansub_id": 97,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018819"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wgb298c9"
+          }
+        ],
+        "added_date": "2026-07-27T06:46:24.340583"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 29301,

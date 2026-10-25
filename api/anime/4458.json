@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Bir çocuk ve kız kardeşi, birinin bankta bıraktığı bir kitabı merak edip açtılar. Kitabın bir sayfasında Bavel Kulesi'nin tamamlandığını gördüler. Bu kuleden içeri bakınca, sayısız kitaplarla çevrili bir yerde, yaşlı bir adamı kitap okurken buldular. Adam kitabın sayfalarını çevirdiğinde efsanevi hayvanlar ortaya çıktı ve ortadan kayboldu.",
     "slug": "bavel-no-hon",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Bavel no Hon",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Zzh3oJtutzBhuCULCgVgUJmGLJTTMeKO/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377682"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5681.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1525240"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4508397"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-4jheh9brrd85.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-be4nmxa4rj07.html"
+          }
+        ],
+        "added_date": "2026-07-23T04:24:58.720465"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4458,

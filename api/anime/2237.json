@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "PS2 oyununun ekstra animasyonları",
     "slug": "rozen-maiden-meitantei-kunkun-duell-walzer",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Rozen Maiden Detective Kun-Kun Duell Walzer OVA",
+        "videos": [
+          {
+            "fansub_id": 222,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11I4GPsoLrPXvR_I0Wc45Cn9RXmvWuouQ/preview"
+          },
+          {
+            "fansub_id": 222,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7991"
+          },
+          {
+            "fansub_id": 222,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359662661"
+          },
+          {
+            "fansub_id": 222,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3987192"
+          },
+          {
+            "fansub_id": 222,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4608759"
+          },
+          {
+            "fansub_id": 222,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3986682"
+          },
+          {
+            "fansub_id": 222,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-j0l75arcntaw.html"
+          },
+          {
+            "fansub_id": 222,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6ywn0a0zqs6m.html"
+          },
+          {
+            "fansub_id": 222,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mfpk5qaviowa.html"
+          }
+        ],
+        "added_date": "2026-07-29T05:06:02.513060"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2237,

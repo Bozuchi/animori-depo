@@ -5,7 +5,75 @@
     "bolum_durumu": "1/1",
     "ozet": "TV dizisinin İmpel Down hikâyesine kadar yaşanan olayları özetleyen OVA bölümü.",
     "slug": "one-piece-recap",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece Recap OVA",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1G8tGmO3aHQh9tgGB8RokNquSqmU8dWaK/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19AYIsI-THu2KUIQbd5YsHhGkKMzZbsMq/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7684"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140717462"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4472098"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3933851"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ql1xs2etdv3t.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m71jioe4rifo.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9lfp8ejqf0ap.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/e03cawv1"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/l8dgksy0"
+          },
+          {
+            "fansub_id": 115,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0jkpnghxa5jw.html"
+          }
+        ],
+        "added_date": "2026-07-27T20:55:30.618885"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8171,

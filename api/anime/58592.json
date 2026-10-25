@@ -5,7 +5,20 @@
     "bolum_durumu": "1/1",
     "ozet": "Tensei shitara Slime Datta Ken serisinin 48,5. -2. sezonun- özet bölümüdür. Serinin 3. sezonundan hemen önce izlenmelidir.",
     "slug": "tensei-shitara-slime-datta-ken-3rd-season-kanwa-diablo-nikki",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tensei shitara Slime Datta Ken 3rd Season 0,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 14,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6177414"
+          }
+        ],
+        "added_date": "2026-07-29T16:03:17.097547"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 58592,

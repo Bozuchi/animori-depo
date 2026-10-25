@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "20. Detective Conan Filmidir.",
     "slug": "detective-conan-movie-20-the-darkest-nightmare",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Detective Conan Movie 20: The Darkest Nightmare",
+        "videos": [
+          {
+            "fansub_id": 65,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1G8PGZQHBIGPm1aU9hEvn60qCwuj8qOvL/preview"
+          },
+          {
+            "fansub_id": 65,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1N4vAEt2Xd1GIE1NfNK29QmO4JvfUKuad/preview"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388378357"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4461294"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4252471"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/bqdv53nx"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/h8h13ddd"
+          },
+          {
+            "fansub_id": 65,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-l932phtjqf57.html"
+          }
+        ],
+        "added_date": "2026-07-24T20:57:07.984622"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32005,

@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Seriye ait special bölümdür.",
     "slug": "true-tears-raigomaru-to-jibeta-no-monogatari",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "True Tears Special: Raigomaru to Jibeta no Monogatari",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366351"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2642542"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-r3uz0z7x7gly.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8gkq1vut"
+          }
+        ],
+        "added_date": "2026-07-29T18:27:25.240869"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9002,

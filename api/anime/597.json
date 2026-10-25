@@ -5,7 +5,82 @@
     "bolum_durumu": "2/1+",
     "ozet": "Lise öğrencisi genç bir kız olan Haru, okul dönüşü gizemli bir kedi ile karşılaşır ve kedinin bir kamyon tarafından ezilmesini son anda önler. Kurtardığı kedi; Kedi Krallığının prensi Lune'dur. Bu iyiliği karşısında Kedi Krallığı'na davet edilmiş ve Kedi Kralın arzusu üzerine Prens Lune ile evlendirilmek üzere hazırlıklara başlanmıştır. Haru'nun bu evliliğin mümkün olmadığını anlatmak için kısa bir süresi vardır ve kendisine yardım edebilecek tek kişi Baron'dur.",
     "slug": "neko-no-ongaeshi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "The Cat Returns 1. CD",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1iIngHkh-lzm4ulolOjERRIMemk9XSplc/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19qX9y4MEQv0dzi6Gj7Ol5vIUY43coSCX/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909851"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1087018"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521965"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-co23bh4rlbwv.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-x51luxgdsq15.html"
+          }
+        ],
+        "added_date": "2026-07-27T15:40:40.100530"
+      },
+      {
+        "episode_number": null,
+        "title": "The Cat Returns 2. CD",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XElGg0F7Zrv1m0i54mfzf-FkHtsAHn5L/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846224"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016472"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4069709"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/a3flcsyi"
+          }
+        ],
+        "added_date": "2026-07-27T15:40:40.100530"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 597,

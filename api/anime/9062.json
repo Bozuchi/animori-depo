@@ -5,7 +5,35 @@
     "bolum_durumu": "1/2",
     "ozet": "Serinin Special bölümleridir.",
     "slug": "angel-beats-specials",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Angel Beats! Special",
+        "videos": [
+          {
+            "fansub_id": 101,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4411308"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-i92yvpw0dmgg.html"
+          },
+          {
+            "fansub_id": 101,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hvjjm46mmc9o.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1103079"
+          }
+        ],
+        "added_date": "2026-07-21T21:36:28.832766"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9062,

@@ -630,6 +630,33 @@
           }
         ],
         "added_date": "2026-07-29T13:41:32.080450"
+      },
+      {
+        "episode_number": null,
+        "title": "Super Lovers 2 OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15FA6RppoekutJTegjTZPdNywK8NtlfcR/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931912113"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3191303"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pqlmc6bpiij1.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:41:32.080450"
       }
     ]
   },

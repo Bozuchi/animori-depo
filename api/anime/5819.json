@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Genç bir adam, evine gitmek üzere yola çıkar. Hep gittiği yolu kullanırken birden hiç görmediği bir yol görür. Merak eder ve oradan gitmeye karar verir. Hiç görmediği bir yerdir burası. Birden yağmur başlar ve bir sığınağa gider. Orada bir kız görür, onu hiç unutamaz. Aradan uzun yıllar geçer. Genç artık bir yetişkin olmuştur ve doğduğu yere tekrar gelir.",
     "slug": "tori-no-uta",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tori no Uta",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Q4DvtOygKDqNMcANZvwgt5YnNB-jWU_j/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15RVR511l2HTz6o8eLq1s4S7WQgTlZaVN/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359662646"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909984"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4607945"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m16txvr9aw3m.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-a8z5tt8o5ql8.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bp05ubrnldwp.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:50:32.236163"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5819,

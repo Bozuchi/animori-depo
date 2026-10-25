@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Break Blade animesinin 4. filmidir.",
     "slug": "break-blade-4-sanka-no-chi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Break Blade 5: Shisen no Hate Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1al1Ebp0IoELJQIkxLkN3T9QumbtCRGSx/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/keshinn62/_myvideo/17.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2585716"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4114459"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4501428"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1140806"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pfk2uek8"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-zf2h74dnnuxx.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:01:22.294383"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9465,

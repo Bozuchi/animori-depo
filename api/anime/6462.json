@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "\"The Lion Books\" serisinin ikinci hikayesi. Bir çocuk terlik giyen yalnız ve küçük bir şemsiye hayaletiyle karşılaşır. Hayalete üç adet dileğini gerçekleştirmesi karşılığında yağmur botlarını ona vereceğine söz verir. Fakat çocuk verdiği sözü tamamen unutur ve büyür. Bir gün, verdiği sözü hatırlar ve aceleyle doğduğu şehirdeki köprüye, Yağmur Çocuğun yanına gider. Nazik bir hayalet ve unutulmuş bir sözü konu alan sürükleyici bir köy hikayesi.",
     "slug": "amefuri-kozou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Amefuri Kozou",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ULkgmCR9S7_7cmfRzWsGXDHpnOwKl3f5/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/7088.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4529680"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4079948"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1834473"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u1fgbw0eshe5.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3fehw3o7fesp.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:33:26.425905"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6462,

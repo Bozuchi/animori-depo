@@ -31,17 +31,23 @@ logger = setup_logger("MigrateEpisodes")
 
 
 def merge_by_number(existing: list[dict], new: list[dict]) -> list[dict]:
-    """Numaraya göre birleştirir; mevcut (yeni yapıdaki) kayıtlar önceliklidir."""
+    """Numaraya göre birleştirir; mevcut (yeni yapıdaki) kayıtlar önceliklidir.
+    Numarasız kayıtlar (film/OVA) olduğu gibi korunur."""
     by_num = {}
+    unnumbered = []
     for ep in new:
         num = ep.get("episode_number")
-        if num is not None:
+        if num is None:
+            unnumbered.append(ep)
+        else:
             by_num[num] = ep
     for ep in existing:
         num = ep.get("episode_number")
-        if num is not None:
+        if num is None:
+            unnumbered.append(ep)
+        else:
             by_num[num] = ep
-    return [by_num[n] for n in sorted(by_num)]
+    return [by_num[n] for n in sorted(by_num)] + unnumbered
 
 
 def run(dry_run: bool = False):

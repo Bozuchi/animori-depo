@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Data xx Transtory, DRAMAtical Murder animesinin 13. bölümüdür. Orijinal oyundaki tüm kötü sonları içermektedir.",
     "slug": "dramatical-murder-data-xx-transitory",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": " DRAMAtical Murder: Data_xx_Transitory Special",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1K3o9nZUq96lyOQpaI2RhIEMK-HsrWmk6/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1651361"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3794005"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4509044"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0gsei01obyy2.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-14dyuvdghvyr.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/51zwjg8j"
+          },
+          {
+            "fansub_id": 52,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-svou6985icip.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:27:26.778260"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 25567,

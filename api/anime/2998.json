@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Tezuka Osamu'nun ana gemilerini kaybettikten sonra evrende amaçsızca sürüklenen astronotların yaşadıkları aracılığıyla aşkın zalimliğini anlatan mangasından uyarlanan Phoenix serisinin üçüncü kısmıdır.",
     "slug": "hi-no-tori-uchuu-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hi no Tori: Uchuu-hen",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hjKijKcenOD36tYR_aV4xlRGz1ZXg_kh/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658666"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845662"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4454772"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4064084"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/d9jk6vw2"
+          }
+        ],
+        "added_date": "2026-07-26T03:03:04.984486"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2998,

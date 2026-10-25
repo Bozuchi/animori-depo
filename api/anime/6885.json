@@ -5,7 +5,124 @@
     "bolum_durumu": "3/3",
     "ozet": "Sora no Manimani serisine ait special bölümlerdir.",
     "slug": "sora-no-manimani-specials",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Sora no Manimani Ryuusei Distance",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SHE5rrtP_DDf8pC3wgrvMYhTrnhryOCO/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HZStZUGZt4HdJkGY-XLbx8ULGlV--cnR/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2615864"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tlj53jszytms.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8hn7vfs9vr9i.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-66n4993kcw94.html"
+          }
+        ],
+        "added_date": "2026-07-29T11:25:48.426191"
+      },
+      {
+        "episode_number": null,
+        "title": "Sora no Manimani Summer Memories",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14X9bz02KU61nu5OJfuBIT3MWWJQCrEM7/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/546.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849162"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4425786"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2615865"
+          }
+        ],
+        "added_date": "2026-07-29T11:25:48.426191"
+      },
+      {
+        "episode_number": null,
+        "title": "Sora no Manimani Twinkle Star",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Llm5VqKGLhwKVVMPr-OD1mYdzinkY-eT/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qmjvnYbLBQuBmECIE750lNITOr5LQmJh/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931910839"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666135"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2615866"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jafpg7pn0o34.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3orqemojxzxs.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-uyut04s4w8zq.html"
+          }
+        ],
+        "added_date": "2026-07-29T11:25:48.426191"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6885,

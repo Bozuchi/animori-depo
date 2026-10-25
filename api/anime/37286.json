@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikaye, erken emekli olan ve tasarruflarını kendi evini alabilmek için kullanan kraliyet şövalyelerinden 35 yaşındaki eski kaptan Astra Ludger Doomsday'i konu alıyor. Ancak, huzur dolu bir hayat sürdükten kısa bir süre sonra, genç bir kız evine çarpar. Noah adlı kız, çırak bir öğrencidir ve Astra'yı kötü Tanrı ile karıştırır.",
     "slug": "it-s-my-life",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "It's My Life",
+        "videos": [
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HOHPrOHiCuuyZ6tGmYg5e0kIPpJaRFg-/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12aq99sPjVUEQn0TluhmDAPkuVTW47XdW/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140717486"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3927168"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4472125"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-shaeq0zx5sia.html"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pj2iucya"
+          },
+          {
+            "fansub_id": 30,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-t9ao2wiefd13.html"
+          }
+        ],
+        "added_date": "2026-07-26T06:18:57.810999"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37286,

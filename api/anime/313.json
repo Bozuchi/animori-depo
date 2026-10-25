@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Ace wo Nerae! serisine ait moviedir.",
     "slug": "ace-wo-nerae-1979",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ace wo Nerae! (1979) Movie",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1UNW6b8tZnNZvF7q9xz038BDd4fkeSpzz/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667054"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4655981"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5ttta0ed91i4.html"
+          }
+        ],
+        "added_date": "2026-07-19T03:30:41.295416"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 313,

@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Birthday Wonderland filmi, Sachiko Kawashiba'nın 1988 de yayınlanmış Chikashitsu kara no Fushiginana Tabi (Bodrumdan Gizemli Yolculuk) isimli fantastik romanından uyarlandı. \nFilmin kahramanı Akane, doğum gününden bir gün önce gizemli simyacı Hipokrat ve öğrencisi Pipo tarafından mutlu renklerle dolu Harikalar Diyarı'na, dünyalarını kurtarmak için davet edilir. Bir antika dükkanının bodrum katından girilen bu dünya, renklerini kaybetme tehlikesi ile karşı karşıyadır. Çekingen kahramanımız kendini büyük bir maceranın içinde ve bu Harikalar Diyarı'nın kurtarıcısı olarak bulur. Bu macera, onu ve hayata bakış açısını kökten değiştirecektir.",
     "slug": "birthday-wonderland",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Birthday Wonderland Movie",
+        "videos": [
+          {
+            "fansub_id": 101,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1iAmI0foJS2TQGESFQMx74TVZ5dAFFxMI/preview"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931912080"
+          },
+          {
+            "fansub_id": 77,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DLfsgLjIp5kkqmY8nyQqLFmuVk1xsc_T/preview"
+          },
+          {
+            "fansub_id": 77,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660977"
+          },
+          {
+            "fansub_id": 77,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-79oay6rcbwne.html"
+          }
+        ],
+        "added_date": "2026-07-23T04:51:41.050368"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38985,

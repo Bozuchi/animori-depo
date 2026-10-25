@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "2. Dünya Savaşı, Japonya. Savaşın sonu yaklaşmaktadır ve bir tren \nistasyonunun dışında genç bir adam görürüz. \"İşte burası öldüğüm yer.\"\n \n2. Dünya Savaşı devam etmektedir. 14 yaşındaki Seita ve 4 yaşındaki kız \nkardeşi Setsuko, babaları donanmayla birlikte savaşa gittiği için \nanneleri ile birlikte yaşamaktadırlar. Bir Amerikan hava saldırısı \nsırasında anneleri ölür ve teyzeleri tarafından evlat edinilirler. \nTeyzelerinin evinde gördükleri muameleden rahatsız olan kardeşler, kendi\n başlarına yaşam savaşı vermeye başlarlar. Bu süreçte açlık, önyargı ve \nkendi gururları ile mücadele eden kardeşler kendi savaşlarını \nverecektir.",
     "slug": "hotaru-no-haka",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Grave of the Fireflies",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TbX4l1X_VBCGeyOqPUG0EHbWRV9OphoZ/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015595"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3153134"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/0k0hw5vm"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-446a5dehah13.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:28.153595"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 578,

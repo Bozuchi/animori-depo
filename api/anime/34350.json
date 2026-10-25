@@ -528,6 +528,43 @@
           }
         ],
         "added_date": "2026-07-20T06:27:22.404416"
+      },
+      {
+        "episode_number": null,
+        "title": "Alice to Zouroku 5.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/dmuratli/video/embed/_myvideo/756"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4532662"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3182910"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3it25zptxn3w.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/09jy8jq8"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-v7cafi1tu5ie.html"
+          }
+        ],
+        "added_date": "2026-07-20T06:27:22.404416"
       }
     ]
   },

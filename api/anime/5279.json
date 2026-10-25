@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Sekirei serisine ait special bölümdür.",
     "slug": "sekirei-hajimete-no-otsukai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Sekirei Special: Hajimete no Otsukai",
+        "videos": [
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/904"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4394990"
+          },
+          {
+            "fansub_id": 39,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-pkkabptovkc3.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/sweetparade/_myvideo/508.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4088291"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2760784"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/mr7gv0ns"
+          }
+        ],
+        "added_date": "2026-07-29T07:38:11.889180"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5279,

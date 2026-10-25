@@ -5,7 +5,70 @@
     "bolum_durumu": "1/1",
     "ozet": "Kowarekake no Orgel animesinin özel OVA bölümüdür.",
     "slug": "kowarekake-no-orgel-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kowarekake no Orgel Special",
+        "videos": [
+          {
+            "fansub_id": 27,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oykVl1F8cigCi7e1lRYx7Z4FFJwMD8YT/preview"
+          },
+          {
+            "fansub_id": 27,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EEae9lIP6ttiMCNLeAIS8gAiSrQgZt4J/preview"
+          },
+          {
+            "fansub_id": 27,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/eksenceviri/video/embed/_myvideo/1"
+          },
+          {
+            "fansub_id": 27,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715973"
+          },
+          {
+            "fansub_id": 27,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4285238"
+          },
+          {
+            "fansub_id": 27,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4465832"
+          },
+          {
+            "fansub_id": 27,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-sp149afnqp6i.html"
+          },
+          {
+            "fansub_id": 27,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-4u82oko573gj.html"
+          },
+          {
+            "fansub_id": 27,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/lmg69cxd"
+          },
+          {
+            "fansub_id": 27,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-uk0d07nrxqhe.html"
+          },
+          {
+            "fansub_id": 27,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qslvx6pklomb.html"
+          }
+        ],
+        "added_date": "2026-07-27T06:35:54.414003"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10122,

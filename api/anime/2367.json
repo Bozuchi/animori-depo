@@ -496,6 +496,43 @@
           }
         ],
         "added_date": "2026-07-27T12:51:41.646080"
+      },
+      {
+        "episode_number": null,
+        "title": "Moetan 5.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17KtFWGCXreWN21w4SOjTAuBWZemEmoDJ/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158068419"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1898963"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4505926"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0zs4q8fda4oh.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-sglj8820miko.html"
+          }
+        ],
+        "added_date": "2026-07-27T12:51:41.646080"
       }
     ]
   },

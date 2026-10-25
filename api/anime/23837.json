@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Seita, direksiyon başında uyuyakalarak ölür ve yeraltı dünyasında uyanır. Ancak şeytanın ondan bedel olarak aldığı şey, vücudunun bir parçasıdır.",
     "slug": "meisou-underworld",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Meisou! Underworld",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11eIgEAwX_U3BFLSyeidhSqKnDerpvD2k/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660962"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271188524"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5680.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1525239"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xu0it4m4apjc.html"
+          }
+        ],
+        "added_date": "2026-07-27T11:42:30.976748"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 23837,

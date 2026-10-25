@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Nadir bir Akushon Kamen kartı bulan Shinnosuke Nohara ve ailesi, paralel bir dünyaya gidip orada yaşanan uzaylı istilasını durdurmak için yardım ederler.",
     "slug": "crayon-shin-chan-movie-01-action-kamen-vs-haigure-maou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou",
+        "videos": [
+          {
+            "fansub_id": 195,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372280"
+          },
+          {
+            "fansub_id": 195,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/pql7zwc0487n"
+          }
+        ],
+        "added_date": "2026-07-24T09:28:50.764220"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8358,

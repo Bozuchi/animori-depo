@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Modern Tokyo'da, üniversite öğrencisi üç kişi, Negishi Miyako (Neko-chan), Saiki Haruka ve Yamagishi Keiichiro, kendilerini dışlanmış hissettiren sihirli güçlere sahiptirler. Bir gece bir araya gelirler ve başka bir dünyaya ışınlanırlar. Devasa bir kapı açarlar ve Neko, halkını özgür bırakmak için kötü Duran III'ü yenmek zorunda olan Prenses Neryulla olduğunu fark eder.",
     "slug": "tobira-wo-akete",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tobira wo Akete Movie",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5211917"
+          },
+          {
+            "fansub_id": 21,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/v4rge4jjbaml"
+          }
+        ],
+        "added_date": "2026-07-29T17:00:44.561952"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3192,

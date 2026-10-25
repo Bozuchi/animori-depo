@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Naruto serisinin 20. yıl özel bölümüdür.",
     "slug": "road-of-naruto",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Road of Naruto ONA",
+        "videos": [
+          {
+            "fansub_id": 189,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1q-SQ30lVn6mvR2RKVChkofUCW1l2BRdu/preview"
+          },
+          {
+            "fansub_id": 189,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368940"
+          },
+          {
+            "fansub_id": 189,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4907934"
+          },
+          {
+            "fansub_id": 189,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/kvguq60llqbu"
+          },
+          {
+            "fansub_id": 189,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-70qjwil1xjtz.html"
+          },
+          {
+            "fansub_id": 189,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-a4a28elhylkz.html"
+          }
+        ],
+        "added_date": "2026-07-29T04:45:45.111009"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53236,

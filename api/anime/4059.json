@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Clannad serisinin ilk sezonuna ait OVA bölümüdür.",
     "slug": "clannad-mou-hitotsu-no-sekai-tomoyo-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Clannad OVA",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1nOS_eN3TV481POvtQLUTKjFwkPlBq9NX/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140715687"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4464962"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dao3cto8b5hv.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/614ofin1"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/r7ye92p8"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-35iyd03lufgd.html"
+          }
+        ],
+        "added_date": "2026-07-23T16:09:14.378591"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4059,

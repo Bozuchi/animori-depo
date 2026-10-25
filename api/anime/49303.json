@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Bir fabrikadaki patlama, küçük bir kasabada zamanın durmasına yol açarken, 14 yaşındaki Masamune ve arkadaşları her şeyi altüst eden bu yeni gerçeklikle başa çıkmaya çalışır.",
     "slug": "alice-to-therese-no-maboroshi-koujou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Alice to Therese no Maboroshi Koujou Movie",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370982"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/899592uaraty"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ky3uc9odi13e.html"
+          }
+        ],
+        "added_date": "2026-07-20T06:26:50.427393"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49303,

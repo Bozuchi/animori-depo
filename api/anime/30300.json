@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Sınırlı High School DxD DX.1 sürümü içerisinde yer alan yayımlanmamış anime bölümü.",
     "slug": "high-school-dxd-new-oppai-tsutsumimasu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "High School DxD New: Oppai, Tsutsumimasu!",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/shimazu00/video/embed/_myvideo/85"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271187991"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2107"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3054463"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1787759"
+          }
+        ],
+        "added_date": "2026-07-26T03:20:31.183664"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30300,

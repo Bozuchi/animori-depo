@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin dördüncü filmidir.",
     "slug": "pokemon-movie-04-celebi-toki-wo-koeta-deai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Pokemon Movie 4 - Pokemon 4Ever",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lcIgJhg_U51edHQAhsVYh0Q_TJOJPm5v/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852207"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845532"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4442102"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4063060"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xlf1wnrb8oqa.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-sleokgqbss2x.html"
+          }
+        ],
+        "added_date": "2026-07-29T02:26:37.259169"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1119,

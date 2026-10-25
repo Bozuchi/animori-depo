@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Hayate no Gotoku! serisine ait OVA bölümdür.",
     "slug": "hayate-no-gotoku-atsu-ga-natsuize-mizugi-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hayate no Gotoku! OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AYu8gfGOJXHay41w7sQmJgiIbXzyeWwN/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1504525"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4067031"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2agw71rj3jct.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mii5rxfhmqrg.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ilm8zmgq"
+          }
+        ],
+        "added_date": "2026-07-26T02:37:50.000532"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5521,

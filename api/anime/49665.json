@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikâye lise hayatı boyunca sporla ilgilenen Tamaki Tsuru'nun etrafında dönüyor. Lise bitip de Tokyo'daki bir üniversiteye girince, arkadaşlar edinip aşk hayatına odaklanmaya karar veren Tamaki, kazayla bir planöre hasar verir ve hasarı karşılayamadığı için de havacılık kulübüne ayak işlerini yapmak üzere girmek zorunda kalır böylece üniversite hayatı farklı bir yön alır.",
     "slug": "blue-thermal",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Blue Thermal: Movie",
+        "videos": [
+          {
+            "fansub_id": 101,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18NKPfazx0Msym1-zfUx7S0gjORKadAkc/preview"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461601447"
+          },
+          {
+            "fansub_id": 101,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/2yeg2rado182"
+          },
+          {
+            "fansub_id": 101,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-28tc4a58f4vg.html"
+          }
+        ],
+        "added_date": "2026-07-23T06:03:27.872825"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49665,

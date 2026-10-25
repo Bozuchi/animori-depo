@@ -5,7 +5,65 @@
     "bolum_durumu": "1/1",
     "ozet": "Distopik Freeport şehrinde, Jonh Blade liderliğindeki HARDCORPS olarak bilinen saldırı gücü, bitmek tükenmek bilmeyen suçlara son verdi. Ancak, son zamanlarda dünyanın dört bir yanında mutantlar görüldü ve yollarına çıkan herkesi ortadan kaldırdı. Bu durum kin güden Elexis Sinclaire liderliğindeki SinTEK örgütü ile bağlantılı idi. Tüm bu katliamın ortasında Blade, SinTEK'in uğursuz planının ardındaki gerçeği keşfetmeli ve Elyse adındaki gizemli kızı kurtarmalıdır...",
     "slug": "sin-the-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Sin: The Movie",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18CJm1RqCqFWtCmJUsBD35oLu2i9tjs00/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271190757"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140716593"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4468502"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4206655"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tp6znzie1bs9.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-bzy9g01k7s3b.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/yqsideum"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wz5jqtyq"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gjv2yb25papa.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:49:25.283642"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2262,

@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Anime, Production I.G ile otomobil üreticisi olan Mercedes-Benz'in işbiriği ile yapılmıştır.\n\nYakın bir gelecekte nüfusun artışıyla beraber trafik sıkışıklığı artmış ve Tokyo şehri bu süreç içerisinde yeni bir yapılanmaya gitmeye başlamıştır. Belirli zamanlarda belirli yerlerde bölgeler kaydırılarak yolların yeri değiştirilir. Bu zamanda yaşayan bir kadın ve iki erkek, efsanevi noodle soup(Erişte çorbası) kamyonunu gördükleri gibi bu değişen yollarda, onu amansız bir takibe başlarlar.",
     "slug": "next-a-class",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Next A-Class ONA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1M5BrajYd0eYskGme_VSSwYuc-v2xXCF1/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852480"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/emreboyacioglu38/video/embed/_myvideo/25"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4443020"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2936341"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-c2oaob7ykngd.html"
+          }
+        ],
+        "added_date": "2026-07-27T15:57:33.725849"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16331,

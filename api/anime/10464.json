@@ -565,6 +565,63 @@
           }
         ],
         "added_date": "2026-07-29T12:56:40.394195"
+      },
+      {
+        "episode_number": null,
+        "title": "Seitokai no Ichizon Lv.2 OVA",
+        "videos": [
+          {
+            "fansub_id": 344,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/257/6997.html"
+          },
+          {
+            "fansub_id": 344,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1796224"
+          },
+          {
+            "fansub_id": 344,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-u7jbbrf9up93.html"
+          },
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Z__0qxNlKIf1AGjeYksd0ytlKRYE5RJH/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659773"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3842102"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4458849"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xq9jkbg6nyue.html"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hyzzq3jc"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ufsmvqh04bwq.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:56:40.394195"
       }
     ]
   },

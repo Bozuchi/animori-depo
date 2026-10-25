@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Kyoushoku Soukou Guyver Animesinin OVA Bölümüdür.",
     "slug": "kyoushoku-soukou-guyver",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Guyver:Out Of Control OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1z_qHp97sGYUKyrWp9crVaxZKkX_ztZUD/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140717511"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845931"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4472151"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4066546"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1143967"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xtoq4jlsffi2.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3qrcrlb9"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vqacncbe7eox.html"
+          }
+        ],
+        "added_date": "2026-07-27T07:42:12.391210"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2293,

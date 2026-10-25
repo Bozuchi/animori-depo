@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Çokbilmiş'in üçüncü özet bölümüdür. Zoro ve Brook, Dört İmparator'u anlatır.",
     "slug": "one-piece-kizamareru-rekishi-gekidou-no-shinkyuu-yonkou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 1108,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EoXq9GcJlHuCFb9FOvw7gRt07EyBUtY-/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5575455"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1yts4q43"
+          }
+        ],
+        "added_date": "2026-07-27T20:58:05.244115"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59029,

@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Amon, rüzgarı kontrol edebilen bir oğlandır. Dünyanın yöneticisi olan Branich, son silahını tamamlaması için Amon'un gücünü ister ve oğlanı yakalaması için askerlerini yollar. Amon yeteneklerini kullanarak Maria ile birlikte Branich'ten kaçmaya çalışırr. Maria, Deniz'in insanları'ndan biridir. Maria, Amon'un kabilesini bulması için ona yardım etmeyi kabul eder.",
     "slug": "kaze-wo-mita-shounen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kaze wo Mita Shounen",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1A3Zf9goewlAsQUPQ649huPaRXkMKFCxC/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/566580986087/video/embed/_myvideo/1"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2975577"
+          }
+        ],
+        "added_date": "2026-07-27T01:54:13.552635"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 757,

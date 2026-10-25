@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "New Game animesinin OVA'sıdır",
     "slug": "new-game-watashi-shain-ryokou-tte-hajimete-nano-de",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "New Game!: Watashi, Shain Ryokou tte Hajimete nano de... (OVA)",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OIg5j7Wo_TCQQ2RpH2v3ZSTPW3ZoI_gD/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/dmuratli/video/embed/_myvideo/765"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/cd9p73fm"
+          },
+          {
+            "fansub_id": 82,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4904646"
+          },
+          {
+            "fansub_id": 82,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3289444"
+          },
+          {
+            "fansub_id": 82,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3e8eqvku1ztm.html"
+          },
+          {
+            "fansub_id": 82,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ahy676r6e3c8.html"
+          }
+        ],
+        "added_date": "2026-07-27T15:55:37.112053"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34277,

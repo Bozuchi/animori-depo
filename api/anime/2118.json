@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "ilk Captain Tsubasa filmi \"Avrupa Erkek Futbol Takımı\" ve \"Japonya Erkek Futbol Takımı\" arasındaki bir maçla ilgili. Japonya takımı Avrupa takımını gördüklerinde daha önce görmedikleri kadar inanılmaz oyuncuların yetenek ve güçleriyle karşı karşıya kaldılar.",
     "slug": "captain-tsubasa-europe-daikessen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Captain Tsubasa: Europe Daikessen",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uwCNjvAcsl_65R1mGebPiZleUgd_Fx6j/preview"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659349"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3813632"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4457538"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ougnwfxm6jbq.html"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-49csox1eur69.html"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/yo5cp9yz"
+          },
+          {
+            "fansub_id": 100,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-llwku1w59le7.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:49:58.130170"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2118,

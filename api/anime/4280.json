@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "7 film olarak planlanan Kara no Kyoukai filmlerinin dördüncüsüdür.",
     "slug": "kara-no-kyoukai-4-garan-no-dou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kara no Kyoukai 4: Garan no Dou",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Z_N3zvRiryuwv2FHftASuHbTKmZoTYyI/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019439"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2667826"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3183152"
+          }
+        ],
+        "added_date": "2026-07-27T00:14:17.084232"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4280,

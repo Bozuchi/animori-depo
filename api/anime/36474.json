@@ -1583,6 +1583,43 @@
           }
         },
         "added_date": "2026-07-29T13:56:44.723901"
+      },
+      {
+        "episode_number": null,
+        "title": "Sword Art Online: Alicization 18.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IcJgoWeuejg9MIXJvnB9ENIDMIg5auIs/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3651027"
+          },
+          {
+            "fansub_id": 38,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4878989"
+          },
+          {
+            "fansub_id": 38,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-omtdcoo9d1iu.html"
+          },
+          {
+            "fansub_id": 38,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ogz1uiyy"
+          },
+          {
+            "fansub_id": 38,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-pgfpgkiwrwvv.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:56:44.723901"
       }
     ]
   },

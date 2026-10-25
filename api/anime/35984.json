@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikaye Reflection'ın kaldığı yerden devam eder. Çatışma artmaya devam ederken Nanoha ve müttefikleri Iris ve Yuri arasındaki Eltoria'nın \"Gezegen Canlandırma Komitesi\" trajedisiyle ilgili olan sıkıntılı geçmişi öğrenirler.",
     "slug": "mahou-shoujo-lyrical-nanoha-detonation",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mahou Shoujo Lyrical Nanoha: Detonation",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dYuQLSxpkvMLrogt5wIzMr_mxwdj9tWc/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658813"
+          }
+        ],
+        "added_date": "2026-07-27T09:42:48.491693"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 35984,

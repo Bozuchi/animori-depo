@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Ookiku Furikabutte: Natsu no Taikai-hen animesinin 12,5. bölümüdür.",
     "slug": "ookiku-furikabutte-natsu-no-taikai-hen-mokuhyou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ookiku Furikabutte: Natsu no Taikai-hen 12.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17zGOJ6aizOuAUOxkSNSBpavFnniMLG_N/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1p77hT2xTvsXaBpIRDiOenVUhFz35rr0y/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911943"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3479999"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4622518"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-12vk7oamfbw0.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jkru4sbwmofx.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ovz7oj389k07.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:50:43.648505"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9124,

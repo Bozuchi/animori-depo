@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Mako, Miko ve Mutsuko tuhaf efsanelerle dolu St. Claire okulunu ziyaret eden üç kızdır. Okulda aniden insan vücudu anatomi modeli Kunstrijk ve iskelet modeli Goth ile karşılaşırlar. Her ikisi de yıkılmak üzere olan bilim odasına musallat olmuştur. Üç kız tarafından zarar gördüğü için intikam arayan Kunstrijk kızları korkutmak için onları okulun gece yarısı partisine davet eder. Birlikte bu beşi bir dileği getirebilen üç efsanevi madalyayı arama görevine başlarlar. Bu madalyalarla belki de bilim odası kurtarılabilecektir.",
     "slug": "houkago-midnighters",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Houkago Midnighters",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KdOemoH1s-rqBWl2PAtk4Dlm7J_iAxqP/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018282"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847039"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/6107.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4073474"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:58.016504"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13935,

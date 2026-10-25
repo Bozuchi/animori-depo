@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Noboru Terao ve Mikako Nagamine, hayatlarını birlikte kurgulamak isteyen ve halihazırda aynı liseye gitmekten başka da bir hedefi olmayan genç bir çifttir. Bu esnada, dünya Tarsian adı verilen uzaylı bir ırka karşı amansız bir mücadele vermektedir. 2048 yılına gelindiğinde Birleşmiş Milletler, Tarsianlara karşı koyabilecek askeri yapılanmayı tamamlamıştır. Birleşmiş Milletler tarafından oluşturulan takip filosuna seçilen pilotlardan birisi de Mikako'dur. Uzayın derinliklerinde yabancı bir ırkın peşindeki Mikako ile dünyadaki yaşantısına devam etmek zorunda kalan Terao arasındaki tek iletişim aracı cep telefonlarından yollayacakları mesajlar olacaktır.",
     "slug": "hoshi-no-koe",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hoshi no Koe",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1vlcbCJf2SUDffFqnFTkAekL0rUN38BHw/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/2217"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851895"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3063179"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4440727"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dsl6oz2o2d5l.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bvvcvqnojk6c.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1474576"
+          }
+        ],
+        "added_date": "2026-07-26T04:19:16.364978"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 256,

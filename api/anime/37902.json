@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Animesindeki Skypiea hikâyesini ele alan özel bölümdür. Animedeki orijinal Skypiea hikâyesinde görünmeyen bir karakter bu özel bölümde görünecektir.",
     "slug": "one-piece-episode-of-sorajima",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece: Episode of Sorajima",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1w4PltjcWceALLZ-ZpEE1pNDG5kGlgd9s/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Wn1xS_xtcDzX44VjJODjssVCnK-N_oMK/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/0epxqicn10jx"
+          }
+        ],
+        "added_date": "2026-07-27T20:56:23.355405"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37902,

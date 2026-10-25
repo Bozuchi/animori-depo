@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "İlk sezonun ilk bölümlerinin önemli yerleri ve savaşları ele alınarak yeniden düzenlenmiş film halidir. \n\nBir çok kaynağa göre film, serinin uyarlandığı romanlara daha yakın bir anlatım biçimine sahiptir.",
     "slug": "shakugan-no-shana-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shakugan No Shana S",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1p6t-KvgiD35fhTOE87wWN0SV0nyV6Ml-/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OnkgMNsJpvYBlaRSxGO71B8CfbzqEtEk/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985853479"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4516059"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2higwbcf"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0r2qa4a9h6m3.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-zj923or91gay.html"
+          }
+        ],
+        "added_date": "2026-07-29T08:20:52.099634"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1815,

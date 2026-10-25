@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Okusama ga Seitokaichou! animesinin OVA bölümüdür.",
     "slug": "okusama-ga-seitokaichou-seitokaichou-to-ofuro-asobi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Okusama ga Seitokaichou! OVA",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/137.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271188936"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/818vl95n"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/sinem.puzz/_myvideo/86.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4984656"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-rjc4qbbhgxrm.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-j71omljp7qow.html"
+          }
+        ],
+        "added_date": "2026-07-27T19:22:57.568958"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31980,

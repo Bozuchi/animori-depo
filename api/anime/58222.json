@@ -5,7 +5,20 @@
     "bolum_durumu": "1/1",
     "ozet": "Given serisinin 3. filmi, Hiiragi Mix filminin devamıdır.",
     "slug": "given-movie-3-umi-e",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Given Movie 3: Umi e",
+        "videos": [
+          {
+            "fansub_id": 242,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/arceus.tag/video/embed/_myvideo/69"
+          }
+        ],
+        "added_date": "2026-07-25T23:58:55.591496"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 58222,

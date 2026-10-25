@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Ken ve Ryu’nun başlarında kara bulutlar gezinmektedir. Ustalarının gizemli ölümü ile birlikte, iki savaşçı daha önce karşılaşmadıkları bir güçle karşı karşıya kalmışlardır. Etrafında oluşan karanlık enerjiden son derece rahatsız olan Ryu, ait olduğu topraklara geri döner fakat burada beklenmedik bir şekilde kardeşi olduğunu iddia eden Shun ile karşılaşır. Ryu, Shun’un birden bire ortaya çıkışının tesadüf olmadığını düşünmekteyken Shun, Ryu'nun içinde bulunan ve onun kullanmak istemediği Dark Hadou tekniğinin kaynağı olan Akuma'nın gücüne sahip olmak isteyen Shadowlaw organizasyonunun ajanları tarafından kaçırılır. Shun’u kurtarmak için Ryu önce kendi içinde bir keşif yolculuğu yapmalı ve karanlık tarafın tuzaklarına karşı güçlerini kontrol etmeyi öğrenmelidir",
     "slug": "street-fighter-zero-the-animation",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Street Fighter Alpha",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16quqNNwsHMemm7tX4Iv31mBlB6SKJcCX/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZpabZ8TP2HQtkLdhqxDaDRCgZI1FFAHX/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521959"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-d5i9bcyvrrp7.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qdt2bwitmxnl.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:14:13.898414"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 979,

@@ -5,7 +5,20 @@
     "bolum_durumu": "1/1",
     "ozet": "Girls & Panzer: Saishuushou serisinin 4. filmidir",
     "slug": "girls-panzer-saishuushou-part-4",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Girls & Panzer: Saishuushou Part 4 Movie",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/hsc4g6511sr8"
+          }
+        ],
+        "added_date": "2026-07-25T23:53:28.216200"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39167,

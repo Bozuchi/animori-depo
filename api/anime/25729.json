@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "4 film olarak planlanan Tamayura: Sotsugyou Shashin filmlerinin birincisidir.",
     "slug": "tamayura-sotsugyou-shashin-part-1-kizashi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tamayura: Sotsugyou Shashin Part 1. - Kizashi",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JpxoDn4aq4tSUX53WRypQAMxbSENqYG9/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/387"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3694383"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-11i5kxwbomcr.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:05:13.343063"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 25729,

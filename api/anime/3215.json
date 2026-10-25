@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Kihachiro Kawamoto tarafından yönetilen 2003 yapımı bu anime 17. yüzyıl Japon şiirleri ile aynı renge dayanır.\nBu animenin yaratılışı farklı tekniklere dayalıdır. Bu Japon animesi Japonya'nın önde gelen isimlerini bir araya topladı. \nHer animatör 30 saniye de olsa bunun için emek gösterdi. Bu yayımlanan 40 dakikalık anime \"2003 Japon Medya Sanatları Festivalini\"\nkazanmaya yetti.",
     "slug": "fuyu-no-hi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fuyu no Hi",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HhIknsrTdtUh2RWQJy1ulNtN4a3NjmBd/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018061"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1868067"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-644td3z2vu3k.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:10:05.389887"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3215,

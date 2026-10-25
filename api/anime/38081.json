@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Girls & Panzer: Saishuushou film serisine ait ikinci filmdir.",
     "slug": "girls-panzer-saishuushou-part-2",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Girls & Panzer: Saishuushou Part 2",
+        "videos": [
+          {
+            "fansub_id": 134,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sgiuZOl70WxqjpFWgNFgI7wSbZxbIrq-/preview"
+          },
+          {
+            "fansub_id": 134,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850617"
+          },
+          {
+            "fansub_id": 134,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4434538"
+          },
+          {
+            "fansub_id": 134,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-oo3bm3intw3l.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:53:15.783588"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38081,

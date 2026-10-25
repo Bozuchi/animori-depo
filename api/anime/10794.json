@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Infinite Stratos animesinin OVA bölümüdür.",
     "slug": "is-infinite-stratos-encore-koi-ni-kogareru-rokujuusou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Infinite Stratos OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1N3at9ItUouLcAAcBEYmcgEm43NVrE6fe/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/alonealadyofdarkness/_myvideo/85.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849243"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4426191"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-z6r4yv337mpk.html"
+          },
+          {
+            "fansub_id": 137,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1272207"
+          }
+        ],
+        "added_date": "2026-07-26T05:53:53.022757"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10794,

@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "İki bilim adamı izinsiz tüm Japonyayı etkileyecek bir iblis virüs ilacı dağıtırlar.Ancak işler karmaşık hale gelir.\nBir grup insan ilaç yüzünden bulaşıcı hastalığa yakalanır.\nBu yüzden iki bilim adamının kendilerine karşı savaşı başlar. Ne kadar uğraşsalar da bu şeytani gücü kontrol edemezler.\nAma bu güç aynı zamanda diğer insanların hayatlarını kurtarmak için sahip oldukları en güçlü yönleridir.",
     "slug": "bio-hunter",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Bio Hunter Movie",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1v2Wljv4IF2fioDyiep7gXya7ciGaFVCc/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852935"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846973"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4444551"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4073361"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-si47fjt8k68y.html"
+          }
+        ],
+        "added_date": "2026-07-23T04:50:53.890045"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1269,

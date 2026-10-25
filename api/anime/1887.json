@@ -993,6 +993,48 @@
           }
         ],
         "added_date": "2026-07-27T08:49:37.951823"
+      },
+      {
+        "episode_number": null,
+        "title": "Lucky Star OVA",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377967"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Ir7YHJgB9l6E15eEBMVJ-xwZTnoHXgVN/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846031"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4517664"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4067168"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l1e726wwsobl.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-275b3o4goopc.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:49:37.951823"
       }
     ]
   },

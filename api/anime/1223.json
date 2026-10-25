@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Katari, yazar olmak isteyen küçük bir kızdır, ve okuldan hoşlandığı çocuğa bir aşk mektubu yazar. Fakat farkında olmadan, küçük bir kızın kalbine dokunacak bir kısa hikaye yaratmıştır...\n\nNot: Tamamen amatör bir kısa film, çizimleri - konusu her ne kadar basit olsada, biraz zaman harcayarak herkesin bir şeyler yapabileceğini göstermek amaçlı çevirdiğim bir kısa film oldu.",
     "slug": "ame-to-shoujo-to-watashi-no-tegami",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ame to Shoujo to Watashi no Tegami",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15JdhvKrughfzynPsVsQb_8rRIMop0MNP/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/50.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015717"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2741692"
+          }
+        ],
+        "added_date": "2026-07-21T21:29:56.171586"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1223,

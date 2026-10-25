@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "16 yaşında öğrenci olan Takeshi Chimatsuri aynı babası gibi Samuray yaşantısı sürüyor. Bir gün, Toki ikizleri yani Toki kız kardeşleri Takeshi'nin okuluna transfer oluyor. Toki ikizleri ailesinin yadigar kılıcını Takeshi'den almaya çalışıyor.",
     "slug": "the-samurai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "The Samurai",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bEa4iVg8UfRGu3y_4MA9gd6Iq7ko3UpM/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271193282"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4247988"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4506816"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/n40qy4bq"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4pp6w0j8kz3u.html"
+          }
+        ],
+        "added_date": "2026-07-29T16:32:49.510222"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1452,

@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Given adlı serinin devam filmidir.",
     "slug": "given-movie-2-hiiragi-mix",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Given Movie 2: Hiiragi Mix",
+        "videos": [
+          {
+            "fansub_id": 242,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//mail/arceusfansub/video/embed/_myvideo/75"
+          },
+          {
+            "fansub_id": 242,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/x9vg3agiree6"
+          },
+          {
+            "fansub_id": 242,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ofc5k9va1b9b"
+          }
+        ],
+        "added_date": "2026-07-25T23:58:48.974624"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 54791,

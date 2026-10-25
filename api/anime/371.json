@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikaye; Hong Kong'da geçmektedir. Film, Sakura'nın gördüğü tuhaf bir rüya ile başlar. Rüyasında, yeni tanıştığı gizemli biri onu suya çeker ve ... Sakura uyanır. Ertesi gün, kış tatilinin başlangıcı olduğu için Sakura çok mutludur. Alışveriş yapmak için gittiği alışveriş merkezinde yıl sonu çekilişine de katılır ve kazanır. Ödül, Hong Kong seyahatidir. Sakura ile birlikte babası gelemeyecektir ama Touya, Yukito, Tomoyo ve Kero gelirler. Orada Shaoran'in dört kızkardeşi ve annesi ile tanışırlar. Sakura, ayrıca tuhaf bir kuş ve gizemli bir kadınla daha tanışır...?",
     "slug": "cardcaptor-sakura-movie-1",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Cardcaptor Sakura : The Movie 1",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wKHKADDD8vXMzAk99o3AG359i7RJVItL/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3784050"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1766031"
+          }
+        ],
+        "added_date": "2026-07-23T07:56:58.873311"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 371,

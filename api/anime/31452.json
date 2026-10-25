@@ -485,6 +485,33 @@
           }
         ],
         "added_date": "2026-07-27T16:56:14.912722"
+      },
+      {
+        "episode_number": null,
+        "title": "Norn9: Norn+Nonet 9.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1LrAcBPI98NfZFs_Z2M4NV3OJDasy4E2U/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018349"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3649034"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-x7vq1i2s2515.html"
+          }
+        ],
+        "added_date": "2026-07-27T16:56:14.912722"
       }
     ]
   },

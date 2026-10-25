@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Birbirinden farklı kişiler, akşamlarını bir kafede geçirmektedirler. Dedikodu yapan iki kız, tartışan iki adam, bir kitap kurdu ve kız arkadaşından az önce ayrılmış bir genç. Kafenin garsonu, genci bir şövaleye bakması için ikna etmek üzere onunla muhabbete başlar. Bu sırada diğer müşteriler, olağandışı şeyler fark etmektedirler.",
     "slug": "mizu-no-kotoba",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mizu no Kotoba",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Pq6aKosXQF2cYGctT-QE-9S7frCMi7fR/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/4008"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3552816"
+          }
+        ],
+        "added_date": "2026-07-27T12:25:40.782005"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2235,

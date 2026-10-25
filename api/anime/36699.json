@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Çocuk ve Balıkçıl, ergenlik döneminde olan bir gencin hikayesini konu ediyor. İkinci Dünya Savaşı sırasıda geçen filmde, küçük bir çocuk olan Mahito, annesini kaybetmesinin ardından taşrada yaşayan babasının yanına taşınmak zorunda kalır. Yeni hayatına alışmaya çalışan Mahito, günlerini terk edilmiş bir kulenin civarında oynayarak geçirir. Mahito oynamak için kuleye gittiğinde, sürekli gri bir balıkçıl kuşu ile karşılaşır. Ancak çok geçmeden hiçbir şeyin aslında göründüğü gibi olmadığını anlar.",
     "slug": "kimitachi-wa-dou-ikiru-ka",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kimitachi wa Dou Ikiru ka Movie",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KRFWe8Hs5oZ9tFzpsp3lcs_4KgevJ1kJ/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/g2z6esyy20xd"
+          },
+          {
+            "fansub_id": 264,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1n77kS49yhL0yuCwEmn_1aVkN8wFkxStT/preview"
+          }
+        ],
+        "added_date": "2026-07-27T03:36:39.624233"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36699,

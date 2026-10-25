@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "15 Yaşındaki kahramanımız, bir olay sonucu zamanda yolculuk yaparak 1200 yıl öncesi olan Japonya’nın Heian döneminde kendini bulur. Burada, oni adı veriler şeytani yaratıklar ile insanların arasındaki savaşın ortasında kalacaktır.\nTakada Takafumi'nin 2004 yılında yayınlanmış 2 bölümlük romanından uyarlanmıştır.",
     "slug": "onigamiden",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Onigamiden – Legend Of The Millennium Dragon",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Om1WdpObq1d5PoDmnGvmEpH6YWBBbyS_/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271191555"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/sweetparade/_myvideo/871.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/g5w5g2dq"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ab7vz6fc"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ehy34fj74irc.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:28:03.259221"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8487,

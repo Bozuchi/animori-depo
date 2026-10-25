@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Tek Parça Aşk'ın TEK PARÇA 25. GÜN etkinliği için yayımladığı özel bölümdür.",
     "slug": "koisuru-one-piece-zenyasai-tokubetsu-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Koisuru One Piece Zenyasai Tokubetsu-hen ONA",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16uuu4fgPyWyvbUF8dKHW31J8KRiLOeMj/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/odj63zij"
+          }
+        ],
+        "added_date": "2026-07-27T04:33:19.677987"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 62214,

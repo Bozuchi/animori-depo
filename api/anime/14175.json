@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Ohana büyükannesinin yönettiği kaplıcada (Kissuisou) yaşamaya alışık bir şekilde büyümüştür. Bir gün Kissuisou’nun rakip hanının yöneticisinin kızı Yuina han sahibesi eğitimi almak için Kissuisou’ya gelir. Ohana, Yuina’nın eğitimini gözlerken depoda temizlik yaptığı bir anda “belirli bir öğe” bulur.",
     "slug": "hanasaku-iroha-home-sweet-home",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hanasaku Iroha : Home Sweet Home",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682367150"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1320506"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pb6w3m46"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/doruk.n/4/16.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2666491"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0klghc7p8i66.html"
+          }
+        ],
+        "added_date": "2026-07-26T02:08:18.076960"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 14175,

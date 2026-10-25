@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Quanzhi Gaoshou animesinin filmidir.",
     "slug": "quanzhi-gaoshou-zhi-dianfeng-rongyao",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Quanzhi Gaoshou zhi Dianfeng Rongyao",
+        "videos": [
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/199DU16ChNv39LGKK1QVzq7MotkvDn6xh/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VRxEi6V_fQsPorqE582J5OfIwGBpfrNO/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7032"
+          },
+          {
+            "fansub_id": 30,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ecl6093zu03c.html"
+          },
+          {
+            "fansub_id": 30,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-p3ddgjkpkyi3.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:24:37.505966"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40080,

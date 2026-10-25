@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Tsuritama serisine ait picture dramadır.",
     "slug": "tsuritama-harikitte-contest",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tsuritama Picture Drama: Harikitte Contest",
+        "videos": [
+          {
+            "fansub_id": 28,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XhInL1Z0SRnmpOdKV9A0I3cAlqPeeNYe/preview"
+          },
+          {
+            "fansub_id": 28,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18W1wtS91tP6SODaF4mqgq46saCz_j8Ju/preview"
+          },
+          {
+            "fansub_id": 28,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911473"
+          },
+          {
+            "fansub_id": 28,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666027"
+          },
+          {
+            "fansub_id": 28,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/momokuridangan/_myvideo/41.html"
+          },
+          {
+            "fansub_id": 28,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4631499"
+          },
+          {
+            "fansub_id": 28,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2w2vn3ms0bal.html"
+          },
+          {
+            "fansub_id": 28,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-e7o8n9njiqh7.html"
+          },
+          {
+            "fansub_id": 28,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-a4myvx6n45bg.html"
+          }
+        ],
+        "added_date": "2026-07-29T18:45:06.631142"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31581,

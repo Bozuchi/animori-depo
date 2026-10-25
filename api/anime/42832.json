@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Kanata ve Misella'nın çıktıkları yolculuğu gösteren Tales of Crestoria ana hikayesinin prologunun ele alındığı kısa bir TV filmi. Oyundan uyarlamadır..",
     "slug": "tales-of-crestoria-toga-waga-wo-shoite-kare-wa-tatsu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tales of Crestoria: Toga Waga wo Shoite Kare wa Tatsu",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dQrmwjJt5ElGwGss3DgW2YlywChJpM_i/preview"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359665154"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388376822"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4620865"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4136683"
+          },
+          {
+            "fansub_id": 100,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bxrzwbe2574i.html"
+          }
+        ],
+        "added_date": "2026-07-29T14:58:01.636631"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 42832,

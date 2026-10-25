@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Ruquia ve arkadaşları Sihir Akademisindeki en kötü sınıftır. Fakat her yıl düzenlenen Akademi yarışını kazanırlarsa ödülün sahibi olup mevkilerini koruyabileceklerdir. Yine de beceriksiz halleri bunu başarmada engel olabilecektir.",
     "slug": "quiz-magic-academy-the-original-animation",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Quiz Magic Academy: The Original Animation OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17-TC-69EXvKzRGOU78RWM68zlCdvYt-_/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18QNXDCiL24COhYahhtbmdv24TDfcWp5i/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909045"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4518321"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fx4z4uwcwc4p.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7jyn6tej74br.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9r1478go"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-iruqj98ut31x.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:28:16.596865"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5080,

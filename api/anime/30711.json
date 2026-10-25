@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "5 film olarak planlanan Code Geass: Boukoku no Akito filmlerinin beşincisi ve sonuncusudur.",
     "slug": "code-geass-boukoku-no-akito-5-itoshiki-mono-tachi-e",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Code Geass: Boukoku no Akito Final - Itoshiki Monotachi e",
+        "videos": [
+          {
+            "fansub_id": 10,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16aPzvsB6IxKQYulLg9bbCUPSNXZQd923/preview"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847163"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4074457"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3434476"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/62yecz70"
+          }
+        ],
+        "added_date": "2026-07-23T16:17:35.470725"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30711,

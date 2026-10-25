@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Bu kısa hikaye Jim'in denizdeki yolculuğundan.",
     "slug": "takarajima-memorial-yuunagi-to-yobareta-otoko",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Takarajima Memorial: Yuunagi to Yobareta Otoko",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XA_TRP_sbW-KgYfRfi_TbeRngL3bDkfc/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojina/video/embed/11/4030"
+          }
+        ],
+        "added_date": "2026-07-29T14:55:14.511695"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11685,

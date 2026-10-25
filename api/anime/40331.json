@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikaye, hiçbiri müzik enstrümanları ile daha önce deneyimi olmayan bir grup serserinin oluşturduğu rock grubu etrafında dönüyor.",
     "slug": "ongaku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ongaku - Sesimiz",
+        "videos": [
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EJez7w-u-dYUknSi9_PPePtQ2v9Bt1sG/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1N7UuwuDQwrkAOYONUWlO1bWB-gfNpIEM/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/szerzno/video/embed/_myvideo/101"
+          },
+          {
+            "fansub_id": 169,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1cICVRrp72W8Gyyv8h52bvW6jAISwnAiG/preview"
+          },
+          {
+            "fansub_id": 169,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359668735"
+          },
+          {
+            "fansub_id": 169,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gqqpgw9pt4p6.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:27:24.971520"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40331,

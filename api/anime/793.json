@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Watanuki, Yuko'nun dükkanına geldiğinde, posta kutusunda Yuko'ya gelmiş bir açıkartırma davetiyesi bulur. İşlerle ilgilenip bahçeyi temizlediği sırada, kapıya bir kadın gelir ve Watanuki'den yardım ister. Watanuki kadını Yuko ile tanıştırdığında, kadın kendi mansiyonuna giremediğini ve girmek için yardım istediğini belirtir. Kadının bahsettiği mansiyon, açıkartırmanın olduğu mansiyondur. Yuko, Watanuki ve Domeki mansiyonun sırrını çözmek için açıkartırmaya giderler. Tuhaflıklar eve vardıklarında başlayacaktır.",
     "slug": "xxxholic-movie-manatsu-no-yoru-no-yume",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "xxxHolic Movie",
+        "videos": [
+          {
+            "fansub_id": 176,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1be6eGMwBK1yjzEC6NveIPafRuqjSpRke/preview"
+          },
+          {
+            "fansub_id": 176,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985848352"
+          },
+          {
+            "fansub_id": 176,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6rmnhf5ktwsz.html"
+          },
+          {
+            "fansub_id": 176,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5grxtld7ttjx.html"
+          },
+          {
+            "fansub_id": 176,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vxbnzxp3"
+          }
+        ],
+        "added_date": "2026-07-30T17:10:46.721863"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 793,

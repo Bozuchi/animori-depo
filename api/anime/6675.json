@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Red Line, beş yılda bir yapılmakta olan evrenin en büyük yarışıdır. Erkek ya da kadın, herkes kazanmak için girer ve tüm hünerlerini sergiler. Gelecekteki yarışlarda neler olacağı ise tam bir merak konusudur...",
     "slug": "redline",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Redline",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1X1lY6dM-dC6ArymZkMVfuMXrjW5pND0s/preview"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/945.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016040"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-8ae81ltk48l6.html"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/baryshx/_myvideo/286.html"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1900356"
+          }
+        ],
+        "added_date": "2026-07-29T04:17:25.028922"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6675,

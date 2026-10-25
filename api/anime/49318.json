@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Tensei Shitara Slime Datta Ken animesinin 2. sezonunun özeti niteliğindeki bölümdür.",
     "slug": "tensei-shitara-slime-datta-ken-2nd-season-kanwa-veldora-nikki-2",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki Special",
+        "videos": [
+          {
+            "fansub_id": 73,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uAgu6j7KGcal96eB5iwzAINtGG5VAyeP/preview"
+          },
+          {
+            "fansub_id": 73,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4548013"
+          },
+          {
+            "fansub_id": 73,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-d27yvftcc6yz.html"
+          }
+        ],
+        "added_date": "2026-07-29T16:01:27.455701"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49318,

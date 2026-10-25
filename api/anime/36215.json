@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Luffy ve dört yoldaşının geçmişlerini ve Luffy ile olan bağlarını anlatan özel bölümdür.",
     "slug": "one-piece-episode-of-east-blue-luffy-to-4-nin-no-nakama-no-daibouken",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece - Episode of East Blue - Luffy to 4 Nin no Nakama no Dai-boken",
+        "videos": [
+          {
+            "fansub_id": 36,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MJdfCzNwSP1FmvPThd5AeE80eNewiLb5/preview"
+          },
+          {
+            "fansub_id": 36,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4460527"
+          },
+          {
+            "fansub_id": 36,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/verk8uea"
+          },
+          {
+            "fansub_id": 36,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q5ea8oie"
+          },
+          {
+            "fansub_id": 36,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-sl7ppadevbab.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-z2l4swooxi85.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1e9fo6kg7ap2.html"
+          }
+        ],
+        "added_date": "2026-07-27T20:56:10.963666"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36215,

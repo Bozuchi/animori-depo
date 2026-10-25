@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Güz 2022'de yayımlanan Tonkaki Kawaii'nin özel bölümü.",
     "slug": "tonikaku-kawaii-seifuku-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tonikaku Kawaii: Seifuku Special",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15r7jF5t2E9do81a3UhRCgdU58CQca0Sp/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1vunDWIIAApDyuvecICUMeNRsFhcjaUms/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7317328059844002553"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4962402"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8qsmeiaia0hd.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4ervzxmi9zbo.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:43:59.662001"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 51533,

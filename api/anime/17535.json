@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Éclair' in hayatından bir kesitin gösterildiği bu ovada Momon ile nasıl tanıştığı anlatılıyor. Bu ovayı izlemeden önce Fairy Tail Movie: Houou no Miko izlemeniz daha iyi olacaktır.",
     "slug": "fairy-tail-movie-1-houou-no-miko-hajimari-no-asa",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13HpeHz31GK36L_4h8DrBwSvtkVHMX2GL/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847284"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4075260"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/b23ratfu"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vsmt4cda3buw.html"
+          }
+        ],
+        "added_date": "2026-07-25T01:02:26.450218"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 17535,

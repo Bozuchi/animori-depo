@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "M.S. 2131 yılında, 3. Dünya Savaşı gazileri Deunan Knute ve savaşta bedeninin büyük bir bölümünü kaybeden cyborg partneri Briareros, Olympus isimli ütopik şehre getirilirler. Olympus halkı insanlardan ve genetik olarak yeniden yapılandırılmış bioroidlerden oluşmaktadır. Görünüşte mükemmel bir dünya gibi görünen Olympus, perde arkasında büyük entrikalarla sahne olmaktadır. Olympus E.S.W.A.T. kuvvetlerinde göreve başlayan Deunan ve Briareros, kısa bir süre sonra Olympus'un geleceğine ilişkin gizli planlara tanık olurlar.",
     "slug": "appleseed",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Appleseed",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SJF-v1DsvMBIjqC2pJukCYS7rhlswXe0/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359654329"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018391"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4065288"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5ooz0dqr"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6cf9zqjalbmd.html"
+          }
+        ],
+        "added_date": "2026-07-23T02:20:48.847251"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 937,

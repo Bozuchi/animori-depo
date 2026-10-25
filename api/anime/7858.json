@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Sora no Otoshimono serisine ait OVA bölümdür.",
     "slug": "sora-no-otoshimono-project-pink",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Sora no Otoshimono OVA: Project Pink",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uRan4yDPHcTyc_OLrrzhoW71DoovPUcw/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/list/schneizel/video/embed/_myvideo/53"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015399"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3431572"
+          }
+        ],
+        "added_date": "2026-07-29T11:27:59.818809"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 7858,

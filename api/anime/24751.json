@@ -5,7 +5,80 @@
     "bolum_durumu": "1/1",
     "ozet": "Akuma no Riddle'ın yayınlanmamış 13. bölümüdür.",
     "slug": "akuma-no-riddle-shousha-wa-dare-nukiuchi-test",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Akuma no Riddle OVA",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359668056"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3792383"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762861"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vsr3wimmoq4m.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b60rowal1xf9.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-q3sj3bky15bj.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ukPfw0OC3t7E7psElyfJbwS8T2P1Aibs/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5017021353669165208"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1378"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2047856"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-whn2tbb9yg5e.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7c2l5yj7"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kon9pbtxnjko.html"
+          }
+        ],
+        "added_date": "2026-07-20T06:21:20.747658"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 24751,

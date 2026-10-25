@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Manganın sınırlı sayıdaki 7. cildiyle beraber gelen OVA bölümdür. 13. bölüm olarak da geçer.",
     "slug": "busou-shoujo-machiavellianism-doki-goken-darake-no-ian-ryokou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Busou Shoujo Machiavellianism OVA",
+        "videos": [
+          {
+            "fansub_id": 37,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1kKetOwJ6YJowK1rO-q_hfK7_CcrF_oZR/preview"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3457323"
+          },
+          {
+            "fansub_id": 37,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4498923"
+          },
+          {
+            "fansub_id": 37,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1kfchk8tf1z3.html"
+          },
+          {
+            "fansub_id": 37,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-i7pygst6ucyc.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3270376"
+          }
+        ],
+        "added_date": "2026-07-23T07:22:24.313585"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 35314,

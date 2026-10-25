@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "İnsanlık, warp teknolojisi sayesinde evrenin dört bir yanına yayılıp gelişmiştir. Lakin onca gelişmeye rağmen türlü türlü sorunlar ilen de yüz yüze kalınmaktadır. Çeşitli konularda gezegenlere hizmetlerde bulunan WWWA Şirketi, casusluk ve gizemli olaylar ilen ilgilenmesi için \"Lovely Angels\" kod adlı iki genç ve güzel kadın ajanı kullanmaktadır.\n\nBu iki dilber, her ne kadar yetenekli olursa olsunlar, karşılaştıkları meseleleri çözme yöntemleri bir hayli zararı da beraberinde getirmektedir. Yaşanan maddi zarar ve yaralanmalar sonucu onlara takılan isim ise \"Dirty Pair\"dir. Bu takma isme her ne kadar kızıyor bile olsalar; yaşadıkları ve yaşayacakları pek çok serüven, bu ismi daha da bilinir hale getirecektir...",
     "slug": "dirty-pair-the-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Dirty Pair: The Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1T4uESkalZeCdIqdCzhV0fpNC0itRKU8G/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/86.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2757851"
+          }
+        ],
+        "added_date": "2026-07-24T21:46:06.995295"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1796,

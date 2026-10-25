@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikaye, okullu kızların huzurlu günlük hayatlarının, eski okul arkadaşlarının zombiye dönüşmesinin ardından yerle bir olmasıyla başlar; sağ kalan kızların okulun çatısında yaptıklarıyla devam eder.",
     "slug": "alice-in-deadly-school",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Alice in Deadly School Ova",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZmPv-vESFito21vMTIA1gu2GfNIuErKt/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19ynHrGg0mFfiaICdDRUjJSuIgKsiCakH/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363771"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4515589"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-f1bthxjzvyvh.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lv4ss5x2k6d4.html"
+          }
+        ],
+        "added_date": "2026-07-20T06:25:18.916349"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33839,

@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikâye, Quon ve diğer çocukların birden süper güçler ile uyanması ile devam ediyor.",
     "slug": "towa-no-quon-4-guren-no-shoushin",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Towa no Quon Movie 4: Guren no Shoushin",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1iTXUcUUsffHJHJYvY402pfOLoy6xU_o4/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016568"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1832958"
+          }
+        ],
+        "added_date": "2026-07-29T18:14:23.447317"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10715,

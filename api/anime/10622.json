@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Tengen Toppa Gurren Lagann Animesinin 5,5. Bölümüdür.",
     "slug": "tengen-toppa-gurren-lagann-ore-no-gurren-wa-pikka-pika",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tengen Toppa Gurren-Lagann 5.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zBvr5Ywg6YoX0g3aq9NKVVP4iAvIawRm/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718502"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7852876293715529181"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2586048"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4476123"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ui4vhd9b9ahy.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/eqiido8q"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0ohm7jry3gaj.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:42:10.797839"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10622,

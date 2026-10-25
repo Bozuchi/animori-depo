@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "İkiz kardeşler Yukino ve Kanade Sakurai, yeni okullarına gitmek için Tokyo'ya taşınırlar. Ancak her şey bekledikleri gibi gitmez.",
     "slug": "candy-boy-episode-ex01-mirai-yohouzu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron Special",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1gRKuGvqKFu_Zm-nRTxOMyIEDtzJBcOHH/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016034"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3793791"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1764314"
+          }
+        ],
+        "added_date": "2026-07-23T07:30:35.874382"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5116,

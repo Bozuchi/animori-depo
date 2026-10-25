@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Slam Dunk animesinin devam filminde Shohoku'nun oyun kurucusu Ryouta Miyagi'nin hikâyesine tanık oluyoruz. Turnuvadaki rakipleri \"Kral\" Sannoh'a karşı takım arkadaşlarıyla beraber kafa tutar. Shohoku, Sannoh'a karşı.",
     "slug": "the-first-slam-dunk",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "The First Slam Dunk",
+        "videos": [
+          {
+            "fansub_id": 194,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lClfz8oZqLGeudRJl7asnui7ht7hHQWQ/preview"
+          },
+          {
+            "fansub_id": 194,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/eu1euvs77rba"
+          }
+        ],
+        "added_date": "2026-07-29T16:22:21.355422"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 45649,

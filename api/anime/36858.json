@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Heian Dönemi'nde geçen bu hikaye, ihtişamıyla öne çıkan güzel bir şehir olan Kyo'da gerçekleşir. İki güzel onmyouji buluşur ve üzgün, kısa ömürlü güzel kiraz çiçeği 1000 yılın ardından hareketlenmeye başlar.",
     "slug": "usuzumizakura-garo",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Usuzumizakura: Garo Movie",
+        "videos": [
+          {
+            "fansub_id": 357,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oQAH96U6gKKDeC292uD8k0Drlezude9v/preview"
+          },
+          {
+            "fansub_id": 357,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7432059985078518012"
+          },
+          {
+            "fansub_id": 357,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/r2fmbohbpu5t"
+          },
+          {
+            "fansub_id": 357,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/9crdvme678dx"
+          },
+          {
+            "fansub_id": 357,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/y5qvn2am"
+          }
+        ],
+        "added_date": "2026-07-29T19:56:21.123994"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36858,

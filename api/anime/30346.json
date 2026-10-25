@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Rihito Sajou, liseye giriş sınavında tam puanlar almış olan bir onur öğrencisidir. Hikaru Kusakabe ise grubuyla birlikte gitar çalan ve kızlar arasında popüler olan biridir. Daha önce yolları hiç kesişmemiştir. Ancak bir gün Hikaru Sajou'ya, yakında yapılacak olan koro festivaline hazırlanması için yardım edebileceğini söyler ve böylece konuşmaya başlarlar.",
     "slug": "doukyuusei-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Doukyuusei",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/torukojin_a/_myvideo/907.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3793989"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2640827"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/v4a5e9wm"
+          },
+          {
+            "fansub_id": 211,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-yo60994lr76j.html"
+          },
+          {
+            "fansub_id": 211,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2k0a0jr9"
+          }
+        ],
+        "added_date": "2026-07-24T22:10:18.790301"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30346,

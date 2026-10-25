@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Tamaki, ortaokula giden bir kızdır. Babası, Doktor Yagiyama, peguenlere aşık bir adamdır. Ancak onun davranışları, küçük kızı Tamaki'nin penguenlerden nefret etmesine sebep olmuştur. Bunun üzerine Tamaki'ye penguenleri sevdirebilmek için \"Minori\" ismini verdiği robot pengueni oluşturur. Tamaki, şehirdekilere büyük sorun çıkaran Minori'yi durdurmak için yorucu bir maceraya atılır.",
     "slug": "minori-scramble",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Minori Scramble! OVA",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eHeCOrNRosyHwuha5NxbYYpbTe-3Szt0/preview"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017113"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1573"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-t28kt4sl44he.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1290501"
+          }
+        ],
+        "added_date": "2026-07-27T12:12:37.595713"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9523,

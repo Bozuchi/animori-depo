@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Nul Peta animesinin özel bölümüdür.",
     "slug": "null-peta-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Null Peta Special",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366744"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3977458"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4531947"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-52e0foslenp3.html"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/zhomud9a"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gagpeum1u6wx.html"
+          }
+        ],
+        "added_date": "2026-07-27T17:00:57.540772"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40932,

@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "İçinde kara küllerin bulunduğu sonsuz bir yağmurun gökyüzünü doldurup kapladığı bir dünya var. İnsanoğlunun, derisini yakan ve eriten bu külden korkarak, koruyucu giysiler içinde, yüzlerini devasa maskelerle örterek yaşamaktan başka seçeneği yoktu. Giysilerini topladılar ve maskelerinin arkasına gizlediler, insanlar yeraltının derinliklerine kaçtılar. Bu korkunç dünyada büyüyen çocukların hikayesi anlatılmaktadır.",
     "slug": "cocolors",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Cocolors Movie",
+        "videos": [
+          {
+            "fansub_id": 33,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1yrmqIK3_zqA_sIv_MnTFRbZ2jOobG2xP/preview"
+          },
+          {
+            "fansub_id": 33,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7320964432559866520"
+          },
+          {
+            "fansub_id": 33,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4662934"
+          },
+          {
+            "fansub_id": 33,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/372w3ng2"
+          },
+          {
+            "fansub_id": 33,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wsmuijflunzo.html"
+          }
+        ],
+        "added_date": "2026-07-23T16:17:22.068579"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34167,

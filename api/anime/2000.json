@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Mevcut Japon hükümeti, sağlık bakanlığı ile toplantı yapmaktadır ve bütçelerinin çok fazla olmasından söz edilmektedir. Ana neden olarak da yaşlılara tanınan çeşitli hizmetler gösterilmektedir. Toplantıya aniden giren bir kişi elinde bu konuya açıklık kazandıracak ve kökünden bir değişiklik sağlayacak bir proje olduğunu söyler. Bir şirketin geliştirdiği ileri düzey bir bilgisayar ile donatılmış yaşlı bakım yatağı, yeni ve pek çok soruna çözüm olacaktır. İşler kâğıt üzerinde gayet olumlu ve uygun görülmektedir. Ancak açıklanmayan tek nokta, bu yeni nesil bilgisayarın yapay bir zekâya sahip olmasıdır.",
     "slug": "roujin-z",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Roujin Z",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14XTRkNRMwHvQzb4j138dPLChrj73M0Mh/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271192111"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4501657"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1386294"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jbu4mwf9"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/34v2b5to"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-46buu21ixb8h.html"
+          }
+        ],
+        "added_date": "2026-07-29T05:04:21.728479"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2000,

@@ -5,7 +5,40 @@
     "bolum_durumu": "2/1+",
     "ozet": "Gintama serisinin final filmidir.",
     "slug": "gintama-the-final",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Gintama: The Final Movie",
+        "videos": [
+          {
+            "fansub_id": 85,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19pycK6pDkSrJRXV45CcdCz2HHqVItU2T/preview"
+          },
+          {
+            "fansub_id": 85,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qvq565ep0mkF6GGUiJjSWAUC8VRHsS0Y/preview"
+          },
+          {
+            "fansub_id": 85,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1N3mHIes35GGFFXAElXTvLy_qmvtbN2h_/preview"
+          },
+          {
+            "fansub_id": 85,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359662090"
+          },
+          {
+            "fansub_id": 85,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140716585"
+          }
+        ],
+        "added_date": "2026-07-25T23:50:45.992392"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39486,

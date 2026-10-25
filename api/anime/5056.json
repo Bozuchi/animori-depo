@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Penguin Musume♥Heart serisinin Special (11.5) bölümüdür.",
     "slug": "penguin-musume-heart-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Penguin Musume Heart 11.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370671"
+          },
+          {
+            "fansub_id": 1,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/2tzhpszury0r"
+          },
+          {
+            "fansub_id": 1,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fs2dybf4yf4a.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:26:16.304026"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5056,

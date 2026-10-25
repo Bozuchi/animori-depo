@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Izu ve Marin, Çiçek Köyü'nde yaşayan ve geçimlerini yetiştirdikleri sebzelerle sağlayan iki âşıktır. Sular şehri Isa’ya pazara geldikleri bir günde, Isa’nın sur duvarlarında bulunan kapaklar açılır ve deniz suyu şehre dolmaya başlar. Izu, kahramanlık yaparak kapakları kapatır ve Isa şehrini kurtarır.\n\nBu saldırı sonucunda yakalanan sabotajcı suçunu itiraf eder ve böylece Isa, Paro’ya karşı savaş kararını almış olur. Ancak Isa’dan Prenses Ahanas ile Paro‘dan Prens Jill birbirlerine aşıktırlar ve savaşı durdurmak için ellerinden gelen çabayı göstereceklerdir.",
     "slug": "windaria",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Windaria",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1miE7hGjjwc8eohLT8U99-Cc9MiiPnVje/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Y073pMRfcWttKgs56TDQhDfXoRT6Ewxn/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363094"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/8423.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4501735"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-aapjl2ryoeo6.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/o4u48coa"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ui3yf1qi"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-sf6yqqyfbzer.html"
+          }
+        ],
+        "added_date": "2026-07-30T16:12:23.438444"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1130,

@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Manganın 15. cildiyle gelen OVA bölümüdür.",
     "slug": "akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Akagami no Shirayuki-hime OVA",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TRNrKtMGowAr2mBFuIFzrZhd6esbJQz1/preview"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/27"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4090054"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4505856"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-i5gnzd0coyi8.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ik8l7lst"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/b8a7733w"
+          },
+          {
+            "fansub_id": 46,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gnmd48u7ddgu.html"
+          }
+        ],
+        "added_date": "2026-07-20T05:59:29.920780"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31483,

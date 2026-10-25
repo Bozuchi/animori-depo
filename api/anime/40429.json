@@ -5,7 +5,20 @@
     "bolum_durumu": "1/1",
     "ozet": "Savaşçıların koruması altındaki Hotaru hızla yaşlanmaya başlar. Derken, tüm Savaşçıların yeniden birleşme zamanı gelir!",
     "slug": "bishoujo-senshi-sailor-moon-eternal-movie-2",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Bishoujo Senshi Sailor Moon Eternal Movie Part 2",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-i4xe776wty79.html"
+          }
+        ],
+        "added_date": "2026-07-23T04:54:56.487740"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40429,

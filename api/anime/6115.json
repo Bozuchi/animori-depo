@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "-Güncellenecektir-",
     "slug": "lupin-iii-vs-detective-conan",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Lupin III vs. Detective Conan Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14d2DVZiniA5lR--pT6z9N6p0_YC7cJds/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366969"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140719106"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/mlpen04m"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ec4otui1kiug.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:52:47.150983"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6115,

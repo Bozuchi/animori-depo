@@ -655,6 +655,53 @@
           }
         },
         "added_date": "2026-07-26T06:31:45.496499"
+      },
+      {
+        "episode_number": null,
+        "title": "Jashin-chan Dropkick ONA",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3575106"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pm8xe7gyzu9q.html"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wmi3fgtkmnkt.html"
+          },
+          {
+            "fansub_id": 210,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jvja9t1BXhHPCtJLHr07HRPBLpJFSgus/preview"
+          },
+          {
+            "fansub_id": 210,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18Gniu_FPcp5kj1KWCmovf4zKrFJtLV6Z/preview"
+          },
+          {
+            "fansub_id": 210,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850166"
+          },
+          {
+            "fansub_id": 210,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4432059"
+          },
+          {
+            "fansub_id": 210,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mt9q43rw13vm.html"
+          }
+        ],
+        "added_date": "2026-07-26T06:31:45.496499"
       }
     ]
   },

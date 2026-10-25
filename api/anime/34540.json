@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Pokemon animesinin 2017 yılında yayınlanmış filmidir.",
     "slug": "pokemon-movie-20-kimi-ni-kimeta",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Pokemon: Kimi ni Kimeta!",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oME1Qp8lTAKUUlrA1huEOaLdp52_tVrG/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14iFIThZTHUdRhYtMyEUal6Ie9X_gCNTR/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911724"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-r3ov4ismd2ef.html"
+          }
+        ],
+        "added_date": "2026-07-29T02:27:00.998970"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34540,

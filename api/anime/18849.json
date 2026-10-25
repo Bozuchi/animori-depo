@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Natsume Yuujinchou LaLa Animesinin Special Bölümü",
     "slug": "natsume-yuujinchou-nyanko-sensei-to-hajimete-no-otsukai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Natsume Yuujinchou LaLa Special",
+        "videos": [
+          {
+            "fansub_id": 192,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1raf7N1TXISZCqV8mBt5-XToQAlugVNOr/preview"
+          },
+          {
+            "fansub_id": 192,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4067840"
+          },
+          {
+            "fansub_id": 192,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-v15pt6hcfjwm.html"
+          },
+          {
+            "fansub_id": 192,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vxi57ffk0fgh.html"
+          },
+          {
+            "fansub_id": 192,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ntpv6rte8cmx.html"
+          }
+        ],
+        "added_date": "2026-07-27T15:28:23.543908"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 18849,

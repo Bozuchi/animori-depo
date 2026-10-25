@@ -1147,6 +1147,58 @@
           }
         ],
         "added_date": "2026-07-26T00:17:27.156653"
+      },
+      {
+        "episode_number": null,
+        "title": "Gokukoku no Brynhildr 11.5 Bölüm",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7852876293715527683"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/753.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1983294"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/subs.puzzle/_myvideo/75.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5005367"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kh4v73zjez7g.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-digdycguvvm7.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/6535.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1729865"
+          }
+        ],
+        "added_date": "2026-07-26T00:17:27.156653"
       }
     ]
   },

@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Serinin ilk sezon öncesinde geçen, yılbaşını baz alan Special bölümüdür.",
     "slug": "ai-yori-aoshi-enishi-miyuki-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ai Yori Aoshi: Enishi - Miyuki",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1kdmJIFdNQy8crXWVDEnuIsTxDXEi0PmD/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/507.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7852876293715527884"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2613843"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4516126"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1103118"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-bewa02x0to1p.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9nz86j27"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mglpbo9n4ljn.html"
+          }
+        ],
+        "added_date": "2026-07-20T04:02:08.327735"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3266,

@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Trinity Seven serisinin 2. filmidir.",
     "slug": "trinity-seven-movie-2-heavens-library-to-crimson-lord",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Trinity Seven Movie 2: Tenkuu Toshokan to Shinku no Maou",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xmzbkZK3Kx1TY9TT4Lr7e9VMQozE59tq/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ztivxo70i8ry.html"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1305"
+          },
+          {
+            "fansub_id": 34,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-8sa51fkil0xw.html"
+          },
+          {
+            "fansub_id": 179,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ih0ar99uwnk3.html"
+          }
+        ],
+        "added_date": "2026-07-29T18:26:20.548111"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37986,

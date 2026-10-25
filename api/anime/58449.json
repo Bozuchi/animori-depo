@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Kayıp annesini bulmak için yazın kar yağarken kendisini gizemli bir yolculuğa sürükleyen dikbaşlı bir kızla maceraya atılan utangaç bir çocuk hayır demeyi öğrenebilecek midir?",
     "slug": "suki-demo-kirai-na-amanojaku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Suki demo Kirai na Amanojaku Movie",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371581"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/0cddv6on1s24"
+          }
+        ],
+        "added_date": "2026-07-29T13:26:26.074744"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 58449,

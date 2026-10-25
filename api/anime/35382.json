@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Yuri!!! on ICE'ın 6. DVD/BD paketinde yer alan özel bölüm.",
     "slug": "yuri-on-ice-yuri-plisetsky-gpf-in-barcelona-ex-welcome-to-the-madness",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness",
+        "videos": [
+          {
+            "fansub_id": 133,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/aysupload/video/embed/_myvideo/249"
+          },
+          {
+            "fansub_id": 133,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4289110"
+          },
+          {
+            "fansub_id": 133,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fpdwmwy6jci1.html"
+          },
+          {
+            "fansub_id": 133,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hvaj5zho"
+          },
+          {
+            "fansub_id": 133,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hflrs8iw1keo.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:13:23.175575"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 35382,

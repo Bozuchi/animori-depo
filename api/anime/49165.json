@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Japonya'daki Meiji Restorasyon Dönemi'nin ilk yıllarında bir insan samuray, bir ork suikasçıyla birlik olup yetim bir elf kızı ortak düşmanlarından kurtarmalıdır.",
     "slug": "bright-samurai-soul",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Bright: Samurai Soul Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IFxhGGwYM0sUg4Dp3sk_UGFVJX63RBFr/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hPj96O7D7iLyQG-7W1mwBOeyAij5g9uW/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368230"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-u7m11fyxtzef.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:02:58.531921"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49165,

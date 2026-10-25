@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Estetik cerrah, moda takıntılı kadın, dedikoducu esnaf gibi modern toplumda rastladığımız karakterleri inceleyen ve medeniyetin gelişimine dair bir yorum yapan kısa bölümlerden oluşan bir dizidir.",
     "slug": "tenrankai-no-e",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tenrankai no E",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QQVxoLSvOY_QCbDYT-76xPr4putb7oqs/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1745"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017625"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5699.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1525258"
+          }
+        ],
+        "added_date": "2026-07-29T15:50:31.785014"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3472,

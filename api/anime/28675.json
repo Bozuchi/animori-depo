@@ -5,7 +5,65 @@
     "bolum_durumu": "1/1",
     "ozet": "Televizyon serisinde geçen olayları farklı bakış açısıyla anlatan 2 bölümlük film serisinin son filmidir.",
     "slug": "kyoukai-no-kanata-movie-i-ll-be-here-mirai-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kyoukai no Kanata: I'll Be Here - Mirai Hen",
+        "videos": [
+          {
+            "fansub_id": 247,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SyHDqVP0PoCKe44R1iIw85uz4wOaVIEk/preview"
+          },
+          {
+            "fansub_id": 247,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DLvSXycgLeEMOdCF6B1LPemRGzWQfTVw/preview"
+          },
+          {
+            "fansub_id": 247,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JBf_uwWCIPDsvgJue18wVlOMXZ8dOeQQ/preview"
+          },
+          {
+            "fansub_id": 247,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359662445"
+          },
+          {
+            "fansub_id": 247,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mhqcivahpazo.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/puzzleschool/video/embed/_myvideo/85"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/nacres041/_myvideo/74.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271187728"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/tgr5xea9"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/b6s09rzp"
+          }
+        ],
+        "added_date": "2026-07-27T07:32:08.190221"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 28675,

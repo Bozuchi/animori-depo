@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Ortaokul yıllarında ailesi boşanan Amafuji Ken, çocukluk arkadaşı olan Yoshinari Ritsurou ile birlikte yaşamaya başlar. İkilinin dostluğu aralarına giren Kohashi Moeko adlı kız yüzünden kopma noktasına gelir. Yoshinari, Moeko ve Ken arasında bir seçim yapmak zorunda kalacaktır.",
     "slug": "boku-wa-konomama-kaeranai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Boku wa Konomama Kaeranai",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zrfElluLlUceUWFBX2sdOh9l5OorNIgg/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3793084"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hc2dvoq7pyvs.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-n593rxizceiz.html"
+          }
+        ],
+        "added_date": "2026-07-23T06:27:48.206897"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1216,

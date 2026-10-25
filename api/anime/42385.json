@@ -109,6 +109,38 @@
           }
         ],
         "added_date": "2026-07-29T16:29:19.415239"
+      },
+      {
+        "episode_number": null,
+        "title": "The iDOLM@STER Million Live! 4",
+        "videos": [
+          {
+            "fansub_id": 13,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tsHkxqIkRLS2cftybcjaND_trmoPsmWn/preview"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5338695"
+          },
+          {
+            "fansub_id": 13,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5338694"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/wrwf7vv3pat7"
+          },
+          {
+            "fansub_id": 13,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/mleikf588703"
+          }
+        ],
+        "added_date": "2026-07-29T16:29:19.415239"
       }
     ]
   },

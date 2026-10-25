@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "One Punch Man animesinin Road to Hero adlı Special bölümüdür.",
     "slug": "one-punch-man-road-to-hero",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Punch Man - OVA : Kahramanlığa Giden Yol",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IAR_IHx9xgH0Hl6tRP4sAlLKxox45_Xv/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/6412852675095824361"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/l21ibc50"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9jc3ityv"
+          },
+          {
+            "fansub_id": 133,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3040200"
+          },
+          {
+            "fansub_id": 133,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pkre7aj0r0xo.html"
+          },
+          {
+            "fansub_id": 133,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ruz70i2h"
+          },
+          {
+            "fansub_id": 133,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5utpqb9t"
+          },
+          {
+            "fansub_id": 133,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3pxb0ybohc8k.html"
+          }
+        ],
+        "added_date": "2026-07-27T21:05:11.748821"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31704,

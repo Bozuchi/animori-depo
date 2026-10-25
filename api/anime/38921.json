@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Tsurune: Kazemai Koukou Kyuudoubu animesinin özel bölümüdür.",
     "slug": "tsurune-kazemai-koukou-kyuudoubu-yabai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tsurune: Kazemai Koukou Kyuudoubu - Yabai Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12L6seYUc96Bv51Pv9BMIFeMneLjc_znb/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4914"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3642750"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-50kesvxp0p1l.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/grlr8nl5"
+          }
+        ],
+        "added_date": "2026-07-29T18:46:05.607718"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38921,

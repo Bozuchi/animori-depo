@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "86 animesinin special bölümüdür.",
     "slug": "86-special-edition-senya-ni-akaku-hinageshi-no-saku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "86 Special",
+        "videos": [
+          {
+            "fansub_id": 33,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CP5fWm2-UFtRNtyX-yiLT2kyqJS6erRk/preview"
+          },
+          {
+            "fansub_id": 33,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4340221"
+          },
+          {
+            "fansub_id": 33,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vqe1s7dayg2d.html"
+          },
+          {
+            "fansub_id": 33,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6s45awjr"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sNov8mEYhjXHrbQfpLG10s0T2Eb4iZr2/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9w5apndr"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-czpp29zi0b4v.html"
+          }
+        ],
+        "added_date": "2026-07-19T03:15:06.749180"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49235,

@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Shingeki no Kyojin anime serisinin ilk 13 bölümünü konu alan filmidir.",
     "slug": "shingeki-no-kyojin-movie-1-guren-no-yumiya",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667183"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7gy4cae60z59.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/hdfilmdizi/_myvideo/287.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1777289"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1777316"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0kf9njzwhdxt.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/147RyJQdmG-QW7foqWhPWkpi9qgCGhmEt/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5017021353669166507"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-v1xh48kuays0.html"
+          }
+        ],
+        "added_date": "2026-07-29T09:18:50.059944"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 23775,

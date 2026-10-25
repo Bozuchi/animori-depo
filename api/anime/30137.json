@@ -5,7 +5,80 @@
     "bolum_durumu": "1/1",
     "ozet": "Oaylar, büyük bir sırrı olan Eiji Hoshimiya adında içine kapalı bir lise öğrencisi etrafında geçmektedir. Bu genç, küçükken dünyanın yok olmasını dilemiştir.",
     "slug": "big-order",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Big Order OVA",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667961"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/dmuratli/_myvideo/71.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762197"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b72zoy9zo2w1.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/0yczenvg"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0zugp90aqytb.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667960"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762191"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-13iq3zoe4zrj.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-daa5c7z0qt2q.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363235"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2552709"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3zem5pif"
+          }
+        ],
+        "added_date": "2026-07-23T04:44:03.504502"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30137,

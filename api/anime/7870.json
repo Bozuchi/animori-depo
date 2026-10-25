@@ -5,7 +5,40 @@
     "bolum_durumu": "1/6",
     "ozet": "Serinin special bölümleridir",
     "slug": "baka-to-test-to-shoukanjuu-specials",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Baka to Test to Shoukanjuu Special 1",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/mutlu.meric/_myvideo/53.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1929"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1125001"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3047550"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xaoyfm4i"
+          }
+        ],
+        "added_date": "2026-07-23T03:35:09.343323"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 7870,

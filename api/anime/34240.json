@@ -5,7 +5,85 @@
     "bolum_durumu": "1/1",
     "ozet": "Porter Robinson'ın müzik videosu için yaptığı klip.",
     "slug": "shelter",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shelter",
+        "videos": [
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fkPVvRzORlvkeFj5sLueaWGCfstKQibg/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/swagnemite/_myvideo/299.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lhjnksicy12f.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/nl8hybdh"
+          },
+          {
+            "fansub_id": 22,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-26kjx0blj7yw.html"
+          },
+          {
+            "fansub_id": 77,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370472"
+          },
+          {
+            "fansub_id": 77,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/o22mi6ztstxt"
+          },
+          {
+            "fansub_id": 77,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b6yos0rkidaf.html"
+          },
+          {
+            "fansub_id": 308,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pnbaicz7pbww.html"
+          },
+          {
+            "fansub_id": 308,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4oo8zsq830mi.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/pennorie/video/embed/_myvideo/454"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3044160"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zbzed58wyizn.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-35u8jtauutqj.html"
+          }
+        ],
+        "added_date": "2026-07-29T08:36:59.023396"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34240,

@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "TV serisinin devam ettiği dönemde yapılan ve ikinci sinema filmi olan yapım; Astate Savaşı ile başlayan TV serinin ilk dört bölümünün sinemalaştırılmış halidir. 150 yıldır devam eden savaşlar zincirinin devamında artık birbirlerinin gücünün farkında olan Reinhard Von Lohengramm ve Yang Wen-li`yi ikinci kez (ilki My Concuest of The Sea of The Stars) karşı karşıya getiriyor ve beraberinde ikilinin yarım kalan hesaplaşmasını anlatıyor.\n\nSinemanın özellikle önceki filme kıyasla görsel bir zenginlik ve kalitede sunulduğu göze çarpan bir diğer ayrıntı.",
     "slug": "ginga-eiyuu-densetsu-arata-naru-tatakai-no-overture",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Legend of the Galactic Heroes: Overture to a New War",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/baryshx/_myvideo/287.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271196218"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1912749"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jdofobz1"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-q1uulm7efs5b.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:29:08.037866"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3016,

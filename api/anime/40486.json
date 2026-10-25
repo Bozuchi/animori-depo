@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Strike the Blood ova bölümüdür.",
     "slug": "strike-the-blood-kieta-seisou-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Strike the Blood: Kieta Seisou-hen Ova",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1cSx6KpQohf4ipVSEgLIe-V871Tyz1bzV/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1090"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3885255"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ccr1fdd55hh4.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:18:24.883146"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40486,

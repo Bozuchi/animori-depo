@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Artık dünya ülkelerinin bir araya gelerek büyük zorluklar ile kurmuş olduğu ittifak zayıflamış ve bozulmak üzeredir. Bu ittifakın son bulacağını düşünmekte olan Haruo’nun bu ittifakın bozulması ile Exif ile birlikte olup dünyaya yok edebilecek yeni bir canavar çağırması an meselesidir. İttifak halindekiler bu durumun farkında oldukları için ellerinden gelenden fazlasını yapmak zorunda kalacaktır.",
     "slug": "godzilla-3-hoshi-wo-kuu-mono",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Godzilla 3: Hoshi wo Kuu Mono Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zDyOaj5BGbBiB2kdh4TVzggHxGzRbFwc/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140719107"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271191407"
+          }
+        ],
+        "added_date": "2026-07-26T00:12:32.272402"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37897,

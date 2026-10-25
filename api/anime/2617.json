@@ -5,7 +5,45 @@
     "bolum_durumu": "1/2",
     "ozet": "Ghibli Stüdyo tarafından kendi başından geçen şeyleri komikleştirmek ve animasyona dökmek amacı ile yapılan kısa filmlerdir.",
     "slug": "ghiblies",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ghiblies Special 2",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sGUTS3IGH-AbAp9lAWbloJp8byCqtAST/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366343"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4533975"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gfksqakqprzg.html"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/92sfhtbw"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9p8kidyebss6.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:05:41.537021"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2617,

@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Ejder Topu: Şeytan Kalesindeki Uyuyan Prenses. Goku ve Kuririn'e Kaplumbağa Keşiş bir görev verir: Uyuyan prensesi, Lucifer'den kurtarırsanız sizi öğrencim olarak kabul ederim. Ancak görev söylendiğinden daha tehlikelidir.",
     "slug": "dragon-ball-movie-2-majinjou-no-nemurihime",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Dragon Ball: Majinjou no Nemurihime Movie 2",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xvgLsK1V3TVCJ28T7q6XksWyP-5Ez-1f/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/avfc260p"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/torukojin_a/_myvideo/462.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2617058"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1775226"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7r8r5xca"
+          }
+        ],
+        "added_date": "2026-07-24T22:50:51.179024"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 891,

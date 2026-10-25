@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Kedilere has reklamlar.",
     "slug": "space-neko-theater",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Space Neko Theater ONA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lvrroUHb6S09-6gnWe0_gbq3w5z8dMut/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016701"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/350.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2553667"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vlgz6nsmzuzu.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:03:51.953006"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11729,

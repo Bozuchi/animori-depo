@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Date A Live serisinin özel bölümüdür.",
     "slug": "date-a-live-date-to-date",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Date A Live OVA",
+        "videos": [
+          {
+            "fansub_id": 151,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4905273"
+          },
+          {
+            "fansub_id": 151,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1769379"
+          },
+          {
+            "fansub_id": 151,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2khwt57nqvje.html"
+          },
+          {
+            "fansub_id": 151,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-v0yc3e6amfya.html"
+          },
+          {
+            "fansub_id": 51,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7395625562758185623"
+          },
+          {
+            "fansub_id": 51,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/d0fhczwt"
+          }
+        ],
+        "added_date": "2026-07-24T10:24:39.048770"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 17641,

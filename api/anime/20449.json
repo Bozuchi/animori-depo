@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Manganın 7. sayısına özel olarak çıkan OVA bölümüdür.",
     "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-motenaishi-nazomeite-miru",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KgDmkHJ4vJQB6fVSuNR_aVm0AtS2kwq-/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931910915"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ongej18o5fai.html"
+          }
+        ],
+        "added_date": "2026-07-30T15:56:05.888423"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 20449,

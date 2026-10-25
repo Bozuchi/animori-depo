@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Bokutachi wa Benkyou ga Dekinai animesinin OVA bölümüdür.",
     "slug": "bokutachi-wa-benkyou-ga-dekinai-nagisa-ni-usemono-arite-senjin-wa-enzen-to-x-suru",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Bokutachi wa Benkyou ga Dekinai: Nagisa ni Usemono Arite Senjin wa Enzen to [X] Suru OVA",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10o1FRNsEOTeQh774k7RtUzGnnylEBbTo/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_8t2Q9PRKrefggTKFslh6RFvYGbZcEZE/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659500"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/544"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4458083"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/rktsx7zd"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xbbnykinbuxe.html"
+          }
+        ],
+        "added_date": "2026-07-23T06:34:48.322924"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39819,

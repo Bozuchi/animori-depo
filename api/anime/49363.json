@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "SK∞ animesinin OVA bölümüdür.",
     "slug": "sk-ova-extra-part",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "SK∞: Extra Part OVA",
+        "videos": [
+          {
+            "fansub_id": 201,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1grzCpsXIucipUJujot8M5ZyXoJ4DaA4C/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1NfRSUGWb1pyibXPD25ABVIqKDpXRrhFm/preview"
+          },
+          {
+            "fansub_id": 11,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5854895"
+          }
+        ],
+        "added_date": "2026-07-29T10:50:44.967172"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49363,

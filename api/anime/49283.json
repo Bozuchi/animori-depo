@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Shoushukan Lisesi Ritmik Jimnastik Kulübü üyeleri, ilk kez bölge finallerine katılma hakkı kazanır ve gözlerini Inter-High şampiyonluğuna dikerler. Kulüp üyeleri, sonucu ne olursa olsun pişmanlık yaşamamak için rutinlerini hazırlayıp çalışırken, heyecan tüm okulu sarar.\n\nBu turnuva, kulübün üçüncü sınıf öğrencileri için son yarışma olduğundan, takım her zamankinden daha kararlıdır ve yarışmanın en büyük sahnesinde parlamak istemektedir. Ancak bu büyük etkinliğin baskısı ve kişisel sorunlar, kısa süre içinde baş edilmesi zor bir yük haline gelebilir.",
     "slug": "bakuten-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Movie Bakuten!!",
+        "videos": [
+          {
+            "fansub_id": 112,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ChEc8D_Dn9H5xzaEnadFwQJkFNtlUzD1/preview"
+          },
+          {
+            "fansub_id": 112,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8320106634588202314"
+          }
+        ],
+        "added_date": "2026-07-23T03:59:21.926526"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49283,

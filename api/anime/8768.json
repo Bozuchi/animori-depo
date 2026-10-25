@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Hiyori utangaç, ufak tefek bir kızdır. Geçirdiği trafik kazasından 1 yıl sonra ilk kez okula gidecektir ve biraz da korkmaktadır. Arkadaş edinmek için çabalayan Hiyori, yoksa daha fazlasını mı elde edecektir?",
     "slug": "hiyokoi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hiyokoi",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1nAd0YpbTIBcvLI0OeBmc8HzHtECxml4G/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015697"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1061714"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pzwffyyk"
+          },
+          {
+            "fansub_id": 106,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7725655522707243266"
+          },
+          {
+            "fansub_id": 106,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4793703"
+          },
+          {
+            "fansub_id": 106,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/d8plmlca1ul2"
+          },
+          {
+            "fansub_id": 106,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/gb2jh32zws5c"
+          },
+          {
+            "fansub_id": 106,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-jctbcrhanwdu.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:55:09.882971"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8768,

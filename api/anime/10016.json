@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Kizuna Todoroki, Wadachi Ju-ken okulunun öğretilerini kullanarak dövüşen genç bir kızdır. Büyük bir turnuvayı kazanır kazanmasına ama Kizuna ve ailesi için olaylar yeni başlamaktadır.",
     "slug": "kizuna-ichigeki",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kizuna ichigeki",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IkYPL1nNr8PnLQGs1QQz0dtqoKy9giTi/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359652039"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359657400"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3969335"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4450877"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fd6hw8wlz88m.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3jaf7paug5rd.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/v4xnd6m8"
+          }
+        ],
+        "added_date": "2026-07-27T04:12:50.815208"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10016,

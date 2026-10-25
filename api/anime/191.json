@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Love Hina serisinin Christmas Special bölümüdür.",
     "slug": "love-hina-christmas-special-silent-eve",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Love Hina Christmas Special Online",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AY4zG-PjOyR3yaVmjGIMsFV5aaJiqHEv/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659445"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359653111"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4458003"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4018965"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-j05r77gawmc2.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-h6jkhyci57iv.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/54wocwh5"
+          }
+        ],
+        "added_date": "2026-07-27T08:38:22.937537"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 191,

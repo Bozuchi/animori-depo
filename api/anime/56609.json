@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Üç Kizumonogatari filminin derleme filmi.",
     "slug": "kizumonogatari-koyomi-vamp",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kizumonogatari: Koyomi Vamp Movie",
+        "videos": [
+          {
+            "fansub_id": 175,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zoK-ZcWDS52P49tNLht32-EoJea8rfN-/preview"
+          },
+          {
+            "fansub_id": 175,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/5flww6ag3gbh"
+          }
+        ],
+        "added_date": "2026-07-27T04:12:40.292565"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 56609,

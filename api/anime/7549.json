@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "İlk ovanın devamıdır.",
     "slug": "quiz-magic-academy-the-original-animation-2",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Quiz Magic Academy: The Original Animation 2 OVA",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xmML4Jc_vnjbN-VCbWEIqDeDk-XnSQIs/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361665"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4518324"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4091528"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-4x10f1gpsadg.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hno7lvcxl2vl.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vgd5zswg"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-c9p9cgggauog.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:28:20.059268"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 7549,

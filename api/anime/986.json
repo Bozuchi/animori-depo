@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Ejder Topu Z 1. Özel Bölüm: Sadece Tek Kişinin Son Mücadelesi. Goku Son'un babası Bardok, ırkının katliamını durdurmak için Friza'ya karşı tüm gücüyle savaşmaktadır.",
     "slug": "dragon-ball-z-special-1-tatta-hitori-no-saishuu-kessen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Dragon Ball Z: Tatta Hitori no Saishuu Kessen Special 1",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Q1MmXRtgJGkhkTp0aXJgSiJAgmhFNmjG/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682372749"
+          },
+          {
+            "fansub_id": 3,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/zfct7lny4u8b"
+          }
+        ],
+        "added_date": "2026-07-24T23:15:10.800936"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 986,

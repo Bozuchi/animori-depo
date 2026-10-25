@@ -252,6 +252,43 @@
           }
         ],
         "added_date": "2026-07-26T05:09:40.253439"
+      },
+      {
+        "episode_number": null,
+        "title": "Ike! Ina-chuu Takkyuubu 1",
+        "videos": [
+          {
+            "fansub_id": 156,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10ooA4DY42JjgtRS4th_CYn8yx8H3siuX/preview"
+          },
+          {
+            "fansub_id": 156,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659061"
+          },
+          {
+            "fansub_id": 156,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377575"
+          },
+          {
+            "fansub_id": 156,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4456386"
+          },
+          {
+            "fansub_id": 156,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6n2jzy89u4ht.html"
+          },
+          {
+            "fansub_id": 156,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xhytobhx"
+          }
+        ],
+        "added_date": "2026-07-26T05:09:40.253439"
       }
     ]
   },

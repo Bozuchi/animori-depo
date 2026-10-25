@@ -5,7 +5,65 @@
     "bolum_durumu": "1/1",
     "ozet": "Blood Lad mangasının sınırlı versiyon 10. sayısında gelen OVA bölümdür.",
     "slug": "blood-lad-wagahai-wa-neko-de-wa-nai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Blood Lad OVA",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359668032"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/muobaba/video/embed/_myvideo/110"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762813"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2843158"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-da6vsowzol99.html"
+          },
+          {
+            "fansub_id": 25,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8vxh6v2l"
+          },
+          {
+            "fansub_id": 25,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-p15r5l1808e2.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366142"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1744430"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6emo9tqs"
+          }
+        ],
+        "added_date": "2026-07-23T05:50:18.287119"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 18441,

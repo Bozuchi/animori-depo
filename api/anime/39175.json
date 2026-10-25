@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Bu \"oğlan kızla tanışır\" hikayesi; kelimelerin ve müziğin, iletişim kurmakta zorluk çeken haiku sever genç Cherry ve diş tellerinden utanarak maskenin arkasına saklanan Smile'ın hayatlarını nasıl kesiştirdiğine odaklanıyor. Şans eseri bir alışveriş merkezinde karşılaşan gençler; kelimeler ve müzikten ilham alarak, sosyal medya aracılığıyla ilişkilerini derinleştirmeye başlarlar.",
     "slug": "cider-no-you-ni-kotoba-ga-wakiagaru",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Cider no You ni Kotoba ga Wakiagaru Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sMTN2gK2BabCRpFEWep21g-C1TxT5tNx/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909866"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4365036"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jhfqqkzh"
+          }
+        ],
+        "added_date": "2026-07-23T15:59:08.602766"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39175,

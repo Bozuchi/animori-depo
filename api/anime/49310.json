@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Fruits Basket animesinin filmidir.",
     "slug": "fruits-basket-prelude",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fruits Basket: Prelude Movie",
+        "videos": [
+          {
+            "fansub_id": 101,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PhnyRa74xiC-42vrCZyETd6GntwLYZcp/preview"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461601305"
+          },
+          {
+            "fansub_id": 101,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/26vqjfe2v1ko"
+          },
+          {
+            "fansub_id": 101,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-b78rgr85lzfs.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15zW_BMMW0zIZMnxm9XTKLSJz8KxxfzMs/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359670468"
+          },
+          {
+            "fansub_id": 3,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/y3kfxfao37kn"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-d1nnki25pyym.html"
+          }
+        ],
+        "added_date": "2026-07-25T05:06:35.014412"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49310,

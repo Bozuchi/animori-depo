@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Shinmai Maou no Testament Burst özel bölümüdür.",
     "slug": "shinmai-maou-no-testament-burst-toujou-basara-no-shigoku-heiwa-na-nichijou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shinmai Maou no Testament Burst OAD",
+        "videos": [
+          {
+            "fansub_id": 10,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1N30k00ELY7DU0yzFuXJXwXtg6dNKp8UZ/preview"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911294"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/arsenik013/_myvideo/14.html"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-pt7s3x1e2dq7.html"
+          }
+        ],
+        "added_date": "2026-07-29T09:45:04.778542"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30365,

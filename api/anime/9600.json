@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Bu OVA'da, G-Taste'deki en popüler beş kız yer alıyor: Riona Kisaragi, Yuki Shihoudou, Nana Morimura, Asuka Senou ve Mai Kannazuki.",
     "slug": "g-taste-2010",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "G-Taste (2010) OVA",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6978"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4532026"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3805439"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3p8e2qojkhcd.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2bb81gq6d8uh.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3s681pfv"
+          },
+          {
+            "fansub_id": 115,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wjly4kzaxx7w.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:10:52.243872"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9600,

@@ -5,7 +5,30 @@
     "bolum_durumu": "2/1+",
     "ozet": "Yumeiro Pâtissière'nin 1 bölümlük OVA Serisidir.",
     "slug": "yume-iro-patissiere-mune-kyun-tropical-island",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Yume-iro Pâtissière: Mune Kyun Tropical Island OVA",
+        "videos": [
+          {
+            "fansub_id": 142,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682367465"
+          },
+          {
+            "fansub_id": 142,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4381081"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-e2ne3lwqgpp4.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:08:35.936162"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8894,

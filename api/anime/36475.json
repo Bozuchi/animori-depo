@@ -673,6 +673,48 @@
           }
         },
         "added_date": "2026-07-29T13:52:17.792599"
+      },
+      {
+        "episode_number": null,
+        "title": "Sword Art Online Alternative: Gun Gale Online 5.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QkQy72vr767KjmBc4_IqYpvzvbFOJvGx/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850044"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4431341"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3302647"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l24wpzzoll36.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-cyzmp3fbd11g.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hw78vc73"
+          }
+        ],
+        "added_date": "2026-07-29T13:52:17.792599"
       }
     ]
   },

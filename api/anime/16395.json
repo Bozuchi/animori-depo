@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "SKET Dance serisine ait OVA bölümdür.",
     "slug": "sket-dance-imouto-no-nayami-ni-nayamu-ani-ni-nayamu-imouto-to-sono-nakama-tachi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "SKET Dance OVA: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oqhTqJ1_8XsN4SzvOPUK8kPuThmAmamr/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931907997"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4518640"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5h7aqibgbx6w.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6jfslw6aalqm.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:57:22.857750"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16395,

@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Amsterdam, 12 Haziran 1942. Anne 13. doğum gününü kutluyor ve \"Kitty\" diye çağırdığı günlüğünü yazmaya başlıyor. 2 yıl Alman tehdidinden saklandıktan sonra genç kız dünya hakkında idealist görüşlerini, hırsını, korkularını ve ilk aşkı Peter'i yazıyor.",
     "slug": "anne-no-nikki",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Anne no Nikki",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jIvU-baBAIJ7ZSuZidNjmNt1243muXVa/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656201"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4438866"
+          }
+        ],
+        "added_date": "2026-07-21T21:47:51.767903"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3829,

@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Marginal Prince: Gekkeiju no Ouji-tachi animesinin özel bölümüdür.",
     "slug": "marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Marginal Prince: Gekkeiju no Ouji-tachi - Tokyo Merry-Go-Round Special",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KNvgACbbW_ohKJH1YIBo8Yjbu96pzCQr/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359670763"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4960315"
+          },
+          {
+            "fansub_id": 52,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/zd6dzq85rsl3"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5ov8nv9o7rwe.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-d82wjfi7zske.html"
+          }
+        ],
+        "added_date": "2026-07-27T10:59:01.784324"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 18729,

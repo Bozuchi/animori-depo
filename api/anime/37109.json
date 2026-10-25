@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Hakumei to Mikochi'nin özel bölümüdür.",
     "slug": "hakumei-to-mikochi-neji-to-bed-to-irori-to-bakuchi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hakumei to Mikochi: Neji to Bed to Irori to Bakuchi Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1RtzR9EQ2KuVE9iFG___l-r0-y12B-ous/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/2021"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933014622"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u79qqmq4zf4r.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:53:17.647334"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37109,

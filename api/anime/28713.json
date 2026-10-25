@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Isuca serisine ait OVA bölümdür.",
     "slug": "isuca-gokuraku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Isuca OVA ",
+        "videos": [
+          {
+            "fansub_id": 10,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1b3YQKnCNRXI1ABuVaDjLBP0LlDT_jTa5/preview"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017802"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/nsimos/_myvideo/11.html"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847041"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4073498"
+          }
+        ],
+        "added_date": "2026-07-26T06:18:53.964588"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 28713,

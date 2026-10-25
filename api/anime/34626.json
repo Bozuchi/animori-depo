@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "LN'sinin on ikinci cildiyle birlikte verilen OVA'sı.",
     "slug": "kono-subarashii-sekai-ni-shukufuku-wo-2-kono-subarashii-geijutsu-ni-shukufuku-wo",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 2 OVA",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682367341"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4378698"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/c4ek1u1m"
+          }
+        ],
+        "added_date": "2026-07-27T04:57:51.213283"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34626,

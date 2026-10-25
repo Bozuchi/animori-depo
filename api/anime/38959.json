@@ -539,6 +539,33 @@
           }
         ],
         "added_date": "2026-07-27T08:30:42.482782"
+      },
+      {
+        "episode_number": null,
+        "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note 4",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jbuXo2O0M6PLpJRtGQOPbPrIqnC9WBP1/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850250"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4432581"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fr7jvcyo"
+          }
+        ],
+        "added_date": "2026-07-27T08:30:42.482782"
       }
     ]
   },

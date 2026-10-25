@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikaye; memleketini savunmak için savaşa katılan, çömlek ustası Aws'ın başından geçenleri anlatmaktadır..",
     "slug": "journey-taiko-arabia-hantou-de-no-kiseki-to-tatakai-no-monogatari",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Journey Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari",
+        "videos": [
+          {
+            "fansub_id": 281,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1E7_Px-dFwKdYlo18Swmx5NijJjMyB6wX/preview"
+          },
+          {
+            "fansub_id": 281,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fOK50VXTkkRo5T_Po2moK7xXPfUTlzSF/preview"
+          },
+          {
+            "fansub_id": 281,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359664778"
+          },
+          {
+            "fansub_id": 281,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-znuniv2vucgp.html"
+          }
+        ],
+        "added_date": "2026-07-26T21:50:22.076864"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 48612,

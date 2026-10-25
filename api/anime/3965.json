@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Nodame Cantabile animesinin Special bölümüdür.",
     "slug": "nodame-cantabile-nodame-to-chiaki-no-umi-monogatari",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Nodame Cantabile 8,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1f9U_00fSMy7o7X3U_j2nr842uW_boMAn/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/shimazu00/video/embed/_myvideo/454"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158071922"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1564292"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4505209"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-baqlensxf3up.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ks3zz6lwiikd.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ufabps5l"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wmtv6qhxh8cg.html"
+          }
+        ],
+        "added_date": "2026-07-27T16:40:28.375806"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3965,

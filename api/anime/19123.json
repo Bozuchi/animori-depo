@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Mini Merry'inin test sürüşünde, Usopp, Brook'a tayfaya çok iyi hizmet etmiş olan Going Merry'nin hikayesini anlatır. Ancak, Hasır Şapkalar için Going Merry sadece bir gemiden ibaret değildir. Paha biçilemez ve yeri dolduralamaz bir dosttur.",
     "slug": "one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1G7flZmqYzdidL59KeVpCnrXohvYRe_pr/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/55e1cw8n"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-glvqgrkxho5m.html"
+          }
+        ],
+        "added_date": "2026-07-27T20:56:15.981611"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 19123,

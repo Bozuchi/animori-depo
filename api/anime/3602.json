@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikâye; Galaxy Express 999'da gerçekleşen olaylardan bir yıl sonrasında gelişen ufak çaplı bir kurtarma operasyonuyla başlamaktadır. Tetsuro, Maetel'den ayrıldıktan sonra bir şekilde esir edilir ve ağır bir işkenceye maruz kalır. Aradan uzun sayılabilecek kadar bir zaman geçmemesine rağmen Tetsuro, yeniden 999’u ve Maetel’i karşısında görünce gözlerine inanamaz ve sevincinden ağlamaya başlar. Ancak Maetel’in de dediği gibi şimdi ağlamak için vakit yoktur. Bir an önce Güneş'in ve dolaysıyla da insanlığın kurtarılması gerekmektedir.",
     "slug": "ginga-tetsudou-999-eternal-fantasy",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Galaxy Express 999 - Eternal Fantasy",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TU9fiLElmUnw4lxtSi0I8LlQIJPkv4Sx/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016427"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845782"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4064867"
+          }
+        ],
+        "added_date": "2026-07-25T23:32:33.791092"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3602,

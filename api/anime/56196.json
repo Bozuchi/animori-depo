@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "U.A. öğrencileri ve Pro Hero'lar, giderek büyüyen bir krizle karşı karşıya. Yeni düşmanlar, toplumun huzurunu bozmak için harekete geçerken, Deku ve arkadaşları bir kez daha kahramanlıklarını kanıtlamak zorunda kalıyor. “You're Next” ismiyle dikkat çeken bu yeni macera, kahramanların en büyük sınavını gözler önüne seriyor.",
     "slug": "boku-no-hero-academia-the-movie-4-you-re-next",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Boku no Hero Academia: You're Next Movie 4",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xsQ3f0h78o3NKs3BVX4LPAEyFQ97bLTQ/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8320106634588200881"
+          },
+          {
+            "fansub_id": 43,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/qfvy5bt9xlkd"
+          }
+        ],
+        "added_date": "2026-07-23T06:23:52.787000"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 56196,

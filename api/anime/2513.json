@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Detective Conan serisinin 3. OVA'sıdır.",
     "slug": "detective-conan-ova-03-conan-and-heiji-and-the-vanished-boy",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Detective Conan OVA 03: Conan and Heiji and the Vanished Boy",
+        "videos": [
+          {
+            "fansub_id": 65,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SIq5qhBAqlaNAcSl5uataIcyJNWS4f6S/preview"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368294"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4514997"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fppwwquhkpot.html"
+          },
+          {
+            "fansub_id": 65,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-c00bnijkhuuh.html"
+          }
+        ],
+        "added_date": "2026-07-24T20:57:29.357252"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2513,

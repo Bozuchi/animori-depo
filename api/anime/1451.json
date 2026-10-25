@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Shurannosuke Sakaki, jilet gibi keskin katanası olan soğukkanlı bir efendisiz samuraydır. Ne zaman sırtında iki adet tırpan belirse, beraberinde bir ölüm yaşanır. Üstün kılıç kullanma yeteneğinden ötürü Shurannosuke, Seki ninjasından prenses Mayu'yu kurtarmak adına Nakura klanı tarafından işe alınır. Bu görevinde, Seki ninjasının yandaşlarından sağ salim kurtulabilmesi için tüm potansiyelini kullanması gerekmektedir.",
     "slug": "shuranosuke-zanmaken-shikamamon-no-otoko",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shuranosuke Zanmaken: Shikamamon no Otoko Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dA4Ol6rPVr2VX3FJrxIGBfWxW_M1lx5t/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4833"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3636307"
+          }
+        ],
+        "added_date": "2026-07-29T10:37:16.926640"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1451,

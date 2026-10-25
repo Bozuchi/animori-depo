@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "2018 Baki anime dizisinin konusunu tanıtma amaçlı yapılmış OVA bölümü.",
     "slug": "baki-most-evil-death-row-convicts-special-anime",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Baki: Most Evil Death Row Convicts Special Anime OVA",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374058722"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374058724"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4602956"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4602954"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-w8lztfdpltii.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/73f7ujdu"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/0eorvfrs"
+          }
+        ],
+        "added_date": "2026-07-23T03:40:24.481027"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33566,

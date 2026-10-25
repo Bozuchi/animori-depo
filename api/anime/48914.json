@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Serinin filmidir.",
     "slug": "zhen-dao-ge-chenshi-hang",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Zhen Dao Ge: Chenshi Hang Movie",
+        "videos": [
+          {
+            "fansub_id": 144,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_lnsQRGvLgGPrpBqbfZUS1l7kc_o7je6/preview"
+          },
+          {
+            "fansub_id": 144,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667500"
+          },
+          {
+            "fansub_id": 144,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mbsdqypo41kd.html"
+          }
+        ],
+        "added_date": "2026-07-30T21:10:21.242017"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 48914,

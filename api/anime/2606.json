@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Serinin 2006 yapımı filmidir.",
     "slug": "digimon-savers-kyuukyoku-power-burst-mode-hatsudou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Digimon Savers: Kyuukyoku Power! Burst Mode Hatsudou!! Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VHQHnagN3_eC4PzRgZcxSCVQJ9uV2Rcb/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846917"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852399"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4073174"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4442723"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3pn7uwfp4mcb.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m7zkak96waum.html"
+          }
+        ],
+        "added_date": "2026-07-24T21:35:22.896709"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2606,

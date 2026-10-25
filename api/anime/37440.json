@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Psycho-Pass animesinin 1. filmidir.",
     "slug": "psycho-pass-sinners-of-the-system-case-1-tsumi-to-bachi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi Movie",
+        "videos": [
+          {
+            "fansub_id": 101,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fe2264BelNrVCxxedl5uTOrQ1u4-RLnM/preview"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718512"
+          },
+          {
+            "fansub_id": 101,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/svsg7b00"
+          },
+          {
+            "fansub_id": 101,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/udyf742n"
+          },
+          {
+            "fansub_id": 101,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2l2h4f0mln8l.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6551"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3732369"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6f3nkeke"
+          }
+        ],
+        "added_date": "2026-07-29T03:09:44.498163"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37440,

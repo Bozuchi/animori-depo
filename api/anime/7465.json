@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Çok uzak olmayan bir gelecekte android’ler yaygın bir şekilde kullanılmaktadır. Bunu artık doğal karşılayan insanlar onlara gündelik kullandıkları eşyalar gibi davranmaktadırlar, ancak bazı insanlar da onları görünümleri sebebiyle çekici bulabilmektedir. Çünkü android’lerin insanlardan görünüm olarak tek farkları kafalarının üzerinde uçar gibi görünen dijital bir halkadır. Sosyal bir problem haline gelen bu durumdaki insanları ise toplum hor görmektedir.\n\nHayatı boyunca android’leri doğal karşılayanlardan biri olmuş olan Rikuo, günün birinde ev robotu Sammy’nin ilginç davrandığını fark eder ve etkinlik kayıtlarının içinde kayıtlı garip bir cümle bulur. Rikuo, arkadaşı Masaki ile birlikte Sammy’nin ayakizlerini takip ederek sıra dışı bir kafeye varırlar. Bu kafenin ana kuralı insanlarla android’lerin arasında ayrım olmamasıdır…",
     "slug": "eve-no-jikan-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Eve no Jikan : Gekijouban",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mqaiI7nqrQx3RbiZSeuLoub_3IdgAtV1/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019568"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359652709"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/e8mu2lul"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-yvodku5dk1zf.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ngltu90zzj23.html"
+          }
+        ],
+        "added_date": "2026-07-25T00:30:24.762299"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 7465,

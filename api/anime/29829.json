@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "4 film olarak planlanan Tamayura: Sotsugyou Shashin filmlerinin ikincisidir.",
     "slug": "tamayura-sotsugyou-shashin-part-2-hibiki",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tamayura: Sotsugyou Shashin Part 2. - Hibiki",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1s0jLydDTTqp5xvlj3sZ-wYNUsNNMTaEA/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1--X61FiGuWKSiYj4IuBYgsoFB92wMg7J/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/ksklee555/video/embed/_myvideo/386"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4527608"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3694381"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hbcwdpvkoduo.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:05:16.452477"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 29829,

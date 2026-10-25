@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikaye, Çin edebiyatında önemli bir yere sahip olan klasik eser Batıya Yolculuk'un ilk bölümlerine dayanmaktadır. Ana karakter göksel alemin imparatoru olan Yeşim İmparatoru'na karşı isyan eden Maymun Kral Sun Wukong'dur.",
     "slug": "da-nao-tiangong",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Da Nao Tiangong Movie",
+        "videos": [
+          {
+            "fansub_id": 196,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18O63oIhV2EURWl8ALe1ELJ6zsDWcDkgW/preview"
+          },
+          {
+            "fansub_id": 196,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6864"
+          },
+          {
+            "fansub_id": 196,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3779152"
+          },
+          {
+            "fansub_id": 196,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4532035"
+          },
+          {
+            "fansub_id": 196,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-822zh6at06gg.html"
+          }
+        ],
+        "added_date": "2026-07-24T09:46:33.533516"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6855,

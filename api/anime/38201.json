@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Film, bir lise buluşmasında altızları konu alıyor. Şirket işleri ile \"düzgün\" yetişkin olmuş tüm eski sınıf arkadaşlarını görüyorlar. Altızlar bu işe surat asarak eve gidip uyuyana kadar içiyorlar. Ama uyandıklarında, bir olay onları bekliyor.",
     "slug": "osomatsu-san-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Osomatsu-san Movie",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DEeKMelAGspLfXVkfDegmgvOhXFteyj7/preview"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359665003"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366821"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4619436"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4342031"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/i6u7zgf7"
+          },
+          {
+            "fansub_id": 100,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qfbibnknz8yb.html"
+          }
+        ],
+        "added_date": "2026-07-29T00:29:19.826764"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38201,

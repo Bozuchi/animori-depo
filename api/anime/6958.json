@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Hyakko serisine ait OVA bölümdür.",
     "slug": "hyakko-extra",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hyakko OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1iUCasFOwaqUY1QibmgRtsnf1sYA1WTsz/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377852"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359662697"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1062009"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4609023"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-8jf7qgfq2t0z.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-k54jdb4l4qwa.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:50:03.882448"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6958,

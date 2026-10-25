@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Misaki, evlenmek üzere olan 25 yaşında bir bayandır. Bir gün Tokyo İstasyonu'na ait eski bir fotoğraf ve babasından kalma kırık, eski bir saat bulur. Babası hayatı boyunca Tokyo İstasyonu'nda çalışmıştır ve hafızasında katı birisi olarak kalmıştır. Ama o bulduğu ve daha önceden görmediği fotoğrafta babasını gülümserken görmüştür. Misaki eski cep saatini tamir ettirmeye çalışırken Tokyo İstasyonu'nda uzun süredir bulunan bir saat dükkanı olduğunu keşfeder.",
     "slug": "toki-wa-meguru-tokyo-station",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Toki wa Meguru: Tokyo Station",
+        "videos": [
+          {
+            "fansub_id": 108,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1r2Ps_nLe8aHo3sE3EqNNWdgn2Q_cg8Sy/preview"
+          },
+          {
+            "fansub_id": 108,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tfC4pyHCrMVzpz5eqO0Q0YNw1mIennYy/preview"
+          },
+          {
+            "fansub_id": 108,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931910838"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525717"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1531334"
+          },
+          {
+            "fansub_id": 108,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kuxnz6ggeuvj.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:02:50.909200"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 23439,

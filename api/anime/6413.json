@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Büyük Şeytan Kral için ruh toplayan Ackman adındaki şeytan çocuk hakkındaki mizahi Animedir.",
     "slug": "go-go-ackman",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Go! Go! Ackman OVA",
+        "videos": [
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-Ul-JOuT5mPgafGr3675A47D3LVTRixH/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4534123"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u7yr0xitn4ol.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1fq36w6ak3n4.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369654"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5101083"
+          },
+          {
+            "fansub_id": 3,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/s6xm8qbwxre4"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-45unr7enxdi0.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:06:19.766895"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6413,

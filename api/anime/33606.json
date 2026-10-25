@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "One Piece special bölümüdür.",
     "slug": "one-piece-film-gold-episode-0-711-ver",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece Film: Gold ~Episode 0~ 711 ver.",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271187893"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2637217"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4v08y4dw"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2636212"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q397k8gk"
+          }
+        ],
+        "added_date": "2026-07-27T20:54:40.844789"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33606,

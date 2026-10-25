@@ -5,7 +5,30 @@
     "bolum_durumu": "2/1+",
     "ozet": "My Hero Academia'nın 2. filmidir",
     "slug": "boku-no-hero-academia-the-movie-2-heroes-rising",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Boku no Hero Academia Movie 2: Heroes Rising",
+        "videos": [
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EYGjAEUylOH0IVSZO67SLhYnqO0piHl8/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/mmgobwz5noih"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/33x5h9r7"
+          }
+        ],
+        "added_date": "2026-07-23T06:23:47.670091"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39565,

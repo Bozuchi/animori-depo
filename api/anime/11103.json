@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Monster'ın yönetmeni Kojima Masayuki'nin sürükleyeceği anime silahlarla donanmış birçok kadın figürün bulunduğu Konami'nin Busou Shinki oyunundan uyarlanacak. Her hafta yayınlanacak bölümler 3 ila 5 dakikadan oluşacak. Animenin konusu, Shinki Master olma hayalleri kuran Tsubasa isimli bir çocukla Shinki ortağı Arnval Mk. 2'nin yapacağı savaşları konu alacak.",
     "slug": "busou-shinki-moon-angel",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Busou Shinki Moon Angel",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YDESuUUr6lS-tTtTC91vUoBVKbOvpTDQ/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846356"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850824"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4070420"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4435382"
+          }
+        ],
+        "added_date": "2026-07-23T07:21:30.629016"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11103,

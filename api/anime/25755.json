@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Yowamushi Pedal animesinin özel bölümlerinden birisidir.",
     "slug": "yowamushi-pedal-re-ride",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Yowamushi Pedal: Re:RIDE",
+        "videos": [
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HP8BpkKPlw5YQIXu_hVoFg4ZDNs6L4md/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10Zeh_bxL5bqjOpM8oyl71bcnoQPzqcnS/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uOAeqseAbzKSuP1BwWkbfVApR7I5AG7M/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140719169"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4480019"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fzhh324c"
+          },
+          {
+            "fansub_id": 34,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-sngrgmef54k8.html"
+          }
+        ],
+        "added_date": "2026-07-30T18:51:08.512306"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 25755,

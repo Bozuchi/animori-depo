@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Dee Laytner ve Randy \"Ryo\" Maclane İngiltere'ye gitmek için tatil izni almış iki New York polisidir. Dee, Ryo'ya çok güçlü duygular beslemektedir ve bu fırsatı ilişkileri için iyi değerlendirmek istemektedir. ( Ve eğer şanslıysa, belki Ryo'yu baştan çıkartmayı da.) Ryo, Dee'ye olan hislerini anlayamamaktadır ve onları bir çift olarak kabullenmek istiyor mu veya kabullenmeli mi bilmemektedir. Fakat tatilleri ve ilişkileri sürekli otel çevresinde ortaya çıkan cinayetler ve kayıp insanların bildirilmesiyle huzurunu kaçırmaya başlamıştır. Olayların tek ortak noktası ise tüm kurbanların Japon veya Japon soylu olmalarıdır. Dee ve Ryo bu olayı çözmelidirler, taa ki yarı Japon olan Ryo'nun sıraki kurban haline gelmeden önce.",
     "slug": "fake",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fake OVA",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3794058"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-45r8f46uzc0j.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vad7i5bx"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/733"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3998472"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-043dm8l42tjz.html"
+          }
+        ],
+        "added_date": "2026-07-25T01:11:10.329919"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 365,

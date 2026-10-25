@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikura Younosuke görünüşte sıradan bir lise öğrencisidir. Fakat nesillerdir ailesinin üstlendiği yeryüzü ve cennet arasındaki uyumu korumak gibi önemli bir role sahiptir. Sihirli kılıç Chitentai ve yeryüzü baş rahibi tarafından kendisine koruyucu olarak gönderilen Inbe Tsukinojou'yla birlikte yeryüzünden kaçmış şeytanlarla savaşarak onları geri gönderir.",
     "slug": "fight",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fight!! Spirit of the Sword",
+        "videos": [
+          {
+            "fansub_id": 235,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Dyq1FhecrKLUqG9r1tYGMPKYWi6FHXo2/preview"
+          },
+          {
+            "fansub_id": 235,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017814"
+          },
+          {
+            "fansub_id": 235,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1643721"
+          },
+          {
+            "fansub_id": 235,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-z1le3wg3n8us.html"
+          }
+        ],
+        "added_date": "2026-07-25T01:33:28.596158"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2022,

@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Mezun olan Sakisaka Saki, Noriko ve Kaname'nin ayrıldığından habersiz, ablası Noriko'nun erkek arkadaşı Kazame Kaname'ye gizlice aşıktır. Saki, üniversiteye gittiğinde bu ikileminden kurtulmayı umar, ancak sonunda Kaname ile aynı üniversiteye devam eder. Oryantasyon sırasında Kaname'nin video kulübüne alınır. Onu filme almak istiyor ama diğer yandan ona gizlice aşık başka bir çocuk Tachibana Daichi'yi de istiyor. Düğümler çözülüp gerçek aşk yolunu bulabilecek midir?",
     "slug": "singles",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Singles OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667728"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4723182"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-h080dqbcr1jl.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-a0weo7q1s8ib.html"
+          }
+        ],
+        "added_date": "2026-07-29T10:49:28.106925"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2101,

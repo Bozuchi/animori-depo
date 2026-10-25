@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Manganın Osaka Arcı’nı kapsayan 3DCG filmdir.",
     "slug": "gantz-o",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Gantz:O Film",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ixzmnmsa9bh9.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bgkxlxszqt8s.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lE3WtQBTDEL-KmPB74nOZf5v3OgUD3LL/preview"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3186437"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4498848"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/mgit5rn3"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-d60887czzld3.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-8drn481qkyu2.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:39:33.556040"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32071,

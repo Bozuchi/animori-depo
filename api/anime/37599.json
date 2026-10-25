@@ -329,6 +329,28 @@
           }
         },
         "added_date": "2026-07-27T09:22:37.298023"
+      },
+      {
+        "episode_number": null,
+        "title": "Magatsu Wahrheit: Zuerst 7",
+        "videos": [
+          {
+            "fansub_id": 23,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15kJYaxoL2tT0ahOECbK31h_88qPbTWcj/preview"
+          },
+          {
+            "fansub_id": 23,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656269"
+          },
+          {
+            "fansub_id": 23,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439102"
+          }
+        ],
+        "added_date": "2026-07-27T09:22:37.298023"
       }
     ]
   },

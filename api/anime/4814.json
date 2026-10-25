@@ -579,6 +579,48 @@
           }
         ],
         "added_date": "2026-07-26T22:04:23.023387"
+      },
+      {
+        "episode_number": null,
+        "title": "Junjou Romantica Special",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fZtgRVDgBmK7P09_6jMG-g1WiqmE0Z4D/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845866"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015539"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4065418"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3h2oqqsyitci.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/nnl5j58r"
+          },
+          {
+            "fansub_id": 52,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5dsf8sza9ezw.html"
+          }
+        ],
+        "added_date": "2026-07-26T22:04:23.023387"
       }
     ]
   },

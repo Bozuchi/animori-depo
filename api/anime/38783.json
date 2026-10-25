@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Anime, 2020 yılında geçmektedir.",
     "slug": "ikebukuro-pr-anime",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ikebukuro PR Anime",
+        "videos": [
+          {
+            "fansub_id": 108,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1T1-u7nTWAjTpmsCXCYu9Cm0GGmuurqIg/preview"
+          },
+          {
+            "fansub_id": 108,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/2879"
+          }
+        ],
+        "added_date": "2026-07-26T05:09:44.489496"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38783,

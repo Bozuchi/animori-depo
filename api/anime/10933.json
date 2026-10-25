@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "R-15 serisine ait OVA bölümüdür.",
     "slug": "r-15-r15-shounen-hyouryuuki",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "R-15 OVA",
+        "videos": [
+          {
+            "fansub_id": 164,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1nXHkpEdJAuiQqpb2a7-eLUDVJ_Td1Y2a/preview"
+          },
+          {
+            "fansub_id": 164,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3832165"
+          },
+          {
+            "fansub_id": 164,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-oobgw1obfugl.html"
+          },
+          {
+            "fansub_id": 164,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0u1xi0toq57f.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:28:59.174180"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10933,

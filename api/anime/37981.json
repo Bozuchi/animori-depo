@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Bir yaz tatilinde Ruka, Umi ve Sora isimli sıra dışı iki oğlanla tanışır. Umi ve Sora denizdeki kuşlar gibidir. Yüzmelerinin güzelliğinden herkes onlara hayran kalır fakat parçası oldukları gizem, Ruka'yı ve etraflarındaki yetişkinleri bir ağ gibi sarıp sarmalar.\n\nBu sırada tüm dünyada açıklanamayan bir gariplik meydana gelir: Balıklar kaybolur. Böylece kız ve erkek herkesi tutsak eden bir deniz macerası başlar.",
     "slug": "kaijuu-no-kodomo",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kaijuu no Kodomo Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tLLbSRMOHZNWjhlqQJhyPAAUg1KRVjm1/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121332"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656402"
+          }
+        ],
+        "added_date": "2026-07-26T22:58:11.755422"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37981,

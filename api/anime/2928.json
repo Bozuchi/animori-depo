@@ -5,7 +5,35 @@
     "bolum_durumu": "2/1+",
     "ozet": ".hack//G.U. Games ve .hack//Roots'daki karakterlerimiz Ovan'dan bir mesaj alırlar. Gizemli bir yaz festivali olan Gizlenmiş Yasak Festival zamanında festivale katılmalarını ister. Burada ise, Dünya'daki oyuncularla barışçıl bir şekilde iş birliği yapan AIDA Chim Chim'i bulurlar. Kelimelere döküldüğünde 'Returner' yani 'Geri Dönen' anlamına gelmektedir, bu yüzden de Ovan'ın Dünya'ya geri döneceğini düşünürler.\n*.hack//G.U. Trilogy'nin devamı niteliğinde de kabul edilebilir. ..",
     "slug": "hack-g-u-returner",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": ".hack//G.U. Returner",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mhFKrkSA2tvHvApvYv3V23vCsOUtf3xd/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016403"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1217"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/3336.html"
+          }
+        ],
+        "added_date": "2026-07-17T04:52:47.384096"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2928,

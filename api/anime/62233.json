@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Stil ikonu Nami’nin hayatını değiştirecek bir moda defilesinde podyumun tozunu yutturduğu anlara sahne arkasından tanıklık edin; bilge Robin’in, Koala ve Sabo ile birlikte antik bir tableti deşifre etmesine göz atın; ağırbaşlı Prenses Vivi’nin hiç beklenmedik bir hayrandan aldığı aşk mektubu karşısındaki şaşkınlığını izleyin ve Hayalet Prenses Perona’nın, Zoro ve Mihawk ile son şarap şişesi üzerindeki kıyasıya mücadelesine ortak olun!",
     "slug": "one-piece-heroines",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece: Heroines Special",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-JorjOMfV3jI8GODnZFfJvavlFBX3L6S/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6235363"
+          }
+        ],
+        "added_date": "2026-07-27T20:57:56.021938"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 62233,

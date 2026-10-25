@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Asobi Asobase mangasının 7. cildi ile beraber verilen OVA bölümüdür.",
     "slug": "asobi-asobase-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Asobi Asobase OVA",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zZl18kbkj5yc2_2CWh9Iwm6XyRyOyA0J/preview"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366696"
+          },
+          {
+            "fansub_id": 100,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4503339"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u2qfc4e1x2as.html"
+          },
+          {
+            "fansub_id": 100,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-zwrl16u667g6.html"
+          }
+        ],
+        "added_date": "2026-07-23T03:04:46.767575"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37996,

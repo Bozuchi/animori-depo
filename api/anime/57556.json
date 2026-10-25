@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Vano öyküsünün 11. özel bölümüdür.",
     "slug": "one-piece-dai-tokushuu-momonosuke-no-mei-shogun-e-no-michi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 1088,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1H0kYPB2i3SqJ3ab3FmUrQOo3Z7EFDa-N/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374059407"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374059408"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5383484"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/kjsksz4z"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5l78s4ju"
+          }
+        ],
+        "added_date": "2026-07-27T20:55:53.044273"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 57556,

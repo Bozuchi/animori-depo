@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Dünya nüfusunun büyük bir kısmı yok olduktan sonra insanlık canavarlara karşı hayat mücadelesini sürdürebilmek adına yeni yollar arayışına girer.",
     "slug": "phantom-of-the-kill-zero-kara-no-hangyaku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Phantom of the Kill: Zero kara no Hangyaku",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1G49nmwxyQzptVQGRmD2ViYzZFPOH1nFo/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/_myvideo/809"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2876798"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wclcpl6h"
+          }
+        ],
+        "added_date": "2026-07-29T01:39:17.039977"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31927,

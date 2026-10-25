@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Abisal Donanması, Güney Pasifik'te bulunan Solomon Adaları'nda etkinliğini arttırmakta ve bu bölgenin sularında renk değişimi gözlenmektedir. Gelişen bu olaylar sonucunda Donanma Kızları nasıl bir yol izleyecektir ve Abisal Donanmasının ardındaki gizemi çözebilecekler midir?",
     "slug": "kancolle-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kancolle Movie",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Q5dumadeCKM4bw46rLwlecPT_22dfA8k/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/animeindir003/video/embed/_myvideo/26"
+          }
+        ],
+        "added_date": "2026-07-26T23:49:05.756660"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31418,

@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season - Kakusei Zenya serisinin ilk 7 bölümünün özetidir.",
     "slug": "magia-record-mahou-shoujo-madoka-magica-gaiden-tv-2nd-season-kakusei-zenya-recap",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season - Kakusei Zenya Recap Special",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1o53eHhowZ2EQ9lAokpL8HFJrv8L12MXZ/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667599"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4692327"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jlnuycyhzldi.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:28:00.967873"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49848,

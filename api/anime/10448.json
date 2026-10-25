@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "10 Dakikalık Bir ONA'dır.",
     "slug": "rain-town",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Rain Town",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1a2-yGfvqLWxdjaRqAE60z2uVNzpFzlLT/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359657404"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359654399"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4066664"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4450892"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-n6mki5pei7b5.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/eurk7cgv"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bgbe53pyg732.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:40:27.612358"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10448,

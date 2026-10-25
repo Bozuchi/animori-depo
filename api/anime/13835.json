@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Marimo, gayet sakin tatlı mı tatlı bir kız, 4. sınıf öğrencisi, çiçeklere bayılır ve dostlarını çok sever. Fakat Marimo'nun bir diğer yüzü de güçlü mü güçlü vurdu mu vurur! Marimo'yu kızdırmak kimse istemez.\nBir gün sınıflarına dalan bir kaç genç Marimo'ya kafa tutar ve kimin kim olduğunu noktalamak ister.",
     "slug": "marimo-no-hana-saikyou-butouha-shougakusei-densetsu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Marimo no Hana OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1LCtj12I0bRW7c8U1OqkoY-bTnHF3BKpz/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846925"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016700"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4073250"
+          }
+        ],
+        "added_date": "2026-07-27T11:05:35.875823"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13835,

@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "\"Yuuki Yuuna wa Yuusha de Aru\" serisinin iki yıl öncesinde gelişen olayları anlatan ve üç kısımdan oluşan film serisinin üçüncüsüdür.",
     "slug": "yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-3-yakusoku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Yakusoku",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1FBIzUusJootlmBElhvbhy3lO9LNF4qUs/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/dmuratli/video/embed/_myvideo/873"
+          }
+        ],
+        "added_date": "2026-07-30T20:32:25.295137"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34376,

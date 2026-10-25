@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Yuzuru, Azusa’ya sadece 6 yaşında evlenme sözü vermiş ortalama bir gençti. Şimdi, Azusa, kendi hakkı olanı almak için geliyor. Ama önünde sadece bir engel var: Satomy (Yuzuru’nun kız arkadaşı). Ve Azusa’nın korkutucu ve gizemli güçleri karşısında, Satomi’nin hiç bir şansı yok!",
     "slug": "warau-hyouteki",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Warau Hyouteki",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KQ01x3jzEFKJlzDnRZKC1ySzVb4J0bL-/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018003"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1793730"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dtfbrzr7gv9j.html"
+          }
+        ],
+        "added_date": "2026-07-30T15:53:06.679775"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2018,

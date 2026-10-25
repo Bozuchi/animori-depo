@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Infinite Stratos animesinin OVA bölümüdür.",
     "slug": "is-infinite-stratos-2-world-purge-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "IS: Infinite Stratos 2 - World Purge-hen",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1iG8Y-GdEeGXp4XEADErLHgD3M58Dl3K0/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271188326"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/436"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/s87ryxkh"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/crwb62pm"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-y652mea9o3zf.html"
+          }
+        ],
+        "added_date": "2026-07-26T05:53:50.058639"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 21653,

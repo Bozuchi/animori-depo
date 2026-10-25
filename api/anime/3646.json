@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "İkinci Dünya Savaşı sırasında ailesini kaybeden Toshiko, yaşamak için de tüm umudunu kaybeder. Fakat kendisi ölürse ailesini hatırlayacak kimsenin kalmayacağını fark eder ve onların anısını yaşatmak için ne olursa olsun, hayatta kalacağına dair kendi kendine söz verir. Elinde sadece babasının O’na yaptığı cam tavşanı kalır. Böylece Toshiko’nun savaş günlerinde, tüm yiyecek ve giyecek sıkıntıları içinde zorlu günleri başlamış olur.",
     "slug": "glass-no-usagi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Garasu no Usagi",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fP78eCJE7KWaoq9BmnE1oTtwQniAMOBk/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852481"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846479"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4443022"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4070706"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-h226vhtvvonq.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dbokssirxjik.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:02:55.171254"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3646,

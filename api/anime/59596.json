@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Çokbilmiş öyküsünün 4. özet bölümüdür. Devrim Ordusu'nun eylemlerini anlatır.",
     "slug": "one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 1116,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YM3wM2kTQKOMoKb-tda_vCfF7TX_Jq7s/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5677421"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vsj0iwob"
+          }
+        ],
+        "added_date": "2026-07-27T20:55:35.428307"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59596,

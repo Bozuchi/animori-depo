@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Arknights adlı mobil oyunun 1. yıl dönümü için hazırlanan kısa film.",
     "slug": "holy-knight-light",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Holy Knight Light ONA",
+        "videos": [
+          {
+            "fansub_id": 69,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8179442134907093870"
+          },
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4950324"
+          },
+          {
+            "fansub_id": 69,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/2sqcwztlgu9v"
+          },
+          {
+            "fansub_id": 69,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9161m22nobed.html"
+          },
+          {
+            "fansub_id": 69,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xr8frmcf"
+          },
+          {
+            "fansub_id": 69,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4s5rnfsyl1uj.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:02:53.659314"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 45574,

@@ -236,6 +236,28 @@
           }
         ],
         "added_date": "2026-07-27T06:59:30.895655"
+      },
+      {
+        "episode_number": null,
+        "title": "Kuroko no Basket NG-shuu 6",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1s5FFE1AHLkLv95LhSjg17iO5AzQGDPqf/preview"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016735"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1781576"
+          }
+        ],
+        "added_date": "2026-07-27T06:59:30.895655"
       }
     ]
   },

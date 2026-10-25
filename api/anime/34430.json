@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Detective Conan animesinin 21. filmidir.",
     "slug": "detective-conan-movie-21-the-crimson-love-letter",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Detective Conan Movie 21: The Crimson Love Letter",
+        "videos": [
+          {
+            "fansub_id": 65,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lV2rVCMweFWR-WJRmSY0_KbnDrjiNRT2/preview"
+          },
+          {
+            "fansub_id": 65,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16TB_dfrG9bUpAQVFmSRRCZgqWkVnmVyp/preview"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659941"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388378358"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1j4x9x07"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/phtjdcu2"
+          },
+          {
+            "fansub_id": 65,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ln6fdd78kin5.html"
+          }
+        ],
+        "added_date": "2026-07-24T20:57:10.891286"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34430,

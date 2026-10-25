@@ -5,7 +5,20 @@
     "bolum_durumu": "1/1",
     "ozet": "2. Sezondan sonraki olayları anlatır.",
     "slug": "love-live-the-school-idol-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Love Live! The School Idol Movie",
+        "videos": [
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4379756"
+          }
+        ],
+        "added_date": "2026-07-27T08:44:11.016561"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 24997,

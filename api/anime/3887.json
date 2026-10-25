@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Ookiku Furikabutte Animesinin Special Bölümü.",
     "slug": "ookiku-furikabutte-kihon-no-kihon",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ookiku Furikabutte Special",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12AvUUdIfdlYtD9rEskHENqbutCdYo3tx/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685360951"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3473252"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4493966"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zs4sjpri8ojs.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-c38ckfowzqde.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/q4s6y1if"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-olaar1u5d9o0.html"
+          }
+        ],
+        "added_date": "2026-07-28T23:49:41.790572"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3887,

@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "1-Video Kamerada Ortaya Çıkacak Şey\n\nMasami adlı lise öğrencisi geceleri tuhaf kâbuslar görmeye başlar. Üstelik boynunda birden bire küçük bir yara belirir. Kâbusların sırrını çözebilmek için sınıf arkadaşının yardımına ihtiyaç duyacaktır...\n\n2-O Perili Malikâne\n\nDört kız arkadaş, macera olsun diye; perili olduğu rivayet edilen malikâneyi geceleyin keşfe çıkar.",
     "slug": "umezu-kazuo-no-noroi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Umezu Kazuo no Noroi",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DxSfXEpUsyz2FNww6pLv1a6JNkQ2WeVJ/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/352.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018609"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2553933"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-w7aeaqzrfyjq.html"
+          }
+        ],
+        "added_date": "2026-07-29T19:26:33.079035"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6276,

@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Dogeza de Tanondemita serisinin special 13. bölümüdür.",
     "slug": "dogeza-de-tanondemita-isekai-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Dogeza de Tanondemita: Isekai-hen Special",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682367338"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4377152"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fr8lhv71du1q.html"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3e54w7ji"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-71uehejgfxh6.html"
+          }
+        ],
+        "added_date": "2026-07-24T21:52:00.318919"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 42990,

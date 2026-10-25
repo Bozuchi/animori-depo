@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Happy☆Lesson (TV) serisinin special (11.5) bölümüdür.",
     "slug": "happy-lesson-hoka-hoka-kanna-to-futari-kiri",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Happy☆Lesson (TV) 11,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1p6J04SVMfDumT5FX4ifGtmAt48lypA_i/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5066520"
+          }
+        ],
+        "added_date": "2026-07-26T02:20:37.067361"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 7579,

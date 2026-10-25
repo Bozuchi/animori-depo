@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Tokyo'nun sakin bir mahallesinde, yedi öğrenci okula gitmekten kaçınmaktalar. Karanlık yatak odalarında saklanıp aileleri ve arkadaşlarıyla yüzleşememekte. Ta ki yatak odalarındaki aynaların parladığını fark ettikleri ana dek.",
     "slug": "kagami-no-kojou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kagami no Kojou Movie",
+        "videos": [
+          {
+            "fansub_id": 95,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8179442134907096303"
+          },
+          {
+            "fansub_id": 95,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/0d04p13gevt6"
+          },
+          {
+            "fansub_id": 95,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/cmtfl3tz"
+          }
+        ],
+        "added_date": "2026-07-26T22:30:12.172647"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 51116,

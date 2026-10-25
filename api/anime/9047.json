@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Misaka ve arkadaşları bilinmeyen bir düşmana karşı savaşmak zorundadır.",
     "slug": "toaru-kagaku-no-railgun-misaka-san-wa-ima-chuumoku-no-mato-desu-kara",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "To Aru Kagaku no Railgun OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Aqvf2M1W4pgumG_mFQ4cfQ0hYC2fypo3/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852308"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1899793"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4442267"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wvina6ofptos.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-o8bcp4e5j2sd.html"
+          }
+        ],
+        "added_date": "2026-07-29T16:55:52.438102"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9047,

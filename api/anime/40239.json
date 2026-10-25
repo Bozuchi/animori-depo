@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Arifureta Shokugyou de Sekai Saikyou animesinin ilk 5 beş bölümünün özetidir.",
     "slug": "arifureta-shokugyou-de-sekai-saikyou-recap",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Arifureta Shokugyou de Sekai Saikyou Recap Special",
+        "videos": [
+          {
+            "fansub_id": 24,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1RqkYEEwAhLhOgwsg6yAtVILnM6RydEBU/preview"
+          },
+          {
+            "fansub_id": 24,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850235"
+          },
+          {
+            "fansub_id": 24,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4432551"
+          },
+          {
+            "fansub_id": 24,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ke0l80iqcrwm.html"
+          },
+          {
+            "fansub_id": 24,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5zlitqiqaeds.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667962"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762202"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3672823"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kv7pfv55w498.html"
+          }
+        ],
+        "added_date": "2026-07-23T02:42:43.821955"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40239,

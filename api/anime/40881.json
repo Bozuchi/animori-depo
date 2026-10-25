@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Münzevi Zarude ile ormanda büyüyen Koko, Ash ve Pikachu ile tanıştığında insanların dünyasını keşfeder ve yuvasını tehdit eden bir plandan haberdar olur.",
     "slug": "pokemon-movie-23-koko",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Pokemon: Koko Movie 23",
+        "videos": [
+          {
+            "fansub_id": 149,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ijqrDQcyBysdpqEmNFpw_B2heUN4KIN3/preview"
+          },
+          {
+            "fansub_id": 149,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656444"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10Oe4Ur_8UaqLTjzRPqRNivZEOEZTXJPs/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656443"
+          }
+        ],
+        "added_date": "2026-07-29T02:27:09.032340"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40881,

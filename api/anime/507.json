@@ -5,7 +5,62 @@
     "bolum_durumu": "2/2",
     "ozet": "Gravitation serisine ait OVA seridir.",
     "slug": "gravitation-lyrics-of-love",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Gravitation OVA 1",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XP2J8ZPRyA0M2LyDV8eRmjflbpjBCr_0/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3794235"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-q8b1wlbeqha8.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-znyxgx6bu6yj.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:47.803352"
+      },
+      {
+        "episode_number": null,
+        "title": "Gravitation OVA 2",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wEDC1X13FJuuRTEbinyVf9z1WNppaTn1/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3794236"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-sy9dmh3eivap.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-d5jrnh5wil0o.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:33:47.803352"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 507,

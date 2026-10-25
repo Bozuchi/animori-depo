@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Her şey sosyolojik bir deney olarak başladı. Altı kişinin, bir aile olduklarını düşünmeleri için beyinleri yıkandı ve nasıl tepki vereceklerini görmek için rastgele durumlara sokuldular; ancak, ailenin hayatının kaydedildiği bir kaset küçük bir sermaye yaratmak için umutsuz bir girişimde satılınca, büyük bir başarı haline geldi. Ailenin hayatı şimdi en çok izlenen program ve onların her hareketi haberleri olmaksızın dünya genelinde yayınlanıyor. Ancak, tıkanmış bir tuvalet, aileyi yayıncılar tarafından tutuldukları odadan nihai olarak kurtaran bir dizi olayı başlatır, ve gelir kaynağını kaybetmeye istekli olmayan yayıncılar, aile üyelerini tekrar toplamak için yola koyulurlar ve bir av düzenlerler.",
     "slug": "eikyuu-kazoku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Eikyuu Kazoku (Movie)",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PE55BjAvZfqsjXgpe-gLMktW-dHU9XyJ/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojina/video/embed/11/4003"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3552873"
+          }
+        ],
+        "added_date": "2026-07-24T23:58:53.087438"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1106,

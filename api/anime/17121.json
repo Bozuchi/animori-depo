@@ -5,7 +5,70 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikayemiz, sevgi ve değer taşıyan yakın insanlarımızı ne kadar sıklıkla unutup üzdüğümüz. Fakat önemli olan bu insanları doğru vakitte hatırlayıp onlara olan sevgimizi ve değerlerimizi yeniden kazandırmamız, onlar sonsuz mutluluğa kavuşmadan önce...",
     "slug": "dareka-no-manazashi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Dareka no Manazashi",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366638"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4339062"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-sbjoqipdghwg.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1kfdgvq3ug2h.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366639"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1497776"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682370733"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5257219"
+          },
+          {
+            "fansub_id": 62,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/52du4fzi8850"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ns8wzh36goqr.html"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-e81qgv60or24.html"
+          }
+        ],
+        "added_date": "2026-07-24T10:08:20.421582"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 17121,

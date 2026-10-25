@@ -617,6 +617,38 @@
           }
         },
         "added_date": "2026-07-27T15:24:54.868814"
+      },
+      {
+        "episode_number": null,
+        "title": "Natsume Yuujinchou Go 6.5 Bölüm",
+        "videos": [
+          {
+            "fansub_id": 192,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12UxfqOEpSkTBeiQrLC7HR0FtBgqhaTPZ/preview"
+          },
+          {
+            "fansub_id": 192,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2747859"
+          },
+          {
+            "fansub_id": 192,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4459241"
+          },
+          {
+            "fansub_id": 192,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5o7uakrfpso0.html"
+          },
+          {
+            "fansub_id": 192,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hmdk80y0"
+          }
+        ],
+        "added_date": "2026-07-27T15:24:54.868814"
       }
     ]
   },

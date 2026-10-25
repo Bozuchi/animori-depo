@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Mahou Shoujo Lyrical Nanoha StrikerS'in BD Kutu Setinde yer alan animasyon şovu. Subaru, Teana, Vivio kendi BD Kutu Setlerini tanıtan bir radyo programına ev sahipliği yaparlar. Tüm temel oyuncu kadrosunun öğrenci ya da öğretmen olarak yer aldığı farazi bir Midchilda Akademisine bakarlar.",
     "slug": "mahou-shoujo-lyrical-nanoha-strikers-picture-drama",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Welcome to Midchilda Academy",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ErjG8gdbLGqRmVDA1nKJFJ0ZCJ7sUfWm/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685362701"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511442"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tfpxtayhffuh.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1te7kwklgree.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:42:03.518744"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37934,

@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Fireball serisine ait Special bölümdür.",
     "slug": "fireball-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fireball Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Rwe7Bq5369IwwviK3eNCzhLlqLfp_7a2/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366682"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359663163"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4611919"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2tr64q3lb0dj.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/0ft619m5"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-k4aw5yml8eva.html"
+          }
+        ],
+        "added_date": "2026-07-25T01:37:13.268436"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10666,

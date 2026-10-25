@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Yukarıdaki cennette, büyükanne ve büyükbabası Yuki'nin, on üç yaşına girdikten sonra, Dünya'ya inip haydutlar tarafından parçalanan bir köyün halkını kurtarmak için müdahale etmesi gerektiğine karar verir. Ancak bir yıl içinde başarılı olamazsa, rüzgar gibi esassız hale gelecektir. Köyde Yuki, ebeveynleri haydutlar tarafından öldürülen ve şimdi dilenerek geçinen bir grup yetim ile arkadaş olur. Yuki, vahşi at Fırtına'yı evcilleştirerek onları şaşırtır. Yetimlerin ve çiftçilerin önce savaşan haydutlara, sonra da bölgenin sahibi açgözlü Lort Goemon'a karşı durmasını sağlamada aracı olur. Yanardağda yaşayan hoşnutsuz İblis Tanrısı, aşağıda yaşayanları yok etmek için ortaya çıktığında Yuki, en büyük zorlukla yüzleşmek zorunda kalır.",
     "slug": "yuki",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Yuki Movie",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1F1dPjePOqc75dTVA42d0w8OiThseMbQv/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4905465"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xe9egeopw2oy.html"
+          }
+        ],
+        "added_date": "2026-07-30T20:03:30.019735"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8598,

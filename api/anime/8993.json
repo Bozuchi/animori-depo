@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Bu, muhteşem Nozaki servetinin mirasçıları Anzu ve Naruto Nozaki kardeşlerin hikayesi. Naruto kısıtlayıcı bir abi gibi görünmektedir. Fakat aslında Anzu'ya delicesine aşıktır çünkü aslında kan bağları yoktur. Onu güvenlik için aile malikanesine kapatır, çevresinden ve gerçek hayattan mahrum bırakır. Anzu 16 yaşında isyan etmeye başlar. Bir yavru kediyi gizlice evcil hayvan olarak alır (Naruto kedilerden nefret eder) ve bir teslimat kamyonuyla kaçar. Naruto onu yakalar ve kafesteki kuş gibi hapsedilemeyeceğini anlar. Normal bir hayat yaşamasına izin vermeye karar verir ama hemen sonra facia onları bulur.",
     "slug": "juliet",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Juliet OVA",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YPYclgWKPy7vKmzfH-9-Lkglgv4xs90D/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4954914"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-90anw711hzgy.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-tet0dvr7l7ra.html"
+          }
+        ],
+        "added_date": "2026-07-26T22:02:42.011179"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8993,

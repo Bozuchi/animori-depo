@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Soushin Shoujo Matoi serisine ait special bölümdür.",
     "slug": "soushin-shoujo-matoi-kabushiki-gaisha-knight-busters",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Soushin Shoujo Matoi Special: Kabushiki Gaisha Knight Busters",
+        "videos": [
+          {
+            "fansub_id": 153,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1igvv0pFcnmZZVaMM3V4ErnTagII3KnRa/preview"
+          },
+          {
+            "fansub_id": 153,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qimaDILVuFZqbGo1UiGsKqTje5eu357y/preview"
+          },
+          {
+            "fansub_id": 153,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660872"
+          },
+          {
+            "fansub_id": 153,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911869"
+          },
+          {
+            "fansub_id": 153,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3295241"
+          },
+          {
+            "fansub_id": 153,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-f09ahqgwmil2.html"
+          }
+        ],
+        "added_date": "2026-07-29T11:56:27.184639"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 35458,

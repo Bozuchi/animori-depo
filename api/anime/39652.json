@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "One Punch Man'in 2. Sezon'u için yapılan özet bölümü.",
     "slug": "one-punch-man-2nd-season-commemorative-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Punch Man 2nd Season Commemorative Special",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1aqH0cQm2eWsevjXbmjkDs0MZl-hinMnB/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850209"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1345"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4432478"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mqoji7oga5t6.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-t0sblfi6q6e9.html"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/dajvgytn"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1ewp59oe"
+          }
+        ],
+        "added_date": "2026-07-27T21:03:08.548530"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39652,

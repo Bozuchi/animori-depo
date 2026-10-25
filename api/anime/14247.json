@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "\"Lion Books\" serileri içerisinde üçüncü bölümdür. Bir çocuk duvarda gördüğü postere aşık olur ve ona bakmaya başlar. Bu hikaye gençlerin ilk aşkını abartısız bir şekilde tasvir etmektedir.",
     "slug": "lunn-wa-kaze-no-naka",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Lunn wa Kaze no Naka",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1q8xJeGMtjeRXcbW7Onfit5_p_GglIKWZ/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271189048"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359664334"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1794797"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4616871"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ar4un2at3au7.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-x5bssqqi34fk.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:50:09.415530"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 14247,

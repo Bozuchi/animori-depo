@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Steins;Gate serisinin devamı niteliğinde olan special bölümdür.",
     "slug": "steins-gate-oukoubakko-no-poriomania",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Steins;Gate Special: Oukoubakko no Poriomania",
+        "videos": [
+          {
+            "fansub_id": 20,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1352768"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461599895"
+          },
+          {
+            "fansub_id": 101,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4407051"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-m1eb5lq8n5vc.html"
+          },
+          {
+            "fansub_id": 101,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ntvc4izsqqlq.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:07:15.541343"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10863,

@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Tobi Roppo ile tayfa arasındaki şiddetli savaşların özetini içeren Wano arcına ait 6. özet bölümüdür.",
     "slug": "one-piece-dai-gekisen-tokushuu-mugiwara-no-ichimi-vs-tobi-roppou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 1045,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1FVhghTCJjD4iPQCIcs150AnWOjFocfJT/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374058967"
+          }
+        ],
+        "added_date": "2026-07-27T20:55:40.036804"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 53890,

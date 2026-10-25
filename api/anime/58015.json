@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Çokbilmiş öyküsünün ilk özel özet bölümüdür. 1092,5. Bölümdür.",
     "slug": "one-piece-dai-tannou-kikaku-shi-no-gekai-trafalgar-law",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 1092,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1UVL-7lvjZ4pAXFRsNIfm2D6nHKHFBtiN/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5422200"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/dqqwrt8w"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/24c1igjn"
+          }
+        ],
+        "added_date": "2026-07-27T20:55:44.956696"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 58015,

@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Vano öyküsünün 7. özet bölümüdür.",
     "slug": "one-piece-dai-gekisen-tokushuu-zoro-vs-ookanban",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 1061,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1quHzwjo173tFZ7NUAmBzu_QE9A_tc8J1/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374059173"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jt1t17c4"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wbkhmkdr"
+          }
+        ],
+        "added_date": "2026-07-27T20:55:42.503983"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 55289,

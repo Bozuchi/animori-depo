@@ -5,7 +5,60 @@
     "bolum_durumu": "1/49",
     "ozet": "Paralel bir dünyada, zaman çok daha yavaş geçer. Bu diyarda yaşayan tuhaf insanlar üzerinde gezindikçe, okyanus katı bir hale gelir.",
     "slug": "kujira-no-chouyaku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kujira no Chouyaku Movie",
+        "videos": [
+          {
+            "fansub_id": 196,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1udIdf6DFejZqwd_kR3zmuREcKyMYRB9r/preview"
+          },
+          {
+            "fansub_id": 196,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359651873"
+          },
+          {
+            "fansub_id": 196,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140717449"
+          },
+          {
+            "fansub_id": 196,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4472085"
+          },
+          {
+            "fansub_id": 196,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-r3evm5vrzsxm.html"
+          },
+          {
+            "fansub_id": 196,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-yf13ofmy4cfd.html"
+          },
+          {
+            "fansub_id": 196,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/sg0qxozm"
+          },
+          {
+            "fansub_id": 196,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/iadh2ngc"
+          },
+          {
+            "fansub_id": 196,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-121j0tttj46s.html"
+          }
+        ],
+        "added_date": "2026-07-27T06:39:43.034728"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1204,

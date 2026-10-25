@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "2012 Ağustos ayında comic market 82 etkinliğinde sunulan Doujinshi animesinin Blu-ray'ı dır.",
     "slug": "zettai-junpaku-mahou-shoujo",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Zettai Junpaku: Mahou Shoujo",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wCaAIQL2i4hhpnrRnPF7Kl2M4U1XxEeu/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017476"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2602307"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/errujbvt"
+          }
+        ],
+        "added_date": "2026-07-30T21:04:15.612967"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16656,

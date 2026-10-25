@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "5 film olarak planlanan Code Geass: Boukoku no Akito filmlerinin üçüncüsüdür.",
     "slug": "code-geass-boukoku-no-akito-3-kagayaku-mono-ten-yori-otsu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
+        "videos": [
+          {
+            "fansub_id": 10,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17jnzutRfTaNv0fhZa9fyUojkF73rrCg6/preview"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847161"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4074454"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3434463"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2znyuqg3"
+          },
+          {
+            "fansub_id": 10,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vkvgj0p3va4u.html"
+          }
+        ],
+        "added_date": "2026-07-23T16:17:30.459664"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 15199,

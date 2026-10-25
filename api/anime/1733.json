@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikâye, 100 yıl ilerideki bir tarihte, tam olarak Lisa ve Lorna'nın eX-D organizasyonuna katılmasından birkaç yıl önce geçmektedir. eX-Driver serisine ait OVA bölümdür.",
     "slug": "ex-driver-nina-rei-danger-zone",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "eX-Driver : Danger Zone",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-TjjD8VGY0cqF76uy_Dy0sHVtMoV7hBk/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271193557"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4251946"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4516321"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1455160"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/gjdpe95a"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xntc8ytzij45.html"
+          }
+        ],
+        "added_date": "2026-07-25T00:31:38.344920"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1733,

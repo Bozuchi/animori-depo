@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Botan ve Shinobu çocukluk arkadaşlarıdır, yeni girmiş oldukları kız lisesinde söylenenlere göre melekler yaşarmış. Gerçekten de onlardan biri ile karşılaşıyorlar ve meleğimiz Botan'a bir teklifte bulunuyor, aceba nedir?..",
     "slug": "tenshi-no-drop",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tenshi no Drop",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TRLrTsBNbOHJmu1tRbmQhJ9nUvqLq2vw/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3799388"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-nmf9u5oxmph2.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-meu7jcldpajy.html"
+          }
+        ],
+        "added_date": "2026-07-29T16:07:40.457459"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16436,

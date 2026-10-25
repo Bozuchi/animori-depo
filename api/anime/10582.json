@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Serinin 3 partlık OVA bölümüdür.",
     "slug": "astarotte-no-omocha-ex",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Astarotte's Toy OVA",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rSvxdyw_xROIRScUDJlQPdLW7THJbIkn/preview"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-txzu6lk5147v.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-c3wxh60uix3j.html"
+          }
+        ],
+        "added_date": "2026-07-23T03:08:16.450209"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10582,

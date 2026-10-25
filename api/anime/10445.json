@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "SuperCell'in orijinal animasyonlu müzik videosudur.",
     "slug": "perfect-day",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Perfect Day",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tVCJQuTyUPnCD2An0p4BNC4ZM2ctBRHA/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5772.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017647"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1534073"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ccgqh3y01pr0.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:26:28.573763"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10445,

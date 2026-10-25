@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Inazuma Eleven Go Serisinin Filmidir.",
     "slug": "inazuma-eleven-saikyou-gundan-ogre-shuurai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Inazuma Eleven Movie",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Q7AluxhfaqeZD-NdjL6QLUgcQ4t1N8qM/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359653194"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850103"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4020225"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hue88gq1"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ixspx0fmom3b.html"
+          }
+        ],
+        "added_date": "2026-07-26T05:26:44.531165"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9032,

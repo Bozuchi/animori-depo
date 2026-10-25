@@ -5,7 +5,65 @@
     "bolum_durumu": "1/1",
     "ozet": "Manganın dördüncü cildiyle yayınlanan bölümdür.",
     "slug": "oshiete-galko-chan-natsuyasumitte-hontou-desu-ka",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Oshiete! Galko-chan OVA",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10zzVZ9YwF7otrI40xrD6GZHecGRHh9kf/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359664926"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7852876293715529351"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/209"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4619237"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4293932"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tno0vbhukqz1.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/nlq556md"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-t0u5zfk3drbm.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-0ra18ijjihjj.html"
+          }
+        ],
+        "added_date": "2026-07-29T00:24:48.225185"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33949,

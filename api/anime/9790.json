@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Sakurai Tomoki, \"normal en iyisidir\" düşüncesiyle yaşayan bir lise \nöğrencisidir. Eğer ortada anormal olan bir şey varsa o da Tomoki'nin \nkimi zaman yüzünü hatırlayamadığı bir kızın rüyasını görmesi ve \nuyandığında ağlamış olduğunu fark etmesidir. Tomoki bunun sadece bir \nrüya olduğunu düşünerek unutmaya çalışır ancak günün birinde, \ngökyüzünden bir melek iner... \n\nSeriye ait Moviedir.",
     "slug": "sora-no-otoshimono-tokeijikake-no-angeloid",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Sora no Otoshimono : Tokeijikake no Angeloid",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1gw-PqUWul14BbELzBjBK2uAS1_eax1xu/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tZDyZwBVdTX1vhLa5qPP8vs3uCVUJgVR/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909584"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909585"
+          }
+        ],
+        "added_date": "2026-07-29T11:28:02.448766"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9790,

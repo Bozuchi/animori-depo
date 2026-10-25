@@ -5,7 +5,45 @@
     "bolum_durumu": "1/2",
     "ozet": "Futsuu no Joshikousei ga [Locodol] Yattemita animesinin OVA bölümleridir.",
     "slug": "futsuu-no-joshikousei-ga-locodol-yattemita-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Futsuu no Joshikousei ga [Locodol] Yatte Mita. OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1UNKKXnuBVfIs83zfLgTJ3N2tO-CLrxRX/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849163"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/torukojin_a/_myvideo/461.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4425787"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2617038"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7yaizv77tfuk.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:07:30.946101"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30988,

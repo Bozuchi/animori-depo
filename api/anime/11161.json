@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Hoshizora e Kakaru Hashi serisine ait Special bölümdür.",
     "slug": "hoshizora-e-kakaru-hashi-kakaru-ka-gakuensai-ni-koi-no-hashi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hoshizora e Kakaru Hashi Special",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wNONT_Fi0VgtS9mWJ4liNKBudUumLS52/preview"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hrbp7re3hktn.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hq7hyw1hf36a.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fpyeo9dobocb.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:22:20.327028"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11161,

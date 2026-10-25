@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Tsugumomo animesinin OVA bölümüdür.",
     "slug": "tsugumomo-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tsugu Tsugumomo Ova",
+        "videos": [
+          {
+            "fansub_id": 30,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1K2NYyzD3kCqIhAqrQmR0CNHYZ3JUrSKj/preview"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3902649"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3993789"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-82w3jm13expb.html"
+          }
+        ],
+        "added_date": "2026-07-29T18:34:03.923540"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39470,

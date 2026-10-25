@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Web animesi Luo Xiao Hei Zhan Ji'nin tanım filmi. İzleyiciler Xiao Hei‘nin son ismi Luo‘yu nasıl elde ettiğini keşfedecek.",
     "slug": "luo-xiao-hei-zhan-ji-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Luo Xiao Hei Zhan Ji",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1JKrgf90t1oEAqEIF8jcMNxHif5_i4EBk/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EMraCwTqdKbamIIR13e_LWiXFRULYFTZ/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718391"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rtpq8tlgwcd8.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:50:12.397544"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40211,

@@ -5,7 +5,65 @@
     "bolum_durumu": "1/1",
     "ozet": "Seriye ait yayınlanmamış special bölümdür.",
     "slug": "toradora-bentou-no-gokui",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Toradora! Special: Bentou no Gokui",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hNdwtCL-cf83L4W-IGJwC9i5ZO2otGoI/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851683"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985848008"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/3390.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4440080"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4087285"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-f5zevck2vfos.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-n9w9xl0ag4tm.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fsft2xsj"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-iel6rubjjx9y.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:50:28.887115"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11553,

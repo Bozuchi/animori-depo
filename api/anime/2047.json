@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Hayal etmenin yasak olduğu hayali bir dünyada bir genç, deniz kızına dönüşerek herkesi şaşırtan bir balığın hayatını kurtarır. Genç bu \"saçma\" hayalinden ötürü tutuklanır ve ceza olarak hayal gücü elinden alınır.",
     "slug": "ningyo",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ningyo",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tcrDT4CFfAx9Tte0x07Q86i3ZJabC1Ms/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1743"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5675.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017615"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1525230"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hc8vpuvitv24.html"
+          }
+        ],
+        "added_date": "2026-07-27T16:15:33.818318"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2047,

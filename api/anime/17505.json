@@ -1393,6 +1393,33 @@
           }
         ],
         "added_date": "2026-07-27T13:44:35.917854"
+      },
+      {
+        "episode_number": null,
+        "title": "Mushibugyou Ova",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OmunaGoUPs2o3P4dN5ijMbrFZ4hKmdCd/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/meyilruu2/_myvideo/62.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016810"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pozlxzvs"
+          }
+        ],
+        "added_date": "2026-07-27T13:44:35.917854"
       }
     ]
   },

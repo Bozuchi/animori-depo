@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "-Güncellenecek-",
     "slug": "gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1oi8OEqQR9O5glwOZm8Nhyy522lL9EHgs/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/444.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2561585"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/k0l41khc"
+          }
+        ],
+        "added_date": "2026-07-25T23:50:40.932722"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2951,

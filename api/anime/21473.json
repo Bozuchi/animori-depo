@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Persona 3 the Movie serisinin 2. filmidir.",
     "slug": "persona-3-the-movie-2-midsummer-knight-s-dream",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Persona 3 the Movie 2: Midsummer Knight's Dream",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BMfhTRvG6TdYXP3UxG5-4QUdvIGikgBu/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11IRHDPNkf0dD7NC9-123DW8uix4gr2Xj/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911042"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1761714"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4529558"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6t60yr31"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-260wtaj1366w.html"
+          }
+        ],
+        "added_date": "2026-07-29T01:26:50.576604"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 21473,

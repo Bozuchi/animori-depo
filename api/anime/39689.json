@@ -5,7 +5,95 @@
     "bolum_durumu": "1/1",
     "ozet": "Nande Koko ni Sensei ga animesinin özel bölümüdür.",
     "slug": "nande-koko-ni-sensei-ga-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Nande Koko ni Sensei ga!? Special Bölüm",
+        "videos": [
+          {
+            "fansub_id": 139,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1C15hIy8xkR8my6yMrbhLDCreJZzu741Z/preview"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5429446"
+          },
+          {
+            "fansub_id": 139,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/wjw8q4wbdrcx"
+          },
+          {
+            "fansub_id": 139,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-o21yoer7222l.html"
+          },
+          {
+            "fansub_id": 139,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/24472xdj"
+          },
+          {
+            "fansub_id": 286,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4786646"
+          },
+          {
+            "fansub_id": 286,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3772520"
+          },
+          {
+            "fansub_id": 286,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wmznftqwsqzj.html"
+          },
+          {
+            "fansub_id": 286,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-39e4jmhmiu9d.html"
+          },
+          {
+            "fansub_id": 32,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/118zTTSedTT91pVd6lgWYPvHpEasHQLxl/preview"
+          },
+          {
+            "fansub_id": 32,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4216525"
+          },
+          {
+            "fansub_id": 32,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-g2mhm7hp4spq.html"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuronekotempest/video/embed/_myvideo/1726"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3788392"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4108724"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fb4ywd2vz14x.html"
+          }
+        ],
+        "added_date": "2026-07-27T14:32:50.571095"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39689,

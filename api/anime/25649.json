@@ -789,6 +789,43 @@
           }
         ],
         "added_date": "2026-07-26T22:05:40.733722"
+      },
+      {
+        "episode_number": null,
+        "title": "Junjou Romantica 3 OVA",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3795931"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3794958"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ymc2ndfwf7i9.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3k000cs447g6.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3f3ktrl9"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/r2e30vr8"
+          }
+        ],
+        "added_date": "2026-07-26T22:05:40.733722"
       }
     ]
   },

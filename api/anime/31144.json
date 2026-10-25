@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Japon kamu spotu gibi bir şey.",
     "slug": "mottainai-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mottainai",
+        "videos": [
+          {
+            "fansub_id": 108,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_eSehBX-O-oJuEA-lKPmMFma4vh62zEd/preview"
+          },
+          {
+            "fansub_id": 108,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/bk/schneizel/video/embed/_myvideo/865"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2917905"
+          }
+        ],
+        "added_date": "2026-07-27T13:23:23.196554"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31144,

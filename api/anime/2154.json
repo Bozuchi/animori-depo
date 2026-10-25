@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Taiyo Matsumoto'nun 1993 ile 1994 yılları arasında Shogakukan'a bağlı Big Comic Spirits dergisinde yayınlanan 3 ciltlik mangasından uyarlanacak filmin 2007 yılında gösterime girmesi bekleniyor. Tekkon Kinkurito, 1999 yılında Koji Morimoto  tarafından 5 dakikalık bir pilot animasyona uyarlanmıştı. Filmin yönetmeni Michael Arias ise 1999 tarihli projede bilgisayar animasyonlarını hazırlamış ve yapıma entegre etmişti.  Taiyo Matsumoto'nun mangası Kuro ve Shiro isimli iki çocuğun Takaramachi bölgesindeki garip maceralarını konu alıyor.  2006 Tokyo Anime Fuarında yayınlanan fragmanına buradan ulaşabilirsiniz.",
     "slug": "tekkon-kinkreet",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tekkon Kinkreet",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1gundVdxeBjTGh7v5955t-fCQd2c9lywL/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/5.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/enes.mert.97/_myvideo/6.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015600"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-oodg4beaozmh.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:36:57.460233"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2154,

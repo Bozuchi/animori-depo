@@ -5,7 +5,14 @@
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin ilk filmidir.",
     "slug": "pokemon-movie-01-mewtwo-no-gyakushuu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Pokemon Movie 1 - The First Movie",
+        "videos": [],
+        "added_date": "2026-07-29T02:26:31.387376"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 528,

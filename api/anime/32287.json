@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Yağmurlu bir akşamda, genç bir kadın eski bir tapınağın kalıntılarında garip bir yaratık bulur.",
     "slug": "kanamewo",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kanamewo",
+        "videos": [
+          {
+            "fansub_id": 108,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/_myvideo/490"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2844556"
+          },
+          {
+            "fansub_id": 108,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4909227"
+          },
+          {
+            "fansub_id": 108,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2l13l2f66lgz.html"
+          },
+          {
+            "fansub_id": 108,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hfb88r5cx790.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8311779856937387183"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3aqp27gzmay0.html"
+          }
+        ],
+        "added_date": "2026-07-26T23:47:31.199281"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32287,

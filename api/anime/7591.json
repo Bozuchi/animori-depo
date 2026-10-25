@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Serinin parodi OVA bölümüdür.",
     "slug": "tono-to-issho",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tono to Issho OVA",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1aFCnhUNks8_vTUHG1E_-smy2Ex3iUCiN/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Id-NSHypdMFv5ewwbF8vaJWsqu5ARGyM/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661784"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4589915"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0bgscc2mwf4e.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-w8memgrm49b9.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:44:53.717812"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 7591,

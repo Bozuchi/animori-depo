@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Dört işçi kamp ateşinin etrafında gece boyunca beklemektedir. Garip sesler duymaya başladıklarında onlardan üçü farklı konulardan bahsediyorlardı. Tartışmalarına uyanan arkadaşları, rüyalar görmeye başlamak için uykuya geri döner.",
     "slug": "taneyamagahara-no-yoru",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Taneyamagahara no Yoru",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VdO5aR-OpmP7gsZwj2Dkg54d7vlKQZKQ/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656274"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439054"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vw6qpav6rllm.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:09:25.807157"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2767,

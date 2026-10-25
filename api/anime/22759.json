@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Toaru Kagaku no Railgun S'in OVA bölümüdür.",
     "slug": "toaru-kagaku-no-railgun-s-daiji-na-koto-wa-zenbu-sentou-ni-osowatta",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta OVA",
+        "videos": [
+          {
+            "fansub_id": 113,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368033"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4392964"
+          },
+          {
+            "fansub_id": 113,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-69hccsviu4r0.html"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vbeywy6y"
+          }
+        ],
+        "added_date": "2026-07-29T16:53:59.024684"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 22759,

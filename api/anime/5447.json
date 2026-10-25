@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Lise öğrencisi Mariko ve ablası Mayu, bir yangınla apartmanlarından çıkmak zorunda kalırlar ve ev sahiplerinin yanına taşınırlar. Mariko, ev sahibinin kendisi gibi model olan yakışıklı oğlu Natsume ile tanışır. Birbirlerine aşık olurlar ama Natsume'nin başka kızlarla görüştüğünü keşfedince Mariko'yla ayrılırlar. Eninde sonunda yeniden bir araya gelirler ve son jenerik yuvarlanır. A-Girl'de diyalog yoktur ve Okada Tooru tarafından bestelenen ve SEIKA tarafından İngilizce söylenen Japon pop şarkılarıyla sergilenir. Statik metinler eski filmlerde olduğu gibi süreklilik sağlar.",
     "slug": "a-girl",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "A-Girl",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MfGefrnhQdeCwqb2M--l2OtC2NfZJeCV/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uCd70iF9SeVU_JtuTIib35NHwRnL9aYw/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366849"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4515539"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pem5arlc"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nk6ryr3byuwk.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qh9daihjrhsw.html"
+          }
+        ],
+        "added_date": "2026-07-19T03:18:29.242497"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5447,

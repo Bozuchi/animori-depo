@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Rin'in annesi öldüğünde ileride bir gün bir leydi olacağına dair kendine söz verir ve ailesinin geri kalanı ile buluşmak için İngiltere'ye yolculuk eder. Orada pek hoş karşılaşmaz(özellikle başta üvey kardeşi Sara olmak üzere) ama bir süre geçmesinin ardından mutlu bir aileye dönüşürler. Ayrıca Rin(Lynn) atlara ve yarışa düşkündür ve yarışların çoğunu kazanmaktadır.",
     "slug": "lady-lady-1988",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Lady Lady!! (1988)",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19PNzC-GHfkwg8p1HLAnzP9Jit0UEA9JB/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656236"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439018"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-glg6pnpdybye.html"
+          }
+        ],
+        "added_date": "2026-07-27T07:50:00.611483"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9773,

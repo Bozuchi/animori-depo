@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Genç bir savaşçı ve onun büyülü hayvanı, dilekleri gerçekleştirdiğine inanılan kutsal bir yeri bulmaya çalışır. Ama kadim muhafızları ve ruhları kızdırmamak en iyisidir.",
     "slug": "sol-levante",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Sol Levante ONA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GTrbWU3kKLCeSwXW5i3YLEY-eRPQNR5p/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931907413"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4311987"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-o1zkhu93vlwu.html"
+          }
+        ],
+        "added_date": "2026-07-29T11:14:34.355620"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40597,

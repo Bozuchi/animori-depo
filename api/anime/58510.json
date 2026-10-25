@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Büyük hesaplaşma başlasın. Eşi benzeri olmayan bu etkileyici dövüş sanatları buluşmasında “Baki Hanma” ve “Kengan Ashura”nın en zorlu dövüşçüleri karşı karşıya geliyor.",
     "slug": "hanma-baki-vs-kengan-ashura",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hanma Baki vs. Kengan Ashura ONA",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371603"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/4dk4h0dbiwl0"
+          }
+        ],
+        "added_date": "2026-07-26T02:15:24.163396"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 58510,

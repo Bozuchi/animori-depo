@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Miyu'nun Illya ve diğerleri ile tanışmadan önceki hayatını konu alıyor.",
     "slug": "fate-kaleid-liner-prisma-illya-movie-sekka-no-chikai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+        "videos": [
+          {
+            "fansub_id": 101,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1c-Ysqp85HYxAY4sd2vNL0R5GLM9euNBF/preview"
+          },
+          {
+            "fansub_id": 101,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lue8w448la3a.html"
+          },
+          {
+            "fansub_id": 193,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271189587"
+          }
+        ],
+        "added_date": "2026-07-25T01:23:12.989646"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34100,

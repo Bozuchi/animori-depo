@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Mahou Shoujo Madoka üçlemesinin (trilogy) üçüncü filmi. İkinci filmin ve dolayısıyla TV serisinin de kaldığı yerden devam etmektedir.",
     "slug": "mahou-shoujo-madoka-magica-movie-3-hangyaku-no-monogatari",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+        "videos": [
+          {
+            "fansub_id": 76,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CpSz3Qp6qCZb2k5WPg-24SlrMwLgOOxT/preview"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017370"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/bk/schneizel/video/embed/_myvideo/808"
+          },
+          {
+            "fansub_id": 76,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3043801"
+          },
+          {
+            "fansub_id": 76,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cy7hu4f3g93t.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fme84tyXcCXtrroGWdAaylGPDR-F8mTC/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359661781"
+          }
+        ],
+        "added_date": "2026-07-27T09:43:57.560786"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11981,

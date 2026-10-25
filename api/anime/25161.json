@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Film, Luffy'nin, Marineford savaşından sonra Rusukaina Adası'nda, Silvers Rayleigh'in yanında 2 yıl eğitim gördüğü zamanları konu alıyor.",
     "slug": "one-piece-3d2y-ace-no-shi-wo-koete-luffy-nakama-tono-chikai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1C9neaJ3HhovCYEd-ZhFZF-iA6P6T65Hd/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5017021353669166263"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fbzo2aso"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-w9gwz29985q4.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17EzGy9H7DMciHid3Z9LAJRshs7zve9oI/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6wp5wle0"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nmo6yf7d81un.html"
+          }
+        ],
+        "added_date": "2026-07-27T20:54:29.894355"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 25161,

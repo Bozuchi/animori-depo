@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "2013 yaz sezonu için planlanan, Toriko animesinin yeni moviesidir.",
     "slug": "toriko-movie-bishokushin-no-special-menu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Toriko Movie: Bishokushin no Special Menu",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Njs8IWjMWkjGSKdB16vTXgA6yU04yOYB/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377583"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4506951"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-be8bp5xdmwh5.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:59:14.437937"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 17699,

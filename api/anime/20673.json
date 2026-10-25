@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Hinata resim yapmada çok iyidir ve sınıf arkadaşı Shigure'ye aşıktır. Ne var ki Hinata insanlarla iletişim kurmakta pek iyi değildir. Bundan dolayı duygularını, anılarında ve çizimlerinde tutar. Sonrasındaysa Shigure'nin ailesi başka bir şehre taşınmaya karar verir. Taşınacakları gün Hinata ona duygularını anlatmaya karar verir ve Shigure'yi elinden alan trenin peşinden koşmaya başlar.",
     "slug": "hinata-no-aoshigure",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hinata no Aoshigure",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1XDfHTiyJuDk2ACk-66aqgQ21ziQp21tT/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018032"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1799308"
+          }
+        ],
+        "added_date": "2026-07-26T03:47:41.268259"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 20673,

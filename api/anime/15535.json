@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikaye, kaplıcaya gitmek gibi bir hobisi olan Y.M etrafında oluşyor. 100 ziyaretinde, 4 poster kızının işlettiği miyama-kan'a yolu düşüyor: tokura, Akino, Tsutsuji ve mitomo. Orada, makoto, yuri'yi gözetliyor, kaplıcanın tanrıçasını ve beklenmedik şekilde onun güçlerine el koyuyor. Makoto sonunda kaplıcada çalışmaya başlıyor",
     "slug": "yumekuri",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Yumekuri",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ri9q4yY5kluQw10uEHpthRw7CHR5zLbM/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017475"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2602350"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7hmccozr"
+          }
+        ],
+        "added_date": "2026-07-30T20:09:26.850649"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 15535,

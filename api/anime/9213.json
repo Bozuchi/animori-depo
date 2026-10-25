@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Yağmurlu bir gecede eski bir müzisyen olan genç Keiichiro, hurdaların içinde elinde ay çiçeği tutan android bir kız bulur. Onu tamirciye götüren Keiichiro bir sonuç alamaz. Adını Flower ( çiçek ) koyduğu bu küçük kız, ertesi sabah mucizevi bir şekilde uyanacak ve daha önce ailesini kaybetmiş olan Keiichiro’nun hayatının bir parçası olmaya başlayacaktır.",
     "slug": "kowarekake-no-orgel",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kowarekake no Orgel",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_OZB7OnINCPT9C9miSJSd_f149ZjFFXA/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015442"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/1587"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3530915"
+          }
+        ],
+        "added_date": "2026-07-27T06:35:49.641905"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9213,

@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin on sekizinci filmidir.",
     "slug": "pokemon-movie-18-ring-no-choumajin-hoopa",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Pokemon Movie 18 - Ring no Choumajin Hoopa",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MrxZNQJ0TtDLUYO3l3CrOm-LKNe-2JNi/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019075"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/833.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2589893"
+          }
+        ],
+        "added_date": "2026-07-29T02:26:58.643831"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 25805,

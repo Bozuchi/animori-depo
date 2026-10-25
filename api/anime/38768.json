@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Bu özel bölümde farklı takımların kaptanlarını ve Asta ile Yuno'nun bir bilgi yarışmasına katıldığını göreceğiz.",
     "slug": "black-clover-jump-festa-2018-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Black Clover: Jump Festa 2018 Special",
+        "videos": [
+          {
+            "fansub_id": 135,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1cE1gMxYAc3pnzdOo6DJQkzQFiWw8xAsN/preview"
+          },
+          {
+            "fansub_id": 135,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933013992"
+          },
+          {
+            "fansub_id": 135,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3502835"
+          },
+          {
+            "fansub_id": 135,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b8axlumgb4xw.html"
+          },
+          {
+            "fansub_id": 135,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/99je61g5"
+          }
+        ],
+        "added_date": "2026-07-23T05:13:39.607417"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38768,

@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "-Güncellenecektir-",
     "slug": "kara-no-kyoukai-mirai-fukuin-extra-chorus",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kara no Kyoukai: Mirai Fukuin - Extra Chorus Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14KaRRAqapHp-9hcnfD5EGaE4bkCYwSsj/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1LFYFAsJIV_GSo3H867L1hLlVRE4DhrZz/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/k2m4994n"
+          }
+        ],
+        "added_date": "2026-07-27T00:15:38.605095"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 22763,

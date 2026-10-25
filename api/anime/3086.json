@@ -85,6 +85,43 @@
           }
         ],
         "added_date": "2026-07-29T13:10:53.200346"
+      },
+      {
+        "episode_number": null,
+        "title": "Strait Jacket Festival",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rl0XaSL3nfmz8HJvQHhFcikFxdD7CgJt/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851318"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845922"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439108"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4066011"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-scshp7d2p0pb.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:10:53.200346"
       }
     ]
   },

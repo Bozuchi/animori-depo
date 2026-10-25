@@ -354,6 +354,33 @@
           }
         ],
         "added_date": "2026-07-27T04:33:45.773082"
+      },
+      {
+        "episode_number": null,
+        "title": "Koi Suru Tenshi Angelique: Kagayaki no Ashita OVA",
+        "videos": [
+          {
+            "fansub_id": 103,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11mHikCwFYn3xvYGg3jmF786zV0MwqRT6/preview"
+          },
+          {
+            "fansub_id": 103,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/sevenops/_myvideo/13.html"
+          },
+          {
+            "fansub_id": 103,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017296"
+          },
+          {
+            "fansub_id": 103,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1568053"
+          }
+        ],
+        "added_date": "2026-07-27T04:33:45.773082"
       }
     ]
   },

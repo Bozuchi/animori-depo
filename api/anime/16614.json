@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Busou Shinki animesinin yayınlanmamış bölümüdür.",
     "slug": "busou-shinki-install-x-dream",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Busou Shinki Ova",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19TYUSNThBXZZjf6GEYh5GMuMq93MZIqc/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5017021353669165134"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4425287"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6mbrkcw0"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-53gfyz8mq4nt.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:21:33.080626"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16614,

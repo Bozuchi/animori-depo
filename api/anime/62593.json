@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Çokbilmiş öyküsünün dokuzuncu özet bölümüdür.",
     "slug": "one-piece-dr-chopper-no-bouken-karte-uragirimono-tachi-no-masquerade",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 1145,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16FC1FTsMEFBeJ_1RR3NyFdcyB6q26ocD/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=6084906"
+          }
+        ],
+        "added_date": "2026-07-27T20:56:07.260839"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 62593,

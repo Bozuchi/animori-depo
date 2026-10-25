@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Dies Irae'nin 0. bölümüdür.",
     "slug": "dies-irae-reimei",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Dies Irae: Reimei Special",
+        "videos": [
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qWrELFPapBqf70rONrwZioMdtI7Jkyul/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16FnAwgvLouWDL8ZyszyaJRBVOKrAguQl/preview"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/lowsubs/video/embed/_myvideo/8"
+          },
+          {
+            "fansub_id": 34,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4523766"
+          },
+          {
+            "fansub_id": 34,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3rqrjfkh1pdl.html"
+          },
+          {
+            "fansub_id": 34,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-l0lgr68q60ms.html"
+          },
+          {
+            "fansub_id": 34,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-o44558rfbpm0.html"
+          }
+        ],
+        "added_date": "2026-07-24T21:20:43.741508"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36524,

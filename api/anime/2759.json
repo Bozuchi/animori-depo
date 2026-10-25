@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Neon Genesis Evangelion Animesinin 1. Filmi.",
     "slug": "evangelion-movie-1-jo",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Neon Genesis Evangelion : You Are [Not] Alone",
+        "videos": [
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371449"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/nudeh8twx6ss"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WyatpnKHaemfZ2t91UkAXdRvcePDRWVL/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Gl8L8Ph-osQf8LFAlviFwP3xBdexej0o/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015926"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5037"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4519036"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3tlk3syzs9mu.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1x9hpr6jyvsb.html"
+          }
+        ],
+        "added_date": "2026-07-25T00:29:43.942901"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2759,

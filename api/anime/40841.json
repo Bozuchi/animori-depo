@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen serisinin OVA bölümüdür.",
     "slug": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA",
+        "videos": [
+          {
+            "fansub_id": 142,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/11kBpnyGa30WI4mA201T0c3DUap1E1V2F/preview"
+          },
+          {
+            "fansub_id": 142,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368562"
+          },
+          {
+            "fansub_id": 142,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4654317"
+          },
+          {
+            "fansub_id": 142,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wrtzu17xyik3.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:09:25.980442"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40841,

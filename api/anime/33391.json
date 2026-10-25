@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Gelecekte insanlar saf ırk ve nano ırk olarak ikiye ayrılmıştır.",
     "slug": "red-ash-gearworld",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Red Ash: Gearworld",
+        "videos": [
+          {
+            "fansub_id": 133,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1NDPOsxfuLUFSXNVQ1QGo_zan5o5iUvGZ/preview"
+          },
+          {
+            "fansub_id": 133,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660104"
+          },
+          {
+            "fansub_id": 133,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847303"
+          },
+          {
+            "fansub_id": 133,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4459383"
+          },
+          {
+            "fansub_id": 133,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4075515"
+          },
+          {
+            "fansub_id": 133,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3037905"
+          },
+          {
+            "fansub_id": 133,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-41aywsbzysh3.html"
+          },
+          {
+            "fansub_id": 133,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u3q5uvt87raz.html"
+          },
+          {
+            "fansub_id": 133,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/w15o04t3"
+          }
+        ],
+        "added_date": "2026-07-29T04:13:03.633779"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33391,

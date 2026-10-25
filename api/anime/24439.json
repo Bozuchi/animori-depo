@@ -622,6 +622,75 @@
           }
         ],
         "added_date": "2026-07-27T02:27:49.453586"
+      },
+      {
+        "episode_number": null,
+        "title": "Kekkai Sensen 10.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1voDmDaVP34sxkH-hAlQpblH5L-4vx0X5/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tLktiBTbraqbpMXduYdiF3aJIwC3isG1/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4529477"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l5tc9cc2n7gc.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l6e0okcz429s.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nwz7ob9fsni0.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nvdszb23u1qr.html"
+          }
+        ],
+        "added_date": "2026-07-27T02:27:49.453586"
+      },
+      {
+        "episode_number": null,
+        "title": "Kekkai Sensen OVA",
+        "videos": [
+          {
+            "fansub_id": 101,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4300455"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tfc5zhiwkxcc.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271197462"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ffughin62944.html"
+          }
+        ],
+        "added_date": "2026-07-27T02:27:49.453586"
       }
     ]
   },

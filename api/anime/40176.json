@@ -5,7 +5,70 @@
     "bolum_durumu": "1/1",
     "ozet": "Miru Tights animesinin Special bölümüdür.",
     "slug": "miru-tights-cosplay-satsuei-tights",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Miru Tights OVA",
+        "videos": [
+          {
+            "fansub_id": 101,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3715136"
+          },
+          {
+            "fansub_id": 101,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3715009"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dl7gmjnsy7sb.html"
+          },
+          {
+            "fansub_id": 101,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qgqjvg5w"
+          },
+          {
+            "fansub_id": 14,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4906619"
+          },
+          {
+            "fansub_id": 14,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2p6wn6x6pays.html"
+          },
+          {
+            "fansub_id": 14,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2cv7xipp"
+          },
+          {
+            "fansub_id": 14,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-76x5xxf0glkz.html"
+          },
+          {
+            "fansub_id": 158,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Qw-lgiYowiUmJKejlpZL_Zxgzm7lpLcs/preview"
+          },
+          {
+            "fansub_id": 158,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/mirusubs/video/embed/_myvideo/15"
+          },
+          {
+            "fansub_id": 158,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4078309"
+          }
+        ],
+        "added_date": "2026-07-27T12:18:57.215705"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40176,

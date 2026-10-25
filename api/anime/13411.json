@@ -5,7 +5,65 @@
     "bolum_durumu": "1/1",
     "ozet": "Guity Crown animesinin özel bölümüdür.",
     "slug": "guilty-crown-lost-christmas-an-episode-of-port-town",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Guilty Crown Lost Christmas OVA",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KyIolAAw01D14oKeVy45xAfwIhzBsJ56/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359660034"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1453859"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1454313"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4459289"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dhv8f7y2c29l.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9hsnmt8i"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ns05ekfl"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-p2cjayi1jh15.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1453869"
+          }
+        ],
+        "added_date": "2026-07-26T00:51:46.975900"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13411,

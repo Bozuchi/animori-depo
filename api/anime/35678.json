@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Hibike! Euphonium Movie: Chikai no Finale sizlere Oumae Kumiko ve diğerlerinin ikinci sınıfkenki hikayesini anlatacak.",
     "slug": "hibike-euphonium-movie-3-chikai-no-finale",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "videos": [
+          {
+            "fansub_id": 121,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1S73BeZx3ZGFJfSp7f9RE0ffNAJsf1mkW/preview"
+          },
+          {
+            "fansub_id": 121,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hx35FfRWT8dzvf06b7NqDE6htGrWxnQo/preview"
+          },
+          {
+            "fansub_id": 121,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659325"
+          },
+          {
+            "fansub_id": 121,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ggv0xnaf"
+          },
+          {
+            "fansub_id": 121,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ljx9gju43dt1.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:07:46.941626"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 35678,

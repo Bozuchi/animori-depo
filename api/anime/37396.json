@@ -5,7 +5,45 @@
     "bolum_durumu": "1/3",
     "ozet": "Aşk acısı, kayıp ve umut konulu bu üç yeni hikâye, Çin'in üç farklı kentinde geçiyor ve uluslararası hit film Senin Adın'ı yaratan ekibin imzasını taşıyor.",
     "slug": "shikioriori",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shikioriori",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1UATLexaUr0CoFTrIVDomWEusZyr6FKUj/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271187905"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140719645"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/list/schneizel/video/embed/_myvideo/21"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/l00q1apj"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-h61wfbdcztsm.html"
+          }
+        ],
+        "added_date": "2026-07-29T08:59:31.435303"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37396,

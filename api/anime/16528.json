@@ -5,7 +5,65 @@
     "bolum_durumu": "1/1",
     "ozet": "Kurumi ve Hal’ın mutlu hayatları uçak kazası sonucunda bambaşka bir hale gelmiştir. Hal’ı kaybeden Karumi, beraberinde yaşama isteğini de kaybeder. Hal’ın yerine geçen robot Hal, O’nun tarafından kabul edilip Karumi’ye yaşama isteğini geri verebilecek midir?",
     "slug": "hal",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hal",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CqxEZqHNAM6JF7mIr9iWala7O8WCwyEp/preview"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852748"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/mugen38/36/746.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4444107"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2720309"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/79tdfsri"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hxdxz7h9utq7.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9kza36q1jqju.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1570235"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-eu32cdvy4ior.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:56:56.847557"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16528,

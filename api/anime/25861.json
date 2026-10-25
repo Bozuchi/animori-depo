@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Inugami-san to Nekoyama-san serisine ait Special bölümdür.",
     "slug": "inugami-san-to-nekoyama-san-nekoyama-san-to-onsen-ryokou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Inugami-san to Nekoyama-san Special: Nekoyama-san to Onsen Ryokou",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3794429"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3795006"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1990088"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zgtcxhib5rg4.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hc8lroxkmr6e.html"
+          }
+        ],
+        "added_date": "2026-07-26T05:38:46.698585"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 25861,

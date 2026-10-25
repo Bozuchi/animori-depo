@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Detective Conan serisinin 2. OVA'sıdır.",
     "slug": "detective-conan-ova-02-16-suspects",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Detective Conan OVA 02: 16 Suspects",
+        "videos": [
+          {
+            "fansub_id": 65,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zMwK1XWwAzvqWPyQO4VEDlyPbpQI6AEj/preview"
+          },
+          {
+            "fansub_id": 65,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/127RE7-c7IgDd5tSebKbTOPwHaTPckqoL/preview"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388378362"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4521881"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4252548"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-67pdhv79o1ek.html"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/00m5zbc7"
+          },
+          {
+            "fansub_id": 65,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lz9g0piyslzq.html"
+          }
+        ],
+        "added_date": "2026-07-24T20:57:26.827708"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2512,

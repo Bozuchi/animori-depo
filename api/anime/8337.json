@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikayemiz, Edo dönemi Tokyo’sunda, karanlık güçlerin şogunun gücünü zayıflatmaya çalıştığı çalkantılı yıllarında geçiyor. Shirou Sumiya, mücadelelerin kaosunu hızlı fırça darbeleriyle yakalayan “Kağıtta Çizim Usulü” klanının lideri. Sumiya, Edo’ya çağırılır, ve gizli çizim tekniklerinde olağanüstü güçleri olan öğrencileri ile birlikte devasa çizim yaratıklarıyla savaşın bir parçası olur.",
     "slug": "shoka",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shoka",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15cEtJ8sLix29DtjSCkUP4Oq39qPDak7w/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659070"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377058"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4456401"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-37iwnbwxe18q.html"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hpoylyec"
+          }
+        ],
+        "added_date": "2026-07-29T10:01:32.821351"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8337,

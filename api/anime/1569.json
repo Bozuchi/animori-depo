@@ -464,6 +464,48 @@
           }
         ],
         "added_date": "2026-07-29T00:35:17.158575"
+      },
+      {
+        "episode_number": null,
+        "title": "Otome wa Boku no Koishiteru OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HtFCCIq-EYu5nzMGuV1e4KeM7y4RPTbL/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667267"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682367870"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4657682"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7a0vi3t642yx.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-c3v6fmlxoyua.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-1u1jydstk05k.html"
+          }
+        ],
+        "added_date": "2026-07-29T00:35:17.158575"
       }
     ]
   },

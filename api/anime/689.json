@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Seriye ait special bölümdür.",
     "slug": "uta-kata-shotou-no-futanatsu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Uta Kata Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eUNlAphNMQ1AhWOqJF-uWVtu6X18yK15/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359653695"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/4997.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666145"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4040701"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1465295"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-fvhwovydayh4.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-vp4r667ut081.html"
+          }
+        ],
+        "added_date": "2026-07-29T20:01:42.180707"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 689,

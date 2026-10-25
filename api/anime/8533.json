@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Japonya'da geçen bu hikâyede, prenses ve sevgilisi takipçilerinden kaçmaktadır. Yakalanmalarına an kala ortak bir karar alıp birlikte intihar etmeye karar verirler. İkisi de aynı anda canlarını alacak iken olaylar farklı gelişir ve prenses lanetlenir.",
     "slug": "hana-no-kage",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hana No Kage Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DzjIC_azYCSDv0wAMV94QH5jU8lfVUOx/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366395"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4515535"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-crr6m006lap0.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/stazqo40"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-id7p4d0bm6z2.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bron5mu15kdv.html"
+          }
+        ],
+        "added_date": "2026-07-26T01:59:18.587487"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8533,

@@ -5,7 +5,40 @@
     "bolum_durumu": "1/8",
     "ozet": "Profesör Agasa kaçırıldı. Dedektif Çocuklar onu bulmak için evinde ve şehrin çeşitli yerlerinde bulunan ipuçlarını kullanmalıdır.",
     "slug": "detective-conan-ova-07-a-challenge-from-agasa-agasa-vs-conan-and-the-detective-boys",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Detective Conan OVA 7",
+        "videos": [
+          {
+            "fansub_id": 65,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_Xaza9cbXyg161TZ9SCQ5eOeSBh9uIRR/preview"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368296"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4515003"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3ema3nfij2fm.html"
+          },
+          {
+            "fansub_id": 65,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-v3tfeyrqdzgs.html"
+          }
+        ],
+        "added_date": "2026-07-24T20:57:41.940442"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2597,

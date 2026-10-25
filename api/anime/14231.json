@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Falcılar, Hidari Taisho'ya ülkeye hükmetmesi için 1000 tilki derisine sahip olması gerektiğini söylerler. Herkesin nefret ettiği Akuemon, tilkileri avlanması için kiralandı. Olayların gelişmesiyle, buna karşılık Tilki Akuemon'un eşinin kılığına girer ve Akuemon ile birlikte yaşamaya başlar. Hiçkimsenin sevmediği Akuemon ile gerçek aşkı bulan dişi tilkinin arasında yaşanıyor bu hikaye.",
     "slug": "akuemon",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Akuemon",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15HbgQbpPLMP6y7ksCKJMzIWi9-XHQzKT/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1639708"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4090146"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4507049"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hw2878vhhzbv.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4mvwju14l2bb.html"
+          }
+        ],
+        "added_date": "2026-07-20T06:19:33.126662"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 14231,

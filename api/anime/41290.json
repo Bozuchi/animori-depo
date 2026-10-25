@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Manganın yedinci cildinde bulunan \"Don't Stay Gold\" adlı kısa öykünün anime uyarlamasıdır.",
     "slug": "saezuru-tori-wa-habatakanai-don-t-stay-gold",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Saezuru Tori wa Habatakanai: Don't Stay Gold",
+        "videos": [
+          {
+            "fansub_id": 85,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qm8Zzpn6KnYraO7GGw3gVqLkhxxmNZD8/preview"
+          },
+          {
+            "fansub_id": 85,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656435"
+          },
+          {
+            "fansub_id": 85,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4441725"
+          },
+          {
+            "fansub_id": 85,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ns7lamw5pmuj.html"
+          },
+          {
+            "fansub_id": 85,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-w44g5npipvhy.html"
+          }
+        ],
+        "added_date": "2026-07-29T05:30:49.028275"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 41290,

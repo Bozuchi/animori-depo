@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Excalibur Mucizesi, anime ve manga Detective Conan'ın on ikinci OVA'sıdır. Konu Gosho Aoyama'nın kısa öyküsü \"Excalibur\" u temel alıyor.",
     "slug": "detective-conan-ova-12-the-miracle-of-excalibur",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Detective Conan OVA 12",
+        "videos": [
+          {
+            "fansub_id": 65,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4531988"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0a74ckaqb7ba.html"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jz8knd3nn2eu.html"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-st7aiwmiaz83.html"
+          },
+          {
+            "fansub_id": 65,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-gqolk2ppxiyq.html"
+          }
+        ],
+        "added_date": "2026-07-24T20:57:58.734323"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13839,

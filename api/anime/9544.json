@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Capcom serinin oyunlarına daha uygun olan CGI filmlerle karşımıza çıkmaya devam ediyor. Son olarak 2008 yılında Resident Evil: Degeneration ile karşılaşmış ve ikinci oyun sonrasında Leon ile Claire'i tekrar bir arada izlemiştik. Capcom bugün yaptığı açıklama ile yeni bir CGI film projesini daha duyurdu. Degeneration'dan sonraki konuları anlatacak olan filmin adı ise Resident Evil: Damnation olacak. 2012 yılında Japonya'da çıkacak olan filmde gene Leon S. Kennedy'i ana karakter olarak göreceğiz. TGS 2010'da yeni bilgilerine kavuşmayı umduğumuz film ayrıca 3D olarak çıkacak.",
     "slug": "biohazard-damnation",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Biohazard: Damnation Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1vcCUxKjzX0UDtdbYU3sP1Zct3NJ5c9K4/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359654411"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4533431"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/z7t4aer3"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bj5naaed4142.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-m1elw93e0kqi.html"
+          }
+        ],
+        "added_date": "2026-07-23T04:50:56.510106"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9544,

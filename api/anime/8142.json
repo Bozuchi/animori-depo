@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "* Mori Eto'nun aynı isimli gençlere yönelik romanından uyarlanmış olup 1999'da Sankei Genclik Yayımları Kültürel Ödülü'nü kazanmıştır.\n\nİçindeki ağır kasvetli ortamla Ecel Treni son istasyona yaklaşmaktadır ancak bu kederli ruhlardan birine seçilmiş olduğu ve tekrar hayata dönme şansı elde ettiği söylenir. Henüz intihara teşebbüs etmiş bir çocuk olan 14 yaşındaki Kobayashi Makoto'nun bedenine yerleştirilecektir. Bu talihli ruh, denetmeni Purapura'nın gözetimi altında eski hayatında yaptığı hataları ve kötülükleri keşfetmelidir. Lakin Makoto'nun bedenindeki vakti sınırlıdır. Ayrıca Makoto'nun neden intihara kalkıştığı ve yakaladığı bu ikinci fırsatta hayattan nasıl zevk alması gerektiğini öğrenmesi gibi görevler de verilmiştir.",
     "slug": "colorful-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Colorful (Movie)",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lx5aVUnX-cuXsSWeF2shRtgTrAm8IOVp/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/82.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016418"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-y9hhayawct4g.html"
+          }
+        ],
+        "added_date": "2026-07-23T16:23:57.080135"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8142,

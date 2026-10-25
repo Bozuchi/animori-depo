@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "1945 yılında Strike Witches'in son görevinde büyü gücünü kaybeden Yoshika Miyafuji doktorluk eğitimi aldığı sıralarda İmparatorluk Fuso Donanması'ndaki subay öğrencilerinden biri olan Shizuka Hattori kendisine bir mesaj iletir: Yoshika yurt dışında eğitim almak üzere Avrupa'ya gönderilecektir.",
     "slug": "strike-witches-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Strike Witches Movie",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Bu2SZvmKprIUHJkKk3OkDd4kktUXt1Wt/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658300"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzlesubs/_myvideo/22.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271192113"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/eq4qdp01"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-aqt22pnj0sk1.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:19:54.486128"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9751,

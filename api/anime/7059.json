@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Serinin OVA bölümüdür.",
     "slug": "black-rock-shooter-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Black Rock Shooter OVA",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TSA5j0r-ayNX2-63dv1AsGFmEyHewYcA/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ZaCriVnYFE3v1Dp2A7DIDNnDNmpvM4mU/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909144"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4517735"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1135935"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-n33x6zy876m2.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-x6ml165wtyvx.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-94gbntgt5g7r.html"
+          }
+        ],
+        "added_date": "2026-07-23T05:19:18.389037"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 7059,

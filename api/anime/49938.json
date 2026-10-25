@@ -5,7 +5,65 @@
     "bolum_durumu": "1/1",
     "ozet": "Talihsiz bir yaz günü bir grup ilkokul çocuğu terk edilmiş bir apartmanla denizde sürüklenmeye başlar. Eve dönüş yolunu bulmak için kendi içlerine dönmeleri gerekecektir.",
     "slug": "ame-wo-tsugeru-hyouryuu-danchi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ame wo Tsugeru Hyouryuu Danchi Movie",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DWTxewF96hbAuS0wbl_rpTOD4MZW7E3x/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461601530"
+          },
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4875623"
+          },
+          {
+            "fansub_id": 12,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/r221ag6t5wo0"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dmgsohsqaepb.html"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-i1f0y8odyxd8.html"
+          },
+          {
+            "fansub_id": 67,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bVv5S6BK5kAXBuceyvrnYfubLKZ_jjDK/preview"
+          },
+          {
+            "fansub_id": 67,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368910"
+          },
+          {
+            "fansub_id": 67,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/ylwote5ftpsr"
+          },
+          {
+            "fansub_id": 67,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-g3hs9m1tydkp.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:30:00.586812"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 49938,

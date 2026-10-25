@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Aria serisinin Ova bölümüdür.",
     "slug": "aria-the-ova-arietta",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Aria the OVA: Arietta",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10WHP85Hs6zv-zzmHKNuyJQjWQX_Yz8HH/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3860412"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4504388"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-9nzmgu5e65rn.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dh8y1csn8u7c.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/kbczb63d"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-61cfa8jf193o.html"
+          }
+        ],
+        "added_date": "2026-07-23T02:39:59.207971"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2563,

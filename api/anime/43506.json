@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Alice Gear Aegis oyununun ilk OVA'sı.\nSahilde bir yarışma hikayesi...",
     "slug": "alice-gear-aegis-doki-actress-darake-no-mermaid-grand-prix",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix OVA",
+        "videos": [
+          {
+            "fansub_id": 94,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369597"
+          },
+          {
+            "fansub_id": 94,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/tkjdbvf4z2gu"
+          }
+        ],
+        "added_date": "2026-07-20T06:25:16.196271"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 43506,

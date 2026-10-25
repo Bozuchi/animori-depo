@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "School Days serisine ait OVA bölümdür.",
     "slug": "school-days-valentine-days",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "School Days OVA: Valentine Days",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KqDmef7G05NMsQ8F1YVkisaxpM48wRSc/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851586"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439899"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fznx9olfdm8u.html"
+          }
+        ],
+        "added_date": "2026-07-29T06:56:03.073592"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3759,

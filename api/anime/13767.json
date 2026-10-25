@@ -5,7 +5,45 @@
     "bolum_durumu": "1/2",
     "ozet": "Junjou Romantica Serisinin OVA Bölümleridir.",
     "slug": "junjou-romantica-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Junjou Romantica OVA",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3794960"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3795950"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-p1b7gdafogkj.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-y7jvflhe9y6s.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pkj1jhh3"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/gq6kjz8u"
+          }
+        ],
+        "added_date": "2026-07-26T22:06:17.583362"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13767,

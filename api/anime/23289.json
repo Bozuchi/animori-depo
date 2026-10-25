@@ -858,6 +858,68 @@
           }
         },
         "added_date": "2026-07-25T22:49:36.166377"
+      },
+      {
+        "episode_number": null,
+        "title": "Gekkan Shoujo Nozaki-kun 9",
+        "videos": [
+          {
+            "fansub_id": 203,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17o6SeJbcyF6A82vArIx4PxAzoBXxma8J/preview"
+          },
+          {
+            "fansub_id": 203,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5953677"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1kHzPS4CK-sFVBytLOCSj3mvJeXFOOUKi/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685360916"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/inbox/nouens/_myvideo/64.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4509277"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2x1p7lwmgwi3.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-dhla3dt8rs7j.html"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/857"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4393534"
+          },
+          {
+            "fansub_id": 39,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-pd2j9k7npzue.html"
+          }
+        ],
+        "added_date": "2026-07-25T22:49:36.166377"
       }
     ]
   },

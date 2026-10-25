@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Noel Baba şirketinin bir stajyeri olan Noel White, resmi bir tonttu olabilmek için sınavına hazırlanır. Onun görevi \"Bir Noel Baba için en önemli şey\"i bulmaktır.\n\nSon teslim tarihinin bitmesine çok az kala bir çocuktan gelen mektup şirkete geç gelir. Bu mektup elden çıkarılmak üzereyken Noel ve arkadaşları o hediyeyi teslim etmek için maceraya doğru yola çıkarlar. Fakat Noel, görevi için aradığı cevabı bulabilecek midir?",
     "slug": "santa-company",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Santa Company",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361670"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1732380"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4091968"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qz2hs98c6s5s.html"
+          }
+        ],
+        "added_date": "2026-07-29T06:39:45.539916"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16381,

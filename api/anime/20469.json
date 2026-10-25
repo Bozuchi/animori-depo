@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "II. Dünya savaşı'nda Okinawa'da Himeyuri adındaki bir kız okulunun öğrencilerinin savaşa katılmasını anlatan Himeyuri'nin anısına yapılmış bir kısa film. Hikaye olayı bizzat yaşamış bir kişiden alınmıştır.",
     "slug": "himeyuri",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Himeyuri",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/srht.karacam/video/embed/_myvideo/507"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685361946"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2836802"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4099751"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-7d5t3vohvjzd.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:43:24.612369"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 20469,

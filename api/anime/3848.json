@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "One Piece serisinin 9. filmidir. Serideki Drum Island hikâyesinin olduğu bölümlerin özetidir.",
     "slug": "one-piece-movie-9-episode-of-chopper-plus-fuyu-ni-saku-kiseki-no-sakura",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rqH7iwct8lQzjPASz5CtL1YP0RNaMOOD/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1wSGT1uQ2FC1pWwuqcXEe6u4sV3Ed0L0R/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/o5bzam9r"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-nk7wizehimx1.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4skcgc5ud7qn.html"
+          }
+        ],
+        "added_date": "2026-07-27T20:55:25.695015"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3848,

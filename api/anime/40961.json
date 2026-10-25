@@ -540,6 +540,48 @@
           }
         },
         "added_date": "2026-07-26T04:19:07.363607"
+      },
+      {
+        "episode_number": null,
+        "title": "Hortensia Saga 10",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4394516"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-f459iihly2q6.html"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wzonritwxtpk.html"
+          },
+          {
+            "fansub_id": 29,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359668383"
+          },
+          {
+            "fansub_id": 29,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4765381"
+          },
+          {
+            "fansub_id": 29,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/b265rqsk"
+          },
+          {
+            "fansub_id": 29,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-y1ey53gz0ike.html"
+          }
+        ],
+        "added_date": "2026-07-26T04:19:07.363607"
       }
     ]
   },

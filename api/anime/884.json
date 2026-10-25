@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Uzun zaman önce Jushin isimli bir şehirde Kralın elçisi olarak gizliden seyahat edip, insanları şeytani yönetimlere karşı koruyan \"Angyo Onshi\" isimli ajanlar vardı. Şimdi ise sadece tek bir tane kalmıştır. Bir kişi gerçekten dünyada ki tüm kötülükleri yenebilecek güçte olabilir mi?\n\nKarışıklığın ortasında ki bir kasabada bir yabancı dolanmaktadır. Hiç kimsenin tanımadığı bu yabancı bir Angyo Onshi olabilir mi? Yoksa gerçekler aslında bildiklerinden farklı mıdır?",
     "slug": "shin-angyo-onshi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shin Angyo Onshi",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Wm0VdQofRoCBHAABZTc6B57SYE_G5JAc/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985848348"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015500"
+          }
+        ],
+        "added_date": "2026-07-29T09:01:30.705680"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 884,

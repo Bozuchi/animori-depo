@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Saihate no Paladin animesinin 7,5. bölümüdür.",
     "slug": "saihate-no-paladin-michiyuki",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Saihate no Paladin 7.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 69,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rzFE9jFj2-aEXIof9mhSOguKQSzGg-5j/preview"
+          },
+          {
+            "fansub_id": 69,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16DH6w5T_H-DGnY1aTwyRb1yUPi7XcW42/preview"
+          },
+          {
+            "fansub_id": 69,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4526618"
+          },
+          {
+            "fansub_id": 69,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/lrxkxp3v"
+          },
+          {
+            "fansub_id": 69,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rqtytt6acich.html"
+          }
+        ],
+        "added_date": "2026-07-29T05:32:24.266441"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 50474,

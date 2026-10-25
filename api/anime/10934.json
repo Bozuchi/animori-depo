@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Itsuka Tenma no Kuro Usagi serisinin OVA bölümüdür.",
     "slug": "itsuka-tenma-no-kuro-usagi-kokoro-utsuri-no-toukoubi-school-attendance-day",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Itsuka Tenma no Kuro Usagi OVA",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667967"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/8336.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762235"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-amlgb12ujnmt.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1NaxxYCW_Ru5zhCItZR9USU6T8JxIkvH4/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015962"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3138321"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-xecoula0adz4.html"
+          }
+        ],
+        "added_date": "2026-07-26T06:24:29.757231"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10934,

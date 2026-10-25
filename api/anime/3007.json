@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Kouji Nanjou'nun müzik videolarının yer aldığı bu 30 dakikalık bölümde, İzumi ve Kouji'nin daha önce yayımlanmamış sahneleri ile Minami Ozaki'nin resim galerisini görüyoruz.",
     "slug": "bronze-kouji-nanjo-cathexis",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Bronze: Kouji Nanjo Cathexis",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Wt1tCJAoVIzh2fYhc9MQ1pk7mVoQde3Z/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/enes.mert.97/video/embed/_myvideo/1195"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zflkgtxe8f2j.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:03:00.468001"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3007,

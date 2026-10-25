@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Hiiro no Kakera serisine ait OVA bölümdür.",
     "slug": "hiiro-no-kakera-totsugeki-tonari-no-ikemenzu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hiiro no Kakera OVA: Totsugeki! Tonari no Ikemenzu",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BLZfFbb1T99LxBK0XGmAU8_uv3fXpoDA/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7852876293715527095"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4499865"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1221566"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-av2u7mqthd8e.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/45p596wb"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1405iicq"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-acq70s9931w2.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:33:31.672149"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16928,

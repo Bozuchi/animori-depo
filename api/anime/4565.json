@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "İlk filmi takip ederek TV serisinin ikinci yarısını yeni görseller ve bazı eklenen sahnelerle yeniden anlatan bir filmdir.",
     "slug": "tengen-toppa-gurren-lagann-movie-2-lagann-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tengen Toppa Gurren-Lagann Movie 2 Final",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1E4vxIBQ3Rp8G1GNlSx1Mhx1HJcEdYYxq/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BUsfIS222CppZEHjES9BdL0DdkqqkQrQ/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931909850"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4527617"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1945453"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-42x8wvgp087m.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:42:07.659755"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4565,

@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Hibike! Euphonium serisine ait Special bölümdür.",
     "slug": "hibike-euphonium-kakedasu-monaka",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hibike! Euphonium Special",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QNMYhtP2D6i6t1MDQS8kh9xCNUkJfAtu/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/feeling7d/_myvideo/327.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271189173"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2552581"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4511901"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-c3a2vc5rzwpx.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-l04r3gii4tqm.html"
+          }
+        ],
+        "added_date": "2026-07-26T03:07:49.826698"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31665,

@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Shingeki no Kyojin TV serisinin ilk 14-25 bölümünü konu alan Movie'sidir.",
     "slug": "shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ooL_0ZJCmzamKL2Nc1MS_jH1zD9eA9kF/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1odEJPM51JGW0louor-yTP-XVMLkgC9e1/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YOkQL8alHWm4O8yGjY9CbmKmzqD8h3es/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1mvZKJ2wqeEJ4BlI-z0P2ZD_DehvTZ2IF/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359662111"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359658320"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-dcb808nm11b0.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-i5apsiacfw4l.html"
+          }
+        ],
+        "added_date": "2026-07-29T09:18:54.165859"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 23777,

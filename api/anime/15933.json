@@ -5,7 +5,70 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikayenin kahramanı, şiddet ile ilişkili gizli görevleri gerçekleştiren Vatikan'da görevli Charlie adında vampir cyborg ve yerel vampir playboy Johnny Rayflo. Bazen omuz omuza, bazen birbirlerine karşı, Çoğu zaman bu ikili birbiri ile mücadele etmek zorundadır.",
     "slug": "vassalord",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Vassalord.",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/4557.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3799514"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-i7udesk6ykt5.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/nush6a09"
+          },
+          {
+            "fansub_id": 240,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/143pXXHfOFIDY_h76rYrnuX9VSEG1SF6b/preview"
+          },
+          {
+            "fansub_id": 240,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7725655522707244996"
+          },
+          {
+            "fansub_id": 240,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-llbiv3l1t2od.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/muobaba/video/embed/_myvideo/66"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1327312"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2839503"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8dk5v69q"
+          }
+        ],
+        "added_date": "2026-07-30T15:10:38.219189"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 15933,

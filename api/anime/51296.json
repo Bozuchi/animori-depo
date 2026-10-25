@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Tokyo 24-ku animesinin 9,5. bölümüdür.",
     "slug": "tokyo-24-ku-reversal-film",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tokyo 24-ku 9,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 138,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1FbRMxnMSR4Gqj9OiX6rCyowiU0b7xDwk/preview"
+          },
+          {
+            "fansub_id": 138,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7963591221937438808"
+          },
+          {
+            "fansub_id": 138,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4682158"
+          },
+          {
+            "fansub_id": 138,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/v2zuay6n"
+          },
+          {
+            "fansub_id": 138,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wovtc6nf3bua.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:05:31.696216"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 51296,

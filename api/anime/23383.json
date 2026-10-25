@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "D-Frag serisine ait OVA bölümdür.",
     "slug": "d-frag-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "D-Frag! OVA",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YSe5XCqww9EgLnxRRPKKApfLwiMEanNb/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/amelebeyfendi1/_myvideo/17.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017305"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/kkfgob8p"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hfktzewqnvt0.html"
+          }
+        ],
+        "added_date": "2026-07-24T09:37:45.494440"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 23383,

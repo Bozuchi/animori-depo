@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Seriye ait special bölümdür.",
     "slug": "ano-natsu-de-matteru-bokutachi-wa-koukou-saigo-no-natsu-wo-sugoshinagara-ano-natsu-de-matteiru",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ano Natsu de Matteru OVA",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uPqwT7k8ejXhAP-ikhWgT7F-yE6-0SSh/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5017021353669165232"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7852876293715527897"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1544464"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0syaylh3ncwu.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/p8ow7e2b"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vgdwequv"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3w68igqzop87.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:50:28.250901"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 23447,

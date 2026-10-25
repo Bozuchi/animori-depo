@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Üniversiteye giriş töreni sırasında, Ushino Hayama adında genç bir çocuk, Sara'yı on yıl önce tanıştığı bir kızla bulur. Bu günden itibaren kendisinde bir değişim meydana geldi ve artık bir miktar suyu kontrol edebildiğini fark ediyor. Yüzme şampiyonasını kazandıktan sonra derin deniz dalışını keşfeder.",
     "slug": "b-b-fish",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "B.B. Fish OVA",
+        "videos": [
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TmG87x9Cz8-rnT2BqEFAPC8FKOFR7hYl/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368055"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4395990"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4396067"
+          },
+          {
+            "fansub_id": 113,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1gpa15du8gim.html"
+          }
+        ],
+        "added_date": "2026-07-23T03:24:32.366011"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5904,

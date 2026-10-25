@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Her iki anime sezonunun yeniden kurgulanmış hâli olan bu yapım, seriye yeni eklenen sahneleri barındırmakla kalmayıp televizyon dizisinde yaşanan olayların ardından Ichikawa ve Yamada'nın hikayesinin nasıl devam ettiğini de gözler önüne seriyor.",
     "slug": "boku-no-kokoro-no-yabai-yatsu-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Boku no Kokoro no Yabai Yatsu Movie",
+        "videos": [
+          {
+            "fansub_id": 1,
+            "player": "FILEMOON",
+            "url": "https://bysesukior.com/e/u99x1z23d1rf"
+          },
+          {
+            "fansub_id": 1,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-lyndr02u1ksy.html"
+          }
+        ],
+        "added_date": "2026-07-23T06:26:32.858389"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 59985,

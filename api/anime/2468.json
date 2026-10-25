@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "19 yaşındaki Kubota bir kız arkadaş bulmaya hazırdır. Kusursuz şans, bir kulüpte ilk aşkı Masana Fujisaka ile tanıştığında ortaya çıkar. Uzun zamandır birlikte olduğu erkek arkadaşından yeni ayrıldı ve mükemmel fırsatın ortaya çıktığını gören Kubota ile karşılaştığına şaşırdı.",
     "slug": "nineteen-19",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Nineteen 19 OVA",
+        "videos": [
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1FMS9WWVYBUcKpD4ROwkGsBI7BmvXlT02/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682368056"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4396070"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4395991"
+          },
+          {
+            "fansub_id": 113,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tmm2bmkbstom.html"
+          }
+        ],
+        "added_date": "2026-07-27T16:15:17.434683"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2468,

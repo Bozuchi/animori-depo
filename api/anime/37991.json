@@ -2225,6 +2225,58 @@
           }
         },
         "added_date": "2026-07-26T07:02:25.189596"
+      },
+      {
+        "episode_number": null,
+        "title": "JoJo no Kimyou na Bouken: Ougon no Kaze 22.. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4397127"
+          },
+          {
+            "fansub_id": 12,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-4makgp69wugs.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4250105"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qvewvcid"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/zdf2z9xw"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4014341"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ekmie6p9cel6.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vhxxo0se"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/fpujxz5k"
+          }
+        ],
+        "added_date": "2026-07-26T07:02:25.189596"
       }
     ]
   },

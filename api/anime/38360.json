@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Drifters animesinin 15. bölümü olarak geçen OVA bölümüdür.",
     "slug": "drifters-the-outlandish-knight",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Drifters: The Outlandish Knight OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1y63z8B51jcXhb9ITAlCvtBc89FtquY0F/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659189"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359651997"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4456818"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0x9byc124ono.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/14xmoeuk"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/tv0s1cjj"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-d975s5n63mty.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:30:25.124377"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 38360,

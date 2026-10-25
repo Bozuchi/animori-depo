@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Kannagi serisine ait özel Ova bölümüdür.",
     "slug": "kannagi-moshimo-kannagi-ga-attara",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kannagi: Moshimo Kannagi ga Attara Ova",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ilM-2GcvjgXIPa736CCyCLj5nhshm2Go/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/783"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666162"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4385299"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-5y2ciif81s4l.html"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5rqpebbzzdk3.html"
+          }
+        ],
+        "added_date": "2026-07-26T23:51:21.719169"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5978,

@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Digimon Frontier serisinin filmidir.",
     "slug": "digimon-frontier-ornismon-fukkatsu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Digimon Frontier: Ornismon Fukkatsu",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/13Yhpl9UCCylvLxRsKJH64RmSk7_5MxUb/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852767"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846760"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4444159"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4071868"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-i47nwgd4ukde.html"
+          }
+        ],
+        "added_date": "2026-07-24T21:32:47.194025"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3031,

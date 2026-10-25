@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "\"Tales\" RPG serilerinden uyarlanan anime yapımlarının devamıdır.",
     "slug": "tales-of-vesperia-the-first-strike",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tales of Vesperia ~The First Strike~",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VgyaHJ5PzqxAX6w-33PsR6NM9m_wH9fC/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/628.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1615"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015569"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/orsqyds6"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xu3x07n9w5xt.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:00:52.347920"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6046,

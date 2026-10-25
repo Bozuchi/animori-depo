@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Dünya yok oluyor, güçlü olanlar hayatta kalıyor.\nOkulların yeni projesi \"Zaman Yolculuğu\" seçilmiş öğrencilerin ders aldığı bu konu, 4 genç kızı ele alıyor. Yaşayacakları geleceği öğrenmek ve gelecek olan tehlikelerden korunmak için yola çıkan kızlar tuhaf aynı zamanda benzerlik gösteren günler geçirecek. \"Geleceği değiştirmek için geçmişi kurcalamak gerektiğini düşünüyoruz\" Bu onların gizemli yolculuğu olacak.",
     "slug": "arata-naru-sekai-world-s-start-load-end",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Arata naru Sekai: Mirai-hen Ova",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-JlCaXBOv6jjSVB6Mx3xfR51V-Z-DGPt/preview"
+          },
+          {
+            "fansub_id": 78,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016699"
+          },
+          {
+            "fansub_id": 78,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/muobaba/video/embed/_myvideo/102"
+          },
+          {
+            "fansub_id": 78,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2842610"
+          },
+          {
+            "fansub_id": 78,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3eae7qit"
+          }
+        ],
+        "added_date": "2026-07-23T02:30:00.766226"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 14373,

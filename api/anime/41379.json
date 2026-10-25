@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Mio'nun, çocukluk arkadaşı Arata'ya karşı hisleri vardır ama ona söylememiştir. Bir gün saçma bir şey yüzünden tartışırlar. Gerginlik yatıştıktan sonra Mio sağanak yağmur altında ondan özür dilemeye gider. Ama yoldayken bir trafik kazası geçirir. Bilinci yerine geldiğinde ise kendini yabancı ve gizemli bir dünyada bulur.",
     "slug": "kimi-wa-kanata",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kimi wa Kanata Movie",
+        "videos": [
+          {
+            "fansub_id": 100,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/147-0xodw7dy8t6g6VDNDsLLMEMkJj_rz/preview"
+          },
+          {
+            "fansub_id": 100,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7801974450152276034"
+          },
+          {
+            "fansub_id": 100,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bjk66b7xcthp.html"
+          }
+        ],
+        "added_date": "2026-07-27T03:34:45.156320"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 41379,

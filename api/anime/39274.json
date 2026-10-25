@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Babasının izinden giden Luca, annesini hain Ladja'dan kurtarmaya çalışır. Bunun için tek umudu, Zenith kılıcını kullanabilen ilahi kahramanı bulmaktır.",
     "slug": "dragon-quest-your-story",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Dragon Quest: Your Story Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1epH_lyhCAlrwBaGnfTvCvsPvjLhO_Kk6/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850611"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3849788"
+          }
+        ],
+        "added_date": "2026-07-24T23:23:29.260483"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39274,

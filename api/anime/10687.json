@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Güncellenecektir.",
     "slug": "saint-seiya-legend-of-sanctuary",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Saint Seiya: Legend of Sanctuary",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hU-ckBeH6muURkZszM33J8I4UGUmE3eW/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850030"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847360"
+          }
+        ],
+        "added_date": "2026-07-29T05:59:56.616661"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10687,

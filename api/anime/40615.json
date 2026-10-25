@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "İki delikanlı, Okinawa'nın kıyılarındaki bir adadanın sahilinde tanışırlar. Hashimoto Shun yazar olmak isteyen eşcinsel bir adamdır. Lise öğrencisi Chibana Mio'ya ilgi duymaktadır ve onunla flörtleşmeye başlar. İkili günden güne yakınlaşır ama Mio adadan ayrılarak bir yetimhaneye gider. Üç yıl sora Mio adaya döner ve Shun'a şu sözleri sarf eder \"Üç yıl boyunca çok düşündüm. Sen erkek olmana rağmen senden hoşlanıyorum.\" Ancak Mio ile sevgili olan Shun, bir sonraki adımı atmaya çekinmektedir.",
     "slug": "umibe-no-etranger",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Umibe no Étranger Film",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461599218"
+          },
+          {
+            "fansub_id": 29,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7395618278493651112"
+          }
+        ],
+        "added_date": "2026-07-29T19:27:17.268782"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40615,

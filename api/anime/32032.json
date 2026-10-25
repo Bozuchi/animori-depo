@@ -716,6 +716,43 @@
           }
         ],
         "added_date": "2026-07-29T07:09:49.290689"
+      },
+      {
+        "episode_number": null,
+        "title": "Seikaisuru Kado 6.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1o_XNJlXnq09-WIVQRSH8RmcNnbqNhhHg/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5017021353669166612"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/jansethatkue/video/embed/_myvideo/248"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2938625"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-im5ktka7oyeq.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-x8q2fxlyxr89.html"
+          }
+        ],
+        "added_date": "2026-07-29T07:09:49.290689"
       }
     ]
   },

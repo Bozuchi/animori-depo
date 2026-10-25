@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Şehirden iki beyefendi ava çıkar. Dağ yolunda kaybolduktan sonra ucuz bir restoran bulurlar. Ama her şey göründüğü gibi değildir.",
     "slug": "chuumon-no-ooi-ryouriten-1993",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Chuumon no Ooi Ryouriten (1993)",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1yiupzQ9WyXqGBge1EmVBMmRVcx2RAswg/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271191968"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4500025"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8pd5oilu"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ukfq3dk6"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-boutgezqm9ce.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:55:32.619697"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30967,

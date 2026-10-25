@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Eikoku Koi Monogatari Emma: Intermission'ın ilk sezonunun özeti ve ikinci sezon olan Eikoku Koi Monogatari Emma: Molders Hen'in önizlemesi niteliğinde olan special bölümdür.",
     "slug": "eikoku-koi-monogatari-emma-intermission",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Emma: A Victorian Romance Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1a8zrw-dcX0QcpF3umaEWErRSxSwDp_B9/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985849045"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1878/1891.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4425059"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-snaavoux1s6b.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:58:18.545664"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2517,

@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Seriye ait OVA bölümdür.",
     "slug": "ultra-maniac-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ultra Maniac OVA",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1k41jfXzWWrBSAHlCdFtZR1pzDyn-61aG/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015669"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1767959"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u3nftvphwci7.html"
+          }
+        ],
+        "added_date": "2026-07-29T19:21:18.642944"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 179,

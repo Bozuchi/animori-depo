@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Shiny Chariot adlı bir büyücüden ilham alarak ve etkilenerek Akko Kagari adlı kahramanımız \"Küçük Cadı Akademisi\" 'ne girer. Amacı Shiny Chariot gibi havalı ve iyi bir büyücü olmaktır.",
     "slug": "little-witch-academia",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Little Witch Academia Ova",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zsuRdXuYDEV3lEO0Sij49-yttJX0M1QY/preview"
+          },
+          {
+            "fansub_id": 45,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/adonisfansub/_myvideo/420.html"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4505342"
+          },
+          {
+            "fansub_id": 45,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jpsljvou"
+          },
+          {
+            "fansub_id": 45,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-mf4ghjrmqfj8.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/8009.html"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2175893"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2235947"
+          }
+        ],
+        "added_date": "2026-07-27T08:19:58.285420"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 14349,

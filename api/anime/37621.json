@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Karakai Jouzu no Takagi-san serisinin OVA bölümüdür.",
     "slug": "karakai-jouzu-no-takagi-san-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Karakai Jouzu no Takagi-san OVA",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15f6XsMPkzY29GRRH4-AX1pppbl8wp6LS/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1FmHjeE2XqWgdgRxFa1ddWXVybnE2cokY/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140719670"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4486629"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3400621"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3nm5d6sw1o3k.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hwh0p8bg"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/i90l4jce"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-75mc5uyxuxtw.html"
+          }
+        ],
+        "added_date": "2026-07-27T00:18:46.241142"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37621,

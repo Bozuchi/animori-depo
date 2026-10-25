@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Hasır Şapkalar ve ŞP9 arasındaki savaş geçmişini anlatan Çokbilmiş öyküsünün ikinci özel özet bölümüdür.",
     "slug": "one-piece-innen-no-log-mugiwara-no-ichimi-to-cipher-pol",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece 1100,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1zSFd7RsXh9hbiBAJ0LCay1dfAbVaJk-e/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5504463"
+          },
+          {
+            "fansub_id": 115,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5ur5d1e8"
+          }
+        ],
+        "added_date": "2026-07-27T20:57:58.004268"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 58663,

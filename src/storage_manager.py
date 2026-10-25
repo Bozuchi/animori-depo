@@ -332,11 +332,10 @@ class StorageManager:
 
         for ep in legacy_eps or []:
             num = ep.get("episode_number")
-            if num is None:
-                # Numarasız/çöp kayıtlar taşınmaz
-                continue
 
             # ── Türkanime tarafı: gerçek Türkanime verisi olan kayıtlar ──
+            # Film/OVA gibi tek bölümlük yapıtlarda episode_number null olabilir;
+            # bu kayıtlar video linklerini taşıdığı için korunur.
             tk_title = ep.get("turkanime_title")
             placeholder_title = f"{num}. Bölüm"
             has_tk_data = (
@@ -347,7 +346,7 @@ class StorageManager:
             if has_tk_data:
                 tk_ep = {
                     "episode_number": num,
-                    "title": tk_title or ep.get("title") or placeholder_title,
+                    "title": tk_title or ep.get("title") or (placeholder_title if num is not None else None),
                     "videos": ep.get("videos") or [],
                 }
                 if ep.get("skip_times"):
@@ -356,7 +355,10 @@ class StorageManager:
                     tk_ep["added_date"] = ep["added_date"]
                 turkanime_eps.append(tk_ep)
 
-            # ── MAL tarafı: MAL'den gelmiş alanı olan kayıtlar ──
+            # ── MAL tarafı: sadece numaralı bölümler ──
+            if num is None:
+                continue
+
             has_mal_data = (
                 ep.get("jikan_mal_id") is not None
                 or bool(ep.get("aired"))
@@ -425,6 +427,8 @@ class StorageManager:
 
         old_jikan_nums = {e.get("episode_number") for e in old_jikan_eps if e.get("episode_number") is not None}
         old_tk_by_num = {e.get("episode_number"): e for e in old_turkanime_eps if e.get("episode_number") is not None}
+        # Film/OVA gibi episode_number'ı olmayan Türkanime kayıtları aynen korunur
+        old_tk_unnumbered = [e for e in old_turkanime_eps if e.get("episode_number") is None]
 
         new_added_count = 0
 
@@ -444,7 +448,7 @@ class StorageManager:
 
         # ── Türkanime bölümleri: mevcut kayıtlar aynen korunur ──
         # (MAL'de olup Türkanime'de karşılığı olmayanlar buraya eklenmez)
-        turkanime_eps = [old_tk_by_num[num] for num in sorted(old_tk_by_num)]
+        turkanime_eps = [old_tk_by_num[num] for num in sorted(old_tk_by_num)] + old_tk_unnumbered
 
         jikan["episode_list"] = jikan_episode_list
         turkanime["episodes"] = turkanime_eps

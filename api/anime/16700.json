@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Ünlü Higurashi No Naku Koro Ni animesinin 55 dakikalık filmidir. \n\n<b>DİKKAT:</b>\n\n Animenin bütün bölümlerini izlemeden bu filmin izlenmemesi önerilir",
     "slug": "higurashi-no-naku-koro-ni-kaku-outbreak",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Higurashi no Naku Koro ni Kaku : Outbreak",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1m3DP3In1SK38RljK5375hWFuZc2Gj-22/preview"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852703"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4443949"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1835709"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u1f76xo2f4lb.html"
+          },
+          {
+            "fansub_id": 62,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hojzdd6ag1m4.html"
+          },
+          {
+            "fansub_id": 137,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1716841"
+          }
+        ],
+        "added_date": "2026-07-26T03:30:47.985963"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16700,

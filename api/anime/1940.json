@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Bilinmeyen yabancı güçler tarafından Dünya'nın şiddetli bir istilasının ortasında, foto muhabiri Wakatsuki Tetsuya, kılıcıyla Terran saflarında bir katliama sebep olan, yarı giyinik uzaylı bir kadınla karşılaşır. Kaotik bir mücadelenin ardından Tetsuya bir yıldız gemisinde uyanmak üzere bayılır. Onun şaşkınlığına, O işgalcilerin prensesi Kahm'dır- ve yaklaşan düğününde başrol olarak Tetsuya'yı seçti. Damadı olarak...",
     "slug": "outlanders",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Outlanders OVA",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tJlJNSEuYMRWSX2-luwIn9RSb5OvkIGR/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5043710"
+          }
+        ],
+        "added_date": "2026-07-29T00:48:42.086306"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1940,

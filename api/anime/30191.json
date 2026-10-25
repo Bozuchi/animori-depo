@@ -5,7 +5,70 @@
     "bolum_durumu": "1/1",
     "ozet": "Durarara!!x2 Shou serisinin özel bölümüdür.",
     "slug": "durarara-x2-shou-watashi-no-kokoro-wa-nabe-moyou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou Special",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667951"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4762158"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-tl1vgbzvokwu.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-xvtk95tz38cj.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uNAHJC_VUXYJa839Iz8ZXEQiVZyKIj0m/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/549"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852993"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3948030"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4444866"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/sbxgldtw"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-x4ugjp73utln.html"
+          }
+        ],
+        "added_date": "2026-07-24T23:46:48.944980"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30191,

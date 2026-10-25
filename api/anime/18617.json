@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Girls und Panzer animesine ait sinema filmidir.",
     "slug": "girls-und-panzer-der-film",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Girls und Panzer der Film",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QrDcUeyemWBiuKIBYnTlGyGEYnM9XXFI/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hlqfclak"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/y484141n"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3ztq9ruwazmd.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:55:50.010901"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 18617,

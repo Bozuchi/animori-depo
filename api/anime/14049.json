@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Mashiro-iro Symphony: The Color of Lovers Animesinin Special Bölümüdür.",
     "slug": "mashiro-iro-symphony-airi-ga-anata-no-kanojo-ni",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mashiroiro Symphony: The Color of Lovers Special 1",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1NtAmnVQHRU268_oRYwZ5odqLCDm6Me80/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985845855"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4065140"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-phx52lne7ray.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-t9tiayy3t5ol.html"
+          }
+        ],
+        "added_date": "2026-07-27T11:17:37.684986"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 14049,

@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Fumiko sonunda hoşlandığı çocuğa açılır. Ama beyzbola odaklanmak isteyen çocuk, Fumiko’nun teklifini reddeder. Bunun üstüne koşarak uzaklaşan Fumiko, gittikçe daha da hızlanacaktır.",
     "slug": "fumiko-no-kokuhaku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fumiko no Kokuhaku",
+        "videos": [
+          {
+            "fansub_id": 24,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/y5qj04sb1uza"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1EllIwuU7Kp0zI8-xKO250DzL5a81nWfm/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852030"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359654385"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4066635"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4441665"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-epod4yvaahlt.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-yabn85wcpl4q.html"
+          }
+        ],
+        "added_date": "2026-07-25T21:56:28.839234"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8187,

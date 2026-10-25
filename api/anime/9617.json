@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Hafif müzik kulübünün üyelerinden olan Mio, Tsumugi, Tainaka, Yui mezuniyet eğlencesi olarak başka bir ülkeye gezi amaçlı gitmeye karar veriler. Kısa süreli bir tartışmadan sonra gidecekleri yerin Londra olacağı belirlenir. Gitmeden önce tabiki yanlarına Azusa' yıda takmayı başarırlar. Hep beraber yeni yerler keşfedecek, yeni şarkılar söyleyecek ve çok eğlenceli zaman geçireceklerdir.",
     "slug": "k-on-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "K-ON! Movie",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ndzoPt_ioG-_IoOd80FdT7aOmWyXnnh_/preview"
+          },
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359657413"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/sq22jfcn"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/l0nt2651"
+          },
+          {
+            "fansub_id": 2,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-yfaaq9g7cbjv.html"
+          }
+        ],
+        "added_date": "2026-07-26T22:23:33.602611"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9617,

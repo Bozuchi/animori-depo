@@ -5,7 +5,75 @@
     "bolum_durumu": "1/1",
     "ozet": "Date A Live II serisinin OVA bölümüdür.",
     "slug": "date-a-live-ii-kurumi-star-festival",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Date a Live II Encore OVA",
+        "videos": [
+          {
+            "fansub_id": 101,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461599453"
+          },
+          {
+            "fansub_id": 101,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4331427"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-n8qmpu7308ma.html"
+          },
+          {
+            "fansub_id": 101,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-b9npaoapjay8.html"
+          },
+          {
+            "fansub_id": 57,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3640544"
+          },
+          {
+            "fansub_id": 57,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3il1mx69bshe.html"
+          },
+          {
+            "fansub_id": 57,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/37zykm9a"
+          },
+          {
+            "fansub_id": 51,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1n5TgLhPOHtCEQSvVY8fqh3fPj68Jv_4H/preview"
+          },
+          {
+            "fansub_id": 51,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/5081244996078666680"
+          },
+          {
+            "fansub_id": 51,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4634021"
+          },
+          {
+            "fansub_id": 51,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3c0ob3fl"
+          },
+          {
+            "fansub_id": 51,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-jezse50qec1i.html"
+          }
+        ],
+        "added_date": "2026-07-24T10:20:32.488520"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 22961,

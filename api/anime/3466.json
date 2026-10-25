@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Kino no Tabi serisinin 0. bölümüdür.",
     "slug": "kino-no-tabi-the-beautiful-world-tou-no-kuni-free-lance",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kino no Tabi 00 - Tou no Kuni",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682371821"
+          },
+          {
+            "fansub_id": 47,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/vq8f3d0kia7x"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-b3tqtydugomo.html"
+          }
+        ],
+        "added_date": "2026-07-27T03:57:53.925071"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3466,

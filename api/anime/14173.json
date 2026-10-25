@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Manganın 4. cildiyle beraber gelen OVA bölümdür.",
     "slug": "upotte-miatte-waratte",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Upotte!! OVA: Miatte Waratte",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xbQpNze2w6pwjZcEhBWfTUTPAmOSQeaw/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qaJcM6oldyMBEmLipcfTotpA0PZFu82S/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911360"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911361"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-vvcs0l9srh6l.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-n6h4dxjry054.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5ub2rjpu"
+          }
+        ],
+        "added_date": "2026-07-29T19:37:45.124510"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 14173,

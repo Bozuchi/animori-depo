@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Yoji ve Kei, üvey annesi Anna ile birlikte çok da uzak olmayan gelecekte, bir kasabada yaşıyorlardır. Ama görünürde normal olan çocukların bile annesinden sakladıkları bir sır vardır.\nYoji ve Kei şehrin süper kahramanlarıdır! Pelerinleri ve yardımcıları robot ayı Oscar'la, kendi yaptıkları el yapımı yüksek teknoloji ürünü makineyle, şehirdeki vatandaşlarını koruyorlardır. Peki ya tehlike nedir? Bu küçük kahramanların şehrin huzurlu günlerini tehlikeye atan krizi aşmaları mümkün olacak mı?",
     "slug": "fastening-days",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fastening Days",
+        "videos": [
+          {
+            "fansub_id": 223,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VXgKiXvZMxFIZQeXSKO_I0fJsxUCwF4w/preview"
+          },
+          {
+            "fansub_id": 223,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019326"
+          },
+          {
+            "fansub_id": 223,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/6782.html"
+          },
+          {
+            "fansub_id": 223,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1745406"
+          },
+          {
+            "fansub_id": 223,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mrfnd8nqdnoz.html"
+          }
+        ],
+        "added_date": "2026-07-25T01:15:18.106465"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 28205,

@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Bandai Namco Games'in role playing oyunu (rol yapma oyunu) Tales of Zestiria'nın TV anime özel bölümü.",
     "slug": "tales-of-zestiria-doushi-no-yoake",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tales of Zestiria: Doushi no Yoake",
+        "videos": [
+          {
+            "fansub_id": 119,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TMgBjwXEcdgA394tI3GKLvCTiIBsB1pX/preview"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1979769"
+          },
+          {
+            "fansub_id": 119,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-39bdg1vegwf6.html"
+          },
+          {
+            "fansub_id": 119,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/4ek9rqfu"
+          },
+          {
+            "fansub_id": 119,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bpygmg5dlqdk.html"
+          }
+        ],
+        "added_date": "2026-07-29T15:02:36.722200"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 24459,

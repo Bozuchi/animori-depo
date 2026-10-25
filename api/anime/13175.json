@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Don-chan'ın sınıf arkadaşı, Don-chan'ı Yaragase tayfasının zorbalığına maruz kalırken gördüğünde son derece rahatsız olur. Bir sonraki hedef ben olurum korkusuyla müdahil olmak istemez ve görmezden gelir. Yaragase'nin zorbalığı arttıkça çocuğun suçluluk duygusu da artar. Kafasını kuma sokup görmezlikten gelmenin de en az zorbalık kadar kötü olduğunu öğrenen Don-chan'ın sınıf arkadaşı ne yapacak? Bu duruma bir dur diyebilecek mi?",
     "slug": "shiranpuri-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Shiranpuri Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GoAj69Uk3bNOlB4yRfZgV17RUk8ovN0D/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850666"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4110276"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4434646"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-agj38s2uj52z.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3paxjqx2"
+          }
+        ],
+        "added_date": "2026-07-29T09:52:01.950806"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13175,

@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikaye Resident Evil 4 oyunundan bir yıl sonra, 2005 sonbaharında geçiyor. Henüz açıklanamayan bir sebepten dolayı, Amerika Birleşik Devletleri'ndeki bir havaalanında zombiler ortaya çıkar. Zombilerin serbest kalması bir salgın tehlikesine yol açar.",
     "slug": "biohazard-degeneration",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Biohazard: Degeneration Movie",
+        "videos": [
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369549"
+          },
+          {
+            "fansub_id": 62,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/zyijl4lgm39g"
+          }
+        ],
+        "added_date": "2026-07-23T04:50:58.646642"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3446,

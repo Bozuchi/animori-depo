@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Denpa Onna to Seishun Otoko serisinin ova bölümüdür.",
     "slug": "denpa-onna-to-seishun-otoko-mayonaka-no-taiyou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou OVA",
+        "videos": [
+          {
+            "fansub_id": 96,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1D-EFntkSpmujwQZ2ylY9Iofm5bq9YqIH/preview"
+          },
+          {
+            "fansub_id": 96,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10eGc239aQiXJmBKdBIXkwneVIDIHmoWc/preview"
+          },
+          {
+            "fansub_id": 96,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3492453"
+          }
+        ],
+        "added_date": "2026-07-24T10:47:15.052607"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10638,

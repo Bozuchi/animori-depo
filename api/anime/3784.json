@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Evangelion Animesinin 2. Filmdir.",
     "slug": "evangelion-movie-2-ha",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Neon Genesis Evangelion : You Can [Not] Advance",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1caKkfuDUKLzubcFO2HC-Js7HT8JJCN4L/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fpx8aP69G5CMjMt7imILbzPlWaIFq0TR/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5038"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015927"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5sfc1bqx"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-eucnjw5mdh0w.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-cs2re2gv69c5.html"
+          }
+        ],
+        "added_date": "2026-07-25T00:29:48.087514"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3784,

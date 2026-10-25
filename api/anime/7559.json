@@ -5,7 +5,82 @@
     "bolum_durumu": "2/2",
     "ozet": "Fate/Stay Night serisinin düzenlenmiş hâlidir.",
     "slug": "fate-stay-night-tv-reproduction",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fate/Stay Night : TV Reproduction I",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1qhy7SO0Or6vTWBT6mVhHuVdwIna9Jjta/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271192055"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3409295"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-yrurhez7zp9x.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3xubc0nk"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/j9ul7tpo"
+          }
+        ],
+        "added_date": "2026-07-25T01:24:41.111375"
+      },
+      {
+        "episode_number": null,
+        "title": "Fate/Stay Night : TV Reproduction II",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1MYkCfjkYpNu29wAZY1k5oYK-X4zs5J8x/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271192056"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3409292"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-lwoyua8n892i.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ucbs1ugx"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/v5evqeud"
+          }
+        ],
+        "added_date": "2026-07-25T01:24:41.111375"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 7559,

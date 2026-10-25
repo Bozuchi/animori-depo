@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Fate/Grand Order: Zettai Majuu Sensen Babylonia serisinin 0. bölümüdür.",
     "slug": "fate-grand-order-zettai-majuu-sensen-babylonia-initium-iter",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter",
+        "videos": [
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1lwaa1dSu0_GIzwvbZ_u_4myL-7zve-Ch/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xMaIJcO_-EFScm01ayWfvSkdiTVaz5xM/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718783"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/axl6sizq"
+          },
+          {
+            "fansub_id": 22,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ilksxok1eupd.html"
+          }
+        ],
+        "added_date": "2026-07-25T01:20:19.430267"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40206,

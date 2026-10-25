@@ -5,7 +5,20 @@
     "bolum_durumu": "1/1",
     "ozet": "İyi niyet misyonu ile Amerika'ya seyahat eden Prenses Luna, bir simülasyonda, Saf enerjili bir yaşam formu olan ve yoluna çıkan her şeyi yok eden Genma'nın Dünya'ya yaklaştığını görür. Gezegeni kurtarmak için, bir zamanlar Genma ile savaşan Vega adında yabancı bir cyborg ile ortak olup, tüm psişikleri bir araya getirmelidir.",
     "slug": "genma-taisen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Genma Taisen Movie",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12FK-Z3F7nCVQ4K4HcxwUOhhLlaZQT_vt/preview"
+          }
+        ],
+        "added_date": "2026-07-25T22:54:25.723574"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1626,

@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Detective Conan animesinin 22. filmidir.",
     "slug": "detective-conan-movie-22-zero-the-enforcer",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Detective Conan Movie 22: Zero The Enforcer",
+        "videos": [
+          {
+            "fansub_id": 65,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_rZZRYejZn2HPoAcQZWB6kJ8Y7WdKAKV/preview"
+          },
+          {
+            "fansub_id": 65,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1abRR9kZBGjOlsPo442Xc7ocjk2bXY872/preview"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659937"
+          },
+          {
+            "fansub_id": 65,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388378359"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/x3ayjqn6"
+          },
+          {
+            "fansub_id": 65,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xsk7sbgb"
+          },
+          {
+            "fansub_id": 65,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ihsx266yml0i.html"
+          }
+        ],
+        "added_date": "2026-07-24T20:57:13.828485"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 35798,

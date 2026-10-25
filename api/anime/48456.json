@@ -5,7 +5,75 @@
     "bolum_durumu": "1/1",
     "ozet": "SK8 the Infinity animesinin 9,5. bölümüdür.",
     "slug": "sk-crazy-rock-jam",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "SK8 the Infinity 9,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 43,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1YtYBmyecDVjOMuU181qn3amyVjW0toc_/preview"
+          },
+          {
+            "fansub_id": 43,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6g1tcv81xltq.html"
+          },
+          {
+            "fansub_id": 41,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4261626"
+          },
+          {
+            "fansub_id": 41,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pi0fxbbl"
+          },
+          {
+            "fansub_id": 29,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-yud2wjawlf5s.html"
+          },
+          {
+            "fansub_id": 29,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/j9vuopr0"
+          },
+          {
+            "fansub_id": 31,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HtVmjlBnt0WXHMoHY0wamWnoaV_PvQpv/preview"
+          },
+          {
+            "fansub_id": 31,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4705999"
+          },
+          {
+            "fansub_id": 31,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/eu5rf3bo"
+          },
+          {
+            "fansub_id": 31,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-5mu60odr00sq.html"
+          },
+          {
+            "fansub_id": 19,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4261411"
+          },
+          {
+            "fansub_id": 19,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/sa4l1l5d"
+          }
+        ],
+        "added_date": "2026-07-29T10:50:51.292815"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 48456,

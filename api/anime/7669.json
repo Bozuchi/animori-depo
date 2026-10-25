@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Bungaku Shoujo'nun 1 bölümlük OVA Serisidir.",
     "slug": "bungaku-shoujo-kyou-no-oyatsu-hatsukoi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Bungaku Shoujo: Kyou no Oyatsu - Hatsukoi",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eGTokwN2bjnvEgK42c4zU2lx9yg85oYk/preview"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017480"
+          },
+          {
+            "fansub_id": 8,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2602347"
+          },
+          {
+            "fansub_id": 8,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-hhq5kd53u51m.html"
+          }
+        ],
+        "added_date": "2026-07-17T05:13:50.431489"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 7669,

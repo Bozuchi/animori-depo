@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Nobita, Tokyo’da yaşayan 10 yaşında biraz saf bir çocuktur. Bir gün Nobita’nın karşısına torununun torunu Sewashi ve türlü gizemli aletle insanlara yardım etmek için üretilmiş olan kahramanımız kedi robot Doraemon çıkagelir. Sewashi’nin ailesi ta Nobita’nın zamanından kalma bitmek tükenmek bilmeyen borçlar yüzünden çok zor zamanlar geçirmektedir. Sewashi, bu yüzden ailesinin talihsiz geleceğini şimdiden değiştirmek için yanında Nobita’ya göz kulak olacak kedi robot Doraemon’u getirmiştir. Sewashi işini sağlama alır: Bu görev için isteksiz olan Doraemon Nobita’yı mutlu edemezse bir daha asla 22. Yüzyıla geri dönemeyecektir! İşte Doraemon ve Nobita’nın hikayesi böyle başlar. Bakalım Doraemon bu eğlenceli ve zorlu görevi yerine getirebilecek mi? Yoksa 22. Yüzyıla hiç mi geri dönemeyecek?",
     "slug": "stand-by-me-doraemon",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Stand By Me Doraemon Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1kvPiStA4Pjrxn2kDIjRNGmAB05tuqgyq/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1b82gZOyboWbv4LH-29T15QLkekrpGc-J/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/1383"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4517387"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hwmqjdzt7dtc.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:20:21.220611"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40853,

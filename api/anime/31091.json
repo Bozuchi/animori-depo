@@ -705,6 +705,28 @@
           }
         ],
         "added_date": "2026-07-27T04:40:18.612953"
+      },
+      {
+        "episode_number": null,
+        "title": "Komori-san wa Kotowarenai! OVA 1",
+        "videos": [
+          {
+            "fansub_id": 25,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sFrletS0W4Ugwhp_Jx0oKhJr11RRM1EJ/preview"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018125"
+          },
+          {
+            "fansub_id": 25,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/tr_deniz_tr/_myvideo/64.html"
+          }
+        ],
+        "added_date": "2026-07-27T04:40:18.612953"
       }
     ]
   },

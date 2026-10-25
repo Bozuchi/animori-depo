@@ -5,7 +5,70 @@
     "bolum_durumu": "1/1",
     "ozet": "İkinci sezondan bir hafta önce yayınlanan Boku no Hero Academia'nın özet bölümüdür.",
     "slug": "boku-no-hero-academia-2nd-season-hero-note",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Boku no Hero Academia 2nd Season: Hero Note Special",
+        "videos": [
+          {
+            "fansub_id": 22,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/164MEdlkOjOzW3ktxn86Y3cHJq4aE_omI/preview"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359663188"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/bk/swagnemite/video/embed/_myvideo/400"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4611996"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2874819"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2874823"
+          },
+          {
+            "fansub_id": 22,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jh6lez5uq2ci.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/krob3ixy"
+          },
+          {
+            "fansub_id": 22,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-wd87f4y7zw71.html"
+          },
+          {
+            "fansub_id": 30,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7320964432559866171"
+          },
+          {
+            "fansub_id": 30,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/7luy47rp"
+          }
+        ],
+        "added_date": "2026-07-23T06:13:26.284439"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 35262,

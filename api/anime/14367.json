@@ -5,7 +5,35 @@
     "bolum_durumu": "1/13",
     "ozet": "Seriye ait 33'er saniyelik speciallerin tek bölüme toplanmış hâlidir.",
     "slug": "tenshi-na-konamaiki-specials",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tenshi na Konamaiki Specials",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TmAIzKaM3lN6Lsy5Z8bOsKQGk7cYpQE0/preview"
+          },
+          {
+            "fansub_id": 78,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/797"
+          },
+          {
+            "fansub_id": 78,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-1419o256oc0w.html"
+          },
+          {
+            "fansub_id": 78,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zz1gsm8xlrsq.html"
+          }
+        ],
+        "added_date": "2026-07-29T16:06:50.148436"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 14367,

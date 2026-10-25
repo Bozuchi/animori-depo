@@ -1234,6 +1234,33 @@
           }
         ],
         "added_date": "2026-07-30T18:50:42.003744"
+      },
+      {
+        "episode_number": null,
+        "title": "Yowamushi Pedal: New Generation 25. Final",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1sC5xkPqgpVkJIh9x4D6un1jUnz3N-xd7/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3891520"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2964033"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ha45fmeq932y.html"
+          }
+        ],
+        "added_date": "2026-07-30T18:50:42.003744"
       }
     ]
   },

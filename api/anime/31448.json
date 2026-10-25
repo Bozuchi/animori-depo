@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Blu-ray ve DVD ile birlikte gelen ekstra special bölüm.",
     "slug": "mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-saiseitte-nani",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! Special",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VAFvBWlFWQ5Ym-a8afMTPRvY6rHAdui5/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271191730"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/1"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3043630"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4526773"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-6eunfsyw2ed9.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:54:30.487735"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31448,

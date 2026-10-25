@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Steins Gate, özelleştirilmiş bir mikrodalga cihazıyla kendi geçmişlerine mesaj gönderebilen bir grup arkadaş hakkındadır. Pek çok farklı deney yapmaktadırlar. SERN isimli organizasyon ise kendi zaman yolculuğu araştırmalarını yapmaktadır. Karakterler bir yol bulup yakalanmamak zorundadır.\n\nSeriye ait filmdir.",
     "slug": "steins-gate-movie-fuka-ryouiki-no-deja-vu",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Steins;Gate : Fuka Ryouiki no Déjà vu",
+        "videos": [
+          {
+            "fansub_id": 20,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/3789.html"
+          },
+          {
+            "fansub_id": 20,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qh5zsztg6zhc.html"
+          },
+          {
+            "fansub_id": 101,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_9GkAuuhk_t-oObhZAvAZ4h9D0JoB7lt/preview"
+          },
+          {
+            "fansub_id": 101,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/3dvzuraj"
+          },
+          {
+            "fansub_id": 101,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2153akzlx53y.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/mugen38/36/747.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2720317"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wh9emk2d"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2gjpiodwqyww.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:07:05.987265"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 11577,

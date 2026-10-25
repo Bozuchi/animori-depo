@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Bean Bandit ve ortağı Rally Vincent, Chicago'da, özel bir takım kişileri ve çeşitli malları, Bean'in özel spor arabası \"Buff the Roadbuster\" ile taşıma işini yapan bir ekiptir. Büyük bir alışveriş merkezinde yapılan ustaca bir soygunun ardından hırsızları olay yerinden alarak kaçıran Bean, baştan planlandığı gibi soyguncuları çok kolay bir şekilde polisin elinden kaçırmıştır. İş sonunda hakkına düşeni alıp bir başka işe geri dönen Bean, ertesi sabah kucağında ufak bir kız ile kapıyı çalan bir adamın verdiği işi kabul eder, nitekim işin ucunda 2 milyon dolar vardır.",
     "slug": "riding-bean",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Riding Bean",
+        "videos": [
+          {
+            "fansub_id": 125,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1dhgIwBSTCfiquJIE-sV3NfDOC_VEa1-O/preview"
+          },
+          {
+            "fansub_id": 125,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Mm9-GfIioHWV5cExsfQl5HceNaa1O5BD/preview"
+          },
+          {
+            "fansub_id": 125,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/4616.html"
+          },
+          {
+            "fansub_id": 125,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931908200"
+          },
+          {
+            "fansub_id": 125,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525000"
+          },
+          {
+            "fansub_id": 125,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-u3jt02ie4mab.html"
+          },
+          {
+            "fansub_id": 125,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-r091a86jw261.html"
+          }
+        ],
+        "added_date": "2026-07-29T04:36:45.290609"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 917,

@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Garip bir düşman kuvveti Dünya'ya saldırmaya çalışır, bu sırada Eldoran dünyayı korumak için savaşır, ancak yenilir ve dev bir kılıca dönüşerek bir ilkokulun üzerine düşer. Bu okulun çocukları yeni dev robot Daiteioh'u kullanarak dünyayı düşmana karşı korumak için seçildiler.",
     "slug": "kanzen-shouri-daiteiou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kanzen Shouri Daiteiou OVA",
+        "videos": [
+          {
+            "fansub_id": 76,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BQvgyyIq40ogy2iALR7RVxV4Cx_mtldD/preview"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/1106"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ycb7sbpj2s0e.html"
+          },
+          {
+            "fansub_id": 76,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-znpaxuja49t4.html"
+          }
+        ],
+        "added_date": "2026-07-27T00:12:07.571568"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9221,

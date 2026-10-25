@@ -5,7 +5,20 @@
     "bolum_durumu": "1/1",
     "ozet": "Larva Adası: Kırmızı ve Sarı adlı iki larvanın tropikal bir adada yaşadığı komik ve heyecanlı maceraları anlatır. Larvalar, adada çeşitli yeni arkadaşlar edinir ve zorlu durumlarla karşılaşırlar. Film, larvaların bu eğlenceli ve bazen de tehlikeli durumlarla başa çıkma çabalarını merkezine alır.",
     "slug": "larva-island-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Larva Island Movie",
+        "videos": [
+          {
+            "fansub_id": 195,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/10LZEZEh92CmQTtJuhr-INtPgGXf5Fa5n/preview"
+          }
+        ],
+        "added_date": "2026-07-27T07:52:44.216556"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 51602,

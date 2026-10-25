@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "\"X\" dizisinin bu ön bölümünde, Kakyou adında güzel, ve genç bir rüya gözlemcisi, rüyalarında tanıştığı olağanüstü genç bir kadının yaşamını ve ölümünü hatırlar. Ayrıca, Dünya'nın kaderinin belirleneceği trajik bir geleceğin hayallerini de anlatmaktadır.",
     "slug": "x-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "X: An Omen OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1hSo8CiZzromYHpz649QR022EwxVrjzo4/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985848132"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4088033"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4492462"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1746056"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-90a3me7hxsvf.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-mko5h5xapuzl.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/0uooftpx"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-dszep5v9m442.html"
+          }
+        ],
+        "added_date": "2026-07-30T16:58:36.989514"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 595,

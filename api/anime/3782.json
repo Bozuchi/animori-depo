@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "7 fim olarak planlanan Kara no Kyoukai filmlerinin ikincisidir.",
     "slug": "kara-no-kyoukai-2-satsujin-kousatsu-zen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kara no Kyoukai 2: Satsujin Kousatsu (Part 1)",
+        "videos": [
+          {
+            "fansub_id": 2,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/6398386130026233964"
+          },
+          {
+            "fansub_id": 2,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/oj05hc75"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2667820"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3183126"
+          }
+        ],
+        "added_date": "2026-07-27T00:14:06.270036"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3782,

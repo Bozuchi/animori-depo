@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Tokyo Ghoul'un Pinto ovasıdır.",
     "slug": "tokyo-ghoul-pinto",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tokyo Ghoul: \"Pinto\" OVA",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16O2HjZTTc9EFmtzLnVDNiUXa6FI-hq2-/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ts9hook6qfh1.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7icael6rpfwm.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:10:20.960080"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31297,

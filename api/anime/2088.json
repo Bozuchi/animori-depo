@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Nora, uzay istasyonundaki bir otelde tatil yapmaktadır fakat yer çekimi bozulur ve tüm uzay tatil yerinin düzeni altüstü olur. Sorunu çözmek için Nora elinden geleni yapacaktır.",
     "slug": "nora",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Nora OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1DmeDqWEgtWTBk_6KCeWxcsj1MlGMzJ8B/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4834"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3636308"
+          }
+        ],
+        "added_date": "2026-07-27T16:51:01.390182"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2088,

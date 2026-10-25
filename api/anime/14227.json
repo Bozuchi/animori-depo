@@ -898,6 +898,43 @@
           }
         },
         "added_date": "2026-07-29T17:35:29.548958"
+      },
+      {
+        "episode_number": null,
+        "title": "Tonari no Kaibutsu-kun - Special",
+        "videos": [
+          {
+            "fansub_id": 97,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Hwi_6p3Ekd__z9lmEtpYe7cg2Nb4Tjwh/preview"
+          },
+          {
+            "fansub_id": 97,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846369"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4070468"
+          },
+          {
+            "fansub_id": 97,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dyfmj1929a6v.html"
+          },
+          {
+            "fansub_id": 97,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/8mydaq8l"
+          },
+          {
+            "fansub_id": 97,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9oug78uwi303.html"
+          }
+        ],
+        "added_date": "2026-07-29T17:35:29.548958"
       }
     ]
   },

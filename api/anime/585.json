@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Shizuku Tsukishima, okumayı çok seven bir ortaokul öğrencisidir. \nKütüphaneden aldığı her kitağta, içinden çıkan kartta aynı isim \nyamaktadır: \"Seiji Amasawa\".\n \nShizuku, bu kişi hakkında araştırdıkça kendisi ve hayatı hakkında da çok\n şey öğrenecektir, bu sırada verdiği kararlar hayatına yön verecek \nkararlardır.",
     "slug": "mimi-wo-sumaseba",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mimi wo Sumaseba",
+        "videos": [
+          {
+            "fansub_id": 193,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1_09uI-edaL6DYU8Oj8N0LPeCAhK5rcJI/preview"
+          },
+          {
+            "fansub_id": 193,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656853"
+          },
+          {
+            "fansub_id": 193,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271187296"
+          },
+          {
+            "fansub_id": 193,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/cnglxfxm"
+          },
+          {
+            "fansub_id": 193,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-imnz0x5tcb6q.html"
+          }
+        ],
+        "added_date": "2026-07-27T12:07:43.298942"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 585,

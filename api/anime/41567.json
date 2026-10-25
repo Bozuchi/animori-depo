@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Sınıfımız başka bir büyülü dünyanın kapısını aralar. Fakat bu dünyada robotlara karşı mücadele vereceklerinden haberleri yoktur.\n\nIsekai Quartet serisinin devam filmidir.",
     "slug": "isekai-quartet-movie-another-world",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Isekai Quartet Movie: Another World Film",
+        "videos": [
+          {
+            "fansub_id": 12,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Vqu9nqTPYHPHJAGvWd6DhiDjjFKUPxyW/preview"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461601791"
+          },
+          {
+            "fansub_id": 12,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-j37tzg7en5r6.html"
+          }
+        ],
+        "added_date": "2026-07-26T06:08:56.557764"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 41567,

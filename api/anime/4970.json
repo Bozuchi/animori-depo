@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Gecenin bir vakti Afro aniden Jinno tarafından saldırıya uğrar fakat kendini koruyabilecek durumda değildir. Jinno onu başında Sio isimli bir bayanın beklediği babasının mezarına sürükler. Sio, babasının kafatasını almasının yanı sıra Afronun elde ettiği 1 numaralı bandı da ele geçirmiştir. Ayrılmadan önce babasının kemiklerini geri almak istiyorsa 2 numaralı kafa bandını aramasını ve ele geçirmesini söyler. Böylece Afro babasının huzur içinde yatmasını sağlamak için bir kez daha şiddetin yoluna girer.",
     "slug": "afro-samurai-resurrection",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Afro Samurai : Resurrection",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847862"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/108.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1dvtkdkl"
+          },
+          {
+            "fansub_id": 62,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/6398386130026233968"
+          }
+        ],
+        "added_date": "2026-07-19T03:35:09.421394"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 4970,

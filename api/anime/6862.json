@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "K-On! serisine ait OVA bölümdür.",
     "slug": "k-on-live-house",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "K-ON! OVA",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359654372"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4066577"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ukza8g49jnwz.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ri9pumgj"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7424468136461599327"
+          },
+          {
+            "fansub_id": 101,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4286110"
+          },
+          {
+            "fansub_id": 101,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-cz2w5cpb8dm5.html"
+          }
+        ],
+        "added_date": "2026-07-26T22:23:36.903253"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6862,

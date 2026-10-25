@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "Lelouch'un \"Zero Ağıdı\" planından birkaç yıl sonrasını konu almaktadır.",
     "slug": "code-geass-fukkatsu-no-lelouch",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Code Geass: Fukkatsu no Lelouch Movie",
+        "videos": [
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/zs7fp9f1"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-7fsxa5gy5pfk.html"
+          }
+        ],
+        "added_date": "2026-07-23T16:17:56.766967"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 34437,

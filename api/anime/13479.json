@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Uchuu Kyoudai mangasının sınırlı sayıda basılan 17. sayısında çıkan DVD'deki OVA'dır. Biricik Apo'nun kısa maceralarını anlatır.",
     "slug": "uchuu-kyoudai-apo-s-dream",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Uchuu Kyoudai Apo's Dream (OVA)",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1WmvtJWB06VqFLb061NINoY50W3Ep_Jyb/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656202"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4438869"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-om0vozfkxhfq.html"
+          }
+        ],
+        "added_date": "2026-07-29T19:08:17.980352"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 13479,

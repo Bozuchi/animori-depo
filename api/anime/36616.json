@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Mob Psycho 100 Serisinin Ovasıdır.",
     "slug": "mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mob Psycho 100 Reigen: Shirarezaru Kiseki no Reinouryokusha",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15Jm16t_RekDT77oTCM270F9SaylfNEql/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374059168"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374059165"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1TwRbgYT297a3cNZp7Dep5ZYGdCEdRkFB/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1ceDj5-dFBDQUNElxiLlv_j6DzjlrS63W/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4490607"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/klymb15p"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hd14mltfas45.html"
+          }
+        ],
+        "added_date": "2026-07-27T12:35:29.024048"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 36616,

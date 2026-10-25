@@ -513,6 +513,43 @@
           }
         ],
         "added_date": "2026-07-29T06:38:56.052459"
+      },
+      {
+        "episode_number": null,
+        "title": "Sanrio Danshi 12 Final. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 7,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QMVRMapyfH9tDwqBrT2wqNJbT5ZZNZpE/preview"
+          },
+          {
+            "fansub_id": 7,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1CZpyWzzIhNO7ySL_aLMG7nUaoEzFqu4e/preview"
+          },
+          {
+            "fansub_id": 7,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659341"
+          },
+          {
+            "fansub_id": 7,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388378127"
+          },
+          {
+            "fansub_id": 7,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4457524"
+          },
+          {
+            "fansub_id": 7,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/w5fyc0pl"
+          }
+        ],
+        "added_date": "2026-07-29T06:38:56.052459"
       }
     ]
   },

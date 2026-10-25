@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka serisinin OVA bölümüdür.",
     "slug": "tsuujou-kougeki-ga-zentai-kougeki-de-ni-kai-kougeki-no-okaasan-wa-suki-desu-ka-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
+        "videos": [
+          {
+            "fansub_id": 16,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15OC3ME7fl-WFLPttsRKCOihFKFyzAc5l/preview"
+          },
+          {
+            "fansub_id": 16,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/gmail.com/kuroupload00/video/embed/_myvideo/16"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4232436"
+          },
+          {
+            "fansub_id": 16,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hfxa1iu8"
+          },
+          {
+            "fansub_id": 16,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-3qh3yruyoup4.html"
+          }
+        ],
+        "added_date": "2026-07-29T18:47:55.729210"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 40102,

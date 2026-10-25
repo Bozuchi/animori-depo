@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Filmde; birinci neslin en güçlü Pokémon’u Mewtwo'nun DNA’sının yaratılışından Giovanni’ye karşı isyana, klon ordusunun kurulmasından serinin baş kahramanı Ash Ketchum ile karşılaşmasına kadarki zaman çizelgesi anlatılıyor.",
     "slug": "pokemon-movie-22-mewtwo-no-gyakushuu-evolution",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Pokemon: Mewtwo no Gyakushuu Evolution Movie 22",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/18ETH1iCAeRczr3iOuTQhR_68iRKPsvwo/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/7263"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850421"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3861115"
+          }
+        ],
+        "added_date": "2026-07-29T02:27:06.477555"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37966,

@@ -970,6 +970,48 @@
           }
         ],
         "added_date": "2026-07-27T03:54:58.461102"
+      },
+      {
+        "episode_number": null,
+        "title": "La Corda D'Oro Second Passo",
+        "videos": [
+          {
+            "fansub_id": 4,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1iDiLcn-yUAm0xzuCddZVedpMaKdrs1yE/preview"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/yunusemresuser/_myvideo/224.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271189258"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4492646"
+          },
+          {
+            "fansub_id": 4,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-zhxjcakvb4cy.html"
+          },
+          {
+            "fansub_id": 4,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ksc8cy0r"
+          },
+          {
+            "fansub_id": 4,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-awpovmqeqawd.html"
+          }
+        ],
+        "added_date": "2026-07-27T03:54:58.461102"
       }
     ]
   },

@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "İki kardeş, havada duran motorlarıyla dolaşırken, aniden dev bir metal kale yollarına çıkar. Kısa bir savaşın ardından ikili, kaleyi ağır şekilde yaralamayı başarır. Geri çekilir ve kahraman çiftimizi bir çorak araziye atar. Fakat bu çorak arazide, kalenin bir dağın içine gizlendiğini gösteren göçebeler yaşıyordur. Göçebeler, ikilinin işi bitirmesi için yalvarır. Yerlilerden ikisi rehber olarak onlarla birlikte gider ve yol boyunca bir yerlerde mekanik savaşçı bir kadına dönüşebilen bir perinin yardımını alır.",
     "slug": "cool-cool-bye",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Cool Cool Bye OVA",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14YrHlAbpA-7lkdQE4xzcRlVPP2dW4t3w/preview"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=5049963"
+          }
+        ],
+        "added_date": "2026-07-23T16:27:22.864180"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9356,

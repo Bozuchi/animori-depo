@@ -5,7 +5,55 @@
     "bolum_durumu": "1/5",
     "ozet": "Fate/Stay Night animesinin üç bölümlük film uyarlamasının ikinci kısmıdır.",
     "slug": "fate-stay-night-movie-heaven-s-feel-ii-lost-butterfly",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+        "videos": [
+          {
+            "fansub_id": 45,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-2wutf6o3e5fo.html"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4832644"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3722340"
+          },
+          {
+            "fansub_id": 120,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/k97lu0xf"
+          },
+          {
+            "fansub_id": 120,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-c8cs2mtupo0w.html"
+          },
+          {
+            "fansub_id": 184,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QkdFNlFQXYKD4DKNpFBYDCjhEFXnS7z1/preview"
+          },
+          {
+            "fansub_id": 184,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1KVPKJDSHepGi9P8RL7dy-uJb8BhuwirP/preview"
+          },
+          {
+            "fansub_id": 184,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-td7qp3msqj3i.html"
+          }
+        ],
+        "added_date": "2026-07-25T01:24:31.293387"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33049,

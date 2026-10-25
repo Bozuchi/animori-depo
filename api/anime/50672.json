@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Sasaki to Miyano animesinin OVA bölümüdür",
     "slug": "sasaki-to-miyano-koi-ni-kizuku-mae-no-chotto-shita-hanashi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Sasaki to Miyano: Koi ni Kizuku Mae no Chotto Shita Hanashi. OVA",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-518CVpeW9IveqEDbhxKQvSv-Udmxrt0/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359670746"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4960294"
+          },
+          {
+            "fansub_id": 52,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/astpf50fjzy6"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l9ccaz6oy6rn.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ok9b47d8ba4v.html"
+          }
+        ],
+        "added_date": "2026-07-29T06:45:06.890476"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 50672,

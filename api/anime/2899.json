@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Higurashi no naku Koro ni Serisinin 23 Dakikalık Special Bölümüdür.",
     "slug": "higurashi-no-naku-koro-ni-special-nekogoroshi-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Higurashi no Naku Koro ni : Nekogoroshi hen",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15uk1q3b_Qxx-kXwe2-q1cyj1XPZ4erns/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933019014"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1061624"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1716839"
+          },
+          {
+            "fansub_id": 62,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1835714"
+          }
+        ],
+        "added_date": "2026-07-26T03:32:12.345791"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2899,

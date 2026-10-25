@@ -2253,6 +2253,43 @@
           }
         ],
         "added_date": "2026-07-20T06:09:37.239620"
+      },
+      {
+        "episode_number": null,
+        "title": "Akatsuki no Yona OVA Bonus",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QGpyzjLXKY5S0Pwf9uxMBOJhKDHtM7NX/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9216453574685363990"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3134367"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-c7dxeqfcjgfj.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jvfe14h6"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/1cdtcm4v"
+          }
+        ],
+        "added_date": "2026-07-20T06:09:37.239620"
       }
     ]
   },

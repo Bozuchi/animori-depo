@@ -705,6 +705,58 @@
           }
         },
         "added_date": "2026-07-27T15:50:24.249473"
+      },
+      {
+        "episode_number": null,
+        "title": "Net-juu no Susume OVA",
+        "videos": [
+          {
+            "fansub_id": 36,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15ZvAlx_ggluvqCbYuEkbIElxWp47rnNU/preview"
+          },
+          {
+            "fansub_id": 36,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1X7Zz-oZSN_FSwKqExhHugf8uMmq7FflT/preview"
+          },
+          {
+            "fansub_id": 36,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/susumeorigami/video/embed/_myvideo/5"
+          },
+          {
+            "fansub_id": 36,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271190078"
+          },
+          {
+            "fansub_id": 36,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4493583"
+          },
+          {
+            "fansub_id": 36,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jv0y2fwm"
+          },
+          {
+            "fansub_id": 36,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fmgucmca0y59.html"
+          },
+          {
+            "fansub_id": 39,
+            "player": "MAIL",
+            "url": "https://my.mail.ru//gmail.com/kuroupload00/video/embed/_myvideo/818"
+          },
+          {
+            "fansub_id": 39,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4391496"
+          }
+        ],
+        "added_date": "2026-07-27T15:50:24.249473"
       }
     ]
   },

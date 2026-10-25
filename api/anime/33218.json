@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikâye sahil şehrinde yaşayan liseli kız Nagisa Yukiai'ye odaklanır. Büyükannesinin hikâyesindeki kelimelerin içinde \"Kotodama\" (Kelime Ruhu) denilen ruhların yaşadığına inanır. Bir gün, yıllardır kullanılmayan mini FM istasyonunun içine girer. Anlık bir dürtü olarak, istasyonu kullanan bir DJ gibi davranmaya çalışır. Ama sesi tesadüfen yayınlanıp hiç beklemediği birine ulaşır.",
     "slug": "kimi-no-koe-wo-todoketai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kimi no Koe wo Todoketai",
+        "videos": [
+          {
+            "fansub_id": 105,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QcYAgr-094bvzF_EbyItQwZ4dh2q6_sg/preview"
+          },
+          {
+            "fansub_id": 105,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140719818"
+          },
+          {
+            "fansub_id": 105,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/2aqmjttw"
+          },
+          {
+            "fansub_id": 105,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-hsgzn8b8o8of.html"
+          }
+        ],
+        "added_date": "2026-07-27T03:28:31.828702"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33218,

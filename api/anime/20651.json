@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Bir kış yürüyüşü esnasında, Natsume, kaybettiği ve hatırlayamadığı bir şeyleri arayan bir kardam adam youkai ile karşılaşır. Ve neyi aradığını bilmemesine rağmen yardımcı olmaya karar verir.",
     "slug": "natsume-yuujinchou-itsuka-yuki-no-hi-ni",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni OVA",
+        "videos": [
+          {
+            "fansub_id": 24,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1weHKCHEmcJEvYxN_qzG21agXiq3Putxa/preview"
+          },
+          {
+            "fansub_id": 24,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359659195"
+          },
+          {
+            "fansub_id": 24,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3950077"
+          },
+          {
+            "fansub_id": 24,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4456849"
+          },
+          {
+            "fansub_id": 24,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-kbc5yjzjz6c9.html"
+          },
+          {
+            "fansub_id": 24,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ox5xd7sn"
+          }
+        ],
+        "added_date": "2026-07-27T15:28:20.949627"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 20651,

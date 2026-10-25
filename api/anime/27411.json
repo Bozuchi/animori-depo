@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "2027 yılında, nükleer olmayan 4. Dünya Savaşı'ndan sonraki senede, Newport Şehri'nde bir bomba patlamış ve patlamanın etkisiyle, gizemli 501 Organizasyonu'yla bağlantısı olma ihtimali olan büyük bir silah satıcısı ölmüştür. Halk Güvenliği memuru Aramaki Daisuke bu olayı incelemesi için, bütün vücudunu kaplayan bir siber protez kullanan ve müthiş bir hacker olan Kusanagi Motoko'yu tutmuştur.",
     "slug": "ghost-in-the-shell-2015",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ghost in the Shell - The New Movie (2015)",
+        "videos": [
+          {
+            "fansub_id": 8,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/hikigaya.fansub/_myvideo/144.html"
+          },
+          {
+            "fansub_id": 8,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-s2rfjio3gtdm.html"
+          },
+          {
+            "fansub_id": 10,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1S-7mz9N7lGCaINV2BPYm2fzSssIIB53l/preview"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933018811"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzle52/_myvideo/7.html"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/xaev1k8x"
+          }
+        ],
+        "added_date": "2026-07-25T23:08:06.622745"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 27411,

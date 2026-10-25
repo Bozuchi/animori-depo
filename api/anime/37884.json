@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Golden Kamuy animesinin OVA bölümüdür.",
     "slug": "golden-kamuy-ova",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Golden Kamuy OAD",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1I2BmCRjZw83Wky5BtR9U8ZvVKiYL7eVO/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4703968"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ryj2qnk833qz.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-sgjcfgxxlzjy.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:23:02.855817"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37884,

@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Kırmızı gözlü Pandy ve televizyon kafalı Retro geçmişlerini hatırlamamaktadırlar. Şehirde yiyecek ve giyecek bulmak için yarattıkları kargaşa sonucunda tutuklanırlar ve parçalanmış Ay yüzeyindeki Dead Leaves hapishanesine gönderilirler. İkili kısa bir süre sonra, unuttukları geçmişleri ve Dead Leaves ile bağlarına ilişkin gerçekleri aydınlatacak, adrenalin yüklü, tuhaf bir kaçışın mimarı olur.",
     "slug": "dead-leaves",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Dead Leaves",
+        "videos": [
+          {
+            "fansub_id": 47,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1SECclhyaYT9TnBGbizEvwq7iGQHMcwga/preview"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/samet.erturk04/_myvideo/566.html"
+          },
+          {
+            "fansub_id": 47,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377688"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4520224"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1937332"
+          },
+          {
+            "fansub_id": 47,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/dj8pfuq8"
+          },
+          {
+            "fansub_id": 47,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-9t04t1ti8r3j.html"
+          }
+        ],
+        "added_date": "2026-07-24T10:28:19.986007"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 974,

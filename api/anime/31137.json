@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Mahou Shoujo Lyrical Nanoha ViVid animesinin tekrarı.",
     "slug": "mahou-shoujo-lyrical-nanoha-vivid-special-program",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mahou Shoujo Lyrical Nanoha ViVid: Special Program",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1C9vm5DJlDEC-cavxwZAyZz8TciO0u4Rl/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140716594"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/925"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4468512"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4162750"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-up4wu8xi8vsc.html"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/yyvl0b1e"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jusvim9e"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kheuj53aionx.html"
+          }
+        ],
+        "added_date": "2026-07-27T09:42:46.808601"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31137,

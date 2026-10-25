@@ -5,7 +5,20 @@
     "bolum_durumu": "2/1+",
     "ozet": "Dizinin devamıdır.",
     "slug": "candy-candy-candy-no-natsu-yasumi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Candy Candy OVA - Yaz Tatili",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ysxoqmc3ip8w.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:36:22.030568"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2802,

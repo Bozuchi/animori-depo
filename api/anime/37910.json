@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Code:Realize - Sousei no Himegimi'nin OVA bölümüdür.",
     "slug": "code-realize-sousei-no-himegimi-set-a-thief-to-catch-a-thief",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Code:Realize - Sousei no Himegimi - Set a Thief to Catch a Thief OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359655061"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6133"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4067929"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3684297"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-z8vzenyc63s6.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l9njomlefgll.html"
+          }
+        ],
+        "added_date": "2026-07-23T16:23:19.092612"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37910,

@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Manganın animasyonlaştırılmamış Mad Wax chapteridir.",
     "slug": "prison-school-mad-wax",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kangoku Gakuen OVA",
+        "videos": [
+          {
+            "fansub_id": 10,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/15TaGtYzZXaXbrNoA9MxUqRW7rJjQNhsf/preview"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985847085"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/puzzle.sub/_myvideo/8.html"
+          },
+          {
+            "fansub_id": 10,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4073732"
+          },
+          {
+            "fansub_id": 10,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-l364yxixjmx6.html"
+          }
+        ],
+        "added_date": "2026-07-29T03:00:58.469374"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32485,

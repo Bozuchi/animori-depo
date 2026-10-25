@@ -5,7 +5,65 @@
     "bolum_durumu": "1/1",
     "ozet": "Luffy ve Tayfası beyzbolda Arlong'un tayfasıyla kapışır. Beyzbol oyunu Bon Clay ve Buggy tarafından sunulur.",
     "slug": "one-piece-mezase-kaizoku-yakyuu-ou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece: Mezase! Kaizoku Yakyuu Ou",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/149bfRfFLx6pw2izCsa62cImDPA9_86_Q/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374058912"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/pg00gh18"
+          },
+          {
+            "fansub_id": 92,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ccxiiqsf"
+          },
+          {
+            "fansub_id": 118,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1tBRdeXJ-bQ3fprxyVVLP-WNQu9rtv0wu/preview"
+          },
+          {
+            "fansub_id": 118,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271187890"
+          },
+          {
+            "fansub_id": 118,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4461217"
+          },
+          {
+            "fansub_id": 118,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/jucsqs27"
+          },
+          {
+            "fansub_id": 118,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/o8cyx7vt"
+          },
+          {
+            "fansub_id": 118,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/oj0z80vy"
+          }
+        ],
+        "added_date": "2026-07-27T20:58:25.875889"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2490,

@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Anizawa Meito ateşli bir mağaza müdürüdür. O tüm kalbiyle anime ürünlerini seven biridir. Rakip dükkanın saldırısına uğrayan eski mağaza müdürünün ölürkenki son arzusunu devralır (Hala yaşıyor gerçi.) ve yeni açılan özel anime ürünleri mağazası Animate'in mağaza müdürü olur. Kızıl mağaza müdürü şapkası onun sembolüdür.",
     "slug": "anime-tenchou",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Anime Tenchou",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1O9I8KVojCw6LBOqbCFkmlogICHAtIM1r/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366537"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5771.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1534072"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4525721"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-uz7e24g6ceca.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/zhwsmc1g"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-fy2z4g3uqz2c.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-af7k56t7x7b0.html"
+          }
+        ],
+        "added_date": "2026-07-21T21:46:01.766037"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 3080,

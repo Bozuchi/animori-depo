@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Tsubasa Chronicle serisine ait filmdir.",
     "slug": "tsubasa-chronicle-tori-kago-no-kuni-no-himegimi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tsubasa Chronicle Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1gTXQ6xSJ6gbKV7XoTL3duTtjzVp8FjLj/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015160"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/714.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2640583"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-y504fyt9u0iz.html"
+          }
+        ],
+        "added_date": "2026-07-29T18:29:56.144586"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 807,

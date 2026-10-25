@@ -5,7 +5,75 @@
     "bolum_durumu": "1/1",
     "ozet": "Free! Eternal Summer serisinin özel bölümüdür.",
     "slug": "free-eternal-summer-kindan-no-all-hard",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Free! Eternal Summer: Kindan no All Hard! Special",
+        "videos": [
+          {
+            "fansub_id": 52,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1iLy9KZ5wj13uIEgKWpkLbQBLoqUFi0Ba/preview"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852907"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3794156"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4444513"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-3ce994hzgah2.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6ia0z1luyohl.html"
+          },
+          {
+            "fansub_id": 52,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/oza8iben"
+          },
+          {
+            "fansub_id": 52,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-duva7cxls6v7.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667931"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/omer.akkaya18/_myvideo/37.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-q35m1435bnh0.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-jxw1puegrswg.html"
+          }
+        ],
+        "added_date": "2026-07-25T01:43:47.736330"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 26213,

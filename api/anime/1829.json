@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Seyahat halindeki bir gemi zorlu denizde yol almaktadır. Geminin kaptanı havayı gözlemlemek ve gerektiğinde müdahale etmekten sorumlu büyücüsünden denizi sakinleştirmesini ister ama büyücü, tüm denemelerine rağmen denizin ve rüzgarın gerçek ismini hatırlayamaz. Bu sırada, kara bulutların ardından iki siyah ejderha çıkar. Batının sonunda yaşayan ejderhaların insanların yaşadığı doğu okyanus sahillerinde görünmesi ve birbiri ile beslenmeye çalışması düşünülebilir bir şey değildir. Dünyanın dengesi bozulmaktadır.\n\nOlayları gözlemleyen büyük büyücü Ged, dünyada meydana gelen şeytani düzensizliğin kaynağını bulmak üzere yola çıkar.",
     "slug": "gedo-senki",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ged Senki : Tales from Earthsea",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1bIPcOLBWucvi07owNme04N6xJQLeCRUW/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656466"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271191446"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4447822"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/6wcrotsu"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/wgb1kfdg"
+          }
+        ],
+        "added_date": "2026-07-25T22:47:23.724078"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1829,

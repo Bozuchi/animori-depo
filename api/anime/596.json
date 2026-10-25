@@ -5,7 +5,60 @@
     "bolum_durumu": "1/1",
     "ozet": "Hideki Motosuwa dairesinden ayrılıp yanlışlıkla cüzdanını unutunca, Chii, Sumomo ve Kotoko'yu evde yalnız bırakarak cüzdanı alır ve peşinden gider. Sumomo'nun Chii'nin külodunu unuttuğunu fark etmesi uzun sürmez. Bu ikili Chii'ye külodunu geri verme amacıyla bir maceraya atılır.",
     "slug": "chobits-chibits",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Chobits OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1FcoTvJezgcaFJYXx_PS-PSauRyv57o2O/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140719387"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121055"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4485773"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1766757"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gtwphuhx6z36.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-qa8xr9tfru53.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/csqfl7rx"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-f9k7cjg69fgp.html"
+          }
+        ],
+        "added_date": "2026-07-23T15:39:48.765876"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 596,

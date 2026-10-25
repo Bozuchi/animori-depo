@@ -5,7 +5,55 @@
     "bolum_durumu": "1/4",
     "ozet": "Beatless animesine ait özet bölümler.",
     "slug": "beatless-intermission",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Beatless 5.5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-uuMWmCJrWBXaMNcm-KqJROSu-62BMcR/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7706652796388377662"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/puzzle.vatican/video/embed/_myvideo/391"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4491705"
+          },
+          {
+            "fansub_id": 26,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-adel19wqkcu2.html"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/dzwmsumj"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/hrv17mxk"
+          },
+          {
+            "fansub_id": 26,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qrqtxlqcoh6z.html"
+          }
+        ],
+        "added_date": "2026-07-23T04:31:54.355407"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37277,

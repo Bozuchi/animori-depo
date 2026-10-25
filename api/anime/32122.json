@@ -5,7 +5,25 @@
     "bolum_durumu": "1/1",
     "ozet": "-Güncellenecek-",
     "slug": "gintama-umai-mono-wa-atomawashi-ni-suru-to-yokodorisareru-kara-yappari-saki-ni-kue",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Gintama Jump Festa 2015 Özel Bölüm",
+        "videos": [
+          {
+            "fansub_id": 26,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1PbbVsM_sjEOiD9XO0lWmEgQcAhPMutGX/preview"
+          },
+          {
+            "fansub_id": 26,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1987740"
+          }
+        ],
+        "added_date": "2026-07-25T23:53:02.202653"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 32122,

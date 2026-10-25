@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "\"Shiro\" ailesini çok seven bir kara kedidir. Onları o kadar çok sevmektedir ki, bir ihtiyaçları veya sıkıntıları olduğu zamanlarda onlara yardım etmek istiyor. Ancak sadece bir kedi olan Shiro için bunu yapmak çok zor oluyor. Bu yüzden bir gece; aydan, kendisinin de ailesine yardım edebilecek bir hale gelmesini diliyor ve ertesi gün bir insana dönüşüyor!",
     "slug": "neko-neko-fantasia",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Neko Neko Fantasia OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1aXC5EtAJZDyUlN8RZWvrxnopn0ql29aV/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359667720"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4717996"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-yk5r0a9ukjg5.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-ktbp0oczveog.html"
+          }
+        ],
+        "added_date": "2026-07-27T15:39:55.506184"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 8496,

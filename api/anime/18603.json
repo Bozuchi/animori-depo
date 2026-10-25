@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Günümüz Tokyo'sunda yaşayan eski moda samurai ailesinin genç oğlunun önemli bir randevuya çıkmasını konu alan bir komedi.",
     "slug": "kennosuke-sama",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kennosuke-sama",
+        "videos": [
+          {
+            "fansub_id": 115,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1rLA7Fe6I4p1ku_ZphCe8NX6AjdIK7AcG/preview"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/mertkara90/video/embed/_myvideo/177"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933013962"
+          },
+          {
+            "fansub_id": 115,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-p9jyaz909y8e.html"
+          }
+        ],
+        "added_date": "2026-07-27T02:47:07.450831"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 18603,

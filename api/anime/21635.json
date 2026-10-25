@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "GJ-bu serisine ait Special bölümdür.",
     "slug": "gj-bu-special",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "GJ-bu Special",
+        "videos": [
+          {
+            "fansub_id": 57,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12sU6UTXT1HxdLbygIfwjneBaA-tymPqe/preview"
+          },
+          {
+            "fansub_id": 57,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/17C--nfRqtXC0Ag00pgcfKdBszWJEbQBF/preview"
+          },
+          {
+            "fansub_id": 57,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12Hjb9y4MThqN4VLnZCrdecRo2DJBVHVi/preview"
+          },
+          {
+            "fansub_id": 57,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016746"
+          },
+          {
+            "fansub_id": 57,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4523128"
+          },
+          {
+            "fansub_id": 57,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-55g5dbmypwft.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:59:57.617469"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 21635,

@@ -5,7 +5,30 @@
     "bolum_durumu": "1/5",
     "ozet": "1943 senesi, Naziler Urda adında gizli bir tasarı yürütüyor. İki ajan Janet ve Erna da bu tasarının ne olduğunu ortaya çıkarıp durdurmaya çalışıyor.",
     "slug": "urda",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Urda",
+        "videos": [
+          {
+            "fansub_id": 21,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359656255"
+          },
+          {
+            "fansub_id": 21,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4439063"
+          },
+          {
+            "fansub_id": 21,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-gbem079b0yrb.html"
+          }
+        ],
+        "added_date": "2026-07-29T19:43:48.624767"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1102,

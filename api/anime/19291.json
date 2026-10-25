@@ -4009,6 +4009,43 @@
           }
         },
         "added_date": "2026-07-29T02:30:30.976755"
+      },
+      {
+        "episode_number": null,
+        "title": "Pokemon XY 1-2. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/19AfGIes1EZGDxAgbXZsFjPcuSkFdHrX9/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1r5GOSrDMk-J7hHPI1LcgdDM5X3QBzIQa/preview"
+          },
+          {
+            "fansub_id": 5,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931910405"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4524160"
+          },
+          {
+            "fansub_id": 5,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1570379"
+          },
+          {
+            "fansub_id": 5,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-61wl9egic7nf.html"
+          }
+        ],
+        "added_date": "2026-07-29T02:30:30.976755"
       }
     ]
   },

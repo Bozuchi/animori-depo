@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Joe Carol Brain güce, zekaya, atletik bir yapıya ve yeteneğe sahip süper insanlar konusunda Dr. Black Jack’le çalışmak ister ama daha sonra bu süper insanların bir süre sonra bozulmaya başladığını ve zamansız bir şekilde öldüklerini öğrenir. Joe’nun Dr. Black Jack’e tedavi bulmak için ihtiyacı vardır.",
     "slug": "black-jack-the-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Black Jack the Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1-2y88VRW8DfmsxiGol_tuVf2ZW-nr5mO/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931910585"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4533109"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-dip7xh5sc1pz.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-jwv51u4e6mlv.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-r0svm76vyw8g.html"
+          }
+        ],
+        "added_date": "2026-07-23T05:15:58.812660"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1521,

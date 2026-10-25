@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Olayların merkezinde tek bir karakter (ve onun iki farklı kimliği) duruyor : 17 yaşındaki, sıradan bir kolejli gençten farksız biri... Yui Ominae... Fakat onu gerçekten tanıyanlar (veya tanıdıklarına pişman olanlar) Spriggan kod adıyla girdiği gizli operasyonlarda onunla karşı karşıya kalanlardır.",
     "slug": "spriggan",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Spriggan",
+        "videos": [
+          {
+            "fansub_id": 77,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359652069"
+          },
+          {
+            "fansub_id": 77,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3976729"
+          },
+          {
+            "fansub_id": 77,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-bf4iky66zok4.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1q9isxQncHqhegOjdAtFR_by3XUFrPdY1/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-13itldd7sq6o.html"
+          }
+        ],
+        "added_date": "2026-07-29T12:11:04.575058"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 420,

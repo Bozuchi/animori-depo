@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Genç yaşta geçirdiği bir hastalık sonucu Nitaroh, görme yetisini kaybeder. Bir zamanlar annesinin kullandığı Shamisen gitarını miras alır ve kendisi gibi görme yetisini yitirmiş Shamisen çalan bir gezginden de işin temellerini öğrenir. Böylece Nitaroh, eski ve yeni arkadaşlarıyla birlikte kaderinin belirleneceği yolda bir geziye çıkar.",
     "slug": "nitaboh",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Nitaboh",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/16GhvvQHk851eCzXx8R50FL9CLEFxLcPQ/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985851775"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/4714"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4440348"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3629243"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-w6pb6y4i8umh.html"
+          }
+        ],
+        "added_date": "2026-07-27T16:23:19.507272"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1203,

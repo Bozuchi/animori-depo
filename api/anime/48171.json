@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Yerel bir şehir efsanesi olan \"Yaz Hayaleti\"nin gerçekten var olup olmadığını merak eden üç genci konu alıyor.",
     "slug": "summer-ghost",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Summer Ghost Movie",
+        "videos": [
+          {
+            "fansub_id": 188,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/130l5Yelw9BDGa1Uqk_WxTMtOhRMDlf0p/preview"
+          },
+          {
+            "fansub_id": 188,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8320106634588196449"
+          },
+          {
+            "fansub_id": 188,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/9r3afrhi"
+          },
+          {
+            "fansub_id": 188,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-shsxw3cax2v6.html"
+          },
+          {
+            "fansub_id": 77,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Y9GnGOZCczs6CDoEwqRTBForIuCPeITV/preview"
+          },
+          {
+            "fansub_id": 77,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682369195"
+          },
+          {
+            "fansub_id": 77,
+            "player": "BYS",
+            "url": "https://bysesukior.com/e/waw8mxoo3xk1"
+          },
+          {
+            "fansub_id": 77,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-q8zp9bmrcdtn.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:28:47.287687"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 48171,

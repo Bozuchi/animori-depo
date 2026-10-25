@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "İlk Film olan Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai' de Yu ve Natsukinin kardeşlerinin hikayesini anlatmaktadır.",
     "slug": "suki-ni-naru-sono-shunkan-wo-kokuhaku-jikkou-iinkai",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai",
+        "videos": [
+          {
+            "fansub_id": 36,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/puzzle.renai/video/embed/_myvideo/115"
+          },
+          {
+            "fansub_id": 36,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366387"
+          },
+          {
+            "fansub_id": 36,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/tqho7hay"
+          },
+          {
+            "fansub_id": 36,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qmfinib03riy.html"
+          }
+        ],
+        "added_date": "2026-07-29T13:27:58.663742"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33036,

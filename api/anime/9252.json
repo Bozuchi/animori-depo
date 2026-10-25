@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Break Blade animesinin 3. filmidir.",
     "slug": "break-blade-3-kyoujin-no-ato",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Break Blade 3: Kyoujin no Ato Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1GBcWyUL4Ys6TEX6lThgnlgRaArGwXD23/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/gmail.com/keshinn62/_myvideo/16.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=2585711"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4114448"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4517721"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1140805"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-31xuk3onzvyg.html"
+          }
+        ],
+        "added_date": "2026-07-23T07:01:18.982416"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 9252,

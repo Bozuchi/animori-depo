@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Ünlü hırsız Lupin III ile onun kadar ünlü dedektif Conan’ı “efsanevi bir karşılaşmada” bir araya getireceği açıklanan özel bir bölümdür.",
     "slug": "lupin-iii-vs-detective-conan-the-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Lupin III vs. Detective Conan: The Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1gdpzxg6eZVxMVRCBANhFtB_mTKKIYZbb/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1HVOAaWlhvdrUSLAcucjFr1QrNbrINi9B/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xFaEyjducRZ7XflaJ0sAxqW43RMxJ-kB/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7893414565877121547"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-kkugjy377fmp.html"
+          }
+        ],
+        "added_date": "2026-07-27T08:52:50.390163"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 18429,

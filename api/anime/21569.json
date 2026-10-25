@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Pokemon film serisinin on yedinci filmidir.",
     "slug": "pokemon-movie-17-hakai-no-mayu-to-diancie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Pokemon Movie 17 - Diancie and the Cocoon of Destruction",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1QfJ7WyqefLdMuFnxjhZD2tjjO-XhMBA7/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1K2vxY9iMz1W9UUKlPO2o0SbuoMqlM1sL/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911176"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/2444636457931911177"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/mutlu.meric/_myvideo/1023.html"
+          }
+        ],
+        "added_date": "2026-07-29T02:26:56.407213"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 21569,

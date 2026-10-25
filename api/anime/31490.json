@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Hasır Şapka Tayfasının, dünyanın en zengin adamlarından biri olan Gild Tesoro ile karşılaşmasını konu alır.",
     "slug": "one-piece-film-gold",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "One Piece Film: Gold",
+        "videos": [
+          {
+            "fansub_id": 92,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1BHd6E_kr6cmjZ4EkKx_BUUp0db4AqY4D/preview"
+          },
+          {
+            "fansub_id": 92,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/8275262434374059000"
+          },
+          {
+            "fansub_id": 118,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1LZmqPYJsTzIbACtdhHTC62IGwnpEQ_d9/preview"
+          }
+        ],
+        "added_date": "2026-07-27T20:54:37.881257"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 31490,

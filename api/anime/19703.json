@@ -509,6 +509,43 @@
           }
         ],
         "added_date": "2026-07-27T07:45:20.085069"
+      },
+      {
+        "episode_number": null,
+        "title": "Kyousougiga TV 5,5. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 192,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1jICNxTAbhVi0xkJ7iVZNmQUvFZrHxGTH/preview"
+          },
+          {
+            "fansub_id": 192,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985852705"
+          },
+          {
+            "fansub_id": 192,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9173325596158068057"
+          },
+          {
+            "fansub_id": 192,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/1898/3564.html"
+          },
+          {
+            "fansub_id": 192,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4443964"
+          },
+          {
+            "fansub_id": 192,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ugqbg9w8lhqd.html"
+          }
+        ],
+        "added_date": "2026-07-27T07:45:20.085069"
       }
     ]
   },

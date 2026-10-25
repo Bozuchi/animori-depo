@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Yolculukları sırasında efsanevi ölüler şehri olan Azec Sistra'nın hazinesi peşinde olan tehlikeli hazine avcılarından geri kalanlara rastlarlar. Su bulmak umuduyla girdikleri şehrin Azec Sistra olduğunu farkederler. Ne yazık ki, vahşetten sorumlu hazine avcıları da şehrin yolunu bulmuştur. Ama onlardan daha endişe verici olan orada kalan ruhları rahatsız edenleri cezalandıran Azec Sistra'nın lanetidir.",
     "slug": "kaze-no-tairiku",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kaze no Tairiku",
+        "videos": [
+          {
+            "fansub_id": 235,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1StrQMk0TUc4H3YnFlwVcLZ83x5r7vvRB/preview"
+          },
+          {
+            "fansub_id": 235,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017810"
+          },
+          {
+            "fansub_id": 235,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1638130"
+          },
+          {
+            "fansub_id": 235,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-4kbkiup26oxn.html"
+          }
+        ],
+        "added_date": "2026-07-27T01:53:01.884847"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1777,

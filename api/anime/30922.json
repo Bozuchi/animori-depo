@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Bu hikaye şehirden köye taşınan küçük bir kızın yaşadıklarını anlatıyor. \nKısacık olan bu hikayede; çocukların korkuları, nezaketi ve sevgisi tasvir ediliyor.",
     "slug": "kaze-no-matasaburou-movie",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Kaze no Matasaburou Movie",
+        "videos": [
+          {
+            "fansub_id": 66,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1yCDd-EUuDBGWWL9dMph_y35-YHLltfTT/preview"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/9165530183271195390"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359665108"
+          },
+          {
+            "fansub_id": 66,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4620796"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-2dlydz4mqbj3.html"
+          },
+          {
+            "fansub_id": 66,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-wpu33bm460pd.html"
+          },
+          {
+            "fansub_id": 66,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/dxlzp21n"
+          },
+          {
+            "fansub_id": 66,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-f3kib9irc123.html"
+          }
+        ],
+        "added_date": "2026-07-27T01:50:12.191120"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 30922,

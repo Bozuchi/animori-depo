@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Gochuumon wa Usagi desu ka?? serisinin filmidir.",
     "slug": "gochuumon-wa-usagi-desu-ka-dear-my-sister",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Gochuumon wa Usagi desu ka??: Dear My Sister",
+        "videos": [
+          {
+            "fansub_id": 182,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IW0BN5tSqfdcVYseek1aYDjx8A3ItdYX/preview"
+          },
+          {
+            "fansub_id": 182,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1OiTg3LRIdxVeQ3uqHeVmkwtKBNlMYlau/preview"
+          },
+          {
+            "fansub_id": 182,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/descless/video/embed/_myvideo/120"
+          },
+          {
+            "fansub_id": 182,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3341764"
+          },
+          {
+            "fansub_id": 182,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-d3asb97ygmiu.html"
+          },
+          {
+            "fansub_id": 153,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1i7SclFYRbkdF_7f8h6BkD7xqGZ54gd_P/preview"
+          },
+          {
+            "fansub_id": 153,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3341738"
+          },
+          {
+            "fansub_id": 153,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-n43jfd52pa8z.html"
+          }
+        ],
+        "added_date": "2026-07-26T00:11:14.077275"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33280,

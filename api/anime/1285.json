@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Uzak gelecekte insanlık, evrendeki diğer gezegenleri kolonileştirdi. Pek çok gezegen barış içinde yaşarken, Jerra gezegeni onlarca yıllık savaşla harap oldu. Geist bir M.D.S. (Most Dangerous Soldier), eşsiz savaş yeteneklerine ve doyumsuz bir savaş arzusuna sahip gelişmiş bir insan. Kontrol edilemeyen doğası nedeniyle Geist kriyojenik olarak donmuş ve bir uyduya kilitlenmiştir. Birkaç yıl sonra uydu çöker ve Geist başka bir savaşa girmek için uykusundan uyanır. Bu sefer ordunun, gezegenin merkezi bilgisayarının, Jerra'daki tüm yaşamın tamamen yok olmasına yol açacak bir kıyamet günü cihazını etkinleştirmesini durdurmasına yardımcı olmak için.",
     "slug": "soukihei-md-geist",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Soukihei MD Geist",
+        "videos": [
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1AeHYQB7wrAF8CGLJJ2HkKuN9xHypnHav/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/14x6wtsDwdYSV2ddzpqc3wS8su4jIr71w/preview"
+          },
+          {
+            "fansub_id": 113,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985850743"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4223473"
+          },
+          {
+            "fansub_id": 113,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4434823"
+          }
+        ],
+        "added_date": "2026-07-29T11:33:34.762998"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 1285,

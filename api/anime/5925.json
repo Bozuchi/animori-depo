@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Tatil sezonunda, genç bir adam sokakta yaşlı bir adama ait olan sarhoş bir kedi ile karşılaşır. Yaşlı adamın şarkı söylemeleri için eğittiği üç kedisi vardır.",
     "slug": "neko-hiki-no-oruorane",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Neko Hiki no Oruorane OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Hg_h4001jwLH6S1A3eC5RSr90KhZ86Ad/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933014360"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/5127"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3667458"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-6ch9kk3ja3nr.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-oq1rrnk821b4.html"
+          }
+        ],
+        "added_date": "2026-07-27T15:39:53.018848"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 5925,

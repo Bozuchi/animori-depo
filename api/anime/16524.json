@@ -490,6 +490,43 @@
           }
         ],
         "added_date": "2026-07-29T13:25:58.730420"
+      },
+      {
+        "episode_number": null,
+        "title": "Suisei no Gargantia OVA 1. Bölüm",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1uzKfy6qtyalVhDKe54fTGH9Z4OkuvzS3/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846581"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016808"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4071305"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-54nme2p8hyos.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/vrr2eec7"
+          }
+        ],
+        "added_date": "2026-07-29T13:25:58.730420"
       }
     ]
   },

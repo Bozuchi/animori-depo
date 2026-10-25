@@ -5,7 +5,40 @@
     "bolum_durumu": "1/1",
     "ozet": "Final Fantasy VII’nin sonundan iki sene sonra, Dünya toparlanmaya ve \nyeni bir gelecek için çalışmaya başlamıştır. Ancak Geostigma isimli bir \nhastalık ve Jenova’yı arayan üç adamın ile birlikte yeni tehditler \nortaya çıkar. Cloud ve arkadaşları bir kez daha bu tehditi yok etmek \niçin bir araya gelirler.",
     "slug": "final-fantasy-vii-advent-children",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Final Fantasy VII: Advent Children",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1Dli-r3qkGjEjCtpKRMRYGbSfUz3Owxg4/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359654335"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7671770326140718348"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4065297"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/yilj1rvn"
+          }
+        ],
+        "added_date": "2026-07-25T01:34:09.430164"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 317,

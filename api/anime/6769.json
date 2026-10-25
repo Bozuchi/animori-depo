@@ -5,7 +5,50 @@
     "bolum_durumu": "1/1",
     "ozet": "Eiko Hirai'nin bir şarkısı eşliğinde geleneksel Japon hasat festivalinin gösterildiği, birkaç dakikalık siyah beyaz bir animedir.",
     "slug": "mura-matsuri",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mura Matsuri",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1IINzkZlhl7EhYdd4HVtkut4F77-BQi94/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933017617"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/ok/574154374292/video/embed/_myvideo/1742"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/5682.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1525241"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-ply6ge2edfhq.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-qa6448kbn0p0.html"
+          }
+        ],
+        "added_date": "2026-07-27T13:37:25.446100"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 6769,

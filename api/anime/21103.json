@@ -5,7 +5,45 @@
     "bolum_durumu": "1/1",
     "ozet": "Utopia, True Tears x Hanasaku Iroha x Tari Tari Joint Festival Live için üç serideki seiyuu'yuları içeren özel olarak oluşturulmuş bir şarkıdır. Etkinliğin Blu-ray sürümünde yer alan bu şarkının bir video hâlidir.",
     "slug": "utopia",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Hanasaku Iroha x True Tears x Tari : Utopia ♫",
+        "videos": [
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7384122149985846041"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682367149"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1453117"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4067365"
+          },
+          {
+            "fansub_id": 46,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-g5d14j3uoa21.html"
+          },
+          {
+            "fansub_id": 46,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/qszo7lty"
+          }
+        ],
+        "added_date": "2026-07-29T22:10:35.821614"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 21103,

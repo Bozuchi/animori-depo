@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Liseye giden bir kız öğrencinin ilk iş başvurusunu yapmadan önce tüm kariyer ve hayatının gözlerinin önünden geçtiği kısa animasyon filmi.",
     "slug": "my-life",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "My Life Movie",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1xlQ7274n8Y-DYfhnZEsXqXGe6GY2su1A/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1H2HwMNzietR_lCLdwpftBnaecfwOo-P5/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359666974"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366245"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4643259"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-348bd9bjvv5z.html"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/5icfc44w"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-oxlypioxqopf.html"
+          }
+        ],
+        "added_date": "2026-07-27T14:00:52.750193"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16690,

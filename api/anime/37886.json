@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Wo Shi Jiang Xiaobai animesinin OVA bölümüdür.",
     "slug": "wo-shi-jiang-xiaobai-2018",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Wo Shi Jiang Xiaobai (2018) OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1k9eySBa-9oX13fzq4M4yV2nuaTzmXVi0/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/1585"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SENDVID",
+            "url": "https://sendvid.com/embed/ojbcrskh"
+          }
+        ],
+        "added_date": "2026-07-30T16:24:49.593296"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 37886,

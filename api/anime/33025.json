@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Ginga Kikoutai Majestic Prince animesinin devamıdır.",
     "slug": "ginga-kikoutai-majestic-prince-movie-kakusei-no-idenshi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
+        "videos": [
+          {
+            "fansub_id": 78,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7571497515682366634"
+          },
+          {
+            "fansub_id": 78,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rkwh7666o80v.html"
+          },
+          {
+            "fansub_id": 78,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-x5nz4gbv2ddg.html"
+          }
+        ],
+        "added_date": "2026-07-25T23:31:52.764290"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 33025,

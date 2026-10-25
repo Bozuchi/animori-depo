@@ -5,7 +5,35 @@
     "bolum_durumu": "1/1",
     "ozet": "Mirai Nikki animesinin OVA bölümüdür.",
     "slug": "mirai-nikki-redial",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Mirai Nikki OVA",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1eGsC1dnzU6rVntMqG3gZzdkRjDAq9Uz8/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933015696"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1150604"
+          },
+          {
+            "fansub_id": 3,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-rlo6zpslzlzn.html"
+          }
+        ],
+        "added_date": "2026-07-27T12:15:12.420075"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 16762,

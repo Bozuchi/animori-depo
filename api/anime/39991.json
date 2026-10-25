@@ -5,7 +5,55 @@
     "bolum_durumu": "1/1",
     "ozet": "Promare filminden bir gün önce geçen olayları Galo perspektifinden anlatan özel bölüm.",
     "slug": "promare-galo-hen",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Promare: Galo-hen ONA",
+        "videos": [
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/12e_SCn9XgyIOWTEeNL9uO4RIpLfOdMxE/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1fcuB9coFIlhpg5QB_M8t_mmmNDVR_N2S/preview"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/3095424634359665290"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4621296"
+          },
+          {
+            "fansub_id": 68,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3862967"
+          },
+          {
+            "fansub_id": 68,
+            "player": "MP4UPLOAD",
+            "url": "https://www.mp4upload.com/embed-0wtuaxndhwlb.html"
+          },
+          {
+            "fansub_id": 68,
+            "player": "UQLOAD",
+            "url": "https://uqload.com/embed-n6hntjmeh6sb.html"
+          },
+          {
+            "fansub_id": 22,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=4047564"
+          }
+        ],
+        "added_date": "2026-07-29T03:03:50.349238"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 39991,

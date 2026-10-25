@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Bu kısa film japonya’da yapılan yeni animatörler yetiştirme projesinde bir bölümlük bir special’dır. Ojii-san no Lamp ile aynı projede yapılmıştır.",
     "slug": "tansu-warashi",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Tansu Warashi.",
+        "videos": [
+          {
+            "fansub_id": 3,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1vKeP3DPOHST59NObhWZLAMZtflO_L3Nm/preview"
+          },
+          {
+            "fansub_id": 3,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/video/embed/7370103204933016549"
+          },
+          {
+            "fansub_id": 3,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=1083438"
+          }
+        ],
+        "added_date": "2026-07-29T15:09:29.969842"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 10502,

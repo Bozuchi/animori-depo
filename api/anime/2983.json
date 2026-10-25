@@ -5,7 +5,30 @@
     "bolum_durumu": "1/1",
     "ozet": "Hikaye, iç içe girmiş gizemli bir geçmiş yaşamı paylaşan iki lise öğrencisi Akemi ve Yumiko etrafında dönüyor. Akemi okulda zorbalığa uğramıştır ama intikam almak için başarıyla bir iblis çağırma programı yaratır fakat bu programla beraber kaos ortaya çıkar. \nOVA, Aya Nishitani'nin Digital Tensei Story: Megami Tensei novelinin ilkini konu olarak almaktadır",
     "slug": "digital-devil-story-megami-tensei",
-    "episodes": []
+    "episodes": [
+      {
+        "episode_number": null,
+        "title": "Digital Devil Story: Megami Tensei OVA",
+        "videos": [
+          {
+            "fansub_id": 196,
+            "player": "GDRIVE",
+            "url": "https://drive.google.com/file/d/1VmlS0Yv9npIOBKcpPz2KhVN9Ot7daEB1/preview"
+          },
+          {
+            "fansub_id": 196,
+            "player": "MAIL",
+            "url": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6817"
+          },
+          {
+            "fansub_id": 196,
+            "player": "SIBNET",
+            "url": "https://video.sibnet.ru/shell.php?videoid=3771577"
+          }
+        ],
+        "added_date": "2026-07-24T21:42:38.652072"
+      }
+    ]
   },
   "jikan": {
     "mal_id": 2983,
