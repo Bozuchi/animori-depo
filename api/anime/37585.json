@@ -128,5 +128,12 @@
     "id": 101374,
     "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101374-NW4lmxmD8LPu.jpg",
     "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101374-CYMgGKFCyyH3.jpg"
+  },
+  "tmdb": {
+    "id": 99466,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0,
+    "name": "Yarichin Bitch Club"
   }
 }
