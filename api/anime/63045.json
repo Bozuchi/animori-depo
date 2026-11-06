@@ -1,0 +1,65 @@
+{
+  "turkanime": {
+    "isim": "Demons' Crest",
+    "slug": "demons-crest",
+    "episodes": []
+  },
+  "jikan": {
+    "mal_id": 63045,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1551/158889.jpg",
+    "trailer_id": "z_aHrTag3Ig",
+    "title": "Demons' Crest",
+    "title_english": "Devils' Crest",
+    "type": "ONA",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "episodes": null,
+    "year": 2026,
+    "season": "fall",
+    "airing": true,
+    "aired": {
+      "from": "2026-11-06T00:00:00+00:00",
+      "to": null
+    },
+    "duration": "Unknown",
+    "rating": "None",
+    "score": null,
+    "popularity": 8770,
+    "synopsis": "Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic, a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she's since undergone a terrible metamorphosis—into one of the game's horrifying monsters!(Source: Yen Press)",
+    "genres": [
+      1,
+      2,
+      10
+    ],
+    "themes": [
+      76,
+      82
+    ],
+    "demographics": [],
+    "studios": [
+      10
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entries": [
+          163717
+        ]
+      }
+    ],
+    "episode_list": []
+  },
+  "anilist": {
+    "id": 203275,
+    "banner_image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-g8zkD7HCkJCn.jpg",
+    "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg"
+  },
+  "tmdb": {
+    "id": 328010,
+    "type": "tv",
+    "season": 1,
+    "episode_offset": 0,
+    "name": "Devils' Crest"
+  },
+  "synopsis_tr": "Altıncı sınıf öğrencisi Yuuma Ashihara ve ikiz kız kardeşi Sawa, yepyeni bir sanal gerçeklik MMORPG'si olan Actual Magic'i oynuyorlar ve aniden gerçek dünyayla kaynaşmaya başlıyorlar. Tüm bu kaos ve kafa karışıklığının ortasında, Yuuma'nın sınıf arkadaşı Sumika ile karşılaşması da dahil olmak üzere ölümün her köşede gizlendiği ortaya çıkar. Önceleri sınıfının en tatlı kızlarından biriydi ama o zamandan beri korkunç bir dönüşüm geçirdi; oyunun korkunç canavarlarından birine dönüştü!(Kaynak: Yen Press)"
+}
